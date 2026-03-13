@@ -1,0 +1,317 @@
+module("notebook_amusement_park", package.seeall)
+data = {
+  [101] = {
+    num = 3,
+    title = "花园迷宫",
+    desc = "Maze Garden",
+    type = 1,
+    img = "back_3rd_gamebook_pic3",
+    game_id = 6,
+    game_dec1 = "迷宫路线设计比想象中稍难一点。但只要把握住方向，顺藤摸瓜，就一定能走出去！",
+    fullpast_award = "21034,331,1:21035,331,1",
+    img_dec = "btn_3rd_gamebook_ticket03"
+  },
+  [102] = {
+    num = 2,
+    title = "缤纷气球",
+    desc = "Colorful Ballon",
+    type = 1,
+    img = "back_3rd_gamebook_pic4",
+    game_id = 5,
+    game_dec1 = "传统而经典的打气球游戏，不管玩多少次，都充满了乐趣！",
+    fullpast_award = "21038,331,1:21039,331,1",
+    img_dec = "btn_3rd_gamebook_ticket04"
+  },
+  [103] = {
+    num = 4,
+    title = "玩偶之家",
+    desc = "Dollhouse",
+    type = 1,
+    img = "back_3rd_gamebook_pic1",
+    game_id = 4,
+    game_dec1 = "好久没玩拼图游戏了！虽然看起来很简单，但想要拿到高分也不是那么容易呢！",
+    fullpast_award = "21036,331,1:21037,331,1",
+    img_dec = "btn_3rd_gamebook_ticket01"
+  },
+  [104] = {
+    num = 1,
+    title = "鬼屋探秘",
+    desc = "Ghost Mansion",
+    type = 1,
+    img = "back_3rd_gamebook_pic2",
+    game_id = 3,
+    game_dec1 = "虽然有些紧张，但最后还是成功从密室逃脱！为勇敢而机智的自己鼓鼓掌~",
+    fullpast_award = "21032,331,1:21033,331,1",
+    img_dec = "btn_3rd_gamebook_ticket02"
+  },
+  [211] = {
+    num = 1,
+    title = "朝夕与共",
+    type = 2,
+    male_id = 1,
+    story_id = "807411:807412:807413",
+    story_type = 1,
+    img_dec = "btn_3rd_storybook_stamp1",
+    extra_unlock_consume = "0,41,200;0,41,200;0,41,200"
+  },
+  [212] = {
+    num = 2,
+    title = "恋爱嘉年华",
+    type = 2,
+    male_id = 1,
+    story_id = "807414:807611:807612:807613:807614:807615",
+    story_type = 1,
+    img_dec = "btn_3rd_storybook_stamp2",
+    node_default_unlock_condition = "119324,101,480:119324,101,920:119324,101,1280:119324,101,1640:119324,101,1880:119324,101,2120",
+    extra_unlock_consume = "0,41,200;0,41,200;0,41,300;0,41,300;0,41,350;0,41,350"
+  },
+  [213] = {
+    num = 3,
+    title = "烟火之邀",
+    type = 2,
+    male_id = 1,
+    story_id = "807711",
+    story_type = 4,
+    img_dec = "btn_3rd_storybook_stamp3",
+    question_tag = "156403:156404:156405;156303:156304;156203:156204:156205",
+    question_dec = "之前一起去过几次游乐园，最喜欢哪个项目？;想想你天天嚷嚷的“完美的一天”具体是什么样？;这几个颜色里，最喜欢哪个？",
+    answer_dec = "比起哪个项目，喷泉广场印象更深!:花车巡游！好想再参加一次！:请再来一次有急速下坠的项目。;你多笑一点。:和你黏在一起。;青色:粉色:红色",
+    extra_unlock_consume = "119195,101,15"
+  },
+  [214] = {
+    num = 4,
+    title = "言语之外",
+    type = 2,
+    male_id = 1,
+    story_id = "807511:807512",
+    story_type = 2,
+    img_dec = "btn_3rd_storybook_stamp4",
+    extra_unlock_consume = "119195,101,10"
+  },
+  [215] = {
+    num = 5,
+    title = "幕后之谈",
+    type = 2,
+    male_id = 1,
+    story_id = "1000",
+    story_type = 3,
+    img_dec = "btn_3rd_storybook_stamp5",
+    extra_unlock_consume = "119195,101,10"
+  },
+  [221] = {
+    num = 1,
+    title = "朝夕与共",
+    type = 2,
+    male_id = 2,
+    story_id = "807421:807422:807423",
+    story_type = 1,
+    img_dec = "btn_3rd_storybook_stamp1",
+    extra_unlock_consume = "0,41,200;0,41,200;0,41,200"
+  },
+  [222] = {
+    num = 2,
+    title = "恋爱嘉年华",
+    type = 2,
+    male_id = 2,
+    story_id = "807424:807621:807622:807623:807624:807625",
+    story_type = 1,
+    img_dec = "btn_3rd_storybook_stamp2",
+    node_default_unlock_condition = "119325,101,480:119325,101,920:119325,101,1280:119325,101,1640:119325,101,1880:119325,101,2120",
+    extra_unlock_consume = "0,41,200;0,41,200;0,41,300;0,41,300;0,41,350;0,41,350"
+  },
+  [223] = {
+    num = 3,
+    title = "烟火之邀",
+    type = 2,
+    male_id = 2,
+    story_id = "807721",
+    story_type = 4,
+    img_dec = "btn_3rd_storybook_stamp3",
+    question_tag = "254803:254804:254805;254703:254704;254603:254604:254605",
+    question_dec = "还记得之前一起去游乐园吗？可以让我知道，你觉得印象最深的是什么地方吗？;虽然有点儿突然，不过在你“完美的一天”中，最想拥有什么呢？;我有个小小的问题。这些颜色里，你更喜欢哪一个？",
+    answer_dec = "因为许教授，我选礼品店。:当然是旋转茶杯~:喜欢梦幻的城堡。;给我一个惊喜吧。:想和你一起做回最天真的自己。;紫色:橘色:茶色",
+    extra_unlock_consume = "119195,101,15"
+  },
+  [224] = {
+    num = 4,
+    title = "言语之外",
+    type = 2,
+    male_id = 2,
+    story_id = "807521:807522",
+    story_type = 2,
+    img_dec = "btn_3rd_storybook_stamp4",
+    extra_unlock_consume = "119195,101,10"
+  },
+  [225] = {
+    num = 5,
+    title = "幕后之谈",
+    type = 2,
+    male_id = 2,
+    story_id = "2000",
+    story_type = 3,
+    img_dec = "btn_3rd_storybook_stamp5",
+    extra_unlock_consume = "119195,101,10"
+  },
+  [231] = {
+    num = 1,
+    title = "朝夕与共",
+    type = 2,
+    male_id = 3,
+    story_id = "807431:807432:807433",
+    story_type = 1,
+    img_dec = "btn_3rd_storybook_stamp1",
+    extra_unlock_consume = "0,41,200;0,41,200;0,41,200"
+  },
+  [232] = {
+    num = 2,
+    title = "恋爱嘉年华",
+    type = 2,
+    male_id = 3,
+    story_id = "807434:807631:807632:807633:807634:807635",
+    story_type = 1,
+    img_dec = "btn_3rd_storybook_stamp2",
+    node_default_unlock_condition = "119326,101,480:119326,101,920:119326,101,1280:119326,101,1640:119326,101,1880:119326,101,2120",
+    extra_unlock_consume = "0,41,200;0,41,200;0,41,300;0,41,300;0,41,350;0,41,350"
+  },
+  [233] = {
+    num = 3,
+    title = "烟火之邀",
+    type = 2,
+    male_id = 3,
+    story_id = "807731",
+    story_type = 4,
+    img_dec = "btn_3rd_storybook_stamp3",
+    question_tag = "355503:355504:355505;355403:355404;355303:355304:355305",
+    question_dec = "不考虑其他任何外部原因，再去一次游乐园的话，$u最想好好体验什么项目呢？;在薯片小姐看来，“完美的一天”要具备什么要素呀？;对了，薯片小姐，要说的话，这几个颜色，你喜欢哪个？",
+    answer_dec = "过山车！我觉得这个项目超解压。:嘿嘿嘿，鬼屋必须拥有姓名。:甜品屋！游乐园里也有很多好吃的。;像是童话故事里一样浪漫的你。:最重要浪漫的时刻有人见证。;黄色:粉色:绿色",
+    extra_unlock_consume = "119195,101,15"
+  },
+  [234] = {
+    num = 4,
+    title = "言语之外",
+    type = 2,
+    male_id = 3,
+    story_id = "807531:807532",
+    story_type = 2,
+    img_dec = "btn_3rd_storybook_stamp4",
+    extra_unlock_consume = "119195,101,10"
+  },
+  [235] = {
+    num = 5,
+    title = "幕后之谈",
+    type = 2,
+    male_id = 3,
+    story_id = "3000",
+    story_type = 3,
+    img_dec = "btn_3rd_storybook_stamp5",
+    extra_unlock_consume = "119195,101,10"
+  },
+  [241] = {
+    num = 1,
+    title = "朝夕与共",
+    type = 2,
+    male_id = 4,
+    story_id = "807441:807442:807443",
+    story_type = 1,
+    img_dec = "btn_3rd_storybook_stamp1",
+    extra_unlock_consume = "0,41,200;0,41,200;0,41,200"
+  },
+  [242] = {
+    num = 2,
+    title = "恋爱嘉年华",
+    type = 2,
+    male_id = 4,
+    story_id = "807444:807641:807642:807643:807644:807645",
+    story_type = 1,
+    img_dec = "btn_3rd_storybook_stamp2",
+    node_default_unlock_condition = "119327,101,480:119327,101,920:119327,101,1280:119327,101,1640:119327,101,1880:119327,101,2120",
+    extra_unlock_consume = "0,41,200;0,41,200;0,41,300;0,41,300;0,41,350;0,41,350"
+  },
+  [243] = {
+    num = 3,
+    title = "烟火之邀",
+    type = 2,
+    male_id = 4,
+    story_id = "807741",
+    story_type = 4,
+    img_dec = "btn_3rd_storybook_stamp3",
+    question_tag = "457503:457504:457505;457403:457404;457303:457304:457305",
+    question_dec = "说到游乐园，你最喜欢什么项目？;可以告诉我，你认为的“完美的一天”会是什么样吗？;咳……这几个颜色里，有你有喜欢的吗？",
+    answer_dec = "还想再坐一次旋转木马。:上次一起体验的“漂游”，我很喜欢。:当然是摩天轮~;像电视剧一样，浪漫的一天。:嗯……想听你唱歌。;绿色:蓝色:茶色",
+    extra_unlock_consume = "119195,101,15"
+  },
+  [244] = {
+    num = 4,
+    title = "言语之外",
+    type = 2,
+    male_id = 4,
+    story_id = "807541:807542",
+    story_type = 2,
+    img_dec = "btn_3rd_storybook_stamp4",
+    extra_unlock_consume = "119195,101,10"
+  },
+  [245] = {
+    num = 5,
+    title = "幕后之谈",
+    type = 2,
+    male_id = 4,
+    story_id = "4000",
+    story_type = 3,
+    img_dec = "btn_3rd_storybook_stamp5",
+    extra_unlock_consume = "119195,101,10"
+  },
+  [281] = {
+    num = 1,
+    title = "朝夕与共",
+    type = 2,
+    male_id = 8,
+    story_id = "807481:807482:807483",
+    story_type = 1,
+    img_dec = "btn_3rd_storybook_stamp1",
+    extra_unlock_consume = "0,41,200;0,41,200;0,41,200"
+  },
+  [282] = {
+    num = 2,
+    title = "恋爱嘉年华",
+    type = 2,
+    male_id = 8,
+    story_id = "807484:807681:807682:807683:807684:807685",
+    story_type = 1,
+    img_dec = "btn_3rd_storybook_stamp2",
+    node_default_unlock_condition = "119328,101,480:119328,101,920:119328,101,1280:119328,101,1640:119328,101,1880:119328,101,2120",
+    extra_unlock_consume = "0,41,200;0,41,200;0,41,300;0,41,300;0,41,350;0,41,350"
+  },
+  [283] = {
+    num = 3,
+    title = "烟火之邀",
+    type = 2,
+    male_id = 8,
+    story_id = "807781",
+    story_type = 4,
+    img_dec = "btn_3rd_storybook_stamp3",
+    question_tag = "824903:824904:824905;824803:824804;824703:824704:824705",
+    question_dec = "硬要挑一个的话，游乐园的项目你有什么喜欢的？;“完美的一天”？说来听听。;看看，这几个颜色里，哪个最顺眼？别管干嘛。",
+    answer_dec = "刺激一点的，激流勇进。:4D影院之类的项目很有意思！:如果是和你一起的话，儿童区的小矿车！;你一整天都听我的。:收到最想要的礼物。;灰色:橘色:青色",
+    extra_unlock_consume = "119195,101,15"
+  },
+  [284] = {
+    num = 4,
+    title = "言语之外",
+    type = 2,
+    male_id = 8,
+    story_id = "807581:807582",
+    story_type = 2,
+    img_dec = "btn_3rd_storybook_stamp4",
+    extra_unlock_consume = "119195,101,10"
+  },
+  [285] = {
+    num = 5,
+    title = "幕后之谈",
+    type = 2,
+    male_id = 8,
+    story_id = "8000",
+    story_type = 3,
+    img_dec = "btn_3rd_storybook_stamp5",
+    extra_unlock_consume = "119195,101,10"
+  }
+}

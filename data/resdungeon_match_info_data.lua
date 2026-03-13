@@ -1,0 +1,27 @@
+module("resdungeon_match_info_data", package.seeall)
+data = {
+  [1] = {match_start = 9, match_end = 11},
+  [2] = {match_start = 12, match_end = 14},
+  [3] = {match_start = 16, match_end = 18},
+  [4] = {match_start = 19, match_end = 21},
+  [5] = {match_start = 22, match_end = 24},
+  [6] = {match_start = 26, match_end = 28},
+  [7] = {match_start = 29, match_end = 31},
+  [8] = {match_start = 32, match_end = 34},
+  [9] = {match_start = 36, match_end = 38},
+  [10] = {match_start = 39, match_end = 41},
+  [11] = {match_start = 42, match_end = 44},
+  [12] = {match_start = 46, match_end = 48},
+  [13] = {match_start = 49, match_end = 51},
+  [14] = {match_start = 52, match_end = 54},
+  [15] = {match_start = 56, match_end = 58},
+  [16] = {match_start = 63, match_end = 65},
+  [17] = {match_start = 67, match_end = 69},
+  [18] = {match_start = 71, match_end = 73},
+  [19] = {match_start = 84, match_end = 86},
+  [20] = {match_start = 94, match_end = 96},
+  [21] = {match_start = 99, match_end = 101},
+  [22] = {match_start = 104, match_end = 106},
+  [23] = {match_start = 109, match_end = 111},
+  [24] = {match_start = 114, match_end = 116}
+}
