@@ -9,6 +9,16 @@ data = {
     click_icon = "click_10000",
     click_effect = "TouchEffect_Default"
   },
+  [103] = {
+    click_name = "Mischief Party",
+    click_order = 8,
+    rare_level = 3,
+    click_male = 0,
+    click_icon = "click_103",
+    click_effect = "TouchEffect_103",
+    get_desc = "Evol Supply Ltd-time Hot Sale Pack",
+    unlock_time = "2025/10/28  05:00:00"
+  },
   [10001] = {
     click_name = "Meow",
     click_order = 2,
@@ -18,6 +28,26 @@ data = {
     click_effect = "TouchEffect_10001",
     get_desc = "Obtained from the [Time for Love] event.",
     unlock_time = "2025/1/8 5:00:00"
+  },
+  [10002] = {
+    click_name = "Cheers!",
+    click_order = 11,
+    rare_level = 3,
+    click_male = 1,
+    click_icon = "click_10002",
+    click_effect = "TouchEffect_10002",
+    get_desc = "Obtained from the [Corner of Happiness] event.",
+    unlock_time = "2026/1/8 5:00:00"
+  },
+  [20001] = {
+    click_name = "Adorable Cuteness",
+    click_order = 9,
+    rare_level = 3,
+    click_male = 2,
+    click_icon = "click_20001",
+    click_effect = "TouchEffect_20001",
+    get_desc = "Obtained from the [Golden Ratio] event.",
+    unlock_time = "2025/11/10  05:00:00"
   },
   [30001] = {
     click_name = "Honey",

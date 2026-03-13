@@ -6399,5 +6399,455 @@ data = {
     __TEMP_USE = "0.0",
     calendar_date = "2025/12/31 00:00:00",
     library_id = 54
+  },
+  [20260101] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/1 0:00:00",
+    library_id = 54
+  },
+  [20260102] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/2 0:00:00",
+    library_id = 54
+  },
+  [20260103] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/3 0:00:00",
+    library_id = 54
+  },
+  [20260104] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/4 0:00:00",
+    library_id = 120
+  },
+  [20260105] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/5 0:00:00",
+    library_id = 54
+  },
+  [20260106] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/6 0:00:00",
+    library_id = 54
+  },
+  [20260107] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/7 0:00:00",
+    library_id = 54
+  },
+  [20260108] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/8 0:00:00",
+    library_id = 54
+  },
+  [20260109] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/9 0:00:00",
+    library_id = 54
+  },
+  [20260110] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/10 0:00:00",
+    library_id = 54
+  },
+  [20260111] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/11 0:00:00",
+    library_id = 54
+  },
+  [20260112] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/12 0:00:00",
+    library_id = 54
+  },
+  [20260113] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/13 0:00:00",
+    library_id = 121
+  },
+  [20260114] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/14 0:00:00",
+    library_id = 54
+  },
+  [20260115] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/15 0:00:00",
+    library_id = 54
+  },
+  [20260116] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/16 0:00:00",
+    library_id = 54
+  },
+  [20260117] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/17 0:00:00",
+    library_id = 54
+  },
+  [20260118] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/18 0:00:00",
+    library_id = 54
+  },
+  [20260119] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/19 0:00:00",
+    library_id = 54
+  },
+  [20260120] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/20 0:00:00",
+    library_id = 54
+  },
+  [20260121] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/21 0:00:00",
+    library_id = 122
+  },
+  [20260122] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/22 0:00:00",
+    library_id = 54
+  },
+  [20260123] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/23 0:00:00",
+    library_id = 54
+  },
+  [20260124] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/24 0:00:00",
+    library_id = 54
+  },
+  [20260125] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/25 0:00:00",
+    library_id = 54
+  },
+  [20260126] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/26 0:00:00",
+    library_id = 54
+  },
+  [20260127] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/27 0:00:00",
+    library_id = 54
+  },
+  [20260128] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/28 0:00:00",
+    library_id = 54
+  },
+  [20260129] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/29 0:00:00",
+    library_id = 123
+  },
+  [20260130] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/30 0:00:00",
+    library_id = 54
+  },
+  [20260131] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/1/31 0:00:00",
+    library_id = 54
+  },
+  [20260201] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/1 0:00:00",
+    library_id = 54
+  },
+  [20260202] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/2 0:00:00",
+    library_id = 54
+  },
+  [20260203] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/3 0:00:00",
+    library_id = 54
+  },
+  [20260204] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/4 0:00:00",
+    library_id = 124
+  },
+  [20260205] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/5 0:00:00",
+    library_id = 54
+  },
+  [20260206] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/6 0:00:00",
+    library_id = 54
+  },
+  [20260207] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/7 0:00:00",
+    library_id = 54
+  },
+  [20260208] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/8 0:00:00",
+    library_id = 54
+  },
+  [20260209] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/9 0:00:00",
+    library_id = 54
+  },
+  [20260210] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/10 0:00:00",
+    library_id = 54
+  },
+  [20260211] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/11 0:00:00",
+    library_id = 125
+  },
+  [20260212] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/12 0:00:00",
+    library_id = 54
+  },
+  [20260213] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/13 0:00:00",
+    library_id = 54
+  },
+  [20260214] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/14 0:00:00",
+    library_id = 54
+  },
+  [20260215] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/15 0:00:00",
+    library_id = 54
+  },
+  [20260216] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/16 0:00:00",
+    library_id = 54
+  },
+  [20260217] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/17 0:00:00",
+    library_id = 54
+  },
+  [20260218] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/18 0:00:00",
+    library_id = 54
+  },
+  [20260219] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/19 0:00:00",
+    library_id = 126
+  },
+  [20260220] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/20 0:00:00",
+    library_id = 54
+  },
+  [20260221] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/21 0:00:00",
+    library_id = 54
+  },
+  [20260222] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/22 0:00:00",
+    library_id = 54
+  },
+  [20260223] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/23 0:00:00",
+    library_id = 54
+  },
+  [20260224] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/24 0:00:00",
+    library_id = 54
+  },
+  [20260225] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/25 0:00:00",
+    library_id = 127
+  },
+  [20260226] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/26 0:00:00",
+    library_id = 54
+  },
+  [20260227] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/27 0:00:00",
+    library_id = 54
+  },
+  [20260228] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/2/28 0:00:00",
+    library_id = 54
+  },
+  [20260301] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/1 0:00:00",
+    library_id = 54
+  },
+  [20260302] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/2 0:00:00",
+    library_id = 54
+  },
+  [20260303] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/3 0:00:00",
+    library_id = 54
+  },
+  [20260304] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/4 0:00:00",
+    library_id = 54
+  },
+  [20260305] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/5 0:00:00",
+    library_id = 128
+  },
+  [20260306] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/6 0:00:00",
+    library_id = 54
+  },
+  [20260307] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/7 0:00:00",
+    library_id = 54
+  },
+  [20260308] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/8 0:00:00",
+    library_id = 54
+  },
+  [20260309] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/9 0:00:00",
+    library_id = 54
+  },
+  [20260310] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/10 0:00:00",
+    library_id = 54
+  },
+  [20260311] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/11 0:00:00",
+    library_id = 54
+  },
+  [20260312] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/12 0:00:00",
+    library_id = 129
+  },
+  [20260313] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/13 0:00:00",
+    library_id = 54
+  },
+  [20260314] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/14 0:00:00",
+    library_id = 54
+  },
+  [20260315] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/15 0:00:00",
+    library_id = 54
+  },
+  [20260316] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/16 0:00:00",
+    library_id = 54
+  },
+  [20260317] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/17 0:00:00",
+    library_id = 54
+  },
+  [20260318] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/18 0:00:00",
+    library_id = 54
+  },
+  [20260319] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/19 0:00:00",
+    library_id = 130
+  },
+  [20260320] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/20 0:00:00",
+    library_id = 54
+  },
+  [20260321] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/21 0:00:00",
+    library_id = 54
+  },
+  [20260322] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/22 0:00:00",
+    library_id = 54
+  },
+  [20260323] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/23 0:00:00",
+    library_id = 54
+  },
+  [20260324] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/24 0:00:00",
+    library_id = 54
+  },
+  [20260325] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/25 0:00:00",
+    library_id = 54
+  },
+  [20260326] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/26 0:00:00",
+    library_id = 54
+  },
+  [20260327] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/27 0:00:00",
+    library_id = 131
+  },
+  [20260328] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/28 0:00:00",
+    library_id = 54
+  },
+  [20260329] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/29 0:00:00",
+    library_id = 54
+  },
+  [20260330] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/30 0:00:00",
+    library_id = 54
+  },
+  [20260331] = {
+    __TEMP_USE = "0.0",
+    calendar_date = "2026/3/31 0:00:00",
+    library_id = 54
   }
 }

@@ -4733,7 +4733,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "阳光透过纱帘照在木桌上，房间中央，从老店搬来的拉坯机还落着擦不净的泥点。",
+      sentence = "Sunlight poured through the hangings onto the wooden tables. In the middle of the room reposed the pottery lathe from the old studio. Stubborn clay stains still clung to it, refusing to come off.",
       next = {2}
     },
     [2] = {
@@ -4741,7 +4741,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "墙边用来晾干陶器的架子空空荡荡的，木架在接近墙角的地方止住了脚步，换成了垂落的干花和彩灯。",
+      sentence = "By the walls, the shelves used for drying pottery were empty. Near the corner of the walls, the wooden shelves gave way to strings of dried flowers and colored lights.",
       next = {3}
     },
     [3] = {
@@ -4749,7 +4749,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "我好奇地走近，只见那里竖着招牌“陶忆角”，周围贴满了客人们制作的陶器照片。",
+      sentence = "I curiously walked over and saw a sign reading \"Pottery Corner\". The walls were scattered with photos of pottery made by customers.",
       next = {4}
     },
     [4] = {
@@ -4762,7 +4762,7 @@ Except no one ever thought that the end of the prophecy
       role3 = 201201,
       role5 = 233404,
       ruchang = -1,
-      sentence = "手臂上忽然传来略微粗糙的质感，我回头一看，许墨已经穿戴好了深蓝的陶艺围裙。",
+      sentence = "I suddenly felt something slightly rough against my arm. I turned and saw that Lucien had put on a deep blue pottery apron.",
       next = {5}
     },
     [5] = {
@@ -4774,7 +4774,7 @@ Except no one ever thought that the end of the prophecy
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "许墨朝我扬了扬手中的粉色围裙，我张开双手，任他帮我穿上，眼睛还在墙上搜寻。",
+      sentence = "Lucien raised a pink apron at me, and I opened my arms to let him help me put it on, my eyes still searching the walls.",
       next = {6}
     },
     [6] = {
@@ -4783,13 +4783,13 @@ Except no one ever thought that the end of the prophecy
       idx = 2,
       male = 2,
       music = "60_Beaytiful_Daily",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "在看什么？",
+      sentence = "What are you looking at?",
       voice = 2,
       next = {7}
     },
@@ -4804,7 +4804,7 @@ Except no one ever thought that the end of the prophecy
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "在看墙上有没有我们的成果呀~",
+      sentence = "I'm checking if there are any photos of our pottery.",
       next = {8}
     },
     [8] = {
@@ -4816,7 +4816,7 @@ Except no one ever thought that the end of the prophecy
       role2 = 201106,
       role3 = 201201,
       role5 = 233404,
-      sentence = "许墨抬眸扫了一眼照片墙，随即低下头，仔细将围裙带子打了个漂亮的蝴蝶结。",
+      sentence = "Lucien glanced at the walls scattered with photos, lowered his head, and carefully tied a beautiful bow with my apron strings.",
       next = {9}
     },
     [9] = {
@@ -4825,13 +4825,13 @@ Except no one ever thought that the end of the prophecy
       idx = 2,
       male = 2,
       music = "60_Beaytiful_Daily",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201106,
       role3 = 201201,
       role5 = 233404,
-      sentence = "我们的情侣水杯在左上角，汤碗在右上角，汤碗下方是上次捏的软陶茶宠，不过被遮住了一半……",
+      sentence = "Our his-and-hers cups are in the top left-hand corner, and the soup bowl is in the top right. Under the soup bowl is the polymer clay tea pet we made the other day, but half of it is obscured…",
       voice = 2,
       next = {10}
     },
@@ -4840,7 +4840,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "我的视线随着许墨的话语移动，果然看见了熟悉的小东西们。",
+      sentence = "My eyes moved to the spots that Lucien talked about and, unsurprisingly, I saw photos of those familiar little things.",
       next = {11}
     },
     [11] = {
@@ -4850,7 +4850,7 @@ Except no one ever thought that the end of the prophecy
       music = "60_Beaytiful_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "不愧是许教授，一下全都找到了！那这一次，我们要做的陶杯就放在中间……",
+      sentence = "Impressive, Professor Lucien. You found them all at a single glance! Well, this time we'll make a clay cup and put a photo of it in the center…",
       next = {12}
     },
     [12] = {
@@ -4858,7 +4858,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "话音未落，入口传来了门铃的轻响，一对情侣走进店里，他们环顾了一圈，目光落在我身上。",
+      sentence = "Before I could finish my sentence, a silvery ring of the doorbell came from the entrance. A pair of lovers walked into the studio. They glanced around the room before their eyes fell on me.",
       sfx = "Dia_Door_Bell",
       next = {13}
     },
@@ -4867,9 +4867,9 @@ Except no one ever thought that the end of the prophecy
       dialog = 2,
       idx = 5,
       music = "60_Beaytiful_Daily",
-      renming = "客人",
+      renming = "Guest",
       renwu = "npc",
-      sentence = "您好，我们想做一对情侣水杯。",
+      sentence = "Hi, we'd like to make a pair of his-and-hers cups.",
       next = {14}
     },
     [14] = {
@@ -4879,7 +4879,7 @@ Except no one ever thought that the end of the prophecy
       music = "60_Beaytiful_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "……好的好的，两位这边请，可以先换上围裙等待一下~",
+      sentence = "…Sure. This way, please. You may put on the aprons and I'll get things ready.",
       next = {15}
     },
     [15] = {
@@ -4887,7 +4887,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "没想到这么快就来了客人，我连忙引着他们到拉坯机旁，从架子上取下两个陶艺围裙。",
+      sentence = "Not having expected to get customers so soon, I hurriedly led them to a pottery lathe and took two aprons from the rack.",
       next = {16}
     },
     [16] = {
@@ -4895,7 +4895,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "从许墨身边经过的时候，指尖不经意地被他勾起。",
+      sentence = "When I was passing Lucien, he inadvertently hooked his fingers around mine.",
       next = {17}
     },
     [17] = {
@@ -4904,13 +4904,13 @@ Except no one ever thought that the end of the prophecy
       idx = 2,
       male = 2,
       music = "60_Beaytiful_Daily",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "我去准备材料，等等就过来。这里就先麻烦“店员小姐”了。",
+      sentence = "I'll go prep the materials and be right back. Until then, you'll be in charge, \"clerk lady\".",
       voice = 2,
       next = {18}
     },
@@ -4924,7 +4924,7 @@ Except no one ever thought that the end of the prophecy
       role3 = 201201,
       role5 = 233404,
       roleanim = 1.1,
-      sentence = "听出了他的言外之意，我了然地收紧了手指。",
+      sentence = "Knowing what he was hinting at, I tightened my fingers around his.",
       next = {19}
     },
     [19] = {
@@ -4940,7 +4940,7 @@ Except no one ever thought that the end of the prophecy
       role5 = 233404,
       roleanim = 1.1,
       ruchang = 9,
-      sentence = "没问题，这里交给我吧！",
+      sentence = "No problem. I got this!",
       next = {20}
     },
     [20] = {
@@ -4949,7 +4949,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "本以为很快就能接待完客人，万万没想到……",
+      sentence = "I thought that my task of serving the customers would soon be over. It never crossed my mind that…",
       next = {21}
     },
     [21] = {
@@ -4957,7 +4957,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "叮铃——叮铃——手工坊的大门开了又关，店内的十来个拉坯机前全部坐满了客人。",
+      sentence = "Ding—Ding—The front door of the handicraft studio opened and closed repeatedly, and before long, the ten-odd lathes in the studio were all occupied by customers.",
       next = {22}
     },
     [22] = {
@@ -4965,7 +4965,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "许墨站在窗边的木桌旁揉制陶泥，而我则游走在客人中，忙得脚不沾地。",
+      sentence = "Lucien was kneading clay at the wooden table by the window, while I bustled around frantically with the customers, rushed off my feet.",
       next = {23}
     },
     [23] = {
@@ -4975,7 +4975,7 @@ Except no one ever thought that the end of the prophecy
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "泥立不起来是您沾的水有点多，可以用旁边的海绵吸一点水哦~",
+      sentence = "The clay is too soft to stand because you put too much water in it. You may use the sponge to suck away some water.",
       next = {24}
     },
     [24] = {
@@ -4985,7 +4985,7 @@ Except no one ever thought that the end of the prophecy
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "……对，您像我这样把双手交叉，放在台子上操作比较好。",
+      sentence = "…Yeah, it'll be better if you cross your arms over the worktop like I do.",
       next = {25}
     },
     [25] = {
@@ -4995,7 +4995,7 @@ Except no one ever thought that the end of the prophecy
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "……稍等，我帮您再取点陶泥来。",
+      sentence = "…One moment. I'll go get you some more clay.",
       next = {26}
     },
     [26] = {
@@ -5003,7 +5003,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我头晕目眩地伸手向存放陶泥的桶里探去，却发现满满一桶陶泥早已不知不觉见了底。",
+      sentence = "Inundated, I reached my hands into the bucket where the clay was kept, only to find that the whole bucket of clay had been used up without me noticing.",
       next = {27}
     },
     [27] = {
@@ -5011,7 +5011,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我提起空桶准备去取新的材料，这时，身后传来一道温和的声音。",
+      sentence = "I lifted the empty bucket and was just about to go and get more clay when a gentle voice came from behind me.",
       next = {28}
     },
     [28] = {
@@ -5020,9 +5020,9 @@ Except no one ever thought that the end of the prophecy
       idx = 2,
       male = 2,
       music = "52_Daily03",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
-      sentence = "先用这个吧。",
+      sentence = "This will help you out.",
       voice = 2,
       next = {29}
     },
@@ -5035,7 +5035,7 @@ Except no one ever thought that the end of the prophecy
       role2 = 202101,
       role3 = 202201,
       ruchang = -1,
-      sentence = "许墨将一桶揉制好的新泥放在我面前，接过我手中的空桶。",
+      sentence = "Lucien put a bucket of newly prepped clay in front of me and took the empty bucket from my hand.",
       next = {30}
     },
     [30] = {
@@ -5046,7 +5046,7 @@ Except no one ever thought that the end of the prophecy
       role1 = 234000,
       role2 = 202101,
       role3 = 202201,
-      sentence = "仅仅半天功夫，许墨的围裙上多了不少飞溅的泥渍，相信我身上也好不到哪去。",
+      sentence = "It had been only half a day, but Lucien's apron was already covered with stains of clay, and mine was probably no better.",
       next = {31}
     },
     [31] = {
@@ -5059,7 +5059,7 @@ Except no one ever thought that the end of the prophecy
       role3 = 202201,
       roleanim = 1.1,
       ruchang = 9,
-      sentence = "我不由把头抵在许墨肩头蹭了蹭，刚想心满意足地叹口气，身后却又响起惊呼声。",
+      sentence = "Despite myself, I rested my head on Lucien's shoulder and rubbed my face against it. I was just about to give a sigh of contentment when another exclamation rang out behind me.",
       next = {32}
     },
     [32] = {
@@ -5067,9 +5067,9 @@ Except no one ever thought that the end of the prophecy
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "客人",
+      renming = "Guest",
       renwu = "npc",
-      sentence = "店员小姐救命啊！！！泥跑了！！！",
+      sentence = "Help, Miss!!! The clay's slipping away!!!",
       next = {33}
     },
     [33] = {
@@ -5083,7 +5083,7 @@ Except no one ever thought that the end of the prophecy
       role5 = 233404,
       roleanim = 1.1,
       ruchang = -1,
-      sentence = "许墨无奈地叹了口气，眉梢间流露出一丝委屈。",
+      sentence = "Lucien resignedly heaved a sigh, looking a little hard done by.",
       next = {34}
     },
     [34] = {
@@ -5092,14 +5092,14 @@ Except no one ever thought that the end of the prophecy
       idx = 2,
       male = 2,
       music = "52_Daily03",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201104,
       role3 = 201204,
       role5 = 233404,
       roleanim = 1.1,
-      sentence = "看来能干的店员小姐又要被借走了。",
+      sentence = "It would seem the able clerk is needed elsewhere again.",
       voice = 2,
       next = {35}
     },
@@ -5113,7 +5113,7 @@ Except no one ever thought that the end of the prophecy
       role3 = 201201,
       role5 = 233404,
       roleanim = 1.2,
-      sentence = "看着我们俩沾染着泥渍的手，我踮起脚，轻轻和他碰了碰脸颊。",
+      sentence = "I looked at our clay-stained hands, stood on tiptoe, and gently touched his cheek with mine.",
       next = {36}
     },
     [36] = {
@@ -5129,7 +5129,7 @@ Except no one ever thought that the end of the prophecy
       role5 = 233404,
       roleanim = 1.2,
       ruchang = 9,
-      sentence = "嘿嘿，许教授再耐心等一下吧。",
+      sentence = "Hee-hee, show some more patience, Professor Lucien.",
       next = {37}
     },
     [37] = {
@@ -5137,7 +5137,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我轻快地跑到那对呼救的情侣身旁，轻踩踏板，让泥坯停止转动，驾轻就熟地将泥坯收拢。",
+      sentence = "I briskly trotted to the lovers calling out for help, lightly pressed my foot down on the pedal, stopped the clay from spinning, and expertly put it back into shape.",
       next = {38}
     },
     [38] = {
@@ -5145,9 +5145,9 @@ Except no one ever thought that the end of the prophecy
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "女生",
+      renming = "Girl",
       renwu = "npc",
-      sentence = "店员小姐好厉害！",
+      sentence = "Awesome!",
       next = {39}
     },
     [39] = {
@@ -5157,7 +5157,7 @@ Except no one ever thought that the end of the prophecy
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "都是一些基础操作，只要多练练就好了。",
+      sentence = "Just some basic skills. You'll get the hang of it after some practice.",
       next = {40}
     },
     [40] = {
@@ -5165,9 +5165,9 @@ Except no one ever thought that the end of the prophecy
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "女生",
+      renming = "Girl",
       renwu = "npc",
-      sentence = "来做一次陶起码3、4个小时，平时我和男朋友都要上课，抽不出那么多时间啦！",
+      sentence = "A pottery session takes at least three or four hours. Usually, my boyfriend and I have classes to attend and just can't spare the time!",
       next = {41}
     },
     [41] = {
@@ -5175,7 +5175,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我愣了一下，不由得回忆起和许墨的做陶经历。",
+      sentence = "I was surprised into silence, memories of me making pottery with Lucien sweeping back.",
       next = {42}
     },
     [42] = {
@@ -5183,7 +5183,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "有时是一起下班路过手工坊，简单捏两个歪歪扭扭的汤勺。",
+      sentence = "Sometimes, when we were passing the handicraft studio on our way home from work, we would go inside and cursorily make two crooked spoons.",
       next = {43}
     },
     [43] = {
@@ -5191,7 +5191,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "有时是工作日加班到深夜，换来短暂的假期，一同雕塑软陶。",
+      sentence = "Sometimes we worked overtime late at night during workdays to earn a short holiday, which we spent making pottery with polymer clay together.",
       next = {44}
     },
     [44] = {
@@ -5199,7 +5199,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我们的时间也并不总是充裕，我们只是尽可能地让相处的时光充盈，让美好有迹可循。",
+      sentence = "We didn't always have plenty of time. We just tried our best to make every minute count and create as many happy memories as we could.",
       next = {45}
     },
     [45] = {
@@ -5213,7 +5213,7 @@ Except no one ever thought that the end of the prophecy
       role3 = 201201,
       role5 = 233404,
       ruchang = -1,
-      sentence = "我下意识地看向许墨，或许是正午的阳光过于炽热，他的额角冒出一层薄汗。",
+      sentence = "I subconsciously looked at Lucien. Maybe because of the scorching sun at noon, he had a thin layer of sweat over the corners of his brow.",
       next = {46}
     },
     [46] = {
@@ -5226,7 +5226,7 @@ Except no one ever thought that the end of the prophecy
       role3 = 201201,
       role5 = 233404,
       ruchang = 9,
-      sentence = "但他仍然一丝不苟地专注于手上的操作，一如曾经无数次指导我时一样。",
+      sentence = "But he was still as intent on his work at hand as he had been every time he instructed me.",
       next = {47}
     },
     [47] = {
@@ -5234,9 +5234,9 @@ Except no one ever thought that the end of the prophecy
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "女生",
+      renming = "Girl",
       renwu = "npc",
-      sentence = "店员小姐有没有什么能让人快速上手的秘笈啊？",
+      sentence = "Do you have any secret tips that could help me hit my stride faster, Miss?",
       next = {48}
     },
     [48] = {
@@ -5244,7 +5244,7 @@ Except no one ever thought that the end of the prophecy
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "女生的提问打断了我的思绪，我收回了视线，无奈地摇了摇头。",
+      sentence = "The girl's question interrupted my train of thought. I withdrew my gaze and resignedly shook my head.",
       next = {49}
     },
     [49] = {
@@ -5254,7 +5254,7 @@ Except no one ever thought that the end of the prophecy
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "我没有速成的方法，不过要说秘笈的话，就是用心享受每一次做陶的过程。",
+      sentence = "I don't know any shortcuts, but speaking of secret tips, I'd say you should try to enjoy every pottery session.",
       next = {50}
     },
     [50] = {
@@ -5264,7 +5264,7 @@ Except no one ever thought that the end of the prophecy
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "看到做好的陶器，就会回忆起做陶时的声音、触感。",
+      sentence = "When you see the pottery you made, you'll recall what you heard and felt when making it.",
       next = {51}
     },
     [51] = {
@@ -5274,7 +5274,7 @@ Except no one ever thought that the end of the prophecy
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "回忆多了，当然也就越来越熟练啦！",
+      sentence = "Skills grow with memories, you know!",
       next = {0}
     }
   },
@@ -5554,6 +5554,877 @@ Except no one ever thought that the end of the prophecy
       renwu = "npc",
       ruchang = 0,
       sentence = "Who can reject someone like him?",
+      next = {0}
+    }
+  },
+  [431322] = {
+    [1] = {
+      beijing = 4505,
+      dhead = 110,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "哇……你这还需要我来把关吗？",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4505,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "提前换上工作服的我站在一处繁华街角，目瞪口呆地看着面前的快闪店。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4505,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "虽然占地面积不大，但亮丽的橙色外墙映着灿阳透出闪闪金光，格外吸引眼球。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4505,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      ruchang = -1,
+      sentence = "更酷的还在后面呢。",
+      voice = 2,
+      next = {5}
+    },
+    [5] = {
+      beijing = 4505,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302108,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "周棋洛边说边随性地系上袖口。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4505,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302108,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "虽然同样穿着工作服，但他的身形比例使衣服的每一处缝线和剪裁都显得格外考究，仿佛是为他量身定制一般。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4505,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302108,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "果然大明星就是大明星，再普通的衣服到他身上也会变成高定秀款……",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4505,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      ruchang = 9,
+      sentence = "他见我失神，笑着打了个响指，推开门的瞬间，极具视觉冲击的色彩扑面而来——",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4798,
+      bganim = 0,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "一排排整齐的货架上，各式商品在霓虹间闪烁，争相吸引我的注意，恍若置身于一场潮流的视觉盛宴。 ",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "只是越向里走，越觉得有哪里不太对劲。",
+      next = {11}
+    },
+    [11] = {
+      beijing = 4798,
+      dhead = 111,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "牙刷……水果……玩具……口香糖……",
+      next = {12}
+    },
+    [12] = {
+      beijing = 4798,
+      dhead = 112,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "等一下，这不是你的快闪店吗？怎么看起来更像是超市？",
+      next = {13}
+    },
+    [13] = {
+      beijing = 4798,
+      dhead = 105,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "难道是租下来后还没来得及重新装潢吗？",
+      next = {14}
+    },
+    [14] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      ruchang = -1,
+      sentence = "Nono，这已经是我设计好的落地效果。",
+      voice = 2,
+      next = {15}
+    },
+    [15] = {
+      beijing = 4798,
+      dhead = 103,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "什么？",
+      next = {16}
+    },
+    [16] = {
+      beijing = 4798,
+      dhead = 105,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "但这是我们薯片的快闪店活动，放其他商品难道不会喧宾夺主吗？",
+      next = {17}
+    },
+    [17] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "这就要看从哪个角度切入了。",
+      voice = 2,
+      next = {18}
+    },
+    [18] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301102,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "他环视一圈，意气风发地扬了扬眉梢。",
+      next = {19}
+    },
+    [19] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "从宣传来说，只放我们的薯片当然最能达到效果。",
+      voice = 2,
+      next = {20}
+    },
+    [20] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "但平常大家逛超市买东西，不会只冲薯片去吧？肯定还会买日用品、饮料、水果……",
+      voice = 2,
+      next = {21}
+    },
+    [21] = {
+      beijing = 4798,
+      dhead = 111,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "所以你是想贴近现实，让大家更有代入感？",
+      next = {22}
+    },
+    [22] = {
+      beijing = 4798,
+      dhead = 112,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "可这样要怎么突出我们的薯片……",
+      next = {23}
+    },
+    [23] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301104,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "眼前的人自信一笑，推来了两辆购物车。",
+      next = {24}
+    },
+    [24] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "当然是发挥我的长处，玩游戏了。",
+      voice = 2,
+      next = {25}
+    },
+    [25] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "还记得以前在电脑或者手机上玩过的接物游戏吧？",
+      voice = 2,
+      next = {26}
+    },
+    [26] = {
+      beijing = 4798,
+      dhead = 111,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "是那种从天上掉下来东西，然后要接住它或者躲开的小游戏？",
+      next = {27}
+    },
+    [27] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "没错，我把它挪到现实中了。",
+      voice = 2,
+      next = {28}
+    },
+    [28] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "待会游戏开始后，无论你能接到多少东西，最后都归你。",
+      voice = 2,
+      next = {29}
+    },
+    [29] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      ruchang = 9,
+      sentence = "但如果……能接到我们的主角薯片，就会有额外惊喜。",
+      voice = 2,
+      next = {30}
+    },
+    [30] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "他指了指天花板，这时我才注意到上方竟安有无数个滑轨，各种小型商品被机械爪牢牢抓着，蓄势待发。",
+      next = {31}
+    },
+    [31] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "我眨眨眼，若有所思地开口。",
+      next = {32}
+    },
+    [32] = {
+      beijing = 4798,
+      dhead = 111,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "听起来很有趣，不过我有些小疑问。",
+      next = {33}
+    },
+    [33] = {
+      beijing = 4798,
+      dhead = 111,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "我们主要是通过小游戏宣传品牌，那除了接住掉下来的商品作为奖励以外……",
+      next = {34}
+    },
+    [34] = {
+      beijing = 4798,
+      dhead = 111,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "这些货架上的商品呢，只是用来展示，还是说也可以售卖？",
+      next = {35}
+    },
+    [35] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301104,
+      role3 = 301201,
+      role6 = 31795001,
+      ruchang = -1,
+      sentence = "很好，$u老板开始进入状态了。",
+      voice = 2,
+      next = {36}
+    },
+    [36] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "他满意地笑了笑。",
+      next = {37}
+    },
+    [37] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "货架的商品只是起到装饰效果，但如果有人想买东西，我也十分欢迎。",
+      voice = 2,
+      next = {38}
+    },
+    [38] = {
+      beijing = 4798,
+      dhead = 112,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "噢……那万一游戏中有人没接到东西摔碎了，或者砸到人怎么办？",
+      next = {39}
+    },
+    [39] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "放心~这些投送的商品都精挑细选过。既不会砸痛人，也不会被摔坏。",
+      voice = 2,
+      next = {40}
+    },
+    [40] = {
+      beijing = 4798,
+      dhead = 105,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "但薯片不是易碎品吗？",
+      next = {41}
+    },
+    [41] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "这一点我也考虑到了。在主角登场前，会留有足够久的提示时间让大家做好准备。",
+      voice = 2,
+      next = {42}
+    },
+    [42] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "但万一万一还有人错过，它就会嘭地打开迷你“降落伞”安全落地。只不过……",
+      voice = 2,
+      next = {43}
+    },
+    [43] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "他顿了顿，但最后又笑着摇摇头。",
+      next = {44}
+    },
+    [44] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      ruchang = 9,
+      sentence = "没事，先试玩一局吧。",
+      voice = 2,
+      next = {45}
+    },
+    [45] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      sentence = "他说着按下一旁的金色按钮，音响里随之传来我们在今年夏日做的新歌。",
+      next = {46}
+    },
+    [46] = {
+      beijing = 4798,
+      dhead = 114,
+      dialog = 1,
+      music = "zql_15044_voice",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "噗……你怎么还夹带私货！",
+      next = {47}
+    },
+    [47] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "zql_15044_voice",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      ruchang = -1,
+      sentence = "商店的背景音乐可是很重要的，要万里挑一才会生意兴隆~",
+      voice = 2,
+      next = {48}
+    },
+    [48] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "zql_15044_voice",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "好啦，别分心了。在这首歌结束前，要抓紧接到东西哦。",
+      voice = 2,
+      next = {49}
+    },
+    [49] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      sentence = "话音刚落，头顶传来一阵“嗡嗡”声。我抬头望去，头顶的机械爪缓缓张开，其中一个粉色浴球摩擦着往下掉。",
+      sfx = "Dia_Phone_Vibrator",
+      next = {50}
+    },
+    [50] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      sentence = "我连忙推着购物车冲刺过去，稳稳接住了那团浴球。",
+      next = {51}
+    },
+    [51] = {
+      beijing = 4798,
+      dhead = 113,
+      dialog = 1,
+      music = "zql_15044_voice",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "成功了！",
+      next = {52}
+    },
+    [52] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      sentence = "这时，余光又落下一团黑影。我猛地将购物车向右一转，一个抱枕擦着边缘掉了进来。",
+      next = {53}
+    },
+    [53] = {
+      beijing = 4798,
+      dhead = 104,
+      dialog = 1,
+      music = "zql_15044_voice",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "呼，好险。",
+      next = {54}
+    },
+    [54] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "zql_15044_voice",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "加油加油，别停——随着时间减少，速度会越来越快。",
+      voice = 2,
+      next = {55}
+    },
+    [55] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      sentence = "头顶的“嗡嗡”声随之变得促密，还没迈开腿，前方的小商品像流星哗啦啦落在地上。",
+      sfx = "Wood_box_fall",
+      next = {56}
+    },
+    [56] = {
+      beijing = 4798,
+      dhead = 103,
+      dialog = 1,
+      music = "zql_15044_voice",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "等等我……！",
+      next = {57}
+    },
+    [57] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      sentence = "我推着购物车来回跑，但商品总是在眼前擦过，又或是从车的边缘滑到地上。",
+      next = {58}
+    },
+    [58] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      sentence = "一首歌过去一半，购物车里除了浴球和抱枕，也就多了一两个小玩偶……",
+      next = {59}
+    },
+    [59] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302108,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "我气喘吁吁地往周棋洛的方向看去，发现他身形敏捷，在货架间如游龙穿梭，购物车都快装满了。",
+      next = {60}
+    },
+    [60] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302108,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "即便这不是1V1竞赛，我仍然欲哭无泪。",
+      next = {61}
+    },
+    [61] = {
+      beijing = 4798,
+      dhead = 112,
+      dialog = 1,
+      music = "zql_15044_voice",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "周棋洛！你设计得太难了，没点身手根本接不过来！",
+      next = {62}
+    },
+    [62] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "zql_15044_voice",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "所以我才带你来找Bug，这不就被你找到了？",
+      voice = 2,
+      next = {63}
+    },
+    [63] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      roleanim = 1.1,
+      sentence = "他的笑声伴着车轮擦过地面，一个眨眼间，便从隔壁货架急停在我面前。",
+      next = {64}
+    },
+    [64] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "zql_15044_voice",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      roleanim = 1.1,
+      sentence = "现在我要临时修正规则，挑战者不限一个人，家属也能来助力。",
+      voice = 2,
+      next = {65}
+    },
+    [65] = {
+      beijing = 4798,
+      dhead = 113,
+      dialog = 1,
+      music = "zql_15044_voice",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      roleanim = 1.1,
+      sentence = "那太好了！",
+      next = {66}
+    },
+    [66] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302108,
+      role3 = 302205,
+      role6 = 31795001,
+      roleanim = 1.2,
+      sentence = "我正要让出一半的位置，他却弯腰将我购物车里少得可怜的商品往角落一推。",
+      next = {67}
+    },
+    [67] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302108,
+      role3 = 302205,
+      role6 = 31795001,
+      roleanim = 1,
+      sentence = "下一秒，他单手一撑，整个人直接跳进购物车坐了下来。",
+      next = {68}
+    },
+    [68] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      ruchang = 9,
+      sentence = "对上他狡黠的视线，我瞪大眼睛。",
+      next = {69}
+    },
+    [69] = {
+      beijing = 4798,
+      bganim = 2,
+      dialog = 3,
+      music = "zql_15044_voice",
+      renwu = "npc",
+      sentence = "还能这样玩？！",
       next = {0}
     }
   },

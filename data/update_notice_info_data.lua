@@ -143,6 +143,24 @@ data = {
     end_time = "2038/1/1 0:00:00",
     unlock_condition = "10505,125,1"
   },
+  [42] = {
+    show_system = "FleurDeSouhait2MainPanel",
+    title_words = "Improved Live2D ER Karma Card Face!",
+    title1_words = "[Improved Live2D ER Karma Card Face] ",
+    contact1_words = "ER Karmas in the [The Kiss of Venus] series can now be upgraded with a new Live2D card face. You can purchase the corresponding upgrade items from Evol Supply or through the icon in the Karma sidebar to apply the upgrade.",
+    button_words = "Got it",
+    start_time = "2025/12/23 5:00:00",
+    end_time = "2038/1/1 0:00:00"
+  },
+  [43] = {
+    show_system = "CardMainPanel",
+    title_words = "Improved Live2D ER Karma Card Face!",
+    title1_words = "[Improved Live2D ER Karma Card Face] ",
+    contact1_words = "ER Karmas in the [The Kiss of Venus] series can now be upgraded with new Live2D card face. You can purchase the corresponding upgrade items from Evol Supply or through the icon in the Karma sidebar to apply the upgrade.",
+    button_words = "Got it",
+    start_time = "2025/12/23 5:00:00",
+    end_time = "2038/1/1 0:00:00"
+  },
   [45] = {
     show_system = "BoardMainUI",
     title_words = "New Feature!",

@@ -4309,7 +4309,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "居然有两个人出局？可我明明记得昨天我们只刀了一个人呀？",
+      sentence = "Two? But... we only took down one.",
       next = {2}
     },
     [2] = {
@@ -4317,7 +4317,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "我侧过头，偷偷对白起投去一个不解的目光。",
+      sentence = "I turned my head slightly and shot Gavin a confused look.",
       next = {3}
     },
     [3] = {
@@ -4330,7 +4330,7 @@ story244 = {
       role3 = 402202,
       role5 = 4186403,
       ruchang = -1,
-      sentence = "他没说话，只是不着痕迹地冲我比了个枪的手势。我微微睁大眼睛，后知后觉地反应过来。",
+      sentence = "He didn't speak. Instead, he subtly held up his hand and mimed a gun with his fingers. My eyes widened as the realization hit.",
       next = {4}
     },
     [4] = {
@@ -4342,7 +4342,7 @@ story244 = {
       role2 = 402110,
       role3 = 402202,
       role5 = 4186401,
-      sentence = "拿到猎人身份牌的玩家出局的时候，可以凭自己的判断，开枪“带走”一个他认为可能是狼的玩家。",
+      sentence = "The Hunter. In this game, when a Hunter is eliminated, they get to fire a parting shot at whoever they believe to be a Werewolf.",
       next = {5}
     },
     [5] = {
@@ -4354,7 +4354,7 @@ story244 = {
       role2 = 402110,
       role3 = 402202,
       role5 = 4186401,
-      sentence = "没想到我们运气这么好，昨天晚上刀掉的居然是猎人这个神职！",
+      sentence = "No way... we really took out a Hunter on the first night? Talk about a lucky strike.",
       next = {6}
     },
     [6] = {
@@ -4362,7 +4362,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "和我情绪的松快不同，在村长宣布之后，场上始终弥散着猜疑的寂静。",
+      sentence = "Unlike the small sense of relief that settled in me, the room remained hushed with a heavy air of suspicion that clung to every breath.",
       next = {7}
     },
     [7] = {
@@ -4370,7 +4370,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "片刻后，才有一个年轻的女孩子从椅子上站了起来。",
+      sentence = "It was only after a long pause that a young girl finally rose from her seat.",
       next = {8}
     },
     [8] = {
@@ -4378,9 +4378,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "女孩",
+      renming = "Girl",
       renwu = "npc",
-      sentence = "……我知道是谁下的手。",
+      sentence = "...I know who did it.",
       next = {9}
     },
     [9] = {
@@ -4388,9 +4388,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "预言家",
+      renming = "Seer",
       renwu = "npc",
-      sentence = "我是预言家，昨天因为是第一天，我随便检查了一下住在我旁边的这个“萌新驾到”，发现他是狼人。",
+      sentence = "I'm the Seer. It was the first night, so I just randomly checked the guy next door. NewbieAlert. He's a Werewolf.",
       next = {10}
     },
     [10] = {
@@ -4398,9 +4398,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "预言家",
+      renming = "Seer",
       renwu = "npc",
-      sentence = "大家等下投票一定要跟我一起把他票出去！",
+      sentence = "Let's vote him out!",
       next = {11}
     },
     [11] = {
@@ -4408,7 +4408,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "伴着她的话音，我刚刚还有些雀跃的心情顿时微微一凝。",
+      sentence = "As her voice trailed off, the faint joy still dancing in my heart abruptly froze.",
       next = {12}
     },
     [12] = {
@@ -4416,7 +4416,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "太巧了吧，怎么第一个晚上就精准定位了……",
+      sentence = "That was very unfortunate. How'd she get it right on the very first night?",
       next = {13}
     },
     [13] = {
@@ -4424,7 +4424,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "萌新的眼神也明显慌乱地漂移了一下，干巴巴地开口。",
+      sentence = "NewbieAlert's eyes flicked around nervously, panic written all over his face. He forced out a dry, faltering retort.",
       next = {14}
     },
     [14] = {
@@ -4432,9 +4432,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "萌新",
+      renming = "NewbieAlert",
       renwu = "npc",
-      sentence = "你、你说自己是预言家你就是吗？证据呢？",
+      sentence = "Y-you say you're the Seer, and we're just supposed to take your word for it? Got any proof?",
       next = {15}
     },
     [15] = {
@@ -4442,9 +4442,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "萌新",
+      renming = "NewbieAlert",
       renwu = "npc",
-      sentence = "我就是村民角色，你说我是狼，我还怀疑你呢。",
+      sentence = "I'm just a regular villager! You callin' me a Werewolf? I should be sayin' the same about you!",
       next = {16}
     },
     [16] = {
@@ -4452,7 +4452,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "虽然话的意思大概是按照昨天白起的指导去说的，但他或许是太紧张了，表情像是要哭出来了一样。",
+      sentence = "His words followed the tips Gavin had given him yesterday, but the kid was too wound up. He looked like he was about to cry.",
       next = {17}
     },
     [17] = {
@@ -4460,7 +4460,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "眼看周围人的疑惑视线不断聚集在萌新身上，我低下头，心里默默叹了口气。",
+      sentence = "As the circle of skeptical stares closed in around him, I lowered my head with a quiet sigh.",
       next = {18}
     },
     [18] = {
@@ -4468,7 +4468,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "是不是该拉他一把？毕竟是队友嘛，可是我现在也没有一个完美的帮腔说辞。",
+      sentence = "Should I step in? He's a teammate, after all. But I don't have a convincing way to back him up right now.",
       next = {19}
     },
     [19] = {
@@ -4476,7 +4476,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "如果是白起的话……想到这里，我的目光下意识地转向了他。",
+      sentence = "If Gavin were me... At that thought, I instinctively turned to look at him.",
       next = {20}
     },
     [20] = {
@@ -4488,7 +4488,7 @@ story244 = {
       role2 = 402107,
       role3 = 402202,
       role5 = 4186402,
-      sentence = "只见他依旧气定神闲地喝着茶，似乎并不打算做出行动。",
+      sentence = "He was still sipping his tea nonchalantly, clearly not intending to intervene.",
       next = {21}
     },
     [21] = {
@@ -4501,7 +4501,7 @@ story244 = {
       role3 = 402202,
       role5 = 4186402,
       ruchang = 9,
-      sentence = "……懂了。",
+      sentence = "I guess there's my answer.",
       next = {22}
     },
     [22] = {
@@ -4509,7 +4509,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "在我心里放弃队友的同时，投票已经由预言家主持开启。",
+      sentence = "Just as I silently abandoned the idea of helping my teammate, the Seer opened the floor for voting.",
       next = {23}
     },
     [23] = {
@@ -4517,7 +4517,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "其他人也三三两两地讨论了几句，但因为没有更多信息，大部分人选择跟票预言家。",
+      sentence = "A few players murmured among themselves, but with so little to go on, most chose to side with the Seer.",
       next = {24}
     },
     [24] = {
@@ -4525,7 +4525,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "结果尘埃落定。村长手一挥，旋即有两个身强力壮的NPC村民上前。",
+      sentence = "The decision was swift. The village chief raised a hand, and two sturdy NPC villagers stepped forward.",
       next = {25}
     },
     [25] = {
@@ -4533,7 +4533,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "萌新欲言又止地看了我和白起一眼，不甘地随着NPC离开了。",
+      sentence = "NewbieAlert cast a pleading glance at Gavin and me, lips parting as if he wanted to say something. But in the end, he just bit it back and followed the NPCs out with a look of reluctant defeat.",
       next = {26}
     },
     [26] = {
@@ -4542,7 +4542,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "我跟白起走出人来人往的大门，正放松着呼了口气，忽然听到他提议。",
+      sentence = "Gavin and I stepped out of the crowded building into the fresh air. I was just starting to exhale when he spoke up casually.",
       next = {27}
     },
     [27] = {
@@ -4551,15 +4551,14 @@ story244 = {
       idx = 4,
       male = 4,
       music = "23_Lonely",
-      renming = "白起",
+      renming = "Gavin",
       renwu = "npc",
       role1 = 4186000,
       role2 = 402110,
       role3 = 402202,
       role5 = 4186401,
       ruchang = -1,
-      sentence = "我们去昨晚出局的那个人的住处看看怎么样？",
-      voice = 1,
+      sentence = "That guy we took out last night, wanna go check out the place he was staying?",
       next = {28}
     },
     [28] = {
@@ -4573,7 +4572,7 @@ story244 = {
       role2 = 402110,
       role3 = 402202,
       role5 = 4186401,
-      sentence = "……啊？",
+      sentence = "...Huh?",
       next = {29}
     },
     [29] = {
@@ -4581,7 +4580,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "我一时间没反应过来他为什么忽然要回去看，但我还是习惯性地点了点头，白起便拉着我准备出发。",
+      sentence = "His question caught me off guard, but I nodded reflexively. Gavin took my hand and started off.",
       next = {30}
     },
     [30] = {
@@ -4589,9 +4588,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "外来者",
+      renming = "Outsider",
       renwu = "npc",
-      sentence = "你们要去一枪命中那里吗？我也想过去看看，能和你们一起吗？",
+      sentence = "You two heading to Deadeye's place? Mind if I tag along?",
       next = {31}
     },
     [31] = {
@@ -4599,9 +4598,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "外来者",
+      renming = "Outsider",
       renwu = "npc",
-      sentence = "虽然可能找不到太多有指向性的线索，但说不定可以给我们推狼人一点灵感。",
+      sentence = "We might not find much, but hey, it could give us a clue about who the Werewolves are.",
       next = {32}
     },
     [32] = {
@@ -4609,7 +4608,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "一直沉默不语的外来者忽然开口，我动作微微一顿。",
+      sentence = "The Outsider had been quiet this whole time, so his sudden offer made me pause for a beat.",
       next = {33}
     },
     [33] = {
@@ -4617,7 +4616,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "在游戏规则中，外来者可是明牌的“铁好人”身份……这么看来，这个提议已经取得了他的信任。",
+      sentence = "In this game, the Outsider was one of the few with a confirmed \"good guy\" role. For him to suggest this meant he trusted us.",
       next = {34}
     },
     [34] = {
@@ -4631,7 +4630,7 @@ story244 = {
       role5 = 4186401,
       roleanim = 1.1,
       ruchang = 9,
-      sentence = "我不着声色地向白起抛去一个赞许的眼神，挽住他的臂膀，笑眯眯地顺势开口。",
+      sentence = "I threw Gavin a subtle, approving glance, looped my arm through his, and smiled brightly.",
       next = {35}
     },
     [35] = {
@@ -4641,7 +4640,7 @@ story244 = {
       music = "23_Lonely",
       renming = "$u",
       renwu = "npc",
-      sentence = "好呀，人多一点还能集思广益呢！",
+      sentence = "Sure, the more the merrier! Two heads are better than one, right?",
       next = {36}
     },
     [36] = {
@@ -4649,7 +4648,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "除了外来者，包括预言家、梁季中和赵坚强在内的几个玩家也对此感兴趣，表示要同行。 ",
+      sentence = "Besides Outsider, a few others—the Seer, Leto, and Willstrong—also asked to tag along.",
       next = {37}
     },
     [37] = {
@@ -4657,7 +4656,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "虽然很烦有讨厌的人跟着，但这个时候我能做的也只有偷偷冲梁季中翻个白眼。",
+      sentence = "As much as I didn't want to be stuck with Leto, all I could do was roll my eyes behind his back at this point in the game.",
       next = {38}
     },
     [38] = {
@@ -4665,7 +4664,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "毕竟要做低调的“狼”嘛！",
+      sentence = "I didn't wanna blow my cover, after all.",
       next = {39}
     },
     [39] = {
@@ -4674,7 +4673,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "熟悉的建筑映入眼帘，沉重的黑色木门敞着一条缝，院子里的泥地上留下了不少凌乱的脚印。",
+      sentence = "The place soon came into view. A familiar, heavy black wooden door hung slightly ajar, and the muddy yard was dotted with scattered, messy footprints.",
       next = {40}
     },
     [40] = {
@@ -4683,7 +4682,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "房间里空无一人，看来应该是在我们来之前，就已经被别的NPC村民们“收拾”过了。 ",
+      sentence = "The room itself was deserted, clearly swept through by NPC villagers before we arrived.",
       next = {41}
     },
     [41] = {
@@ -4691,7 +4690,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "那个被戳坏的草人依旧挂在窗口，昭示着昨天发生的事情。",
+      sentence = "On the window, the torn straw doll from last night still hung like a grim totem, a silent witness to what had happened.",
       next = {42}
     },
     [42] = {
@@ -4699,7 +4698,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "我故作好奇地将那个草人翻看了一下，惊叫出声。",
+      sentence = "Feigning curiosity, I reached up and examined the doll. Then I let out a sharp gasp.",
       next = {43}
     },
     [43] = {
@@ -4709,7 +4708,7 @@ story244 = {
       music = "23_Lonely",
       renming = "$u",
       renwu = "npc",
-      sentence = "你们看！这个草人被戳破了！",
+      sentence = "Guys, look! Someone tore into this straw doll!",
       next = {44}
     },
     [44] = {
@@ -4717,7 +4716,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "闻言，有两三个人凑了过来，白起从我手中接过看了看，又递给了一旁的赵坚强。",
+      sentence = "A couple of players leaned in for a closer look. Gavin took it from my hands, examined it briefly, and then passed it to Willstrong.",
       next = {45}
     },
     [45] = {
@@ -4726,15 +4725,14 @@ story244 = {
       idx = 4,
       male = 4,
       music = "23_Lonely",
-      renming = "白起",
+      renming = "Gavin",
       renwu = "npc",
       role1 = 4186000,
       role2 = 402107,
       role3 = 402202,
       role5 = 4186401,
       ruchang = -1,
-      sentence = "我记得村民说过，破坏了草人会被“诅咒”。应该是在暗示狼人的行动。 ",
-      voice = 1,
+      sentence = "A villager warned me that breaking the doll would \"curse\" whoever is living inside. That's likely how Werewolves eliminate the other players.",
       next = {46}
     },
     [46] = {
@@ -4742,7 +4740,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "梁季中从草人上收回目光，有些讥诮地对我和白起开口。",
+      sentence = "Leto withdrew his gaze from the doll and then turned to us with a smirk playing at the corner of his mouth.",
       next = {47}
     },
     [47] = {
@@ -4750,9 +4748,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "梁季中",
+      renming = "Leto",
       renwu = "npc",
-      sentence = "两位找得这么仔细，不会是昨晚行凶的时候不小心留下了什么证据，特意来销毁的？",
+      sentence = "You two seem awfully thorough. Trying to cover your tracks from last night, maybe?",
       next = {48}
     },
     [48] = {
@@ -4760,7 +4758,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "他用开玩笑一样的语气说着，唇角露出一个皮笑肉不笑的弧度，看得让人上火。",
+      sentence = "He said it with a joking tone, but there was no sincerity in his cold smile. It was the kind of look that made your blood boil.",
       next = {49}
     },
     [49] = {
@@ -4768,7 +4766,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "哼，虽然我确实是狼，但我也不想被人“空手套白狼”！",
+      sentence = "Sure, I was a Werewolf, but that didn't mean I was gonna let someone throw dirt on me with zero proof.",
       next = {50}
     },
     [50] = {
@@ -4776,7 +4774,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "我正要发作，身边的白起率先开了口，声音中带着爽朗与疑惑。",
+      sentence = "Just as I was about to snap back, Gavin stepped in first, his voice smooth and full of mock surprise.",
       next = {51}
     },
     [51] = {
@@ -4785,14 +4783,13 @@ story244 = {
       idx = 4,
       male = 4,
       music = "23_Lonely",
-      renming = "白起",
+      renming = "Gavin",
       renwu = "npc",
       role1 = 4186000,
       role2 = 402107,
       role3 = 402202,
       role5 = 4186402,
-      sentence = "你是说这里会有什么值得“销毁”的证据吗？",
-      voice = 1,
+      sentence = "Oh? You think there's something here worth covering up?",
       next = {52}
     },
     [52] = {
@@ -4801,15 +4798,14 @@ story244 = {
       idx = 4,
       male = 4,
       music = "23_Lonely",
-      renming = "白起",
+      renming = "Gavin",
       renwu = "npc",
       role1 = 4186000,
       role2 = 402107,
       role3 = 402202,
       role5 = 4186402,
       ruchang = 9,
-      sentence = "看来梁先生有一些我们“不知道”的情报。",
-      voice = 1,
+      sentence = "Perhaps you know something that we aren't aware of?",
       next = {53}
     },
     [53] = {
@@ -4819,7 +4815,7 @@ story244 = {
       music = "23_Lonely",
       renming = "$u",
       renwu = "npc",
-      sentence = "是哦，要不梁先生分享一下，正好能给大家提供一点思路。",
+      sentence = "Yeah, why don't you share your findings with us, Mr. LT? I'm sure we could really use your help.",
       next = {54}
     },
     [54] = {
@@ -4827,9 +4823,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "预言家",
+      renming = "Seer",
       renwu = "npc",
-      sentence = "什么情报？你们是有什么发现吗？",
+      sentence = "What findings? Did you guys find something?",
       next = {55}
     },
     [55] = {
@@ -4837,7 +4833,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "这时候，预言家也走了进来，有些疑惑地打量了我们一下。",
+      sentence = "Just then, the Seer stepped into the yard, her gaze flicking between us with visible curiosity.",
       next = {56}
     },
     [56] = {
@@ -4845,7 +4841,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "梁季中自然拿不出什么证据和情报，只是傲慢地摊了下手。",
+      sentence = "Of course, Leto had nothing concrete. He spread his hands in a dismissive gesture, a smirk tugging at the corner of his mouth.",
       next = {57}
     },
     [57] = {
@@ -4853,9 +4849,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "梁季中",
+      renming = "Leto",
       renwu = "npc",
-      sentence = "没什么，我觉得这二位是狼，但他俩不承认。",
+      sentence = "Nothing much. I just think these two are Werewolves. They're denying it, obviously.",
       next = {58}
     },
     [58] = {
@@ -4865,7 +4861,7 @@ story244 = {
       music = "23_Lonely",
       renming = "$u",
       renwu = "npc",
-      sentence = "没什么，我觉得这一位是狼，但他不承认。",
+      sentence = "Nothing much. I just think he's a Werewolf. But of course, he's denying it too.",
       next = {59}
     },
     [59] = {
@@ -4873,7 +4869,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "我模仿着梁季中的语气回了一句，梁季中脸色立刻变了，而预言家显然了然——我们是私人矛盾。",
+      sentence = "I mimicked his tone so perfectly that it earned me a sour look from Leto. His expression darkened instantly, while Seer gave a knowing sigh. She'd seen right through us—this was clearly a personal spat.",
       next = {60}
     },
     [60] = {
@@ -4881,9 +4877,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "预言家",
+      renming = "Seer",
       renwu = "npc",
-      sentence = "怎么又是个萌新……《狂欢夜》名额宝贵，别搞场外超模。 ",
+      sentence = "Look, spots in this game mode are very hard to come back. Don't go OOC. Keep your personal feud to yourselves.",
       next = {61}
     },
     [61] = {
@@ -4891,9 +4887,9 @@ story244 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = "梁季中",
+      renming = "Leto",
       renwu = "npc",
-      sentence = "场外？超模？",
+      sentence = "Hmm? What does OOC mean?",
       next = {62}
     },
     [62] = {
@@ -4901,7 +4897,7 @@ story244 = {
       dialog = 3,
       music = "23_Lonely",
       renwu = "npc",
-      sentence = "没人帮他解释这些名词，我早拉着白起走远了。",
+      sentence = "Nobody bothered explaining. I had already looped my arm through Gavin's and steered us out of the conversation before he could come up with another retort.",
       next = {0}
     }
   },

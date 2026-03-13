@@ -2850,6 +2850,54 @@ data = {
     voice_react = 861601,
     voice_type = 2
   },
+  [1864701] = {
+    condition_id = 810,
+    role_id = 8,
+    unlock_price = "150001,101,28",
+    voice_name = "2025 Halloween",
+    voice_react = 864701,
+    voice_type = 2
+  },
+  [1867001] = {
+    condition_id = 822,
+    role_id = 8,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 Anniversary",
+    voice_react = 867001,
+    voice_type = 2
+  },
+  [1867401] = {
+    condition_id = 824,
+    role_id = 8,
+    unlock_price = "150001,101,28",
+    voice_name = "2025 Christmas",
+    voice_react = 867401,
+    voice_type = 2
+  },
+  [1867601] = {
+    condition_id = 826,
+    role_id = 8,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 New Year",
+    voice_react = 867601,
+    voice_type = 2
+  },
+  [1868201] = {
+    condition_id = 834,
+    role_id = 8,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 Valentine's Day",
+    voice_react = 868201,
+    voice_type = 2
+  },
+  [1868601] = {
+    condition_id = 839,
+    role_id = 8,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 White Day",
+    voice_react = 868601,
+    voice_type = 2
+  },
   [11200101] = {
     condition_id = 786,
     role_id = 1,
@@ -2864,6 +2912,103 @@ data = {
     unlock_price = "150001,101,28",
     voice_name = "2025 Children's Day",
     voice_react = 1201001,
+    voice_type = 2
+  },
+  [11205301] = {
+    condition_id = 810,
+    role_id = 1,
+    unlock_price = "150001,101,28",
+    voice_name = "2025 Halloween",
+    voice_react = 1205301,
+    voice_type = 2
+  },
+  [11212001] = {
+    condition_id = 822,
+    role_id = 1,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 Anniversary",
+    voice_react = 1212001,
+    voice_type = 2
+  },
+  [11212401] = {
+    condition_id = 824,
+    role_id = 1,
+    unlock_price = "150001,101,28",
+    voice_name = "2025 Christmas",
+    voice_react = 1212401,
+    voice_type = 2
+  },
+  [11212601] = {
+    condition_id = 826,
+    role_id = 1,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 New Year",
+    voice_react = 1212601,
+    voice_type = 2
+  },
+  [11213701] = {
+    condition_id = 108201,
+    dress_get = "Unlockable by obtaining\\n[Contrasting Sweater Shawl] ",
+    role_id = 1,
+    unlock_price = "150001,101,58",
+    unlock_time = "2026/1/8 5:00:00",
+    voice_name = "Contrasting Sweater Shawl I",
+    voice_react = 1213701,
+    voice_type = 1
+  },
+  [11213801] = {
+    condition_id = "108201;105",
+    dress_get = "Unlockable by obtaining [Contrasting Sweater Shawl]\\nand reaching Intimacy Lv.5",
+    role_id = 1,
+    unlock_price = "150001,101,58",
+    unlock_time = "2026/1/8 5:00:00",
+    voice_name = "Contrasting Sweater Shawl II",
+    voice_react = 1213801,
+    voice_type = 1
+  },
+  [11213901] = {
+    condition_id = "108201;107",
+    dress_get = "Unlockable by obtaining [Contrasting Sweater Shawl]\\nand reaching Intimacy Lv.10",
+    role_id = 1,
+    unlock_price = "150001,101,58",
+    unlock_time = "2026/1/8 5:00:00",
+    voice_name = "Contrasting Sweater Shawl III",
+    voice_react = 1213901,
+    voice_type = 1
+  },
+  [11214001] = {
+    condition_id = "108201;108",
+    dress_get = "Unlockable by obtaining [Contrasting Sweater Shawl]\\nand reaching Intimacy Lv.15",
+    role_id = 1,
+    unlock_price = "150001,101,58",
+    unlock_time = "2026/1/8 5:00:00",
+    voice_name = "Contrasting Sweater Shawl IV",
+    voice_react = 1214001,
+    voice_type = 1
+  },
+  [11214101] = {
+    condition_id = 828,
+    role_id = 1,
+    unlock_price = "150001,101,28",
+    unlock_time = "2026/1/8 5:00:00",
+    voice_name = "2026 Birthday",
+    voice_react = 1214101,
+    voice_type = 2
+  },
+  [11214701] = {
+    condition_id = 834,
+    role_id = 1,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 Valentine's Day",
+    voice_react = 1214701,
+    voice_type = 2
+  },
+  [11217801] = {
+    condition_id = 839,
+    role_id = 1,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 White Day",
+    voice_react = 1217801,
     voice_type = 2
   },
   [12010091] = {
@@ -2915,6 +3060,46 @@ data = {
     voice_react = 2010151,
     voice_type = 2
   },
+  [12012811] = {
+    condition_id = 207901,
+    dress_get = "Unlockable by obtaining\\n[Sapphire Silhouette Trench Coat Set] ",
+    role_id = 2,
+    unlock_price = "150001,101,58",
+    unlock_time = "2025/11/10 05:00:00",
+    voice_name = "Sapphire Silhouette Trench Coat Set I",
+    voice_react = 2012811,
+    voice_type = 1
+  },
+  [12012821] = {
+    condition_id = "207901;113",
+    dress_get = "Unlockable by obtaining [Sapphire Silhouette Trench Coat Set]\\nand reaching Intimacy Lv.5",
+    role_id = 2,
+    unlock_price = "150001,101,58",
+    unlock_time = "2025/11/10 05:00:00",
+    voice_name = "Sapphire Silhouette Trench Coat Set II",
+    voice_react = 2012821,
+    voice_type = 1
+  },
+  [12012831] = {
+    condition_id = "207901;115",
+    dress_get = "Unlockable by obtaining [Sapphire Silhouette Trench Coat Set]\\nand reaching Intimacy Lv.10",
+    role_id = 2,
+    unlock_price = "150001,101,58",
+    unlock_time = "2025/11/10 05:00:00",
+    voice_name = "Sapphire Silhouette Trench Coat Set III",
+    voice_react = 2012831,
+    voice_type = 1
+  },
+  [12012841] = {
+    condition_id = "207901;116",
+    dress_get = "Unlockable by obtaining [Sapphire Silhouette Trench Coat Set]\\nand reaching Intimacy Lv.15",
+    role_id = 2,
+    unlock_price = "150001,101,58",
+    unlock_time = "2025/11/10 05:00:00",
+    voice_name = "Sapphire Silhouette Trench Coat Set IV",
+    voice_react = 2012841,
+    voice_type = 1
+  },
   [12120401] = {
     condition_id = 769,
     role_id = 2,
@@ -2961,6 +3146,62 @@ data = {
     unlock_price = "150001,101,28",
     voice_name = "2025 Children's Day",
     voice_react = 2122001,
+    voice_type = 2
+  },
+  [12126801] = {
+    condition_id = 810,
+    role_id = 2,
+    unlock_price = "150001,101,28",
+    voice_name = "2025 Halloween",
+    voice_react = 2126801,
+    voice_type = 2
+  },
+  [12128501] = {
+    condition_id = 812,
+    role_id = 2,
+    unlock_price = "150001,101,28",
+    voice_name = "2025 Birthday",
+    voice_react = 2128501,
+    voice_type = 2
+  },
+  [12133601] = {
+    condition_id = 822,
+    role_id = 2,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 Anniversary",
+    voice_react = 2133601,
+    voice_type = 2
+  },
+  [12134001] = {
+    condition_id = 824,
+    role_id = 2,
+    unlock_price = "150001,101,28",
+    voice_name = "2025 Christmas",
+    voice_react = 2134001,
+    voice_type = 2
+  },
+  [12134201] = {
+    condition_id = 826,
+    role_id = 2,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 New Year",
+    voice_react = 2134201,
+    voice_type = 2
+  },
+  [12134801] = {
+    condition_id = 834,
+    role_id = 2,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 Valentine's Day",
+    voice_react = 2134801,
+    voice_type = 2
+  },
+  [12135201] = {
+    condition_id = 839,
+    role_id = 2,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 White Day",
+    voice_react = 2135201,
     voice_type = 2
   },
   [13003005] = {
@@ -3166,6 +3407,54 @@ data = {
     voice_react = {3031901, 3031921},
     voice_type = 2
   },
+  [13032461] = {
+    condition_id = 810,
+    role_id = 3,
+    unlock_price = "150001,101,28",
+    voice_name = "2025 Halloween",
+    voice_react = {3032461, 3032481},
+    voice_type = 2
+  },
+  [13033331] = {
+    condition_id = 822,
+    role_id = 3,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 Anniversary",
+    voice_react = {3033331, 3033351},
+    voice_type = 2
+  },
+  [13033391] = {
+    condition_id = 824,
+    role_id = 3,
+    unlock_price = "150001,101,28",
+    voice_name = "2025 Christmas",
+    voice_react = {3033391, 3033411},
+    voice_type = 2
+  },
+  [13033431] = {
+    condition_id = 826,
+    role_id = 3,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 New Year",
+    voice_react = {3033431, 3033451},
+    voice_type = 2
+  },
+  [13033551] = {
+    condition_id = 834,
+    role_id = 3,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 Valentine's Day",
+    voice_react = {3033551, 3033571},
+    voice_type = 2
+  },
+  [13033881] = {
+    condition_id = 839,
+    role_id = 3,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 White Day",
+    voice_react = {3033881, 3033901},
+    voice_type = 2
+  },
   [14500401] = {
     condition_id = 792,
     role_id = 4,
@@ -3221,6 +3510,54 @@ data = {
     unlock_time = "2025/7/24 5:00:00",
     voice_name = "2025 Birthday",
     voice_react = 4505301,
+    voice_type = 2
+  },
+  [14506201] = {
+    condition_id = 810,
+    role_id = 4,
+    unlock_price = "150001,101,28",
+    voice_name = "2025 Halloween",
+    voice_react = 4506201,
+    voice_type = 2
+  },
+  [14512901] = {
+    condition_id = 822,
+    role_id = 4,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 Anniversary",
+    voice_react = 4512901,
+    voice_type = 2
+  },
+  [14513301] = {
+    condition_id = 824,
+    role_id = 4,
+    unlock_price = "150001,101,28",
+    voice_name = "2025 Christmas",
+    voice_react = 4513301,
+    voice_type = 2
+  },
+  [14513501] = {
+    condition_id = 826,
+    role_id = 4,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 New Year",
+    voice_react = 4513501,
+    voice_type = 2
+  },
+  [14514101] = {
+    condition_id = 834,
+    role_id = 4,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 Valentine's Day",
+    voice_react = 4514101,
+    voice_type = 2
+  },
+  [14514501] = {
+    condition_id = 839,
+    role_id = 4,
+    unlock_price = "150001,101,28",
+    voice_name = "2026 White Day",
+    voice_react = 4514501,
     voice_type = 2
   }
 }

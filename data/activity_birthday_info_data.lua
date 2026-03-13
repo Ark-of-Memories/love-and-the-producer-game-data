@@ -1831,75 +1831,75 @@ Having you is enough for me.]],
   [9202001] = {
     activity_id = 92020,
     sub_id = 4,
-    activity_text = "我已经准备好了，被更多来自于你的爱而环绕。",
+    activity_text = "I'm ready to be surrounded by your love.",
     vo_id = "XMbirthday_9202001",
     anim_id = "-1"
   },
   [9202002] = {
     activity_id = 92020,
     sub_id = 2,
-    activity_text = "生日是向未来迈进的一步。但我更希望时间能停留，让这一刻美好的你成为永恒。",
+    activity_text = "Every birthday is a step to the future, but I wish time would stop now, and this beautiful moment with you would last forever.",
     anim_id = "-1"
   },
   [9202003] = {
     activity_id = 92020,
     sub_id = 2,
-    activity_text = "你给我的每一个祝福都像这座城堡中的收藏品，珍贵而独一无二。",
+    activity_text = "Every wish from you is as precious and unique as the collections in this castle.",
     anim_id = "-1"
   },
   [9202004] = {
     activity_id = 92020,
     sub_id = 2,
-    activity_text = "每一年生日，和你在一起的记忆，都将永远镌刻在我的心底。",
+    activity_text = "Every birthday with you will be forever engraved in my memory.",
     anim_id = "-1"
   },
   [9202005] = {
     activity_id = 92020,
     sub_id = 2,
-    activity_text = "生日只是时光的流转，而你却让我感到，每一个时刻都那么鲜活和珍贵。",
+    activity_text = "Birthdays are only moments in time, but with you, every moment feels alive and precious.",
     anim_id = "-1"
   },
   [9202006] = {
     activity_id = 92020,
     sub_id = 2,
-    activity_text = "我的脑海中已经浮现了，未来我们一起度过的每一个瞬间，和每一岁的欢喜。",
+    activity_text = "I can already envision every moment in my mind and the joy we'll share in the future.",
     anim_id = "-1"
   },
   [9202101] = {
     activity_id = 92021,
     sub_id = 4,
-    activity_text = "认识你之后，我每年都会想，那是我度过的最好的生日。看起来，今年也不会例外。",
+    activity_text = "Since the day I met you, every birthday has felt like the best one yet. And this year... I can already tell it won't be an exception.",
     vo_id = "LZYbirthday_9202101",
     anim_id = "-1"
   },
   [9202102] = {
     activity_id = 92021,
     sub_id = 2,
-    activity_text = "还有很多祝福想说？那就不急着说，反正还有一辈子的时间。",
+    activity_text = "Got endless wishes you want to say to me? There's no need to rush. We have an entire lifetime to unwrap those words, slowly, one by one.",
     anim_id = "-1"
   },
   [9202103] = {
     activity_id = 92021,
     sub_id = 2,
-    activity_text = "在让我感受到快乐这件事上，全世界没有人比你更擅长。",
+    activity_text = "No one in this world makes me feel joy the way you do.",
     anim_id = "-1"
   },
   [9202104] = {
     activity_id = 92021,
     sub_id = 2,
-    activity_text = "我确实想让幸福时刻永远停留，可比起Evol，我更喜欢你来帮我实现。",
+    activity_text = "I wish for moments like this to last forever. But rather than doing it with my Evol, I'd much prefer letting you help me realize this wish.",
     anim_id = "-1"
   },
   [9202105] = {
     activity_id = 92021,
     sub_id = 2,
-    activity_text = "……被夸奖过的蛋糕尝起来会更甜？我看每年的今天也是笨蛋歪理诞生日。",
+    activity_text = "...Compliments make cake sweeter? A certain dummy always comes up with the weirdest cake logic on my birthday.",
     anim_id = "-1"
   },
   [9202106] = {
     activity_id = 92021,
     sub_id = 2,
-    activity_text = "毕竟眼前的一切都是笨蛋的心意，我自然会想要拍照留念。",
+    activity_text = "A certain dummy poured her heart out and prepared everything in front of me. Of course, I'd want to take a picture.",
     anim_id = "-1"
   }
 }

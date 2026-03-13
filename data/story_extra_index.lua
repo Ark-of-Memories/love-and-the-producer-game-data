@@ -5784,13 +5784,13 @@ data = {
     story_type = 3,
     story_tag = 8,
     param_sys = "活动",
-    param_chap = "黄金恋比"
+    param_chap = "Golden Ratio"
   },
   [834102] = {
     story_type = 3,
     story_tag = 8,
     param_sys = "活动",
-    param_chap = "黄金恋比"
+    param_chap = "Golden Ratio"
   },
   [836101] = {
     story_type = 3,
@@ -6095,20 +6095,20 @@ data = {
   [838101] = {
     story_type = 3,
     story_tag = 8,
-    param_sys = "活动",
-    param_chap = "幸福折角"
+    param_sys = "Event",
+    param_chap = "Corner of Happiness"
   },
   [838102] = {
     story_type = 3,
     story_tag = 8,
-    param_sys = "活动",
-    param_chap = "幸福折角"
+    param_sys = "Event",
+    param_chap = "Corner of Happiness"
   },
   [838103] = {
     story_type = 3,
     story_tag = 8,
-    param_sys = "活动",
-    param_chap = "幸福折角"
+    param_sys = "Event",
+    param_chap = "Corner of Happiness"
   },
   [840101] = {
     story_type = 3,
@@ -6967,17 +6967,17 @@ data = {
     story_type = 2,
     story_tag = 4,
     npc_id = 4,
-    param_sys = "心灵探秘",
-    param_chap = "少将",
-    param_sect = "审问"
+    param_sys = "Mind's Quest",
+    param_chap = "Major General",
+    param_sect = "Interrogate"
   },
   [904018] = {
     story_type = 2,
     story_tag = 4,
     npc_id = 4,
-    param_sys = "心灵探秘",
-    param_chap = "少将",
-    param_sect = "打拳"
+    param_sys = "Mind's Quest",
+    param_chap = "Major General",
+    param_sect = "Punch Me"
   },
   [904019] = {
     story_type = 2,
@@ -7031,33 +7031,33 @@ data = {
     story_type = 2,
     story_tag = 4,
     npc_id = 1,
-    param_sys = "心灵探秘",
-    param_chap = "至神之所至",
-    param_sect = "此刻黄昏"
+    param_sys = "Mind's Quest",
+    param_chap = "Realm of the Divine",
+    param_sect = "Twilight Upon Now"
   },
   [912001] = {
     story_type = 2,
     story_tag = 4,
     npc_id = 2,
-    param_sys = "心灵探秘",
-    param_chap = "当沉浮沉溺",
-    param_sect = "长梦如痕"
+    param_sys = "Mind's Quest",
+    param_chap = "In The Ocean of Desire",
+    param_sect = "The Dream That Marked Me"
   },
   [913001] = {
     story_type = 2,
     story_tag = 4,
     npc_id = 3,
-    param_sys = "心灵探秘",
-    param_chap = "于命中心中",
-    param_sect = "小说新编"
+    param_sys = "Mind's Quest",
+    param_chap = "The Crossroad to You",
+    param_sect = "The Tale Rewoven"
   },
   [914001] = {
     story_type = 2,
     story_tag = 4,
     npc_id = 4,
-    param_sys = "心灵探秘",
-    param_chap = "一瞬或一生",
-    param_sect = "苏醒之后"
+    param_sys = "Mind's Quest",
+    param_chap = "Now or Forever",
+    param_sect = "Upon Awakening"
   },
   [950011] = {
     story_type = 1,

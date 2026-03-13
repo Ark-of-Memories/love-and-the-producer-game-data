@@ -1224,124 +1224,124 @@ data = {
     text_time = 1950
   },
   [140648000] = {
-    content = "下次再来玩桌游吧？",
+    content = "Want to play board games again next time?",
     text_time = 1350
   },
   [140648110] = {
-    title = "继续“苹果糖”的故事吧？",
-    content = "好呀，我们继续把“苹果糖”的故事推进到最后的结局吧？",
+    title = "Shall we continue Apple Candy's story?",
+    content = "Yeah! Let's keep going with Apple Candy's story and see it all the way to the end.",
     text_time = 3900
   },
   [140648111] = {
-    content = "嗯，难得“苹果糖”和恋人又能在一起了。",
+    content = "Apple Candy worked hard to be with his loved one.",
     text_time = 2850
   },
   [140648112] = {
-    content = "就让我们一起给他一个幸福的结局吧！",
+    content = "Let's make sure we give him the happiest ending possible.",
     text_time = 2550
   },
   [140648120] = {
-    title = "想试试别的桌游……",
-    content = "嗯，也想试试看其他类型的桌游了。",
+    title = "Want to try a different board game...",
+    content = "Hmm, I kinda feel like trying a different kind of board game too.",
     text_time = 2400
   },
   [140648121] = {
-    content = "好啊，我家里还有很多桌游没开封呢！",
+    content = "Sure! I've got a bunch of unopened ones at home.",
     text_time = 2550
   },
   [140648122] = {
-    content = "不过，还是先把“苹果糖”的故事完结掉再开始新的故事比较好吧？",
+    content = "But hey, maybe we should wrap up Apple Candy's story before we start something new.",
     text_time = 4500
   },
   [140648130] = {
-    title = "要不要去桌游馆玩玩看？",
-    content = "下次要不要去桌游馆玩玩看？",
+    title = "How about going to a board game café?",
+    content = "Next time, wanna check out a board game café?",
     text_time = 1950
   },
   [140648131] = {
-    content = "好呀，我知道一家可以预约布景的桌游馆，我现在就打电话预订哦。",
+    content = "Yes! I know a place where you can even book themed setups. I'll call and reserve us a spot right now.",
     text_time = 4500
   },
   [140648132] = {
-    content = "到时候就能更沉浸地体验“苹果糖”的故事了！",
+    content = "We'll really immerse ourselves in Apple Candy's story that way.",
     text_time = 3150
   },
   [140648210] = {
-    title = "“苹果糖”会满意我们的选择吗？",
-    content = "也不知道“苹果糖”会不会满意我们的选择……",
+    title = "Will Apple Candy be happy with our choices?",
+    content = "You think Apple Candy's happy with the choices we made?",
     text_time = 3150
   },
   [140648211] = {
-    content = "在这个游戏中，我们或许就代表着“苹果糖”的命运吧？",
+    content = "In this game, I guess we're basically playing as his fate.",
     text_time = 3750
   },
   [140648212] = {
-    content = "能和恋人再次过上平和的生活，我相信他一定会很满足的！",
+    content = "If he's back to living a peaceful life with his sweetheart, I'd bet he's over the moon!",
     text_time = 3900
   },
   [140648220] = {
-    title = "希望“苹果糖”接下来的人生能顺利。",
-    content = "希望“苹果糖”接下来的人生能顺利呀。",
+    title = "I hope Apple Candy's life goes smoothly from here.",
+    content = "I hope Apple Candy's life goes smoothly from here.",
     text_time = 2700
   },
   [140648221] = {
-    content = "当然了，他前面付出了那么多努力，接下来一定会和恋人开心地享受生活的！",
+    content = "Of course he will. After everything he's been through, he deserves to just enjoy life with his lover.",
     text_time = 5100
   },
   [140648222] = {
-    content = "即便再有什么波折，不是还有我们俩在嘛~",
+    content = "And even if trouble pops up again, he's got the two of us watching his back.",
     text_time = 2850
   },
   [140648230] = {
-    title = "如果“苹果糖”会说话……",
-    content = "如果“苹果糖”会说话，不知道会对我说些什么呢？",
+    title = "If Apple Candy could talk...",
+    content = "If Apple Candy could talk, what do you think he'd say to me?",
     text_time = 3450
   },
   [140648231] = {
-    content = "他一定会感谢你的！你在关键的转折处帮他做了正确的选择——向恋人坦白了一切。",
+    content = "He'd totally thank you! You made the call that changed everything—telling his lover the truth.",
     text_time = 5550
   },
   [140648232] = {
-    content = "我相信后续所有的故事，都因为这个选择而被推向了美好的结局。",
+    content = "I'm sure that one choice set the whole story on course for a happy ending.",
     text_time = 4350
   },
   [140648310] = {
-    title = "如果你是“苹果糖”，你会想做什么？",
-    content = "如果你是“苹果糖”，你会想做些什么？",
+    title = "What would you want to do if you were...",
+    content = "If you were Apple Candy, what would you want to do?",
     text_time = 2700
   },
   [140648311] = {
-    content = "嗯……种土豆吧？和恋人一起种土豆。",
+    content = "Hmm... probably plant potatoes together with my lover.",
     text_time = 2550
   },
   [140648312] = {
-    content = "我好想试一试从零开始制作薯片哦……不知道味道会不会比买来的更好吃。",
+    content = "I've always wanted to try making potato chips from scratch. Wonder if they'd taste better than the store-bought.",
     text_time = 4950
   },
   [140648320] = {
-    title = "如果你是“苹果糖”，你最想改变的选择是？",
-    content = "如果你是“苹果糖”，你最想改变的选择是哪一个？",
+    title = "What choice would you want to change if...?",
+    content = "If you were Apple Candy, what choice would you want to change most?",
     text_time = 3450
   },
   [140648321] = {
-    content = "我从不想纠结于过去的事，也就没什么特别想要改变的选择。",
+    content = "I'm not the type to dwell on the past, so I don't really have one.",
     text_time = 4050
   },
   [140648322] = {
-    content = "嗯……一定要选的话，我会想在火锅店选择试一下爆辣火锅！",
+    content = "But... if I had to choose, maybe I'd go for the extra spicy hotpot that one time!",
     text_time = 4050
   },
   [140648330] = {
-    title = "如果你是“苹果糖”，你所期望的未来是？",
-    content = "如果你是“苹果糖”，你最希望未来是怎样的呀？",
+    title = "What kind of future would you want if...?",
+    content = "If you were Apple Candy, what kind of future would you want?",
     text_time = 3300
   },
   [140648331] = {
-    content = "“普通”的那一种吧？普通地和恋人一起生活，普通地一起变老……",
+    content = "Honestly? Just a normal one. Live an everyday life with the love of my life, grow old together...",
     text_time = 4500
   },
   [140648332] = {
-    content = "等到结局时拿到一个称号——“独属于她的，普通的超级英雄”。",
+    content = "And when it's all over, I want to unlock an achievement called \"an ordinary super hero, just for her\".",
     text_time = 4350
   },
   [140649000] = {

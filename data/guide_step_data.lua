@@ -6500,7 +6500,7 @@ data = {
       hand_y = 0,
       dialog_y = -100,
       emoji = "back_guide_normal",
-      content = "[c][bf5a5f]Tap and hold[-][/c] the romantic frame of your choice and [c][bf5a5f]drag[-][/c] it onto the white-framed area and drop it to decorate."
+      content = "[c][bf5a5f]Tap and hold[-][/c] the Love Keepsake of your choice and [c][bf5a5f]drag[-][/c] it onto the white-framed area and drop it to decorate."
     }
   },
   [176] = {

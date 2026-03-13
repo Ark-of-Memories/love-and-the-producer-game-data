@@ -1165,16 +1165,16 @@ data = {
     diary_text = "Seeing Victor do all this, a greedy notion sprouted up in my mind. On this special day, I wanted to hear Victor confess for once... his true feelings."
   },
   [109911] = {
-    diary_text = "我提前来到青森公园，为李泽言送去惊喜。汇合的时候，我却发现他有一丝疲惫。循着记忆中的路线前行，我们来到了森林火车前。"
+    diary_text = "I arrived early at Greenwood Park to surprise Victor. When we met up, however, I noticed a trace of fatigue on his face. Following the familiar path from memory, we arrived at the old train in the forest."
   },
   [109921] = {
-    diary_text = "火车依旧是旧时的路线，我们在车上互相讲述着彼此曾经在这里的经历。在发掘回忆的过程中，李泽言的心情也好了起来，讲了很多大学时期的趣事……"
+    diary_text = "The train still followed its original route. As we rode it, we shared stories of our past experiences here. As we unearthed old memories, Victor's mood gradually improved, and he began telling me amusing stories from his university days..."
   },
   [109931] = {
-    diary_text = "火车抵达了终点站，将我们送到了湖边，然而这里已经不是我和李泽言熟悉的模样。我们坐上船只，我用相机捕捉下了最为动人的好春光……"
+    diary_text = "When the train reached its final stop, it brought us to the lakeside—but the scenery was no longer the one we once knew. We boarded a boat, and I captured the most enchanting spring scenery with my camera..."
   },
   [109941] = {
-    diary_text = "旅程的后半段由我来带路，我来到了多年前遗憾没能去的奶茶店，在这里，李泽言告诉了我这次旅程之于他的意义。我和他约定，在这个春天里，我们还要书写更多美好的故事……"
+    diary_text = "I led the second half of our journey, guiding us to a boba tea shop I had regretted missing years ago. There, Victor told me what this journey meant to him. Together, we made a promise: this springtime, we would continue to create even more beautiful stories..."
   },
   [110011] = {
     diary_text = "Victor went out to celebrate after making big progress on a project. Meanwhile, after he came home, a series of actions indicated he was clearly tipsy."
@@ -1327,16 +1327,16 @@ data = {
     diary_text = "While we were scrambling to do on-site rehearsals, the chief business officer of our former sponsor paid a special visit and started giving me a hard time, but I calmly and firmly stood my ground and fired back. With lots of things coming to a close for now, Victor and I holed up at home, cherishing a brief period of downtime."
   },
   [111211] = {
-    diary_text = "我来到李泽言办公室倾诉了工作的烦恼，实则是给他埋下了一个“小陷阱”。李泽言似乎早已看穿，但并没有揭穿我。"
+    diary_text = "I went to Victor's office, pretending to confide in him about work frustrations, but in truth, I was setting a small \"trap.\" Victor likely saw through it from the start, yet said nothing."
   },
   [111221] = {
-    diary_text = "为了说服李泽言成为传统文化活动的“板块代言人”，我给他下载了短视频软件，却被他看到了我记录他烹饪时的视频。"
+    diary_text = "As part of my plan, I downloaded a short video app onto his phone, only for him to discover the clips I'd secretly filmed of him cooking."
   },
   [111231] = {
-    diary_text = "我带李泽言来到了一个二胡工作室，在这里为他拍摄了一段视频，向他证明我的方案的可行性，而他的高度配合让我有些意外。"
+    diary_text = "Later, I took him to an erhu studio and recorded a demo video, hoping to prove the concept behind my proposal. His cooperation that day caught me completely off guard."
   },
   [111241] = {
-    diary_text = "正式拍摄短视频的当天，李泽言吐露出了他的心声——他之所以如此配合我，是因为在他心里，我已经是十分成熟的被投资方和伴侣。"
+    diary_text = "On the day of the official shoot, Victor finally shared what he had been thinking all along—he said he agreed to do all this because, in his eyes, I'd already become a capable, reliable partner, both in business and in life."
   },
   [111311] = {
     diary_text = "Tonight coming back from a dinner party, I saw Victor at the door waiting for me. As we talked, I learned that this \"big brother\" figure who I thought would always be around was going to be leaving home soon..."
@@ -1417,16 +1417,16 @@ data = {
     diary_text = "When the elderly woman in the show reminisced about her past, I couldn't help but think about our future. To cement a bet with him that wouldn't be settled for decades, I made a golden ring with the wrappers from the chocolates. Even without the bet, however, I knew that today would be forever etched in our memory."
   },
   [111911] = {
-    diary_text = "尽管前期做了不少准备工作，华锐新购入商厦的人流量却并不如预期。席间管理层进行复盘时，我意外听到了一个有些玄妙的原因。"
+    diary_text = "Despite thorough preparations in the early stages, the foot traffic at LFG's newly acquired mall fell short of expectations. During a management review meeting, I happened to overhear a rather superstitious explanation."
   },
   [111921] = {
-    diary_text = "趁李泽言睡觉的时候，我偷偷拿出手机，搜索起了有关石狮子和风水球的都市传说。正听到关键的时候，耳畔忽然传来一阵温热……"
+    diary_text = "While Victor was asleep, I quietly pulled out my phone and started searching for urban legends involving bronze lions and their fengshui orbs. Just as I reached a particularly intriguing part of the story, a warm breath brushed unexpectedly against my ear..."
   },
   [111931] = {
-    diary_text = "趁着夜色，我和李泽言依照视频中的方法，向石狮子张口的方向前进。尽管有些困倦，但因为李泽言在身边，我反而得以实现了大学时的某个愿望……"
+    diary_text = "Under the veil of night, Victor and I followed the direction indicated by the lions, just as the video had instructed. Though drowsiness tugged at me, his presence beside me gave me the courage to fulfill a small wish I'd once made back in college."
   },
   [111941] = {
-    diary_text = "虽然不明白双层巴士和石狮子之间有什么关系，我和李泽言还是坐上了返程的巴士。阳光迎面而来，我正惬意地靠在他身边的时候，广播中的某条语音不经意间解答了我们的困惑……"
+    diary_text = "We couldn't figure out what a double-decker bus had to do with bronze lions, but we boarded the return bus anyway. As the morning sun streamed in and I leaned contentedly against Victor's shoulder, an offhand message from the bus's broadcast unexpectedly unraveled the mystery..."
   },
   [112011] = {
     diary_text = "Today, since I've been away on a business trip, I video chatted with Victor. We were talking as usual when he noticed a Shiba Inu ornament I'd hidden in a cabinet. Finally unable to contain his curiosity, he asked me why on earth I had hidden so many of these things around the house."
@@ -1453,52 +1453,52 @@ data = {
     diary_text = "李泽言在阳台上为我准备了一个“蓄谋已久”的惊喜，也是他一直向我保密的纪念方式。我们在夜幕下共舞，他让我意识到，即使不够完美也无需担忧，因为这个不完美的我，早已被他全部接纳了。"
   },
   [112211] = {
-    diary_text = "一想到又可以和李泽言体验结婚了，我就开心得睡不着觉。李泽言好像也很开心，早早陪我出门等候婚礼的开始。可我们的满心期待却只换来了不可抗力、活动取消的坏消息。"
+    diary_text = "The thought of experiencing a wedding with Victor all over again had me so overjoyed that I couldn't sleep a wink. He seemed just as delighted, waking early to join me outside as we waited for the ceremony to begin. But all our anticipation was met with an unexpected blow: due to unforeseen circumstances, the event had been canceled."
   },
   [112221] = {
-    diary_text = "为了扫清空欢喜带来的不甘和遗憾，我用了很多办法，但收效并不明显。就在这时，李泽言告诉我，他为我准备了一场婚礼。"
+    diary_text = "I tried everything I could think of to shake off the disappointment, to fill the space where joy had so abruptly been cut short. But nothing seemed to help. Then Victor told me, quietly and without fanfare, that he had prepared a wedding for me."
   },
   [112231] = {
-    diary_text = "这场婚礼比我想象中要正式不少，每个步骤似乎都是按照着古代礼制进行的。而在被李泽言迎下花轿后，我惊喜地发现了一位特殊的婚礼来宾。"
+    diary_text = "It was far more elaborate than I ever expected. Every step followed the solemn grace of ancient tradition, each ritual unfolding with reverence and care. And when Victor came to help me down from the bridal sedan, I was met with a heartwarming surprise—a very special guest had come to witness it all."
   },
   [112241] = {
-    diary_text = "婚礼太过真实，让我有些恍惚。我尝试着用“夫君”称呼李泽言，却怎么都觉得有些别扭。晨起后出门散步，在纷扬的白雪中，我们梳理起了这两日的种种心绪，而方才的微妙氛围也早已在不知不觉中被纾解了……"
+    diary_text = "The ceremony felt so vivid, so achingly real, that I found myself momentarily adrift in it. I tried calling Victor my \"husband,\" but the word caught strangely in my throat. Later in the morning, we took a walk through the snow, letting the crisp air and gentle stillness help us make sense of the whirlwind we'd just lived through. And somewhere in that quiet, the tenderness that had gathered between us found its way into a calm and easy harmony."
   },
   [112311] = {
-    diary_text = "在年底前的工作汇报中，我和李泽言讨论起了最后正要收尾的案子。我希望能在展览之后举办一场烟花秀，并顺势邀请了李泽言一起参加。"
+    diary_text = "While we reviewed our year-end progress, I talked with Victor about the final case we were wrapping up. I mentioned my hope of celebrating with a fireworks show after the exhibition and, in passing, invited him to join me."
   },
   [112321] = {
-    diary_text = "展会当天，本来在紧锣密鼓准备的我却收到了烟花秀因为天气原因取消的消息。一时陷入失落的我有些没有头绪，却没想到李泽言在此刻突然提出了一个新的“烟花计划”。"
+    diary_text = "On the day of the exhibition, amidst the flurry of preparations, I learned that the fireworks had been canceled due to the bad weather. Just as my spirits began to sink, Victor calmly proposed a new idea—a different kind of fireworks."
   },
   [112331] = {
-    diary_text = "用屏幕绽放烟花的计划虽然成功推进，但还需要一些时间调试，为了延长原本的展览时间，我决定和李泽言一同进入会场，吸引宾客们的注意力。"
+    diary_text = "We set the plan in motion to showcase fireworks on digital screens, but it still needed some adjustments. To buy us some extra time, I teamed up with Victor to engage the guests inside the venue."
   },
   [112341] = {
-    diary_text = "活动结束，客人们也逐渐离开了天空餐厅，此刻的天空却捉弄般地放晴了。正准备离开，李泽言却提议让我们走一走观光楼梯。在楼梯上，李泽言点燃的烟火染尽了夜色，此时便是最好的庆祝。"
+    diary_text = "By the time the event wrapped up and the Sky Restaurant had mostly cleared out, the weather had miraculously cleared—almost ironically. Before we left, Victor suggested we take the scenic staircase. When we reached the top, he lit a series of sparkling fireworks that illuminated the night sky, turning the moment into our own private celebration."
   },
   [112411] = {
-    diary_text = "清晨，在李泽言睡醒之前，我到了游轮集控室做生日惊喜的最终确认。由于调错了音轨，整艘游轮的华锐职员都知道了今天是李泽言的生日。"
+    diary_text = "At daybreak, before Victor had even woken, I headed to the cruise ship's control room to finalize the details of his birthday surprise. But a simple slip let every LFG employee aboard the ship know it was his birthday."
   },
   [112421] = {
-    diary_text = "我们正在小镇游玩时，有职员热情地对李泽言送上了祝福。这下，知道他过生日的人越来越多了。于是，他单方面让我帮忙收下了纷至沓来的祝福。"
+    diary_text = "While we were exploring the town later that morning, one of the staff members warmly offered Victor their birthday wishes. And just like that, the word kept spreading. More and more people joined in with congratulations—until eventually, he decided to assign me the task of receiving them all on his behalf."
   },
   [112431] = {
-    diary_text = "在华锐职员们为李泽言庆生的现场，他自然地以家属身份介绍了我。我也因为上午的冒失向大家表达了歉意。"
+    diary_text = "When the LFG team hosted a small birthday celebration for him, to my surprise, he introduced me as his girlfriend. I took the opportunity to offer a lighthearted apology to everyone for the earlier mishap."
   },
   [112441] = {
-    diary_text = "在李泽言主动发问后，我才意识到原来他一直在期待我准备的生日惊喜，于是便牵着他跑去了游轮最顶层的甲板。那里，有一份特别的生日礼物正在等着他……"
+    diary_text = "It wasn't until he turned to me and asked that I realized—he'd been quietly looking forward to the surprise I'd promised. So I took his hand and led him up to the very top deck of the ship, where a special birthday gift had been waiting just for him..."
   },
   [112511] = {
-    diary_text = "为董事会忙了一天之后，李泽言又参加应酬，迟迟没有回家。我放心不下跑去接他。不过我的担心也许是多余的，因为散场后的李总看起来好像心情不错……？"
+    diary_text = "After a long day of board meetings, Victor headed straight to another business dinner. Worried that it was getting late and he still wasn't back, I went to pick him up. But it turned out that my concern was unnecessary, as when the event ended, Victor actually seemed to be in a surprisingly good mood."
   },
   [112521] = {
-    diary_text = "回家之后李泽言看起来一切如常，但还是被我发现了泄露他醉意的“证据”。得知他是因为影视板块得到了肯定，才高兴得多喝了点，我也跟着开心起来。然而睡到半夜，我忽然发现身边的人不见踪影……"
+    diary_text = "Back home, he appeared composed as usual. Still, I caught subtle signs that betrayed his tipsiness. It turned out he had reason to celebrate: LFG's film and television division had received recognition from the board, and in his joy, Victor had a few extra drinks. Hearing this, I couldn't help but feel happy for him too. However, later that night, I awoke to find him missing from the bed..."
   },
   [112531] = {
-    diary_text = "我听见楼下传来弹奏钢琴的声音，原来是布丁在琴上“跑酷”。可更离谱的是，李泽言居然从厨房出来，也坐在琴边偷偷弹奏我的乐谱。一番询问后我才知道，他是在等给我的“奖励”出炉……"
+    diary_text = "Just then, I heard someone playing the piano downstairs, but it turned out to be Pudding running across the keys. However, I was surprised when Victor emerged from the kitchen and quietly sat down at the piano, secretly practicing a piece from my music sheets. Only after some gentle coaxing did he reveal the truth: he was waiting for my surprise \"reward\" to finish baking."
   },
   [112541] = {
-    diary_text = "坏消息是，李泽言半夜做的布丁造型不佳；好消息是，我还是如愿吃到了这份心意。作为回礼，我想要把先前偷偷练习的歌曲唱给他听，而他答应为我伴奏。和煦的暖阳中，音符悦动，琴瑟和鸣，想要让对方感到幸福快乐的心情，也在此刻共振。"
+    diary_text = "Despite the efforts, the late-night pudding he made me didn't turn out looking very pretty, but it did little to hide the heartfelt wishes inside. I enjoyed it to the last bite. As a return gesture, I offered to sing the song I'd been secretly rehearsing, and he agreed to play along on the piano. In the soft warmth of morning sunlight, the melodies danced as our hearts synced into one—each hoping to bring the other a little more happiness."
   },
   [112611] = {
     diary_text = "我和李泽言给某家新开的民宿当体验官，在当地的步行街上，一位古风打扮的大娘突然召开相亲大会，还声称她脚边的小哈士奇富贵拥有给有缘人牵线的特殊能力。"
@@ -1559,6 +1559,18 @@ data = {
   },
   [113041] = {
     diary_text = "末日天灾不断，在一场突如其来的地震里，李泽言带我死里逃生。而他也终于向我揭开了所有的秘密。原来在我不知道的日子里，我们已经认识很久很久了……"
+  },
+  [113111] = {
+    diary_text = "Today, the system gave me a score of 68 again, and once more, I failed to get promoted to Inspector Captain. Then, I never imagined that fate would place me in charge of overseeing that infamous repeat offender... Number 888. He was truly insufferable."
+  },
+  [113121] = {
+    diary_text = "888 was living way too comfortably for an inmate! How did he know so many powerful people? It was almost like there was an entirely different set of rules in their world, rules I was not privy to."
+  },
+  [113131] = {
+    diary_text = "I'd always thought he was a dangerous criminal, but in that simulated city, we talked about life, about the system... And he didn't seem like a criminal at all. He was just a regular person."
+  },
+  [113141] = {
+    diary_text = "Out of nowhere, the system sentenced Victor to death. Why?! The Captain's cold detachment, the shocking revelations—it all made me see the truth behind these so-called \"rules\". Forget the regulations, I was breaking Victor out of here!"
   },
   [114011] = {
     diary_text = "在解决雷教授的案件后，我们跟着福尔摩斯第二封信件的指引，来到了一家咖啡店，从而进入了VR游戏中。而此刻醒来的我们乘着马车，来到了豪斯顿庄园。伴随着车夫递交给我们J.M的信件，我们也得知此行的目的是寻找“神秘财宝”。"
@@ -1663,28 +1675,28 @@ data = {
     diary_text = "理解了小猫，也要帮助小猫理解人类。李泽言使出杀手锏“美食诱惑”，终于驯服了露露，让它和我重归于好。而在这个过程中，我发觉自己和李泽言的默契也在不断加深……"
   },
   [120211] = {
-    diary_text = "今天和李泽言一起去马术俱乐部，本以为是久违的遛马，却看见了他训练马球的帅气身影，原来他要去参加某场重要的社交午宴，需要为此准备，而我也收到了他的“倾情邀请”。"
+    diary_text = "Today, Victor and I went to the equestrian club together. I thought it was a simple horse ride, and was surprised to see him training for polo. He told me he was preparing for an important luncheon and \"courteously\" invited me to join him."
   },
   [120221] = {
-    diary_text = "在加紧培训了几天马球技术后我腰酸背痛，面对可能会上场的境况心中颇有压力，而李泽言却用他的方式抚平了我的紧张，但宴会当天还是发生了让我出乎意料的事情……"
+    diary_text = "After a few days of intense training, I started feeling sore all over and nervous that I might have to play polo. He reassured me in his own way, but on the day of the luncheon, something unexpected still happened..."
   },
   [120231] = {
-    diary_text = "我从李泽言的神色中察觉到所谓随机并非巧合，他对这个猜想不置可否，随着比赛开始，我和所有观众一样，都被他的登场和表现紧紧吸引着……"
+    diary_text = "I saw in Victor's eyes that it wasn't just a random draw, but he didn't confirm my suspicion. As the match went on, like the audience, I was captivated by his performance..."
   },
   [120241] = {
-    diary_text = "第二小节开始时，我恍然发现李泽言的位置换人了，便无心观赛前去找他。他举重若轻地说出了那些复杂的“不上场”理由，尽管如此，在纷扰之外，他也为我开辟了一场特殊的马球比赛……"
+    diary_text = "After the second period began, I realized someone else had taken Victor's place, so I went to look for him. He explained to me the complicated reasons why he stopped playing. Still, he showed me a special polo match with no distractions..."
   },
   [120311] = {
-    diary_text = "灯火摇曳的街区中，我不动声色地跟一对已经变异“死神”情侣交谈着，为李泽言拿取道具争取时间。见我独自一人，对方似乎动了将我拉走一起转化的念头。就在这时，李泽言的声音忽然响起……"
+    diary_text = "Beneath the wavering glow of streetlamps, I held a composed conversation with an infected \"Reaper\" couple, quietly buying time for Victor to secure the item we needed. Realizing I was alone, the pair began to entertain a darker idea—perhaps I, too, could be converted. But just as the tension thickened, Victor's voice rang out."
   },
   [120321] = {
-    diary_text = "我们循着道具给出的地点信息，前往了污染源所在的地铁。然而刚走入地下便撞见了一道诡异的影子，站台的灯也不约而同的熄灭。我本能地想去抱住李泽言，黑暗中却跟他撞到了一起……"
+    diary_text = "Guided by the device's coordinates, we made our way to the subway to find the contamination source. No sooner had we stepped into the underground than a strange shadow swept past, and every light on the platform blinked out in unison. Instinct took over. I reached blindly for Victor, only to bump straight into him in the darkness."
   },
   [120331] = {
-    diary_text = "我跟李泽言登上了姗姗来迟的地铁，通过一系列机关后，终于到达了驾驶室的位置。我兴高采烈地拉开车门，想要向李泽言展示胜利，却意外落入了陷阱之中……"
+    diary_text = "We eventually boarded the delayed train. After navigating a series of elaborate traps, we arrived at the conductor's cabin. Elated, I threw open the door, ready to celebrate our success with Victor—only to fall into another carefully laid trap."
   },
   [120341] = {
-    diary_text = "想到我跟李泽言马上要分开，为了各自阵营的任务行动，我不由有些沮丧。然而李泽言却抓住了我，提出与我一起转化为“变异者”——在他看来，游戏更大的乐趣在于与我一起。无论我们在哪个阵营，都会赢得胜利。"
+    diary_text = "As the end of our journey approached, a quiet heaviness settled over me. Soon, we would part ways, each returning to our own faction. But then, Victor reached for me. Instead of goodbye, he offered something else—a chance to become an \"Infected\" together. To him, the real joy of the game lay not in victory, but in playing it with me. No matter which side we were on, as long as we faced it together, we had already won."
   },
   [120411] = {
     diary_text = "我来到南城湾的时候，李泽言也谈完了他的事情，我们正好一起去吃G市的隐藏美食——说起来，每次看到他戴着安全帽的模样，都觉得格外可爱呢！"
@@ -1831,22 +1843,22 @@ data = {
     diary_text = "Getting better with work, I wanted to thank Victor. I booked a garden villa just for us and planned a surprise. As we danced, we opened up about our feelings."
   },
   [160011] = {
-    diary_text = "互助乡的宴席上觥筹交错。在几位乡长不着声色的注视中，我笑着给李泽言倒了一杯酒，暗中却轻轻勾了下他的掌心：就像前段日子我跟他视频时透露的一样，这个地方并没有看上去那么简单……"
+    diary_text = "At the banquet in Harmony Village, the sounds of toasts and laughter filled the air. Under the discreet gaze of the village elders, I filled Victor's wine glass with a smile, all the while secretly giving him a light scratch on his palm. As I'd mentioned in my video chat with him a few days ago, there was more than meets the eye to this place..."
   },
   [160021] = {
-    diary_text = "李泽言原本想要和我连夜离开，却得知互助乡的山路和信号塔都因为暴雨“意外”损毁了，只得继续留下。回到房间后，我被他深深地拥在怀中。然而藏在台灯中的窃听器却让我们警醒，眼下还处于危险当中。"
+    diary_text = "Victor had wanted to leave with me that very night, but after learning that both the mountain road and the cell tower servicing Harmony Village had been taken out in a \"freak storm\", we had no choice but to stay. When we got back to the room, he held me close in his arms. But then, we found a listening device under a lampshade, and we knew we were still in danger."
   },
   [160031] = {
-    diary_text = "与李泽言商定好接下来的行动后，我终于安心地在他怀中睡去。次日醒来，却发现互助乡的人已经迫不及待地开始了试图洗脑李泽言的行动。然而三名乡长之间的行动，却似乎存在着矛盾。"
+    diary_text = "After hashing out our next few moves with Victor, I finally settled down and fell asleep in his embrace. Upon waking up the next day, we discovered the people of Harmony Village were already chomping at the bit to start trying to brainwash Victor. However, there seemed to be a conflict forming among the three village elders."
   },
   [160041] = {
-    diary_text = "备份好隐形摄像机中的证据后，我伪装成虔诚忏悔的样子成功骗过乡长，终于见到了被限制行动的李泽言。尽管有所预期，但他的伤势却比我想象中更加严重……"
+    diary_text = "With evidence from a hidden camera at the ready, I managed to fool a village elder with an act of false penitence and finally got to see Victor where he was being held. I knew it would be bad going in, but his wounds were even more severe than I'd imagined..."
   },
   [160051] = {
-    diary_text = "次日早上，我和李泽言成功见到了另两名乡长。趁着李泽言跟他们去会议室交谈的时机，我在楼中开始小心探查，却发现了互助乡更黑暗的秘密……"
+    diary_text = "The next morning, Victor and I managed to see the other two elders. While Victor went to a conference room to talk with them, I started snooping around the place and discovered the dark secret of Harmony Village..."
   },
   [160061] = {
-    diary_text = "成功向当地执法军提供线索后，我和李泽言终于从互助乡离开，却还是有些恍惚。在他安抚的怀中，我按捺不住提出了心中的疑问，得到的却是一个意外而温暖的回答……"
+    diary_text = "After turning the evidence in to local law enforcement, Victor and I finally left Harmony Village, although we were still in a bit of shock. In his soothing embrace, I couldn't help but ask the question nagging me, and the answer I got was unexpected and endearing..."
   },
   [190211] = {
     diary_text = "I helped the owner of the Three Dreams Quarter to get some groceries. I saw Victor on the way back and even got wine on him everywhere..."
@@ -3215,16 +3227,16 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "Sure enough, he knew all along that I was no diner waitress! With pomp and circumstance, Lucien sent me a letter of visitation, and I took him on a tour of my old-fashioned and boring mansion, hoping that he would discover my true heart hidden in this gilded cage..."
   },
   [211211] = {
-    diary_text = "取材结束，我也终于可以迎来和许墨的城市观光小假期。乘电梯离开大厦时，团队里的摄影师为打发时间，讲起了流传在大厦间的怪谈……"
+    diary_text = "With our work wrapped up, I was excited for a sightseeing holiday with Lucien. While we were in the elevator, a cameraman shared a strange rumor about the building to pass the time..."
   },
   [211221] = {
-    diary_text = "虽然被不稳定的电梯吓了一跳，也无法通过空间折叠离开，许墨清晰的思路让我重新冷静下来，跟他一起寻找离开大厦的方法……"
+    diary_text = "The malfunctioning elevator startled us, and since we couldn't quickly escape through space folding, Lucien's calm logic helped me stay composed as we worked together to find a way out."
   },
   [211231] = {
-    diary_text = "我在许墨的引导下，弄清楚了电梯间之谜，大厦在这一刻终于褪下颇具灵异色彩的外衣。"
+    diary_text = "Thanks to Lucien, we unraveled the mystery of the elevator, finally explaining the building's \"haunted\" reputation."
   },
   [211241] = {
-    diary_text = "庆功宴顺利举办，这次有惊无险的经历反倒激起了大家制作一档怪谈节目的兴趣。对我来说，和许墨共度的假期也终于来临，不想一通意料之外的电话打了过来……"
+    diary_text = "Our wrap party was a hit, and our thrilling experience even sparked interest in creating a show about urban legends. Just as my holiday with Lucien was about to begin, an unexpected phone call interrupted us."
   },
   [211311] = {
     diary_text = "Lucien and I drove to this southern town, but the temperature was far lower than we imagined. After warming each other up in the living room, Lucien started organizing the equipment for the experiment he was here consulting for, and the device he was handling piqued my curiosity..."
@@ -3257,16 +3269,16 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "We eventually arrived at the university library, where we saw many of the novels and poetry collections we had once read together. It felt as if countless things in this world were quietly witnessing the intersection of our lives. At that moment, however, I discovered something about him that he had never told me before..."
   },
   [211511] = {
-    diary_text = "在去往一个露营小村的路上，我和许墨开心地进行着成语接龙的游戏。我问许墨此次出行的原因，许墨提及了上周我们看的话剧……"
+    diary_text = "One afternoon, Lucien received a phone call and left in a hurry. From the look on his face, I had a bad feeling. When he returned late that night, he didn't say a word, but I immediately understood. As we sat together on the couch, he spoke at length about Professor Young, sharing his memories and thoughts. Eventually, he told me he had declined an invitation from the professor."
   },
   [211521] = {
-    diary_text = "原来许墨之所以带我去露营小村，是为了像话剧所表达的含义一样，多为我创造生活中的美妙瞬间！可就在这时，马路上突然冲出来一道白色的影子……"
+    diary_text = "Lucien soon returned to his usual rhythm, and I didn't push further. I threw myself into the documentary work, pouring my focus into capturing every detail of Professor Young's legacy. Later, Lucien brought me back to Professor Young's studio. I was struck by the beauty of the old house, and as I stood surrounded by shelves of documents and books, I felt a deep sense of reverence."
   },
   [211531] = {
-    diary_text = "许墨停车查看后，发现了一只走丢的小博美。我和许墨决定帮助它等待主人，趁这段时间，许墨带我们来到了附近的一片田园风光。"
+    diary_text = "Then, during another visit to the studio, I was caught off guard—Lucien had changed into Chinese robes and was playing the guqin by the pond. As he spoke, I heard the story behind it, and with it came a wave of quiet respect and remembrance. I couldn't help but interview him at that moment, and his answers were honest, raw, and full of feeling."
   },
   [211541] = {
-    diary_text = "为了让我更好地享受这里，许墨为我搭建了一个简易的“临时露营区”。我也明白过来，原来我一直在用心记录和他发生的所有美好。"
+    diary_text = "Time passed, almost without notice. Somewhere along the way, Lucien had finished the work Professor Young had entrusted to him. And in the end, he invited me once more to the pond. There, he played the guqin for me. Even though he never said anything outright, I understood everything he meant."
   },
   [211611] = {
     diary_text = "On the eve of Valentine's Day, Lucien and I made plans separately so we could spend the next day together. It snowed on the way home, and he surprisingly showed up with his Evol when I was on the phone with him!"
@@ -3281,16 +3293,16 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "When the rain let up a little, we quickly ran home under Lucien's clothes. To our surprise, the weather cleared up and the sun came out after we showered! A beam of light happened to shine on the curtains that we put up earlier today, creating another wonderful coincidence..."
   },
   [211711] = {
-    diary_text = "午后许墨接到一个电话便匆匆出门，看他的表情我总觉得不太好。直到深夜他回来时，尽管无言，我也瞬间明白了结果。许墨与我在沙发上说了很多关于杨院长的事，最后也告诉我他拒绝了杨院长的一个邀请。"
+    diary_text = "One afternoon, Lucien received a phone call and left in a hurry. From the look on his face, I had a bad feeling. When he returned late that night, he didn't say a word, but I immediately understood. As we sat together on the couch, he spoke at length about Professor Young, sharing his memories and thoughts. Eventually, he told me he had declined an invitation from the professor."
   },
   [211721] = {
-    diary_text = "许墨又回到了往日的轨迹中，而我也没有多说什么，专心在杨老的拍摄中。后来许墨带我来到了杨老的工作室，我惊讶于这栋古宅的美丽，看着那一屋子的资料与书籍也陷入了深深的敬佩之中。"
+    diary_text = "Lucien soon returned to his usual rhythm, and I didn't push further. I threw myself into the documentary work, pouring my focus into capturing every detail of Professor Young's legacy. Later, Lucien brought me back to Professor Young's studio. I was struck by the beauty of the old house, and as I stood surrounded by shelves of documents and books, I felt a deep sense of reverence."
   },
   [211731] = {
-    diary_text = "没想到在我再去拍摄工作室时，竟看到许墨换了一身袍衫，在池边弹奏古琴的画面。从他的口中，我听到了其中的缘由，也感受到了他的敬意与怀念。在拍摄时我忍不住采访了许墨，而许墨也给了极为真诚的回答。"
+    diary_text = "Then, during another visit to the studio, I was caught off guard—Lucien had changed into Chinese robes and was playing the guqin by the pond. As he spoke, I heard the story behind it, and with it came a wave of quiet respect and remembrance. I couldn't help but interview him at that moment, and his answers were honest, raw, and full of feeling."
   },
   [211741] = {
-    diary_text = "时间被一页页翻过，不知何时许墨已经完成了杨老交给他的工作。最后他邀请我又来到了池边，为我弹奏起古琴。那些他未说出口的话，我都明了。"
+    diary_text = "Time passed, almost without notice. Somewhere along the way, Lucien had finished the work Professor Young had entrusted to him. And in the end, he invited me once more to the pond. There, he played the guqin for me. Even though he never said anything outright, I understood everything he meant."
   },
   [211811] = {
     diary_text = "被雨声和闹钟叫醒的我怎么都离不开被窝的怀抱，加上许墨的推波助澜，起床的难度大大上升，难道今天就真的这么在家里呆上一天吗？"
@@ -3329,16 +3341,16 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "竞聘当天我走上答辩席，才发现许墨竟也是考官之一。答辩结束后我找到许墨，却意外发现他藏在笔记本里的“小秘密”……"
   },
   [212111] = {
-    diary_text = "在得知常去的陶艺手工坊搬迁后，我和许墨决定周末一起去新店制陶。然而我们抵达时，却发现老板因病无法到店，只留下一串钥匙给我们。"
+    diary_text = "After learning that the pottery handicraft parlor we frequented had moved elsewhere, Lucien and I decided to go to the new store to make some pottery over the weekend. However, we reached the store only to discover the parlor was closed because the owner was ill, and he left us a ring of keys."
   },
   [212121] = {
-    diary_text = "我们在手工坊内做准备，客人们却接二连三地造访。我忙得晕头转向，和许墨的相处也总是被意外打断。但在被问到制陶秘笈时，我想起了和许墨的制陶时光，心情变得柔软起来。"
+    diary_text = "We started making preparations in the handicraft parlor, but customers kept coming. I was rushed off my feet and could hardly spend any time with Lucien. But when asked about my secret of making pottery, I recalled the occasions when I had made pottery with Lucien, and my heart softened."
   },
   [212131] = {
-    diary_text = "营业告一段落，总算可以制作陶杯了。我们一边拉坯，一边聊起客人们做的有趣陶器，分析他们的性格和心情，令我没想到的是，许墨竟然因为我的提问，弄坏了基本成型的陶杯！"
+    diary_text = "The business hours were over, and we could finally start making clay cups. While shaping the clay, we chatted about the interesting pottery made by the customers and analyzed their personalities and how they had felt. Unexpectedly, due to a question of mine, Lucien ruined the clay cup that had almost fully taken shape!"
   },
   [212141] = {
-    diary_text = "面对坏掉的陶杯，许墨向我诉说了他喜欢陶器的理由——因为能从上面读到和我一起的记忆。在满心甜蜜中，我们重新制作出一只完美的陶杯，并在上面留下了我们的心意。"
+    diary_text = "In front of the ruined clay cup, Lucien told me the reason for his fondness for pottery—it carried memories of the time he had spent with me. My heart brimming over with happiness, we started over and made another clay cup, a perfect one, and we marked it in a sentimental way."
   },
   [212211] = {
     diary_text = "我独自走在辐射区里，这里早已荒败一片，但还是从中找到了许多对许墨有帮助的书籍。等折返后，我和许墨又按照无数个往日那般，开始了新一轮的实验。"
@@ -3404,16 +3416,16 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "罗柯回来的当天是个周末，我和许墨也跟同事们一起来到研究所，等待罗柯揭晓小猫身份的答案。然而他一眼认出这不是晴天，为此受到了全体同事的激烈反驳，最终只能和宠物店打视频来证明自己。我不禁感慨，朝夕相处带来的“熟悉感”有时就是这么不讲道理，但又很值得信任——动物如此，人也一样。"
   },
   [212711] = {
-    diary_text = "我们此行住在距离实验室不远的卡弗山庄农场内，民宿颇具年代感的装修风格令我误以为回到七十年代，而我也从许墨口中得知，他曾来过这里。"
+    diary_text = "We stayed at Carver Hill Farm, not far from the lab. The old-fashioned furnishings in the bed-and-breakfast felt like we were back in the '70s, and I learned from Lucien that he had been here before."
   },
   [212721] = {
-    diary_text = "原来劳森博士曾带着整个实验室来过这座农场，而这里的主人，一对华裔夫妇也是博士的故友。我和许墨行走在农场的苹果园，听他说起曾在这里发生的故事。"
+    diary_text = "Dr. Lawson had brought the whole lab staff to this farm, and the owners, a Chinese couple, were old friends of his. I strolled across the apple orchard with Lucien and listened as he shared his stories here."
   },
   [212731] = {
-    diary_text = "从农场离开后我们抵达了劳森博士的实验室。我从许墨口中得知，博士外出演讲，现在实验室的负责人是他当年的大师兄，今天也恰好不在。在许墨娓娓道来的往事中，我们开始了这趟故地之旅，令我像是跨越时间从他青春走过，触碰那些与他有关的人生碎片。"
+    diary_text = "After leaving the farm, we arrived at Dr. Lawson's lab. Lucien told me that Dr. Lawson was away for events and that Kurt was in charge of the lab now, who happened to not be here today either. As Lucien recalled his time here, we began our journey down memory lane, as if I were traveling back in time and reliving pieces of his past."
   },
   [212741] = {
-    diary_text = "回到民宿后，我将回来路上买的一串编织手绳送给了许墨。或许是碰巧看到一颗像是苹果的玛瑙装饰，又或许只是今天的经历让我想送他些什么。我告诉许墨，我希望自己也能成为一块特别的碎片，永远留在他的记忆中。而他也告诉我，他产生了一些新的感触……"
+    diary_text = "After returning to our bed-and-breakfast, I gave Lucien a handwoven bracelet that I bought on our way home. Perhaps it was because of the apple-shaped agate, or that I just wanted to give him something after everything today. I told him that I wanted a special place in his memories, and he said that he had some new revelations, too..."
   },
   [212811] = {
     diary_text = "今天和许墨一起去吃我们预约抢了很久抢到的一家私厨，结果我因为味觉丧失，吃什么都不香，感觉好浪费钱，也好辜负这次约会。"
@@ -3440,76 +3452,76 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "在旅途的最后一日，我和他进行了象棋比赛。在惨败了三局后，我才发现他早已在民宿的花园里为我准备好了一场泳池派对。玩闹间，我忽然意识到自己似乎从来没有赢过他……"
   },
   [213011] = {
-    diary_text = "诡异的古堡中，我一边听许墨在说着某个奇怪的黑童话故事，一边逃跑。直到我们躲在一个房间内，才避开了始终追在身后的脚步声，我也有机会终于能够好好欣赏一下许墨的万圣特别妆造……"
+    diary_text = "Within the eerie depths of a castle, I fled through shadowed hallways, all while Lucien calmly narrated a strange, dark fairy tale. After just barely evading the footsteps trailing behind us, we slipped into a hidden room. There, I finally had a moment to catch my breath and take in Lucien's hauntingly special Halloween ensemble."
   },
   [213021] = {
-    diary_text = "我和许墨简单分析了一下这个游戏，发现这个游戏只能有一个胜者。面对许墨的态度，我表示要和他认真进行这个游戏。在进行了短暂的合作之后，我们找到了一间特殊的玩具摆放室，随着进一步的探索，我发现了一件很奇怪的事……"
+    diary_text = "We took a moment to analyze the rules of the game and came to a startling realization: there could only be one winner. Faced with Lucien's attitude, I declared that I intended to play seriously. After a brief moment of cooperation, we discovered a peculiar room filled with carefully arranged toys. The more we explored, the more unsettling everything became."
   },
   [213031] = {
-    diary_text = "通过缺失的小丑玩偶，我越发怀疑许墨的身份，而他暧昧的话语也让我对自己的定位产生了怀疑。在许墨“消失”后，我下意识地跑到了女王的寝室中找到了后续的童话内容，那一刻我突然意识到我的一切行为似乎都在他的掌控之中……"
+    diary_text = "Unable to find the jester doll that corresponded to Lucien's character, a creeping doubt about his true role began to set in. His cryptic, elusive remarks only deepened the confusion about my place in the entire story. When he \"vanished,\" I rushed to the queen's chamber and found the next page of the fairy tale... and in that moment, it hit me—everything I'd done might have been orchestrated by him from the very start."
   },
   [213041] = {
-    diary_text = "为了验证我的想法，我决定冒冒险。毕竟这是一场游戏，而这也只是一场游戏。我走到了许墨面前，接受了他的邀请，并在共舞之中被他装上了之前被丢弃的枷锁。逃脱的女王归位，重回小丑的掌控之中，但故事还未结束。"
+    diary_text = "Determined to uncover the truth, I chose to take a risk. After all, it was just a game. I stepped in front of Lucien and accepted his invitation. In the dance that ensued, he gently clasped the once-discarded shackles back around me. The escaped Queen had returned—back under the jester's spell. But the tale was far from over."
   },
   [213111] = {
-    diary_text = "我和许墨在清晨的寒意中醒来，城堡比我们想象中得要冷多了。我笑着称呼许墨为“城堡主人”，他却提出了一个让我有些意外的安排……"
+    diary_text = "Lucien and I woke up in the morning chill. The castle was a lot colder than we expected. I playfully called Lucien \"Master of the Castle\", and he proposed something unexpected..."
   },
   [213121] = {
-    diary_text = "吃过早饭后，我们决定在庄园内度过一段时间，正是秋意浓浓时，我想为许墨制作一份花果篮，他欣然参与，和我一起走向层林尽染的秋天中…… "
+    diary_text = "After breakfast, we decided to spend time in the manor. It was the harvest season, so I decided to make a fruit basket for Lucien, who happily agreed to join me. Together we sauntered into the autumn forest..."
   },
   [213131] = {
-    diary_text = "天色渐晚，许墨提议喝点城堡中的葡萄酒取暖。走在酒窖中，相似的季节，相同的场景，令我不由回想起那年秋日的我们。于是我找到了当年的那种酒，想看许墨的反应……"
+    diary_text = "Seeing it was late, Lucien suggested that we drink wine from the castle to keep warm. As we walked into the wine cellar, the familiar season and scenes reminded me of that autumn from years ago. So, I found the wine we used to drink to see how Lucien would react..."
   },
   [213141] = {
-    diary_text = "夜幕降临时，就连天空也降下初雪，为许墨祝福。我们行走在下着小雪的街道上，我发现许墨似乎格外偏爱这场初雪……"
+    diary_text = "At nightfall, the first snow of the year fell from the sky like a blessing for Lucien. As we strolled down the street in the snow, I realized that Lucien seemed particularly fond of this first snow..."
   },
   [213211] = {
-    diary_text = "在异国小城出差期间，我每晚都会与许墨通话。聊起工作时，我含糊带过了最近遭遇停滞的状况，只提到打算自驾出门散心，权当放松休假。然而，第二天驱车出发后，我却接到了许墨的“求助语音”。"
+    diary_text = "During my business trip in a foreign town, I talked with Lucien on the phone every night. When he asked me about my work, I grossed over the situation and only mentioned that I wanted to take a drive outside town. However, after I set out the next day, I received a call from Lucien asking for help."
   },
   [213221] = {
-    diary_text = "我意识到许墨已经来到了我的身边，在沙滩上循着他的提示向他奔去，出现在铁轨上的许墨如梦似幻，原来他的工作已经结束了，而他的突然出现顿时让我对原本的行程规划有了不一样的期待。"
+    diary_text = "I realized that Lucien had come to me and I ran to him on the beach following his voice. On the railway, Lucien looked like he had just stepped out of a dream. It turned out that he had finished his work, and with his sudden appearance, I started to expect something different from my plan."
   },
   [213231] = {
-    diary_text = "我改变了去寻景散心的计划，带着许墨来到我最熟悉的小镇闲逛，向他介绍起在这里的生活细节，没想到，许墨竟在我发给他的消息中早已对此处“了如指掌”。然而，温馨的游览被一通不速的工作电话打断……"
+    diary_text = "Instead of driving around to relax, I took Lucien to my most familiar town for a walk and told him everything about my life here. Unexpectedly, Lucien had learned enough about this place from all the messages I sent him. However, our cozy tour was interrupted by a sudden work call..."
   },
   [213241] = {
-    diary_text = "许墨似乎是察觉了我心中的情绪，领着我前往了一片芦苇地——原本是我要去找的景色被他缓缓带到了我的眼前，而在那片夕色如灼的芦苇荡里，他用他的方式让我更加相信了自己……"
+    diary_text = "Lucien seemed to notice my anxiety and took me to a grove of reeds—the scenery that I set out to search for slowly unfolded before me. Amidst the reeds basking in the sunset, he gave me the faith I needed in myself..."
   },
   [213311] = {
-    diary_text = "我们站在府邸前，各自握着人物卡，期待着能抽中大婚角色。当我看到自己是个想逃婚的武林千金时，忍不住叹了口气。但许墨却笑着说，或许卡片上会有我们没料到的\"惊喜\"。带着这份期待，我翻开了详细的角色设定……"
+    diary_text = "We stood before the grand manor, character cards in hand, both secretly hoping for the bride and groom roles. A sigh escaped me as I read mine: the daughter of a martial arts clan, trying to escape an arranged marriage. But Lucien only smiled, suggesting our cards might hide a delightful surprise. Intrigued, I turned the card over to read the full character description..."
   },
   [213321] = {
-    diary_text = "在府邸的偏楼里，我见到了正在读书的许墨。他让我读读\"从善如流\"的典故，暗示我扮演好这个倔强的武林千金。考虑到许墨或许有着暗线剧情，我“恪尽职守”地演绎，跑出了偏楼，而他却追了上来……"
+    diary_text = "I found him later in a quiet side chamber, immersed in a book. He suggested I remember that \"a wise person knows when to listen\"—clearly hinting I should play along as the defiant young lady. Taking the bait, thinking this was all part of his secret script, I played my part perfectly and bolted... and as if scripted, he was instantly in pursuit..."
   },
   [213331] = {
-    diary_text = "午宴后，我在枫树上找到了许墨。一根红绳让我们的距离突然拉近，他教我翻花绳，指尖轻轻相触。当误会终于解开，我们才发现原来彼此都在为同样的心意而互相狼狈靠近……"
+    diary_text = "After the noon feast, I spotted Lucien nestled in the branches of a maple tree. A single red string suddenly drew us close. He taught me cat's cradle, our fingers brushing lightly with each loop and pull. When the misunderstanding finally cleared, we laughed at ourselves—two awkward souls, each drawn toward the same warm light..."
   },
   [213341] = {
-    diary_text = "红烛摇曳，铃声清脆，我们携手拜了天地，执起交缠的合卺杯。从最初指尖的红线，到掌心的红翻绳，再到今日臂间的红绸——每一次的缠绕，都让我们更靠近一分。而我们之间的这根红线，早就缠在一起，再也分不开了。"
+    diary_text = "In the flicker of red candles, to the chime of silver bells, we bowed to heaven and earth, then drank from the shared wedding cup. From the first thread on our fingers, to the red string in our palms, to the silken cord now binding our arms—each twist has brought us closer. The string of fate between us was tangled long ago, a knot that can never be undone."
   },
   [213411] = {
-    diary_text = "我和许墨打算参加海滨烟花艺术节跨年，在我做攻略时，却发现共享相册的内存不足了。我们再一次开始了相册清理工程，但是这件事情似乎比以前困难许多。"
+    diary_text = "Lucien and I decided to ring in the New Year at the Promenade Fireworks Art Festival. While getting things ready, I realized our shared album had run out of memory—again. We tried cleaning it up, but it felt harder than ever to delete anything."
   },
   [213421] = {
-    diary_text = "为了拯救“爆满”的相册，我和许墨约定，今天每个人只能使用胶卷相机拍摄一张照片。可刚刚来到海边，看着为彼此贴上纹身贴，我便有了拍照留念的想法。"
+    diary_text = "To free up some space, we made a deal: we'd use a film camera for the day and each take just one photo. However, the moment we arrived at the beach and put on our matching firework tattoos, I was already tempted to capture the memory."
   },
   [213431] = {
-    diary_text = "在咖啡馆里休息时，我们遇到了创作烟火画的艺术家，便也好奇地尝试了一下。通过许墨的“实践教学”，绘制烟火画的过程很顺利，但认真的他让我忍不住“犯规”，偷偷用手机记录下来。"
+    diary_text = "While warming up at a coffee shop, we stumbled upon some artists creating paintings using firework effects. Curious, we decided to join in. Lucien guided me step by step, and our painting turned out beautifully. But as I watched him focus so intently, I couldn't resist sneaking a quick photo with my phone."
   },
   [213441] = {
-    diary_text = "夜幕降临，我们在海滩上点燃烟火画辞旧迎新。在漫天的烟火中，我们决定新的一年不再克制记录的渴望，尽情感受对彼此的在意。"
+    diary_text = "Later that night, we joined the festival crowd and tossed our firework painting into the bonfire, letting go of the past year. Under a sky lit up with fireworks, we promised each other that in the new year, we'd forget about limits and cherish every moment that reflected our affection."
   },
   [213511] = {
-    diary_text = "许墨生科所的脑胶质细胞研究获得了成功的突破，为了庆祝，我这几天悄悄策划了一场短途旅行，作为惊喜庆祝。只是在许墨回到家后没多久，就通过观察推测到了我的惊喜准备，这让我有些挫败。于是许墨提出，会在接下来进行一场“无预判实验”，好好体会惊喜的感觉。"
+    diary_text = "Lucien's Research Center had a major breakthrough with their glial cell research, and I thought a surprise trip would be the perfect way to celebrate. I had been secretly plotting for days, but he figured it out almost the instant he walked through the door. Feeling a bit defeated, I pouted until he suggested a \"no-preconceptions experiment\" so he could enjoy the surprise without trying to guess anything."
   },
   [213521] = {
-    diary_text = "这次旅行的目的地，是参加以前合作过的璐璐姐策划的文化交流节。开车途中，许墨给我投喂了以前我称赞过的马卡龙，并说惊喜的感觉是要相互回馈的。到了目的地后，我们为了融入环境，选择了墨西哥风情的情侣套装。在等待换衣服的时候，我听到窗外传来手风琴的声音……"
+    diary_text = "Our adventure took us to a vibrant cultural festival, all thanks to our friend Lulu. Lucien sweetened the car ride by surprising me with my favorite macarons, saying that good surprises should be a mutual exchange. We even got matching Mexican-style couple outfits to blend in! While I waited to try mine on, the lively tune of an accordion floated in from outside..."
   },
   [213531] = {
-    diary_text = "许墨将花菱草的花环戴在我头上，并邀请我同游。到了晚上，我在市集上购买了许多各国庆祝用的小吃作为晚餐。而许墨也在我做准备的时候，找到了一个可以俯瞰园区夜景的小屋楼顶作为用餐场所。享受着美味的食物，他回忆起了一段在英国留学时的往事。"
+    diary_text = "He placed a garland of poppies on my head before we set off to explore. As evening fell, I went on a spree at the international market, gathering all sorts of fun, festive foods for our dinner. Meanwhile, Lucien secured us a romantic rooftop hideaway with a breathtaking night view. As we enjoyed our meal, he shared a nostalgic story from his university days in Britain."
   },
   [213541] = {
-    diary_text = "第二天一早，我摸黑起床，准备带许墨去看另一个惊喜——欣赏花田日出。为了保证惊喜效果，去往花田的路上我让他闭上了眼，牵住他的手走到花田中央。伴随着第一缕天光落入大地，我邀请他与我跳一支舞。伴随着舞步，他告诉我自己找到了这场实验的“答案”。"
+    diary_text = "Before sunrise the next morning, I quietly slipped out of bed to prepare another surprise for him—a dawn spectacle in a flower field. To keep the magic alive, I made him close his eyes and led him by the hand right into the heart of the blooms. As the sun painted the sky with golden light, I pulled him into a dance. He held me close and confessed that our dance had given him the final \"result\" for our experiment."
   },
   [213611] = {
     diary_text = "为了跟知名品牌HOPER的山谷大秀现场，连轴转了一晚上的我疲惫不已，终于在清晨时分能够稍微小睡片刻，却由于思念梦到了许墨。"
@@ -3546,6 +3558,18 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
   },
   [213841] = {
     diary_text = "上了球桌，我们之间的比分差距始终不大。而在我问他是不是给我放了水之后，许墨又出现了一个可爱的失误……"
+  },
+  [214011] = {
+    diary_text = "On my way to execute the memory wipe, I unexpectedly crossed paths with the criminal in question, Lucien. To my surprise, he showed no remorse whatsoever. Instead, he provocatively addressed me."
+  },
+  [214021] = {
+    diary_text = "Perhaps it was our conversation before my graduation, or maybe it was the subtle vulnerability in his words that lingered in my mind. As I prepared to carry out the execution, I found myself hesitating. But the next moment, Lucien suddenly grasped my hand..."
+  },
+  [214031] = {
+    diary_text = "Without his memory, Lucien suddenly felt like a blank slate. He was gentle and pure. The dangerous, rebellious thoughts that once fueled his defiance of the system appeared to have been completely erased. Yet, on the day of his new system evaluation, he confided in me a secret."
+  },
+  [214041] = {
+    diary_text = "Seeing that he had truly managed to deceive the system, my heart pounded in excitement as I stood frozen on the spot. Lucien, however, moved closer, revealing the truth and exposing my disguise..."
   },
   [250111] = {
     diary_text = "I interviewed an old teacher of Lucien's, a reclusive professor. In the course of our discussion, I found out something about Lucien's past. Professor Forrest asked me to tell Lucien that he had an old photo of his, and that he should come and collect it."
@@ -3668,22 +3692,22 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "After several attempts to tempt him, Lucien appeared unshaken. Just then, I heard footsteps in the hallway. Annoyed, I stood up to leave, but Lucien stopped me..."
   },
   [260011] = {
-    diary_text = "春节前夕，我乘坐的私人飞机遇到了意外。与此同时，许墨正在处于混乱地区的L国的某个实验室里，为了拿到实验样本而和时间赛跑。"
+    diary_text = "On New Year's Eve, the private jet I was aboard was forced to make a crash landing in a war zone. At that very moment, Lucien was in a laboratory deep within the same conflict-stricken nation, racing against time to secure vital research specimens."
   },
   [260021] = {
-    diary_text = "飞机迫降成功，我死里逃生，但眼前混乱又恶劣的环境像是另一个绝境。我正恐惧着许墨也许会看到我生死未卜的消息，却像是幻觉一般的，看到了许墨出现在我眼前。"
+    diary_text = "The plane managed an emergency landing. I escaped death, but the chaos that surrounded me felt like another kind of death. While I feared that Lucien might see the news of my uncertain fate, he appeared before me instead, so suddenly that I thought I was hallucinating."
   },
   [260031] = {
-    diary_text = "许墨静静地听着我劫后余生的感慨，询问了意外发生的可能原因，又格外仔细地检查了我身上的伤痕。直到我得知了他在此处的实验和BS有着联系，我对自身的紧张彻底转移到了他身上。"
+    diary_text = "He listened quietly as I tried to make sense of my narrow escape, asking about the cause of the crash while carefully examining my injuries. But when I learned that his research here was connected to B.S., my fear for my own safety turned entirely into worry for him."
   },
   [260041] = {
-    diary_text = "即便许墨保证他自己不会有危险，我仍然觉得此地有着说不出的诡异。此后几天每当我独处，就会隐约有一种被囚禁的感觉……好在许墨始终在我身边，并承诺我们很快便能离开。"
+    diary_text = "Even though Lucien assured me that he was in no danger, something about the place felt eerily wrong. In the days that followed, whenever I was alone, it felt like I was a prisoner of the room that was sheltering me. Thankfully, Lucien remained by my side, promising that we would leave soon."
   },
   [260051] = {
-    diary_text = "离开的时间比我想象中还要快。但动乱意外发生，实验室陷入危机，我们撤离时直升飞机再一次被硝烟波及，降落在一艘货轮上，而这艘货轮似乎与许墨的“合作方”霍尔顿教授，有着复杂的关系……"
+    diary_text = "We were leaving sooner than I expected. But the unrest in the region erupted again, throwing the laboratory into chaos. During our evacuation, the helicopter was caught in the explosion and forced to land on a cargo ship—one that seemed to share a complicated connection with Lucien's \"collaborator,\" Professor Horton."
   },
   [260061] = {
-    diary_text = "在一场有些不合时宜的年夜饭后，我和许墨进行了只属于我们两个的除夕夜。正疑惑着他话中的告别意味时，我忽然失去了意识，醒来时发现整艘船被冰封了，许墨似乎已经处理完了一切。我渐渐清晰这些日子的端倪是什么，也有些话想要告诉他……"
+    diary_text = "That night, after a strangely quiet New Year's Eve dinner, Lucien and I spent the night together. There was something in his words that felt like a farewell, but before I could question it, darkness overtook me. When I awoke, the entire ship was sealed in ice. Lucien had resolved everything on his own. Gradually, as I began to piece together the truth of what had happened, I realized there were still things I needed to say to him..."
   },
   [290211] = {
     diary_text = "After staying in Rarewood for a while, Lucien and I came to wander around Ninth Heaven Avenue. After buying a lot of delicious food, I wanted to rest my feet at a teahouse."
@@ -4814,16 +4838,16 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "Naturally, that was Kiro's character. Following the performance, I told Kiro that he wasn't the only one who had prepared a surprise..."
   },
   [309211] = {
-    diary_text = "我独自来到拍摄现场探班周棋洛，与舞台上的周棋洛偷偷打过招呼后准备离开时，现场却突发停电事故……"
+    diary_text = "I arrived alone at the filming set to visit Kiro. He was right there on the stage when I secretly waved at him. I was just about to leave when a sudden power outage plunged the entire venue into darkness."
   },
   [309221] = {
-    diary_text = "我决定留在原地等待电力回复，可手机电量已所剩无几，当我在黑暗中越来越紧张时，“向日葵勇者”周棋洛来到了我的身边。"
+    diary_text = "With my phone battery running low and no clear end to the blackout in sight, I chose to stay where I was and wait. Just as unease began to settle in, Kiro, the \"Super Sunflower Knight\", appeared by my side."
   },
   [309231] = {
-    diary_text = "由于停电事故，部分画面需要补拍，在现场等待的周棋洛提议一起玩一款双人桌上游戏。在游戏中，我们将用骰子与选项体验游戏人物“苹果糖”的人生。游戏的前期一直很顺利，直到我们遇上了一个“棘手”的问题……"
+    diary_text = "Due to the outage, the crew had to reshoot part of the show. While we waited, Kiro suggested we play a two-player tabletop game. Together, we set out to experience the life of \"Apple Candy\" using dice rolls and branching choices. Everything went smoothly at first, until we ran into a rather \"tricky\" problem..."
   },
   [309241] = {
-    diary_text = "节目的补拍结束时，我们的游戏也告一段落，“苹果糖”在我与周棋洛的帮助下成功与恋人相见。就像“苹果糖”一样，相信我与周棋洛也一定能够达成独属于我们的美好结局。"
+    diary_text = "By the time the crew wrapped up filming, our game had also reached its conclusion. Thanks to our efforts, Apple Candy was finally reunited with his love. And just like them, I believe Kiro and I are heading toward a beautiful ending of our own."
   },
   [309311] = {
     diary_text = "周棋洛发现了我偷吃雪糕的蛛丝马迹，正准备和装傻的我核对真相。就在这时，隔壁房间传来了苹果箱和新来的小狗汉堡打架的声音……"
@@ -5000,16 +5024,16 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "We thought we'd missed our teddy bear and bunny rabbit mascots, but they made it back home with us in an unexpected, but also reasonable, way. With a big fair outing now over, Kiro's attitude seemed to hint that perhaps we left behind a regret after all...?"
   },
   [310711] = {
-    diary_text = "我和周棋洛来到水族馆游玩，却因狗仔偷拍被游客发现。汹涌的人潮将我和周棋洛冲散，还好他用经验化险为夷，最终与我顺利会合，离开了水族馆。"
+    diary_text = "Our perfect aquarium date shattered in a flash—literally. Some paparazzo's camera went off, and just like that, we were recognized. A wave of people surged toward us, and in the chaos, I lost Kiro's hand. My heart dropped, but he's been through this a hundred times. Somehow, he cut through the crowd, found me, and we slipped out through a side exit and vanished."
   },
   [310721] = {
-    diary_text = "周棋洛带我到游艇吃烛光晚餐，温馨浪漫的氛围下，我们诉说着这半个月来的思念。不料狗仔居然又追了上来，甚至威胁到了我们的安全。"
+    diary_text = "Later, Kiro outdid himself with a surprise candlelit dinner on a private yacht. It was just us, the sea, and two weeks' worth of stories to catch up on. The peace felt absolute... until it wasn't. The paparazzi had tracked us all the way out here. This wasn't just an intrusion anymore. It felt dangerous."
   },
   [310731] = {
-    diary_text = "周棋洛从容地解决了危机，带我回到酒店，但是我却发现他隐藏的情绪，在交流中我们都发现了彼此共同的“坏习惯”。"
+    diary_text = "Kiro handled the whole paparazzi chase with incredible cool—got us back to the hotel safely like it was nothing. But once we were alone, I could tell. Something was off with him. And that's when it hit us: we both have this same, stubborn habit of pretending we're fine..."
   },
   [310741] = {
-    diary_text = "第二天早上周棋洛想到了一个绝佳的计划，在“周棋洛小队”的帮助下，我们终于安心地游玩，并在美丽的向日葵花海里，坦诚地表达了彼此的心意。"
+    diary_text = "The next morning, Kiro had a genius idea. He called in his \"Decoy Squad,\" and just like that, they created the perfect cover for us. For the first time all trip, we could actually breathe and just... be together. We ended the day in a breathtaking field of sunflowers, where we made a heartfelt promise to share everything with each other."
   },
   [310811] = {
     diary_text = "Kiro and I were driving over the vast steppe, happily chatting away, when I learned that the equestrian instructor who invited us was about to move his family out of the village and into the city..."
@@ -5048,16 +5072,16 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "One day, I secretly went to the kindergarten to check on him, only to behold a picturesque scene—a group of \"little angels\" romping around Kiro. I was just about to call him to enjoy the lunch I'd prepared when he heard a strange sound coming from a tussock..."
   },
   [311111] = {
-    diary_text = "远哥得了肠胃炎，周棋洛再次拜托我作为临时经纪人上阵。我虽然答应了下来，可看着剧本中周棋洛跟搭档的甜蜜互动，心里不由泛起了一丝酸味……"
+    diary_text = "With Savin down with gastroenteritis, Kiro asked me to take over as his temporary manager. I agreed, of course, but when I read the script and saw how sweetly he was meant to interact with his partner, I couldn't help feeling a little pang of jealousy..."
   },
   [311121] = {
-    diary_text = "造型打点完毕后，我跟周棋洛牵着手前往拍摄现场。却从焦急的导演口中得知，跟周棋洛搭档的模特不小心擦伤了手指，需要在现场寻找合适的人选……"
+    diary_text = "After his styling was done, Kiro and I headed to the set hand in hand. That's when the anxious director informed us that the model scheduled to work with Kiro had injured her finger. They needed someone to step in immediately..."
   },
   [311131] = {
-    diary_text = "接受了周棋洛的“表演课教学”后，我的心情放松了不少。然而面对镜头时，还是微微有些僵硬。就在这时，我的手忽然被他拉住。周棋洛低声告诉我不要注意别人，只需要看着他就够了。"
+    diary_text = "After a quick \"crash course in acting\" from Kiro, I felt a bit more relaxed. But once the camera started rolling, I still felt a little stiff. Then, suddenly, Kiro took my hand and told me not to worry about anyone else and just look at him."
   },
   [311141] = {
-    diary_text = "拍摄顺利结束，我和周棋洛到了一家火锅店“庆功”。我笑着感谢周棋洛在现场的引导，周棋洛却一本正经地告诉我，他只是临场发挥。而能实现这一切的原因，是跟我在一起……"
+    diary_text = "The shoot went off without a hitch. Afterward, we went to a hot pot place to celebrate. I thanked Kiro for guiding me through the filming, but he looked at me earnestly and said it was all improvised. And that the reason it worked was because I was the one by his side..."
   },
   [311211] = {
     diary_text = "To help Kiro focus fully on his suona training, I moved with our two little furry companions into a house right across the street from the master's. For the time being, this would be our temporary home!"
@@ -5276,28 +5300,28 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "我和周棋洛一起前往程序提示的地点寻找小猫，因天色将雨，便分头搜寻，但结束后我却没看到他，忍不住担心地去找他，却意外找到了丢失的小猫，它引我看见怀抱流浪小狗的周棋洛，凉雨落下，却渗出暖意……"
   },
   [312911] = {
-    diary_text = "从下午一觉睡到晚上后，我发现周棋洛已经从健身房回来了。见他如此自律，我不由想到自己的To do list一个都没完成，但周棋洛说他有一个“秘籍”，可以帮助我提高行动力。"
+    diary_text = "After a long nap from afternoon to evening, I woke up to find Kiro already back from the gym and thought of all the unfinished plans on my to-do list. Then Kiro told me he had a secret to help motivate me."
   },
   [312921] = {
-    diary_text = "原来他的秘籍叫“五分钟法则”，是指当脑袋里冒出一个想法时，就要在五分钟内行动起来。但这时一个突如其来的电话，让周棋洛决定拉着我跟他一起去攀岩……？！"
+    diary_text = "He called it the five minutes rule, meaning that whenever an idea popped up in your head, you had to start moving in five minutes. Then an unexpected call came, and Kiro decided to take me to the climbing gym with him..."
   },
   [312931] = {
-    diary_text = "来到攀岩馆后，周棋洛又化身花老师来教我。他先是为我简单介绍了这项运动，随后又让我试着去抱石区感受一下……"
+    diary_text = "At the climbing gym, Kiro volunteered to teach me. First, he gave me a brief introduction about this sport and led me to the bouldering area to have a try..."
   },
   [312941] = {
-    diary_text = "在周棋洛的指导下，我成功完成了V0的入门路线，而周棋洛也继续挑战着他最近一直难以攀登的“高峰”，但无论他失败了多少次，他总是能立刻重头再来。看着他坚定的背影，我意识到这样在他人眼里是天才的人，其实只是重复了无数次“五分钟法则”和“坚持”吧……"
+    diary_text = "Thanks to Kiro's guidance, I finished the V0 route for beginners. Kiro continued to challenge the height that he'd been scaling lately, but no matter how many times he failed, he could always start again right away. Seeing his determination, I realized geniuses like him were just more persistent than others..."
   },
   [313011] = {
-    diary_text = "我正满意地看着镜子里自己的万圣节扮相，智能手表上收到了这场真人RPG游戏的任务说明。作为“欲望女巫”，我要尽可能利用游戏官方给出的攻略和资源，让我的同伴周棋洛说出“满足”。看着眼前一身圣职者扮相的他，我怦然心动的同时也止不住地好奇，他的个人任务又是什么呢？"
+    diary_text = "Admiring my Halloween costume in the mirror, I felt my smartwatch buzz with the mission brief for the live-action RPG Kiro and I had participated in. As the \"Witch of Desire\", my objective was to leverage the unfair advantages I had to coax Kiro into saying that he was \"satisfied\". As Kiro made his entrance, his cleric attire made my heart skip and sparked a nagging curiosity: what was his personal mission?"
   },
   [313021] = {
-    diary_text = "我顺利地利用攻略，带周棋洛碾压式通关，当我与他一起触发了一处隐藏任务时，他不似平时开心，反倒若有所思般地突然说有问题想要问我……"
+    diary_text = "Armed with a strategy guide, I led Kiro through the levels with ease. When we triggered a hidden quest, his usual brightness dimmed into thoughtfulness, and he quietly said he had a question for me."
   },
   [313031] = {
-    diary_text = "见我还在犹豫，周棋洛直直走向关卡陷阱。我这时才意识到，他早察觉了我的心思，决定用自己做“人质”，问清我的任务和目的——比起一帆风顺地通关，或是就此落入我的计划，他选择用最有趣的方式和我一起享受游戏。眼看他即将因为陷阱出局，我也做出了自己的选择……"
+    diary_text = "Sensing my hesitation, Kiro walked straight toward a trap. In that instant, I understood that he had already read my intentions and was making himself a \"hostage\" to draw out the truth about my mission and motives. Rather than breezing to victory or being steered by my plan, he chose the most entertaining path—enjoying the game with me. As the trap threatened to eliminate him, I had made up my choice too..."
   },
   [313041] = {
-    diary_text = "我们彼此都有想让对方说出的词语，也彼此都想让对方度过最开心有趣的万圣节。在我早早布置好的套房内，我们选择用我们的方式，让这场游戏再延续一会儿……"
+    diary_text = "We each had a word we wanted the other to say, and we both wanted the other to have the happiest and most memorable Halloween. In the suite I had prepared in advance, we decided to extend the game a little longer on our own terms."
   },
   [313111] = {
     diary_text = "因天气原因降落在别的城市的我，却得知周棋洛也在这个城市。我打开手机，发现了周棋洛给我的留言。在听闻他打算进行一场“圣地巡礼”之后，我果断打过去了电话……"
@@ -5324,28 +5348,28 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "在紧锣密鼓的筹备中，我们的快闪活动正式启动。当天的一切十分顺利，每一个参与其中的游客也都收获了快乐，作为“STAR”的品牌老板周棋洛更是如此。在休息间里，他告诉我他对快乐又有了新的定义……"
   },
   [313311] = {
-    diary_text = "面对那些带节奏的黑稿，我和周棋洛一致认为不去理会，而是专注在彼此身上。他对三天后的百人成亲活动有着无限的憧憬和期待。当然，我也是一样的心情。"
+    diary_text = "We decided, Kiro and I, to tune out the online haters and just focus on us. He was absolutely buzzing about the big Hundred-Couple Wedding event happening in three days. I was totally on the same page."
   },
   [313321] = {
-    diary_text = "眼前的古色古香，如此身临其境不由令我们以为自己穿越回了古代，甚至开始畅想起来到古代的生活，就在越来越开心的时候，一句轻飘飘的话语从巷间传来，霎时打破了当下的美好。"
+    diary_text = "The historic town was so immersive, it genuinely felt like we'd traveled through time. We got carried away, joking about what we'd do if we actually lived in the past. We were having the best time... until a few idle remarks from a nearby alley burst our little bubble."
   },
   [313331] = {
-    diary_text = "一场突如其来的大雨，令我们匆匆赶回了小院，为这些马上就要盛开的桃花遮风挡雨。今天接二连三的小事不断发生……我突然就睡不着了，思绪乱得很。"
+    diary_text = "Then, a random storm hit, and we had to dash back to shield the budding peach trees. After a day full of little ups and downs... I just couldn't sleep. My head was spinning."
   },
   [313341] = {
-    diary_text = "我和他一起分担着彼此的心绪，在相依的深夜里，那场无尽的大雨悄悄停了。第二天阳光明媚，而他也穿上了大红色的婚服来迎娶我，在漫天的桃花林里，他告诉我他最真挚的心意。"
+    diary_text = "We shared all our worries, holding each other close in the deep of night. Sometime before dawn, the relentless rain whispered to a stop. The next morning was pure sunshine... and there stood Kiro, dressed in vibrant wedding red, come to claim his bride. Amid a sea of blooming peach trees, he laid his heart bare before me."
   },
   [313411] = {
-    diary_text = "下班回家后我不顾吃饭，急于在直播间抽盲盒，周棋洛对此提出了不满。我解释是因为直播间有一款我心仪的水晶小熊，他听后决定帮我找渠道购买。"
+    diary_text = "After getting home from work, I dove straight into a blind box live stream, completely forgetting to eat. Kiro expressed his dissatisfaction, but when I mentioned the adorable crystal bear I was hoping to win, he immediately offered to get it for me through his connections."
   },
   [313421] = {
-    diary_text = "我婉转拒绝了周棋洛的好意，并解释自己更喜欢抽盲盒过程中的期待感，他闻言主动承诺要送我一个惊喜的盲盒体验。跨年这天，这份由周棋洛精心策划的盲盒特等奖出现在了我面前。"
+    diary_text = "I gently declined, telling him that for me, the thrill was all in the \"unboxing\" experience. Amused, he promised to give me the most amazing blind box experience as a gift. That gift became a reality on New Year's Eve when his carefully orchestrated \"grand prize\" was revealed."
   },
   [313431] = {
-    diary_text = "周棋洛神秘地包下专机，带我来到了一个未知的国度。我们来到了当地的跨年集市，在其中的摊位发现了水晶小熊，这时周棋洛却不见了。"
+    diary_text = "Kiro kept our destination a secret, flying us on a chartered plane to an unknown country. At a lively New Year's market, I stumbled upon a stall full of crystal bears! But in that moment of excitement, I realized he had vanished."
   },
   [313441] = {
-    diary_text = "通过他留下的线索和道具，我得知周棋洛希望我能自己肆意享受年末的时光，并暗示他会在这份特等奖的终点等待着我。当时针指向新岁的那一刻，我终于在烟花绽放中看到了那个切切于心的身影。"
+    diary_text = "Following his playful clues, I understood that he wanted me to enjoy the last night of the year on my own terms, and that he'd be waiting for me at the end of the trail. The very moment the new year began, I spotted him, just as promised, against a backdrop of dazzling fireworks."
   },
   [313511] = {
     diary_text = "我和周棋洛乘船从多瑙河启程，兴致勃勃地讨论着他新年计划筹备的全新形式的演唱会，还决定趁今天采集一些充满想象力的音乐素材，然而伴随低沉的船笛声传来，他却像是听到了意外之“喜”……"
@@ -5360,16 +5384,16 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "我们巧妙地从天台的热闹中抽身，重新去寻找能够激发灵感的音乐素材，路上恰巧遇到了花车巡游，于是在不期而遇的喧嚣里，在新年的人潮之外，他为我献上一份独特的祝福。"
   },
   [313611] = {
-    diary_text = "傍晚，我开车来接周棋洛下班一起去机场，前往南方的度假胜地。但我意外发现周棋洛的嘴巴有些红肿，像是唇炎的症状……于是我当机立断，带他去最近的医院看看。"
+    diary_text = "When I went to pick him up near sunset for our flight to the southern resort, I noticed his lips were red and slightly swollen. That was all the proof I needed, so I changed course and took him straight to the doctor."
   },
   [313621] = {
-    diary_text = "果不其然，周棋洛真的患了急性唇炎，虽然暂时并不严重，但未来几天需要忌口以及不能亲亲，他对此很是烦恼，并试图投机取巧来亲我，我万不得已，便颁布了一条“亲亲”准则。"
+    diary_text = "The doctor confirmed it was indeed cheilitis. It was a mild case, but the rules were strict: he had to watch his diet, and there would be no kissing. Kiro found this utterly depressing and even tried to negotiate for a quick kiss! I had to lay down the law with what I called the official \"Kissing Protocol.\""
   },
   [313631] = {
-    diary_text = "虽然颁布了这条准则，但这人也太会钻漏洞了！开始频繁向我索要亲亲……于是乎，我又重新修正了这条准则，为每日的亲亲增加了次数限制！"
+    diary_text = "But he's too clever for his own good! He immediately started trying to bargain for more kisses. I ended up releasing a revised version of the protocol, this time specifying a certain number of kisses allowed each day!"
   },
   [313641] = {
-    diary_text = "在度假的这几天里，为了下个通告拍摄顺利的同时不二次伤害到周棋洛的嘴巴，我在一家手工店做了一根天然植物口红，正想让周棋洛来欣赏我的成果时，他却忽然吻了下来……"
+    diary_text = "During our getaway, I wanted to help him prepare for his next shoot without hurting his lips. We stumbled upon a little shop, and I decided to make him a pure, natural lipstick by hand. I was so proud and ready to show him... but he surprised me by pulling me into a sudden, sweet kiss instead."
   },
   [313711] = {
     diary_text = "半夜，我和周棋洛被客厅的宠物交流按钮声吵醒，迷糊中反应过来这是别人暂时寄养在我们家的橘猫——桃酥的手笔。面对它想玩耍的要求，我和周棋洛无法硬下心来抵抗，只得“屈服”。"
@@ -5418,6 +5442,18 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
   },
   [314041] = {
     diary_text = "从烦人的宴会“逃回”酒店，我和周棋洛继续回到了度假的正轨，在享受了他的“叫醒服务”后，他笑着说要不要去参加“午宴”，而且是只有我和他的美食午宴。我忽然发现，明明都是一样的美食，但环境不一样后，口感也变得不一样了呢。"
+  },
+  [314211] = {
+    diary_text = "To investigate whether the recent surge in crime rates among the \"lower-middle score group\" was linked to the System, I used the pretext of a column interview to visit Prison Island, a place permanently connected to the System. Unfortunately, I was unable to locate the server room. One late night, when I decided to take a chance and look around, I ran into Kiro, the very person I was supposed to interview."
+  },
+  [314221] = {
+    diary_text = "Over the past two weeks, I had assumed Kiro was unaware of the server room's existence. Yet, from the moment I set foot on the island, he had already known about everything. Not only that, but he quietly pointed out the server room's location on the floor plan for me. What is his true intention? Kiro merely told me, \"We'll talk again at the next interview.\""
+  },
+  [314231] = {
+    diary_text = "In our final conversation, I learned more about him. It turned out he was also here because of the System, though his reasons differed from mine. In order to gain his trust and get him to lead me inside, I revealed the \"Easter egg\" he had left for me. As the recorder clicked on, our fates became irrevocably intertwined."
+  },
+  [314241] = {
+    diary_text = "Once inside the server room, I discovered an even more startling secret—the System had gained self-awareness! However, it was dormant at the moment, and there was nothing I could do. Meanwhile, Kiro extended an invitation to \"wake up the System\", asking me to help him open Pandora's Box..."
   },
   [350111] = {
     diary_text = "Savin and Apple Box had been plotting something in the other room for ages. Kiro dragged me along to discover their plans! It turned out Savin wanted Kiro and Apple Box to enter a Pet Competition!"
@@ -5525,22 +5561,22 @@ Suddenly, Lucien's hand touched my cheek and brought me back to reality.]]
     diary_text = "The next day, as we started our warm-up, I got a call about a tricky problem at work. As I was stressing over it, Kiro, in his unique way, showed me a new perspective, filling me with newfound confidence."
   },
   [360011] = {
-    diary_text = "我们公司被悬疑女王萨拉女士看中，于是春节期间，我前往P岛和她商议关于影视改编的事宜，没想到迎接我的却是一群黑手党，以及……他们怎么知道我是QUEEN？"
+    diary_text = "During the holiday season, our company was approached by none other than the Queen of Thrillers herself—Ms. Sarah Pellegrini. I traveled to the island of Pandora to discuss the details of a potential film adaptation with her. But instead of a warm welcome, I was greeted by a group of mobsters from the mafia. More shockingly, they knew I was the Queen."
   },
   [360021] = {
-    diary_text = "原来他们想以我为诱饵将BS的BOSS引到P岛，我和大洋彼岸的周棋洛用默契的演技争取了一些时间，本以为他会在白天以BS的BOSS身份前来和黑手党交涉，却没想到他竟然出现在了午夜的窗台……"
+    diary_text = "It soon became clear that they intended to use me as bait to lure out the elusive boss behind B.S. Calling Kiro, we were able to put up an act that bought us some much-needed time. I had expected him to appear during the day to negotiate with the mafia as B.S.'s big boss. But to my surprise, he came in the dead of night, silently standing outside my window."
   },
   [360031] = {
-    diary_text = "我和周棋洛决定趁着夜色将大家都救出来，而萨拉也为我们提供了一条更安全的小路。正当周棋洛开锁时，我却不可置信地发现萨拉举起了枪，指向了周棋洛……"
+    diary_text = "Under the cover of darkness, we made a plan to rescue everyone. Sarah pointed us to a safer escape route, but just as Kiro was unlocking the door, she raised a gun and pointed it directly at Kiro..."
   },
   [360041] = {
-    diary_text = "我和周棋洛分头行动，最后在灯塔碰头，看着他身上的伤，我只觉心如刀绞。萨拉到底是什么人，为什么黑手党要找周棋洛，在一边检查伤口一边互相慰藉时，我们也将彼此心里的疑惑与心情一一像对方说明……"
+    diary_text = "Kiro and I split up, agreeing to rendezvous at the lighthouse. When I finally reached him and saw the wounds across his body, my heart clenched with anguish. Who was Sarah really? Why was the mafia after Kiro? As I treated his injuries, we exchanged more than just words and solace—we shared every doubt, every fear, and every unresolved question weighing on our hearts."
   },
   [360051] = {
-    diary_text = "然而我们并没能在灯塔里躲藏很久，到了傍晚的时候黑手党的搜查已经向着灯塔靠近了。我紧张地表示要和周棋洛并肩战斗，杀出一条血路，周棋洛却表示不想和我搞这么血腥，因为他已经听到了船声——BS的支援终于到了。"
+    diary_text = "But our time in the lighthouse was short-lived. By dusk, the mafia's search party had nearly reached us. I insisted we fight our way out together if we had to, but Kiro stopped me with a quiet smile. He had already heard it—the sound of a boat in the distance. B.S. reinforcements had arrived."
   },
   [360061] = {
-    diary_text = "解决了一切后，我和周棋洛乘上了离开P岛的游艇。在船上我们感慨着这一日的刺激经历，也更坚定了我们的心——我们不会像萨拉那样，我们有真正想要活出的人生，不会被任何人摆布。"
+    diary_text = "With the crisis behind us, we boarded the yacht that would take us away from Pandora. As the boat cut through the waves, we looked back on the day's chaos. But more than that, we looked inward. We made a promise to never become like Sarah. We will live our lives on our own terms. And no one, not even fate itself, would decide that for us."
   },
   [390211] = {
     diary_text = "On one quiet night, I was writing at the Three Dreams Quarter, when the wind suddenly rose, and the window opened wide, then a man in black barged in and took me away!"
@@ -6927,16 +6963,16 @@ Just one conversation made me briefly remember those days of feeling locked down
     diary_text = "Gavin took me cruising around New York at night, showing me what he's been doing these past years. I came to his home, and together we lingered on the hopes and love we had for each other. All of the hope-filled prospects of this era lay at our feet."
   },
   [411311] = {
-    diary_text = "早早来到香薰馆的我遇见了一款很适合白起的香水，正在我挑选之际，白起悄然出现在我的身边并拿出了一对情侣围巾。在被香气与温暖的包裹之中，我们短暂的假期开始了。"
+    diary_text = "I arrived early at the aromatherapy shop and came across a perfume that seemed perfect for Gavin. Just as I was making my selection, he appeared beside me with a gentle smile and took out a pair of matching scarves. Surrounded by comforting scents and warmth, our short holiday began."
   },
   [411321] = {
-    diary_text = "白起拿起我刚才给他挑选的香水，我却忽然想和他玩一个猜香游戏。在他不断猜测谜底的过程中，我们之间的距离也靠得越来越近……"
+    diary_text = "When Gavin picked up the perfume I had chosen, I suddenly had the idea to turn it into a scent-guessing game. As he tried to identify the fragrance, we gradually drew closer..."
   },
   [411331] = {
-    diary_text = "在街上逛了很久的我们忽然感觉有些冷意，白起提议可以去街边的奶茶店取暖，却意外发现这里卖的本土饮料味道相当苦涩。在舌尖淡淡的苦味中，我们似乎品尝到了别样的甜蜜。"
+    diary_text = "After wandering the streets for a long while, the cold began to creep in. Gavin suggested we stop at a nearby boba tea shop to warm up, only to discover that the local specialty drinks had a surprisingly bitter taste. But within that subtle bitterness, we found an unexpected kind of sweetness."
   },
   [411341] = {
-    diary_text = "来到今天行程的最后，在雪坡上白起告诉我这里能闻到“雪的味道”。半信半疑的我听完了白起的解释，在彼此逐渐靠近的距离中，我好像明白了这个有关幸福传说的真相。"
+    diary_text = "At the final stop of the day, we stood on a snowy hill where Gavin told me I could \"smell the scent of snow\". Though I was skeptical at first, I listened as he explained, and I began to understand the truth behind this legend of true happiness."
   },
   [411411] = {
     diary_text = "With Chinese New Year's approaching, it was coming up on one month since Gavin rushed off on a mission. Suddenly, a malicious news story connected to him made a big splash. At the same time, I felt from time to time like I was being watched, making me uneasy. I went to the STF for help, but I walked into an ambush and got taken to a warehouse by the kidnapper. Little did I expect, when I looked up, I saw someone I'd recognize anywhere..."
@@ -6993,16 +7029,16 @@ Just one conversation made me briefly remember those days of feeling locked down
     diary_text = "And I finally beat Gavin fair and square! I took the prize that I had always wanted while enjoying the fruits of my victory."
   },
   [411811] = {
-    diary_text = "我带着导演来到特遣署，看到许多队员都在练习各种乐器，有的人去忙，不需要值班的人都自愿来练习。我调侃白起很少会搞这种折磨人的东西，白起笑了笑，说他想要和这群人一起再多做点什么。"
+    diary_text = "When I arrived at the Task Force headquarters with the director, we saw many agents practicing musical instruments. Some were even on duty, while others had volunteered their time, eager to be part of the performance. I teased that this kind of event didn't seem like Gavin's style. He just smiled and said he wanted to do a little something a little more special."
   },
   [411821] = {
-    diary_text = "白起带我来到了准备拍摄的场地，在平台上我们遇见了一位严肃的阿婆，看到她和白起对话的态度，我感觉这个人好像不太一般……"
+    diary_text = "Gavin led me to the filming site, and there on the platform, we ran into a stern-looking elderly woman. Something about the way she spoke with Gavin suggested that she wasn't just anyone..."
   },
   [411831] = {
-    diary_text = "很快便到了特遣署表彰大会与誓师大会的这一天，在白起先去特遣署进行内部表彰的同时，我先来到了拍摄场地进行最后的演练，并且迎接他邀请的“客人”。下午在一片灿阳中，特遣署新一年誓师大会正式开始了。"
+    diary_text = "Soon, the day of the commendation and the swearing-in ceremony arrived. Gavin went ahead to attend the commendation ceremony first. At the same time, I headed to the venue to finish the final round of rehearsals and prepare to welcome the \"guests\" he had personally invited. That afternoon, under golden sunlight, the task force's oath-taking ceremony officially began."
   },
   [411841] = {
-    diary_text = "转而十首曲子都演奏完毕，白起进行最后的总述，他诚恳地面前那群退休的前辈们，希望能够得到帮助。在大会结束后，我终于在白起口中明白了这次主题“拾壹”的含义……"
+    diary_text = "After all ten musical pieces had been performed, Gavin stepped forward to deliver the final speech. He spoke with heartfelt sincerity to the retired veterans seated before him, hoping to earn their support. And it was only after the ceremony ended that I finally understood what he meant by this year's theme—\"Eleven.\""
   },
   [411911] = {
     diary_text = "顺利解开“首饰柜消失案”后，我们接下了伯爵夫人发来的新委托——参与贵族小姐辛西娅的晚宴，偷回夫人失窃的蓝宝石项链。这份有些特殊的委托让我们都饶有兴趣，只不过第一次扮演“小偷”的我们，也一时有些不知如何下手……"
@@ -7053,16 +7089,16 @@ Just one conversation made me briefly remember those days of feeling locked down
     diary_text = "这场纠纷还没有结束时，更可怕的战乱再次来袭了。我不由拼尽全力找到白起，但他身上全部都是伤口，似乎马上命不久矣。当然，我也没有好到哪里去……于是在我们都无路可退的时候，我问他有没有想做的事情。他告诉我，希望我杀了他。"
   },
   [412311] = {
-    diary_text = "我和白起一起前往户外用品店为山林救援队的朋友挑选慰问礼物，但是在挑选的过程中，我因为过于想要尽善尽美而异常纠结，白起敏锐地觉察出我的情绪，打消了我的顾虑。"
+    diary_text = "Gavin and I went to an outfitter to buy gifts of solicitude for the rescue team in the mountains, but when picking gifts, I wanted everything to be perfect and thus had a lot of trouble deciding what to buy. Gavin, observant, perceived my vexation and helped me dismiss my misgivings."
   },
   [412321] = {
-    diary_text = "我们来到了山林救援基地，白起的朋友秦队推拒了我的节目邀请，但我意外发现这里竟然是和白起以前曾经来过的地方，昔日恋曲回旋，冲刷了所有繁杂的心绪。"
+    diary_text = "We arrived at the base of the rescue team in the mountains. Captain Cheney, Gavin's friend, declined my invitation to the show, but I accidentally found out that Gavin and I had been to this place before. Sweet memories of past events came flooding back, banishing all miscellaneous thoughts from my mind."
   },
   [412331] = {
-    diary_text = "在“物非人是”的感慨里，我们再逢秦队，他也回想起昔日的缘分，便邀请我参加夜巡，是我拉着白起的手踏上这段新奇的体验，亲身感受这份工作的不易，而白起似乎发现了秦队的“异常”。"
+    diary_text = "Sentimental about how much had changed since then, we met Captain Cheney again. He also recalled how our paths had crossed in the past, and he invited me to join their night patrol. Therefore, I took Gavin's hand and together we embarked on an adventurous journey to experience the trials and tribulations of this line of work, but Gavin seemed to notice something \"out of the ordinary\" about Captain Cheney."
   },
   [412341] = {
-    diary_text = "工作结束后，白起带我去深夜的雨林里散步，因此我意外拾得秦队遗失的勋章，一切疑惑迎刃而解。物归原主后，白起向我传达了秦队的感谢，而我却觉得让更多的人看见像白起这样的守护者本就是我努力的方向。"
+    diary_text = "Late at night, after the work was done, Gavin took me out for a walk in the rainforest, where I found Captain Cheney's lost medal by chance, along with the answers to all our questions. After returning the medal to its rightful owner, Gavin relayed Captain Cheney's gratitude to me, but I felt that it was my bounden duty to make the stories of guardians like Gavin known to more people."
   },
   [412411] = {
     diary_text = "Gavin took me to a celebration banquet hosted by the National Aerospace Bureau to commemorate a new collaboration with the Special Task Force. A few elite officers were selected to join an upcoming manned spaceflight program. Being able to attend such an occasion at his side filled me with pride."
@@ -7104,16 +7140,16 @@ Just one conversation made me briefly remember those days of feeling locked down
     diary_text = "Once everything was in place, I curled up beside Gavin and looked out at our refreshed living room. Feeling happier, Gavin smiled and said that I looked like Thorny when it finally perked up after a long rest. As I took in the new space, it felt like life itself had been gently reset, and in that quiet moment, Gavin leaned in close and told me softly where his energy comes from."
   },
   [412711] = {
-    diary_text = "为了探店我提前来到老街的分岔路口，不见白起的踪影，却接到了他的电话。原来他刚结束便衣任务往这边赶来，不过路况不熟要待会才到，听他这么说我决定在电话里帮他指路。"
+    diary_text = "To try the new shop, I arrived at a crossroads of the old neighborhood, but instead of seeing Gavin there, I received a call from him. He just ended his plainclothes mission and would take a while to get here, as he was not familiar with the place, so I decided to navigate over the phone."
   },
   [412721] = {
-    diary_text = "顺着林荫道来到同事给我的地址，却发现甜品店已经搬走，悻悻然的我被白起拉起了手，尝试在周围找找看。就在回到一开始等他的路口时，我们在街边发现了一个可爱的小狼玩偶。"
+    diary_text = "Following the tree-lined street, we arrived at the address my colleague sent me, but found the shop had moved. Seeing me frustrated, Gavin took my hand and led me on a walk looking for the new shop. When we returned to the crossroads, I spotted a cute toy wolf in a display window."
   },
   [412731] = {
-    diary_text = "在店员的指引下我们成功找到了搬迁后的甜品店，伴随着不断上来的甜品，我也开始拍起了小狼玩偶的照片。可就在不经意之间，我好像察觉到了白起眼神中的某种“异样”。"
+    diary_text = "With the clerk's help, we finally found the new dessert shop. As our desserts were served one by one, I took photos of the wolf with them. But I took a glimpse and suddenly noticed a strange look in Gavin's eyes."
   },
   [412741] = {
-    diary_text = "在拍摄完照片后，我们享受了精美的甜品大餐。白起看着店铺里有不少人带着玩偶拍照，好奇地问我其中的原因。看着他翘起的发梢，我一边给他解释，心里动了某种“心思”……"
+    diary_text = "After finishing the photos, we enjoyed a feast of desserts. Seeing other customers also taking photos with their toys, Gavin curiously asked me about it. Looking at the tip of his hair curling up, I explained to him while planning for a new photo..."
   },
   [412811] = {
     diary_text = "白起这趟出任务回来时，身后跟了一位“小客人”，正是他之前提到的受重伤导致后腿永久性残疾而即将退役的警犬阿旺，我对阿旺表示了友善的欢迎。"
@@ -7164,52 +7200,52 @@ Just one conversation made me briefly remember those days of feeling locked down
     diary_text = "Gavin wanted me to play music to his sword dancing, so I just did my best and blew on the ghost-summoning flute, attracting countless ghosts and ghouls. Gavin's sword dance was lithe and graceful, winning over the admiration of the crowd. Feeling out of place amid the applause of people and ghosts, we returned to the underworld. It was here that I made a promise to Gavin that from now on, we'd come and go as we pleased between the mortal realm and the underworld, envying no one, either mortal or immortal."
   },
   [413211] = {
-    diary_text = "在万圣节的氛围下，我和白起参加了一个沉浸式生存大逃杀。但才迅速闯了几个关卡，就被告知，我们已经刷新了他们店内有史以来最好的通关成绩。万万没想到，这场大逃杀最费时间的地方是在做造型上……"
+    diary_text = "On Halloween night, Gavin and I joined an immersive survival-themed game. We had barely made it through a few rounds when the staff stopped us—turns out we'd just set a new record for the fastest clear time in the venue's history. Ironically, the longest part of the experience hadn't been the game itself, but getting through hair and makeup."
   },
   [413221] = {
-    diary_text = "原以为一切要就此结束，工作人员告诉我们这场游戏有额外的通关奖励——入场荒乐园的派对之夜！但由于我和白起的成绩远远超出平日玩家通关的平均时长，所以现在的乐园里并没有其他人，就连游乐设施也暂不开放。"
+    diary_text = "Just as we thought the night was over, the staff surprised us with an unexpected bonus: an exclusive invite to the Party Night at the Forsaken Fairground. But since we'd cleared the game so much faster than everyone else, the attractions were closed, and we were the only ones there."
   },
   [413231] = {
-    diary_text = "虽然没有开放设施，但我们意外发现了这里的“潜规则”。游乐园里潜伏着各种捣蛋鬼，我们要给对方糖果，才能停止捣乱。但最让我没有想到的是，今夜最大的捣蛋鬼就近在眼前……！"
+    diary_text = "Even so, we quickly discovered one of the park's hidden rules. Mischievous spirits roamed the grounds, and the only way to get them to stop their pranks was to offer them candy. What I didn't expect was that the biggest trickster of them all... was right by my side."
   },
   [413241] = {
-    diary_text = "我们彼此打闹了一阵后，游乐园仍然冷清。可是白起却有了什么想法，以他自己独有的方式带我在这里玩遍了一整夜，原来……除了游乐园有能够实现任何愿望的神奇力量以外，白起也同样有这样的力量。"
+    diary_text = "After the playful teasing between us, the park remained silent. But Gavin had other plans. In his own quiet way, he turned the empty park into our personal wonderland. And that's when I realized: maybe it wasn't just amusement parks that could grant wishes. Gavin had that power too all along."
   },
   [413311] = {
-    diary_text = "我和白起来到了位于北欧的驯鹿部落中，这里的一切都显得新鲜有趣。在雪地上试驾驯鹿雪橇时，这里的驯鹿对我发起了“突然袭击”，幸好关键时刻白起镇住了它们……"
+    diary_text = "Gavin and I traveled to a reindeer tribe in Northern Europe, where everything seemed new to us. I was learning to ride a sleigh when the reindeer suddenly attacked me. Thankfully, Gavin helped to calm them down..."
   },
   [413321] = {
-    diary_text = "试驾完驯鹿，我驾驶着雪地摩托，载着白起在雪原上尽情飞驰。当我们回到驯鹿园时，碰到一只格外狂野的驯鹿，白起帮助汉森制服了它，收获了一枚“鹿小弟”。"
+    diary_text = "After trying the sleigh, I drove a snowmobile with Gavin and raced across the snow-covered field. When we returned to the reindeer park, we saw a reindeer running wild, so Gavin helped Hansen tame him and made a \"deer friend.\""
   },
   [413331] = {
-    diary_text = "平静的部落生活令我和白起十分自在，这天我们得知暴风雪即将到来，而我们的“鹿小弟”失踪了。我和白起决定在风雪来临前找回它，但中途的意外让我们只能选择分头行动。"
+    diary_text = "Gavin and I enjoyed a calm and cozy life at the tribe. One day, we heard that a storm was coming and our \"deer friend\" went missing. Gavin and I decided to find him before the blizzard hit, but we had to split up due to something unexpected."
   },
   [413341] = {
-    diary_text = "暴风雪提前到来了，我和白起只能靠着对讲机微弱的信号联络。当信号断开时，我竭尽全力为白起指引方向，帮助他穿越风雪平安归来。我知道，无论风雪多大，我们总能一起度过，直到天晴雪霁。"
+    diary_text = "The blizzard hit earlier than we expected. Gavin and I had to rely on the weak radio signal to communicate. When the signal went out, I did my best to guide Gavin home safely through the blizzard. I knew that we could weather any storm until the sky cleared."
   },
   [413411] = {
-    diary_text = "参加了采买体验活动的我们来到布庄，在材质花纹各异的布料里挑挑拣拣。选定了为“久旱逢甘霖”所准备的衣服布料，我们挑选起“洞房花烛夜”的喜服……"
+    diary_text = "Taking part in the contest, we made our way to a fabric shop and lingered among bolts of cloth in countless textures and patterns. Once we had settled on the fabric meant to represent \"the rain after a long drought,\" our attention naturally shifted to selecting the ceremonial wedding silk meant for the \"candlelit wedding night.\""
   },
   [413421] = {
-    diary_text = "选过布料后，还需要挑选合适的纸张作为“请帖”。过程中，白起似乎格外中意一款撒着金箔的红纸，不知道这种纸藏着什么特别之处呢？"
+    diary_text = "With the fabrics chosen, the next task was to find a suitable paper that could be used to make the invitations. During this process, Gavin showed an unusual fondness for a sheet of red paper dusted with gold leaf. I couldn't help but wonder what quiet meaning that choice held for him."
   },
   [413431] = {
-    diary_text = "就算经过了长久的挑选和比较，我们还有近一半的物品没有挑选。事到如今，我才意识到这个活动可能并没有看起来这么简单。察觉到我隐约的退缩念头，白起直接提议，我们先休息一会儿……"
+    diary_text = "Even after all the careful comparing and deliberation, nearly half of the items on our list remained unchecked. Only then did I realize that this activity was far more involved than it had first seemed. Sensing my subtle hesitation, Gavin gently suggested that we take a break first."
   },
   [413441] = {
-    diary_text = "没有了活动的束缚后，白起带我一间间重新走过每家店铺。由我们自己为自己筹备一场“喜事”。喜欢的东西环绕身边，喜欢的人则把最盛大的惊喜送到了我面前……"
+    diary_text = "Once the constraints of the contest were set aside, we retraced our steps back through each shop. This time, it felt as though we were finally preparing a celebration just for ourselves. Surrounded by the things I loved, and with the person I loved most beside me, I was met with the most heartfelt and unforgettable surprise of all..."
   },
   [413511] = {
-    diary_text = "元旦将至，我和白起却在一南一北的两座城市出差，距离相隔甚远。得知白起准备来找我，我提议去位于我们中间的一座小城跨年。"
+    diary_text = "With the New Year drawing near, duty pulled Gavin and me to cities far apart. Determined to be together, we hatched a plan to meet in a small town located halfway between us."
   },
   [413521] = {
-    diary_text = "抵达小城后，我们首先来到地下服装市场选购御寒的外套。当服装店老板报出虚高的价格时，不想做冤大头的我本想拉着白起离开，却没想到他不慌不忙地跟老板讲起价来。"
+    diary_text = "Our adventure began in a bustling underground market, where we searched for warm coats to fend off the chill. When a shopkeeper attempted to overcharge us, I started to walk away, but Gavin stepped in with a calm, confident demeanor and began to negotiate."
   },
   [413531] = {
-    diary_text = "由于网络上鲜有小城的攻略信息，我和白起选择在夜晚的街头随便走走。这时，我们偶遇了一个卖蛋烘糕的小摊。面对恩爱的摊主爷爷奶奶，我仿佛也看到数年之后白发苍苍的我们。"
+    diary_text = "There weren't any reliable travel guides for this place, so we allowed our instincts to lead us on a nighttime stroll. We stumbled upon a street cart selling hotcakes, run by a couple whose deep bond was evident. Looking at them, I couldn’t help but imagine us years from now, growing old together."
   },
   [413541] = {
-    diary_text = "在零点到来前，白起带我来到一座废弃的摩天轮商场。我们一边享受美食，一边畅想着在小城里的生活。当远处的烟花冉冉升起时，白起为我点燃一束烟火，告诉我不论时光如何变幻，我们永远不会改变。"
+    diary_text = "As midnight approached, Gavin led me to an abandoned mall featuring a Ferris wheel. While we enjoyed our snacks, we daydreamed about what life would be like if we lived in that little town. Just as distant fireworks began to light up the sky, he lit a sparkler for me and promised that no matter how much time changes things, we would always remain the same."
   },
   [413611] = {
     diary_text = "下周，白起特别喜欢的一个球队要来C市打一场邀请赛，我抢到了门票，正在美滋滋做攻略，却听见了一个噩耗——球队，被淘汰了？"
@@ -7258,6 +7294,18 @@ Just one conversation made me briefly remember those days of feeling locked down
   },
   [413941] = {
     diary_text = "因为想亲眼看到白起认真打球的样子，我们决定对打一场。起初和风细雨，但他一直没有忘记对我熬夜的“惩罚”，战况愈发激烈。好在最终，白警官作了一个可爱的弊……"
+  },
+  [414011] = {
+    diary_text = "The heavy scent of blood drifted from the neighboring cell, and with the little time I had left, my curiosity and courage finally overcame me. I stepped into the room next door and see if my cellmate's alright, reassuring him that I wasn't afraid of him."
+  },
+  [414021] = {
+    diary_text = "To my surprise, Gavin told me I wasn't a bad person—a statement I had never heard before. Late that night, he didn't refuse my request to visit again. We talked and talked, and he even asked me if I had any wishes."
+  },
+  [414031] = {
+    diary_text = "Though I didn't share my true desire, I had a feeling that Gavin might be the one who could make it come true. Later, an emergency arose in the prison. Realizing that Gavin hadn't been escorted back to his cell, I got concerned and wanted to check on him. For the first time, I felt a rush of excitement as I connected with the System and successfully found Gavin."
+  },
+  [414041] = {
+    diary_text = "After everything that happened that night, I was certain that both Gavin and I would undergo personality reshaping procedure the following day. But I no longer wanted to be forgotten—or to forget. So, I made the decision to fully merge with the System and seize control of everything. Yet, to my surprise, Gavin appeared before me again, crossing through the darkness and lifting me into the air..."
   },
   [450111] = {
     diary_text = "The first scene Gavin and I encountered when we entered a VR game world was an intel station set up by NW in Loveland City! Seeing such a secretive place in the virtual world made me uneasy."
@@ -7386,37 +7434,37 @@ Just one conversation made me briefly remember those days of feeling locked down
     diary_text = "Gavin's confession made my heart flutter. On the rooftop stairs, I finally gave him my answer. After all these years, we finally shared those unspoken feelings."
   },
   [450911] = {
-    diary_text = "当我在包间看到白起的时候，我便明白自己肯定是被当作了用于要挟他的“软肋”。此时与宴的其他人还试图用场面话向白起施压，我却非常明白这场聚会表面的太平，即将到此为止了……"
+    diary_text = "My role in this drama became clear the moment I saw Gavin—I was the vulnerability they would exploit to break him. While the others masked their pressure with pleasantries, I sensed that the fragile peace was about to shatter."
   },
   [450921] = {
-    diary_text = "白起利落地收拾了那些人后，便急切地带着无辜卷入的我离开了。路上他告诉我，他什么也不能回答我，但其实我更好奇的是，他今天这样不管不顾保护我，会不会将自己推向更危险的位置……"
+    diary_text = "With decisive action, Gavin cleared the room and whisked me away, an innocent caught in the crossfire. He insisted he couldn't say anything, but my heart trembled at the cost of his protection—had he put himself in danger for me?"
   },
   [450931] = {
-    diary_text = "没想到白起竟然将我带到了一处灰色组织的“老巢”，将我托付给了一个神秘的女人兰姐。其间，我也暗暗地窥见在这些领域极具统治力的他的模样，而白起与她的交易似乎也暗藏杀机。"
+    diary_text = "He led me to a sanctuary within the den of a gray organization, entrusting me to the enigmatic Miss Isabella. In that realm, I witnessed the sovereign he truly was and the deadly stakes of his pact with her."
   },
   [450941] = {
-    diary_text = "在白起的任务进行到紧要关头时，兰姐“左右逢源”，想将我的这个“弱点”再度推至白起的谈判桌前，当我听见白起正在为之努力的事情后，我也决心绝不会允许任何人让他低头！"
+    diary_text = "As Gavin's operation reached its zenith, Miss Isabella attempted to use me as a weakness once more. But having grasped the weight of his cause, I vowed that no one would manipulate me to force his submission."
   },
   [450951] = {
-    diary_text = "复杂的清剿逐渐告一段落后了。我虽然没有正面问过任何事情，却明白眼前的白起会逐渐走向更高更难以裁决的领域里，思绪间，他却主动坦白了想法，并送给我一份特别的礼物……"
+    diary_text = "In the aftermath of the tangled campaign, I understood, without a word spoken, that Gavin was ascending to a realm of greater power and peril. And as I contemplated this, he revealed his heart to me and bestowed a gift unlike any other..."
   },
   [460011] = {
-    diary_text = "我穿过枪林弹雨，在废墟与烈火之中，眼里只剩下那个在战壕里鼎力支撑的白起，他看到我时，只觉得异常不可思议，我告诉他是因为我等他太久太久了，才忍不住找来的……"
+    diary_text = "I pushed through a storm of bullets, past the ruins and the flames. My world had shrunk to one thing: Gavin, holding the line in the trenches. When he saw me, his face was a picture of pure shock. I told him I'd waited too long—I had to come find him myself."
   },
   [460021] = {
-    diary_text = "思念如同混乱地带的战火一样，永无停息。白起的身上遍布各色严重的伤痕，却因为环境恶劣只能进行最基础不过的包扎，可当我心痛地抚上他的胸膛时，一把意外的尖刀却穿我而过。"
+    diary_text = "This longing felt like a relentless frontline, with battles that never ceased. Gavin bore severe injuries, patched up with only the basics. But when my heart guided my hand to his chest, a searing pain erupted as a blade struck my back."
   },
   [460031] = {
-    diary_text = "我揉着发麻的心脏醒来，眼前是苍白的病房，而白起正静静躺着，任凭周遭的医生一次又一次的抢救。其实梦中的任务早已顺利结束了，可是他却因此陷入重伤，而我只能选择最危险的、也是唯一的办法……"
+    diary_text = "I woke to the dull throb of my heart against the stark white of a hospital room. Gavin lay nearby, unresponsive, despite the doctors' desperate efforts to save him. The mission from the dream had been a success, but it had broken him, leaving me no choice but to risk everything."
   },
   [460041] = {
-    diary_text = "在一片意识的虚无地，我在黑暗中大声地寻找着白起，此时的他离我是如此遥远，我看见了最强大的他对自己的叫嚣，他清醒而痛苦的模样让我也甘愿放弃一切，只想呆在有他的地方就好，不论生死……"
+    diary_text = "Lost in that dark, empty space, I screamed his name. He felt a million miles away. And when I saw him—so powerful, yet so cruel to himself—it broke my heart. I didn't care about anything else anymore. All I wanted was to be by his side."
   },
   [460051] = {
-    diary_text = "随着他狠下决心，某种巨大的欲望在他的世界里缓缓升起，连带着让我也在他的记忆里看见得以了他受伤的瞬间，我无从得知他究竟是靠着如何的意志力一步步坚持下来的，但是幸好，他回来了。"
+    diary_text = "Then, he made a choice. Something immense and powerful surged within him, and I understood how deeply he had been hurt. I don't know how he found the strength to keep going, but he did. He came back to me."
   },
   [460061] = {
-    diary_text = "醒来后的白起迅速康复着，一切像是没有发生过一般，那些细碎而普通的美好如约铺满了我们的日常，只是，他还有很多在意的事……"
+    diary_text = "Gavin awoke, healing with remarkable speed, as if it had never happened. Our life now unfolds in a cascade of simple, beautiful moments. But I can tell... there's still something weighing on his mind."
   },
   [490211] = {
     diary_text = "I failed in my first exorcism mission. When Gavin heard about it, he asked if I would like to be his partner. At this moment, a special firework suddenly rose in the distance."
@@ -7855,28 +7903,28 @@ with me under the white gauze.]]
     diary_text = "暴雨给比赛划上句号，我们也因此被困在房车里。眼看今晚的烤鱼宴泡汤，我心中觉得可惜。然而，凌肖却抛出了别的补救方案。"
   },
   [803411] = {
-    diary_text = "因为某位扮演“相思小姐”的演员同事不太舒服，拜托我去如意镇顶班一天。凌肖虽然对我的玩心很无语，但还是将我送到了园区门口……"
+    diary_text = "The actress playing \"Lady Lovelorn\" called in sick, and I got roped into covering her shift for a day at Ruyi Town. Shaw rolled his eyes at my spur-of-the-moment plan but still drove me to the entrance..."
   },
   [803421] = {
-    diary_text = "干了没两个小时，我就觉得有点无聊了。还好凌肖提前过来找我玩，不然我都不知道时间怎么熬……只不过他怎么乱改我的人设啊！"
+    diary_text = "The gig lost its charm fast. I was so bored until Shaw surprised me by showing up early... only to start rewriting my character's script on the spot!"
   },
   [803431] = {
-    diary_text = "这家伙一不开心就走的毛病什么时候能改改，气死我了！既然同事回来接班了，我现在只想找到凌肖和他狠狠吵一架！但凌肖到底去哪儿了呢？"
+    diary_text = "Ugh, his signature move—the dramatic exit when he's annoyed—strikes again. So frustrating! As soon as my replacement arrived, I was determined to find him and have it out. But where on earth had he gone?"
   },
   [803441] = {
-    diary_text = "看到凌肖穿着婚服要和别人“成亲”的时候，我终于明白了他今天的心情——从一开始就不行，演的也不行，成亲的不可以是别人，喜欢的更不可以是别人！我再也按捺不住，从人群冲出，大声抢亲……"
+    diary_text = "Everything clicked when I saw Shaw in the groom's robes, standing beside someone else for a \"wedding.\" Now I got it—why he'd been in a mood all day. This was all wrong. Marrying someone else, even in a play, was unacceptable. And him liking someone else? Over my dead body. Before I knew it, I was shoving through the crowd, yelling for everyone to stop—I was hijacking this wedding."
   },
   [803511] = {
-    diary_text = "我收到凌肖的电话后，前往某个南方小镇和他一起迎接元旦。我意外打碎了房里的泥人像，凌肖为了安慰我，送了我一个声称可以辟邪的老银发卡。"
+    diary_text = "After his call, I joined Shaw in the quaint southern town for New Year's. I felt awful about accidentally breaking a clay figurine in our room, but he reassured me by gifting me a vintage silver hairpin, claiming it was a charm against evil."
   },
   [803521] = {
-    diary_text = "除夕当晚，凌肖送我的发卡意外不知所踪。我和凌肖在寒风中踏上寻找发卡之路，我想起当年他送我蜻蜓眼后又转头藏起来的事，但凌肖说他才不会故技重施......"
+    diary_text = "Yet on New Year's Eve, the hairpin mysteriously vanished. Shaw and I found ourselves searching for it in the biting cold, which brought back memories of when he had given me the Dragonfly Eye and then hidden it away. He promised me he wasn't going to repeat that history..."
   },
   [803531] = {
-    diary_text = "凌肖带我到镇上的“鬼市”找发卡。想着他肯定也对“鬼市”感兴趣，我便拉着他一起在里面游逛起来，开心之余，居然真的在某个小摊上看到了我丢失的发卡！"
+    diary_text = "Determined to find it, he took me to the local \"Ghost Market.\" Knowing he'd enjoy the atmosphere, I eagerly pulled him along to explore. To my delight, I spotted my lost hairpin on display at a vendor's stall!"
   },
   [803541] = {
-    diary_text = "凌肖为了替我拿回发卡，被鄙夷了继续和老板周旋。我看不得凌肖妥协，想花钱买下来，但凌肖显然有他的计划......"
+    diary_text = "Shaw stepped up to negotiate with the rude stallkeeper to retrieve it for me. My heart sank as I watched him humble himself, and I considered just buying it myself—but it was clear he had something else in mind..."
   },
   [803611] = {
     diary_text = "凌肖这几日忙着整理一批古籍，我们已经将近半个月没能见上面了。在没提出任何预告的情况下，我出现在他们学校的图书馆门口，提出要带他逃离图书馆出门放松。"

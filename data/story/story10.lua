@@ -7711,7 +7711,7 @@ story10 = {
       dialog = 3,
       music = "25_Romantic_Quiet_MAS",
       renwu = "npc",
-      sentence = "路过街角的奶茶店时，巨大的新品牌子吸引了我的注意。",
+      sentence = "As I passed a familiar corner, a brand-new sign above the boba tea shop caught my eye.",
       next = {2}
     },
     [2] = {
@@ -7721,7 +7721,7 @@ story10 = {
       music = "25_Romantic_Quiet_MAS",
       renming = "$u",
       renwu = "npc",
-      sentence = "哦！这是周棋洛想要让我替他试试的那个新品吧？",
+      sentence = "Oh! This must be the new drink Kiro wanted me to try.",
       next = {3}
     },
     [3] = {
@@ -7729,7 +7729,7 @@ story10 = {
       dialog = 3,
       music = "25_Romantic_Quiet_MAS",
       renwu = "npc",
-      sentence = "当我准备走进奶茶店时，手机弹出了周棋洛的消息。",
+      sentence = "Just as I reached for the door, a message from him popped up on my phone.",
       sfx = "Dia_Phone_MessageRecieve",
       next = {4}
     },
@@ -7747,7 +7747,7 @@ story10 = {
       dialog = 3,
       music = "25_Romantic_Quiet_MAS",
       renwu = "npc",
-      sentence = "我疑惑地向店员报了自己的名字，店员便摆了个ok的手势，回身拿出一杯奶茶。",
+      sentence = "As I told the clerk my name, he flashed me a thumbs-up and then turned to grab a drink from the counter.",
       next = {6}
     },
     [6] = {
@@ -7755,9 +7755,9 @@ story10 = {
       dialog = 2,
       idx = 5,
       music = "25_Romantic_Quiet_MAS",
-      renming = "店员",
+      renming = "Clerk",
       renwu = "npc",
-      sentence = "由“$u的奶茶顾问”为您订做的定制奶茶一杯，请查收~",
+      sentence = "One custom boba tea, specially made by \"$u's Personal Boba Tea Consultant\". Enjoy!",
       next = {7}
     },
     [7] = {
@@ -7767,7 +7767,7 @@ story10 = {
       music = "25_Romantic_Quiet_MAS",
       renming = "$u",
       renwu = "npc",
-      sentence = "定制奶茶？",
+      sentence = "Custom boba tea?",
       next = {8}
     },
     [8] = {
@@ -7775,9 +7775,9 @@ story10 = {
       dialog = 2,
       idx = 5,
       music = "25_Romantic_Quiet_MAS",
-      renming = "店员",
+      renming = "Clerk",
       renwu = "npc",
-      sentence = "是的~是按您男友提供的配方制作的，独一无二的一杯奶茶哦。",
+      sentence = "Yep! It's made from a one-of-a-kind recipe your boyfriend gave us—just for you.",
       next = {9}
     },
     [9] = {
@@ -7785,7 +7785,7 @@ story10 = {
       dialog = 3,
       music = "25_Romantic_Quiet_MAS",
       renwu = "npc",
-      sentence = "我接过奶茶喝了一口，一股温暖的甜意带着茶底的清澈盈溢出来。",
+      sentence = "I took a sip. The flavor was warm and rich, with just the right hint of sweetness.",
       next = {10}
     },
     [10] = {
@@ -7793,7 +7793,7 @@ story10 = {
       dialog = 3,
       music = "25_Romantic_Quiet_MAS",
       renwu = "npc",
-      sentence = "我举起杯子，想看看他定制的配方，那上面却只写了让我忍不住微笑的五个字。",
+      sentence = "I tilted the cup, curious about the recipe. But instead of ingredients, I found five handwritten words that made my heart melt:",
       next = {11}
     },
     [11] = {
@@ -7801,7 +7801,7 @@ story10 = {
       dialog = 3,
       music = "25_Romantic_Quiet_MAS",
       renwu = "npc",
-      sentence = "“对你的喜欢”。",
+      sentence = "All my love for you.",
       next = {12}
     },
     [12] = {
@@ -7811,7 +7811,7 @@ story10 = {
       music = "25_Romantic_Quiet_MAS",
       renming = "$u",
       renwu = "npc",
-      sentence = "您好，麻烦也帮我定制一杯奶茶，就用和这杯一样的配方，再多加一丢丢糖进去。",
+      sentence = "Could I get one more of these? Same everything, just a bit sweeter.",
       next = {13}
     },
     [13] = {
@@ -7819,7 +7819,7 @@ story10 = {
       dialog = 3,
       music = "25_Romantic_Quiet_MAS",
       renwu = "npc",
-      sentence = "我接过店员给的定制标签，在上面写下……",
+      sentence = "The clerk handed me a fresh label to write on. I thought for a moment and then scribbled down:",
       next = {14}
     },
     [14] = {
@@ -7827,7 +7827,7 @@ story10 = {
       dialog = 3,
       music = "25_Romantic_Quiet_MAS",
       renwu = "npc",
-      sentence = "“我更喜欢你。”",
+      sentence = "But I love you more.",
       next = {0}
     }
   },
@@ -7950,6 +7950,172 @@ story10 = {
       role5 = 211404,
       ruchang = 9,
       sentence = "只是看到你兴致勃勃的样子，就想快点和你一起尝试了。",
+      next = {0}
+    }
+  },
+  [840824] = {
+    [1] = {
+      beijing = 4800,
+      dhead = 107,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "嘿嘿小兔子，再请你喝点茶~",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "90_childrenday",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      ruchang = -1,
+      sentence = "之前用茶文化体验基地的僧人茶宠，怎么不见你兴致这么高？",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4800,
+      dhead = 112,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "可能比起写实的造型，我还是更喜欢可爱一点的。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "90_childrenday",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      roleanim = 1.1,
+      sentence = "哦，那这个给你。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4800,
+      dhead = 113,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      roleanim = 1.1,
+      sentence = "……好萌的鲨鱼茶宠！！",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "90_childrenday",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      roleanim = 1.1,
+      sentence = "嗯哼。那天逛茶博会时抽奖抽到的。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "90_childrenday",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      roleanim = 1.1,
+      sentence = "看着挺别致，就是风格跟我不太搭。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4800,
+      dhead = 110,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      roleanim = 1.1,
+      sentence = "可我怎么觉得这鲨鱼龇牙咧嘴的笑，和你简直一模一样？",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "90_childrenday",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703103,
+      role3 = 703201,
+      roleanim = 1.1,
+      sentence = "……还想不想要了？",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4800,
+      dhead = 114,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703103,
+      role3 = 703201,
+      roleanim = 1.1,
+      sentence = "噗~你现在咬牙切齿的样子，好像跟它更神似了~",
+      next = {11}
+    },
+    [11] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "90_childrenday",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703104,
+      role3 = 703201,
+      roleanim = 1.1,
+      sentence = "我看你是忘了下一轮的评委是谁。",
+      next = {12}
+    },
+    [12] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "90_childrenday",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703104,
+      role3 = 703201,
+      roleanim = 1.1,
+      ruchang = 9,
+      sentence = "给你两秒钟，重新组织刚刚的发言。",
       next = {0}
     }
   },

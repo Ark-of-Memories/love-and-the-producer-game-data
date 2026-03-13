@@ -938,8 +938,8 @@ data = {
     goods_weightset_name = "2025半年卡每日随机奖励"
   },
   [300255] = {
-    goods_weightset_name = "限时日常礼盒",
-    goods_weightset_desc = "限时上架的日常神秘礼物盒，里面装着什么礼物呢？",
+    goods_weightset_name = "Limited-time Daily Gift",
+    goods_weightset_desc = "A Mysterious Daily Giftbox available for a limited time. What gifts does it contain?",
     goods_weightset_icon = "c_November_gift"
   },
   [300256] = {

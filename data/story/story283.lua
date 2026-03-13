@@ -10809,6 +10809,142 @@ story283 = {
       sentence = "Hope they get to Lucien's lab safely and soon...",
       next = {0}
     }
+  },
+  [840423] = {
+    [1] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "我还真没想到，这次的交流会能有这么多人来参加……",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4847,
+      dhead = 114,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "刚才匆匆忙忙又让人把备用的茶包全都拿上来了，希望能够用。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 4,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "白起",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      ruchang = -1,
+      sentence = "这说明现场的气氛的确不错。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 4,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "白起",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "刚才我就看见一个老爷爷在和小朋友一起论茶。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 4,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "白起",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "说是在讨论哪种冲泡手法最好喝，引得周围很多人围观。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "哇，这也算是真正意义上的“以茶会友”了吧。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4847,
+      dhead = 114,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "真好啊，之后肯定会有越来越多的人喜欢这种和茶有关的活动的。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "不过下次再来，我们俩就都当茶客，就能一起好好逛逛了。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 4,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "白起",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "当然可以，不过我觉得现在这样也挺不错的。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 4,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "白起",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      ruchang = 9,
+      sentence = "既然是“以茶会友”，只要是你准备的茶，我随时都会前去赴约。",
+      next = {0}
+    }
   }
 }
 return story283

@@ -1,610 +1,607 @@
 module("short_msg_text14089", package.seeall)
 data = {
   [140890000] = {
-    content = "刚刚视频的时候你怎么一直在拿喷雾喷脸？",
+    content = "Why were you spritzing your face during our video call?",
     text_time = 2850
   },
   [140890110] = {
-    title = "我在给我的脸降温",
-    content = "我在给我的脸降温呢，瞰景回来后脸就一直在发烫。",
+    title = "Cooling down my face.",
+    content = "I was cooling it down. My face's been feeling warm after the aerial shot.",
     text_time = 3450
   },
   [140890111] = {
-    content = "我猜某个小姑娘应该是低估了这个季节的太阳。",
+    content = "A certain young lady must have underestimated the sun in this season.",
     text_time = 3150
   },
   [140890112] = {
-    content = "我查了一下当地的紫外线指数，这几天都维持在偏高的状态。",
+    content = "I checked the local UV index. It'll be high for the next few days.",
     text_time = 4050
   },
   [140890113] = {
-    content = "不过你明天就回来了，我的提醒似乎有些晚。",
+    content = "But you'll be back tomorrow. Guess I'm a bit too late.",
     text_time = 3000
   },
   [140890120] = {
-    title = "晒久了",
-    content = "只是今天出去瞰景被太阳晒久了，脸上有点发红而已~",
+    title = "Too much sun.",
+    content = "I was doing an aerial shot today and my face got a bit red from too much sun.",
     text_time = 3600
   },
   [140890121] = {
-    content = "我有些担心你把脸晒伤了。",
+    content = "I'm worried that you got sunburned.",
     text_time = 1800
   },
   [140890122] = {
-    content = "我看了一下，你所在的城市紫外线指数比恋语市要高。",
+    content = "I checked. The place you're at has a higher UV index than Loveland.",
     text_time = 3600
   },
   [140890123] = {
-    content = "我应该早一点提醒你的。",
+    content = "I should have reminded you earlier.",
     text_time = 1650
   },
   [140890130] = {
-    title = "是急救措施",
-    content = "我想急救一下我的脸，瞰景回来脸突然就火辣辣地疼起来了……",
+    title = "Emergency facial care.",
+    content = "I was doing some emergency facial care. I started feeling a burn on my cheeks after today's aerial shot...",
     text_time = 4200
   },
   [140890131] = {
-    content = "听起来像是晒伤了。",
+    content = "It sounds like sunburn.",
     text_time = 1350
   },
   [140890132] = {
-    content = "你所在的城市，紫外线指数连续几天都维持在偏高的状态。",
+    content = "The UV level where you're staying is pretty high these days.",
     text_time = 3900
   },
   [140890133] = {
-    content = "只是我的提醒似乎有些晚了，毕竟明天你就结束出差了。",
+    content = "But I'm too late to remind you. You're coming back tomorrow anyway.",
     text_time = 3750
   },
   [140890210] = {
-    title = "当地人也没有防晒",
-    content = "大意了，我看当地的工作人员都没有撑伞，就觉得还好。",
+    title = "The locals don't use sun protection.",
+    content = "I should have known. I saw no local crew member using any UV protection and thought it was okay.",
     text_time = 3750
   },
   [140890211] = {
-    content = "他们应该是适应了当地的日晒程度，或者早早就涂好了防晒。",
+    content = "They have either gotten used to the UV level or already used sunscreen.",
     text_time = 4050
   },
   [140890212] = {
-    content = "比起这个，我们原定的周末徒步。",
+    content = "So, the hike we planned for the weekend...",
     text_time = 2250
   },
   [140890213] = {
-    content = "是不是取消会比较好？",
+    content = "Should we cancel it?",
     text_time = 1500
   },
   [140890220] = {
-    title = "早知道就不偷懒了……",
-    content = "早知道我就不偷懒，乖乖涂防晒了。",
+    title = "I should have taken an extra step...",
+    content = "I should have taken an extra step and applied sunscreen.",
     text_time = 2400
   },
   [140890221] = {
-    content = "如果明天没有好转，下机后我们可以先去趟医院。",
+    content = "If it doesn't get better tomorrow, we can go to the hospital after you land.",
     text_time = 3300
   },
   [140890222] = {
-    content = "到时候也要问问医生。",
+    content = "I need to consult the doctor, too.",
     text_time = 1500
   },
   [140890223] = {
-    content = "我们安排在周末的徒步行程是不是取消会比较好。",
+    content = "See if we should cancel the hike we planned for the weekend.",
     text_time = 3300
   },
   [140890230] = {
-    title = "可是我明明有防晒",
-    content = "可是我明明有好好涂防晒啊。",
+    title = "But I used sunscreen.",
+    content = "But I used sunscreen for it.",
     text_time = 1950
   },
   [140890231] = {
-    content = "那不排除会有其他的原因。",
+    content = "Could there be some other reasons?",
     text_time = 1800
   },
   [140890232] = {
-    content = "保险起见，明天回来后要不要先去看医生？",
+    content = "Should we go see the doctor after you get back tomorrow? Just to be safe.",
     text_time = 2850
   },
   [140890233] = {
-    content = "再问问他我们原定的周末徒步是不是应该取消。",
+    content = "And ask him if we should cancel our planned weekend hike.",
     text_time = 3150
   },
   [140890310] = {
-    title = "要取消吗",
-    content = "啊？要取消吗？我们可是很久之前就计划好了，有点可惜……",
+    title = "We're canceling it?",
+    content = "Ah? We're canceling it? But we've been planning it for so long. It'll be such a shame...",
     text_time = 4050
   },
   [140890311] = {
-    content = "徒步可以再安排。",
+    content = "We can go hiking another time.",
     text_time = 1200
   },
   [140890312] = {
-    content = "为了弥补你的遗憾，这个周末不如就交给我安排？",
+    content = "To make up for it, I'll make plans for the weekend.",
     text_time = 3300
   },
   [140890313] = {
-    content = "$u可以期待一下。",
+    content = "You can look forward to it, $u.",
     text_time = 1350
   },
   [140890320] = {
-    title = "那我们周末要安排点别的事吗？",
-    content = "那我们周末要安排点别的事吗？",
+    title = "Should we make other plans for the weekend?",
+    content = "Should we make other plans for the weekend?",
     text_time = 2100
   },
   [140890321] = {
-    content = "为了$u的脸着想，我们最好还是留在室内。",
+    content = "For the safe recovery of $u's face, it's best that we stay indoors.",
     text_time = 3000
   },
   [140890322] = {
-    content = "像以往的其他周末一样，一起窝在家里。",
+    content = "At home, like all the other weekends we spent together.",
     text_time = 2700
   },
   [140890323] = {
-    content = "毕竟你出差了一段时间，我已经很想念那样的时光。",
+    content = "You've been on the work trip for a while, and I'm starting to miss our routine.",
     text_time = 3600
   },
   [140890330] = {
-    title = "反正只有是和许教授一起就行~",
-    content = "虽然取消有点可惜，但只要是和许教授一起，我都行~",
+    title = "As long as I'm with Professor Lucien.",
+    content = "It's a shame that we have to cancel it, but I'll do anything as long as it's with Professor Lucien.",
     text_time = 3600
   },
   [140890331] = {
-    content = "这一点我和$u相同。",
+    content = "I feel the same, $u.",
     text_time = 1500
   },
   [140890332] = {
-    content = "之后我们可以再安排一次徒步。",
+    content = "We can go hiking another time.",
     text_time = 2100
   },
   [140890333] = {
-    content = "这个周末我们就窝在家里，给我说说你出差途中的见闻吧。",
+    content = "This week, we're staying home, and you can tell me all about your work trip.",
     text_time = 3900
   },
   [140891000] = {
-    content = "薯片小姐，SOS！（你先答应不会笑话我TAT",
+    content = "Miss Chips, SOS! (Promise you won't laugh at me TAT)",
     text_time = 3300
   },
   [140891110] = {
-    title = "好，我答应你。",
-    content = "好，我答应你，你说什么我都不会笑的。",
+    title = "Okay, I promise.",
+    content = "Okay, I promise. I won't laugh, no matter what you say.",
     text_time = 2700
   },
   [140891111] = {
-    content = "我刚刚收到之前给苹果箱买的狗窝。",
+    content = "I just received the dog bed I bought for Apple Box.",
     text_time = 2400
   },
   [140891112] = {
-    content = "才发现我下单的时候没看清楚尺寸。",
+    content = "And realized I didn't check the size when I ordered it.",
     text_time = 2400
   },
   [140891113] = {
-    content = "结果这个狗窝大得能睡下一个我……",
+    content = "The bed is so big that even I can sleep in it...",
     text_time = 2400
   },
   [140891120] = {
-    title = "为什么这么说？",
-    content = "为什么这么说？是发生什么事了吗？",
+    title = "What makes you say that?",
+    content = "What makes you say that? Did something happen?",
     text_time = 2400
   },
   [140891121] = {
-    content = "薯片小姐别担心，我没事~",
+    content = "Don't worry, Miss Chips. I'm okay.",
     text_time = 1800
   },
   [140891122] = {
-    content = "只是我之前给苹果箱买的狗窝，下单的时候没看清楚尺寸。",
+    content = "It's just that I bought a dog bed for Apple Box and forgot to check its size.",
     text_time = 3900
   },
   [140891123] = {
-    content = "到了发现它不仅能睡下苹果箱，还能睡下一个我呢！",
+    content = "It just arrived, and it's big enough for both Apple Box and me!",
     text_time = 3450
   },
   [140891130] = {
-    title = "你这么说我反而想笑。",
-    content = "你这么说我反而会想笑呢，你是做了什么好笑的事吗？",
+    title = "That makes me want to laugh already.",
+    content = "That makes me want to laugh already. Did you do something funny?",
     text_time = 3600
   },
   [140891131] = {
-    content = "……你还记得我之前说要给苹果箱买个新的狗窝吗？",
+    content = "...Remember that I said I wanted to buy a new dog bed for Apple Box?",
     text_time = 3450
   },
   [140891132] = {
-    content = "我下单的时候好像没看清楚尺寸。",
+    content = "I forgot to check the size when I ordered it.",
     text_time = 2250
   },
   [140891133] = {
-    content = "结果寄来的狗窝大到能躺下一个我！",
+    content = "The bed just arrived, and it's big enough for me!",
     text_time = 2400
   },
   [140891210] = {
-    title = "哈哈哈哈哈",
-    content = "哈哈哈哈哈哈怎么会这样！",
+    title = "LOL",
+    content = "How did that happen lol...",
     text_time = 1800
   },
   [140891211] = {
-    content = "阿薯你笑得好过分……",
+    content = "Come on, Miss Chips, I told you not to laugh...",
     text_time = 1500
   },
   [140891212] = {
-    content = "其实我本来想着大了就大了，反正能睡下苹果箱就好。",
+    content = "I thought at least it's not too small and maybe we could make do.",
     text_time = 3600
   },
   [140891213] = {
-    content = "结果苹果箱看到这么大的窝反而害怕了，怎么都不肯躺上去。",
+    content = "But Apple Box got scared seeing how big it was and just wouldn't lie on it.",
     text_time = 4050
   },
   [140891220] = {
-    title = "苹果箱什么反应？",
-    content = "那苹果箱看到的时候是什么反应啊？",
+    title = "How did Apple Box react to it?",
+    content = "How did Apple Box react when he saw it?",
     text_time = 2400
   },
   [140891221] = {
-    content = "它好像有点害怕这么大的窝。",
+    content = "He seemed to be scared by how big it was.",
     text_time = 1950
   },
   [140891222] = {
-    content = "不管我怎么引导它，它都不肯上去。",
+    content = "He refused to lie on it, no matter what I tried.",
     text_time = 2400
   },
   [140891223] = {
-    content = "最后又躺回旧的窝里了。",
+    content = "He eventually went back to his old bed.",
     text_time = 1650
   },
   [140891230] = {
-    title = "可以让苹果箱和cello一起用",
-    content = "可以把这个窝当成苹果箱和cello共同的窝啊~",
+    title = "Apple Box can share it with Cello.",
+    content = "We can make Apple Box share it with Cello.",
     text_time = 3450
   },
   [140891231] = {
-    content = "我本来也是这么想的。",
+    content = "I thought the same thing.",
     text_time = 1500
   },
   [140891232] = {
-    content = "可它们好像都有点害怕这么大的窝。",
+    content = "But they both seemed to be frightened by the size of the bed.",
     text_time = 2400
   },
   [140891233] = {
-    content = "不管我放了多少零食和玩具它们都不肯上去。",
+    content = "They just wouldn't get up on it, no matter how many snacks and toys I used.",
     text_time = 3000
   },
   [140891310] = {
-    title = "实不相瞒，我想躺躺看",
-    content = "实不相瞒，我有点想躺躺看，感觉躺进去会很舒服~",
+    title = "I actually want to lie on it.",
+    content = "I actually want to lie on it. It looks comfortable.",
     text_time = 3450
   },
   [140891311] = {
-    content = "其实我已经试过了哈哈哈",
+    content = "I've already tried that.",
     text_time = 1650
   },
   [140891312] = {
-    content = "确实很舒服，我特意挑的毛茸茸又软绵绵的窝~",
+    content = "It is comfortable. I picked one that's soft and fluffy.",
     text_time = 3150
   },
   [140891313] = {
-    content = "和阿薯一起躺在里面肯定很幸福~",
+    content = "It must feel so nice to lie on it with Miss Chips.",
     text_time = 2250
   },
   [140891320] = {
-    title = "我看了一下卖家秀",
-    content = "我看了一下卖家秀，好像有不少人是特定定制这样的窝给自己睡的。",
+    title = "I saw the product pics.",
+    content = "I saw the product pics. A lot of people customize beds like this for themselves.",
     text_time = 4500
   },
   [140891321] = {
-    content = "原来还有这么有趣的人~",
+    content = "People actually do that?",
     text_time = 1650
   },
   [140891322] = {
-    content = "那阿薯要不要来试试？我特意选了个毛茸茸又软绵绵的窝~",
+    content = "Are you going to try it, too, Miss Chips? I picked one that's soft and fluffy.",
     text_time = 3900
   },
   [140891323] = {
-    content = "很适合天冷的时候和阿薯挤在一起抱团取暖。",
+    content = "It's best for huddling together when it's cold.",
     text_time = 3000
   },
   [140891330] = {
-    title = "不如转变一下思路",
-    content = "不如改变一下思路，以前我在网上看过设计成狗窝的床垫……不如拿来当我们的窝吧！",
+    title = "Forget what it's supposed to be.",
+    content = "Let's forget what it's supposed to be. I saw mattresses online that are designed like dog beds... We can just use it ourselves.",
     text_time = 5550
   },
   [140891331] = {
-    content = "啊！那阿薯快过来吧！",
+    content = "Ah! Come on over then, Miss Chips!",
     text_time = 1500
   },
   [140891332] = {
-    content = "我特意挑了一个毛茸茸又软绵绵的窝。",
+    content = "The one I picked is so soft and fluffy.",
     text_time = 2550
   },
   [140891333] = {
-    content = "和阿薯一起挤在里面睡觉一定很幸福~",
+    content = "It'll feel so nice to lie on it with Miss Chips.",
     text_time = 2550
   },
   [140892000] = {
-    content = "我收到了一个包裹，是你寄来的吗？",
+    content = "I just received a package. Did you send it to me?",
     text_time = 2400
   },
   [140892110] = {
-    title = "应该不是我",
-    content = "应该不是我，最近我都没有给你买东西。",
+    title = "No, I didn't.",
+    content = "No, I didn't. I didn't buy anything for you lately.",
     text_time = 2700
   },
   [140892111] = {
-    content = "我看里面是两套情侣款的篮球服，以为是你寄过来的。",
+    content = "I saw it was a pair of basketball jerseys for couples and thought you must have sent it.",
     text_time = 3600
   },
-  [140892112] = {content = "……", text_time = 300},
+  [140892112] = {content = "...", text_time = 300},
   [140892113] = {
-    content = "刚收到于哥的短信，是他寄的。",
+    content = "I just got a text from Hugo. He sent it.",
     text_time = 2100
   },
   [140892120] = {
-    title = "里面有什么？",
-    content = "里面有什么东西吗？",
+    title = "What's in it?",
+    content = "What's in it?",
     text_time = 1350
   },
   [140892121] = {
-    content = "两套情侣款的篮球服，我还以为是你给我寄的。",
+    content = "Matching basketball jerseys for couples. I thought you must have sent them.",
     text_time = 3150
   },
-  [140892122] = {content = "……", text_time = 300},
+  [140892122] = {content = "...", text_time = 300},
   [140892123] = {
-    content = "收到短信了，是于哥寄的。",
+    content = "I got a text. It was from Hugo.",
     text_time = 1800
   },
   [140892130] = {
-    title = "有写寄件人吗？",
-    content = "包裹上面有写寄件人的信息吗？",
+    title = "Is there the sender's information?",
+    content = "Is there the sender's information on the package?",
     text_time = 2100
   },
   [140892131] = {
-    content = "寄件信息被蹭得看不清了。",
+    content = "I can't read it with all these scratches.",
     text_time = 1800
   },
   [140892132] = {
-    content = "我看里面是两套情侣款的篮球服，下意识觉得是你给我寄的。",
+    content = "It's matching basketball jerseys for couples. I thought it must be from you.",
     text_time = 4050
   },
   [140892133] = {
-    content = "……于哥发短信了，是他寄的。",
+    content = "...Hugo sent a text. It was from him.",
     text_time = 2100
   },
   [140892210] = {
-    title = "篮球队的于哥？",
-    content = "是篮球队的于哥吗？他怎么忽然给你寄球服了？",
+    title = "Hugo from your basketball team?",
+    content = "Hugo from your basketball team? Why did he suddenly send you jerseys?",
     text_time = 3150
   },
   [140892211] = {
-    content = "于哥在短信里说，他的朋友是我们社区球队的球衣赞助商。",
+    content = "He says in the text that his friend is a sponsor of our community team.",
     text_time = 3900
   },
   [140892212] = {
-    content = "之前看到我们穿球衣的照片，觉得不错。",
+    content = "This friend liked the photo of us in basketball jerseys.",
     text_time = 2700
   },
   [140892213] = {
-    content = "就送了我们一套，当是帮他免费宣传。",
+    content = "So he sent us some new ones. It'll be like a free promo for his business.",
     text_time = 2550
   },
   [140892220] = {
-    title = "短信里说了什么？",
-    content = "短信里说了什么？",
+    title = "What does the text say?",
+    content = "What does the text say?",
     text_time = 1200
   },
   [140892221] = {
-    content = "说于哥的朋友是我们社区球队的球衣赞助商。",
+    content = "It says that Hugo's friend is a sponsor of our community team.",
     text_time = 3000
   },
   [140892222] = {
-    content = "之前偶然看到我们穿着同款球服的照片，觉得很不错。",
+    content = "This friend liked the photo of us in similar basketball jerseys.",
     text_time = 3600
   },
   [140892223] = {
-    content = "就托于哥给我们寄了一套新款，让我们给他宣传一下。",
+    content = "So, he asked Hugo to send us some new ones and promote them for him.",
     text_time = 3600
   },
   [140892230] = {
-    title = "是篮球队的新球服吗？",
-    content = "于哥的话，会是社区篮球队的新队服吗？",
+    title = "New jerseys for the basketball team?",
+    content = "If Hugo sent them, maybe they're new jerseys for the basketball team?",
     text_time = 2700
   },
   [140892231] = {
-    content = "应该不是。短信里说，于哥的朋友是我们社区球队的球衣赞助商。",
+    content = "I don't think so. The text says that Hugo's friend is a sponsor of our community team.",
     text_time = 4350
   },
   [140892232] = {
-    content = "之前来现场看比赛的时候看到我们穿着同款的球衣，觉得效果很好。",
+    content = "He saw us in similar jerseys last time he came to our game and liked how we looked.",
     text_time = 4500
   },
   [140892233] = {
-    content = "所以给我们送了一套新款，希望我们多出去走走，替他宣传。",
+    content = "So, he was sending us new ones for free, hoping we'd do some promo for him.",
     text_time = 4050
   },
   [140892310] = {
-    title = "好想试穿看看",
-    content = "好想立马试穿看看！",
+    title = "I want to try it on.",
+    content = "I want to try it on now!",
     text_time = 1350
   },
   [140892311] = {
-    content = "一定很适合你。",
+    content = "It'll look good on you.",
     text_time = 1050
   },
   [140892312] = {
-    content = "正好我今天没有特别任务，可以早点下班。",
+    content = "I don't have any special mission today. I'll get off work early.",
     text_time = 2850
   },
   [140892313] = {
-    content = "一会我就带着球衣去找你。",
+    content = "I'm coming to you with the jerseys.",
     text_time = 1800
   },
   [140892320] = {
-    title = "去哪里宣传比较好",
-    content = "但你说我们穿去哪里比较有宣传效果呢？",
+    title = "Where should we go for promo?",
+    content = "Where do you think we should go for the best promo?",
     text_time = 2700
   },
   [140892321] = {
-    content = "除了球场之外，我觉得其他地方也都能去。",
+    content = "Other than a basketball court, I think we can pick any place.",
     text_time = 2850
   },
   [140892322] = {
-    content = "毕竟起到宣传作用的是你。",
+    content = "You're what makes the promo work, after all.",
     text_time = 1800
   },
   [140892323] = {
-    content = "和地点没有太多关系。",
+    content = "The location doesn't really matter.",
     text_time = 1500
   },
   [140892330] = {
-    title = "要不要拍照",
-    content = "那我们要不要拍几张照片谢谢于哥的朋友？说不定他能用来线上宣传呢~",
+    title = "Should we take photos?",
+    content = "Should we take some photos to thank Hugo's friend? Maybe he can use them for promo online.",
     text_time = 4800
   },
-  [140892331] = {
-    content = "这个主意不错。",
-    text_time = 1050
-  },
+  [140892331] = {content = "Good idea.", text_time = 1050},
   [140892332] = {
-    content = "不过你知道我不太擅长面对镜头。",
+    content = "But you know I'm not good in front of a camera.",
     text_time = 2250
   },
   [140892333] = {
-    content = "过程中可能需要你指导一下。",
+    content = "I might need your help with the shoot.",
     text_time = 1950
   },
   [140893000] = {
-    content = "你发错人了吧？怎么给我发了个养老院的链接？",
+    content = "Is this for someone else? It's a link to a daycare center.",
     text_time = 3150
   },
   [140893110] = {
-    title = "不是普通的养老院",
-    content = "啧啧啧，这可不是普通的养老院！是“青年”养老院~",
+    title = "It's no normal daycare center.",
+    content = "You don't get it. It's not a normal daycare center. It's a daycare center for young people!",
     text_time = 3600
   },
   [140893111] = {
-    content = "看到了。",
+    content = "Yeah, I see that.",
     text_time = 600
   },
   [140893112] = {
-    content = "但有的人怎么年纪轻轻就开始想这些了？",
+    content = "But isn't someone a bit too young to be thinking about daycare?",
     text_time = 2700
   },
   [140893120] = {
-    title = "就是给你发的",
-    content = "就是给你发的！这是一家专门给年轻人开设的养老院。",
+    title = "I sent it to you.",
+    content = "I sent it to you! It's a daycare center for young people.",
     text_time = 3600
   },
   [140893121] = {
-    content = "我还以为它姓“青年”名“养老院”呢。",
+    content = "Oh, I thought it was run by someone named Young.",
     text_time = 2700
   },
   [140893122] = {
-    content = "而且有的人年纪轻轻的，怎么就留意上这些了？",
+    content = "Isn't someone a bit too young to be thinking about daycare?",
     text_time = 3150
   },
   [140893130] = {
-    title = "你再看仔细点",
-    content = "你再仔细看看，这是一家什么养老院？",
+    title = "Look again.",
+    content = "Look again. What daycare center is it?",
     text_time = 2550
   },
   [140893131] = {
-    content = "看到了，一家专为年轻人开办的养老院。",
+    content = "Saw it. It's a daycare center for young people.",
     text_time = 2700
   },
   [140893132] = {
-    content = "但你这个年纪，就算要“未雨绸缪”也太早了点吧？",
+    content = "Aren't you a bit too young to be preparing for daycare?",
     text_time = 3450
   },
   [140893210] = {
-    title = "很适合度假",
-    content = "我是觉得这里很适合度假！里面有很多活动的！",
+    title = "Best for a vacation.",
+    content = "I just thought it would be perfect for vacations! They organize all kinds of activities.",
     text_time = 3150
   },
   [140893211] = {
-    content = "能把“度假”和“养老院”联想到一块的人，估计也没几个了。",
+    content = "Not many people would put vacation and daycare center in the same sentence.",
     text_time = 4200
   },
   [140893212] = {
-    content = "不过我看养老院里的活动和我们平日玩的也差不多。",
+    content = "But from what I've read, the activities there are basically the same as what we usually do.",
     text_time = 3450
   },
   [140893213] = {
-    content = "差点意思。",
+    content = "Nothing too special.",
     text_time = 750
   },
   [140893220] = {
-    title = "你不觉得很有意思吗？",
-    content = "你都不觉得有意思吗？听说里面会举办各种活动呢。",
+    title = "Don't you find it fun?",
+    content = "Don't you find it fun? I hear they organize all kinds of activities.",
     text_time = 3450
   },
   [140893221] = {
-    content = "运动健身、手工制作、露营、烧烤、剧本杀……",
+    content = "Sports, fitness, DIY lessons, camping, barbecues, murder mysteries...",
     text_time = 3150
   },
   [140893222] = {
-    content = "这些我们平时也没少玩儿吧？",
+    content = "That's just what we do in our spare time.",
     text_time = 1950
   },
   [140893223] = {
-    content = "还是差点意思。",
+    content = "Nothing too special.",
     text_time = 1050
   },
   [140893230] = {
-    title = "其实是为了节目做准备",
-    content = "这其实是我下一个节目的选题，所以想多听几个年轻人的意见。",
+    title = "I'm making a new show.",
+    content = "It's the topic of my next show, so I'm looking for ideas and opinions from people your age.",
     text_time = 4200
   },
   [140893231] = {
-    content = "我就知道。先让我看看里面有什么好玩的。",
+    content = "I knew it. Let me see what activities they organize.",
     text_time = 2850
   },
   [140893232] = {
-    content = "运动健身、手工制作、露营……这不是我们平时玩儿的吗？",
+    content = "Sports, fitness, DIY lessons, camping... That's just what we usually do, isn't it?",
     text_time = 3900
   },
   [140893233] = {
-    content = "感觉差点意思吧？",
+    content = "Can't they be more creative?",
     text_time = 1200
   },
   [140893310] = {
-    title = "本来还想找你去呢",
-    content = "本来还想找你一起去调研呢，既然你这个反应，算了~",
+    title = "I was gonna ask you to join me.",
+    content = "I was gonna ask you to join me on my market research, but guess no.",
     text_time = 3600
   },
   [140893311] = {
-    content = "怎么还钓鱼执法上了？",
+    content = "So, you didn't want to actually move in?",
     text_time = 1500
   },
   [140893312] = {
-    content = "既然你这个反应，那我还偏就要去。",
+    content = "I'm definitely joining you now that you don't want me to go.",
     text_time = 2400
   },
   [140893313] = {
-    content = "反正你比那些活动有意思多了。",
+    content = "You alone are way more interesting than their activities.",
     text_time = 2100
   },
   [140893320] = {
-    title = "可是我还是想去体验一下",
-    content = "可是我还是想去，或许会有不一样的体验！",
+    title = "But I still want to try them.",
+    content = "But I still want to try them. Maybe it'll be a totally different experience.",
     text_time = 2850
   },
-  [140893321] = {content = "也行。", text_time = 450},
+  [140893321] = {content = "Fine.", text_time = 450},
   [140893322] = {
-    content = "反正到时候你觉得无聊了。",
+    content = "You'll be bored to tears then.",
     text_time = 1800
   },
   [140893323] = {
-    content = "我再带你去别的有意思的地方。",
+    content = "And I'll take you somewhere else more interesting.",
     text_time = 1950
   },
   [140893330] = {
-    title = "要有什么你才觉得有意思?",
-    content = "那你觉得里面要有什么才算有意思？",
+    title = "What do you think would be fun?",
+    content = "What do you think would be fun in the daycare center?",
     text_time = 2400
   },
   [140893331] = {
-    content = "要达到我的要求，里面最好东边一个滑板场，西边一个古遗迹。",
+    content = "To meet my standards, it better has a skate park in the east, an ancient site in the west...",
     text_time = 4200
   },
   [140893332] = {
-    content = "南边一个Live House，北边再来条美食街。",
+    content = "A live house in the south, and a food street in the north.",
     text_time = 3600
   },
   [140893333] = {
-    content = "最后一点，不能少了你。",
+    content = "And the most important thing is, you're gonna be there with me.",
     text_time = 1650
   },
   [140894000] = {

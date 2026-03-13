@@ -3427,6 +3427,844 @@ story97 = {
       next = {0}
     }
   },
+  [126808] = {
+    [1] = {
+      beijing = 1381,
+      dialog = 3,
+      music = "48_Quiet_Daily",
+      renwu = "npc",
+      sentence = "周棋洛的破译进度缓慢推进着，我一直在修正的甄别寄生意识的节目终于敲定了方案，开始拍摄。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 1381,
+      dialog = 3,
+      music = "48_Quiet_Daily",
+      renwu = "npc",
+      sentence = "既然他们这么想要躲在暗处，那就逼他们走到光下。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 1381,
+      dialog = 3,
+      music = "48_Quiet_Daily",
+      renwu = "npc",
+      sentence = "我还将这件事情告诉了24，它听后无比震惊。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 1381,
+      dialog = 2,
+      idx = 5,
+      music = "48_Quiet_Daily",
+      renming = "24",
+      renwu = "npc",
+      role1 = 501000,
+      role2 = 501060,
+      role5 = 50102,
+      ruchang = -1,
+      sentence = "十分抱歉听到这样的事情……没想到我当初留下的代码，居然会产生这么大的隐患。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 1381,
+      dialog = 2,
+      idx = 5,
+      music = "48_Quiet_Daily",
+      renming = "24",
+      renwu = "npc",
+      role1 = 501000,
+      role2 = 501060,
+      role5 = 50102,
+      ruchang = 9,
+      sentence = "或许在最开始，我就不应该相信他们说的“为了人类发展”。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 1381,
+      dialog = 3,
+      music = "48_Quiet_Daily",
+      renwu = "npc",
+      sentence = "它看上去有些低落，甚至连续好几天头像都是灰色的。 ",
+      next = {7}
+    },
+    [7] = {
+      beijing = 1381,
+      dialog = 3,
+      music = "48_Quiet_Daily",
+      renwu = "npc",
+      sentence = "可能是“好心办坏事”打击到了它，我只能给它留言安慰了一下。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 1381,
+      dialog = 3,
+      music = "48_Quiet_Daily",
+      renwu = "npc",
+      sentence = "收回手机，我看向摄影棚内的刚拍摄完一幕的演员们，拍了拍手。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 1381,
+      dhead = 301,
+      dialog = 1,
+      music = "48_Quiet_Daily",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "上午拍摄这些差不多，大家休息一下。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 1651,
+      bganim = 0,
+      dialog = 3,
+      music = "48_Quiet_Daily",
+      renwu = "npc",
+      sentence = "趁着他们去吃午饭的功夫，我溜达到外面透气，也打算给周棋洛打个电话。这时，一个身影走到我身边。",
+      next = {11}
+    },
+    [11] = {
+      beijing = 1651,
+      dialog = 2,
+      idx = 5,
+      music = "48_Quiet_Daily",
+      renming = "？？",
+      renwu = "npc",
+      sentence = "老板，你是在和男朋友发消息吗？",
+      next = {12}
+    },
+    [12] = {
+      beijing = 1651,
+      dialog = 3,
+      music = "48_Quiet_Daily",
+      renwu = "npc",
+      sentence = "我下意识熄灭屏幕，看向那个人。我记得这个人是个场务，性格很好，平时我们都会一起吃饭聊天。",
+      next = {13}
+    },
+    [13] = {
+      beijing = 1651,
+      dialog = 3,
+      music = "48_Quiet_Daily",
+      renwu = "npc",
+      sentence = "但我总觉得这个问题有些怪。",
+      next = {14}
+    },
+    [14] = {
+      beijing = 1651,
+      dhead = 311,
+      dialog = 1,
+      music = "48_Quiet_Daily",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "你问这个做什么？",
+      next = {15}
+    },
+    [15] = {
+      beijing = 1651,
+      dialog = 2,
+      idx = 5,
+      music = "pause",
+      renming = "？？",
+      renwu = "npc",
+      sentence = "没什么，只是有些好奇老板平时都怎么约会。",
+      next = {16}
+    },
+    [16] = {
+      beijing = 1651,
+      dialog = 3,
+      music = "pause",
+      renwu = "npc",
+      sentence = "什么八卦的员工会好奇老板的约会？我有些无语，然而下一秒却对上一双有些机械的目光。",
+      next = {17}
+    },
+    [17] = {
+      beijing = 1651,
+      dialog = 3,
+      music = "46_Split_in_Black",
+      renwu = "npc",
+      sentence = "瞬间，我就知道眼前的不是我熟悉的同事，而是“寄生意识”。",
+      next = {18}
+    },
+    [18] = {
+      beijing = 1651,
+      dialog = 3,
+      music = "46_Split_in_Black",
+      renwu = "npc",
+      sentence = "我紧紧握住手指，冷冷地看向他。",
+      next = {19}
+    },
+    [19] = {
+      beijing = 1651,
+      dhead = 322,
+      dialog = 1,
+      music = "46_Split_in_Black",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "不用在这里试探我，你们不就是担心自己暴露么？",
+      next = {20}
+    },
+    [20] = {
+      beijing = 1651,
+      dhead = 322,
+      dialog = 1,
+      music = "46_Split_in_Black",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "我知道你们一直在研究灯塔的科技，但你们的阴谋我迟早会揭开。 ",
+      next = {21}
+    },
+    [21] = {
+      beijing = 1651,
+      dialog = 3,
+      music = "46_Split_in_Black",
+      renwu = "npc",
+      sentence = "一片乌云飘过，让视线蒙上一层暗色。眼前的人直勾勾地看着我，微微扯起嘴角——",
+      next = {22}
+    },
+    [22] = {
+      beijing = 1651,
+      dialog = 2,
+      idx = 5,
+      music = "46_Split_in_Black",
+      renming = "？？",
+      renwu = "npc",
+      sentence = "那祝你们成功。",
+      next = {23}
+    },
+    [23] = {
+      beijing = 1651,
+      dialog = 3,
+      music = "46_Split_in_Black",
+      renwu = "npc",
+      sentence = "这句话说完，他就倒了下去，和之前那些被“掐断”意识的人一样。",
+      next = {24}
+    },
+    [24] = {
+      beijing = 1651,
+      dialog = 3,
+      music = "46_Split_in_Black",
+      renwu = "npc",
+      sentence = "我惊得后退几步。四周的人都看了过来，不知道发生了什么。",
+      next = {25}
+    },
+    [25] = {
+      beijing = 1651,
+      dialog = 3,
+      music = "46_Split_in_Black",
+      renwu = "npc",
+      sentence = "很快，尖叫的声音从四下响起。我惊疑未定地看着地上的人——",
+      next = {26}
+    },
+    [26] = {
+      beijing = 1651,
+      dialog = 3,
+      music = "46_Split_in_Black",
+      renwu = "npc",
+      sentence = "像是嘲讽一样，他的唇角还留着昏迷前那似有若无的笑意，让我心中怒火焚烧。",
+      next = {27}
+    },
+    [27] = {
+      beijing = 1651,
+      dialog = 3,
+      music = "46_Split_in_Black",
+      renwu = "npc",
+      sentence = "后来我联系了特遣署，让他们把人带走了。但一直到下班，我都感觉心情有些沉重。",
+      next = {28}
+    },
+    [28] = {
+      beijing = 1413,
+      bganim = 0,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "推开家门，今天房间里也一片静默，苹果箱也在窝里睡觉。",
+      next = {29}
+    },
+    [29] = {
+      beijing = 1413,
+      dhead = 311,
+      dialog = 1,
+      music = "30_WarmSnow",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "还在书房吗？",
+      next = {30}
+    },
+    [30] = {
+      beijing = 4912,
+      bganim = 0,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "我放下东西推开书房的门，只见地板上散落着许多演算过的纸张和文件。",
+      next = {31}
+    },
+    [31] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "轻轻地绕过它们，我终于在落地窗边的地板上，看到靠在一旁的周棋洛。",
+      next = {32}
+    },
+    [32] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "他似乎这时候才注意到有人进来，微微抬起头，睁大眼睛。",
+      next = {33}
+    },
+    [33] = {
+      beijing = 4912,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "30_WarmSnow",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301106,
+      role3 = 301211,
+      ruchang = -1,
+      sentence = "你回来了？我没有听见开门声，所以没去接你。 ",
+      voice = 1,
+      next = {34}
+    },
+    [34] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301106,
+      role3 = 301211,
+      roleanim = 1.1,
+      sentence = "听出他的语气中带着一丝莫名的沉郁，我窝到他的身边。",
+      next = {35}
+    },
+    [35] = {
+      beijing = 4912,
+      dhead = 311,
+      dialog = 1,
+      music = "30_WarmSnow",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301106,
+      role3 = 301211,
+      roleanim = 1.1,
+      sentence = "怎么没精神？是破解卡壳了吗？",
+      next = {36}
+    },
+    [36] = {
+      beijing = 4912,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "30_WarmSnow",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301106,
+      role3 = 301211,
+      roleanim = 1.1,
+      sentence = "不是……其实，我已经破译得差不多了。 ",
+      voice = 1,
+      next = {37}
+    },
+    [37] = {
+      beijing = 4912,
+      dhead = 311,
+      dialog = 1,
+      music = "30_WarmSnow",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301106,
+      role3 = 301211,
+      roleanim = 1.1,
+      sentence = "……差不多？",
+      next = {38}
+    },
+    [38] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301106,
+      role3 = 301211,
+      roleanim = 1.2,
+      sentence = "他伸手将我抱在怀中，感受着相拥的温度，我却莫名感觉到此刻的他，像是一只被遗忘在日暮中的孤零零的小熊。",
+      next = {39}
+    },
+    [39] = {
+      beijing = 4912,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "30_WarmSnow",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301106,
+      role3 = 301211,
+      roleanim = 1.2,
+      sentence = "我不想学下去了。",
+      voice = 1,
+      next = {40}
+    },
+    [40] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "他的声音有些囔囔的。",
+      next = {41}
+    },
+    [41] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "我轻轻拍了拍他的后背，放轻声音。",
+      next = {42}
+    },
+    [42] = {
+      beijing = 4912,
+      dhead = 307,
+      dialog = 1,
+      music = "30_WarmSnow",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "发生了什么事吗？",
+      next = {43}
+    },
+    [43] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "他没有说话，这不禁让我心中的担忧愈发加剧。",
+      next = {44}
+    },
+    [44] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "明明前几天，他还那么期待着解码所有KEY留下的“谜题”，向往着那之后会呈现怎样的世界。",
+      next = {45}
+    },
+    [45] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "他不会轻易放弃一件事情，更何况这是KEY留下的。",
+      next = {46}
+    },
+    [46] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "难道是破译的过程中发生了什么事情？这么想着，我从他的怀抱中抬起头，轻捧住他的脸。",
+      next = {47}
+    },
+    [47] = {
+      beijing = 4912,
+      dhead = 301,
+      dialog = 1,
+      music = "30_WarmSnow",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "可以和我说说嘛？虽然我可能没法帮你解决代码问题，但可以帮你分担心事。",
+      next = {48}
+    },
+    [48] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "他抿了抿嘴，眼中的蓝色似乎都有些暗淡。",
+      next = {49}
+    },
+    [49] = {
+      beijing = 4912,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "30_WarmSnow",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301106,
+      role3 = 301211,
+      roleanim = 1.2,
+      sentence = "我……不知道该怎么说。你直接看这个。 ",
+      voice = 1,
+      next = {50}
+    },
+    [50] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "他将一旁的笔记本电脑拿了过来。屏幕上，是KEY留给他的日记。",
+      next = {51}
+    },
+    [51] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "几行看不懂的黄色代码下，是眼熟的颜文字标语注释。",
+      next = {52}
+    },
+    [52] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "——^ ^这么简单的代码不会有人代换不过来吧？",
+      next = {53}
+    },
+    [53] = {
+      beijing = 4912,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "30_WarmSnow",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301102,
+      role3 = 301211,
+      roleanim = 1.2,
+      sentence = "以前我思路卡壳，他就喜欢用这种激将法。",
+      voice = 1,
+      next = {54}
+    },
+    [54] = {
+      beijing = 4912,
+      dhead = 301,
+      dialog = 1,
+      music = "30_WarmSnow",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301102,
+      role3 = 301211,
+      roleanim = 1.2,
+      sentence = "说明他觉得，激一激你，能让你迸发更大的潜力？",
+      next = {55}
+    },
+    [55] = {
+      beijing = 4912,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "30_WarmSnow",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301102,
+      role3 = 301211,
+      roleanim = 1.2,
+      sentence = "好吧，那他确实很懂我。每次他这么说，我都能铆足劲把那些奇怪的代码全搞定。 ",
+      voice = 1,
+      next = {56}
+    },
+    [56] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "他的声音有些慢，像是在回忆着什么。",
+      next = {57}
+    },
+    [57] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "我继续看了一下去，只见这种激将的话语时不时就会出现在一些看似比较困难的地方。",
+      next = {58}
+    },
+    [58] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "但很快，又像是预料到周棋洛会解决，给出毫无保留的夸赞。",
+      next = {59}
+    },
+    [59] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "——解决这个问题，你应该只需要20个小时吧，超过的话出去别说你是我徒弟。",
+      next = {60}
+    },
+    [60] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "——虽然只有一部分XOR 逻辑运算符，但你肯定可以推导出剩下部分。",
+      next = {61}
+    },
+    [61] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "看着这些打诨插科的注释，我的脑海中浮现一个画面。",
+      next = {62}
+    },
+    [62] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "小小的周棋洛努力地敲着键盘，在攻克了一个问题后，求表扬地看向身边的银发男人。",
+      next = {63}
+    },
+    [63] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "男人会对他笑着，揉揉他的头。",
+      next = {64}
+    },
+    [64] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "那一定是一段，无可替代的珍藏时光。我的唇角微微翘起。",
+      next = {65}
+    },
+    [65] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "然而继续向下看，我却逐渐感觉到有些不对劲。",
+      next = {66}
+    },
+    [66] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "——这段代码会反复出现，你要警惕它们出现的情景。",
+      next = {67}
+    },
+    [67] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "——小心陷阱，多排查。",
+      next = {68}
+    },
+    [68] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "——这段加密函数每次密钥都会偏移一位。",
+      next = {69}
+    },
+    [69] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "留言中的表情越来越少，语气逐渐认真，到最后，甚至有一些仓促，仿佛迫切地要把自己知道的一切全部写下。",
+      next = {70}
+    },
+    [70] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "——游乐园里会有最后一道测试题，解出这个rsa4096密钥可以直接激活。",
+      next = {71}
+    },
+    [71] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "——谜底会在那里等你。",
+      next = {72}
+    },
+    [72] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "日志到这里戛然而止。",
+      next = {73}
+    },
+    [73] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "我的目光落在“最后”两字上移不开，心中腾起一丝不太好的感受。",
+      next = {74}
+    },
+    [74] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "这句话比起告知地址，更像是告别……",
+      next = {75}
+    },
+    [75] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "我忽然明白了周棋洛的迟疑。",
+      next = {76}
+    },
+    [76] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "我们从没有找到过KEY，连平时收到他的消息都很少。周棋洛一定也是第一次，一下子收到这么多KEY的“留言”。 ",
+      next = {77}
+    },
+    [77] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "以往那种微妙的平衡被打破，但他却不知道这之后通往的结果是否是自己想要的。",
+      next = {78}
+    },
+    [78] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "只要不去，不面对那个结果，是不是这场游戏就会永远持续下去？",
+      next = {79}
+    },
+    [79] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "他微微垂眼，像是在看屏幕上的代码，却又什么都没看进去。",
+      next = {80}
+    },
+    [80] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "我轻轻抱住周棋洛，额头蹭上他的侧脸。",
+      next = {81}
+    },
+    [81] = {
+      beijing = 4912,
+      dhead = 307,
+      dialog = 1,
+      music = "30_WarmSnow",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "遵从自己的心就好，无论你怎么决定，我都会陪着你。",
+      next = {82}
+    },
+    [82] = {
+      beijing = 4912,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "30_WarmSnow",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301108,
+      role3 = 301211,
+      roleanim = 1.2,
+      sentence = "可是，我不知道自己应该做什么样的决定……",
+      voice = 1,
+      next = {83}
+    },
+    [83] = {
+      beijing = 4912,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "30_WarmSnow",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301108,
+      role3 = 301211,
+      roleanim = 1.2,
+      sentence = "我也不知道他究竟想要我做什么，只是解开这些题目吗？",
+      voice = 1,
+      next = {84}
+    },
+    [84] = {
+      beijing = 4912,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "30_WarmSnow",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301108,
+      role3 = 301211,
+      roleanim = 1.2,
+      sentence = "如果我选择逃避，他会生气吗？",
+      voice = 1,
+      next = {85}
+    },
+    [85] = {
+      beijing = 4912,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301108,
+      role3 = 301211,
+      roleanim = 1.2,
+      sentence = "微微喑哑的嗓音中带着一丝迷惘，他抱住我，像是在水面上抱住一棵浮木。",
+      next = {86}
+    },
+    [86] = {
+      beijing = 4912,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "30_WarmSnow",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 345000,
+      role2 = 301107,
+      role3 = 301211,
+      roleanim = 1.2,
+      ruchang = 9,
+      sentence = "$u，我有些害怕。",
+      voice = 1,
+      next = {0}
+    }
+  },
   [410562] = {
     [1] = {
       beijing = 1031,
@@ -11284,6 +12122,134 @@ story97 = {
       roleanim = 1.1,
       ruchang = 9,
       sentence = "看来我这位宣传大使，已经收获到第一份工作成果了。",
+      next = {0}
+    }
+  },
+  [837204] = {
+    [1] = {
+      beijing = 4504,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      sentence = "午后的唱片店里，飘荡的音乐同弥漫的阳光一样温暖。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4504,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      sentence = "我将录制好的音乐卡入磁带钥匙扣里，套在指尖转了转，绕过排列整齐的柜子走到周棋洛的面前。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4504,
+      dhead = 114,
+      dialog = 1,
+      music = "1013_2023anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "猜一猜，这里面是什么歌？",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4504,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      role1 = 364000,
+      role2 = 301102,
+      role3 = 301201,
+      ruchang = -1,
+      sentence = "他的眼眸轻眯，往我来的方向看了看。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4504,
+      dialog = 2,
+      idx = 3,
+      music = "1013_2023anniversary_pv",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 364000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "你刚刚是从华语音乐区的方向走过来的，不会是《财神到》吧？",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4504,
+      dhead = 113,
+      dialog = 1,
+      music = "1013_2023anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 364000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "当然不是——不过的确和新年有关！",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4504,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      role1 = 364000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "我微微噘起了嘴，戳了戳他的脸颊。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4504,
+      dhead = 107,
+      dialog = 1,
+      music = "1013_2023anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 364000,
+      role2 = 301106,
+      role3 = 301201,
+      sentence = "给你一点提示，关键的是陪我一起过新年的人哦。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4504,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      role1 = 364000,
+      role2 = 301107,
+      role3 = 301201,
+      sentence = "他故作苦恼地摸了摸脑袋，眼里却闪过一抹俏皮的笑意。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4504,
+      dialog = 2,
+      idx = 3,
+      music = "1013_2023anniversary_pv",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 364000,
+      role2 = 301106,
+      role3 = 301201,
+      sentence = "如果是某个叫做Kilo的歌手的，我觉得这位小姐完全没有必要嘛。",
+      next = {11}
+    },
+    [11] = {
+      beijing = 4504,
+      dialog = 2,
+      idx = 3,
+      music = "1013_2023anniversary_pv",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 364000,
+      role2 = 301106,
+      role3 = 301201,
+      ruchang = 9,
+      sentence = "毕竟，你想听的话，他随时都可以这样唱给你听。",
       next = {0}
     }
   },

@@ -8770,6 +8770,696 @@ story58 = {
       next = {0}
     }
   },
+  [914001] = {
+    [1] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Pale winter light seeped through the curtains, wrapping the two adjacent hospital beds in a cozy glow.",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Gavin rested his head on the pillow, his gaze fixed on the girl sleeping next to him. He took in her even breaths, her closed eyes, the way the sun gilded her features.",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Her sleep was profound, a hard-won tranquility. The sight alone made his heart ache with a poignant intensity.",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Fragments of the past, both distant and crystal clear, rose unbidden, serving as silent confirmation that this reality was not a fleeting illusion.",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "His hand moved instinctively, reaching to brush her cheek—",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Only to be met by two wide-awake eyes staring back at him.",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Gavin immediately squeezed his eyes shut.",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4806,
+      dhead = 107,
+      dialog = 1,
+      music = "404_Hazy_Starry_Night",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Too late. I know you're awake.",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "A fond warmth stirred in his chest. He peeked at her through one lazily opened eye.",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4806,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "404_Hazy_Starry_Night",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4204401,
+      ruchang = -1,
+      sentence = "What woke you?",
+      voice = 1,
+      next = {11}
+    },
+    [11] = {
+      beijing = 4806,
+      dhead = 112,
+      dialog = 1,
+      music = "404_Hazy_Starry_Night",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4204401,
+      sentence = "A persistent voice calling my name.",
+      next = {12}
+    },
+    [12] = {
+      beijing = 4806,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "404_Hazy_Starry_Night",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402103,
+      role3 = 402202,
+      role5 = 4204401,
+      sentence = "Really? I didn't make a sound.",
+      voice = 1,
+      next = {13}
+    },
+    [13] = {
+      beijing = 4806,
+      dhead = 107,
+      dialog = 1,
+      music = "404_Hazy_Starry_Night",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402103,
+      role3 = 402202,
+      role5 = 4204401,
+      ruchang = 9,
+      sentence = "The heart has its own volume.",
+      next = {14}
+    },
+    [14] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Her tone was final, as if she could see straight into his mind—which, he supposed, she always could.",
+      next = {15}
+    },
+    [15] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "His response was to pull her across the narrow gap and into the warmth of his own bed.",
+      next = {16}
+    },
+    [16] = {
+      beijing = 4806,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "404_Hazy_Starry_Night",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4203000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4203401,
+      roleanim = 1.1,
+      ruchang = -1,
+      sentence = "Then listen harder.",
+      voice = 1,
+      next = {17}
+    },
+    [17] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      role1 = 4203000,
+      role2 = 403114,
+      role3 = 403207,
+      role5 = 4203401,
+      roleanim = 1.1,
+      sentence = "The feel of her in his embrace was a familiar solace. He let his chin rest on her head, a wordless contentment filling him.",
+      next = {18}
+    },
+    [18] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      role1 = 4203000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4203401,
+      roleanim = 1,
+      sentence = "Some time later, she emerged from the cocoon of his arms, her eyes sparkling up at him.",
+      next = {19}
+    },
+    [19] = {
+      beijing = 4806,
+      dhead = 111,
+      dialog = 1,
+      music = "404_Hazy_Starry_Night",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4203000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4203401,
+      sentence = "Gavin, your hair needs some attention. Let me be your barber.",
+      next = {20}
+    },
+    [20] = {
+      beijing = 4806,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "404_Hazy_Starry_Night",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4203000,
+      role2 = 403111,
+      role3 = 403201,
+      role5 = 4203401,
+      sentence = "At this hour?",
+      voice = 1,
+      next = {21}
+    },
+    [21] = {
+      beijing = 4806,
+      dhead = 107,
+      dialog = 1,
+      music = "404_Hazy_Starry_Night",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4203000,
+      role2 = 403111,
+      role3 = 403203,
+      role5 = 4203401,
+      ruchang = 9,
+      sentence = "I've been thinking about it for days. And I'm awake now~ It'll be my morning workout!",
+      next = {22}
+    },
+    [22] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "He had, as usual, underestimated her resolve. Before he knew it, he was seated, a makeshift towel draped around his shoulders.",
+      next = {23}
+    },
+    [23] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Gathering her hair into a casual ponytail, she bent forward, her touch light as she lifted the strands from his forehead and made the first cut with the borrowed scissors.",
+      next = {24}
+    },
+    [24] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "The sharp, clean sounds of the blades were absorbed by the air. His brown hair fell in soft drifts onto the towel covering his legs.",
+      next = {25}
+    },
+    [25] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Her hands were gentle but confident, and Gavin remembered this wasn't her first time cutting his hair.",
+      next = {26}
+    },
+    [26] = {
+      beijing = 4806,
+      dhead = 107,
+      dialog = 1,
+      music = "404_Hazy_Starry_Night",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "You should close your eyes. The loose hairs will be a nuisance.",
+      next = {27}
+    },
+    [27] = {
+      beijing = 4806,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "404_Hazy_Starry_Night",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4204401,
+      ruchang = -1,
+      sentence = "I'd rather keep them open. On you.",
+      voice = 1,
+      next = {28}
+    },
+    [28] = {
+      beijing = 4806,
+      dhead = 112,
+      dialog = 1,
+      music = "404_Hazy_Starry_Night",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4204401,
+      sentence = "You're so... Fine, but don't come to me when they start itching.",
+      next = {29}
+    },
+    [29] = {
+      beijing = 4806,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "404_Hazy_Starry_Night",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4204401,
+      ruchang = 9,
+      sentence = "Then you're stuck with me. For life.",
+      voice = 1,
+      next = {30}
+    },
+    [30] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "It seemed that effortless defiance and justified mischief had quietly become a right earned through unwavering devotion.",
+      next = {31}
+    },
+    [31] = {
+      beijing = 4806,
+      bganim = 0,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402107,
+      role3 = 402202,
+      role5 = 4204401,
+      ruchang = -1,
+      sentence = "With the haircut finished during their playful exchange, Gavin spotted a simple brown folio on the bedside table while cleaning up.",
+      next = {32}
+    },
+    [32] = {
+      beijing = 4806,
+      dhead = 107,
+      dialog = 1,
+      music = "404_Hazy_Starry_Night",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4204401,
+      sentence = "Professor Sheen left this behind.",
+      next = {33}
+    },
+    [33] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4204401,
+      roleanim = 1.1,
+      sentence = "She offered the explanation, noticing his rapt attention.",
+      next = {34}
+    },
+    [34] = {
+      beijing = 4806,
+      dhead = 107,
+      dialog = 1,
+      music = "404_Hazy_Starry_Night",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4204401,
+      roleanim = 1.1,
+      sentence = "He visited, waited for a bit, but you were still asleep. He said not to wake you and left this for you.",
+      next = {35}
+    },
+    [35] = {
+      beijing = 4806,
+      dhead = 111,
+      dialog = 1,
+      music = "404_Hazy_Starry_Night",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4204401,
+      roleanim = 1.1,
+      sentence = "He mentioned it holds the answer to the question you asked him in the vehicle.",
+      next = {36}
+    },
+    [36] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Gavin's mind drifted back to their conversation in the armored personnel carrier during the operation.",
+      next = {37}
+    },
+    [37] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "They'd reminisced about the beginning, that wet summer, and joked about whether the Poet still wrote poetry, suggesting he should write one for the team once they got out.",
+      next = {38}
+    },
+    [38] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Gavin already sensed the answer, but he opened the folio and began to read intently.",
+      next = {39}
+    },
+    [39] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Late Summer, 2010: In the Armored Vehicle",
+      next = {40}
+    },
+    [40] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Late Spring, 2015: In the Safehouse",
+      next = {41}
+    },
+    [41] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "July 2017: On the Hillside",
+      next = {42}
+    },
+    [42] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Autumn, 2020: In S City",
+      next = {43}
+    },
+    [43] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Winter Solstice, 2024: At the Research Base",
+      next = {44}
+    },
+    [44] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "...",
+      next = {45}
+    },
+    [45] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "He soon reached the end, and a single page—apparently shoved in hastily—came loose.",
+      next = {46}
+    },
+    [46] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "Winter, 2025: Hospital Corridor.",
+      next = {47}
+    },
+    [47] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402107,
+      role3 = 402205,
+      role5 = 4204401,
+      roleanim = 1.1,
+      sentence = "Gavin hesitated.",
+      next = {48}
+    },
+    [48] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402107,
+      role3 = 402206,
+      role5 = 4204401,
+      roleanim = 1.1,
+      sentence = "The writing was uneven and a bit messy, clearly done at different times. Some words were smeared, others crossed out.",
+      next = {49}
+    },
+    [49] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402107,
+      role3 = 402206,
+      role5 = 4204401,
+      roleanim = 1.1,
+      sentence = "It wasn't beautiful; it was rough. But it carried a weight that made the paper itself feel significant.",
+      next = {50}
+    },
+    [50] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      role1 = 4204000,
+      role2 = 402107,
+      role3 = 402202,
+      role5 = 4204401,
+      roleanim = 1.1,
+      ruchang = 9,
+      sentence = "A peaceful wind stirred as Gavin smiled, his heart aching yet utterly calm.",
+      next = {51}
+    },
+    [51] = {
+      beijing = 4806,
+      dialog = 3,
+      music = "404_Hazy_Starry_Night",
+      renwu = "npc",
+      sentence = "May the world bloom with flowers again.",
+      next = {52}
+    },
+    [52] = {
+      beijing = 0,
+      bganim = 0,
+      dialog = 6,
+      music = "1035_2020MainlineEnding",
+      renwu = "npc",
+      sentence = [[
+
+ 
+The stars are brilliantly bright,
+ 
+ 
+I longed to bring you their light,
+ 
+ 
+But my love, you have not said, where you are, my heart is led.]],
+      next = {53}
+    },
+    [53] = {
+      beijing = 0,
+      dialog = 6,
+      music = "1035_2020MainlineEnding",
+      renwu = "npc",
+      sentence = [[
+
+ 
+The city's glow is out of sight,
+ 
+ 
+So I watch the stars of night;
+ 
+ 
+The trains for home have come and gone,
+ 
+ 
+But I won't leave and journey on.]],
+      next = {54}
+    },
+    [54] = {
+      beijing = 0,
+      dialog = 6,
+      music = "1035_2020MainlineEnding",
+      renwu = "npc",
+      sentence = [[
+
+ 
+The sky should crackle, blaze, and soar,
+ 
+ 
+But I can't bring that to your door.
+ 
+ 
+My love, don't be sad anymore.]],
+      next = {55}
+    },
+    [55] = {
+      beijing = 0,
+      dialog = 6,
+      music = "1035_2020MainlineEnding",
+      renwu = "npc",
+      sentence = [[
+
+ 
+Walk through the fields within my dream,
+ 
+ 
+Where flowers grow and homebound birds stream.
+ 
+ 
+If you see blossoms I set apart,
+ 
+ 
+Please stop and choose one for your heart.
+ 
+ 
+Then wake with me at dawn's first gleam.]],
+      next = {56}
+    },
+    [56] = {
+      beijing = 0,
+      dialog = 6,
+      music = "1035_2020MainlineEnding",
+      renwu = "npc",
+      sentence = "\n \n—And if a better wish I could,\n \n \nI'd bring the seeds to sow,\n \n \nAnd when this barren field begins to grow,\n \n \nI'll take your hand, and we will catch the train,\n \n \nAnd stay up, talking through the night's long chain.",
+      next = {57}
+    },
+    [57] = {
+      beijing = 0,
+      dialog = 6,
+      music = "1035_2020MainlineEnding",
+      renwu = "npc",
+      sentence = [[
+
+ 
+But my love, the red is a stain, the night is a veil,
+ 
+ 
+I cannot find you on my trail,
+ 
+ 
+Or catch a firework, bright and pale.
+ 
+ 
+The birds delay, my efforts fail,
+ 
+ 
+I cannot walk the homeward trail.]],
+      next = {58}
+    },
+    [58] = {
+      beijing = 0,
+      dialog = 6,
+      music = "1035_2020MainlineEnding",
+      renwu = "npc",
+      sentence = [[
+
+ 
+But my love, I'll turn this ground
+ 
+ 
+To where new flowers can be found.
+ 
+ 
+Someday, I promise you, you will behold,
+ 
+ 
+This field again, a story to be told.]],
+      next = {0}
+    }
+  },
   [9100405] = {
     [1] = {
       beijing = 3712,
@@ -9458,7 +10148,7 @@ story58 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = 24,
+      renming = "24",
       renwu = "npc",
       sentence = "Greetings, comrade.",
       next = {58}
@@ -9625,7 +10315,7 @@ story58 = {
       dialog = 2,
       idx = 5,
       music = "pause",
-      renming = 24,
+      renming = "24",
       renwu = "npc",
       sentence = "No. This one belonged to one of my old companions.",
       next = {72}
@@ -9635,7 +10325,7 @@ story58 = {
       dialog = 2,
       idx = 5,
       music = "63_room_break",
-      renming = 24,
+      renming = "24",
       renwu = "npc",
       sentence = "You seem to know a thing or two about us. If you want the full story, send me a friend request. We can chat more.",
       next = {73}
@@ -9673,7 +10363,7 @@ story58 = {
       dialog = 2,
       idx = 5,
       music = "63_room_break",
-      renming = 24,
+      renming = "24",
       renwu = "npc",
       sentence = "Perhaps it was fate that brought us together.",
       next = {76}
@@ -9683,7 +10373,7 @@ story58 = {
       dialog = 2,
       idx = 5,
       music = "63_room_break",
-      renming = 24,
+      renming = "24",
       renwu = "npc",
       sentence = "An hour ago, I noticed 72's energy collection system coming online. It has since absorbed an immense amount of energy.",
       next = {77}
@@ -9693,7 +10383,7 @@ story58 = {
       dialog = 2,
       idx = 5,
       music = "63_room_break",
-      renming = 24,
+      renming = "24",
       renwu = "npc",
       sentence = "This has happened despite 72's signal remaining inactive. Thus the reason for my arrival here.",
       next = {78}
@@ -9719,7 +10409,7 @@ story58 = {
       dialog = 2,
       idx = 5,
       music = "22_Despair",
-      renming = 24,
+      renming = "24",
       renwu = "npc",
       sentence = "I can't say for sure. To know if there's a correlation, I'll require more data.",
       next = {80}
@@ -9747,7 +10437,7 @@ story58 = {
       dialog = 2,
       idx = 5,
       music = "22_Despair",
-      renming = 24,
+      renming = "24",
       renwu = "npc",
       sentence = "Yes, comrade. I can show you the spots with the most intense energy fluctuations.",
       next = {83}

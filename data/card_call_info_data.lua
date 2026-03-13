@@ -5305,6 +5305,69 @@ data = {
     card_call_guarantee_group = 5,
     card_call_guarantee_group_reopen = 2
   },
+  [175] = {
+    card_call_cnt_group = 75,
+    card_call_type = 7,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15054,
+    card_call_reset_time_share = 148,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100:400349,101,1",
+    card_call_rotation_rewards = "0,4,100:400349,101,1",
+    card_call_num = 1,
+    card_call_free_group = 8,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:908,83,0
+1;10:909,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:51800,81,1",
+    card_call_guarantee_group = 3,
+    card_call_guarantee_group_reopen = 2
+  },
+  [176] = {
+    card_call_cnt_group = 75,
+    card_call_type = 8,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15054,
+    card_call_reset_time_share = 148,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000:400349,101,10",
+    card_call_rotation_rewards = "0,4,1000:400349,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:908,83,0
+1;10:909,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0",
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:51800,81,1",
+    card_call_guarantee_group = 3,
+    card_call_guarantee_group_reopen = 2
+  },
   [177] = {
     card_call_cnt_group = 76,
     card_call_type = 3,
@@ -5527,6 +5590,136 @@ data = {
 0,0,100,140;9,0,0]],
     card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
   },
+  [185] = {
+    card_call_cnt_group = 79,
+    card_call_type = 7,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15059,
+    card_call_reset_time_share = 144,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100:400481,101,1",
+    card_call_rotation_rewards = "0,4,100:400481,101,1",
+    card_call_num = 1,
+    card_call_free_group = 7,
+    card_call_free_interval = 172800,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:912,83,0
+1;10:913,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:52810,81,1",
+    card_call_guarantee_group = 1,
+    card_call_guarantee_group_reopen = 4
+  },
+  [186] = {
+    card_call_cnt_group = 79,
+    card_call_type = 8,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15059,
+    card_call_reset_time_share = 144,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000:400481,101,10",
+    card_call_rotation_rewards = "0,4,1000:400481,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_free_interval = -1,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:912,83,0
+1;10:913,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0",
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:52810,81,1",
+    card_call_guarantee_group = 1,
+    card_call_guarantee_group_reopen = 4
+  },
+  [187] = {
+    card_call_cnt_group = 80,
+    card_call_type = 7,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15057,
+    card_call_reset_time_share = 150,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100:400483,101,1",
+    card_call_rotation_rewards = "0,4,100:400483,101,1",
+    card_call_num = 1,
+    card_call_free_group = 9,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:914,83,0
+1;10:915,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:54810,81,1",
+    card_call_guarantee_group = 4,
+    card_call_guarantee_group_reopen = 4
+  },
+  [188] = {
+    card_call_cnt_group = 80,
+    card_call_type = 8,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15057,
+    card_call_reset_time_share = 150,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000:400483,101,10",
+    card_call_rotation_rewards = "0,4,1000:400483,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:914,83,0
+1;10:915,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0",
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:54810,81,1",
+    card_call_guarantee_group = 4,
+    card_call_guarantee_group_reopen = 4
+  },
   [189] = {
     card_call_cnt_group = 81,
     card_call_type = 3,
@@ -5645,6 +5838,439 @@ data = {
 0,0,100,140;9,0,0]],
     card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
   },
+  [193] = {
+    card_call_cnt_group = 83,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_reset_time_share = 4,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100",
+    card_call_rotation_rewards = "0,4,100",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_free_interval = 172800,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0]],
+    activity_card_call_detail = [[
+9200;1:230,83,0
+696;2:240,83,0
+47;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+1;7:901,83,0
+1;8:902,83,0
+1;9:903,83,0
+1;10:904,83,0]],
+    activity_card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0
+0,0,5,35;7,0,0
+0,0,19,35;8,0,0
+0,0,45,135;9,0,0
+0,0,95,135;10,0,0]]
+  },
+  [194] = {
+    card_call_cnt_group = 83,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_reset_time_share = 4,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000",
+    card_call_rotation_rewards = "0,4,1000",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_free_interval = -1,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0",
+    activity_card_call_detail = [[
+9200;1:230,83,0
+696;2:240,83,0
+47;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+1;7:901,83,0
+1;8:902,83,0
+1;9:903,83,0
+1;10:904,83,0]],
+    activity_card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0
+0,0,5,35;7,0,0
+0,0,19,35;8,0,0
+0,0,45,135;9,0,0
+0,0,95,135;10,0,0]]
+  },
+  [195] = {
+    card_call_cnt_group = 84,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_reset_time_share = 4,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100",
+    card_call_rotation_rewards = "0,4,100",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_free_interval = 172800,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0]],
+    activity_card_call_detail = [[
+9200;1:230,83,0
+696;2:240,83,0
+47;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+1;7:901,83,0
+1;8:902,83,0
+1;9:903,83,0
+1;10:904,83,0]],
+    activity_card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0
+0,0,5,35;7,0,0
+0,0,19,35;8,0,0
+0,0,45,135;9,0,0
+0,0,95,135;10,0,0]]
+  },
+  [196] = {
+    card_call_cnt_group = 84,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_reset_time_share = 4,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000",
+    card_call_rotation_rewards = "0,4,1000",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_free_interval = -1,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0",
+    activity_card_call_detail = [[
+9200;1:230,83,0
+696;2:240,83,0
+47;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+1;7:901,83,0
+1;8:902,83,0
+1;9:903,83,0
+1;10:904,83,0]],
+    activity_card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0
+0,0,5,35;7,0,0
+0,0,19,35;8,0,0
+0,0,45,135;9,0,0
+0,0,95,135;10,0,0]]
+  },
+  [197] = {
+    card_call_cnt_group = 85,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_reset_time_share = 4,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100",
+    card_call_rotation_rewards = "0,4,100",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_free_interval = 172800,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0]],
+    activity_card_call_detail = [[
+9200;1:230,83,0
+696;2:240,83,0
+47;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+1;7:901,83,0
+1;8:902,83,0
+1;9:903,83,0
+1;10:904,83,0]],
+    activity_card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0
+0,0,5,35;7,0,0
+0,0,19,35;8,0,0
+0,0,45,135;9,0,0
+0,0,95,135;10,0,0]]
+  },
+  [198] = {
+    card_call_cnt_group = 85,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_reset_time_share = 4,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000",
+    card_call_rotation_rewards = "0,4,1000",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_free_interval = -1,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0",
+    activity_card_call_detail = [[
+9200;1:230,83,0
+696;2:240,83,0
+47;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+1;7:901,83,0
+1;8:902,83,0
+1;9:903,83,0
+1;10:904,83,0]],
+    activity_card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0
+0,0,5,35;7,0,0
+0,0,19,35;8,0,0
+0,0,45,135;9,0,0
+0,0,95,135;10,0,0]]
+  },
+  [199] = {
+    card_call_cnt_group = 86,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_reset_time_share = 4,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100",
+    card_call_rotation_rewards = "0,4,100",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_free_interval = 172800,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0]],
+    activity_card_call_detail = [[
+9200;1:230,83,0
+696;2:240,83,0
+47;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+1;7:901,83,0
+1;8:902,83,0
+1;9:903,83,0
+1;10:904,83,0]],
+    activity_card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0
+0,0,5,35;7,0,0
+0,0,19,35;8,0,0
+0,0,45,135;9,0,0
+0,0,95,135;10,0,0]]
+  },
+  [200] = {
+    card_call_cnt_group = 86,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_reset_time_share = 4,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000",
+    card_call_rotation_rewards = "0,4,1000",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_free_interval = -1,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0",
+    activity_card_call_detail = [[
+9200;1:230,83,0
+696;2:240,83,0
+47;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+1;7:901,83,0
+1;8:902,83,0
+1;9:903,83,0
+1;10:904,83,0]],
+    activity_card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0
+0,0,5,35;7,0,0
+0,0,19,35;8,0,0
+0,0,45,135;9,0,0
+0,0,95,135;10,0,0]]
+  },
+  [201] = {
+    card_call_cnt_group = 87,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15035,
+    card_call_reset_time_share = 12,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100",
+    card_call_rotation_rewards = "0,4,100",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_free_interval = 172800,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8420;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+430;9:876,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0
+0,0,35,59;9,0,0]]
+  },
+  [202] = {
+    card_call_cnt_group = 87,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15035,
+    card_call_reset_time_share = 12,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000",
+    card_call_rotation_rewards = "0,4,1000",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_free_interval = -1,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8420;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+430;9:876,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,150,250;3,0,0
+0,0,4000,6000;6,0,0
+0,0,35,59;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
   [209] = {
     card_call_cnt_group = 91,
     card_call_type = 3,
@@ -5751,6 +6377,317 @@ data = {
 0,0,100,140;9,0,0]],
     card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
   },
+  [217] = {
+    card_call_cnt_group = 95,
+    card_call_type = 7,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15067,
+    card_call_reset_time_share = 144,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100:400089,101,1",
+    card_call_rotation_rewards = "0,4,100:400089,101,1",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:882,83,0
+1;10:883,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:52660,81,1",
+    card_call_guarantee_group = 1,
+    card_call_guarantee_group_reopen = 3
+  },
+  [218] = {
+    card_call_cnt_group = 95,
+    card_call_type = 8,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15067,
+    card_call_reset_time_share = 144,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000:400089,101,10",
+    card_call_rotation_rewards = "0,4,1000:400089,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:882,83,0
+1;10:883,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0",
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:52660,81,1",
+    card_call_guarantee_group = 1,
+    card_call_guarantee_group_reopen = 3
+  },
+  [219] = {
+    card_call_cnt_group = 96,
+    card_call_type = 7,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15068,
+    card_call_reset_time_share = 148,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100:400118,101,1",
+    card_call_rotation_rewards = "0,4,100:400118,101,1",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:885,83,0
+1;10:886,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:51720,81,1",
+    card_call_guarantee_group = 3,
+    card_call_guarantee_group_reopen = 3
+  },
+  [220] = {
+    card_call_cnt_group = 96,
+    card_call_type = 8,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15068,
+    card_call_reset_time_share = 148,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000:400118,101,10",
+    card_call_rotation_rewards = "0,4,1000:400118,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:885,83,0
+1;10:886,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0",
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:51720,81,1",
+    card_call_guarantee_group = 3,
+    card_call_guarantee_group_reopen = 3
+  },
+  [221] = {
+    card_call_cnt_group = 97,
+    card_call_type = 7,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15069,
+    card_call_reset_time_share = 150,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100:400128,101,1",
+    card_call_rotation_rewards = "0,4,100:400128,101,1",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:887,83,0
+1;10:888,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:54700,81,1",
+    card_call_guarantee_group = 4,
+    card_call_guarantee_group_reopen = 3
+  },
+  [222] = {
+    card_call_cnt_group = 97,
+    card_call_type = 8,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15069,
+    card_call_reset_time_share = 150,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000:400128,101,10",
+    card_call_rotation_rewards = "0,4,1000:400128,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:887,83,0
+1;10:888,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0",
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:54700,81,1",
+    card_call_guarantee_group = 4,
+    card_call_guarantee_group_reopen = 3
+  },
+  [223] = {
+    card_call_cnt_group = 98,
+    card_call_type = 7,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15070,
+    card_call_reset_time_share = 156,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100:400160,101,1",
+    card_call_rotation_rewards = "0,4,100:400160,101,1",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:890,83,0
+1;10:891,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:53710,81,1",
+    card_call_guarantee_group = 5,
+    card_call_guarantee_group_reopen = 3
+  },
+  [224] = {
+    card_call_cnt_group = 98,
+    card_call_type = 8,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15070,
+    card_call_reset_time_share = 156,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000:400160,101,10",
+    card_call_rotation_rewards = "0,4,1000:400160,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8850;1:230,83,0
+998;2:240,83,0
+0;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+0;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+99;9:890,83,0
+1;10:891,83,0]],
+    card_call_basic_rule = [[
+0,0,72,72;9,0,0
+0,0,30,38;2,0,0
+0,0,4000,6000;10,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0",
+    card_call_guarantee = "0,0,2,1;9,0,0:10,0,0:53710,81,1",
+    card_call_guarantee_group = 5,
+    card_call_guarantee_group_reopen = 3
+  },
+  [229] = {
+    card_call_cnt_group = 113,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15063,
+    card_call_reset_time_share = 152,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100",
+    card_call_rotation_rewards = "0,4,100",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_free_interval = 172800,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:889,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]]
+  },
+  [230] = {
+    card_call_cnt_group = 113,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15063,
+    card_call_reset_time_share = 152,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000",
+    card_call_rotation_rewards = "0,4,1000",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_free_interval = -1,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:889,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
   [231] = {
     card_call_cnt_group = 112,
     card_call_type = 3,
@@ -5798,6 +6735,550 @@ data = {
 0;7:240,83,0
 0;8:240,83,0
 150;9:892,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
+  [243] = {
+    card_call_cnt_group = 114,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15079,
+    card_call_reset_time_share = 244,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "400640,101,1:400638,101,1",
+    card_call_num = 1,
+    card_call_free_group = 3,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:932,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]]
+  },
+  [244] = {
+    card_call_cnt_group = 114,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15079,
+    card_call_reset_time_share = 244,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "400640,101,10:400638,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:932,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
+  [247] = {
+    card_call_cnt_group = 116,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15081,
+    card_call_reset_time_share = 168,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "400656,101,1:400657,101,1",
+    card_call_num = 1,
+    card_call_free_group = 3,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:905,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]]
+  },
+  [248] = {
+    card_call_cnt_group = 116,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15081,
+    card_call_reset_time_share = 168,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "400656,101,10:400657,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:905,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
+  [249] = {
+    card_call_cnt_group = 117,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15082,
+    card_call_reset_time_share = 180,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "400715,101,1:400716,101,1",
+    card_call_num = 1,
+    card_call_free_group = 3,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:910,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]]
+  },
+  [250] = {
+    card_call_cnt_group = 117,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15082,
+    card_call_reset_time_share = 180,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "400715,101,10:400716,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:910,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
+  [251] = {
+    card_call_cnt_group = 118,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15072,
+    card_call_reset_time_share = 158,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100",
+    card_call_rotation_rewards = "0,4,100",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_free_interval = 172800,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:892,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]]
+  },
+  [252] = {
+    card_call_cnt_group = 118,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15072,
+    card_call_reset_time_share = 158,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000",
+    card_call_rotation_rewards = "0,4,1000",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_free_interval = -1,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:892,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
+  [253] = {
+    card_call_cnt_group = 119,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15083,
+    card_call_reset_time_share = 254,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "400740,101,1:400741,101,1",
+    card_call_num = 1,
+    card_call_free_group = 3,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:935,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]]
+  },
+  [254] = {
+    card_call_cnt_group = 119,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15083,
+    card_call_reset_time_share = 254,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "400740,101,10:400741,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:935,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
+  [257] = {
+    card_call_cnt_group = 121,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15081,
+    card_call_reset_time_share = 168,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100",
+    card_call_rotation_rewards = "0,4,100",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_free_interval = 172800,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:905,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]]
+  },
+  [258] = {
+    card_call_cnt_group = 121,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15081,
+    card_call_reset_time_share = 168,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000",
+    card_call_rotation_rewards = "0,4,1000",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_free_interval = -1,
+    card_call_free_time = -1,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:905,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
+  [261] = {
+    card_call_cnt_group = 123,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15086,
+    card_call_reset_time_share = 184,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "400762,101,1:400763,101,1",
+    card_call_num = 1,
+    card_call_free_group = 3,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:911,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]]
+  },
+  [262] = {
+    card_call_cnt_group = 123,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15086,
+    card_call_reset_time_share = 184,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "400762,101,10:400763,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:911,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
+  [265] = {
+    card_call_cnt_group = 125,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15088,
+    card_call_reset_time_share = 266,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "400783,101,1:400784,101,1",
+    card_call_num = 1,
+    card_call_free_group = 3,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:942,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]]
+  },
+  [266] = {
+    card_call_cnt_group = 125,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15088,
+    card_call_reset_time_share = 266,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "400783,101,10:400784,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:942,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
+  [295] = {
+    card_call_cnt_group = 140,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15082,
+    card_call_reset_time_share = 180,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "0,4,100",
+    card_call_rotation_rewards = "0,4,100",
+    card_call_num = 1,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:910,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]]
+  },
+  [296] = {
+    card_call_cnt_group = 140,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15082,
+    card_call_reset_time_share = 180,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "0,4,1000",
+    card_call_rotation_rewards = "0,4,1000",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:910,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]],
+    card_call_drop_rule = "2,0,0;2,0,0:7,0,0:8,0,0"
+  },
+  [299] = {
+    card_call_cnt_group = 142,
+    card_call_type = 3,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15100,
+    card_call_reset_time_share = 216,
+    card_call_price = "0,2,200",
+    card_call_ticket = "100061,101,1",
+    card_call_rewards = "400847,101,1:400848,101,1",
+    card_call_num = 1,
+    card_call_free_group = 3,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:925,83,0]],
+    card_call_basic_rule = [[
+0,0,30,38;2,0,0
+0,0,4000,6000;6,0,0
+0,0,100,140;9,0,0]]
+  },
+  [300] = {
+    card_call_cnt_group = 142,
+    card_call_type = 4,
+    card_call_flag_type = 1,
+    card_call_activity_id = 15100,
+    card_call_reset_time_share = 216,
+    card_call_price = "0,2,1800",
+    card_call_ticket = "100061,101,10",
+    card_call_rewards = "400847,101,10:400848,101,10",
+    card_call_num = 10,
+    card_call_free_group = 0,
+    card_call_detail = [[
+8700;1:230,83,0
+998;2:240,83,0
+99;3:250,83,0
+50;4:231,83,0
+2;5:241,83,0
+1;6:251,83,0
+0;7:240,83,0
+0;8:240,83,0
+150;9:925,83,0]],
     card_call_basic_rule = [[
 0,0,30,38;2,0,0
 0,0,4000,6000;6,0,0

@@ -12134,7 +12134,7 @@ story9 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "今天原本是想趁着来确认拍摄现场的时间和周棋洛见一面的，但他那边的拍摄似乎延期了。",
+      sentence = "Today was supposed to be a quick trip to check the filming schedule and maybe steal a few minutes with Kiro. But it seemed his shoot had been delayed again.",
       next = {2}
     },
     [2] = {
@@ -12142,7 +12142,7 @@ story9 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "我与现场的负责人客套了几句准备离开时，却突然被对方叫住。",
+      sentence = "Just as I was exchanging parting words with the on-site coordinator, someone called out behind me.",
       next = {3}
     },
     [3] = {
@@ -12150,9 +12150,9 @@ story9 = {
       dialog = 2,
       idx = 5,
       music = "19_Daily02",
-      renming = "工作人员",
+      renming = "Staff",
       renwu = "npc",
-      sentence = "请您稍等一下，棋洛托我们把这个转交给您。",
+      sentence = "Hey, excuse me. Kiro asked me to pass this on to you.",
       next = {4}
     },
     [4] = {
@@ -12162,7 +12162,7 @@ story9 = {
       music = "19_Daily02",
       renming = "$u",
       renwu = "npc",
-      sentence = "啊谢谢，麻烦您了。",
+      sentence = "Oh, thanks a lot!",
       next = {5}
     },
     [5] = {
@@ -12170,7 +12170,7 @@ story9 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "我接过递来的信封，里面摸着还有些小小的硬块。",
+      sentence = "I took the envelope he handed over. Inside, I could feel the shape of something small and solid.",
       next = {6}
     },
     [6] = {
@@ -12178,7 +12178,7 @@ story9 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "会是什么呢？我疑惑地打开信封，原来是几块糖果，还有一张便签。",
+      sentence = "Curious, I opened it to find a few pieces of candy and a neatly folded note.",
       next = {7}
     },
     [7] = {
@@ -12194,7 +12194,7 @@ story9 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "我拿出一颗糖果含在嘴里，甜蜜盈溢出舌尖，眼前浮现出他小心翼翼制作糖果的样子。",
+      sentence = "I unwrapped one and popped it into my mouth. The sweetness bloomed slowly and warmly. For a moment, it was as if I could see him carefully picking them out just for me.",
       next = {9}
     },
     [9] = {
@@ -12202,7 +12202,7 @@ story9 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "他总是为我的生活制造着一个一个小惊喜，即使小到一块糖的甜蜜也不忘与我分享。",
+      sentence = "He always found a way to sneak little surprises into my day. Even something as simple as a candy felt like he was sharing a piece of his happiness with me.",
       next = {10}
     },
     [10] = {
@@ -12210,7 +12210,7 @@ story9 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "想到这里，我的嘴角不自觉地翘起。",
+      sentence = "Without realizing it, I smiled.",
       next = {11}
     },
     [11] = {
@@ -12218,7 +12218,7 @@ story9 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "果然和他说的一样，吃完以后就会变得开心。",
+      sentence = "He was right. Eating something sweet really does make your day feel brighter.",
       next = {0}
     }
   },
@@ -12327,6 +12327,111 @@ story9 = {
       role3 = 202201,
       ruchang = 9,
       sentence = "你的所有心愿，我们可以一起慢慢实现。",
+      next = {0}
+    }
+  },
+  [840823] = {
+    [1] = {
+      beijing = 4800,
+      dhead = 112,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "好可怕……",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4800,
+      dhead = 105,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "我刚倒茶时忘了用公道杯，被评委批判了将近半小时！",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "1015_2023anniversary_rv",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      ruchang = -1,
+      sentence = "见识到了。从一开始的“公道”精神，发散到更公平的工作环境和涨薪的必要性……",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "1015_2023anniversary_rv",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "还好我探到苗头就及时戴上了蓝牙耳机。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4800,
+      dhead = 109,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "什么？我说你怎么完全不受干扰，还一直似笑非笑地盯着我“挨训”。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4800,
+      dhead = 110,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      roleanim = 1.1,
+      sentence = "可恶，你……唔，哪来的可乐糖？",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "1015_2023anniversary_rv",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      roleanim = 1.1,
+      sentence = "来的路上经过零食店，顺手带上了。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "1015_2023anniversary_rv",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      roleanim = 1.1,
+      ruchang = 9,
+      sentence = "虽然刚刚没“共苦”，眼下可以跟你“同甘”。",
       next = {0}
     }
   },

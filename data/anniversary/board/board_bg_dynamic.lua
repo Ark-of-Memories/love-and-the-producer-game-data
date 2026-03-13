@@ -88,6 +88,9 @@ data = {
   [5054] = {
     param = "MainUIPanel_effect_5054_001"
   },
+  [5127] = {
+    param = "MainUIPanel_effect_6115_001"
+  },
   [8006] = {
     param = "MainUIPanel_effect_4474_001"
   },

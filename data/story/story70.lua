@@ -1221,6 +1221,749 @@ story70 = {
       next = {0}
     }
   },
+  [126107] = {
+    [1] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "I tried to steady my breathing, my thoughts, and my gaze darting around the stadium.",
+      next = {2}
+    },
+    [2] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "Every row was packed with glazed-over fans, swaying in eerie unison.",
+      next = {3}
+    },
+    [3] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "Between the gaps of the glowing lights, I spotted security guards moving toward the exits. They weren't guarding them. They were sealing them.",
+      next = {4}
+    },
+    [4] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "The whole place was suddenly turning into a gilded cage.",
+      next = {5}
+    },
+    [5] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "A terrifying thought struck me. I turned toward Helios, my voice barely a whisper.",
+      next = {6}
+    },
+    [6] = {
+      beijing = 2135,
+      dhead = 305,
+      dialog = 1,
+      music = "96_2022Halloween",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Wait... are you okay? Is the hypnosis working on you, too?",
+      next = {7}
+    },
+    [7] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 3126101,
+      role3 = 302205,
+      role6 = 31275005,
+      ruchang = -1,
+      sentence = "He looked over at me then, his eyes glowing gold under the swirling lights—like a lighthouse holding everything steady against the brooding tempest.",
+      next = {8}
+    },
+    [8] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "96_2022Halloween",
+      renming = "Helios",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 3126101,
+      role3 = 302205,
+      role6 = 31275005,
+      ruchang = 9,
+      sentence = "Relax. These cheap tricks don't work on me.",
+      next = {9}
+    },
+    [9] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "His expression stayed cold, but he tightened his grip on my hand just slightly, sending a reassuring warmth coursing through my body.",
+      next = {10}
+    },
+    [10] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "I drew in a breath, and my eyes kept drifting back to the dizzying sight of synchronized glow sticks, all waving in time to someone else's will.",
+      next = {11}
+    },
+    [11] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "Usually, mental-type Evolvers couldn't affect more than a handful of people at once. But this? This was something on a whole new scale. ",
+      next = {12}
+    },
+    [12] = {
+      beijing = 2135,
+      dhead = 305,
+      dialog = 1,
+      music = "96_2022Halloween",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "How the hell is he doing this? Controlling this many people all at once?",
+      next = {13}
+    },
+    [13] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "Helios didn't answer. He simply pointed to his ear.",
+      next = {14}
+    },
+    [14] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "I focused, straining to catch the words drifting through the cacophony.",
+      next = {15}
+    },
+    [15] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "Jun's smooth, hypnotic voice wrapped itself around the arena like fog, but the cheers kept slicing it apart, shredding whatever meaning it had into a muddled blur.",
+      next = {16}
+    },
+    [16] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "I couldn't make out what he was saying, but the sound itself clung to me like a shadow I couldn't shake.",
+      next = {17}
+    },
+    [17] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "An uneasy frown tugged at my brows.",
+      next = {18}
+    },
+    [18] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "96_2022Halloween",
+      renming = "Helios",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 702101,
+      role3 = 302202,
+      role6 = 31275005,
+      ruchang = -1,
+      sentence = "You hear it now? Normal concerts work hard to kill the echo. But here?",
+      next = {19}
+    },
+    [19] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "96_2022Halloween",
+      renming = "Helios",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 702101,
+      role3 = 302202,
+      role6 = 31275005,
+      sentence = "It's like they wanted it loud and messy.",
+      next = {20}
+    },
+    [20] = {
+      beijing = 2135,
+      dhead = 310,
+      dialog = 1,
+      music = "96_2022Halloween",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 702101,
+      role3 = 302203,
+      role6 = 31275005,
+      sentence = "Wait—are you saying they amplified the reverb on purpose?",
+      next = {21}
+    },
+    [21] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "I murmured, the realization dawning cold and sudden as my stomach tightened.",
+      next = {22}
+    },
+    [22] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "This wasn't some last-minute stunt. It was all planned—meticulously, from start to finish.",
+      next = {23}
+    },
+    [23] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "This entire \"fan meeting\" was nothing more than a setup, a calculated trap designed to brainwash every person in here!",
+      next = {24}
+    },
+    [24] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "I exhaled slowly, just as Helios's voice broke the moment's stillness.",
+      next = {25}
+    },
+    [25] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "96_2022Halloween",
+      renming = "Helios",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 702108,
+      role3 = 302205,
+      role6 = 31275005,
+      sentence = "Guess that was the best trick he could come up with.",
+      next = {26}
+    },
+    [26] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "96_2022Halloween",
+      renming = "Helios",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 702101,
+      role3 = 302205,
+      role6 = 31275005,
+      ruchang = 9,
+      sentence = "Come on. Let's get to the control booth.",
+      next = {27}
+    },
+    [27] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "I blinked, and then my eyes lit up as I caught his meaning.",
+      next = {28}
+    },
+    [28] = {
+      beijing = 2135,
+      dhead = 310,
+      dialog = 1,
+      music = "96_2022Halloween",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Right! If we can get your eyes on the big screen, we can use your Evol to snap everyone out of it!",
+      next = {29}
+    },
+    [29] = {
+      beijing = 2135,
+      dhead = 312,
+      dialog = 1,
+      music = "96_2022Halloween",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "But there are people everywhere. How do we even get to—",
+      next = {30}
+    },
+    [30] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "Before I could finish, a firm arm wrapped around my waist. In one swift move, he pulled me alongside him, cutting through the crowd toward the railing at the side of the stage.",
+      next = {31}
+    },
+    [31] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "He vaulted over the barrier in a smooth arc, landing softly below. Then he turned and held out his arms to me.",
+      next = {32}
+    },
+    [32] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "I was about to follow when something made me pause—I suddenly felt a gaze on me.",
+      next = {33}
+    },
+    [33] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "Before I could process it, a spotlight slammed down on me, drenching me in stark white.",
+      next = {34}
+    },
+    [34] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "From above, Jun's voice rose, lazy and laced with amusement.",
+      next = {35}
+    },
+    [35] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 5,
+      music = "96_2022Halloween",
+      renming = "Jun",
+      renwu = "npc",
+      sentence = "Leaving so soon? And here I thought I was putting on a good show.",
+      next = {36}
+    },
+    [36] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 5,
+      music = "96_2022Halloween",
+      renming = "Jun",
+      renwu = "npc",
+      sentence = "That's a shame. I had something really special planned. Friends, would you mind helping them... stay?",
+      next = {37}
+    },
+    [37] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "What was once a raving concert suddenly fell into a grave hush. The cheers fell silent, as if someone had flipped a switch.",
+      next = {38}
+    },
+    [38] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "Then, one by one, heads turned. Hundreds, thousands of blank, glazed-over eyes locked onto me like searchlights.",
+      next = {39}
+    },
+    [39] = {
+      beijing = 2135,
+      dhead = 303,
+      dialog = 1,
+      music = "96_2022Halloween",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "...!",
+      next = {40}
+    },
+    [40] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "96_2022Halloween",
+      renwu = "npc",
+      sentence = "Their arms shot out toward me all at once, reaching, grabbing.",
+      next = {41}
+    },
+    [41] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "I stumbled back, barely dodging the nearest grasping hands.",
+      next = {42}
+    },
+    [42] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "16_Darkness",
+      renming = "Helios",
+      renwu = "npc",
+      role1 = 3128000,
+      role2 = 701104,
+      role3 = 301209,
+      role6 = 31275005,
+      ruchang = -1,
+      sentence = "Jump, $u! Now!",
+      next = {43}
+    },
+    [43] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      role1 = 3128000,
+      role2 = 701104,
+      role3 = 301211,
+      role6 = 31275005,
+      sentence = "Suddenly, his voice sliced through the panic.",
+      next = {44}
+    },
+    [44] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      role1 = 3128000,
+      role2 = 701104,
+      role3 = 301211,
+      role6 = 31275005,
+      sentence = "The aisle between me and him stood like a bottomless abyss, hungrily stretching its gaping maw toward me. ",
+      next = {45}
+    },
+    [45] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      role1 = 3128000,
+      role2 = 701104,
+      role3 = 301211,
+      role6 = 31275005,
+      ruchang = 9,
+      sentence = "But there, my gaze met his—those sapphire eyes glinting in the darkness, his arms open like a promise I could trust unconditionally.",
+      next = {46}
+    },
+    [46] = {
+      beijing = 0,
+      bganim = 0,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "I took a breath and leapt.",
+      next = {47}
+    },
+    [47] = {
+      beijing = 0,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "Wind rushed past my face as I dropped. Then I landed safely in his arms.",
+      next = {48}
+    },
+    [48] = {
+      beijing = 2135,
+      bganim = 0,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 702101,
+      role3 = 302205,
+      role6 = 31275005,
+      roleanim = 1.1,
+      ruchang = -1,
+      sentence = "They closed around me with sure, silent strength. I could feel the fast thump of a heartbeat—his or mine, I couldn't tell.",
+      next = {49}
+    },
+    [49] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "He caught my hand without a word and broke into a run, dragging me through the maze of chaos toward the control booth.",
+      next = {50}
+    },
+    [50] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "The spotlight chased us relentlessly, while the music surged back to life. It was eerily cheerful, mocking us like the perfect soundtrack for prey being hunted.",
+      next = {51}
+    },
+    [51] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "From both sides, fans lunged toward us. Some even threw themselves off the stands, landing hard in the aisles just to block our path.",
+      next = {52}
+    },
+    [52] = {
+      beijing = 2135,
+      dhead = 317,
+      dialog = 1,
+      music = "16_Darkness",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Watch out!",
+      next = {53}
+    },
+    [53] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "The warning barely left my lips when a flash of silver arced out. In one motion, Helios floored the nearest one with surgical precision.",
+      next = {54}
+    },
+    [54] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "16_Darkness",
+      renming = "Helios",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 702109,
+      role3 = 302202,
+      role6 = 31275005,
+      roleanim = 1.1,
+      sentence = "Outta my way.",
+      next = {55}
+    },
+    [55] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "More kept coming, climbing over the barricades, surging forward like a tide. He knocked them down one by one, but for every one he dropped, two more took their place.",
+      next = {56}
+    },
+    [56] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "I kicked a few props down behind us to buy time, my heart pounding as Helios's breathing grew heavier beside me.",
+      next = {57}
+    },
+    [57] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "We couldn't keep this up. I had to find a way to pull attention off of us—break the spotlight, distract them, something.",
+      next = {58}
+    },
+    [58] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "My gaze darted around. Audience. Stage. Catwalk. Backstage—and then I saw it.",
+      next = {59}
+    },
+    [59] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "My breath caught.",
+      next = {60}
+    },
+    [60] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "I tugged on Helios's sleeve, pointing at the far corner where a few confetti cannons were stacked.",
+      next = {61}
+    },
+    [61] = {
+      beijing = 2135,
+      dhead = 310,
+      dialog = 1,
+      music = "16_Darkness",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "There! Look at that!",
+      next = {62}
+    },
+    [62] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "He followed my gesture and then smirked as realization dawned.",
+      next = {63}
+    },
+    [63] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "16_Darkness",
+      renming = "Helios",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 702101,
+      role3 = 302205,
+      role6 = 31275005,
+      roleanim = 1.1,
+      sentence = "If it's a party they want, I say we give it to them.",
+      next = {64}
+    },
+    [64] = {
+      beijing = 2135,
+      dhead = 314,
+      dialog = 1,
+      music = "16_Darkness",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Nothing like going to a good party with you!",
+      next = {65}
+    },
+    [65] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "Helios' gaze lit up with a look of delight at my words. He exhaled lightly and then came to a halt.",
+      next = {66}
+    },
+    [66] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "16_Darkness",
+      renming = "Helios",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 702101,
+      role3 = 302205,
+      role6 = 31275005,
+      roleanim = 1.1,
+      sentence = "Alright. Let's do this.",
+      next = {67}
+    },
+    [67] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "With a sudden sidestep, he caught the guard's elbow mid-swing, his hand snapping out with precision. The man let out a sharp grunt of pain, and before he could react, Helios had already swiped his baton.",
+      next = {68}
+    },
+    [68] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "The stage lights blazed down behind us, stretching our shadows along the walls like buckets of ink-black paint.",
+      next = {69}
+    },
+    [69] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "Amid the rising shouts of the staff, we bounded down the steps, darting toward the cannons like a pair of fugitives making our grand escape.",
+      next = {70}
+    },
+    [70] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "Without hesitation, Helios raised the baton and brought it crashing down toward the confetti cannon.",
+      next = {71}
+    },
+    [71] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "Just before impact, he glanced my way, a flicker of amusement curling at his lips.",
+      next = {72}
+    },
+    [72] = {
+      beijing = 2135,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "16_Darkness",
+      renming = "Helios",
+      renwu = "npc",
+      role1 = 3127000,
+      role2 = 702101,
+      role3 = 302205,
+      role6 = 31275005,
+      roleanim = 1.1,
+      ruchang = 9,
+      sentence = "Don't forget to cover your ears.",
+      next = {73}
+    },
+    [73] = {
+      beijing = 2135,
+      bganim = 2,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "BOOM!",
+      sfx = "Explosion_Large",
+      next = {74}
+    },
+    [74] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "The moment my hand brushed my ear, the cannon exploded with a thunderous roar.",
+      next = {75}
+    },
+    [75] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "Colorful streamers burst like shrapnel from the rafters, descending in chaotic waves that cloaked the arena in sudden, shimmering confusion.",
+      next = {76}
+    },
+    [76] = {
+      beijing = 2135,
+      dialog = 3,
+      music = "16_Darkness",
+      renwu = "npc",
+      sentence = "It was as if the sky had opened above the crowd.",
+      next = {0}
+    }
+  },
   [340102] = {
     [1] = {
       beijing = 1453,

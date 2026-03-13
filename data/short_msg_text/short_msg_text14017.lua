@@ -386,148 +386,148 @@ data = {
     text_time = 1650
   },
   [140173000] = {
-    content = "今天怎么一直唉声叹气的？",
+    content = "Something bothering you? You've been sighing nonstop.",
     text_time = 1800
   },
   [140173110] = {
-    title = "居然2020年了……",
-    content = "我在想怎么就2020年了，时间过得好快……",
+    title = "Can't believe it's a new year already.",
+    content = "I just find it hard to believe it's a new year already. Where did all the time go?",
     text_time = 2500
   },
   [140173111] = {
-    content = "……就因为这个？",
+    content = "...That's all?",
     text_time = 1200
   },
   [140173112] = {
-    content = "难道叹气会让时间变慢吗？",
+    content = "I doubt sighing is gonna make time go slower.",
     text_time = 1800
   },
   [140173113] = {
-    content = "有空胡思乱想不如专注眼前的事。",
+    content = "Instead of worrying about that, you should focus on what's actually at hand.",
     text_time = 2250
   },
   [140173120] = {
-    title = "时间过好快",
-    content = "就是突然觉得时间过好快啊，怎么又一年过去了！",
+    title = "Time really flies.",
+    content = "Just can't believe how fast time just seems to fly. It's another year already!",
     text_time = 2500
   },
   [140173121] = {
-    content = "已经过去一周多了。",
+    content = "It's already seven days into the new year.",
     text_time = 1350
   },
   [140173122] = {
-    content = "下次要感叹，记得抓住时机。",
+    content = "Next time you want to get all sentimental, at least do it on time.",
     text_time = 1950
   },
   [140173130] = {
-    title = "意识到自己不是小孩了",
-    content = "也没什么，就是突然意识到自己已经不是小孩了……",
+    title = "Just realized I'm not a kid anymore.",
+    content = "Nothing. Just suddenly realized I'm not a kid anymore...",
     text_time = 2500
   },
   [140173131] = {
-    content = "……本来就不是。",
+    content = "...You haven't been a kid for years at this point.",
     text_time = 1200
   },
   [140173132] = {
-    content = "不过有时候的幼稚行为，倒是和小孩没区别。",
+    content = "Although your behavior sometimes contradicts that fact.",
     text_time = 2500
   },
   [140173210] = {
-    title = "下一个十年是不是眨眼就过了",
-    content = "你说……下一个十年是不是也会眨眼间就过去了？",
+    title = "Will the next ten years also fly by?",
+    content = "Do you think... the next ten years is also gonna fly by?",
     text_time = 2500
   },
   [140173211] = {
-    content = "如果你打算一直纠结这个，确实会。",
+    content = "If that's all you think about it, then it will.",
     text_time = 2400
   },
   [140173212] = {
-    content = "你怎么突然想这些？",
+    content = "What's gotten into you suddenly?",
     text_time = 1350
   },
   [140173220] = {
-    title = "十年后我们在干什么",
-    content = "你说……十年后你会在哪里干什么呢？",
+    title = "Where will we be 10 years later?",
+    content = "Where do you think we'll be 10 years from now?",
     text_time = 2500
   },
   [140173221] = {
-    content = "不知道。",
+    content = "Not a clue.",
     text_time = 600
   },
   [140173222] = {
-    content = "但我知道，某个笨蛋说不定还会念叨着什么“十年”。",
+    content = "But I know a certain dummy would just be mumbling about the next ten years when that time comes.",
     text_time = 2500
   },
   [140173223] = {
-    content = "说吧，怎么突然想这些？",
+    content = "Now, tell me what's suddenly gotten into you?",
     text_time = 1650
   },
   [140173230] = {
-    title = "对时间的感知变模糊了",
-    content = "我听说随着年龄增长，人对时间的感知会越来越模糊，眨眼间十年就过去了！",
+    title = "Starting to lose the sense of time.",
+    content = "I heard people say the older you get, the faster time seems to pass. Even ten years would feel like it just flew on by!",
     text_time = 2500
   },
   [140173231] = {
-    content = "别整天瞎想。",
+    content = "Quit worrying about random things.",
     text_time = 900
   },
   [140173232] = {
-    content = "说说吧，怎么突然跟我讲这些？",
+    content = "Tell me what's suddenly gotten you worked up.",
     text_time = 2100
   },
   [140173310] = {
-    title = "你昨天说了“变老”",
-    content = "还不是因为你昨天说了“变老”之类的话！我一下子想了好多事……",
+    title = "You said things about getting old.",
+    content = "You said something about getting old yesterday, and it just got my mind thinking...",
     text_time = 2500
   },
   [140173311] = {
-    content = "……你也可以想点好事。",
+    content = "...There are better things for you to put your mind on.",
     text_time = 1650
   },
   [140173312] = {
-    content = "比如以后不用天天改报告，可以睡到自然醒。",
+    content = "Like you no longer have to revise reports all day, and you don't have to wake up to an alarm every day.",
     text_time = 2500
   },
   [140173313] = {
-    content = "以及，不管以后会发生什么，我都会跟你一起经历。",
+    content = "And... the fact you'll have me beside you from this day until our last.",
     text_time = 2500
   },
   [140173320] = {
-    title = "你昨天说了“皱纹”",
-    content = "你昨天说了皱纹，我真的开始担心长皱纹了！",
+    title = "You said things about wrinkles.",
+    content = "You said something about wrinkles yesterday. Now I'm worried about growing wrinkles!",
     text_time = 2500
   },
   [140173321] = {
-    content = "……平时倒没见你这么听我的话。",
+    content = "...If only you were this attentive to other things I say.",
     text_time = 2250
   },
   [140173322] = {
-    content = "听清楚了，我再说一遍。",
+    content = "Look, I'll say this again.",
     text_time = 1650
   },
   [140173323] = {
-    content = "不管以后如何，我都会跟你一起经历。",
+    content = "No matter what happens, you'll have me beside you from this day until our last.",
     text_time = 2500
   },
   [140173324] = {
-    content = "所以，不用担心。",
+    content = "So you have nothing to worry about.",
     text_time = 1200
   },
   [140173330] = {
-    title = "可能就是伤春悲秋",
-    content = "我也不知道，可能就是伤春悲秋了吧？",
+    title = "Just sad about the year ending.",
+    content = "Maybe I'm just sad about the year ending already.",
     text_time = 2500
   },
   [140173331] = {
-    content = "现在是冬天，笨蛋。",
+    content = "It ended a week ago, dummy.",
     text_time = 1350
   },
   [140173332] = {
-    content = "没必要纠结，昨天我不是都说了吗。",
+    content = "I don't see what you're worrying about. I thought I already told you yesterday.",
     text_time = 2400
   },
   [140173333] = {
-    content = "不管是十年还是二十年，我都会和你一起。",
+    content = "Whether it's ten years or twenty, I'll always be here with you.",
     text_time = 2500
   },
   [140174000] = {

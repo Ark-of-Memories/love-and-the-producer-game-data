@@ -2585,7 +2585,7 @@ data = {
     [2007] = {
       location = "-70,-110",
       effect = "click1",
-      memo_text_cn = "工作加油呀！你是最棒的！\n$u的专属鼓励师",
+      memo_text_cn = "Good luck with your work! I know you got this!\n—$u's Personal Cheerleader",
       role = "3",
       memobg_name = "back_action_story_note_bg",
       bg_id = 3510
@@ -2593,7 +2593,7 @@ data = {
     [2008] = {
       location = "270,-210",
       effect = "click1",
-      memo_text_cn = "节目组教我做了超级好吃的糖果！怕工作时丢了，就拜托工作人员转交给你了。\n吃完以后会变开心哦！\n你的糖果工匠",
+      memo_text_cn = "The show crew taught me how to make some seriously delicious candy! I didn't want to lose it during the shoot, so I asked the staff to pass it to you.\nHave a bite. It'll lift your mood!\n—Your Candy Craftsman",
       role = "3",
       memobg_name = "back_action_story_note_bg",
       bg_id = 2241
@@ -2601,7 +2601,7 @@ data = {
     [2009] = {
       location = "-70,-110",
       effect = "click1",
-      memo_text_cn = "笨蛋的笔记落在这里了，猜到你会回来取。\\n注意劳逸结合，效率才会更高。",
+      memo_text_cn = "You left your notebook here, dummy. Figured you'd come back for it.\\nRemember to balance work and rest; that's how you stay truly productive.",
       role = "1",
       memobg_name = "back_action_story_note_bg",
       bg_id = 1421
@@ -2609,7 +2609,7 @@ data = {
     [2010] = {
       location = "270,-210",
       effect = "click1",
-      memo_text_cn = "先刷我的卡。",
+      memo_text_cn = "Here, use my card.",
       role = "1",
       memobg_name = "back_action_story_note_bg",
       bg_id = 1481
@@ -2617,7 +2617,7 @@ data = {
     [2011] = {
       location = "-250,-470",
       effect = "click1",
-      memo_text_cn = "Cello的这盆猫薄荷，就拜托薯片小姐照顾啦~",
+      memo_text_cn = "Gonna entrust Cello's catnip in your hands, Miss Chips!",
       role = "3",
       memobg_name = "back_action_story_note_bg",
       memo_signature = "back_action_story_note_name_5",
@@ -2626,7 +2626,7 @@ data = {
     [2012] = {
       location = "-40,-230",
       effect = "click1",
-      memo_text_cn = "(づ￣ 3￣)づ帮我领一下日常奖励吧，密码是阿薯的生日~",
+      memo_text_cn = "Help me claim my daily reward. The password is your birthday!(づ￣ 3￣)づ ",
       role = "3",
       memobg_name = "back_action_story_note_bg",
       bg_id = 1413
@@ -4144,115 +4144,115 @@ None beats the three chasing kites."]],
     },
     [2110] = {
       [1] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "今天累死啦！回去以后我要狠狠吃一顿火锅全宴！",
+        text = "I'm exhausted today! I'm gonna have a hot pot feast when I finish my work!",
         bg_id = 1011
       },
       [2] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "那我们以后就用“不要笑挑战”来点菜吧~",
+        text = "Then, from now on, let's order dishes using the \"Try Not to Laugh Challenge\".",
         bg_id = 1011
       },
       [3] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "……薯、片、小、姐！你看到样片了是不是？",
+        text = "...Miss Chips! You've seen the footage, haven't you?",
         bg_id = 1011
       },
       [4] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "那是为了配合节目效果，所以增加了一点点点的夸张成分。",
+        text = "That was just for the show, okay? I only added a tiny bit of exaggeration.",
         bg_id = 1011
       },
       [5] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "哦~~好精湛的演技！",
+        text = "Huh! Your acting's really good!",
         bg_id = 1011
       },
       [6] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "哼，你这个语气分明就是不信！",
+        text = "Hmph, you don't sound convinced at all!",
         bg_id = 1011
       }
     },
     [2111] = {
       [1] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "突击检查——薯片小姐在做什么呢？",
+        text = "Surprise check-up! What are you doing, Miss Chips?",
         bg_id = 1662
       },
       [2] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "在给你挑礼物，有什么想要的吗？",
+        text = "Picking out a gift for you. Got anything in mind?",
         bg_id = 1662
       },
       [3] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "什么都可以吗？",
+        text = "I can ask for anything?",
         bg_id = 1662
       },
       [4] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "你先说来听听！",
+        text = "Tell me what you have in mind first!",
         bg_id = 1662
       },
       [5] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "那我想要……$u现在就出现在我身边。",
+        text = "Then I want... $u to show up right next to me.",
         bg_id = 1662
       },
       [6] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "噗，这个礼物也太贪心了！",
+        text = "Haha, that's quite a bold request!",
         bg_id = 1662
       },
       [7] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "不过，我倒是有个办法可以满足你~",
+        text = "But, I think I have a way to oblige.",
         bg_id = 1662
       }
     },
     [2112] = {
       [1] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "我今天提前收工了！你呢？",
+        text = "I wrapped up work early today! What about you?",
         bg_id = 1131
       },
       [2] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "我也下班啦，在帮你试奶茶店的新品。",
+        text = "Just got off work too. Trying out the new boba tea at that place you like.",
         bg_id = 1131
       },
       [3] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "是街角的那家店吗？",
+        text = "The one on the street corner?",
         bg_id = 1131
       },
       [4] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "嗯嗯。",
+        text = "Yup.",
         bg_id = 1131
       },
       [5] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "你和店员说自己的名字试试？",
+        text = "Did you try telling the staff your name?",
         bg_id = 1131
       }
     },
@@ -4260,49 +4260,49 @@ None beats the three chasing kites."]],
       [1] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "我按约定来探班了哦！",
+        text = "Just dropped by your office like I promised!",
         bg_id = 1211
       },
       [2] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "可我还在车上QwQ",
+        text = "But I'm still stuck in traffic. QwQ",
         bg_id = 1211
       },
       [3] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "没事没事，工作这两天就结束了！",
+        text = "It's fine, no rush. I'll be free in a few days anyway!",
         bg_id = 1211
       },
       [4] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "我不在的这几天工作还顺利吗？",
+        text = "Everything okay while I was gone?",
         bg_id = 1211
       },
       [5] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "顺利的！",
+        text = "Yep, all good!",
         bg_id = 1211
       },
       [6] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "好，看来我留下的护身符还蛮有用的。",
+        text = "Great! Looks like that good luck charm I left for you is working!",
         bg_id = 1211
       },
       [7] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "护身符？",
+        text = "The good luck charm?",
         bg_id = 1211
       },
       [8] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "嘿嘿，你把工牌打开看看！",
+        text = "Hehe, go check the back of your work badge!",
         bg_id = 1211
       }
     },
@@ -4310,43 +4310,43 @@ None beats the three chasing kites."]],
       [1] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "李泽言，看这张照片！",
+        text = "Victor, check out this pic!",
         bg_id = 2242
       },
       [2] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "你换了新手链？",
+        text = "New bracelet?",
         bg_id = 2242
       },
       [3] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "不是这个，看我的手势，懂我意思吗？",
+        text = "Not that—look at my hand gesture. Get what I'm hinting at?",
         bg_id = 2242
       },
       [4] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "……笨蛋就喜欢这些奇奇怪怪的仪式感。",
+        text = "...A certain dummy really has a knack for these strange things.",
         bg_id = 2242
       },
       [5] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "拍好另一半了，等下发你。",
+        text = "Took the matching shot. I'll send it over in a bit.",
         bg_id = 2242
       },
       [6] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "嘿嘿，正好可以对得上！这就是心心相印吧！",
+        text = "Hehe, they line up perfectly! This is what they call a real connection!",
         bg_id = 2242
       },
       [7] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "这句话说得倒是没错。",
+        text = "Can't argue with that.",
         bg_id = 2242
       }
     },
@@ -4354,81 +4354,81 @@ None beats the three chasing kites."]],
       [1] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "李泽言，我看完电影啦！",
+        text = "Victor, I just finished the movie!",
         bg_id = 1471
       },
       [2] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "感觉怎么样？",
+        text = "How was it?",
         bg_id = 1471
       },
       [3] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "超级好看！！你一定会喜欢的！而且里面有一只小动物好像你哦~",
+        text = "Sooo good!! You're gonna love it for sure. Oh, and there's this little animal in it that totally reminds me of you.",
         bg_id = 1471
       },
       [4] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "……是哪个？",
+        text = "...Which one?",
         bg_id = 1471
       },
       [5] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "先保密，等你回来，我们一起刷~",
+        text = "Not telling yet. Let's watch it together when you're back!",
         bg_id = 1471
       },
       [6] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "……笨蛋总是在奇怪的地方守口如瓶。",
+        text = "...A certain dummy always keeps secrets in the weirdest way.",
         bg_id = 1471
       }
     },
     [2116] = {
       [1] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "听到了你发来的琴曲，怎么想起弹这首？",
+        text = "I listened to that piano piece you sent. What made you pick that one?",
         bg_id = 1071
       },
       [2] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "其实只是想让手指复健一下，有一段时间没弹了，有点生疏。",
+        text = "Just trying to get my fingers back in shape. Been a while since I last played.",
         bg_id = 1071
       },
       [3] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "流畅度上确实可以改善，不过节奏和情感值得肯定。",
+        text = "Still needs a bit of smoothing out, but your timing and emotion are rather solid.",
         bg_id = 1071
       },
       [4] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "刚开完会就能听到你的琴声，这种感觉还不错。",
+        text = "I just got out of a meeting, and hearing you play right after wasn't a bad way to reset.",
         bg_id = 1071
       },
       [5] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "李泽言，我有那么一点点想你啦。",
+        text = "Victor, I might miss you... just a teeny bit.",
         bg_id = 1071
       },
       [6] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "只有一点？",
+        text = "Just a bit?",
         bg_id = 1071
       },
       [7] = {
-        role = "李泽言",
+        role = "Victor",
         role_pic = "back_djsx_headpic_lzy",
-        text = "……笨蛋，就快见面了，很快。",
+        text = "...Dummy. We'll be seeing each other soon. Won't be long now.",
         bg_id = 1071
       }
     },
@@ -4486,7 +4486,7 @@ None beats the three chasing kites."]],
       [1] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "苹果箱玩得很开心哦~",
+        text = "Apple Box is having a blast!",
         bg_id = 1231
       },
       [2] = {
@@ -4497,33 +4497,33 @@ None beats the three chasing kites."]],
         bg_id = 1231
       },
       [3] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "好羡慕苹果箱啊！它的眼神里都写满了快乐！",
+        text = "Ugh, I'm so jealous! You can literally see the joy in his eyes!",
         bg_id = 1231
       },
       [4] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "不仅有新玩具，还有阿薯陪着，它现在就是世界上最幸福的小狗！",
+        text = "He's got a brand new toy and Miss Chips by his side. Bet he's the happiest little pup in the world right now!",
         bg_id = 1231
       },
       [5] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "听你的语气，不会在吃苹果箱的醋吧~",
+        text = "Wait, is that jealousy I smell?",
         bg_id = 1231
       },
       [6] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "哼，虽然它是世界上最幸福的小狗，我也是世界上即将最幸福的人~",
+        text = "Hmph, maybe it's the happiest dog in the world, but I'm about to be the happiest person alive!",
         bg_id = 1231
       },
       [7] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "等我见到你的时候，一定把这段时间缺席的幸福感都成倍的补回来！",
+        text = "When I see you, I'm gonna make up for all the missed time that I didn't get to spend with you—times ten!",
         bg_id = 1231
       }
     },
@@ -4531,7 +4531,7 @@ None beats the three chasing kites."]],
       [1] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "报告汉堡先生！薯片小姐已经顺利完成任务！现在正在享用薯条中~",
+        text = "Hey, Mr. Burger! Miss Chips has completed her mission. She is currently enjoying her fries.",
         bg_id = 1241
       },
       [2] = {
@@ -4542,21 +4542,21 @@ None beats the three chasing kites."]],
         bg_id = 1241
       },
       [3] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "哇！是汉堡人套组！！薯片小姐世界第一厉害~",
+        text = "Whoa! The whole Burger Buddy set! You're the best, Miss Chips!",
         bg_id = 1241
       },
       [4] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "可是这么多……你岂不是要吃一天的汉堡了？",
+        text = "Man, you bought so many. Does that mean you'll be eating nothing but burgers for a while?",
         bg_id = 1241
       },
       [5] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "嘿嘿~当然不会啦~剩下的我会拿到公司茶水间分掉哒！",
+        text = "Of course not! I'll be giving them out to the guys at the office!",
         bg_id = 1241
       }
     },
@@ -4564,81 +4564,81 @@ None beats the three chasing kites."]],
       [1] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "祝贺！我们的大明星获得了“年度最具人气奖”呢~~",
+        text = "Congratulations on winning the Most Popular Artist Award of the Year, my big superstar!",
         bg_id = 1473
       },
       [2] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "嘿嘿，是我和薯片小姐共同的荣誉哦！我们的节目就是最棒的！",
+        text = "Hey, it's an award for both of us. It is our show, after all!",
         bg_id = 1473
       },
       [3] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "(￣︶￣*\\))阿薯发言的样子自信又帅气！今天这条裙子也好可爱！",
+        text = " Miss Chips, you looked so confident while giving that speech. Not to mention how cute you looked in that skirt today!(￣︶￣*\\))",
         bg_id = 1473
       },
       [4] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "欸？难道你在看直播吗？！",
+        text = "Whoa! You're watching the livestream?",
         bg_id = 1473
       },
       [5] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "当然啦~我特意跟导演请了10分钟的假呢！",
+        text = "Of course! I told the director to give me ten minutes off!",
         bg_id = 1473
       },
       [6] = {
-        role = "周棋洛",
+        role = "Kiro",
         role_pic = "back_djsx_headpic_zql",
-        text = "只为了第一时间看到$u站上领奖台的样子~",
+        text = "I'm not missing a single moment of $u standing in the spotlight!",
         bg_id = 1473
       }
     },
     [2121] = {
       [1] = {
-        role = "白起",
+        role = "Gavin",
         role_pic = "back_djsx_headpic_bq",
-        text = "突然给我发短信，是出什么事了吗？",
+        text = "You just sent me a text. Is everything alright?",
         bg_id = 4145
       },
       [2] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "白起白起，说起来你可能不信，我居然在这发现了一家中式面馆！而且味道和林家小馆好像！",
+        text = "Gavin, you're probably not going to believe me! I actually found a noodle shop here that tasted a lot like Lynn's Kitchen!",
         bg_id = 4145
       },
       [3] = {
-        role = "白起",
+        role = "Gavin",
         role_pic = "back_djsx_headpic_bq",
-        text = "真的吗？说的我都想去吃了。",
+        text = "Really? Now you've piqued my interest.",
         bg_id = 4145
       },
       [4] = {
-        role = "白起",
+        role = "Gavin",
         role_pic = "back_djsx_headpic_bq",
-        text = "这边的食堂只有套餐，没有太多花样。",
+        text = "The cafeteria here only serves set meals. There's not much variety.",
         bg_id = 4145
       },
       [5] = {
-        role = "白起",
+        role = "Gavin",
         role_pic = "back_djsx_headpic_bq",
-        text = "总体来说还挺清淡的。",
+        text = "And the food is pretty bland.",
         bg_id = 4145
       },
       [6] = {
         role = "$u",
         role_pic = "back_djsx_headpic01",
-        text = "那等你训练完之后，我们一起再来尝尝看怎么样？",
+        text = "How about we try it together after you are done with training?",
         bg_id = 4145
       },
       [7] = {
-        role = "白起",
+        role = "Gavin",
         role_pic = "back_djsx_headpic_bq",
-        text = "好，那天我会留出胃口多吃点。",
+        text = "Sounds good. I'll be sure to save some room in my stomach for it.",
         bg_id = 4145
       }
     },
@@ -5100,9 +5100,9 @@ None beats the three chasing kites."]],
     },
     [1903] = {
       mail_id = 1003,
-      title = "第四季度优秀人才公示",
-      sender = "华锐总裁办",
-      text = "亲爱的各位员工：\\n过去的一年，公司有幸和你一起奋斗。经过严谨的评选，华锐谨代表本部及合作公司，公示于上一年第四季度中，华锐各事业部、华锐子公司与合作公司的杰出个人……\\n……\\n杰出个人 $c $u\\n……",
+      title = "Announcement of Outstanding Perofrmance – Q4",
+      sender = "LFG Office of the CEO",
+      text = "To every outstanding employee of LFG:\\nOver the past year, it has been our privilege to work alongside you. After a thorough and careful selection process, LFG is proud to recognize the outstanding individuals from the fourth quarter. This recognition includes team members from various divisions of LFG, its subsidiaries, as well as our partner companies...\\n...\\nAward for most outstanding performance goes to $u of $c.\\n",
       icon = "back_action_story_message_pic_2",
       icon_size = "452,180",
       bg_id = 1031
@@ -5131,25 +5131,25 @@ Lucien]],
     },
     [1906] = {
       mail_id = 1006,
-      title = "小熊的甜蜜提示",
-      sender = "周棋洛",
-      text = "薯片小姐没有回我信息的话，一定是加班在电脑前苦战，又忘了时间吧……\\n希望附件里的程序能帮你解决一些小难题，以及我点了好吃的夜宵~等下先吃完再工作吧！",
+      title = "Hints from the Little Bear",
+      sender = "Kiro",
+      text = "Whenever Miss Chips doesn't reply to my messages, that usually means she's busy with work...\\nHopefully the programs in this attachment will help you out. That, and I ordered some delicious takeouts your way! Eat up before jumping back to work!",
       icon_size = "452,180",
       bg_id = 1032
     },
     [1907] = {
       mail_id = 1007,
-      title = "解压的方式",
-      sender = "白起",
-      text = "这段时间你要是工作累了，就去雪场滑雪释放一下。之前我联系过工作人员，给我们订做了一套雪具，你可以随时拿去用。",
+      title = "Stress Relief",
+      sender = "Gavin",
+      text = "If you ever get tired from work, you can try skiing to blow off steam. I asked the staff to prepare a pair of ski gear for us. You can pick it up anytime you want.",
       icon_size = "452,180",
       bg_id = 2247
     },
     [1908] = {
       mail_id = 1008,
-      title = "专属风景",
-      sender = "白起",
-      text = "这趟列车会从小镇一直开往附近的雪山脚下，环绕一圈之后才会回来。听说那边可以拍到非常漂亮的风光，我想对你这次的取材应该也有帮助。",
+      title = "Exclusive Scenery",
+      sender = "Gavin",
+      text = "This train is bound from the town to the foothills of a mountain and circles back. I'm told the views are amazing up there. Maybe you can take some photos for your research.",
       icon_size = "452,180",
       bg_id = 4577
     },
@@ -5229,14 +5229,14 @@ Lucien]],
     },
     [1804] = {
       bg_name = "back_action_story_list_zql_bg",
-      title = "周棋洛",
-      text = "试试街角奶茶店的新品。|想要一份慰劳的小礼物！|选一束你最喜欢的花。|记得要来探班哦！|工作之余也要记得好好休息！",
+      title = "Kiro",
+      text = "Try the latest drink from the boba tea shop around the corner.|Craving a little treat to lift my spirits!|Choose your favorite bouquet.|Don't forget to stop by the set!|Remember to take a break in between work!",
       bg_id = 1031
     },
     [1805] = {
       bg_name = "back_action_story_list_bg",
-      title = "李泽言",
-      text = "带布丁洗澡和驱虫|按照你的喜好丰富照片墙|去唱片店选几张喜欢的唱片|替我去看电影的首映|会议结束的那一天，在青森公园见面",
+      title = "Victor",
+      text = "Take Pudding for a bath and flea treatment|Add more photos to the wall|Stop by a record store and pick out albums|Go watch the movie premiere for me|Meet at Greenwood Park the last day of my conference",
       bg_id = 1427
     },
     [1806] = {
@@ -5247,14 +5247,14 @@ Lucien]],
     },
     [1807] = {
       bg_name = "back_action_story_list_zql_bg",
-      title = "周棋洛",
-      text = "带苹果箱去散步|给猫薄荷浇水|登录我的游戏账号领日常奖励|替我参加颁奖典礼|~\\(≧▽≦)/~封闭排练结束的那天，来找我见面",
+      title = "Kiro",
+      text = "Take Apple Box for a walk|Water the catnip|Log in the game and claim my daily reward|Attend the award ceremony in my place|~\\(≧▽≦)/ Come see me when my practice ends!",
       bg_id = 1092
     },
     [1808] = {
       bg_name = "back_action_story_list_bq_bg",
-      title = "白起",
-      text = "观赏雪景小镇|泡温泉舒缓疲劳|试着去滑一次雪|体验城市的游览专线|结束训练的那一天，在香薰馆碰面",
+      title = "Gavin",
+      text = "Explore the snow-covered town.|Relax with a hot spring bath.|Give skiing a try.|Take the town's tourist route.|Meet at the aromatherapy shop when training ends.",
       bg_id = 2247
     }
   },

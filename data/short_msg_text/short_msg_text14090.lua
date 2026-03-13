@@ -1,1557 +1,1542 @@
 module("short_msg_text14090", package.seeall)
 data = {
   [140900000] = {
-    content = "开会回来，桌上怎么多了好几本日历？",
+    content = "I just came back from a meeting. What are all these new calendars on my desk?",
     text_time = 2550
   },
   [140900110] = {
-    title = "是我买给你的",
-    content = "是我买给你的，新的一年要用新的日历哦~",
+    title = "I bought them for you.",
+    content = "I bought them for you. New calendars for a new year.",
     text_time = 2850
   },
   [140900111] = {
-    content = "除了某人，还有谁会往我桌子上放这些？",
+    content = "I know you bought them. Who else would put these on my desk?",
     text_time = 2700
   },
   [140900112] = {
-    content = "我疑惑的是，日历不止一本。",
+    content = "My question is, why are there more than one?",
     text_time = 1950
   },
   [140900113] = {
-    content = "到底谁会用到这么多日历？",
+    content = "Who would have use for all these calendars?",
     text_time = 1800
   },
   [140900120] = {
-    title = "全都是我精心挑选的",
-    content = "这些全都是我精心挑选的，现在属于你了！",
+    title = "I hand-picked them all.",
+    content = "I hand-picked them all. They are yours now!",
     text_time = 2850
   },
   [140900121] = {
-    content = "我说最近怎么看到你刷手机时总是一脸纠结的样子。",
+    content = "No wonder you've been looking torn about something while on your phone.",
     text_time = 3450
   },
   [140900122] = {
-    content = "原来是在挑选这些。",
+    content = "You were picking these.",
     text_time = 1350
   },
   [140900123] = {
-    content = "但是买这么多，你是想开日历商店吗？",
+    content = "But these are too many. Are you opening a calendar shop?",
     text_time = 2550
   },
   [140900130] = {
-    title = "之前说要换的日历",
-    content = "之前你不是答应我，要换新的日历吗？",
+    title = "You promised a new calendar.",
+    content = "Didn't you promise me that you're getting a new calendar?",
     text_time = 2550
   },
   [140900131] = {
-    content = "嗯，我只答应换“一本”日历。",
+    content = "Yes, but I only agreed to ONE calendar.",
     text_time = 2100
   },
   [140900132] = {
-    content = "但现在我桌子上有五本。",
+    content = "There are five on my desk right now.",
     text_time = 1650
   },
   [140900133] = {
-    content = "与我们当初的约定不符。",
+    content = "It's not what I promised.",
     text_time = 1650
   },
   [140900210] = {
-    title = "日历多了，心情也会变好",
-    content = "相信我……日历多了，你的心情也会变好的~",
+    title = "More calendars can cheer you up.",
+    content = "Trust me... More calendars can cheer you up.",
     text_time = 3000
   },
   [140900211] = {
-    content = "我的心情不会根据日历的多少而变化。",
+    content = "My mood doesn't change based on the number of calendars I own.",
     text_time = 2550
   },
   [140900212] = {
-    content = "我只收一本日历。",
+    content = "I'm only keeping one of them.",
     text_time = 1200
   },
   [140900213] = {
-    content = "你现在选择一下留下哪个吧。",
+    content = "You can choose which one.",
     text_time = 1950
   },
   [140900220] = {
-    title = "每个日历的主题不一样",
-    content = "可每个日历主题不同，我觉得你都会感兴趣。",
+    title = "They have different themes.",
+    content = "They all have different themes. I think you'll be interested.",
     text_time = 3000
   },
   [140900221] = {
-    content = "旅游、美食、萌宠……",
+    content = "Travel, food, pets...",
     text_time = 1500
   },
   [140900222] = {
-    content = "我看这些是某人感兴趣的东西才对。",
+    content = "They are more like a certain someone's interests.",
     text_time = 2400
   },
   [140900223] = {
-    content = "既然如此，就由你挑一本给我好了。",
+    content = "Well, just pick one for me.",
     text_time = 2400
   },
   [140900230] = {
-    title = "其实一开始只有一本",
-    content = "其实一开始我只买了一本，但算法老是给我推荐。",
+    title = "It started with only one.",
+    content = "I only bought one at first, but the algorithm kept showing me more.",
     text_time = 3300
   },
   [140900231] = {
-    content = "于是，你又没忍住诱惑下单了？",
+    content = "So, you couldn't resist the temptation?",
     text_time = 2100
   },
   [140900232] = {
-    content = "果然是笨蛋会干的事情。",
+    content = "Sounds like something a dummy would do.",
     text_time = 1650
   },
   [140900233] = {
-    content = "不过我只要一本就够了，你选一本给我吧。",
+    content = "I only need one. Can you pick one for me?",
     text_time = 2850
   },
   [140900310] = {
-    title = "呜呜呜我选不出来",
-    content = "呜呜呜我选不出来，真的不能都放在你桌上吗？",
+    title = "Ah, too hard. I can't decide!",
+    content = "Ah, too hard. I can't decide! Can't you keep them all on your desk?",
     text_time = 3150
   },
   [140900311] = {
-    content = "不能。不过某人常常“折腾”的，又不只有办公桌这一个地方。",
+    content = "No, but you don't just mess up the space on my desk anyway.",
     text_time = 4200
   },
   [140900312] = {
-    content = "如果你能在下班前把下季度的计划表安排好……",
+    content = "If you can sort out the schedule for the next season before the day ends...",
     text_time = 3150
   },
   [140900313] = {
-    content = "我就把书房和Souvenir日历的决定权交给你。",
+    content = "I'll let you decide on the calendars in my study and Souvenir.",
     text_time = 3600
   },
   [140900320] = {
-    title = "每个都难以割舍",
-    content = "我觉得这些日历每个都很有趣，很难割舍怎么办？",
+    title = "I can't leave out anyone.",
+    content = "I think these calendars are all interesting. I just can't leave out anyone.",
     text_time = 3300
   },
   [140900321] = {
-    content = "这次就先用着，明年可以少买一点。",
+    content = "I'll make use of them this time. Just remember not to buy too many next year.",
     text_time = 2400
   },
   [140900322] = {
-    content = "同一系列的日历基本每一年都会复刻。",
+    content = "They put out new calendars with the same theme almost every year.",
     text_time = 2550
   },
   [140900323] = {
-    content = "我们有足够的时间，把你有兴趣的日历慢慢体验一遍。",
+    content = "We have enough time to experience all the calendars you are interested in year by year.",
     text_time = 3600
   },
   [140900330] = {
-    title = "象征新一天的开始",
-    content = "工作前先把一排日历撕掉，你不觉得象征着新一天的开始吗？",
+    title = "It marks the start of a new day.",
+    content = "Don't you think tearing away the previous day before work marks the start of a new day?",
     text_time = 4050
   },
   [140900331] = {
-    content = "不觉得。",
+    content = "No, I don't.",
     text_time = 600
   },
   [140900332] = {
-    content = "不过一定要一排日历加入也可以。",
+    content = "But it's fine if you really want to tear all these calendars.",
     text_time = 2250
   },
   [140900333] = {
-    content = "把它们放在家里，我看着你撕。",
+    content = "Let's put them at home. I'll watch you do it.",
     text_time = 2100
   },
   [140901000] = {
-    content = "今天从图书馆出来，收到了一张卡片。",
+    content = "Someone gave me a card when I left the library today.",
     text_time = 2550
   },
   [140901110] = {
-    title = "什么样的卡片？",
-    content = "是什么样的卡片呀？",
+    title = "What kind of card?",
+    content = "What kind of card is it?",
     text_time = 1350
   },
   [140901111] = {
-    content = "卡片上画着鲜花、草丛和树木。",
+    content = "It has drawings of flowers, grass, and trees.",
     text_time = 2100
   },
   [140901112] = {
-    content = "还有小动物围着篝火唱歌跳舞。",
+    content = "And animals singing and dancing around a bonfire.",
     text_time = 2100
   },
   [140901113] = {
-    content = "篝火上方用艺术字写着“Happy Boring Day”。",
+    content = "Above the bonfire, it reads \"Happy Boring Day\" in a special font.",
     text_time = 4350
   },
   [140901120] = {
-    title = "莫非是广告？",
-    content = "莫非是写着“健身舞蹈瑜伽”的小广告？",
+    title = "Is it a flyer?",
+    content = "Is it a flyer for fitness, dance, or yoga?",
     text_time = 2700
   },
-  [140901121] = {
-    content = "那倒不是。",
-    text_time = 750
-  },
+  [140901121] = {content = "No.", text_time = 750},
   [140901122] = {
-    content = "是一张写着“Happy Boring Day”的卡片。",
+    content = "It's a card that says \"Happy Boring Day.\"",
     text_time = 4050
   },
   [140901123] = {
-    content = "应该是学生社团的活动。",
+    content = "I think it's a student club event.",
     text_time = 1650
   },
   [140901130] = {
-    title = "是谁给你的？",
-    content = "咦，是谁给你的啊？",
+    title = "Who gave it to you?",
+    content = "Eh? Who gave it to you?",
     text_time = 1350
   },
   [140901131] = {
-    content = "是几位头上戴着编织花环的同学。",
+    content = "A few students wearing floral wreaths.",
     text_time = 2250
   },
   [140901132] = {
-    content = "他们会给每个路过的人发一张小卡片。",
+    content = "They were giving cards to everyone who passed by.",
     text_time = 2550
   },
   [140901133] = {
-    content = "同时说一声“Happy Boring Day”。",
+    content = "And saying \"Happy Boring Day.\"",
     text_time = 3600
   },
   [140901210] = {
-    title = "好像很有趣",
-    content = "那是什么，好像很有趣～",
+    title = "Sounds pretty fun.",
+    content = "What's that? Sounds pretty fun.",
     text_time = 1650
   },
   [140901211] = {
-    content = "据发卡片的同学说，他们觉得日复一日的生活很无聊。",
+    content = "The students told me that they thought repeating the same routine every day was boring.",
     text_time = 3600
   },
   [140901212] = {
-    content = "所以想要通过这种方式，制造一些惊喜和变化。",
+    content = "So, this is their way of bringing surprise and change to our lives.",
     text_time = 3150
   },
   [140901213] = {
-    content = "如果是$u，会选择用什么方式对抗无聊呢？",
+    content = "If it's you, $u, what would you do to feel less bored?",
     text_time = 3000
   },
   [140901220] = {
-    title = "想亲眼看看了",
-    content = "我也好想亲眼看一看～",
+    title = "I want to see it.",
+    content = "I want to see it, too!",
     text_time = 1500
   },
   [140901221] = {
-    content = "我猜到你应该会很好奇，所以把卡片和宣传材料都收好了。",
+    content = "I knew you'd be interested, so I kept the card and their pamphlet.",
     text_time = 3900
   },
   [140901222] = {
-    content = "卡片背面还有一块空白，让人记录自己对抗无聊的方法。",
+    content = "You can also write down how you fight boredom on the back of the card.",
     text_time = 3750
   },
   [140901223] = {
-    content = "我想，你应该有不少想写的内容？",
+    content = "I think you might have a lot of things to say.",
     text_time = 2250
   },
   [140901230] = {
-    title = "无聊之日是什么节日",
-    content = "无聊之日是什么特殊的节日吗？",
+    title = "Is it a special day?",
+    content = "Is Boring Day a special day?",
     text_time = 2100
   },
   [140901231] = {
-    content = "它应该不是指某个特定的日子，而是泛指所有琐碎又重复的平凡日常。",
+    content = "I don't think it's a specific day, but our mundane and repetitive daily routine.",
     text_time = 4650
   },
   [140901232] = {
-    content = "想要从这些日常里脱离出来，确实需要一些努力。",
+    content = "It does take some effort to pull out of your comfortable routine.",
     text_time = 3300
   },
   [140901233] = {
-    content = "在对抗无聊这件事上，$u同学应该更有发言权。",
+    content = "I think Miss. $u should have more to say about how to fight boredom.",
     text_time = 3300
   },
   [140901310] = {
-    title = "宅在家里",
-    content = "我觉得宅在家里，安安静静地就不错。",
+    title = "Stay at home.",
+    content = "I think staying at home is a good idea.",
     text_time = 2550
   },
   [140901311] = {
-    content = "听起来和我们平时的日常活动很相似。",
+    content = "Sounds a lot like what we do every day.",
     text_time = 2550
   },
   [140901312] = {
-    content = "晚上我们煮一壶茶，一起看部电影怎么样？",
+    content = "How about we brew some tea and watch a movie together tonight?",
     text_time = 2850
   },
   [140901313] = {
-    content = "继续我们平凡又美好“无聊之日”。",
+    content = "Let's continue our mundane but beautiful \"Boring Day.\"",
     text_time = 2400
   },
   [140901320] = {
-    title = "出门逛逛",
-    content = "比如趁天气好的时候，出门逛逛？",
+    title = "Go out for a walk.",
+    content = "How about going out for a walk when the weather's fine?",
     text_time = 2250
   },
   [140901321] = {
-    content = "这的确是不错的方法。",
+    content = "That does sound appealing.",
     text_time = 1500
   },
   [140901322] = {
-    content = "我查看了最近的天气预报，接下来一周天气都很好。",
+    content = "I checked the weather. No rain or snow for the next week.",
     text_time = 3450
   },
   [140901323] = {
-    content = "我们也去各个地方漫游一下，让无聊之日更加有趣吧？",
+    content = "We can also travel to other places and make the \"Boring Day\" more fun.",
     text_time = 3600
   },
   [140901330] = {
-    title = "什么也不做",
-    content = "和许教授在一起的话，什么也不做也不会无聊啊。",
+    title = "Do nothing.",
+    content = "As long as I'm with you, Professor Lucien, I won't be bored even if I'm doing nothing.",
     text_time = 3300
   },
   [140901331] = {
-    content = "看来我们的感受很相似。",
+    content = "That makes two of us.",
     text_time = 1650
   },
   [140901332] = {
-    content = "于我而言，和$u在一起的每个瞬间，都是新鲜有趣的。",
+    content = "For me, every moment with $u is new and fun.",
     text_time = 3750
   },
   [140901333] = {
-    content = "你总有把一切时光变得不无聊的魔力。",
+    content = "You have the magic to make every moment full of fun.",
     text_time = 2550
   },
   [140902000] = {
-    content = "我看到你放在包里的那袋饼干啦ovo",
+    content = "I saw that cookie in your bag! ovo",
     text_time = 2550
   },
   [140902110] = {
-    title = "尽情品尝吧",
-    content = "好哦，请小周同学尽情品尝吧！",
+    title = "You can have it.",
+    content = "Nice catch. You can have it as you want!",
     text_time = 2100
   },
   [140902111] = {
-    content = "阿薯有点坏心眼哦。",
+    content = "Miss Chips, no prank.",
     text_time = 1350
   },
   [140902112] = {
-    content = "我已经发现了，虽然看起来很像，但它才不是真的饼干。",
+    content = "I already noticed that it isn't a real cookie.",
     text_time = 3750
   },
   [140902113] = {
-    content = "是你做的毛绒徽章对不对？",
+    content = "It's a fluffy badge you made, isn't it?",
     text_time = 1800
   },
   [140902120] = {
-    title = "你再仔细看看",
-    content = "好欸，不过你再仔细看看那是什么。",
+    title = "Look again.",
+    content = "Nice catch, but take a closer look.",
     text_time = 2400
   },
   [140902121] = {
-    content = "拆开一看原来是小熊饼干形状的徽章，还是一只趴在树洞里冬眠的小熊。",
+    content = "I see. It's a badge shaped like a bear cookie, and it's a baby bear hibernating in a tree hollow.",
     text_time = 4800
   },
   [140902122] = {
-    content = "摸起来毛茸茸的，超级超级可爱！",
+    content = "It feels fluffy and so, so adorable!",
     text_time = 2250
   },
   [140902123] = {
-    content = "是阿薯做的吗？",
+    content = "Did you make it, Miss Chips?",
     text_time = 1050
   },
   [140902130] = {
-    title = "等等那不是饼干——",
-    content = "等等那不是饼干，是饼干徽章！",
+    title = "Wait, it's not a cookie—",
+    content = "Wait, it's not a cookie. It's a cookie badge!",
     text_time = 2100
   },
   [140902131] = {
-    content = "嘿嘿，我打开的时候发现了！现在已经把它别在帽子上啦。",
+    content = "Hee, I realized that when I opened it! Now I already pinned it to my hat.",
     text_time = 2250
   },
   [140902132] = {
-    content = "这个饼干徽章的颜色和我今天的秋冬穿搭很相配。",
+    content = "The cookie badge's color fits well with my winter fit today.",
     text_time = 3300
   },
   [140902133] = {
-    content = "我猜它们一定是阿薯亲手做的，对吧？",
+    content = "You must have made it yourself, right, Miss Chips?",
     text_time = 2550
   },
   [140902210] = {
-    title = "因为你在忌口",
-    content = "因为你最近有些溃疡在忌口嘛，所以给你做了“平替”。",
+    title = "You've been off sugar.",
+    content = "You've been off sugar because of the canker sore, so I made a replacement for you.",
     text_time = 3750
   },
   [140902211] = {
-    content = "呜呜呜还是阿薯好，不像远哥只会说“最近活动多，正好控制一下”。",
+    content = "Awww, Miss Chips, you're the best! Savin would just say, \"You need to cut back on sugar anyway with all the recent events.\"",
     text_time = 4650
   },
   [140902212] = {
-    content = "看到饼干徽章之后，我立刻去购物app上下单了同款工具包。",
+    content = "I ordered the same toolkit online after seeing your cookie badge.",
     text_time = 4200
   },
   [140902213] = {
-    content = "我也要给你做一块饼干徽章。",
+    content = "I'm making you a cookie badge, too.",
     text_time = 1950
   },
   [140902220] = {
-    title = "你怎么知道是我做的？",
-    content = "是啊，不过你怎么知道是我做的？",
+    title = "How did you know I made it?",
+    content = "Yeah, but how did you know I made it?",
     text_time = 2250
   },
   [140902221] = {
-    content = "因为今天早上我出门前，苹果箱不知道从哪里翻出了一个工具包。",
+    content = "Because Apple Box dragged out a toolkit from who knows where before I left home this morning.",
     text_time = 4350
   },
   [140902222] = {
-    content = "工具包里的材料和徽章的材质一模一样，所以我就猜到啦。",
+    content = "The tools in it look exactly the same as the badge in texture, so I connected the dots.",
     text_time = 3900
   },
   [140902223] = {
-    content = "对了，工具包我已经带走咯，我要在飞机上给你也做一个。",
+    content = "By the way, I took the toolkit with me. I'm making you one on the plane.",
     text_time = 3900
   },
   [140902230] = {
-    title = "这是特供徽章",
-    content = "这是$u牌特供徽章，让这周超级忙碌的周棋洛开心一下～",
+    title = "It's an exclusive badge.",
+    content = "It's an exclusive badge made by $u, to cheer up Kiro, who's been busy this whole week.",
     text_time = 3900
   },
   [140902231] = {
-    content = "我现在已经非常开心啦。",
+    content = "I'm already in the best mood.",
     text_time = 1650
   },
   [140902232] = {
-    content = "等我用同款工具包做一个饼干徽章给你，就是特别开心了！",
+    content = "I'll be even happier after I make you a cookie badge with the same toolkit!",
     text_time = 3900
   },
   [140902233] = {
-    content = "阿薯就好好期待吧！",
+    content = "You can look forward to it, Miss Chips!",
     text_time = 1350
   },
   [140902310] = {
-    title = "可以许愿吗？",
-    content = "可以许愿款式吗？我想要一个正在吃蜂蜜的小熊饼干！",
+    title = "Can I make a request?",
+    content = "Can I make a request for a specific design? I want a bear eating honey!",
     text_time = 3600
   },
   [140902311] = {
-    content = "当然没问题，现在就开始动手！",
+    content = "Sure thing! I'm starting it now!",
     text_time = 2100
   },
   [140902312] = {
-    content = "保证和你给我做的一样可爱。",
+    content = "It'll be as adorable as the one you made for me.",
     text_time = 1950
   },
   [140902313] = {
-    content = "这一点就等我回去之后，你再亲眼看看吧。",
+    content = "You'll see it in person after I get back.",
     text_time = 2850
   },
   [140902320] = {
-    title = "这就开始搭配衣服",
-    content = "我这就去想想，要把徽章搭配在什么衣服上！",
+    title = "I'm picking a fit now.",
+    content = "I'll start thinking about which outfit to go with the badge!",
     text_time = 3000
   },
   [140902321] = {
-    content = "不用啦，你打开衣帽间，看看左边第二个柜子。",
+    content = "No need for that. Open the closet and check the second drawer on the left.",
     text_time = 3150
   },
   [140902322] = {
-    content = "里面应该有一套卡其色秋冬套装，和我现在身上这套是情侣装。",
+    content = "There should be a khaki-colored winter suit. It's a match with mine.",
     text_time = 4200
   },
   [140902323] = {
-    content = "搭配上情侣款饼干徽章，肯定会更搭～",
+    content = "It'll fit even better with a couple's badge!",
     text_time = 2550
   },
   [140902330] = {
-    title = "注意休息哦",
-    content = "做徽章是其次啦，最近你本来就忙，要注意休息哦～",
+    title = "Get some rest.",
+    content = "You can leave it for later. Get some rest first. You've been so busy.",
     text_time = 3450
   },
-  [140902331] = {
-    content = "知道啦～",
-    text_time = 600
-  },
+  [140902331] = {content = "Got it.", text_time = 600},
   [140902332] = {
-    content = "我可是周棋·超级高效活力充沛·洛。",
+    content = "I'm Kiro, the embodiment of efficiency and energy.",
     text_time = 2550
   },
   [140902333] = {
-    content = "不过如果能有薯片小姐的亲亲的话，肯定会效率更高的！",
+    content = "But I'm sure I'll be even more efficient with a kiss from Miss Chips!",
     text_time = 3750
   },
   [140903000] = {
-    content = "$u，我今天晚点去接你下班。",
+    content = "$u, I'll be late picking you up tonight.",
     text_time = 2100
   },
   [140903110] = {
-    title = "有紧急任务吗？",
-    content = "好哦，是又有紧急任务吗？",
+    title = "Urgent mission?",
+    content = "Don't worry. Another urgent mission?",
     text_time = 1800
   },
   [140903111] = {
-    content = "不是，就是署里做内部信息安全演习。",
+    content = "No, it's just we were doing a cybersecurity drill at the station.",
     text_time = 2550
   },
   [140903112] = {
-    content = "给所有人的邮箱发送了钓鱼邮件。",
+    content = "We sent a phishing email to everyone.",
     text_time = 2250
   },
   [140903113] = {
-    content = "没想到真有人上钩了，我要盯着他们处理一下。",
+    content = "And someone actually took the bait, so I'm staying to keep a watch.",
     text_time = 3150
   },
   [140903120] = {
-    title = "不要太累啦",
-    content = "没事，如果你忙的话就不用来接我了，不要太累啦。",
+    title = "No need to pick me up.",
+    content = "It's okay. You don't need to pick me up if you're busy.",
     text_time = 3450
   },
   [140903121] = {
-    content = "不累，就是在开内部信息安全演习总结会。",
+    content = "I'm alright. We are just having a cybersecurity summary meeting.",
     text_time = 2850
   },
   [140903122] = {
-    content = "先前他们给全员发了钓鱼邮件。",
+    content = "They sent everyone a phishing email earlier.",
     text_time = 2100
   },
   [140903123] = {
-    content = "不少人都上当了。",
+    content = "A lot of people took the bait.",
     text_time = 1200
   },
   [140903130] = {
-    title = "要不我去找你吧",
-    content = "嗯嗯，要不我去找你吧~",
+    title = "I'll come to you.",
+    content = "No problem. I'll just come to you.",
     text_time = 1650
   },
   [140903131] = {
-    content = "好，我先去处理一下内部信息安全演习的事情。",
+    content = "Okay. I need to have a meeting about cybersecurity first.",
     text_time = 3150
   },
   [140903132] = {
-    content = "只是署里的一些人没通过测验，被钓鱼邮件骗了。",
+    content = "Some of them didn't pass the test and got scammed by a phishing email.",
     text_time = 3300
   },
   [140903133] = {
-    content = "应该不会耽误太久。",
+    content = "It shouldn't take too long.",
     text_time = 1350
   },
   [140903210] = {
-    title = "什么邮件啊？",
-    content = "是什么邮件啊？竟然骗过了特遣署的精英们。",
+    title = "What's the email like?",
+    content = "What's the email like? I can't believe it fooled the elites at Special Task Force.",
     text_time = 3000
   },
   [140903211] = {
-    content = "邮件标题是“特遣署最可爱的警犬评选”。",
+    content = "It's titled \"Most Adorable Special Task Force Police Dog Contest.\"",
     text_time = 2850
   },
   [140903212] = {
-    content = "点进去之后输入账号密码，可以给警犬投票。",
+    content = "If you click the link and enter your password, you can vote for the candidates.",
     text_time = 3000
   },
   [140903213] = {
-    content = "他们不光投了，还在群里拉票。",
+    content = "They not only logged in and voted, but also asked others in chat to vote for their dogs.",
     text_time = 2100
   },
   [140903220] = {
-    title = "一般人肯定想不到",
-    content = "哈哈哈他们肯定想不到，有人敢给特遣署发钓鱼邮件。",
+    title = "They'd never know.",
+    content = "Hahaha, they'd never know that someone dared to send phishing emails to the Special Task Force.",
     text_time = 3600
   },
   [140903221] = {
-    content = "嗯，所以更要当心。",
+    content = "Yeah, that's why we should be extra careful.",
     text_time = 1350
   },
   [140903222] = {
-    content = "万一真的有犯罪分子利用个人信息诈骗就麻烦了。",
+    content = "It would be a much more serious if criminals stole their personal info for scams.",
     text_time = 3300
   },
   [140903223] = {
-    content = "这次算是给他们一个教训。",
+    content = "They should've learned a lesson today.",
     text_time = 1800
   },
   [140903230] = {
-    title = "你也收到邮件了吗",
-    content = "你也收到钓鱼邮件了吗？",
+    title = "Did you get the email, too?",
+    content = "Did you get the phishing email, too?",
     text_time = 1650
   },
   [140903231] = {
-    content = "收到了，确实很有迷惑性。",
+    content = "I did, and it was very well done.",
     text_time = 1800
   },
   [140903232] = {
-    content = "不过发信人的邮箱和后勤部门的拼写差了个字母。",
+    content = "But the email address and the spelling of the logistics department were one letter wrong.",
     text_time = 3300
   },
   [140903233] = {
-    content = "我就没点开。",
+    content = "So, I didn't click the link.",
     text_time = 900
   },
   [140903310] = {
-    title = "没有邮件能骗到你吧",
-    content = "别人可能会受骗，但我觉得世界上大概没有邮件能骗到你吧！",
+    title = "No emails can trick you.",
+    content = "Others might fall for it, but no emails in the world can trick you!",
     text_time = 4050
   },
   [140903311] = {
-    content = "不一定，如果是关于你的邮件……",
+    content = "Not necessarily. If it's an email about you...",
     text_time = 2250
   },
   [140903312] = {
-    content = "即使发现不对劲，我可能也会点开查证。",
+    content = "Even if there's something off, I might still open it just to make sure.",
     text_time = 2700
   },
   [140903313] = {
-    content = "所以今天晚上回去，我们约定一个专属于我们的安全暗号吧。",
+    content = "So, let's come up with a secret code that only we know after I get home tonight.",
     text_time = 4050
   },
   [140903320] = {
-    title = "我也需要注意一点",
-    content = "听你这么说完，我感觉我也需要注意一点。",
+    title = "I need to be more careful.",
+    content = "Now that I've heard what happened, I need to be more careful, too.",
     text_time = 2850
   },
   [140903321] = {
-    content = "提高警惕是好事。",
+    content = "It's good to stay alert.",
     text_time = 1200
   },
   [140903322] = {
-    content = "不过你还有一个选项。",
+    content = "But you have one more option.",
     text_time = 1500
   },
   [140903323] = {
-    content = "如果有不确定的事情，先来问问我。",
+    content = "Ask me first if there's anything you're unsure about.",
     text_time = 2400
   },
   [140903330] = {
-    title = "我好像有了新灵感",
-    content = "感觉这个话题可以单独出一期新节目，晚上给我讲讲吧！",
+    title = "I think I have a new idea.",
+    content = "I think we can make a new show about this topic. Can you tell me more tonight?",
     text_time = 3750
   },
-  [140903331] = {
-    content = "没问题。",
-    text_time = 600
-  },
+  [140903331] = {content = "Of course.", text_time = 600},
   [140903332] = {
-    content = "我记得上次你说想试试蛋糕店的新品。",
+    content = "I remember you said you wanted to try the new dessert from the bakery.",
     text_time = 2550
   },
   [140903333] = {
-    content = "晚上我们买上一份，边吃边聊吧。",
+    content = "Let's buy one and talk about it over dinner.",
     text_time = 2250
   },
   [140904000] = {
-    content = "我手机里那个大清早的闹钟是你设的？",
+    content = "Did you set up the alarm on my phone this morning?",
     text_time = 2550
   },
   [140904110] = {
-    title = "不能只有我一个人早起",
-    content = "对啊，冬天这么冷，怎么能只有我一个人早起！",
+    title = "I can't be the only one to wake up early.",
+    content = "Yeah, it's so cold. I can't be the only one to wake up early!",
     text_time = 3150
   },
-  [140904111] = {
-    content = "啧，我就知道。",
-    text_time = 1050
-  },
+  [140904111] = {content = "I knew it.", text_time = 1050},
   [140904112] = {
-    content = "可惜要让你失望了。",
+    content = "But, I might have to disappoint you.",
     text_time = 1350
   },
   [140904113] = {
-    content = "闹钟还没响，我就到教室了。",
+    content = "I was already at school before the alarm went off.",
     text_time = 1950
   },
   [140904120] = {
-    title = "一不小心",
-    content = "昨天晚上迷迷糊糊的，一不小心就拿错了。",
+    title = "I took the wrong phone.",
+    content = "I was too sleepy last night and took the wrong phone.",
     text_time = 2850
   },
   [140904121] = {
-    content = "行，那我就勉强相信你的“不小心”。",
+    content = "Fine. I'll trust that you took the wrong phone this time.",
     text_time = 2550
   },
   [140904122] = {
-    content = "就是这时间也太晚了。",
+    content = "But, the alarm was so late.",
     text_time = 1500
   },
   [140904123] = {
-    content = "闹钟响的时候，我都在教室好久了。",
+    content = "I'd been at school for a long time when the alarm went off.",
     text_time = 2400
   },
   [140904130] = {
-    title = "提醒你起来学习了",
-    content = "我这是好心，提醒你起来构思报告。",
+    title = "To remind you it's school time.",
+    content = "I was doing you a favor by reminding you to get up early for your reports.",
     text_time = 2700
   },
   [140904131] = {
-    content = "报告那么简单的东西。",
+    content = "Reports are too simple.",
     text_time = 1500
   },
   [140904132] = {
-    content = "还用得着构思？",
+    content = "No need to get up early for them.",
     text_time = 1050
   },
   [140904133] = {
-    content = "闹钟在教室里响的时候，我已经搞定了。",
+    content = "I already got them done when your alarm went off in the classroom.",
     text_time = 2100
   },
   [140904210] = {
-    title = "你今天不是没课吗？",
-    content = "你今天不是没课吗，怎么去教室了？",
+    title = "I thought you had no class today?",
+    content = "I thought you had no class today? Why were you at school?",
     text_time = 2400
   },
   [140904211] = {
-    content = "系里有位教授身体不舒服，让我给本科生代个课。",
+    content = "A professor at our school wasn't feeling well and asked me to do a lecture for him.",
     text_time = 3300
   },
   [140904212] = {
-    content = "结果有的人偏偏选在今天定闹钟。",
+    content = "Someone decided to set the alarm today.",
     text_time = 2250
   },
   [140904213] = {
-    content = "所以全班人都听到你唱的闹钟铃声了。",
+    content = "So, everyone at the lecture heard the alarm that you sang.",
     text_time = 2550
   },
   [140904220] = {
-    title = "告诉我你在空教室",
-    content = "！！！告诉我，你在一间空教室对不对？",
+    title = "Tell me there wasn't anyone with you.",
+    content = "!!! Tell me there wasn't anyone with you, right?",
     text_time = 2700
   },
   [140904221] = {
-    content = "对，我没有在一百个人的教室里代课。",
+    content = "Right, I wasn't lecturing in a room with one hundred people.",
     text_time = 2550
   },
   [140904222] = {
-    content = "也没人问“助教居然用女朋友的歌声当闹铃啊？”",
+    content = "And no one asked if their TA set his girlfriend's singing as the alarm.",
     text_time = 3300
   },
-  [140904223] = {
-    content = "满意了？",
-    text_time = 600
-  },
+  [140904223] = {content = "Satisfied?", text_time = 600},
   [140904230] = {
-    title = "那个闹钟该不会……",
-    content = "……也就是说，那个闹钟全教室的人都听到了？！",
+    title = "Everyone heard the alarm...",
+    content = "...You're saying that everyone in the classroom heard the alarm!?",
     text_time = 3300
   },
   [140904231] = {
-    content = "你是说你唱的那个……",
+    content = "You mean the one where you sang...",
     text_time = 1500
   },
   [140904232] = {
-    content = "“凌肖凌肖，每天早上睡懒觉”？",
+    content = "\"Shaw, Shaw, Shaw, every morning snoozing away?\"",
     text_time = 2250
   },
   [140904233] = {
-    content = "除了睡着的校猫没听见，其他都听见了。",
+    content = "Yes, everyone heard it except for the school cat, who was sound asleep.",
     text_time = 2700
   },
   [140904310] = {
-    title = "我唱的歌还不错吧",
-    content = "咳咳，我唱的歌还不错吧？",
+    title = "My singing wasn't bad, right?",
+    content = "Ahem, my singing wasn't bad, right?",
     text_time = 1800
   },
   [140904311] = {
-    content = "是挺好听的。",
+    content = "It was quite nice.",
     text_time = 900
   },
   [140904312] = {
-    content = "所以我也写了一首《傻$u之歌》。",
+    content = "So, I wrote a Dummy $u's Song, too.",
     text_time = 2400
   },
   [140904313] = {
-    content = "晚上live演出结束，单独给你加场。",
+    content = "I'll put it at the end of my live show tonight.",
     text_time = 2700
   },
   [140904320] = {
-    title = "我们漂流瓶联系吧",
-    content = "啊啊啊我社死了，我们漂流瓶联系吧。",
+    title = "No more messages.",
+    content = "I'm so embarrassed! No more messages. Let's write letters instead.",
     text_time = 2550
   },
   [140904321] = {
-    content = "第一个漂流瓶。",
+    content = "First letter.",
     text_time = 1050
   },
   [140904322] = {
-    content = "今天晚上live如果没见到你，我就把闹钟铃声设成开场曲。",
+    content = "If I don't see you at my show tonight, I'm changing the opening song to your alarm.",
     text_time = 4200
   },
   [140904323] = {
-    content = "让全Live House的人都听见。",
+    content = "The whole live house will hear it.",
     text_time = 2700
   },
   [140904330] = {
-    title = "下次不设了",
-    content = "呜呜呜我下次不给你定闹铃了。",
+    title = "I won't do it again.",
+    content = "Aaaahhh, I'm not doing it again.",
     text_time = 2100
   },
   [140904331] = {
-    content = "……我又没说不让你定。",
+    content = "...I didn't say you can't do it.",
     text_time = 1650
   },
   [140904332] = {
-    content = "反正我平时的课表你也知道。",
+    content = "You know my curriculum anyway.",
     text_time = 1950
   },
   [140904333] = {
-    content = "不过闹铃曲库可以拓宽一下，免得听腻了。",
+    content = "But you can expand the list of alarms in case I get bored.",
     text_time = 2850
   },
   [140905000] = {
-    content = "行李收拾得怎么样了？",
+    content = "All packed?",
     text_time = 1500
   },
   [140905110] = {
-    title = "五分钟就能好！",
-    content = "就差首饰盒没装进去了。我再挑挑，大概五分钟就能好！",
+    title = "Five minutes!",
+    content = "Five minutes! Just grabbing my jewelry, I promise!",
     text_time = 3750
   },
   [140905111] = {
-    content = "时间不急，把觉得合适的都带上吧。",
+    content = "Take your time. Bring whatever you like.",
     text_time = 2400
   },
   [140905112] = {
-    content = "我刚收到消息，因为强降雪，去往雪镇的高速路口要封闭八小时。",
+    content = "The highway to Snowville is shut down for the next 8 hours because of the snow.",
     text_time = 4350
   },
   [140905113] = {
-    content = "我们出发的时间同步顺延。",
+    content = "We'll have to leave later than planned.",
     text_time = 1800
   },
   [140905120] = {
-    title = "还差零食没装进去",
-    content = "差零食没装，大概还要一小会儿……",
+    title = "Still working on snacks...",
+    content = "Just finishing up the snacks... almost done!",
     text_time = 2400
   },
   [140905121] = {
-    content = "零食可以慢慢挑，顺便用上你的行李箱收纳技巧。",
+    content = "No rush on the snacks. Put your expert packing skills to the test.",
     text_time = 3300
   },
   [140905122] = {
-    content = "外面气候恶劣，我把火车票改签了。",
+    content = "I had to move our train. The weather's not cooperating.",
     text_time = 2400
   },
   [140905130] = {
-    title = "正在跟时间赛跑",
-    content = "就快了就快了，正在跟时间赛跑！",
+    title = "Trying to beat the clock!",
+    content = "Trying to beat the clock! Almost there!",
     text_time = 2250
   },
   [140905131] = {
-    content = "不用赛跑了，改成漫步吧。",
+    content = "You can slow down. We've hit the pause button.",
     text_time = 1800
   },
   [140905132] = {
-    content = "酒店给我打电话说暴雪切断了他们的供电系统，我们的入住日期被更改为明天。",
+    content = "The hotel lost power in the storm, so we can't check in until tomorrow.",
     text_time = 5250
   },
   [140905133] = {
-    content = "我改签了车票，明早再出发。",
+    content = "I've moved our trip to the morning.",
     text_time = 1950
   },
   [140905210] = {
-    title = "你出门前我就在想今天可能去不了了",
-    content = "看外面雪下得那么大，我其实就在隐隐约约担心了QAQ",
+    title = "I had a feeling we might not make it today...",
+    content = "It's really coming down out there. Ngl, I was getting nervous.",
     text_time = 3750
   },
   [140905211] = {
-    content = "看得出来，你的心思已经明晃晃写在脸上了。",
+    content = "I could tell. It was written all over your face.",
     text_time = 3000
   },
   [140905212] = {
-    content = "雪大概今晚就能停，旅行只是延误，不会取消。",
+    content = "The snow should let up by tonight. We're just rescheduling.",
     text_time = 3150
   },
   [140905213] = {
-    content = "现在时间宽裕了不少，你可以把想做的事都补上了。",
+    content = "Now you've got time to finish what you started.",
     text_time = 3450
   },
   [140905220] = {
-    title = "时间宽裕，我去吃点东西",
-    content = "那我去吃点东西，顺便给布丁做一顿圣诞大餐！",
+    title = "Okay, snack time!",
+    content = "I'm gonna get some food and make Pudding a fancy Christmas dinner too!",
     text_time = 3150
   },
   [140905221] = {
-    content = "最近它的体重有上涨趋势，需要控制饮食。",
+    content = "Pudding's been getting a little chubby. We should probably cut back.",
     text_time = 2850
   },
   [140905222] = {
-    content = "还是把空出来的这部分时间，做点别的吧。",
+    content = "Let's find something else to do with our free time.",
     text_time = 2850
   },
   [140905230] = {
-    title = "这就去放松一下！",
-    content = "刚才我生怕赶不上……这就去煮杯热可可放松一下！",
+    title = "Gonna go chill for a bit!",
+    content = "Phew, I was racing the clock! I'm gonna make some relaxing hot chocolate.",
     text_time = 3450
   },
   [140905231] = {
-    content = "我快到家了，顺便给我也煮一杯吧。",
+    content = "Good. Save one for me. I'm on my way back.",
     text_time = 2400
   },
   [140905232] = {
-    content = "笨蛋，即使真的赶不上也有别的补救办法。",
+    content = "Don't worry, we could've figured it out even if things fell through.",
     text_time = 2850
   },
   [140905233] = {
-    content = "平复一下心情，等下我陪你实现其他圣诞心愿。",
+    content = "Just relax. I'll help you with your other Christmas wishes soon.",
     text_time = 3150
   },
   [140905310] = {
-    title = "想装饰圣诞树",
-    content = "嘿嘿，那我想装饰圣诞树！本来以为不在恋语市过节，这项传统就要被打破了。",
+    title = "Wanna decorate the tree!",
+    content = "Let's decorate the tree! I was scared we'd have to skip our little tradition this year.",
     text_time = 5250
   },
   [140905311] = {
-    content = "即使不在恋语市，今年的圣诞树也不会缺席。",
+    content = "Don't worry, our tradition is safe.",
     text_time = 3000
   },
   [140905312] = {
-    content = "刚才顺路遇到没打烊的商铺，我把需要的装饰品都带回来了。",
+    content = "I actually picked up some more decorations on my way back.",
     text_time = 4050
   },
   [140905313] = {
-    content = "距离天明还有很久，我会陪你把它搭成想要的样子。",
+    content = "We have all the time we need. I'll be home soon to help.",
     text_time = 3450
   },
   [140905320] = {
-    title = "想吃李总做的圣诞风蛋糕！",
-    content = "刷到一款造型很火的圣诞风蛋糕，但店铺位置好远……",
+    title = "How about a Christmas cake?",
+    content = "OMG, I'm craving this viral Christmas cake! But the bakery is all the way across town...",
     text_time = 3600
   },
   [140905321] = {
-    content = "橱柜里还有制作蛋糕的原料。在我到家之前，把细节信息写好发给我。",
+    content = "Check the cupboard, we have baking supplies. Send me the recipe.",
     text_time = 4650
   },
   [140905322] = {
-    content = "不过按照某人的贪心程度，一块小蛋糕应该满足不了。",
+    content = "Knowing you, one cake won't be enough.",
     text_time = 3600
   },
   [140905323] = {
-    content = "其他想要的，允许你一并写入清单。",
+    content = "Feel free to add anything else to your list.",
     text_time = 2400
   },
   [140905330] = {
-    title = "要等你到了才能做",
-    content = "这个要等你回家了才能一起做～",
+    title = "Can't start this one without you!",
+    content = "I've got something planned for when you get home!",
     text_time = 2100
   },
   [140905331] = {
-    content = "……又在神神秘秘地谋划什么？",
+    content = "...What are you being so mysterious about?",
     text_time = 2100
   },
   [140905332] = {
-    content = "不过今天，允许你对接下来的活动安排得更大胆一些。",
+    content = "Fine. For today, I want you to think bigger.",
     text_time = 3600
   },
   [140905333] = {
-    content = "出发之前，我都会陪你实现。",
+    content = "I'll help you with whatever you have in mind before we leave.",
     text_time = 1950
   },
   [140906000] = {
-    content = "我收到了一个包装精美的礼物盒，是今年的圣诞惊喜吗？",
+    content = "Came in to find a very fancy gift box on my desk. Is this your doing?",
     text_time = 3750
   },
   [140906110] = {
-    title = "是我挑了很久的礼物呢",
-    content = "是呀，这份礼物我挑了好久呢，想送你的毕竟太多了……",
+    title = "Yep, I spent a lot of time picking that out!",
+    content = "Yeah, it is! It took me forever to decide. I just couldn't settle on one perfect thing...",
     text_time = 3750
   },
   [140906111] = {
-    content = "^ ^过多的选择有时也会让我陷入苦恼。",
+    content = "You're going to give me a complex with all this effort.",
     text_time = 2850
   },
   [140906112] = {
-    content = "不过某种程度来说，这同样是在意收礼者感受的表现。",
+    content = "But it's incredibly sweet.",
     text_time = 3600
   },
   [140906113] = {
-    content = "礼物我拆开了，看起来像是某种卡牌游戏？",
+    content = "Let's see what's inside... Huh. A deck of cards?",
     text_time = 2850
   },
   [140906120] = {
-    title = "猜猜看内容",
-    content = "没错~许教授要不要猜猜里面装的是什么？",
+    title = "Guess what it is.",
+    content = "You caught me! Want to take a guess what it is?",
     text_time = 2850
   },
   [140906121] = {
-    content = "根据你最近收藏夹里的视频推测，应该是某种可互动游戏？",
+    content = "Running an analysis of your recent interests... I'd say it's some kind of interactive game.",
     text_time = 3900
   },
   [140906122] = {
-    content = "我现在就拆开验证一下。",
+    content = "Initiating unboxing sequence...",
     text_time = 1650
   },
   [140906123] = {
-    content = "嗯……看来和我想的没有偏差。",
+    content = "Confirmed. It's a card game, just as predicted.",
     text_time = 2100
   },
   [140906130] = {
-    title = "是给许教授的安慰",
-    content = "是的~昨天来找你的时候偷偷放在桌上啦，想给加班的许教授一点安慰。",
+    title = "A little something to help you unwind!",
+    content = "Yep! I sneaked it onto your desk yesterday. Thought you deserved a treat after all your hard work.",
     text_time = 4800
   },
   [140906131] = {
-    content = "$u的早安吻，已经是最好的安慰了。",
+    content = "Waking up next to $u was all the comfort I needed.",
     text_time = 2550
   },
   [140906132] = {
-    content = "刚刚阿明还在惊讶，我为什么清早加班还看起来心情不错。",
+    content = "Though Pete did ask if I'd won the lottery, coming in this early with a smile on my face.",
     text_time = 3900
   },
   [140906133] = {
-    content = "我把礼物拆开了，看外包装，很像之前你提到的一款桌游。",
+    content = "Now, let's see... The design looks a lot like that game you were talking about.",
     text_time = 3900
   },
   [140906210] = {
-    title = "不是在室内玩的桌游游戏",
-    content = "虽然是卡牌，但它不是在室内玩的哦。",
+    title = "The game is an outdoor adventure!",
+    content = "You use cards, but the whole game happens outdoors!",
     text_time = 2550
   },
   [140906211] = {
-    content = "我也发现了，好像玩家要抽两个关键词，然后去相应的地点完成一件事。",
+    content = "Starting to get the picture. So you draw two cards, find a location that fits, and complete a challenge?",
     text_time = 4800
   },
   [140906212] = {
-    content = "听起来很有趣，能随机到不少平时错过的地方。",
+    content = "That's a creative way to get out and about.",
     text_time = 3150
   },
   [140906213] = {
-    content = "但如果抽到的条件很刁钻，无法完成会有相应的惩罚制度吗？",
+    content = "But what's the penalty for when you inevitably draw a super difficult task?",
     text_time = 4050
   },
   [140906220] = {
-    title = "要根据卡牌完成随机任务",
-    content = "是桌游没错啦，但玩家必须根据卡牌给出的要求，去不同地点完成随机任务～",
+    title = "You complete random tasks based on the cards.",
+    content = "It gets you up and out! You draw cards and they tell you where to go and what challenge to complete.",
     text_time = 5100
   },
   [140906221] = {
-    content = "有了这款游戏的“强制”，休息间隙我大概会经常走出实验室。",
+    content = "This might be the push I need to actually take a break and get out of the lab.",
     text_time = 4200
   },
   [140906222] = {
-    content = "不过还有些规则我不明白。",
+    content = "But let me ask you this about the rules.",
     text_time = 1800
   },
   [140906223] = {
-    content = "比如输了的玩家会面临惩罚吗？",
+    content = "What happens if you can't complete a challenge?",
     text_time = 2100
   },
   [140906230] = {
-    title = "你看到详细的规则了吗",
-    content = "按照规则，抽中的卡牌会决定我们出门要做的事～",
+    title = "The cards are in charge!",
+    content = "The cards are in charge! They tell us what to do and where to go.",
     text_time = 3300
   },
   [140906231] = {
-    content = "随机性这么强，游玩途中应该会发现不少有趣的场景。",
+    content = "It's so random. We're bound to find some really interesting spots.",
     text_time = 3600
   },
   [140906232] = {
-    content = "但如果是运气不好，是不是也有可能抽出难以完成的任务？",
+    content = "Of course, statistically, we could also draw a really difficult challenge.",
     text_time = 3900
   },
   [140906233] = {
-    content = "规则上好像没写到，没完成内容会面临什么样的惩罚。",
+    content = "So what happens then? The rules don't mention any penalty for failure.",
     text_time = 3600
   },
   [140906310] = {
-    title = "是在担心自己完成不了吗",
-    content = "咦，许教授是看到了很困难的关键词组合，开始担心自己完成不了吗？",
+    title = "Are you getting cold feet?",
+    content = "What's the matter? See a challenge that's too tricky for you?",
     text_time = 4650
   },
   [140906311] = {
-    content = "算不上困难，只是我抽到的这一条需要在你的帮助下才能够完成。",
+    content = "I wouldn't call it tricky. It's just that this card requires a partner... you.",
     text_time = 4350
   },
   [140906312] = {
-    content = "【在实验室的灯光下】【亲吻爱人】",
+    content = "\"Kiss the one you love\" \"Under the laboratory lights\"",
     text_time = 2400
   },
   [140906313] = {
-    content = "所以，$u愿意晚些时候来接我下班吗？",
+    content = "Feel like being my plus-one tonight after I finish up here?",
     text_time = 2700
   },
   [140906320] = {
-    title = "惩罚由赢家决定",
-    content = "嗯哼，具体罚什么是由赢家决定的哦！",
+    title = "The winner gets to choose the forfeit!",
+    content = "The best part is, the winner gets to choose the forfeit!",
     text_time = 2550
   },
   [140906321] = {
-    content = "看得出来，$u已经迫不及待想让我输掉这场游戏了。",
+    content = "I can tell you're already imagining me losing, aren't you?",
     text_time = 3600
   },
   [140906322] = {
-    content = "那下次来研究所时，我们一起玩一场吧。",
+    content = "Alright then, we'll have to have a match the next time you're here.",
     text_time = 2700
   },
   [140906330] = {
-    title = "休闲游戏没有惩罚",
-    content = "没有噢，这个游戏主打一个休闲，完成不了就算啦。",
+    title = "There are no penalties.",
+    content = "Don't worry! It's all for fun. There are no penalties.",
     text_time = 3450
   },
   [140906331] = {
-    content = "既然如此，我们可以更大胆地去挑战那些看起来“无法完成”的任务。",
+    content = "Perfect. That gives us the freedom to attempt even the most \"impossible\" missions.",
     text_time = 4650
   },
   [140906332] = {
-    content = "几百张牌面能够组合出不少可能性。",
+    content = "There are hundreds of cards here, full of potential adventures.",
     text_time = 2400
   },
   [140906333] = {
-    content = "我愿意慢慢和你探索其中的所有乐趣。",
+    content = "And I want to experience every single one of them with you.",
     text_time = 2550
   },
   [140907000] = {
-    content = "亲爱的薯片小姐：您与周棋洛先生已成功预约圣诞假期版滑雪之旅，祝游玩愉快！",
+    content = "Dear Miss Chips! This is your confirmation for the Christmas Ski Trip with Kiro! Wishing you a wonderful time!",
     text_time = 5400
   },
   [140907110] = {
-    title = "竟然预约上了",
-    content = "什么，之前说的那个滑雪场竟然预约上了吗！！",
+    title = "OMG, we got the booking?!",
+    content = "Wait, we actually got a spot at that sold-out ski resort??",
     text_time = 3150
   },
   [140907111] = {
-    content = "是的！一开始我也以为没希望了，毕竟老板的态度超级坚定——",
+    content = "We did! I was sure it was a lost cause. The owner wasn't budging!",
     text_time = 4200
   },
   [140907112] = {
-    content = "结果他刚才给我发短信，说有旅客退订了双人行，空出来的位置可以留给我们～",
+    content = "But guess what? He just texted me; a cancellation opened up a spot, and it's ours!",
     text_time = 5250
   },
   [140907113] = {
-    content = "我们的出行装备可以准备起来了！",
+    content = "We should totally start packing!",
     text_time = 2250
   },
   [140907120] = {
-    title = "我超级期待——",
-    content = "超级期待——！这几天我已经看了无数遍滑雪视频了。",
+    title = "I can't wait!",
+    content = "I'm so hyped! I've been binge-watching skiing videos all week.",
     text_time = 3600
   },
   [140907121] = {
-    content = "我也是！昨晚梦里都是和阿薯一起滑雪。",
+    content = "You and me both! I actually dreamed about us skiing last night.",
     text_time = 2700
   },
   [140907122] = {
-    content = "虽然很开心，但我也梦到我们摔了好几次跤QAQ",
+    content = "It was fun, but we kind of face-planted a lot.",
     text_time = 3300
   },
   [140907123] = {
-    content = "为了防止悲剧在现实中重演，我决定今天的采购要加入防摔垫！薯片小姐有什么打算？",
+    content = "So, new plan: let's go get some protective gear today. What do you think, Miss Chips?",
     text_time = 5700
   },
   [140907130] = {
-    title = "收到！一定准时出发",
-    content = "收到收到！洛薯小队一定准时出发！",
+    title = "Count me in! Team's ready to roll!",
+    content = "Got it! Team Kiro & Chips is ready to roll!",
     text_time = 2400
   },
   [140907131] = {
-    content = "为了确保这趟旅途圆满……",
+    content = "Alright! To make sure this mission is a 100% success...",
     text_time = 1800
   },
   [140907132] = {
-    content = "我认为，洛薯小队有必要进行采购计划。",
+    content = "I declare it's time to go shopping.",
     text_time = 2700
   },
   [140907133] = {
-    content = "毕竟滑雪场在山谷里，要是东西带不齐会很麻烦。",
+    content = "It's deep in the valley, so we need to be prepared!",
     text_time = 3300
   },
   [140907210] = {
-    title = "买圣诞必看电影的光盘",
-    content = "要不多买几张光盘？等滑完雪回到民宿，我们可以边喝热巧边重温圣诞必看电影。",
+    title = "Let's pick up a few Christmas movie DVDs.",
+    content = "How about we get some classic Christmas movies? Imagine coming in from the cold, with hot chocolate, for a Christmas movie marathon.",
     text_time = 5400
   },
   [140907211] = {
-    content = "薯片小姐好会生活！！",
+    content = "You're so good at this!",
     text_time = 1500
   },
   [140907212] = {
-    content = "我已经能想象到抱着你看电影会有多幸福了qvq",
+    content = "I'm getting all excited just picturing us cuddled up on the couch.",
     text_time = 3300
   },
   [140907213] = {
-    content = "既然这样，热腾腾的爆米花也不能缺！我去把奶油玉米粒一起打包进行李箱。",
+    content = "Okay, but we'll need freshly popped popcorn too! I'm making space in my bag right now.",
     text_time = 5100
   },
   [140907220] = {
-    title = "买几件防寒的羽绒服",
-    content = "去服装店买几件羽绒服吧？好看的衣服永远不嫌多。",
+    title = "How about we shop for some down coats?",
+    content = "How about we shop for some down coats? You can never have too many that are both warm and cute.",
     text_time = 3450
   },
   [140907221] = {
-    content = "有道理！最近的天气实在太冷了……",
+    content = "Smart thinking! I've been freezing in this cold.",
     text_time = 2400
   },
   [140907222] = {
-    content = "我昨天看到薯片小姐关注的那家店上新了。",
+    content = "And get this—I saw that online store you like just dropped a new collection.",
     text_time = 2850
   },
   [140907223] = {
-    content = "我们这就去把最新款情侣羽绒服给拿下！",
+    content = "Let's go get those matching coats!",
     text_time = 2700
   },
   [140907230] = {
-    title = "买一台好看好用的相机",
-    content = "把手持摄像机也加进去吧？我们拍一支甜甜的Vlog嘛。",
+    title = "Let's add a camera to our shopping list!",
+    content = "We should get a good video camera! Come on, let's make an amazing vlog of our trip!",
     text_time = 3900
   },
   [140907231] = {
-    content = "对哦……虽然手机也能用，但相机拍出来的质感毕竟不一样。",
+    content = "Oh, that's a great idea! The video quality would be so much better than a phone.",
     text_time = 4050
   },
   [140907232] = {
-    content = "等剪辑它的时候，我们还能重新体会一遍圣诞假期的快乐。",
+    content = "And the best part is, editing it later will be like reliving our whole Christmas vacation!",
     text_time = 3900
   },
   [140907310] = {
-    title = "听起来特别赞",
-    content = "那就这么说定啦，听起来特别赞。",
+    title = "That sounds so good.",
+    content = "It's settled then! Sounds seriously amazing.",
     text_time = 2250
   },
   [140907311] = {
-    content = "嘿嘿，和薯片小姐度过的每一个假期，都让我有这种感觉！",
+    content = "That's my line! Every day with you feels like a dream come true.",
     text_time = 3900
   },
   [140907312] = {
-    content = "这次旅行，一定也有无数可可爱爱的瞬间在等着我们去遇见。",
+    content = "I can already tell this trip will be full of the cutest, most magical moments.",
     text_time = 4050
   },
   [140907313] = {
-    content = "我已经准备好，接住这份珍贵的记忆礼物了。",
+    content = "I can't wait to make all those memories with you.",
     text_time = 3000
   },
   [140907320] = {
-    title = "我们什么时候出发采购？",
-    content = "那你什么时候回来呀，我们立马出发大采购！",
+    title = "When can we get going?",
+    content = "So when can you get here? I'm ready to go the second you arrive!",
     text_time = 3000
   },
   [140907321] = {
-    content = "报告，已经在家楼下了。",
+    content = "I'm here! Just downstairs.",
     text_time = 1650
   },
   [140907322] = {
-    content = "刚才遇到卖花的伯伯，耽误了一点时间。",
+    content = "Got a little delayed by the sweet old man with his flower cart.",
     text_time = 2700
   },
   [140907323] = {
-    content = "我马上就带着漂亮的鲜花和专属笑容上来见薯片小姐！",
+    content = "Coming up right now with flowers... and me!",
     text_time = 3600
   },
   [140907330] = {
-    title = "想立马穿越到明天",
-    content = "呜呜，能不能发明一台时光机，让我立马穿越到明天？",
+    title = "I need to be in tomorrow, like, now.",
+    content = "Can someone please invent a time machine? I need to be in tomorrow, like, right now.",
     text_time = 3600
   },
   [140907331] = {
-    content = "哈哈，意思是要跳过出发前的十几个小时吗？可我们在一起的一分一秒都很珍贵。",
+    content = "Whoa, trying to skip our pre-trip date? Not on my watch!",
     text_time = 5400
   },
   [140907332] = {
-    content = "放心，我也给今晚安排了丰富的约会行程，保证不会让你失望。",
+    content = "I've got the whole evening planned, and I promise it'll be worth the wait.",
     text_time = 4200
   },
   [140907333] = {
-    content = "至于时光机，还是留给以后依偎在一起回顾过去的我们吧～",
+    content = "We can use a time machine later to relive it all over again.",
     text_time = 3900
   },
   [140908000] = {
-    content = "楼下“圣诞老人”送我们的香松，我已经放在窗台边了。",
+    content = "I put the fragrant pine from our \"Santa\" downstairs on the windowsill.",
     text_time = 3750
   },
   [140908110] = {
-    title = "今天好幸运",
-    content = "嘿嘿，没想到随便逛逛也能被送礼物，今天好幸运。",
+    title = "Feels like a lucky day.",
+    content = "Wow, how lucky! A surprise gift like that totally made my day.",
     text_time = 3450
   },
   [140908111] = {
-    content = "圣诞老人说它是送给圣诞节最般配情侣的。",
+    content = "He said it was for the nicest couple he's seen all day.",
     text_time = 2850
   },
   [140908112] = {
-    content = "所以，我们一定能拿到。",
+    content = "Obviously, he meant us.",
     text_time = 1650
   },
   [140908113] = {
-    content = "我刚才认真读了香松养护指南，这次争取不做“植物杀手”。",
+    content = "I've already read through the care guide. I'm determined to break my streak of being a plant killer.",
     text_time = 4050
   },
   [140908120] = {
-    title = "香松不太好照顾呢",
-    content = "不过香松好像比较难养呢，很多人都照顾不好。",
+    title = "I read they can be a bit tricky.",
+    content = "I've heard these can be a little tricky to take care of, to be honest.",
     text_time = 3150
   },
   [140908121] = {
-    content = "我下午搜了一些资料。",
+    content = "I did a deep dive on that this afternoon.",
     text_time = 1500
   },
   [140908122] = {
-    content = "网上提到的注意事项，我都写在本子里了。",
+    content = "Wrote down all the key tips in my notebook.",
     text_time = 2850
   },
   [140908123] = {
-    content = "我还留了一些空白部分待你补充。",
+    content = "I even left some pages blank for your notes.",
     text_time = 2250
   },
   [140908130] = {
-    title = "我也放在窗边啦",
-    content = "我也放在窗边啦，希望它能够茁壮成长！",
+    title = "Mine's on the windowsill too!",
+    content = "Mine's on the windowsill too! Fingers crossed it thrives!",
     text_time = 2700
   },
   [140908131] = {
-    content = "嗯，资料上说，这个位置能够让植物有效吸收阳光。",
+    content = "That's the perfect spot. The care guide says it needs good light.",
     text_time = 3450
   },
   [140908132] = {
-    content = "只要再定时浇水除虫……",
+    content = "If we can stay on top of watering and pests...",
     text_time = 1650
   },
   [140908133] = {
-    content = "即使没能“茁壮成长”，活下来应该不是什么问题。",
+    content = "\"Thriving\" is the goal, but honestly, I'd be happy if we just keep it alive.",
     text_time = 3450
   },
   [140908210] = {
-    title = "去花草市场买养料吧！",
-    content = "我们不是要去花草市场买圣诞树嘛，到时候顺便问问卖家？",
+    title = "Let's go pick up some plant food from the market!",
+    content = "We need to go to the flower market for the Christmas tree anyway. We can ask the sellers for plant care tips while we're there.",
     text_time = 3900
   },
   [140908211] = {
-    content = "好，那些卖家怎么说也和植物打了很久交道了。",
+    content = "Good idea. They'll have the real-world experience.",
     text_time = 3150
   },
   [140908212] = {
-    content = "我们可以先打听几种常见病症的应对方法。",
+    content = "We should ask about the most common problems and how to fix them.",
     text_time = 2850
   },
   [140908213] = {
-    content = "如果它日后生病，至少我们不会手忙脚乱的。",
+    content = "Being prepared now will save us a headache later.",
     text_time = 3000
   },
   [140908220] = {
-    title = "我来给香松唱歌",
-    content = "听说植物也需要陶冶情操呢，我来给它唱首铃儿响叮当吧~",
+    title = "I'm going to sing to our plant!",
+    content = "Time to set the mood with some music! I'll treat it to a live performance of \"Jingle Bells\"!",
     text_time = 3900
   },
   [140908221] = {
-    content = "好像听歌长大的植物是会更健康。",
+    content = "I think I read somewhere that music can help plants grow.",
     text_time = 2250
   },
   [140908222] = {
-    content = "我去把智能音箱打开，让它先熟悉熟悉这首歌。",
+    content = "I'll get the speaker. Let's give our plant a proper soundcheck.",
     text_time = 3150
   },
   [140908223] = {
-    content = "今天平安夜，和我一起当你的最佳听众。",
+    content = "And on this Christmas Eve, I'll be its fellow audience member.",
     text_time = 2700
   },
   [140908230] = {
-    title = "给它取个名字吧",
-    content = "那我们给香松取个名字吧，长寿点的qvq",
+    title = "Let's give it a name!",
+    content = "Let's give it a name! Pick a strong one that'll help it live a long life!",
     text_time = 2850
   },
   [140908231] = {
-    content = "其实我觉得小松就很好，很有家里一贯的风格。",
+    content = "I was thinking \"Pine\" actually works. It's simple and straightforward.",
     text_time = 3150
   },
   [140908232] = {
-    content = "但如果要长寿点……",
+    content = "But if we're aiming for longevity...",
     text_time = 1350
   },
   [140908233] = {
-    content = "要不，大松吧。",
+    content = "How about \"The Mighty Pine\"?",
     text_time = 1050
   },
   [140908310] = {
-    title = "祈祷节日之神的眷顾",
-    content = "好诶！那我立刻闭眼祈祷，希望节日之神能够眷顾我们的这盆小植物QAQ",
+    title = "Praying for the Christmas angels' blessing.",
+    content = "Perfect! I'm making a wish to the Christmas angels right now, asking them to watch over our little plant!",
     text_time = 4950
   },
   [140908311] = {
-    content = "现在我也闭上眼睛了。",
+    content = "My eyes are closed too. I'm making the same wish.",
     text_time = 1500
   },
   [140908312] = {
-    content = "从过往经验看，我们一起祈祷的总会实现。",
+    content = "It feels like when we hope for things together, they really do come true.",
     text_time = 2850
   },
   [140908313] = {
-    content = "有空的时候，我们可以规划明年给它挂上什么圣诞装饰了。",
+    content = "We could even start thinking about what Christmas decorations to get for it next year.",
     text_time = 3900
   },
   [140908320] = {
-    title = "睡前能做的事又多了一件",
-    content = "平安夜的第一项任务，是将“给小香松浇水”正式加入睡前待办清单~",
+    title = "Well, add one more item to my nightly ritual.",
+    content = "And just like that, \"water the pine\" is now a sacred part of my bedtime routine.",
     text_time = 4650
   },
   [140908321] = {
-    content = "我的待办清单也多了一条：每日观察小香松的健康状态。",
+    content = "I'm adding a sacred duty too: \"Perform daily wellness check on the pine.\"",
     text_time = 3750
   },
   [140908322] = {
-    content = "一旦出现异常，我会立马上报。",
+    content = "I'll report any issues for your review.",
     text_time = 2100
   },
   [140908323] = {
-    content = "等待$u长官给它实施抢救措施。",
+    content = "Then you can take charge of the life-saving procedures, boss.",
     text_time = 2250
   },
   [140908330] = {
-    title = "又迎来了新的家庭成员",
-    content = "没想到圣诞夜家里又多了一位成员，欢迎香松！",
+    title = "A new family member on Christmas Eve!",
+    content = "Our family's growing this Christmas! Welcome to the family, little pine!",
     text_time = 3150
   },
   [140908331] = {
-    content = "再过一段时间，窗边大概就真的要没位置了。",
+    content = "We might need to expand our window space soon.",
     text_time = 3000
   },
   [140908332] = {
-    content = "明天一起去趟家具店，再买面玻璃柜吧。",
+    content = "Let's go find a new display cabinet tomorrow.",
     text_time = 2700
   },
   [140908333] = {
-    content = "载有我们记忆的“新成员”，都该被放在一眼能看到的地方。",
+    content = "All these little things that hold our memories deserve to be somewhere we can see them every day.",
     text_time = 4050
   },
   [140909000] = {
-    content = "你想要的水晶球已经在我家了，什么时候来拿？",
+    content = "I got that crystal ball you wanted. It's at my place.",
     text_time = 3150
   },
   [140909110] = {
-    title = "嗯嗯？？什么水晶球？",
-    content = "嗯嗯？？什么水晶球？",
+    title = "Wait, what crystal ball?",
+    content = "Huh? What crystal ball are you talking about?",
     text_time = 1500
   },
   [140909111] = {
-    content = "别装傻，开售前有些人念了一整天。",
+    content = "Cut the act. You were going on about it for ages.",
     text_time = 2400
   },
   [140909112] = {
-    content = "昨天排练结束路过杂货店，我进去随便看了看。",
+    content = "I stopped by that shop after my session yesterday.",
     text_time = 3150
   },
   [140909113] = {
-    content = "运气挺好，正好买到最后一个。",
+    content = "Somehow, they had one left.",
     text_time = 2100
   },
   [140909120] = {
-    title = "原来你给我准备惊喜去了",
-    content = "你竟然买到了！昨天视频里你“支支吾吾”的，原来是想给我惊喜~",
+    title = "So that was the surprise!",
+    content = "Aww, you got it! I knew you were hiding something during our call!",
     text_time = 4500
   },
   [140909121] = {
-    content = "你从哪看出来“支支吾吾”的？我都把杂货店门牌怼镜头上了。",
+    content = "Hiding? I practically gave you the store layout.",
     text_time = 4200
   },
   [140909122] = {
-    content = "明明是有人心不在焉。",
+    content = "Your attention was just... elsewhere.",
     text_time = 1500
   },
   [140909123] = {
-    content = "耳朵眼睛全黏着电视剧，嗯嗯两声就给我敷衍过去了。",
+    content = "Too busy with your show to listen to a word I said.",
     text_time = 3600
   },
   [140909130] = {
-    title = "你竟然帮我去买了",
-    content = "哇，你先别拍照给我看，让我猜猜你选了哪一款……",
+    title = "You went and got it!?",
+    content = "Don't tell me! I want to guess which one you got...",
     text_time = 3450
   },
   [140909131] = {
-    content = "这还用猜？你丢在收藏夹里的不是只有限定款？",
+    content = "It's obvious. The limited edition was the only one you favorited.",
     text_time = 3150
   },
   [140909132] = {
-    content = "眼光不错，是比其他的要好看多了。",
+    content = "Not a bad pick. The detail is a lot better.",
     text_time = 2400
   },
   [140909133] = {
-    content = "毕竟会模拟打雷下雨的设计可不多见。",
+    content = "The lightning and rain effect is what sold me on it, too.",
     text_time = 2550
   },
   [140909210] = {
-    title = "我记得有人之前还吐槽过它哦",
-    content = "我记得你之前还吐槽过它，突然带回家是不是有点口是心非^ ^",
+    title = "Someone was dissing this not long ago.",
+    content = "Someone was totally dissing this not long ago. Having a change of heart?",
     text_time = 4350
   },
   [140909211] = {
-    content = "吐槽是因为商家玩饥饿营销，和水晶球有什么关系。",
+    content = "I was dissing the business tactic. The ball itself is fine.",
     text_time = 3450
   },
   [140909212] = {
-    content = "而且，要不是你说“拿我最想要的换你最想要的”，我也没兴趣排那长队。",
+    content = "And you're the one who offered a trade. I was just holding up my end of the deal.",
     text_time = 4950
   },
   [140909213] = {
-    content = "既然你有礼物了，现在该轮到我那份了吧。下午想去哪陪我过节？",
+    content = "You got what you wanted. Now it's my turn. So, what's the plan?",
     text_time = 4350
   },
   [140909220] = {
-    title = "嘿嘿，凌肖你懂我",
-    content = "嘿嘿，凌肖你懂我~",
+    title = "Heh, you know me too well, Shaw.",
+    content = "Heh, you know me too well, Shaw.",
     text_time = 1350
   },
   [140909221] = {
-    content = "要是真错过了，有些人又要开始难受。",
+    content = "It was easier than listening to you mope about it later.",
     text_time = 2550
   },
   [140909222] = {
-    content = "与其到时候听你念叨，还不如帮你解决了。",
+    content = "Call it a preventative measure.",
     text_time = 2850
   },
   [140909223] = {
-    content = "现在安心了，是不是可以想想等会儿去哪儿过节了？",
+    content = "So, are you gonna decide where we're going?",
     text_time = 3450
   },
   [140909230] = {
-    title = "我来找你和水晶球出发过节",
-    content = "那你和水晶球一起在家等我吧，我来找你们~",
+    title = "I'm coming to get you both!",
+    content = "Wait for me at home with my crystal ball! I'm coming to get you both!",
     text_time = 3000
   },
   [140909231] = {
-    content = "今天市区有节日集市，路上人挤人的，等你过来天都黑了。",
+    content = "The streets are a mess. It'll take you forever to get here.",
     text_time = 3900
   },
   [140909232] = {
-    content = "还是我来找你吧。放心，会带上这份你心心念念的礼物。",
+    content = "I'm coming to you. I've got your... thing.",
     text_time = 3750
   },
   [140909233] = {
-    content = "趁这工夫，你先想想接下来要去哪玩。",
+    content = "You decide where we're going.",
     text_time = 2550
   },
   [140909310] = {
-    title = "我已经把路线图写好了",
-    content = "我已经把路线图写好了，你只管跟着我享受就好～",
+    title = "Don't worry, I've got the route planned.",
+    content = "Don't worry, I've got the route planned. Just kick back and enjoy the ride.",
     text_time = 3300
   },
   [140909311] = {
-    content = "这话看着眼熟",
+    content = "Hey, that's my line.",
     text_time = 900
   },
   [140909312] = {
-    content = "在模仿我语气这方面，你好像越来越轻车熟路了？",
+    content = "You're starting to sound like me.",
     text_time = 3300
   },
   [140909313] = {
-    content = "行啊，那今晚就期待一下你说的安排。",
+    content = "Alright, I'm curious. What did you plan for us?",
     text_time = 2550
   },
   [140909320] = {
-    title = "想去没人的地方",
-    content = "想去没人的地方，听说市里已经挤得水泄不通了……",
+    title = "I'd rather avoid the crowds.",
+    content = "I'd rather avoid the crowds. The city is packed...",
     text_time = 3450
   },
   [140909321] = {
-    content = "行，那就去郊外的场地。",
+    content = "Deal. Let's get out of town.",
     text_time = 1650
   },
   [140909322] = {
-    content = "今天去说不定还能遇上骑着雪橇的圣诞老人。",
+    content = "With our luck, we might run into Santa.",
     text_time = 3000
   },
   [140909323] = {
-    content = "正好我也好奇，是他载满礼物的驯鹿快，还是我们的车速更快。",
+    content = "Let's see if his sleigh can keep up.",
     text_time = 4200
   },
   [140909330] = {
-    title = "不出门好像也可以",
-    content = "不出门好像也可以……我们窝在家里看电影的幸福感也很高！！",
+    title = "Honestly, a night in sounds great too!",
+    content = "Honestly, a night in sounds great too! We can just binge-watch movies.",
     text_time = 4200
   },
   [140909331] = {
-    content = "你都这么说了，那我绕路去买点吃的回来。",
+    content = "Not arguing with that. I'll go grab some takeout.",
     text_time = 2850
   },
   [140909332] = {
-    content = "你先选着片单吧。",
+    content = "You start the movie list.",
     text_time = 1200
   },
   [140909333] = {
-    content = "等你找齐五部电影，我差不多就能提着可乐和炸鸡出现在你家门口了。",
+    content = "By the time you've picked a few, I'll be back with food.",
     text_time = 4650
   }
 }

@@ -1,1099 +1,1087 @@
 module("short_msg_text14088", package.seeall)
 data = {
   [140880000] = {
-    content = "刚从老头办公室出来。你给我发一串问号是什么意思？",
+    content = "I've only just left the old man's office. Why did you send me a row of question marks?",
     text_time = 3600
   },
   [140880110] = {
-    title = "一个小小的提醒",
-    content = "我在提醒这位急着上早八的朋友，是不是错装了什么东西？",
+    title = "A little reminder.",
+    content = "I'm offering a reminder to my friend who's in a hurry to get to his first-morning class: Did you bag the wrong thing?",
     text_time = 3900
   },
-  [140880111] = {
-    content = "没有啊。",
-    text_time = 600
-  },
+  [140880111] = {content = "I didn't.", text_time = 600},
   [140880112] = {
-    content = "我包里就两样东西。",
+    content = "I got only two things in my bag.",
     text_time = 1350
   },
   [140880113] = {
-    content = "一台笔记本，还有昨晚被你摔碎的眼影盘。",
+    content = "My laptop, and the eyeshadow palette you broke last night.",
     text_time = 2850
   },
   [140880120] = {
-    title = "你有没有看到柜子上的眼影盘",
-    content = "你看到柜子上的眼影盘了吗？就是昨天晚上你摔碎的那个。",
+    title = "Did you see the eyeshadow palette on the cabinet?",
+    content = "Did you see the eyeshadow palette on the cabinet? The one you broke last night?",
     text_time = 3900
   },
-  [140880121] = {content = "？", text_time = 150},
+  [140880121] = {content = "?", text_time = 150},
   [140880122] = {
-    content = "给你五秒钟时间回忆清楚到底是谁干的。",
+    content = "You have five seconds to recall who did that.",
     text_time = 2700
   },
   [140880123] = {
-    content = "毕竟我手上只有你摔碎的那一盘。",
+    content = "Because I only have the one you broke.",
     text_time = 2250
   },
   [140880130] = {
-    title = "是不是你关了我的闹钟",
-    content = "是不是你关了我的闹钟！我还想早点起来，把昨天晚上的垃圾收拾一下呢。",
+    title = "Did you turn off my alarm clock?",
+    content = "Did you turn off my alarm clock?! I meant to get up early to clear away the garbage from last night.",
     text_time = 4950
   },
   [140880131] = {
-    content = "你那一排闹钟吵到我眼睛了。况且就算你起来，还不是在床上做“蛄蛹者”？",
+    content = "My eyes found your row of alarm clocks noisy. Besides, even if you were woken, you would've still stayed in bed like a pupa.",
     text_time = 5100
   },
   [140880132] = {
-    content = "毕竟但凡你起来看一眼，就知道垃圾我全都带走了。",
+    content = "Apart from anything else, if you had so much as glanced at the floor, you would've noticed I'd disposed of all the trash.",
     text_time = 3450
   },
   [140880133] = {
-    content = "哦对，还有你昨晚摔碎的眼影盘。",
+    content = "Oh, including the eyeshadow palette you broke last night.",
     text_time = 2250
   },
   [140880210] = {
-    title = "你拿眼影盘干嘛",
-    content = "你把我的眼影盘带去学校干嘛？",
+    title = "What do you want with my eyeshadow palette?",
+    content = "Why are you taking my eyeshadow palette to school?",
     text_time = 2100
   },
   [140880211] = {
-    content = "昨天有些人摔了眼影盘之后嗷嗷叫唤了一晚上。",
+    content = "Yesterday someone boohooed for the whole night after breaking their eyeshadow palette.",
     text_time = 3150
   },
   [140880212] = {
-    content = "为了我的耳朵着想，我问老头借了点设备。",
+    content = "For the sake of my ears, I borrowed some equipment from the old man.",
     text_time = 2850
   },
   [140880213] = {
-    content = "马上就把它修复好还你。",
+    content = "I'll restore it and return it to you in no time.",
     text_time = 1650
   },
   [140880220] = {
-    title = "手下留盘！",
-    content = "虽然它摔碎了但还能救一下，你不要扔了啊！！！",
+    title = "Spare my palette!",
+    content = "It's broken but not irreparable. Don't throw it away!!!",
     text_time = 3300
   },
   [140880221] = {
-    content = "晚了。那个塑料壳可是被你摔到地上还踩了一脚。",
+    content = "Too late. You hurled the plastic coating to the floor and even stamped on it.",
     text_time = 3300
   },
   [140880222] = {
-    content = "碎得太严重，已经被我扔了。",
+    content = "It's beyond repair. I've thrown it away.",
     text_time = 1950
   },
   [140880223] = {
-    content = "不过你的眼影还在，修复好就能放到新盘里。",
+    content = "But your eyeshadow survived. It can be put into a new palette after restoration.",
     text_time = 3000
   },
   [140880230] = {
-    title = "我打算联系修复博主",
-    content = "你晚上记得把它带回来啊，我还想联系个修复博主帮我修修呢！",
+    title = "I plan to contact a restoration vlogger.",
+    content = "Remember to bring it back tonight. I'm thinking of having a restoration vlogger fix it for me!",
     text_time = 4200
   },
   [140880231] = {
-    content = "啧，修复这一行，要找就找最厉害的。",
+    content = "Tsk, if you want something fixed, you should go to the best practitioner.",
     text_time = 2550
   },
   [140880232] = {
-    content = "比起那些人，你不如想想怎么求我。",
+    content = "Compared with contacting those people, figuring out a way to convince me would be a better choice for you.",
     text_time = 2400
   },
   [140880233] = {
-    content = "正好老头的修复间有工具，我可以考虑帮你一把。",
+    content = "The old man happens to have some tools in his restoration room. I might consider helping you out.",
     text_time = 3300
   },
   [140880310] = {
-    title = "你竟然会修复这个",
-    content = "你竟然还会修复眼影盘？",
+    title = "You actually know how to restore this thing?",
+    content = "You actually know how to restore an eyeshadow palette?",
     text_time = 1650
   },
-  [140880311] = {
-    content = "我不会。",
-    text_time = 600
-  },
+  [140880311] = {content = "I don't.", text_time = 600},
   [140880312] = {
-    content = "不过这种东西，搜几个修复视频看两眼不就行了？",
+    content = "But I will after watching a couple of videos about restoring this kind of stuff.",
     text_time = 3300
   },
   [140880313] = {
-    content = "比修复陶器古画容易多了。",
+    content = "It's much easier than restoring pottery or ancient paintings.",
     text_time = 1800
   },
   [140880320] = {
-    title = "大恩不言谢",
-    content = "好耶，大恩不言谢！",
+    title = "I'm deeply indebted to you.",
+    content = "That's fantastic! I'm deeply indebted to you.",
     text_time = 1350
   },
   [140880321] = {
-    content = "我只接受修复之恩以人相报。",
+    content = "The only repayment for my restoration service I'll accept is servitude.",
     text_time = 1950
   },
   [140880322] = {
-    content = "正好这里还缺个修复助理，我看你挺合适。",
+    content = "I happen to be short of a restoration assistant. You strike me as a suitable candidate.",
     text_time = 2850
   },
   [140880323] = {
-    content = "赶快过来，一起吃完午饭就开工。",
+    content = "Get over here. We'll start after lunch.",
     text_time = 2250
   },
   [140880330] = {
-    title = "不瞒你说我那还有",
-    content = "不瞒你说，我那里还有一二三四个化妆品需要修复……",
+    title = "Truth be told, I got some more.",
+    content = "Truth be told, I got another couple of make-up tools that need repairing…",
     text_time = 3600
   },
   [140880331] = {
-    content = "你当我开修复店的啊？",
+    content = "Do you take me for a repairman?",
     text_time = 1500
   },
   [140880332] = {
-    content = "帮你全修好也行。",
+    content = "I'm okay with repairing them for you.",
     text_time = 1200
   },
   [140880333] = {
-    content = "不过报酬得我说了算。",
+    content = "But I'll decide how I shall be repaid.",
     text_time = 1500
   },
   [140881000] = {
-    content = "现在这个季节，小镇风景正好，似乎比$u想象得更适合约会。",
+    content = "The scenery in town is perfect this season—more suitable for a date than $u imagined.",
     text_time = 4200
   },
   [140881110] = {
-    title = "是发现什么新地方了吗？",
-    content = "许教授是发现了什么适合约会的新地方吗？",
+    title = "You found a new place?",
+    content = "Did you find a new place for dating, Professor Lucien?",
     text_time = 2850
   },
   [140881111] = {
-    content = "只是沿着你推荐过的路线细细地又走了一遍，意外发现了几处你可能会喜欢的地方。",
+    content = "I just revisited the route you recommended. I took in the details and found a few new spots that you might be interested in.",
     text_time = 5550
   },
   [140881112] = {
-    content = "从小镇往下走有一条隐蔽的山石隧道，里面的光影很漂亮。",
+    content = "There is a secret rocky tunnel if you head down from the town. The view is gorgeous inside.",
     text_time = 3900
   },
   [140881113] = {
-    content = "隧道的出口处指向两家小店，往左通往海边的书店，另一边则是中古店。",
+    content = "The tunnel leads to two shops—to the left is a bookstore by the sea, and to the right is a vintage boutique.",
     text_time = 4800
   },
   [140881120] = {
-    title = "听起来许教授想我了。",
-    content = "听上去像是许教授在说——“想和我一起约会了”。",
+    title = "Sounds like you miss me.",
+    content = "It sounds like you're saying—\"I want a date with you.\"",
     text_time = 3450
   },
   [140881121] = {
-    content = "果然还是被聪明的制作人小姐一眼识破了^ ^",
+    content = "I knew our clever producer would get it right away. ^ ^",
     text_time = 3150
   },
   [140881122] = {
-    content = "从小镇下的山石隧道出发，走到沿海的书店，附近还有几家不错中古店。",
+    content = "If we head down from the town and pass the rocky tunnel, we'll reach a seaside bookstore and some nice vintage boutiques.",
     text_time = 4800
   },
   [140881123] = {
-    content = "不知道这样子的路线能否打动制作人小姐呢？",
+    content = "Will you be interested in a route like this, Miss Producer?",
     text_time = 3000
   },
   [140881130] = {
-    title = "为什么要配上现在的季节？",
-    content = "为什么要搭配上现在的季节，是有什么说法吗？",
+    title = "Why perfect for this season?",
+    content = "Why is it perfect for this season?",
     text_time = 3150
   },
   [140881131] = {
-    content = "因为现在的温度刚好，即便一起散步很久，也不会令$u太热。",
+    content = "Because the temperature is perfect. It won't be too warm for $u even if we take a long walk.",
     text_time = 4200
   },
   [140881132] = {
-    content = "也可以一直牵着你的手，在悠长的山石隧道里慢慢搜寻那些你会喜欢的季节元素。",
+    content = "I can hold your hand as we take our time exploring those season symbols you like in the narrow, winding rocky tunnel.",
     text_time = 5400
   },
   [140881133] = {
-    content = "而且隧道出口处还连接着海边书店和一处隐蔽的中古店，或许也会有一些小秘密。",
+    content = "The tunnel leads to a seaside bookstore and a secret vintage boutique. We might find some fun secrets there.",
     text_time = 5400
   },
   [140881210] = {
-    title = "山石隧道？",
-    content = "我从来没有注意过，那边还有山石隧道唉！",
+    title = "A rocky tunnel?",
+    content = "I've never noticed that there is a rocky tunnel there!",
     text_time = 2850
   },
   [140881211] = {
-    content = "我也是被隧道里传出的笛声所吸引，恰好是我们一起听过的歌。",
+    content = "I heard the sound of a flute and followed it to the tunnel. It was a song we listened to together.",
     text_time = 4200
   },
   [140881212] = {
-    content = "里面飘进了不少已经红了的枫叶，我拍了许多照片。",
+    content = "Inside were red maple leaves that drifted in with the wind. I took a lot of pictures.",
     text_time = 3450
   },
   [140881213] = {
-    content = "本想要立刻发给你，但是又更想带着你亲眼来看看，或许会拍下更美丽的照片。",
+    content = "I was going to send them to you, but I thought it would be better if you saw it yourself and took even more beautiful photos.",
     text_time = 5250
   },
   [140881220] = {
-    title = "中古店？",
-    content = "！这个小镇上竟然有中古店，卖什么的呀？",
+    title = "A vintage boutique?",
+    content = "There is a vintage boutique in town? What do they sell?",
     text_time = 2850
   },
   [140881221] = {
-    content = "我只进去随便逛了一下，里面的货品比较丰富。",
+    content = "I only looked around for a bit. They had a wide range of items.",
     text_time = 3150
   },
   [140881222] = {
-    content = "既有充满历史痕迹的首饰珠宝，也有一些老旧的画报和油画，都被好好保存着。",
+    content = "From a collection of old jewelry to posters and oil paintings, all are kept in careful custody.",
     text_time = 5250
   },
   [140881223] = {
-    content = "店主说每一件东西都有一个小故事，到时候我们可以一起来挑选些有趣的东西。",
+    content = "The owner told me that each item has a story to tell. We can visit again together and see what intrigues us.",
     text_time = 5250
   },
   [140881230] = {
-    title = "海边书店？",
-    content = "邻海的那间书店开门了吗？哇，之前好像一直在休业。",
+    title = "A seaside bookstore?",
+    content = "Is the seaside bookstore open? Wow, it was closed every time I went there.",
     text_time = 3600
   },
   [140881231] = {
-    content = "嗯，我本来也只是抱着去看看的心态，但是意外地好像成为了重新开业后的第一位的外国客人。",
+    content = "Yeah, I thought I'd try my luck and then just became its first customer from overseas since its reopening.",
     text_time = 6300
   },
   [140881232] = {
-    content = "店主新装了一个CD区，带上耳机可以一边在室内看书，一边听到海的声音。",
+    content = "The owner added a CD section. Now we can put on headphones and read the books while listening to the sea.",
     text_time = 5100
   },
   [140881233] = {
-    content = "他还非常热情地送了我一张黑胶，可以等你回家后，我们一起听。",
+    content = "He even gifted me a vinyl record. We can listen to it together after you come home.",
     text_time = 4350
   },
   [140881310] = {
-    title = "这样子的生活好惬意啊。",
-    content = "这种生活好惬意啊，许教授是不是爱上了？",
+    title = "Sounds so cozy.",
+    content = "It sounds so cozy to live in that town. Are you tempted, Professor Lucien?",
     text_time = 2850
   },
   [140881311] = {
-    content = "的确，这种简单的瞬间往往十分打动人心。",
+    content = "I am. Simple moments like this can be so relaxing sometimes.",
     text_time = 2850
   },
   [140881312] = {
-    content = "但是没有这位小姐一起共享的时候，似乎又缺了一些关键的色彩。",
+    content = "But if I can't share the moments with Miss Producer, they will lose that charm.",
     text_time = 4350
   },
   [140881313] = {
-    content = "我想，只有和你在一起，这种惬意才足够让人流连忘返吧。",
+    content = "I think a cozy life is only tempting when I share it with you.",
     text_time = 3900
   },
   [140881320] = {
-    title = "我这就来！",
-    content = "我这里的事情已经结束了，许教授在哪里？我来找你吧！",
+    title = "I'll be there soon!",
+    content = "My work here is done. Where are you, Professor Lucien? I'll come find you.",
     text_time = 3750
   },
   [140881321] = {
-    content = "不如$u把定位发给我吧，我们可以朝着同一个方向出发。",
+    content = "Why don't you send me your location, $u? Let's meet halfway.",
     text_time = 3900
   },
   [140881322] = {
-    content = "这样你也不会错过路上的美好。",
+    content = "This way, you'll have time to take in the beautiful scenery.",
     text_time = 2100
   },
   [140881323] = {
-    content = "慢慢走就好，因为我们的时间还有很长，而我一定会出现在你的眼前。",
+    content = "Just take your time. We have plenty of time together, and I'll always be there for you.",
     text_time = 4650
   },
   [140881330] = {
-    title = "许教授真是有一双善于发现的眼睛。",
-    content = "感觉许教授真是有一双善于发现的眼睛呀。",
+    title = "You have an eye for beauty.",
+    content = "You have such an eye for beauty, Professor Lucien.",
     text_time = 2850
   },
   [140881331] = {
-    content = "这些品味小小美好的能力，都是因为有你这么好的老师在我的生活中。",
+    content = "I only learned to notice small details in life from you. You're the best teacher I have.",
     text_time = 4650
   },
   [140881332] = {
-    content = "或者说，这双“眼睛”，是因为$u才变得如此善于发现的。",
+    content = "Or rather, I only have an eye for beauty because of you, $u.",
     text_time = 4050
   },
   [140881333] = {
-    content = "一旦想到你，就自然而然想把一切美好都带给你。",
+    content = "Whenever I think of you, I think of all the beautiful things I can show you.",
     text_time = 3300
   },
   [140882000] = {
-    content = "我有个快递到家了，辛苦你回家之后拆一下，然后收到柜子里。",
+    content = "My package arrived. Can you open it and put what's inside in the cupboard for me when you get home?",
     text_time = 4200
   },
   [140882110] = {
-    title = "居然有我帮你签收的一天！",
-    content = "没想到居然有我帮你签收快递的一天！",
+    title = "Can't believe I'm signing for you!",
+    content = "I can't believe I'm signing for you this time!",
     text_time = 2550
   },
   [140882111] = {
-    content = "以前帮你签收了不少奇奇怪怪的东西，现在算是立场倒换了。",
+    content = "I signed for a lot of weird packages for you before. Guess the tables have turned.",
     text_time = 4050
   },
   [140882112] = {
-    content = "里面是一套水晶香槟杯，注意开箱子的方向。",
+    content = "It's a set of crystal champagne glasses, so be careful when you open the box.",
     text_time = 3000
   },
   [140882113] = {
-    content = "也注意布丁。",
+    content = "And watch out for Pudding.",
     text_time = 900
   },
   [140882120] = {
-    title = "是什么东西呀？",
-    content = "哦？我们李总买了什么好东西呀？",
+    title = "What did you buy?",
+    content = "Oh? What did you buy, Mr. Victor?",
     text_time = 2250
   },
   [140882121] = {
-    content = "一套水晶香槟杯。",
+    content = "A set of crystal champagne glasses.",
     text_time = 1200
   },
   [140882122] = {
-    content = "我很喜欢这家店的切割工艺，刚好老板也有空，就定制了两只。",
+    content = "I like how the shop processes glasses, and they happened to have time, so I ordered two.",
     text_time = 4200
   },
   [140882123] = {
-    content = "你应该也会喜欢它的花纹。",
+    content = "You'll like the patterns, too.",
     text_time = 1800
   },
   [140882130] = {
-    title = "不辛苦~不过要怎么收它呢？",
-    content = "不辛苦~不过要怎么收拾它呢？",
+    title = "Sure, not a problem. But, where should I put it?",
+    content = "Sure, not a problem. But, where should I put it?",
     text_time = 2100
   },
   [140882131] = {
-    content = "里面是一套水晶香槟杯，放到平时放酒杯的柜子里就好。",
+    content = "It's a set of crystal champagne glasses. Just put them where I put my wine glasses.",
     text_time = 3750
   },
   [140882132] = {
-    content = "不用放得很靠后，过几天还有一支不错的香槟会送到。",
+    content = "No need to shove them in the back. A nice bottle of champagne is arriving in a few days.",
     text_time = 3600
   },
   [140882133] = {
-    content = "到时候能直接用上。",
+    content = "The glasses will come in use soon.",
     text_time = 1350
   },
   [140882210] = {
-    title = "好奇它的价格",
-    content = "李总，我有点好奇让你专门买回来的香槟杯值多少钱。",
+    title = "Curious about the price.",
+    content = "Mr. Victor, I'm a little curious about how much you spent on the champagne glasses you had made.",
     text_time = 3600
   },
   [140882211] = {
-    content = "几千而已。",
+    content = "Just a few grand.",
     text_time = 750
   },
   [140882212] = {
-    content = "不过制作它的工坊只接熟人的单子，确实有一些拍卖价值。",
+    content = "But the workshop that made them only takes orders from their regulars, so they may sell for a good price.",
     text_time = 3900
   },
   [140882213] = {
-    content = "如果你实在好奇，我可以让人估个价。",
+    content = "If you are really curious, I can ask someone to give you a rough estimate?",
     text_time = 2550
   },
   [140882220] = {
-    title = "让我好好鉴赏一下……",
-    content = "听上去好高级的样子……让我来好好鉴赏一下！",
+    title = "I'll take a better look...",
+    content = "They sound so exquisite. I'll take a better look...",
     text_time = 3150
   },
   [140882221] = {
-    content = "它在灯光和日光下的表现效果会有一些不同，可以都看看。",
+    content = "They look different indoors and in natural light. You can move them around and compare.",
     text_time = 3900
   },
   [140882222] = {
-    content = "期待看到你的鉴赏小作文。",
+    content = "Look forward to your essay about the glasses.",
     text_time = 1800
   },
   [140882223] = {
-    content = "按你平时发挥的水准，它值得至少八百字。",
+    content = "They deserve at least 800 words if you write in your usual style.",
     text_time = 2850
   },
   [140882230] = {
-    title = "听上去好金贵……",
-    content = "只听你的描述就觉得它好金贵……",
+    title = "Sounds so expensive...",
+    content = "You're making them sound so expensive...",
     text_time = 2250
   },
   [140882231] = {
-    content = "它确实有一定收藏价值。",
+    content = "They do have some collectible value.",
     text_time = 1650
   },
   [140882232] = {
-    content = "不然我也不会专门带回来。",
+    content = "Or I wouldn't have shipped them back.",
     text_time = 1800
   },
   [140882233] = {
-    content = "不过和足够特别的人一起品酒，当然值得用足够好的杯子。",
+    content = "To taste wine with a special someone, fine glasses are a must.",
     text_time = 3900
   },
   [140882310] = {
-    title = "我有点不敢用它了……",
-    content = "被你说得我有点不敢用它了……",
+    title = "I'm afraid to use them now...",
+    content = "I'm afraid to use them now after what you told me...",
     text_time = 2100
   },
   [140882311] = {
-    content = "你平时用的几个杯子身价也和它差不多。",
+    content = "The glasses that you usually use are worth pretty much the same.",
     text_time = 2700
   },
   [140882312] = {
-    content = "招待你吃“大餐”的几套餐具也基本都比它贵。",
+    content = "The cutlery sets that we use at home are more expensive.",
     text_time = 3150
   },
   [140882313] = {
-    content = "你比你想象中胆子更大，不用本末倒置。",
+    content = "You are much bolder than you think, so don't be afraid.",
     text_time = 2700
   },
   [140882320] = {
-    title = "不能今天就用上吗？",
-    content = "不能今天就用上它吗？",
+    title = "Can't we use them today?",
+    content = "Can't we use them today?",
     text_time = 1500
   },
   [140882321] = {
-    content = "……你也可以现在就去挑一支喜欢的酒。",
+    content = "...You can pick a bottle of wine now.",
     text_time = 2700
   },
   [140882322] = {
-    content = "不过我今天回家的时间会比较晚，没空做下酒菜。",
+    content = "But I'll be home late tonight and won't have time to cook anything for the wine.",
     text_time = 3300
   },
   [140882323] = {
-    content = "姑且用水果、奶酪拼盘和生火腿将就一下？",
+    content = "A fruit, cheese and charcuterie plate will do?",
     text_time = 2850
   },
   [140882330] = {
-    title = "要不还是等你回来一起拆吧？",
-    content = "这么特别的杯子，要不还是等你回来一起拆吧？",
+    title = "Should we open it till you're back?",
+    content = "It's such a special set of glasses. Should we open it till you're back?",
     text_time = 3150
   },
   [140882331] = {
-    content = "只是一套杯子而已。总不至于每次我往家里买了什么，都要来一场“拆箱仪式”。",
+    content = "It's just a set of glasses. We're not doing a special unboxing ritual whenever I bring something home.",
     text_time = 5400
   },
   [140882332] = {
-    content = "不过如果你实在很想这么做，记得先把箱子放到不碍事的地方。",
+    content = "But if you really want to wait for me, remember to move the box aside.",
     text_time = 4200
   },
   [140882333] = {
-    content = "免得某人到时候又跟我控诉箱子撞到她。",
+    content = "Or a certain someone would complain again that the box kept bumping into her legs.",
     text_time = 2700
   },
   [140883000] = {
-    content = "我和生科所的同事们还在山里，大概要晚点才能回去了。",
+    content = "I'm still in the mountains with my colleagues from the institute and will be late.",
     text_time = 3750
   },
   [140883110] = {
-    title = "团建效果不错",
-    content = "知道啦，看样子大家在团建时很开心，可以好好多玩一会儿！",
+    title = "The field trip seems fun.",
+    content = "Okay. Seems like you are having fun on the field trip. Take your time and enjoy!",
     text_time = 4050
   },
   [140883111] = {
-    content = "从大家现在的表情来看，这个结论有待商榷。",
+    content = "From the look on their faces, I think that's debatable.",
     text_time = 3000
   },
   [140883112] = {
-    content = "研究员们似乎小看了“爬山”这件事的挑战性，不少人有些体力不支。",
+    content = "The researchers seemed to have underestimated how challenging hiking could be, and a lot of them are exhausted.",
     text_time = 4650
   },
   [140883113] = {
-    content = "现在的他们比起开心，可能更多的是发愁如何从山腰的庙里回去。",
+    content = "Now, instead of having fun, they are probably more worried about how we are going to head down from the mountainside temple.",
     text_time = 4350
   },
   [140883120] = {
-    title = "团建还顺利吗？",
-    content = "这次团建好像比你之前预估的时间久了不少，一切都还顺利吧？",
+    title = "How's the field trip today?",
+    content = "The field trip seems to have taken longer than you estimated. Is everything alright?",
     text_time = 4200
   },
   [140883121] = {
-    content = "前半程还算顺利，只是许多研究员似乎高估了自己的体力。",
+    content = "The first half was alright, but most researchers seemed to have overestimated their stamina.",
     text_time = 3900
   },
   [140883122] = {
-    content = "出发前说好在山顶集合，行程刚刚过半便有不少人掉队。",
+    content = "We agreed to meet up at the peak before the hike. A lot of them fell behind halfway.",
     text_time = 3750
   },
   [140883123] = {
-    content = "只能在附近的庙里休息一下，等体力恢复再下山。",
+    content = "We had to take a break in a nearby temple and head back down after they recovered.",
     text_time = 3300
   },
   [140883130] = {
-    title = "多欣赏一会儿风景",
-    content = "好哦，好不容易去山里团建一次，可以多欣赏一会儿风景~",
+    title = "Take time to enjoy nature.",
+    content = "Alright, you don't usually get to do a field trip in the mountains. Just take your time and enjoy nature.",
     text_time = 3900
   },
   [140883131] = {
-    content = "这里的风景确实很不错，望向远处的山峰时，还有飞鸟恰好飞过。",
+    content = "You're right. The scenery is good. I can see birds flying past when I gaze at the mountain range in the distance.",
     text_time = 4350
   },
   [140883132] = {
-    content = "这些我都一一记录下来了，等晚上回去可以一起看看。",
+    content = "I wrote everything down one by one. I'll share my notes with you when I get back tonight.",
     text_time = 3600
   },
   [140883133] = {
-    content = "不过研究员们可能没有力气欣赏，他们正气喘吁吁地在山腰的庙里休息。",
+    content = "The researchers don't have the strength for it, though. They're panting hard and taking a break in a temple.",
     text_time = 4800
   },
   [140883210] = {
-    title = "当初怎么想到的",
-    content = "噗——既然研究员们不擅长，当初为什么选择爬山作为团建项目啊？",
+    title = "Why did you decide on hiking?",
+    content = "Haha, if the researchers aren't good at hiking, why did they decide to do it in the first place?",
     text_time = 4500
   },
   [140883211] = {
-    content = "其实爬山只是顺便。最近课题组的实验出了几次小意外，很多人有些忐忑。",
+    content = "The hike is just a means to an end. There have been a few incidents with the experiments at the lab. A lot of people are worried.",
     text_time = 4950
   },
   [140883212] = {
-    content = "正巧有人听说这里的“无事牌”很灵验，就想请几块回去挂在实验室里。",
+    content = "Someone heard that the peace plaques here actually work and wanted to take some back to hang in the lab.",
     text_time = 4800
   },
   [140883213] = {
-    content = "刚刚在他们挑选时，我也给你挑了一块檀木无事牌。",
+    content = "I also picked a sandalwood one for you while they bought theirs.",
     text_time = 3450
   },
   [140883220] = {
-    title = "你感觉怎么样？",
-    content = "那你现在感觉怎么样？会不会很累啊？",
+    title = "How are you feeling now?",
+    content = "How are you feeling now? Do you need to take a break?",
     text_time = 2550
   },
   [140883221] = {
-    content = "对我来说，这点运动量还算轻松。",
+    content = "It's like a walk in the park for me.",
     text_time = 2250
   },
   [140883222] = {
-    content = "他们休息的时候，我已经在庙里转了一圈。",
+    content = "I'd taken a look around the temple while they rested.",
     text_time = 2850
   },
   [140883223] = {
-    content = "我发现这里的“无事牌”似乎很受欢迎，就帮你挑了一块檀木的。",
+    content = "I noticed the peace plaques here are quite popular, so I picked a sandalwood one for you.",
     text_time = 4350
   },
   [140883230] = {
-    title = "在庙里转转也不错",
-    content = "大家一起在庙里转转，也算是达到团建的效果啦~",
+    title = "Nice taking a tour around the temple.",
+    content = "I guess it's still a nice field trip taking a tour around the temple with everyone.",
     text_time = 3300
   },
   [140883231] = {
-    content = "嗯，不如说效果有点太好了。",
+    content = "Yeah, and it's perhaps too nice.",
     text_time = 1950
   },
   [140883232] = {
-    content = "有些人商量着买了“无事牌”，说是要一起祈求实验“顺遂无事”。",
+    content = "Some of them bought peace plaques, saying that it'd make sure nothing goes wrong with the experiments.",
     text_time = 4500
   },
   [140883233] = {
-    content = "虽然我没有这个需求，但想到你或许会喜欢，就给你买了一块檀木的。",
+    content = "I don't need these, but thought maybe you'd like the idea and bought a sandalwood one for you.",
     text_time = 4650
   },
   [140883310] = {
-    title = "我正好奇它的作用呢",
-    content = "嘿嘿，无事牌最近在网上的热度很高，我正好奇它的作用呢~",
+    title = "Curious about their use.",
+    content = "Peace plaques have been trending online. I'm curious about if they actually work.",
     text_time = 4050
   },
   [140883311] = {
-    content = "你喜欢就好。庙里的住持说，这里的无事牌是用一棵百年老树的枝干制作而成。",
+    content = "I made the right choice buying it then. The abbot says that the peace plaques here are made from the branches of a hundred-year-old tree.",
     text_time = 5250
   },
   [140883312] = {
-    content = "除了祈愿平安无事，一切顺遂，也有“长长久久”之意。",
+    content = "They are not only used to wish for peace and success, but also everlasting love.",
     text_time = 3750
   },
   [140883313] = {
-    content = "不管是你的生活，还是你我之间，我都希望能够如此。",
+    content = "I hope this one works for both you and us.",
     text_time = 3600
   },
   [140883320] = {
-    title = "无事牌是什么",
-    content = "无事牌是什么啊？我以前好像没有听说过。",
+    title = "What's a peace plaque?",
+    content = "What's a peace plaque? I've never heard of it before.",
     text_time = 2850
   },
   [140883321] = {
-    content = "是一块没有花纹、打磨光滑的木牌，寓意着没有灾祸和烦恼。",
+    content = "It's a polished wooden plaque with no carvings. It signifies peace and safety.",
     text_time = 4050
   },
   [140883322] = {
-    content = "在古人看来，最好的人生状态就是这样的“顺遂无事”。",
+    content = "People in ancient times believed that the best life is a life without trouble.",
     text_time = 3750
   },
   [140883323] = {
-    content = "这也是我所希望的，对你最好的祝福和期盼。",
+    content = "It's also the best wish and expectation for you that I could hope for.",
     text_time = 3000
   },
   [140883330] = {
-    title = "你许了什么愿望",
-    content = "哇，好期待！听说在请无事牌时还可以许愿，你许了什么愿望呢？",
+    title = "What did you wish for?",
+    content = "I'm intrigued! I hear that you can make wishes with peace plaques. What did you wish for?",
     text_time = 4350
   },
   [140883331] = {
-    content = "我只许下了一个愿望。",
+    content = "I only made one wish.",
     text_time = 1500
   },
   [140883332] = {
-    content = "希望$u能够平平安安，顺遂无事。",
+    content = "I wished for peace and safety for $u.",
     text_time = 2400
   },
   [140883333] = {
-    content = "至于其他的愿望和快乐，我希望都由我来为你实现。",
+    content = "If you have other wishes and dreams, I'll be the one making them come true for you.",
     text_time = 3450
   },
   [140884000] = {
-    content = "$u，看到我和芭蕾舞首席的合影了吗？",
+    content = "$u, did you see my photo with the lead ballet dancer?",
     text_time = 2700
   },
   [140884110] = {
-    title = "你是说那只柯基吗？",
-    content = "看到了，我猜你说的芭蕾舞首席一定是那只睡着的柯基对不对？",
+    title = "You mean the Corgi?",
+    content = "Yeah, I saw it, and I'm guessing that the lead ballet dancer must be the sleeping Corgi?",
     text_time = 4200
   },
   [140884111] = {
-    content = "没错，是它！阿薯果然一下就猜中了。",
+    content = "Yep, that's her! I knew Miss Chips would guess it right away.",
     text_time = 2550
   },
   [140884112] = {
-    content = "刚刚和音乐剧的朋友们在导演家聚会，他家的胖柯基窝在沙发上睡觉。",
+    content = "I was at the director's place with my pals from the musical. His Corgi was sleeping on the couch.",
     text_time = 4650
   },
   [140884113] = {
-    content = "大家一起围上去看的时候，我忽然发现它很有芭蕾素养。",
+    content = "We all gathered around her, and I suddenly realized she got a talent for ballet.",
     text_time = 3750
   },
   [140884120] = {
-    title = "照片好像没发出来",
-    content = "照片是不是没发出来啊？我看到的还是你和剧团导演家柯基的合影……",
+    title = "Did you send the picture?",
+    content = "Did you send the picture? All I see is the photo you took with the director's Corgi...",
     text_time = 4650
   },
   [140884121] = {
-    content = "就是你说的这张~",
+    content = "That's the one I'm talking about!",
     text_time = 1200
   },
   [140884122] = {
-    content = "它在一边睡觉的时候，我仔细观察了一下。",
+    content = "I took a closer look at her when she was sleeping.",
     text_time = 2850
   },
   [140884123] = {
-    content = "这绝对是一位狗狗舞蹈苗苗班的优秀学员，当之无愧的芭蕾首席！",
+    content = "She definitely has potential for puppy dancing and will make an excellent lead ballet dancer!",
     text_time = 4350
   },
   [140884130] = {
-    title = "你接了新工作吗？",
-    content = "我只收到了你的自拍欸，莫非你接了新工作，要做芭蕾舞首席了吗？",
+    title = "Did you get a new job?",
+    content = "I only saw your selfie. Did you get a new job as a lead ballet dancer?",
     text_time = 4500
   },
   [140884131] = {
-    content = "不是啦，我的工作日程早就同步给阿薯了，有什么变动你肯定会第一时间知道~",
+    content = "Nah, I already synced all my work schedules with you, Miss Chips. You'd be the first to know if there's any change.",
     text_time = 5250
   },
   [140884132] = {
-    content = "我旁边不是还有一只睡着觉的柯基吗？它是音乐剧导演家的狗。",
+    content = "Saw the Corgi sleeping next to me? She's the musical director's dog.",
     text_time = 4200
   },
   [140884133] = {
-    content = "据我推测，它肯定在导演的耳濡目染下学会了芭蕾。",
+    content = "I speculate that she must have learned ballet dancing because of the director's influence.",
     text_time = 3450
   },
   [140884210] = {
-    title = "为什么这么说？",
-    content = "为什么这么说啊？",
+    title = "What makes you say that?",
+    content = "What makes you say that?",
     text_time = 1200
   },
   [140884211] = {
-    content = "因为它连睡觉的时候，都在绷脚背，脚背的弧度非常完美！",
+    content = "Because she was pointing her feet even in her sleep, and the arch was perfect!",
     text_time = 3900
   },
   [140884212] = {
-    content = "导演说，它每天还会出门“训练”劈叉和外开踢腿。",
+    content = "The director said that she would practice splits and outward kicks every day during her walks.",
     text_time = 3450
   },
   [140884213] = {
-    content = "而且它很大方，常常把零食分给一起“训练”的舞团团员们。",
+    content = "And she's also generous, sharing snacks with her dance pals.",
     text_time = 4050
   },
   [140884220] = {
-    title = "首席缺乏身材管理意识",
-    content = "虽然不知道芭蕾水平怎么样，但照片里的柯基首席有点缺乏身材管理意识哦。",
+    title = "The lead dancer needs to lose weight.",
+    content = "I don't know about how good she's at ballet, but from what I see in the photo, the lead dancer needs to lose some weight.",
     text_time = 5100
   },
   [140884221] = {
-    content = "肯定是因为最近演出压力太大，它一不小心放纵了一点。",
+    content = "She must have indulged herself a little because of all the stress before the show.",
     text_time = 3750
   },
   [140884222] = {
-    content = "不过它的芭蕾基本功应该很扎实，毕竟它在睡觉的时候都不忘绷脚背。",
+    content = "But she's mastered the ballet basics. I saw her pointing her feet even in her sleep.",
     text_time = 4650
   },
   [140884223] = {
-    content = "时不时脚尖还转一转，应该是在梦里练习吧！",
+    content = "Her toes would twitch from time to time. She must be practicing in dreams!",
     text_time = 3000
   },
   [140884230] = {
-    title = "想看首席跳舞",
-    content = "支持在线点播吗？我想看芭蕾首席跳舞。",
+    title = "I want to see her dance.",
+    content = "Does she take live demands? I want to see the lead dancer dance.",
     text_time = 2700
   },
   [140884231] = {
-    content = "其实我刚刚用零食贿赂首席，拍下了它的舞姿，一会儿就把视频发给你。",
+    content = "I just bribed her with snacks and filmed her dancing. I'll send you the video later.",
     text_time = 4800
   },
   [140884232] = {
-    content = "你会看到在开罐声响起的刹那，首席就做好了起手准备姿势。",
+    content = "You'll see the lead dancer in her starting pose the moment the can is cracked open.",
     text_time = 4050
   },
   [140884233] = {
-    content = "之后它全情投入“干饭”舞蹈中，非常有感染力。",
+    content = "Then she was fully engaged in the gulping-down-food dance. It was raw and emotional.",
     text_time = 3300
   },
   [140884310] = {
-    title = "苹果箱说不定也能做首席",
-    content = "如果是以这个标准，苹果箱说不定也能做首席呢！",
+    title = "Apple Box can be a lead dancer, too.",
+    content = "By this standard, maybe Apple Box can be a lead dancer, too.",
     text_time = 3300
   },
   [140884311] = {
-    content = "当然可以。我们苹果箱体态优美，动作利索，谁见了都会夸它的。",
+    content = "Of course, he can. Our Apple Box is so agile and elegant. Anyone who sees him will be enamored.",
     text_time = 4350
   },
   [140884312] = {
-    content = "更何况，“首席”的标准是人决定的。",
+    content = "Besides, the standards are subjective.",
     text_time = 2550
   },
   [140884313] = {
-    content = "在我和阿薯的标准里，它已经是最棒的首席小狗啦！",
+    content = "By our standards, Apple Box is already the best lead puppy dancer!",
     text_time = 3450
   },
   [140884320] = {
-    title = "想见见这位首席了",
-    content = "首席好可爱啊，我都想见见它了！",
+    title = "I want to meet the lead dancer now.",
+    content = "The lead dancer is so adorable. I want to meet her!",
     text_time = 2250
   },
   [140884321] = {
-    content = "这个简单！每次音乐剧巡演，导演都会带上他家的小狗。",
+    content = "No problem! The director would bring his dog with him on every musical tour.",
     text_time = 3750
   },
   [140884322] = {
-    content = "我给你留好了音乐剧最佳位置的票。",
+    content = "I've saved a ticket to the show for you. The seat is the best.",
     text_time = 2400
   },
   [140884323] = {
-    content = "等阿薯看完我的演出，我们一起去后台见见小狗吧~",
+    content = "We'll meet the Corgi backstage together after you watch our show.",
     text_time = 3450
   },
   [140884330] = {
-    title = "Cello和苹果箱谁才是首席",
-    content = "听起来Cello和苹果箱都可以做首席，这可怎么办呢？",
+    title = "Who's the lead dancer? Cello or Apple Box?",
+    content = "Sounds like both Cello and Apple Box can be the lead dancer. What now?",
     text_time = 3900
   },
   [140884331] = {
-    content = "那不如等我回去，举办一场家庭舞蹈大赛。",
+    content = "Let's host a family dance match when I get back.",
     text_time = 2850
   },
   [140884332] = {
-    content = "我们可以放些不同风格的音乐，看Cello和苹果箱即兴发挥，决战首席之巅。",
+    content = "We can play different styles of music and decide who the lead dancer will be, depending on how well Cello and Apple Box perform.",
     text_time = 5400
   },
   [140884333] = {
-    content = "到时候我会准备超多好吃的，$u就好好期待吧~",
+    content = "I'll get a lot of yummy snacks, so stay tuned for the big show, $u.",
     text_time = 3300
   },
   [140885000] = {
-    content = "案件回访提前结束，我在回家路上了。",
+    content = "The case revisit ended early. I'm on my way home.",
     text_time = 2550
   },
   [140885110] = {
-    title = "辛苦白警官啦",
-    content = "辛苦白警官啦，感觉你因为这次的事已经忙了好久了。",
+    title = "Thanks for your service, Officer Gavin.",
+    content = "Thanks for your service, Officer Gavin. You've been working hard on this case for a while.",
     text_time = 3600
   },
   [140885111] = {
-    content = "其实后续还有一些零散的收尾工作。",
+    content = "Actually, there are still some loose ends to tie up.",
     text_time = 2400
   },
   [140885112] = {
-    content = "不过眼下可以先休息了。",
+    content = "But I can take a break for now.",
     text_time = 1650
   },
   [140885113] = {
-    content = "这次全队都给了三天假期，可以全用来陪你。",
+    content = "The team all got three days off. I can spend the time with you.",
     text_time = 3000
   },
   [140885120] = {
-    title = "这个案件是不是很重要？",
-    content = "这个案件是不是很重要？上次到署里，感觉气氛都紧绷绷的。",
+    title = "It's a really important case, right?",
+    content = "It's a really important case, right? I felt tension in the air last time I visited you in the office.",
     text_time = 4050
   },
   [140885121] = {
-    content = "案件涉及的范围确实比较大，但本身不算危险。",
+    content = "The case did involve a lot of people, but it wasn't too dangerous.",
     text_time = 3150
   },
   [140885122] = {
-    content = "解决了这次的事，应该能放松一段日子了。",
+    content = "I can take some time for myself after this.",
     text_time = 2850
   },
   [140885123] = {
-    content = "后续的收尾工作就等假期结束再说。",
+    content = "The wrap-up work will have to wait till after the break.",
     text_time = 2400
   },
   [140885130] = {
-    title = "事情能解决真是太好了！",
-    content = "恭喜！事情能解决真是太好了！",
+    title = "Glad that it's all solved!",
+    content = "Congrats! I'm glad that it's all solved!",
     text_time = 2100
   },
   [140885131] = {
-    content = "案子结了，署里的氛围都轻松了不少。",
+    content = "Everyone can finally take a breather now that the case's over.",
     text_time = 2550
   },
   [140885132] = {
-    content = "几个队员临走前还专门把手机壁纸换成锦鲤，祈祷不要再有突发事件。",
+    content = "Some of my team members even changed their home screen to a lucky carp photo to wish that nothing unexpected occurs.",
     text_time = 4650
   },
   [140885133] = {
-    content = "大家忙了这么久，是该好好休息一阵了。",
+    content = "They've been working on this for so long and deserve a break.",
     text_time = 2700
   },
   [140885210] = {
-    title = "上次见你，你都变成熊猫眼了……",
-    content = "既然可以休息，一定要好好放松哦！上次见到你时，你都变成熊猫眼了……",
+    title = "You had bags under your eyes last time...",
+    content = "Now you have time; promise me that you'll take a break! You had bags under your eyes last time I saw you...",
     text_time = 4950
   },
   [140885211] = {
-    content = "你不说我都没有注意到。",
+    content = "I didn't even notice.",
     text_time = 1650
   },
   [140885212] = {
-    content = "我保证回去就好好休息，让它们尽快消掉。",
+    content = "I promise that I'll take some proper rest and make them go away.",
     text_time = 2850
   },
   [140885213] = {
-    content = "其实只要见到你，压力很快就会消失的。",
+    content = "My stress vanishes the moment I see you, though.",
     text_time = 2700
   },
   [140885220] = {
-    title = "好可怕的工作强度……",
-    content = "虽然已经说过很多次了，不过你们的工作强度真的可怕……",
+    title = "Your workload is insane...",
+    content = "I know I've said this many times, but your workload is truly insane...",
     text_time = 3900
   },
   [140885221] = {
-    content = "比有重大恶性案件的时候好太多了。不用担心。",
+    content = "Don't worry. This one was way better than some major criminal cases.",
     text_time = 3150
   },
   [140885222] = {
-    content = "不过这几天的睡眠时长确实不太达标。",
+    content = "But I haven't been getting enough sleep these days.",
     text_time = 2550
   },
   [140885223] = {
-    content = "所以要快一点到家，抱着你充会儿电。",
+    content = "So, I need to get home soon and recharge with you in my arms.",
     text_time = 2550
   },
   [140885230] = {
-    title = "案件很重要，照顾好自己也很重要！",
-    content = "对案件负责很重要，但是照顾好自己也很重要！",
+    title = "Your health is as important as the case!",
+    content = "Your responsibility in the case is important, but so is your health.",
     text_time = 3150
   },
   [140885231] = {
-    content = "你的嘱咐我都好好遵守了，可以随便挑个署里的人检查。",
+    content = "I've been following your words and taking care of myself. You can ask anyone from the task force.",
     text_time = 3750
   },
   [140885232] = {
-    content = "所以，回家之后申请休息补贴。",
+    content = "So, I'm requesting a subsidy after I get home.",
     text_time = 2100
   },
   [140885233] = {
-    content = "让我多抱你一会儿。",
+    content = "Let me hold you longer.",
     text_time = 1350
   },
   [140885310] = {
-    title = "我买了缓解疲劳的精油给你按摩~",
-    content = "之前我买了缓解疲劳的精油，回家之后给你按摩一下~",
+    title = "I bought essential oil for massage.",
+    content = "I bought some stress-relieving essential oil the other day. I'll give you a massage when you get back.",
     text_time = 3600
   },
   [140885311] = {
-    content = "已经在加急飞回来了。",
+    content = "I'm flying as fast as I can.",
     text_time = 1500
   },
   [140885312] = {
-    content = "不过你再跟我聊一会儿吧。",
+    content = "But let's talk a bit longer.",
     text_time = 1800
   },
   [140885313] = {
-    content = "路上还有一段距离，避免“疲劳飞行”。",
+    content = "To keep me awake while I fly the last few miles.",
     text_time = 2700
   },
   [140885320] = {
-    title = "我在研究大家分享的解压可以做的事情",
-    content = "我在研究大家分享的解压可以做的事情。",
+    title = "I'm studying what people do to release stress.",
+    content = "I'm studying what people do to release stress.",
     text_time = 2700
   },
   [140885321] = {
-    content = "到家之后一起看看吧。",
+    content = "We can take a look together when I get home.",
     text_time = 1500
   },
   [140885322] = {
-    content = "不过如果是需要出门的事，大概要明天再尝试了。",
+    content = "But if it's something outdoor, we'd have to wait till tomorrow.",
     text_time = 3300
   },
   [140885323] = {
-    content = "现在我只想待在你旁边，什么也不做地发一会儿呆。",
+    content = "Now I just want to stay with you and do nothing.",
     text_time = 3450
   },
   [140885330] = {
-    title = "就由我来保护你，为你排解烦恼！",
-    content = "回到家之后，就由我来保护你，为你排解烦恼啦！",
+    title = "I'll protect you and solve your problems!",
+    content = "When you get home, I'll be the one protecting you and solving your problems!",
     text_time = 3300
   },
   [140885331] = {
-    content = "好，让你保护我。",
+    content = "Yeah, you'll protect me.",
     text_time = 1200
   },
   [140885332] = {
-    content = "白警官下班了，现在我只是$u的男朋友。",
+    content = "Officer Gavin is off work. Now I'm just $u's boyfriend.",
     text_time = 2850
   },
   [140885333] = {
-    content = "你想怎么安排，我都听你的。",
+    content = "Anything you do, I'll follow.",
     text_time = 1950
   },
   [140886000] = {
-    content = "一会儿不看手机，一堆未读消息。说吧，怎么了？",
+    content = "I only took my eyes off my phone for a few minutes, and you sent all these messages. What's wrong?",
     text_time = 3300
   },
   [140886110] = {
-    title = "一位社畜急需补充工作bgm",
-    content = "你还记不记得我们昨晚随机播到的那首歌叫什么？急，一位社畜急需补充工作bgm！",
+    title = "A company slave needs more work music.",
+    content = "Do you remember what the song that shuffled up last night is called? A company slave needs more work music.",
     text_time = 5700
   },
-  [140886111] = {
-    content = "不记得。",
-    text_time = 600
-  },
+  [140886111] = {content = "No.", text_time = 600},
   [140886112] = {
-    content = "昨天听过中文歌，英文歌，非洲原始部落的歌，不是人唱的歌，你指哪一首？",
+    content = "We listened to songs in different languages, African tribal songs, and songs not sung by humans. Which one are you talking about?",
     text_time = 5100
   },
   [140886113] = {
-    content = "比起歌，你讲的冷笑话我倒是记得更清楚一点。",
+    content = "I remember your dry jokes more clearly than the songs.",
     text_time = 3150
   },
   [140886120] = {
-    title = "我在搜集新做的影评节目的素材",
-    content = "我在搜集新做的影评节目的素材，我们这个月都看了哪些电影来着？",
+    title = "I need materials for a movie review show.",
+    content = "I'm looking for materials for a new movie review show. What movies did we watch this month?",
     text_time = 4500
   },
-  [140886121] = {
-    content = "那可太多了。",
-    text_time = 900
-  },
+  [140886121] = {content = "Too many.", text_time = 900},
   [140886122] = {
-    content = "你是指你刚开场就睡着的那部，还是吓得猛掐我的那部？",
+    content = "You mean the one that you fell asleep to right after it started, or the one where you were so scared that you kept pinching me?",
     text_time = 3750
   },
   [140886123] = {
-    content = "至于其他……这谁还记得住？我的记忆空间可是很宝贵的。",
+    content = "As for the others... I don't remember any of them. My memory space is too precious.",
     text_time = 3900
   },
   [140886130] = {
-    title = "突然想看你很久以前提过的那部漫画",
-    content = "突然想看你很久以前提过的一部漫画，你还锐评过主角的头长得像一颗水煮蛋。",
+    title = "I want to read the manga you told me about.",
+    content = "I want to read the manga you told me about a long time ago. You said the protagonist's head looks like a boiled egg.",
     text_time = 5250
   },
   [140886131] = {
-    content = "我平时给你推荐的小说和动漫你果然是一部都没看过吧？",
+    content = "I knew it. You never read any of the books or watched any of the anime I recommended, did you?",
     text_time = 3750
   },
   [140886132] = {
-    content = "敷衍地“好好好”，和敷衍地“收藏了就等于看了”。",
+    content = "You always just nod and say, \"I've put them in my list and will get around to them someday.\"",
     text_time = 3600
   },
   [140886133] = {
-    content = "现在来问，晚了，按我目前的心情是记不起来了。",
+    content = "Now you're asking. Well, too late. I can't remember which one it is in my current mindset.",
     text_time = 3300
   },
   [140886210] = {
-    title = "加油想想办法啊！",
-    content = "加油想想办法啊！正在知识储备巅峰的大学生！",
+    title = "Come on! Think!",
+    content = "Come on! Think! You're an undergraduate at the peak of your knowledge retention!",
     text_time = 3150
   },
   [140886211] = {
-    content = "怎么感觉你夸得跟在骂人一样？",
+    content = "Is that a compliment or an insult?",
     text_time = 2100
   },
   [140886212] = {
-    content = "你都知道我要储备“知识”，那我的脑子里当然没地方给这些杂事。",
+    content = "If you know that I need to retain knowledge, you know my brain has no spare space for useless information like that.",
     text_time = 4500
   },
   [140886213] = {
-    content = "想调用历史记录，按照储存单位计费。",
+    content = "If you want to retrieve outdated entries, you'll be charged per storage unit.",
     text_time = 2550
   },
   [140886220] = {
-    title = "我对你很失望",
-    content = "唉，你的记忆力竟然如此不堪大用，我对你很失望啊。",
+    title = "I'm very disappointed in you.",
+    content = "I can't believe your memory isn't up to the task. I'm very disappointed in you.",
     text_time = 3600
   },
   [140886221] = {
-    content = "这么老套的激将法我是不会上当的。",
+    content = "Too obvious. I'm not taking the bait.",
     text_time = 2400
   },
   [140886222] = {
-    content = "难道不是自己记不住事的那个人更笨一点？",
+    content = "Shouldn't the person who needs my help have a bigger problem to worry about?",
     text_time = 2850
   },
   [140886223] = {
-    content = "每次都伸手要正确答案，脑子很容易生锈的，就当锻炼你的脑力了。",
+    content = "Your brain gets rusty if you are fed every answer. Just think of it as a brain exercise.",
     text_time = 4500
   },
   [140886230] = {
-    title = "我剩下这半天的美好时光全靠你了",
-    content = "我剩下这半天的美好时光全靠你了，这还不足以激励你想起来吗？",
+    title = "My happiness for the rest of the day depends on you.",
+    content = "My happiness for the rest of the day depends on you. Still not enough to help you jog your memory?",
     text_time = 4350
   },
   [140886231] = {
-    content = "有一点，但不多。",
+    content = "It helps, but not much.",
     text_time = 1200
   },
   [140886232] = {
-    content = "想起来的时间按我心情来定。",
+    content = "It depends on my mood when I'll remember it.",
     text_time = 1950
   },
   [140886233] = {
-    content = "说不定人类进化到下一阶段的时候我就想到了。",
+    content = "Maybe you'd have to wait till the next human evolution.",
     text_time = 3150
   },
   [140886310] = {
-    title = "不如把目光放长远一点",
-    content = "不如把目光放长远一点，等我得到了答案，还能少了你好处吗？",
+    title = "It pays off in the long run.",
+    content = "It pays off in the long run. You'll get your share of rewards once I have the answer.",
     text_time = 4200
   },
   [140886311] = {
-    content = "不愧是做老板的人，比我导师还能画饼。",
+    content = "No wonder you run a company. Even better at grand promises than my advisor.",
     text_time = 2700
   },
   [140886312] = {
-    content = "但是可以，一会儿发你。",
+    content = "But, yes, I'll send the answer to you later.",
     text_time = 1650
   },
   [140886313] = {
-    content = "不过回家之后的第一件事，就是仔细聊一聊我能捞到的好处。",
+    content = "And the first thing we're talking about when I get home is my payment.",
     text_time = 4050
   },
   [140886320] = {
-    title = "给了我答案，我们就可以一起摸鱼了",
-    content = "给了我答案，我们就可以连线聊天一起摸鱼了，这样的快乐你不喜欢吗？",
+    title = "Slack off together if you give me the answer.",
+    content = "We can chat and slack off together if you give me the answer. Don't you want simple joys like that?",
     text_time = 4800
   },
   [140886321] = {
-    content = "天天都发生的快乐吸引力好像没那么大。",
+    content = "Simple joys that happen every day don't sound too appealing.",
     text_time = 2700
   },
   [140886322] = {
-    content = "不过如果你再想想办法加点儿码，也勉强能答应。",
+    content = "But, if you offer something else, I might say yes.",
     text_time = 3300
   },
   [140886323] = {
-    content = "毕竟除了我，还有谁这么好心愿意陪你当一条鱼干？",
+    content = "After all, no one else would be so kind and take their time off just for you.",
     text_time = 3450
   },
   [140886330] = {
-    title = "我选择行使“想要就得到”的特权",
-    content = "那我选择行使自己“想要等于得到”的特权，这位男朋友。",
+    title = "I'm exercising my right to everything.",
+    content = "Then I choose to exercise my right to everything, boyfriend.",
     text_time = 3900
   },
   [140886331] = {
-    content = "招数新奇。",
+    content = "A new move.",
     text_time = 750
   },
   [140886332] = {
-    content = "可惜我是拆招高手，不变应万变。",
+    content = "Too bad I'm good at adapting.",
     text_time = 2250
   },
   [140886333] = {
-    content = "行了，名字都发你了，女、朋、友。",
+    content = "Alright, I've sent you the answer, girlfriend.",
     text_time = 2400
   },
   [140887000] = {
@@ -1254,317 +1242,317 @@ data = {
     text_time = 4800
   },
   [140888000] = {
-    content = "返程的票订好了，因为古堡房间很多，这位小姐可以提前开始收拾行李了。",
+    content = "I've booked the return tickets. Since there are a lot of rooms in the castle, you can start packing now, young lady.",
     text_time = 4950
   },
   [140888110] = {
-    title = "有点舍不得这里了。",
-    content = "虽然只住了几天，但我已经有点儿舍不得离开这座古堡了。",
+    title = "I'll miss this place.",
+    content = "We've only stayed for a few days, but I'm already feeling reluctant to leave.",
     text_time = 3900
   },
   [140888111] = {
-    content = "我也很喜欢这里。",
+    content = "Yeah, I like it here, too.",
     text_time = 1200
   },
   [140888112] = {
-    content = "不过只要和你在一起，不论去哪里都很愉快。",
+    content = "But traveling with you is always a pleasure, no matter where we go.",
     text_time = 3000
   },
   [140888113] = {
-    content = "所以等我回到房间后，我们可以开始规划下次旅行，冲淡这份不舍。",
+    content = "Let's start planning for our next trip when I get back, so you won't be too upset about leaving.",
     text_time = 4500
   },
   [140888120] = {
-    title = "下次再住什么地方好呢？",
-    content = "这段城堡之旅结束了，我们下次再住到什么奇妙的地方好呢？",
+    title = "Where should we go next?",
+    content = "Now that our castle trip is over, what magical place are we staying at next?",
     text_time = 4050
   },
   [140888121] = {
-    content = "既然这样，等我回来后，我们就选择一些能让你“圆梦”的地方吧。",
+    content = "In that case, let's pick a dream place of yours when I get back.",
     text_time = 4500
   },
   [140888122] = {
-    content = "我很乐意再听你说一说自己曾经的梦想和幻想。",
+    content = "I'd love to hear you talk more about your dreams and fantasies.",
     text_time = 3150
   },
   [140888123] = {
-    content = "然后找个机会一一实现它们。",
+    content = "And we'll get a chance to make each of them come true.",
     text_time = 1950
   },
   [140888130] = {
-    title = "地方太大也会有这样的苦恼……",
-    content = "地方太大也确实会有这样的苦恼……我一会儿就再检查一遍！",
+    title = "That's the downside of the castle...",
+    content = "That's the downside of this huge castle... I'll check again to make sure we have everything!",
     text_time = 4050
   },
   [140888131] = {
-    content = "我回来后也会协助你再检查一次的。",
+    content = "I'll help you when I get back.",
     text_time = 2400
   },
   [140888132] = {
-    content = "顺便当做，我们在这座古堡里最后的巡礼。",
+    content = "It'll be like our last tour around this castle.",
     text_time = 2850
   },
   [140888133] = {
-    content = "当然，我们也可以一起筹划一段新的旅程。",
+    content = "But of course, we can also plan our next trip together.",
     text_time = 2850
   },
   [140888210] = {
-    title = "我想住悬崖上的小房子！",
-    content = "那我想住悬崖边上的小房子！",
+    title = "I want to live in a cliffside cottage!",
+    content = "I want to live in a cliffside cottage!",
     text_time = 1950
   },
   [140888211] = {
-    content = "听上去很浪漫。",
+    content = "It sounds romantic.",
     text_time = 1050
   },
   [140888212] = {
-    content = "不少文艺作品都会把故事的发生地点选定在这样与世隔离的地方。",
+    content = "A lot of literary works are set in secluded places like this.",
     text_time = 4350
   },
   [140888213] = {
-    content = "我也很好奇，我们会在这里写下怎样的故事。",
+    content = "I'm also curious about what stories we could create there.",
     text_time = 3000
   },
   [140888220] = {
-    title = "我想试一试其他古堡和庄园！",
-    content = "嘿嘿，我还想试一试其他的古堡和庄园",
+    title = "I want to try other castles and manors!",
+    content = "Hmm, I want to try other castles and manors!",
     text_time = 2550
   },
   [140888221] = {
-    content = "嗯……看来我应该适当地学习一些古典建筑相关的知识。",
+    content = "Well, I suppose I should start learning more about classical architecture.",
     text_time = 3750
   },
   [140888222] = {
-    content = "好在将来的旅行中，发现更多容易错过的美好。",
+    content = "To make sure we don't miss any beautiful details on our future trips.",
     text_time = 3150
   },
   [140888223] = {
-    content = "也能让我在这位小姑娘面前，显得更加游刃有余一些。",
+    content = "At least I'll look less awkward and ignorant in front of a certain young lady.",
     text_time = 3600
   },
   [140888230] = {
-    title = "确实需要好好考虑一下",
-    content = "嗯……感觉确实需要好好考虑一下这个问题！",
+    title = "We need time to think about it.",
+    content = "Well, I think we need more time to seriously think about it.",
     text_time = 3000
   },
   [140888231] = {
-    content = "没关系，我们还有很长时间可以慢慢思考。",
+    content = "No rush. We'll have plenty of time to consider.",
     text_time = 2850
   },
   [140888232] = {
-    content = "或者……在你得到结论之前，可以先由我做一些初步的规划。",
+    content = "Or maybe I can draw up some simple plans before you make a decision.",
     text_time = 4050
   },
   [140888233] = {
-    content = "我想，收到一份惊喜也会有别样的感受。",
+    content = "It can be a unique, pleasant surprise.",
     text_time = 2700
   },
   [140888310] = {
-    title = "那就这么说定了！",
-    content = "那我们就这么说定了！我可要开始做准备咯？",
+    title = "Then it's a deal!",
+    content = "Then it's a deal! I'll start making plans.",
     text_time = 3000
   },
   [140888311] = {
-    content = "你可以先准备一部分，剩下的留到我回来之后，我们再一起努力。",
+    content = "You can start now, and we'll work on the details together when I get back.",
     text_time = 4350
   },
   [140888312] = {
-    content = "为未来做筹备，也是一段旅程中很重要的部分。",
+    content = "Preparing for the future is also an important part of traveling.",
     text_time = 3150
   },
   [140888313] = {
-    content = "我不想错过和你分享它的机会。",
+    content = "I don't want to miss the chance of sharing the experience with you.",
     text_time = 2100
   },
   [140888320] = {
-    title = "总觉得收拾行李也变得有动力起来了！",
-    content = "总觉得因为期待之后的事情，收行李也变得有动力起来了！",
+    title = "I feel more motivated to pack!",
+    content = "Now that I have the next trip to look forward to, I feel more motivated to pack my bag!",
     text_time = 3900
   },
   [140888321] = {
-    content = "除了之后的旅行，你也可以先期待一下今天的晚餐。",
+    content = "Before that, maybe you can look forward to our dinner tonight first.",
     text_time = 3450
   },
   [140888322] = {
-    content = "我预定了一家餐厅，为我们在这里的旅行画下句点。",
+    content = "I booked us a table at a nearby restaurant to celebrate the end of our journey here.",
     text_time = 3450
   },
   [140888323] = {
-    content = "当然，你也可以期待明天的旅程，期待……我们即将度过的新一天。",
+    content = "Of course, you can also look forward to our trip tomorrow, and... a new day that we'll be spending together.",
     text_time = 4500
   },
   [140888330] = {
-    title = "我想了想，其实只要和你在一起就好！",
-    content = "我想了想，总觉得只要有你在身边，我们去哪里，去做什么都好！",
+    title = "I'll travel anywhere with you!",
+    content = "I've thought about it. I'll travel anywhere and do anything as long as it's with you!",
     text_time = 4350
   },
   [140888331] = {
-    content = "看来在说情话这件事上，我还有很多需要和这位小姐学习的地方。",
+    content = "Guess I still have a lot to learn from you in terms of being a romantic, young lady.",
     text_time = 4350
   },
   [140888332] = {
-    content = "不过，既然我们彼此陪伴就已经足够好……",
+    content = "But, since we are happy just being with each other...",
     text_time = 2850
   },
   [140888333] = {
-    content = "不如也寻找更多会让这份“都好”变成“更好”的地点和事情吧。",
+    content = "Let's discover more places to go and things to do that will make us even happier together.",
     text_time = 4350
   },
   [140889000] = {
-    content = "我刚去应酬了一下，回来餐盘里就堆成小山了。",
+    content = "I just went to network for a few minutes and came back to a mountain of food on my plate.",
     text_time = 3150
   },
   [140889110] = {
-    title = "这不是怕你吃不饱",
-    content = "看到一直有人来找你谈话，这不是怕你吃不饱嘛！",
+    title = "Worried you wouldn't have enough.",
+    content = "I just saw you busy talking to people and worried you wouldn't have enough to eat.",
     text_time = 3300
   },
   [140889111] = {
-    content = "看得出来，你为了让我吃饱的确下了很多功夫。",
+    content = "I can see you've made a lot of effort to get me stuffed.",
     text_time = 3150
   },
   [140889112] = {
-    content = "我盘子里的各类食材都很丰富。",
+    content = "A wide range of ingredients on my plate.",
     text_time = 2100
   },
   [140889113] = {
-    content = "尤其是你不爱吃的那些，出现的频率最高。",
+    content = "Especially the ones you don't like, they take up the most space.",
     text_time = 2850
   },
   [140889120] = {
-    title = "不是我干的",
-    content = "不是我干的，是食物看你冷落了它们，自动飞到你盘子里的！",
+    title = "I didn't do it.",
+    content = "I didn't do it. The foods saw that you'd been neglecting them and flew to your plate.",
     text_time = 4050
   },
   [140889121] = {
-    content = "我还没问是谁，就有人不打自招了。",
+    content = "I didn't ask who did this. Someone sounded really fishy.",
     text_time = 2400
   },
   [140889122] = {
-    content = "就算是如你所说，食物自己飞进我盘子里的。",
+    content = "Even if the foods did somehow fly to my plate themselves.",
     text_time = 3000
   },
   [140889123] = {
-    content = "那又怎么解释，你不爱吃的菜往我这里飞得格外多？",
+    content = "How do you explain that most of them are the ones you dislike?",
     text_time = 3450
   },
   [140889130] = {
-    title = "参加宴会就是要吃饱喝足",
-    content = "来参加宴会就是要吃饱喝足啊，不能光顾着应酬，让自己饿着肚子！",
+    title = "This is a dinner party.",
+    content = "This is a dinner party. You're supposed to wine and dine, not just network the whole time.",
     text_time = 4500
   },
   [140889131] = {
-    content = "某人在照顾自己这件事上倒有所长进。",
+    content = "Someone's getting good at taking care of herself.",
     text_time = 2550
   },
   [140889132] = {
-    content = "而且看餐桌上的状态，你今天应该是尝试了不少新鲜菜式。",
+    content = "From what I see on the table, you must have tried a lot of new things today.",
     text_time = 3900
   },
   [140889133] = {
-    content = "不然你不爱吃的那些菜，也不会都出现在我的盘子里。",
+    content = "Otherwise, the ones that you dislike wouldn't have all appeared on my plate.",
     text_time = 3600
   },
   [140889210] = {
-    title = "你午饭就吃得很少",
-    content = "还不是因为有些人一直在忙，忙到中午饭都没时间吃。",
+    title = "You didn't have enough for lunch.",
+    content = "I remember that a certain someone was so busy that he didn't even have time for lunch.",
     text_time = 3600
   },
   [140889211] = {
-    content = "你忘了我在车上的时候吃了个三明治？",
+    content = "You forgot that I had a sandwich in the car?",
     text_time = 2550
   },
   [140889212] = {
-    content = "而且在照顾自己这方面，我应该比某人更不需要担心。",
+    content = "Besides, I should be better at taking care of myself than a certain someone.",
     text_time = 3600
   },
   [140889213] = {
-    content = "你现在人在哪？又去拿吃的去了？",
+    content = "Where are you now? Getting more from the buffet?",
     text_time = 2250
   },
   [140889220] = {
-    title = "明明是很健康的菜",
-    content = "那些明明都是很健康的菜。",
+    title = "It's very healthy food.",
+    content = "The food is good for your health.",
     text_time = 1800
   },
   [140889221] = {
-    content = "原来某人这么关心我的健康。",
+    content = "I didn't know someone cared so much about my health.",
     text_time = 1950
   },
   [140889222] = {
-    content = "话说回来，你现在人在哪里。",
+    content = "By the way, where are you now?",
     text_time = 1950
   },
   [140889223] = {
-    content = "怎么这么久都没见你回来。",
+    content = "It's been a while since you left.",
     text_time = 1800
   },
   [140889230] = {
-    title = "那些都是最受欢迎的菜",
-    content = "谁说的，那些可都是最受欢迎的菜，夹慢了就没有了！",
+    title = "They are the most popular ones.",
+    content = "That's not true! They are the most popular. I had to be quick, or they'd be gone in a minute.",
     text_time = 3600
   },
   [140889231] = {
-    content = "……所以你就给我夹了一大盘？",
+    content = "...That's why you filled my entire plate?",
     text_time = 2100
   },
   [140889232] = {
-    content = "话说回来，你现在人在哪里。",
+    content = "By the way, where are you now?",
     text_time = 1950
   },
   [140889233] = {
-    content = "又去拿吃的去了？",
+    content = "Getting more from the buffet?",
     text_time = 1200
   },
   [140889310] = {
-    title = "我也需要“应酬”一下",
-    content = "难道只有你能跟别人应酬，我就不需要小小地“应酬”一下了吗？",
+    title = "I need to network, too.",
+    content = "You're not the only one busy networking. Don't I need to network, too?",
     text_time = 4350
   },
   [140889311] = {
-    content = "看到你正在和自助冷饮机互动得有来有回了。",
+    content = "I saw you talking passionately with the cold drinks machine.",
     text_time = 3150
   },
   [140889312] = {
-    content = "你把那么多饮料混在一起的行为，我只在惩罚游戏中见识到过。",
+    content = "I've only seen people mixing drinks like that for punishment in games.",
     text_time = 4200
   },
   [140889313] = {
-    content = "别再为难自己了，我给你调好了一杯现成的。作为你给我夹菜的谢礼。",
+    content = "Now give yourself a break. I already mixed one for you, to thank you for filling my plate.",
     text_time = 4650
   },
   [140889320] = {
-    title = "我在探索其他美食区域",
-    content = "附近的自助美食区域我已经探索得差不多了，正在向隔壁的瓜果甜品区进军！",
+    title = "I'm exploring other areas.",
+    content = "I've finished exploring the cuisine area and am now headed toward the fruits and desserts.",
     text_time = 5100
   },
   [140889321] = {
-    content = "看来在我不在的这段时间里，你已经吃饱喝足，进入到甜品环节了。",
+    content = "Guess you've had your fill while I was away and moved on to the desserts.",
     text_time = 4500
   },
   [140889322] = {
-    content = "拿到了就赶快回来，再陪我吃一会。",
+    content = "Come back when you're done. I want you here with me.",
     text_time = 2400
   },
   [140889323] = {
-    content = "还有，少拿点冰淇淋，不然吃多了又喊肚子疼。",
+    content = "And don't get too much ice cream, or you'll complain about stomach pain again.",
     text_time = 3150
   },
   [140889330] = {
-    title = "听说这里的红酒很好喝",
-    content = "听说这里的红酒很好喝，我去要两杯，马上就回来！",
+    title = "I hear they have good wine here.",
+    content = "I hear they have good wine here. I'm gonna get two glasses. Be right back!",
     text_time = 3450
   },
   [140889331] = {
-    content = "……真是笨蛋。",
+    content = "...What a dummy.",
     text_time = 1050
   },
   [140889332] = {
-    content = "不如你现在回来，看看你桌上的是什么。",
+    content = "I suggest you come back now and take a look at the table.",
     text_time = 2700
   },
   [140889333] = {
-    content = "不过提前说好，今晚你只有一杯的限额，不许多喝。",
+    content = "That being said, you're only having one glass tonight. Not one sip more.",
     text_time = 3450
   }
 }

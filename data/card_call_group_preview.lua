@@ -869,136 +869,339 @@ data = {
     end_tm = "2025/1/18 4:59:59"
   },
   [125] = {
-    group_id = 21,
-    preview_group_id = 23,
-    card_call_name = "[Chinese New Year event] Time-Ltd rerun",
-    start_tm = "2025/5/31 5:00:00",
-    end_tm = "2025/6/7 4:59:59"
-  },
-  [126] = {
-    group_id = 23,
-    preview_group_id = 26,
-    card_call_name = "[Here Comes the Groom] Time-Ltd rerun",
-    start_tm = "2025/6/7 5:00:00",
-    end_tm = "2025/6/14 4:59:59"
-  },
-  [127] = {
-    group_id = 26,
-    preview_group_id = 27,
-    card_call_name = "[If Time Flows Back] Time-Ltd rerun",
-    start_tm = "2025/6/14 5:00:00",
-    end_tm = "2025/6/21 4:59:59"
-  },
-  [128] = {
-    group_id = 27,
-    preview_group_id = 28,
-    card_call_name = "[Christmas Fairytale] Time-Ltd rerun",
-    start_tm = "2025/6/21 5:00:00",
-    end_tm = "2025/6/28 4:59:59"
-  },
-  [129] = {
-    group_id = 28,
-    preview_group_id = 30,
-    card_call_name = "[Wonderland After Dark] Time-Ltd rerun",
-    start_tm = "2025/6/28 5:00:00",
-    end_tm = "2025/7/5 4:59:59"
-  },
-  [130] = {
-    group_id = 30,
-    preview_group_id = 31,
-    card_call_name = "[Snow Wish Winterland] Time-Ltd rerun",
-    start_tm = "2025/7/5 5:00:00",
-    end_tm = "2025/7/12 4:59:59"
-  },
-  [131] = {
-    group_id = 31,
-    preview_group_id = 29,
-    card_call_name = "[Candlelit Night] Time-Ltd rerun",
-    start_tm = "2025/7/12 5:00:00",
-    end_tm = "2025/7/19 4:59:59"
-  },
-  [132] = {
-    group_id = 29,
-    preview_group_id = 36,
-    card_call_name = "[Banquet of Desert]Time-Ltd rerun",
-    start_tm = "2025/7/19 5:00:00",
-    end_tm = "2025/7/26 4:59:59"
-  },
-  [133] = {
-    group_id = 36,
-    preview_group_id = 33,
-    card_call_name = "[Code of Passionate Love]Time-Ltd rerun",
-    start_tm = "2025/7/26 5:00:00",
-    end_tm = "2025/8/2 4:59:59"
-  },
-  [134] = {
-    group_id = 33,
-    preview_group_id = 39,
-    card_call_name = "[The Sacred Voice]Time-Ltd rerun",
-    start_tm = "2025/8/2 5:00:00",
-    end_tm = "2025/8/9 4:59:59"
-  },
-  [135] = {
-    group_id = 39,
-    preview_group_id = 40,
-    card_call_name = "[Imperial Romance]Time-Ltd rerun",
-    start_tm = "2025/8/9 5:00:00",
-    end_tm = "2025/8/16 4:59:59"
-  },
-  [136] = {
-    group_id = 40,
-    preview_group_id = 38,
-    card_call_name = "[Oracle Revelation]Time-Ltd rerun",
-    start_tm = "2025/8/16 5:00:00",
-    end_tm = "2025/8/23 4:59:59"
-  },
-  [137] = {
-    group_id = 38,
-    preview_group_id = 41,
-    card_call_name = "[Unbridled Desire]Time-Ltd rerun",
-    start_tm = "2025/8/23 5:00:00",
-    end_tm = "2025/8/30 4:59:59"
-  },
-  [138] = {
     group_id = 41,
     preview_group_id = 42,
     card_call_name = "[Tales of Haunted Romance]Time-Ltd rerun",
     start_tm = "2025/4/19 5:00:00",
     end_tm = "2025/4/26 4:59:59"
   },
-  [139] = {
+  [126] = {
     group_id = 42,
     preview_group_id = 43,
     card_call_name = "[Winter Dance]Time-Ltd rerun",
     start_tm = "2025/4/26 5:00:00",
     end_tm = "2025/5/3 4:59:59"
   },
-  [140] = {
+  [127] = {
     group_id = 43,
     preview_group_id = 22,
     card_call_name = "[Firework Day event] Time-Ltd rerun",
     start_tm = "2025/5/3 5:00:00",
     end_tm = "2025/5/10 4:59:59"
   },
-  [141] = {
+  [128] = {
     group_id = 22,
     preview_group_id = 24,
     card_call_name = "[Sunset Mist Garden] Time-Ltd Odds Up",
     start_tm = "2025/5/10 5:00:00",
     end_tm = "2025/5/17 4:59:59"
   },
-  [142] = {
+  [129] = {
     group_id = 24,
     preview_group_id = 25,
     card_call_name = "[Dawn Garden] Time-Ltd Odds Up",
     start_tm = "2025/5/17 5:00:00",
     end_tm = "2025/5/24 4:59:59"
   },
-  [143] = {
+  [130] = {
     group_id = 25,
     preview_group_id = 21,
     card_call_name = "[Night Chant] Time-Ltd rerun",
     start_tm = "2025/5/24 5:00:00",
     end_tm = "2025/5/31 4:59:59"
+  },
+  [131] = {
+    group_id = 21,
+    preview_group_id = 23,
+    card_call_name = "[Chinese New Year event] Time-Ltd rerun",
+    start_tm = "2025/5/31 5:00:00",
+    end_tm = "2025/6/7 4:59:59"
+  },
+  [132] = {
+    group_id = 23,
+    preview_group_id = 26,
+    card_call_name = "[Here Comes the Groom] Time-Ltd rerun",
+    start_tm = "2025/6/7 5:00:00",
+    end_tm = "2025/6/14 4:59:59"
+  },
+  [133] = {
+    group_id = 26,
+    preview_group_id = 27,
+    card_call_name = "[If Time Flows Back] Time-Ltd rerun",
+    start_tm = "2025/6/14 5:00:00",
+    end_tm = "2025/6/21 4:59:59"
+  },
+  [134] = {
+    group_id = 27,
+    preview_group_id = 28,
+    card_call_name = "[Christmas Fairytale] Time-Ltd rerun",
+    start_tm = "2025/6/21 5:00:00",
+    end_tm = "2025/6/28 4:59:59"
+  },
+  [135] = {
+    group_id = 28,
+    preview_group_id = 30,
+    card_call_name = "[Wonderland After Dark] Time-Ltd rerun",
+    start_tm = "2025/6/28 5:00:00",
+    end_tm = "2025/7/5 4:59:59"
+  },
+  [136] = {
+    group_id = 30,
+    preview_group_id = 31,
+    card_call_name = "[Snow Wish Winterland] Time-Ltd rerun",
+    start_tm = "2025/7/5 5:00:00",
+    end_tm = "2025/7/12 4:59:59"
+  },
+  [137] = {
+    group_id = 31,
+    preview_group_id = 29,
+    card_call_name = "[Candlelit Night] Time-Ltd rerun",
+    start_tm = "2025/7/12 5:00:00",
+    end_tm = "2025/7/19 4:59:59"
+  },
+  [138] = {
+    group_id = 29,
+    preview_group_id = 36,
+    card_call_name = "[Banquet of Desert]Time-Ltd rerun",
+    start_tm = "2025/7/19 5:00:00",
+    end_tm = "2025/7/26 4:59:59"
+  },
+  [139] = {
+    group_id = 36,
+    preview_group_id = 33,
+    card_call_name = "[Code of Passionate Love]Time-Ltd rerun",
+    start_tm = "2025/7/26 5:00:00",
+    end_tm = "2025/8/2 4:59:59"
+  },
+  [140] = {
+    group_id = 33,
+    preview_group_id = 39,
+    card_call_name = "[The Sacred Voice]Time-Ltd rerun",
+    start_tm = "2025/8/2 5:00:00",
+    end_tm = "2025/8/9 4:59:59"
+  },
+  [141] = {
+    group_id = 39,
+    preview_group_id = 40,
+    card_call_name = "[Imperial Romance]Time-Ltd rerun",
+    start_tm = "2025/8/9 5:00:00",
+    end_tm = "2025/8/16 4:59:59"
+  },
+  [142] = {
+    group_id = 40,
+    preview_group_id = 38,
+    card_call_name = "[Oracle Revelation]Time-Ltd rerun",
+    start_tm = "2025/8/16 5:00:00",
+    end_tm = "2025/8/23 4:59:59"
+  },
+  [143] = {
+    group_id = 38,
+    preview_group_id = 41,
+    card_call_name = "[Unbridled Desire]Time-Ltd rerun",
+    start_tm = "2025/8/23 5:00:00",
+    end_tm = "2025/8/30 4:59:59"
+  },
+  [144] = {
+    group_id = 41,
+    preview_group_id = 42,
+    card_call_name = "[Tales of Haunted Romance]Time-Ltd rerun",
+    start_tm = "2025/8/30 5:00:00",
+    end_tm = "2025/9/6 4:59:59"
+  },
+  [145] = {
+    group_id = 42,
+    preview_group_id = 43,
+    card_call_name = "[Winter Dance]Time-Ltd rerun",
+    start_tm = "2025/9/6 5:00:00",
+    end_tm = "2025/9/13 4:59:59"
+  },
+  [146] = {
+    group_id = 43,
+    preview_group_id = 49,
+    card_call_name = "[Flowering Time]Time-Ltd rerun",
+    start_tm = "2025/9/13 5:00:00",
+    end_tm = "2025/9/20 4:59:59"
+  },
+  [147] = {
+    group_id = 49,
+    preview_group_id = 50,
+    card_call_name = "\t[Tide of Pleasure]Time-Ltd rerun",
+    start_tm = "2025/9/20 5:00:00",
+    end_tm = "2025/9/27 4:59:59"
+  },
+  [148] = {
+    group_id = 50,
+    preview_group_id = 48,
+    card_call_name = "[Leisurely Moments]Time-Ltd rerun",
+    start_tm = "2025/9/27 5:00:00",
+    end_tm = "2025/10/4 4:59:59"
+  },
+  [149] = {
+    group_id = 48,
+    preview_group_id = 22,
+    card_call_name = "[Firework Day event] Time-Ltd rerun",
+    start_tm = "2025/10/4 5:00:00",
+    end_tm = "2025/10/11 4:59:59"
+  },
+  [150] = {
+    group_id = 22,
+    preview_group_id = 24,
+    card_call_name = "[Sunset Mist Garden] Time-Ltd Odds Up",
+    start_tm = "2025/10/11 5:00:00",
+    end_tm = "2025/10/18 4:59:59"
+  },
+  [151] = {
+    group_id = 24,
+    preview_group_id = 25,
+    card_call_name = "[Dawn Garden] Time-Ltd Odds Up",
+    start_tm = "2025/10/18 5:00:00",
+    end_tm = "2025/10/25 4:59:59"
+  },
+  [152] = {
+    group_id = 25,
+    preview_group_id = 21,
+    card_call_name = "[Night Chant] Time-Ltd rerun",
+    start_tm = "2025/10/25 5:00:00",
+    end_tm = "2025/11/1 4:59:59"
+  },
+  [153] = {
+    group_id = 21,
+    preview_group_id = 23,
+    card_call_name = "[Chinese New Year event] Time-Ltd rerun",
+    start_tm = "2025/11/1 5:00:00",
+    end_tm = "2025/11/8 4:59:59"
+  },
+  [154] = {
+    group_id = 23,
+    preview_group_id = 26,
+    card_call_name = "[Here Comes the Groom] Time-Ltd rerun",
+    start_tm = "2025/11/8 5:00:00",
+    end_tm = "2025/11/15 4:59:59"
+  },
+  [155] = {
+    group_id = 26,
+    preview_group_id = 27,
+    card_call_name = "[If Time Flows Back] Time-Ltd rerun",
+    start_tm = "2025/11/15 5:00:00",
+    end_tm = "2025/11/22 4:59:59"
+  },
+  [156] = {
+    group_id = 27,
+    preview_group_id = 28,
+    card_call_name = "[Christmas Fairytale] Time-Ltd rerun",
+    start_tm = "2025/11/22 5:00:00",
+    end_tm = "2025/11/29 4:59:59"
+  },
+  [157] = {
+    group_id = 28,
+    preview_group_id = 30,
+    card_call_name = "[Wonderland After Dark] Time-Ltd rerun",
+    start_tm = "2025/11/29 5:00:00",
+    end_tm = "2025/12/6 4:59:59"
+  },
+  [158] = {
+    group_id = 30,
+    preview_group_id = 31,
+    card_call_name = "[Snow Wish Winterland] Time-Ltd rerun",
+    start_tm = "2025/12/6 5:00:00",
+    end_tm = "2025/12/13 4:59:59"
+  },
+  [159] = {
+    group_id = 31,
+    preview_group_id = 29,
+    card_call_name = "[Candlelit Night] Time-Ltd rerun",
+    start_tm = "2025/12/13 5:00:00",
+    end_tm = "2025/12/20 4:59:59"
+  },
+  [160] = {
+    group_id = 29,
+    preview_group_id = 36,
+    card_call_name = "[Banquet of Desert]Time-Ltd rerun",
+    start_tm = "2025/12/20 5:00:00",
+    end_tm = "2025/12/27 4:59:59"
+  },
+  [161] = {
+    group_id = 36,
+    preview_group_id = 33,
+    card_call_name = "[Code of Passionate Love]Time-Ltd rerun",
+    start_tm = "2025/12/27 5:00:00",
+    end_tm = "2026/1/3 4:59:59"
+  },
+  [162] = {
+    group_id = 33,
+    preview_group_id = 39,
+    card_call_name = "[The Sacred Voice]Time-Ltd rerun",
+    start_tm = "2026/1/3 5:00:00",
+    end_tm = "2026/1/10 4:59:59"
+  },
+  [163] = {
+    group_id = 39,
+    preview_group_id = 40,
+    card_call_name = "[Imperial Romance]Time-Ltd rerun",
+    start_tm = "2026/1/10 5:00:00",
+    end_tm = "2026/1/17 4:59:59"
+  },
+  [164] = {
+    group_id = 40,
+    preview_group_id = 38,
+    card_call_name = "[Oracle Revelation]Time-Ltd rerun",
+    start_tm = "2026/1/17 5:00:00",
+    end_tm = "2026/1/24 4:59:59"
+  },
+  [165] = {
+    group_id = 38,
+    preview_group_id = 41,
+    card_call_name = "[Unbridled Desire]Time-Ltd rerun",
+    start_tm = "2026/1/24 5:00:00",
+    end_tm = "2026/1/31 4:59:59"
+  },
+  [166] = {
+    group_id = 41,
+    preview_group_id = 42,
+    card_call_name = "[Tales of Haunted Romance]Time-Ltd rerun",
+    start_tm = "2026/1/31 5:00:00",
+    end_tm = "2026/2/7 4:59:59"
+  },
+  [167] = {
+    group_id = 42,
+    preview_group_id = 43,
+    card_call_name = "[Winter Dance]Time-Ltd rerun",
+    start_tm = "2026/2/7 5:00:00",
+    end_tm = "2026/2/14 4:59:59"
+  },
+  [168] = {
+    group_id = 43,
+    preview_group_id = 49,
+    card_call_name = "[Flowering Time]Time-Ltd rerun",
+    start_tm = "2026/2/14 5:00:00",
+    end_tm = "2026/2/21 4:59:59"
+  },
+  [169] = {
+    group_id = 49,
+    preview_group_id = 50,
+    card_call_name = "\t[Tide of Pleasure]Time-Ltd rerun",
+    start_tm = "2026/2/21 5:00:00",
+    end_tm = "2026/2/28 4:59:59"
+  },
+  [170] = {
+    group_id = 50,
+    preview_group_id = 48,
+    card_call_name = "[Leisurely Moments]Time-Ltd rerun",
+    start_tm = "2026/2/28 5:00:00",
+    end_tm = "2026/3/7 4:59:59"
+  },
+  [171] = {
+    group_id = 48,
+    preview_group_id = 51,
+    card_call_name = "[Romance of Thrones]Time-Ltd rerun",
+    start_tm = "2026/3/7 5:00:00",
+    end_tm = "2026/3/14 4:59:59"
+  },
+  [172] = {
+    group_id = 51,
+    preview_group_id = 52,
+    card_call_name = "[Modern Rhapsody]Time-Ltd rerun",
+    start_tm = "2026/3/14 5:00:00",
+    end_tm = "2026/3/21 4:59:59"
   }
 }

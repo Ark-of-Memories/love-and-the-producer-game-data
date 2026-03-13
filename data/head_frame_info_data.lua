@@ -710,6 +710,17 @@ data = {
     get_desc = "Obtain in [Embellishment] Event",
     frame_time = "2021/11/10 5:00:00"
   },
+  [10081] = {
+    frame_name = "Lingering Love",
+    rare_level = 3,
+    frame_type = 1,
+    frame_pic = "frame_concert",
+    frame_icon = "frame_10081",
+    add_quantity = "0:0:0:0",
+    add_percent = "0:0:0:0",
+    get_desc = "Obtained from events.",
+    frame_time = "2025/10/13  5:00:00"
+  },
   [10082] = {
     frame_name = "Tales of Colors",
     rare_level = 3,
@@ -1289,6 +1300,17 @@ data = {
     get_desc = "Obtained from the cumulative top-up event.",
     frame_time = "2024/10/22 5:00:00"
   },
+  [10157] = {
+    frame_name = "Golden Autumn",
+    rare_level = 3,
+    frame_type = 1,
+    frame_pic = "frame_newBP_NO20",
+    frame_icon = "frame_10157",
+    add_quantity = "0:0:0:0",
+    add_percent = "0:0:0:0",
+    get_desc = "Obtained from the [Fragrant Sunshine] event.",
+    frame_time = "2025/9/1 5:00"
+  },
   [10158] = {
     frame_name = "Eternal Firework",
     rare_level = 4,
@@ -1322,6 +1344,17 @@ data = {
     get_desc = "Obtained from the 6th Anniversary event.",
     frame_time = "2025/3/18  5:00:00"
   },
+  [10162] = {
+    frame_name = "Snow-Kissed Holly",
+    rare_level = 3,
+    frame_type = 1,
+    frame_pic = "frame_newBP_NO21_xm",
+    frame_icon = "frame_10162",
+    add_quantity = "0:0:0:0",
+    add_percent = "0:0:0:0",
+    get_desc = "Obtained from the [Fragrant Sunshine] event.",
+    frame_time = "2026/01/01 05:00:00"
+  },
   [10163] = {
     frame_name = "Honeyed Words",
     rare_level = 4,
@@ -1354,6 +1387,17 @@ data = {
     add_percent = "0:0:0:0",
     get_desc = "Obtained from the [Embracing New Year] Event",
     frame_time = "2025/1/1 5:00:00"
+  },
+  [10167] = {
+    frame_name = "Verdant Whimsy",
+    rare_level = 3,
+    frame_type = 1,
+    frame_pic = "frame_newBP_NO22_lzy",
+    frame_icon = "frame_10167",
+    add_quantity = "0:0:0:0",
+    add_percent = "0:0:0:0",
+    get_desc = "Obtained from the [Fragrant Sunshine] event.",
+    frame_time = "2025/11/1 5:00:00"
   },
   [10169] = {
     frame_name = "Heroic Valiance",
@@ -1399,6 +1443,17 @@ data = {
     get_desc = "Obtained from the [Heart Ablaze] event",
     frame_time = "2025/7/24 5:00:00"
   },
+  [10177] = {
+    frame_name = "Happy Quacks",
+    rare_level = 3,
+    frame_type = 1,
+    frame_pic = "frame_zoo",
+    frame_icon = "frame_10177",
+    add_quantity = "0:0:0:0",
+    add_percent = "0:0:0:0",
+    get_desc = "Obtained from the [Forest Odyssey] event",
+    frame_time = "2025/9/12 05:00:00"
+  },
   [10178] = {
     frame_name = "Olympia Aestiva",
     rare_level = 3,
@@ -1431,5 +1486,70 @@ data = {
     add_percent = "0:0:0:0",
     get_desc = "Obtained from events.",
     frame_time = "2025/7/7 5:00:00"
+  },
+  [10181] = {
+    frame_name = "Everlasting Bond",
+    rare_level = 4,
+    frame_type = 1,
+    frame_icon = "frame_10181",
+    add_quantity = "0:0:0:0",
+    add_percent = "0:0:0:0",
+    get_desc = "Obtained from events.",
+    frame_time = "2025/9/25 5:00:00"
+  },
+  [10185] = {
+    frame_name = "Halloween Mischief",
+    rare_level = 4,
+    frame_type = 1,
+    frame_pic = "frame_empty",
+    frame_icon = "frame_10185",
+    add_quantity = "0:0:0:0",
+    add_percent = "0:0:0:0",
+    get_desc = "Obtained from events.",
+    frame_time = "2024/10/28 5:00:00"
+  },
+  [10186] = {
+    frame_name = "Romantic Structure",
+    rare_level = 4,
+    frame_type = 1,
+    frame_pic = "frame_24birth2",
+    frame_icon = "frame_10186",
+    add_quantity = "0:0:0:0",
+    add_percent = "0:0:0:0",
+    get_desc = "Obtained from the [Golden Ratio] event.",
+    frame_time = "2025/11/10 5:00:00"
+  },
+  [10187] = {
+    frame_name = "Love in Loveland",
+    rare_level = 3,
+    frame_type = 1,
+    frame_pic = "frame_7th",
+    frame_icon = "frame_10187",
+    add_quantity = "0:0:0:0",
+    add_percent = "0:0:0:0",
+    get_desc = "Obtained from the [Where Love Blossoms] Event",
+    frame_time = "2026/3/10 5:00:00"
+  },
+  [10190] = {
+    frame_name = "Rosy Days",
+    rare_level = 4,
+    frame_type = 1,
+    frame_pic = "frame_empty",
+    frame_icon = "frame_10190",
+    add_quantity = "0:0:0:0",
+    add_percent = "0:0:0:0",
+    get_desc = "Obtained from the [Corner of Happiness] event.",
+    frame_time = "2026/1/8 5:00:00"
+  },
+  [10193] = {
+    frame_name = "Midnight Emergency",
+    rare_level = 4,
+    frame_type = 1,
+    frame_pic = "frame_2025_0120",
+    frame_icon = "frame_10193",
+    add_quantity = "0:0:0:0",
+    add_percent = "0:0:0:0",
+    get_desc = "Obtained from events.",
+    frame_time = "2025/12/23 5:00:00"
   }
 }

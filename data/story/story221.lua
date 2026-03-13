@@ -5259,7 +5259,7 @@ story221 = {
       dialog = 3,
       music = "pause",
       renwu = "npc",
-      sentence = "我没有多犹豫，便按下了《临海独墅》的确定按钮。",
+      sentence = "Without thinking twice, I pressed the confirm button for Seaside Villa.",
       next = {2}
     },
     [2] = {
@@ -5268,7 +5268,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "雪白的光线笼罩视野，再睁开眼时，太阳的光芒穿透疏淡的薄雾，落在我脚下的灰黑色矮崖上。",
+      sentence = "A burst of blinding white light swallowed my vision. When I opened my eyes again, sunlight was slicing through wisps of mist, casting gold onto the charcoal cliffs beneath my feet.",
       next = {3}
     },
     [3] = {
@@ -5276,7 +5276,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "深蓝的海水不知疲倦地碎在陡削的峰下，像是要将这片岛屿吞噬殆尽。",
+      sentence = "The dark blue waves below crashed again and again against the steep rocks, as though they meant to tear the entire island apart.",
       next = {4}
     },
     [4] = {
@@ -5286,7 +5286,7 @@ story221 = {
       music = "20_SeaSide",
       renming = "$u",
       renwu = "npc",
-      sentence = "好高……！",
+      sentence = "Whoa... now that's a big fall!",
       next = {5}
     },
     [5] = {
@@ -5294,7 +5294,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "我被脚下的断崖吓得打了个冷颤，后退几步。回过头，一栋现代别墅占据了全部视线。",
+      sentence = "A chill shot down my spine. I stumbled back a few steps from the cliff's edge. Turning around, my gaze was immediately filled by a sprawling modern manor.",
       next = {6}
     },
     [6] = {
@@ -5303,7 +5303,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "临海而建的独墅毫不掩饰不菲的设计，以奢靡的姿态拔地而起，像是悬崖上最安全的堡垒。",
+      sentence = "Perched right at the edge of the sea, the building made no effort to hide its extravagant design—sleek, expensive, and towering like a fortress forged from indulgence itself.",
       next = {7}
     },
     [7] = {
@@ -5311,7 +5311,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "我忙不迭地朝着大门跑去。刚一抵达，大门便向我敞开，一位身着漆黑正装的管家从门后迎出。",
+      sentence = "I bolted for the entrance. Just as I arrived, the grand doors swung open. A butler in sleek black formalwear stepped out to greet me.",
       next = {8}
     },
     [8] = {
@@ -5320,9 +5320,9 @@ story221 = {
       dialog = 2,
       idx = 5,
       music = "20_SeaSide",
-      renming = "管家",
+      renming = "Butler",
       renwu = "npc",
-      sentence = "欢迎您回家，夫人。",
+      sentence = "Welcome home, young mistress.",
       next = {9}
     },
     [9] = {
@@ -5332,7 +5332,7 @@ story221 = {
       music = "20_SeaSide",
       renming = "$u",
       renwu = "npc",
-      sentence = "啊……？",
+      sentence = "Uh... what now?",
       next = {10}
     },
     [10] = {
@@ -5340,7 +5340,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "虽然知道“狂欢夜”模式会给玩家安排身份设定，但突然冒出这么一个称呼，我还是有些茫然。",
+      sentence = "I knew the Carnival Night mode handed out pre-written roles to players, but that title still caught me off guard.",
       next = {11}
     },
     [11] = {
@@ -5348,9 +5348,9 @@ story221 = {
       dialog = 2,
       idx = 5,
       music = "20_SeaSide",
-      renming = "管家",
+      renming = "Butler",
       renwu = "npc",
-      sentence = "夫人，您是这栋独墅的主人。",
+      sentence = "Mistress, you are the owner of this estate.",
       next = {12}
     },
     [12] = {
@@ -5358,7 +5358,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "管家说着，向我递来一封信。我拆开信上的蜡封，鲜红的手写体映入眼帘——“狼人”。",
+      sentence = "He handed me a letter sealed in crimson wax. I broke it open. Inside, scrawled in bold red script, was one word—\"Werewolf.\"",
       next = {13}
     },
     [13] = {
@@ -5368,7 +5368,7 @@ story221 = {
       music = "20_SeaSide",
       renming = "$u",
       renwu = "npc",
-      sentence = "……！",
+      sentence = "...!",
       next = {14}
     },
     [14] = {
@@ -5376,9 +5376,9 @@ story221 = {
       dialog = 2,
       idx = 5,
       music = "20_SeaSide",
-      renming = "管家",
+      renming = "Butler",
       renwu = "npc",
-      sentence = "等客人到齐后，您需要隐藏自己的主人身份，并于每晚选择一名客人投入水池中——",
+      sentence = "Once all the guests arrive, you must hide your identity as the host. And each night, you must choose one guest to throw in the pool...",
       next = {15}
     },
     [15] = {
@@ -5386,9 +5386,9 @@ story221 = {
       dialog = 2,
       idx = 5,
       music = "20_SeaSide",
-      renming = "管家",
+      renming = "Butler",
       renwu = "npc",
-      sentence = "终结他的生命，献给大海。",
+      sentence = "...and offer their life to the sea.",
       next = {16}
     },
     [16] = {
@@ -5396,7 +5396,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "没想到我会是狼人……原本还算平稳的心跳漏了两拍，我深吸两口气，稳定心神。",
+      sentence = "My heart thumped, skipping two beats as the weight of my role sank in. I took a deep breath, trying to steady myself.",
       next = {17}
     },
     [17] = {
@@ -5404,7 +5404,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "独墅内似乎尚还没有其他客人抵达，我这么“反派”的身份还是不要“率先抵达”引人注目了吧……",
+      sentence = "The manor was still quiet—no guests had arrived yet. It was probably not a great idea for a \"villain\" like me to be the first one spotted...",
       next = {18}
     },
     [18] = {
@@ -5413,7 +5413,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "于是我向内迈的鞋尖一顿，匆匆跑回了门外，打算躲在围墙后面先暗中观察观察。",
+      sentence = "So I turned back quickly and ducked behind the stone garden wall to lie low and observe from the shadows.",
       next = {19}
     },
     [19] = {
@@ -5421,7 +5421,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "等到玩家入场得七七八八了，我才装作自己也是才进入游戏，提着裙摆踏入大门。",
+      sentence = "Once the players had mostly gathered, I slipped back through the gate, pretending I'd just arrived, lifting my skirt slightly with every graceful step.",
       next = {20}
     },
     [20] = {
@@ -5435,7 +5435,7 @@ story221 = {
       role3 = 201201,
       role5 = 2178404,
       ruchang = -1,
-      sentence = "忽然，视线撞入一双熟悉的眼睛里。",
+      sentence = "Then, my eyes met his.",
       next = {21}
     },
     [21] = {
@@ -5447,7 +5447,7 @@ story221 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 2178404,
-      sentence = "许墨身着一袭白衣走在人群中，额前的发丝被海风吹乱，沉寂的瞳孔隔着人群望见我，弯了弯。",
+      sentence = "Lucien was walking among the crowd in a flowing white shirt, his bangs tousled by the sea breeze. His calm eyes found me across the chaos and softened with the faintest smile.",
       next = {22}
     },
     [22] = {
@@ -5459,7 +5459,7 @@ story221 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 2178404,
-      sentence = "耳边狂怒的浪声仿佛顷刻间就在那片沉寂中消弭了，几分钟前就一直急促的心跳也逐渐稳定下来。",
+      sentence = "The ocean's roar faded from my ears, and my racing heart quieted.",
       next = {23}
     },
     [23] = {
@@ -5472,7 +5472,7 @@ story221 = {
       role3 = 201201,
       role5 = 2178404,
       roleanim = 1.1,
-      sentence = "我三两步走到他的身边，许墨自然地牵过我的手。",
+      sentence = "I crossed the garden in a few quick steps. There, Lucien reached for my hand like it was the most natural thing in the world.",
       next = {24}
     },
     [24] = {
@@ -5487,7 +5487,7 @@ story221 = {
       role3 = 201201,
       role5 = 2178404,
       roleanim = 1.1,
-      sentence = "X先生，擅长玩这种游戏吗？",
+      sentence = "Mr. L, you any good at games like this?",
       next = {25}
     },
     [25] = {
@@ -5496,7 +5496,7 @@ story221 = {
       idx = 2,
       male = 2,
       music = "20_SeaSide",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 2178000,
       role2 = 201105,
@@ -5504,8 +5504,7 @@ story221 = {
       role5 = 2178404,
       roleanim = 1.1,
       ruchang = 9,
-      sentence = "只能说一般，或许到时候会需要$u小姐的帮助。",
-      voice = 1,
+      sentence = "I'd say I'm average. Might end up needing your help, Miss $u.",
       next = {26}
     },
     [26] = {
@@ -5513,7 +5512,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "如果真的是“帮助”就好了……",
+      sentence = "If only \"help\" was all I had to offer...",
       next = {27}
     },
     [27] = {
@@ -5521,7 +5520,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "或许是狼人身份作祟，游戏还没正式开始，我的心中就已经不自觉地开始了盘算。",
+      sentence = "Maybe it was the Werewolf role messing with me, but before the game had even started, I was already calculating moves in my head.",
       next = {28}
     },
     [28] = {
@@ -5529,7 +5528,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "也不知道许墨会是什么身份……会和我一样是狼人吗？",
+      sentence = "What role did Lucien draw...? Could he be a Werewolf too?",
       next = {29}
     },
     [29] = {
@@ -5537,7 +5536,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "我有一搭没一搭地想着，一边和许墨随意地聊着天，一起步入了这座独墅内。 ",
+      sentence = "My thoughts drifted as we chatted idly, walking into the heart of the manor side by side.",
       next = {30}
     },
     [30] = {
@@ -5546,7 +5545,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "管家将我们一众人引向宴会厅，厅室外围被一圈设计精妙的豪华水池所围绕。",
+      sentence = "The butler ushered us into the banquet hall. It was a spacious room bordered by an elegantly designed pool of water that gleamed like liquid sapphire.",
       next = {31}
     },
     [31] = {
@@ -5554,7 +5553,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "透明的池水呈现出淡淡的绿色，折射在墙壁镀的金水上，在我们身上泛出冷色的光。",
+      sentence = "Light refracted off the water's surface and danced across the golden walls, casting a cool shimmer across the guests.",
       next = {32}
     },
     [32] = {
@@ -5562,7 +5561,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "一张长桌将宴会厅分割成两半，每个座位前都有一张写上ID的名牌。",
+      sentence = "A long banquet table split the room, with each seat adorned with a nameplate.",
       next = {33}
     },
     [33] = {
@@ -5570,7 +5569,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "我和许墨按照名牌坐下，我不动声色地数了数长桌上的名牌，一共有十三个。",
+      sentence = "Lucien and I took our spots as I subtly counted the plates—there were thirteen.",
       next = {34}
     },
     [34] = {
@@ -5578,7 +5577,7 @@ story221 = {
       dialog = 3,
       music = "pause",
       renwu = "npc",
-      sentence = "就在这时，节奏清明的三道响声突兀地出现在纷杂的长桌上，打断了彼此谨慎的审视。",
+      sentence = "Just then, three crisp chimes echoed through the space.",
       next = {35}
     },
     [35] = {
@@ -5586,7 +5585,7 @@ story221 = {
       dialog = 3,
       music = "74_No_Hunting",
       renwu = "npc",
-      sentence = "许墨放下轻击餐铃的手，从长桌前站起身。灯光被水面分割成无数细碎波光，钻入那双深邃的眼底。",
+      sentence = "All eyes shifted toward Lucien, who had calmly rung the bell and now stood from his seat. Ripples of light played across his face as he met the crowd with composed confidence.",
       next = {36}
     },
     [36] = {
@@ -5595,14 +5594,13 @@ story221 = {
       idx = 2,
       male = 2,
       music = "74_No_Hunting",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 2177000,
       role2 = 202101,
       role3 = 202201,
       ruchang = -1,
-      sentence = "作为有神职的人类阵营，我想，由我贸然做游戏的开头，应该不过分。那么……",
-      voice = 1,
+      sentence = "As part of the human camp with special roles, I hope you'll allow me to start us off.",
       next = {37}
     },
     [37] = {
@@ -5613,7 +5611,7 @@ story221 = {
       role1 = 2177000,
       role2 = 202101,
       role3 = 202201,
-      sentence = "许墨脸上舒展出一抹坦然而自信的笑意，不疾不徐的声音清晰地响彻在宴会厅。",
+      sentence = "He paused, letting his calm, measured tone settle over the room.",
       next = {38}
     },
     [38] = {
@@ -5622,14 +5620,13 @@ story221 = {
       idx = 2,
       male = 2,
       music = "74_No_Hunting",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 2177000,
       role2 = 202101,
       role3 = 202201,
       ruchang = 9,
-      sentence = "我是这场游戏的猎人。",
-      voice = 1,
+      sentence = "I am the Hunter.",
       next = {39}
     },
     [39] = {
@@ -5639,7 +5636,7 @@ story221 = {
       music = "74_No_Hunting",
       renming = "$u",
       renwu = "npc",
-      sentence = "？！",
+      sentence = "Wait—what?!",
       next = {40}
     },
     [40] = {
@@ -5647,7 +5644,7 @@ story221 = {
       dialog = 3,
       music = "74_No_Hunting",
       renwu = "npc",
-      sentence = "宴会厅中原本略显沉闷的气氛瞬间像暴沸的热水般蒸腾起来。",
+      sentence = "The atmosphere suddenly boiled over.",
       next = {41}
     },
     [41] = {
@@ -5655,7 +5652,7 @@ story221 = {
       dialog = 3,
       music = "74_No_Hunting",
       renwu = "npc",
-      sentence = "大家似乎都有些意外许墨为什么在此时公开了身份，而我完全没心思参与讨论。",
+      sentence = "Murmurs spread like wildfire. Some looked surprised, others skeptical. As for me, I was spiraling.",
       next = {42}
     },
     [42] = {
@@ -5663,7 +5660,7 @@ story221 = {
       dialog = 3,
       music = "74_No_Hunting",
       renwu = "npc",
-      sentence = "完了。看来之后的夜晚我只能独自度过，白天还要被迫与许墨保持距离，不能被他看穿身份了……",
+      sentence = "Well, there goes the plan. Guess I'll have to fly solo at night and keep my distance during the day now. Can't risk him figuring me out.",
       next = {43}
     },
     [43] = {
@@ -5671,7 +5668,7 @@ story221 = {
       dialog = 3,
       music = "74_No_Hunting",
       renwu = "npc",
-      sentence = "虽然和他“斗智斗勇”也很有意思，不过……还是更想两个人一起。",
+      sentence = "Sure, the idea of matching wits with Lucien had its appeal... but I'd rather be on the same team.",
       next = {44}
     },
     [44] = {
@@ -5679,7 +5676,7 @@ story221 = {
       dialog = 3,
       music = "74_No_Hunting",
       renwu = "npc",
-      sentence = "我正沉浸在自己的“思考”里，一旁忽然有人从鼻间不屑地发出嗤声。",
+      sentence = "As I silently panicked, someone let out a dismissive snort.",
       next = {45}
     },
     [45] = {
@@ -5687,9 +5684,9 @@ story221 = {
       dialog = 2,
       idx = 5,
       music = "74_No_Hunting",
-      renming = "玩家",
+      renming = "Player",
       renwu = "npc",
-      sentence = "哈？会不会玩啊？",
+      sentence = "You serious? Do you even know how to play this game?",
       next = {46}
     },
     [46] = {
@@ -5697,7 +5694,7 @@ story221 = {
       dialog = 3,
       music = "74_No_Hunting",
       renwu = "npc",
-      sentence = "我抬眼看去，一个桌上名牌上写着“天才哥”的青年，率先针对许墨开了口。",
+      sentence = "I looked up to see the player with the nametag \"Genius Guy\" already launching the first attack.",
       next = {47}
     },
     [47] = {
@@ -5705,9 +5702,9 @@ story221 = {
       dialog = 2,
       idx = 5,
       music = "74_No_Hunting",
-      renming = "天才哥",
+      renming = "Genius Guy",
       renwu = "npc",
-      sentence = "第一天就打明牌，狼人今晚把你“刀”了，你最多也就只能开枪带走一个人。",
+      sentence = "Why would you show your hand on day one? The Werewolves'll off you tonight, and at best, you're taking one person down with you.",
       next = {48}
     },
     [48] = {
@@ -5715,7 +5712,7 @@ story221 = {
       dialog = 3,
       music = "74_No_Hunting",
       renwu = "npc",
-      sentence = "他仰着下巴，摇着头。",
+      sentence = "He tilted his chin arrogantly, shaking his head like a disappointed teacher.",
       next = {49}
     },
     [49] = {
@@ -5723,9 +5720,9 @@ story221 = {
       dialog = 2,
       idx = 5,
       music = "74_No_Hunting",
-      renming = "天才哥",
+      renming = "Genius Guy",
       renwu = "npc",
-      sentence = "人类阵营开局没了猎人真是倒大霉，学着点，像我这种身份才能打明牌。",
+      sentence = "Sucks for the humans to lose their Hunter so early. Take notes, will you? You should only go public when you have a role like mine.",
       next = {50}
     },
     [50] = {
@@ -5733,7 +5730,7 @@ story221 = {
       dialog = 3,
       music = "74_No_Hunting",
       renwu = "npc",
-      sentence = "他冲最角落的地方努了努下巴。",
+      sentence = "He jerked his chin toward the far corner of the room.",
       next = {51}
     },
     [51] = {
@@ -5741,9 +5738,9 @@ story221 = {
       dialog = 2,
       idx = 5,
       music = "74_No_Hunting",
-      renming = "天才哥",
+      renming = "Genius Guy",
       renwu = "npc",
-      sentence = "瞧瞧，我们两个，外来者。",
+      sentence = "See that guy over there? He and I. We are Outsiders.",
       next = {52}
     },
     [52] = {
@@ -5751,9 +5748,9 @@ story221 = {
       dialog = 2,
       idx = 5,
       music = "74_No_Hunting",
-      renming = "天才哥",
+      renming = "Genius Guy",
       renwu = "npc",
-      sentence = "在狼人出现之后才到的这座独墅，不可能是狼人，也没技能，铁好人，懂？",
+      sentence = "We arrived only after the Werewolves showed up. We've got no skills, no powers. We're totally clean. Capeesh?",
       next = {53}
     },
     [53] = {
@@ -5761,7 +5758,7 @@ story221 = {
       dialog = 3,
       music = "74_No_Hunting",
       renwu = "npc",
-      sentence = "墙角那个突然被曝光身份的人倏地冷冷站起，椅子随着他的动作滑到了后方。",
+      sentence = "In the corner, the player he pointed out slowly stood.",
       next = {54}
     },
     [54] = {
@@ -5769,7 +5766,7 @@ story221 = {
       dialog = 3,
       music = "74_No_Hunting",
       renwu = "npc",
-      sentence = "刺耳的划动声令人头皮发麻，几乎所有人都不约而同地蹙起眉。",
+      sentence = "His chair screeched backward with a sharp, grating sound that made everyone cringe.",
       next = {55}
     },
     [55] = {
@@ -5778,10 +5775,9 @@ story221 = {
       idx = 5,
       male = 2,
       music = "74_No_Hunting",
-      renming = "？？",
+      renming = "??",
       renwu = "npc",
-      sentence = "蠢人。",
-      voice = 1,
+      sentence = "Idiot.",
       next = {56}
     },
     [56] = {
@@ -5793,7 +5789,7 @@ story221 = {
       role2 = 802102,
       role3 = 802202,
       ruchang = -1,
-      sentence = "原本他坐在角落一直沉默，我之前没有关注到，现在定睛一看，那抹深绿色的头发和空洞的墨灰色眸子……",
+      sentence = "He'd sat silent in the shadow, barely noticed until now. He had dark green hair and a pair of lifeless gray eyes...",
       next = {57}
     },
     [57] = {
@@ -5808,7 +5804,7 @@ story221 = {
       role2 = 802102,
       role3 = 802202,
       ruchang = 9,
-      sentence = "……Joker？！",
+      sentence = "...Joker?!",
       next = {0}
     }
   },
@@ -6634,6 +6630,684 @@ story221 = {
       music = "103_LZY",
       renwu = "npc",
       sentence = "Before I realized what was happening, he had already put the camera away with a grin on his face.",
+      next = {0}
+    }
+  },
+  [412034] = {
+    [1] = {
+      beijing = 4678,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "The escalator carried us slowly upward. The city sky emerged again, bathed in moonlight and shadow.",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4678,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "I followed Victor down the stairs, head lowered, that earlier rush of triumph draining away with each step.",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4678,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "Three percent. I was minutes away from becoming an \"Infected\".",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4678,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "I ran through the subway in my head, combing over what I could've missed. My voice came out as a grumble.",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4678,
+      dhead = 105,
+      dialog = 1,
+      music = "04_Normal",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Ugh... it had to be that smoke cloud. Victor, what about you? What's yours at?",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4678,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "04_Normal",
+      renming = "Victor",
+      renwu = "npc",
+      role1 = 1187000,
+      role2 = 1187104,
+      role3 = 102201,
+      role5 = 1187402,
+      ruchang = -1,
+      sentence = "Fifty-three.",
+      voice = 2,
+      next = {7}
+    },
+    [7] = {
+      beijing = 4678,
+      dhead = 107,
+      dialog = 1,
+      music = "04_Normal",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 1187000,
+      role2 = 1187104,
+      role3 = 102201,
+      role5 = 1187402,
+      ruchang = 9,
+      sentence = "Whew... okay. You can still make it to the last contamination source.",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4678,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "Just knowing he was still okay helped me breathe again.",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4678,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "For a second, I reached toward his hand—then paused.",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4678,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "Even without the role-play rules, I was still moments away from turning into an \"Infected\". Best not to tempt fate.",
+      next = {11}
+    },
+    [11] = {
+      beijing = 4678,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "In the distance, a long, low horn echoed. A bus rolled into view, its headlights cutting through the dark. The display on the front flickered through its route—",
+      sfx = "Dia_CarHorn",
+      next = {12}
+    },
+    [12] = {
+      beijing = 4678,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "It was headed for the next contamination source.",
+      next = {13}
+    },
+    [13] = {
+      beijing = 4678,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "My wristband blinked again. 2%. I turned away from it and looked up at Victor longingly.",
+      next = {14}
+    },
+    [14] = {
+      beijing = 4678,
+      dhead = 105,
+      dialog = 1,
+      music = "04_Normal",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Ugh... just when I finally get to team up with you, we're about to be stuck on opposite sides again.",
+      next = {15}
+    },
+    [15] = {
+      beijing = 4678,
+      dhead = 105,
+      dialog = 1,
+      music = "04_Normal",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Heh, I'm kinda tempted to turn you into an Infected with me so we could stick on the same team.",
+      next = {16}
+    },
+    [16] = {
+      beijing = 4678,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      role1 = 1186000,
+      role2 = 1186108,
+      role3 = 101202,
+      ruchang = -1,
+      sentence = "His eyes fixed on mine before he nodded his head.",
+      next = {17}
+    },
+    [17] = {
+      beijing = 4678,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "04_Normal",
+      renming = "Victor",
+      renwu = "npc",
+      role1 = 1186000,
+      role2 = 1186108,
+      role3 = 101202,
+      sentence = "Alright. Let's do it.",
+      voice = 2,
+      next = {18}
+    },
+    [18] = {
+      beijing = 4678,
+      dhead = 107,
+      dialog = 1,
+      music = "04_Normal",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 1186000,
+      role2 = 1186108,
+      role3 = 101202,
+      sentence = "Hey, I was kidding!",
+      next = {19}
+    },
+    [19] = {
+      beijing = 4678,
+      dhead = 107,
+      dialog = 1,
+      music = "04_Normal",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 1186000,
+      role2 = 1186108,
+      role3 = 101202,
+      ruchang = 9,
+      sentence = "You're, like, one of the last two good guys left. You can't just switch teams on a whim!",
+      next = {20}
+    },
+    [20] = {
+      beijing = 6008,
+      bganim = 0,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "The bus was covered in garish decorations. It pulled up beside us with a mechanical groan, and its doors opened with a soft whir.",
+      sfx = "Dia_Machine_Operated",
+      next = {21}
+    },
+    [21] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "Then, Victor grabbed my wrist. Before I could react, he pulled me up onto the steps of the bus.",
+      next = {22}
+    },
+    [22] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "In that blink of a moment, I thought I saw something flash across my wrist—0%. Before I could react, the doors began to close behind us.",
+      next = {23}
+    },
+    [23] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "I looked up, stunned. Victor stood over me, one hand braced against the side of the swaying bus, looking down with a longing gaze.",
+      next = {24}
+    },
+    [24] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "The glow of the passing streetlamps cast fleeting shadows across his elegant and sharp features.",
+      next = {25}
+    },
+    [25] = {
+      beijing = 6008,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "Victor",
+      renwu = "npc",
+      role1 = 1186000,
+      role2 = 1186108,
+      role3 = 101202,
+      ruchang = -1,
+      sentence = "Personally, I think your plan sounds way more fun.",
+      voice = 2,
+      next = {26}
+    },
+    [26] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      role1 = 1186000,
+      role2 = 1186108,
+      role3 = 101202,
+      sentence = "I froze, lips parted slightly.",
+      next = {27}
+    },
+    [27] = {
+      beijing = 6008,
+      dhead = 111,
+      dialog = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 1186000,
+      role2 = 1186108,
+      role3 = 101202,
+      sentence = "...But you were just one step away from winning.",
+      next = {28}
+    },
+    [28] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      role1 = 1186000,
+      role2 = 1186101,
+      role3 = 101202,
+      sentence = "As if to answer me, the digits on his wristband stuttered once—then began to drop rapidly.",
+      next = {29}
+    },
+    [29] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      role1 = 1186000,
+      role2 = 1186101,
+      role3 = 101202,
+      ruchang = 9,
+      sentence = "—Scissorhands can touch the Infected, but he is not immune to the infection.",
+      next = {30}
+    },
+    [30] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "Beep.",
+      sfx = "Dia_CarHorn",
+      next = {31}
+    },
+    [31] = {
+      beijing = 6008,
+      bganim = 2,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "The bus jolted violently as it made a hard turn at the next intersection. The tires screeched as I staggered sideways, losing my balance as the cabin rocked around us.",
+      next = {32}
+    },
+    [32] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "In the next moment, Victor pulled me close, and the two of us tumbled into the nearby seat.",
+      next = {33}
+    },
+    [33] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "His arm tightened around my waist; his voice came low—like it rose from somewhere deep within the night, threading through my thoughts and stilling the world.",
+      next = {34}
+    },
+    [34] = {
+      beijing = 51911,
+      bganim = 0,
+      card_cg_anim = "CG_412034_34",
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "Victor",
+      renwu = "npc",
+      sentence = "…Dummy.",
+      voice = 2,
+      next = {35}
+    },
+    [35] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "Victor",
+      renwu = "npc",
+      sentence = "Winning is a matter of perspective. The faction you play for is simply an optional rule.",
+      voice = 2,
+      next = {36}
+    },
+    [36] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "Victor",
+      renwu = "npc",
+      sentence = "No matter which team we're on, victory will always lean our way.",
+      voice = 2,
+      next = {37}
+    },
+    [37] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "Victor",
+      renwu = "npc",
+      sentence = "You always believed that, didn't you?",
+      voice = 2,
+      next = {38}
+    },
+    [38] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "The certainty in his voice left no room for doubt. I found myself drowning in the alluring depth of his tender gaze.",
+      next = {39}
+    },
+    [39] = {
+      beijing = 51911,
+      card_cg_anim = "CG_412034_39",
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "Victor",
+      renwu = "npc",
+      sentence = "So just do what feels right.",
+      voice = 2,
+      next = {40}
+    },
+    [40] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "Victor",
+      renwu = "npc",
+      sentence = "And what I'm feeling right now... is the only reason I need.",
+      voice = 2,
+      next = {41}
+    },
+    [41] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "The chill of his metal pressed faintly through my clothes, sending a subtle tremor across my skin.",
+      next = {42}
+    },
+    [42] = {
+      beijing = 51911,
+      card_cg_anim = "CG_412034_42",
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "I blinked slowly, then smiled. My hand rose to his cheek in a featherlight touch.",
+      next = {43}
+    },
+    [43] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dhead = 107,
+      dialog = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Well, if you put it that way, then... guess we're switching sides together.",
+      next = {44}
+    },
+    [44] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dhead = 107,
+      dialog = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Let's be real, I'd rather stick with you than play this out alone.",
+      next = {45}
+    },
+    [45] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "A soft breeze stirred the air, catching my veil and brushing it across his brow, like an unspoken, intimate connection.",
+      next = {46}
+    },
+    [46] = {
+      beijing = 51911,
+      card_cg_anim = "CG_412034_46_3",
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "Victor reached up, gently brushing the veil aside. He peered through the gossamer-white and then leaned in.",
+      next = {47}
+    },
+    [47] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "There were a lot of things in his eyes, calm, longing, desire, but every single one of them was about me.",
+      next = {48}
+    },
+    [48] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "Then he spoke, low and even.",
+      next = {49}
+    },
+    [49] = {
+      beijing = 51911,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "Victor",
+      renwu = "npc",
+      sentence = "Convert me.",
+      voice = 2,
+      next = {50}
+    },
+    [50] = {
+      beijing = 6008,
+      bganim = 0,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "I turned my head, lips brushing the side of his neck.",
+      next = {51}
+    },
+    [51] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "Heat pulsed against the cool leather of his collar. In the blur of my vision, I caught a soft red light beginning to glow.",
+      next = {52}
+    },
+    [52] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "Victor's safety level was pulsating, like the fluttering leap of my feverish heartbeat.",
+      sfx = "Dia_Heart_Beating",
+      next = {53}
+    },
+    [53] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "Then, his number stilled, becoming one with mine.",
+      next = {54}
+    },
+    [54] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "109_LZY_Birthday_2023",
+      renwu = "npc",
+      sentence = "He leaned in slightly. I felt the quiet rumble of his voice near my ear, this time with a softness that almost slipped past the edges of words.",
+      next = {55}
+    },
+    [55] = {
+      beijing = 6008,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "109_LZY_Birthday_2023",
+      renming = "Victor",
+      renwu = "npc",
+      role1 = 1187000,
+      role2 = 1187104,
+      role3 = 102203,
+      role5 = 1187402,
+      sentence = "Now we're the same.",
+      voice = 2,
+      next = {56}
+    },
+    [56] = {
+      beijing = 6008,
+      bganim = 0,
+      dialog = 3,
+      music = "1027_2024Halloween",
+      renwu = "npc",
+      sentence = "A thin figure darted down the street—a \"Wizard\" character, clearly out of options. A group was gaining on him, fast.",
+      next = {57}
+    },
+    [57] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "1027_2024Halloween",
+      renwu = "npc",
+      sentence = "Panic carved itself into his expression. His pace faltered.",
+      next = {58}
+    },
+    [58] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "1027_2024Halloween",
+      renwu = "npc",
+      sentence = "And then, screeching to a stop, a large decorated bus cut him off.",
+      next = {59}
+    },
+    [59] = {
+      beijing = 6008,
+      dialog = 2,
+      idx = 5,
+      music = "1027_2024Halloween",
+      renming = "Boy",
+      renwu = "npc",
+      sentence = "Wait, you guys are—?",
+      next = {60}
+    },
+    [60] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "1027_2024Halloween",
+      renwu = "npc",
+      role1 = 1187000,
+      role2 = 1187102,
+      role3 = 102201,
+      role5 = 1187401,
+      ruchang = -1,
+      sentence = "Victor raised the vial of golden fluid in his hand, his voice cool and without room for argument.",
+      next = {61}
+    },
+    [61] = {
+      beijing = 6008,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "1027_2024Halloween",
+      renming = "Victor",
+      renwu = "npc",
+      role1 = 1187000,
+      role2 = 1187102,
+      role3 = 102201,
+      role5 = 1187401,
+      sentence = "The other two players. The ones from the broadcast. We're here for you.",
+      voice = 2,
+      next = {62}
+    },
+    [62] = {
+      beijing = 6008,
+      dialog = 3,
+      music = "1027_2024Halloween",
+      renwu = "npc",
+      role1 = 1187000,
+      role2 = 1187104,
+      role3 = 102203,
+      role5 = 1187401,
+      sentence = "He turned his head just enough to glance my way. I met his eyes with a smile and leaned halfway out the window, stretching out a hand toward the stunned survivor.",
+      next = {63}
+    },
+    [63] = {
+      beijing = 6008,
+      dhead = 110,
+      dialog = 1,
+      music = "1027_2024Halloween",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 1187000,
+      role2 = 1187102,
+      role3 = 102203,
+      role5 = 1187401,
+      sentence = "C'mon, no time to freeze up. Get in!",
+      next = {64}
+    },
+    [64] = {
+      beijing = 6008,
+      dhead = 107,
+      dialog = 1,
+      music = "1027_2024Halloween",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 1187000,
+      role2 = 1187102,
+      role3 = 102203,
+      role5 = 1187401,
+      ruchang = 9,
+      sentence = "We've got plenty to catch you up on.",
       next = {0}
     }
   },
@@ -9848,6 +10522,490 @@ story221 = {
       next = {0}
     }
   },
+  [441353] = {
+    [1] = {
+      beijing = 4673,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "We left the shop to find the night deep and dark.",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4673,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "After scrolling uselessly through my usual apps, I leaned my head against Gavin's shoulder in mock despair.",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4673,
+      dhead = 112,
+      dialog = 1,
+      music = "47_Warm_Daily",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4201000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4201401,
+      ruchang = -1,
+      sentence = "All the reviews are old, and no one's posted about new places here.",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4673,
+      dhead = 112,
+      dialog = 1,
+      music = "47_Warm_Daily",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4201000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4201401,
+      sentence = "Gavin... I guess we're \"on the streets\" tonight.",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4673,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "47_Warm_Daily",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4201000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4201401,
+      ruchang = 9,
+      sentence = "Wandering with you sounds like my kind of night. We might find something special.",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4673,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "We wandered under hazy streetlights. This area felt still and quiet, a world away from Loveland City's lively nights.",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4673,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "Just then, a sweet, warm smell drifted by—and my stomach answered with a low rumble.",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4210,
+      bganim = 0,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "Tucked in an alley was a small cart—a converted tricycle. A handwritten sign read: \"Gran & Gramp's Hotcakes—$1 each.\"",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "A silver-haired woman sat on a low stool beside a glowing stove, her hands steady and calm.",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "47_Warm_Daily",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4201000,
+      role2 = 403110,
+      role3 = 403207,
+      role5 = 4201401,
+      ruchang = -1,
+      sentence = "Ma’am, we’d like ten, please.",
+      next = {11}
+    },
+    [11] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "Elderly Woman",
+      renwu = "npc",
+      role1 = 4201000,
+      role2 = 403110,
+      role3 = 403207,
+      role5 = 4201401,
+      ruchang = 9,
+      sentence = "Okay, dear.",
+      next = {12}
+    },
+    [12] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "She rose slowly and placed a palm-sized metal pan over the flame.",
+      next = {13}
+    },
+    [13] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "Then she brushed it with oil and poured in the batter. The hotcake puffed up gently, smelling like butter and comfort.",
+      next = {14}
+    },
+    [14] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "Elderly Woman",
+      renwu = "npc",
+      sentence = "Sweet or spicy today?",
+      next = {15}
+    },
+    [15] = {
+      beijing = 4210,
+      dhead = 114,
+      dialog = 1,
+      music = "47_Warm_Daily",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Let's do half and half!",
+      next = {16}
+    },
+    [16] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "The elderly woman smiled and flipped the hotcake neatly with a skewer. Her eyes shifted between Gavin and me, curious.",
+      next = {17}
+    },
+    [17] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "Elderly Woman",
+      renwu = "npc",
+      sentence = "You're not from around here, are you?",
+      next = {18}
+    },
+    [18] = {
+      beijing = 4210,
+      dhead = 113,
+      dialog = 1,
+      music = "47_Warm_Daily",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "We came to spend New Year's here.",
+      next = {19}
+    },
+    [19] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "Elderly Woman",
+      renwu = "npc",
+      sentence = "What brings you to this quiet part of town?",
+      next = {20}
+    },
+    [20] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "Elderly Woman",
+      renwu = "npc",
+      sentence = "It's mostly elderly folks here—we keep early hours.",
+      next = {21}
+    },
+    [21] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "Elderly Woman",
+      renwu = "npc",
+      sentence = "You're lucky you caught me. I usually close up earlier.",
+      next = {22}
+    },
+    [22] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "I was still gathering my words when Gavin answered for us, his tone easy.",
+      next = {23}
+    },
+    [23] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "47_Warm_Daily",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4202000,
+      role2 = 402107,
+      role3 = 402202,
+      role5 = 4202401,
+      ruchang = -1,
+      sentence = "I traveled far for work. She missed me.",
+      next = {24}
+    },
+    [24] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      role1 = 4202000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4202401,
+      sentence = "My face flushed. I gave his arm a light squeeze and mumbled under my breath.",
+      next = {25}
+    },
+    [25] = {
+      beijing = 4210,
+      demoji = 202,
+      dhead = 112,
+      dialog = 1,
+      music = "47_Warm_Daily",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4202000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4202401,
+      ruchang = 9,
+      sentence = "Don't say stuff like that...",
+      next = {26}
+    },
+    [26] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "Noticing my shy reaction, the elderly woman chuckled as she scooped red bean paste into the hotcake.",
+      next = {27}
+    },
+    [27] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "Elderly Woman",
+      renwu = "npc",
+      sentence = "Ah, to be young and in love! You treasure each other—that's what matters.",
+      next = {28}
+    },
+    [28] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "Elderly Woman",
+      renwu = "npc",
+      sentence = "My husband and I were the same. Years pass in a blink when your hearts are connected.",
+      next = {29}
+    },
+    [29] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      role1 = 4202000,
+      role2 = 402107,
+      role3 = 402202,
+      role5 = 4202401,
+      ruchang = -1,
+      sentence = "Her words hung softly in the air. I found myself watching Gavin.",
+      next = {30}
+    },
+    [30] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      role1 = 4202000,
+      role2 = 402107,
+      role3 = 402202,
+      role5 = 4202401,
+      sentence = "The gentle light blurred his usual intensity. A small, private smile touched his lips.",
+      next = {31}
+    },
+    [31] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      role1 = 4202000,
+      role2 = 402107,
+      role3 = 402202,
+      role5 = 4202401,
+      sentence = "A dusting of snow had settled in his hair, catching the light like silver.",
+      next = {32}
+    },
+    [32] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      role1 = 4202000,
+      role2 = 402107,
+      role3 = 402202,
+      role5 = 4202401,
+      ruchang = 9,
+      sentence = "Looking at him, I could almost picture us grown old—still walking side by side, sharing warm food on a cold night.",
+      next = {33}
+    },
+    [33] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "??",
+      renwu = "npc",
+      sentence = "Alright, my dear. Time to head back.",
+      next = {34}
+    },
+    [34] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "A clear voice cut through the quiet. We both turned to see a bright-eyed elderly man approaching with a thermos.",
+      next = {35}
+    },
+    [35] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "He guided his wife to a stool and took over the stall, brushing each hotcake with sauce and tucking them into a bag.",
+      next = {36}
+    },
+    [36] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "Elderly Woman",
+      renwu = "npc",
+      sentence = "Do you know a good spot to watch the New Year's fireworks?",
+      next = {37}
+    },
+    [37] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "Elderly Man",
+      renwu = "npc",
+      sentence = "Not around here. But the new city square has fireworks—all the young people gather there.",
+      next = {38}
+    },
+    [38] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 5,
+      music = "47_Warm_Daily",
+      renming = "Elderly Woman",
+      renwu = "npc",
+      sentence = "Right, right—there are fireworks. You’ll need to hurry if you want to catch them.",
+      next = {39}
+    },
+    [39] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      role1 = 4202000,
+      role2 = 402107,
+      role3 = 402202,
+      role5 = 4202401,
+      ruchang = -1,
+      sentence = "Gavin nodded and accepted the bag of hotcakes.",
+      next = {40}
+    },
+    [40] = {
+      beijing = 4210,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "47_Warm_Daily",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4202000,
+      role2 = 402107,
+      role3 = 402202,
+      role5 = 4202401,
+      ruchang = 9,
+      sentence = "Alright, thank you so much.",
+      next = {41}
+    },
+    [41] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "The elderly couple made their way off, the wife waving warmly from her seat while her husband gave a firm, kind nod as he pushed the cart.",
+      next = {42}
+    },
+    [42] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "Their shadows stretched long under the lamps, then shortened, always side by side.",
+      next = {43}
+    },
+    [43] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "We stood listening as their voices drifted back—his teasing remarks, her bright laughter.",
+      next = {44}
+    },
+    [44] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "For a moment, the quiet street seemed to transform into a vibrant memory—their voices growing young again, bright and full of life.",
+      next = {45}
+    },
+    [45] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "A boy pedaling a bicycle, a girl laughing behind him, riding through clean, rain-washed streets on their way home.",
+      next = {46}
+    },
+    [46] = {
+      beijing = 4210,
+      dialog = 3,
+      music = "47_Warm_Daily",
+      renwu = "npc",
+      sentence = "Their figures slowly faded into time, but their laughter lingered, unchanged by the years.",
+      next = {0}
+    }
+  },
   [630073] = {
     [1] = {
       beijing = 2135,
@@ -11431,7 +12589,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "叮咚——一大清早我就在酒店大厅收到了一封邮件。",
+      sentence = "*Ding* I received a mail in the hotel lobby early in the morning.",
       sfx = "Dia_Phone_MessageRecieve",
       next = {2}
     },
@@ -11440,15 +12598,17 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "打开精致的信封后，除了一张车票之外，还有一封手写的信件。",
+      sentence = "I opened the exquisite envelope to see not just a train ticket, but a handwritten letter.",
       next = {3}
     },
     [3] = {
       beijing = 4577,
       dialog = 3,
+      game_params = 1908,
+      game_type = "Tinymail",
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "打开邮件",
+      sentence = "Open Mail",
       next = {4}
     },
     [4] = {
@@ -11456,7 +12616,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "我面带微笑着把这张来之不易的门票放在包里。",
+      sentence = "I put the special ticket away in my bag with a smile.",
       next = {5}
     },
     [5] = {
@@ -11464,7 +12624,7 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "随后将相机放在手上，准备在登上列车后拍下能看到的每一寸风光。",
+      sentence = "Then, I took out my camera so that I was ready to photograph all the beautiful scenery I saw on the train.",
       next = {6}
     },
     [6] = {
@@ -11472,7 +12632,91 @@ story221 = {
       dialog = 3,
       music = "20_SeaSide",
       renwu = "npc",
-      sentence = "相信这一次，一定能拍到比平时更特别的风景吧。",
+      sentence = "This time, I would definitely capture something more special than usual.",
+      next = {0}
+    }
+  },
+  [838002] = {
+    [1] = {
+      beijing = 201021,
+      dialog = 3,
+      music = "1031_2024anniversary_scene",
+      renwu = "npc",
+      sentence = "I took a careful look around the top deck of the cruise ship—it felt like a full-scale version of the blueprint brought to life. With a quiet breath of relief, I took it all in.",
+      next = {2}
+    },
+    [2] = {
+      beijing = 201021,
+      dialog = 3,
+      music = "1031_2024anniversary_scene",
+      renwu = "npc",
+      sentence = "From the layout to the facilities, everything was just as I had imagined.",
+      next = {3}
+    },
+    [3] = {
+      beijing = 201021,
+      dialog = 3,
+      music = "1031_2024anniversary_scene",
+      renwu = "npc",
+      sentence = "Wasting no time, I pulled out the decorations and gifts I had stashed away in the storage room: bouquets, fine wine, twinkling lights... all patiently waiting to become part of the birthday surprise.",
+      next = {4}
+    },
+    [4] = {
+      beijing = 201021,
+      dialog = 3,
+      music = "1031_2024anniversary_scene",
+      renwu = "npc",
+      sentence = "I was just about to follow the markings on the design plan and begin decorating when something else caught my eye—an unfinished gift still tucked away in the box.",
+      next = {5}
+    },
+    [5] = {
+      beijing = 201021,
+      dialog = 3,
+      music = "1031_2024anniversary_scene",
+      renwu = "npc",
+      sentence = "Peeking out from a stack of colorful cardstock was a pink handmade book, radiating a soft, charming warmth.",
+      next = {6}
+    },
+    [6] = {
+      beijing = 201021,
+      dhead = 113,
+      dialog = 1,
+      music = "1031_2024anniversary_scene",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Looks like I'll need to manage my time carefully.",
+      next = {7}
+    },
+    [7] = {
+      beijing = 201021,
+      dhead = 114,
+      dialog = 1,
+      music = "1031_2024anniversary_scene",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "This gift has to reach Victor on his birthday. It's gotta be flawless and complete.",
+      next = {101, 102}
+    },
+    [101] = {
+      beijing = 201021,
+      dialog = 3,
+      music = "67_bitrhdaysong",
+      option_params = "1",
+      option_type = "Birthday_Diy_Choose",
+      renwu = "npc",
+      sentence = "I'll work on the pop-up book first!",
+      title = "I'll work on the pop-up book first!",
+      next = {0}
+    },
+    [102] = {
+      beijing = 201021,
+      dialog = 3,
+      music = "67_bitrhdaysong",
+      option_params = "2",
+      option_type = "Birthday_Diy_Choose",
+      renwu = "npc",
+      sentence = "I'll work on the decorations first!",
+      title = "I'll work on the decorations first!",
       next = {0}
     }
   },

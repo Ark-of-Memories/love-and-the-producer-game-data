@@ -72,8 +72,8 @@ data = {
   },
   [11] = {
     store_type = 1,
-    start_times = "2025/1/20 5:00:00",
-    end_times = "2025/2/4 4:59:00",
+    start_times = "2025/12/23 5:00:00",
+    end_times = "2026/1/6 23:59:59",
     store_name = "Clothing Shop",
     resetting_type = 2
   }

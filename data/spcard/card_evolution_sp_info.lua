@@ -5487,7 +5487,7 @@ data = {
       card_property_inc_perc = 75,
       card_transform = 3,
       card_motion_number = 1,
-      card_evolution_drop = "1038,393,1:141038,101,1"
+      card_evolution_drop = "119051,101,15"
     },
     [910307] = {
       card_evolution_type = 0,
@@ -5514,7 +5514,7 @@ data = {
       card_transform = 4,
       card_motion_number = 1,
       card_evolution_drop = "9103001,394,1",
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     },
     [910309] = {
       card_evolution_type = 1,
@@ -5526,7 +5526,7 @@ data = {
       card_level_limit = 80,
       card_property_inc_perc = 90,
       card_transform = 4,
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     },
     [910310] = {
       card_evolution_type = 1,
@@ -5538,7 +5538,7 @@ data = {
       card_level_limit = 80,
       card_property_inc_perc = 95,
       card_transform = 4,
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     }
   },
   [92010] = {
@@ -5901,7 +5901,7 @@ data = {
       card_property_inc_perc = 75,
       card_transform = 3,
       card_motion_number = 1,
-      card_evolution_drop = "2036,393,1:142036,101,1"
+      card_evolution_drop = "119051,101,15"
     },
     [920307] = {
       card_evolution_type = 0,
@@ -5928,7 +5928,7 @@ data = {
       card_transform = 4,
       card_motion_number = 1,
       card_evolution_drop = "9203001,394,1",
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     },
     [920309] = {
       card_evolution_type = 1,
@@ -5940,7 +5940,7 @@ data = {
       card_level_limit = 80,
       card_property_inc_perc = 90,
       card_transform = 4,
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     },
     [920310] = {
       card_evolution_type = 1,
@@ -5952,7 +5952,7 @@ data = {
       card_level_limit = 80,
       card_property_inc_perc = 95,
       card_transform = 4,
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     }
   },
   [93010] = {
@@ -6315,7 +6315,7 @@ data = {
       card_property_inc_perc = 75,
       card_transform = 3,
       card_motion_number = 1,
-      card_evolution_drop = "3036,393,1:143036,101,1"
+      card_evolution_drop = "119051,101,15"
     },
     [930307] = {
       card_evolution_type = 0,
@@ -6342,7 +6342,7 @@ data = {
       card_transform = 4,
       card_motion_number = 1,
       card_evolution_drop = "9303001,394,1",
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     },
     [930309] = {
       card_evolution_type = 1,
@@ -6354,7 +6354,7 @@ data = {
       card_level_limit = 80,
       card_property_inc_perc = 90,
       card_transform = 4,
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     },
     [930310] = {
       card_evolution_type = 1,
@@ -6366,7 +6366,7 @@ data = {
       card_level_limit = 80,
       card_property_inc_perc = 95,
       card_transform = 4,
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     }
   },
   [94010] = {
@@ -6729,7 +6729,7 @@ data = {
       card_property_inc_perc = 75,
       card_transform = 3,
       card_motion_number = 1,
-      card_evolution_drop = "4038,393,1:144038,101,1"
+      card_evolution_drop = "119051,101,15"
     },
     [940307] = {
       card_evolution_type = 0,
@@ -6756,7 +6756,7 @@ data = {
       card_transform = 4,
       card_motion_number = 1,
       card_evolution_drop = "9403001,394,1",
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     },
     [940309] = {
       card_evolution_type = 1,
@@ -6768,7 +6768,7 @@ data = {
       card_level_limit = 80,
       card_property_inc_perc = 90,
       card_transform = 4,
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     },
     [940310] = {
       card_evolution_type = 1,
@@ -6780,7 +6780,7 @@ data = {
       card_level_limit = 80,
       card_property_inc_perc = 95,
       card_transform = 4,
-      mapping_faceLv = 0
+      mapping_faceLv = 1
     }
   }
 }

@@ -3470,6 +3470,529 @@ story273 = {
       next = {0}
     }
   },
+  [126310] = {
+    [1] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "The projector slowly descended.",
+      next = {2}
+    },
+    [2] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "For a beat, the screen glowed blue, then flickered to life.",
+      next = {3}
+    },
+    [3] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "A technician zoomed in on the chat feed. The screen bloomed with messages, cascading upward like a storm of voices.",
+      next = {4}
+    },
+    [4] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "\"Ten years? That's amazing! I might actually live to see my daughter graduate.\" \"Finally, some real hope. That reporter has no idea what she's talking about!\"",
+      next = {5}
+    },
+    [5] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "\"I don't care what it costs. I'll find a way to get my mom this treatment.\" \"Thank you, Professor Lucien!\"",
+      next = {6}
+    },
+    [6] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "Hundreds of messages followed, each fused with overwhelming emotion. Some from the young, still clinging to their futures, others from patients who had already run out of time.",
+      next = {7}
+    },
+    [7] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "No podium, no microphone... and yet their voices felt louder than anything else in the room.",
+      next = {8}
+    },
+    [8] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "My chest loosened. For the first time in hours, I exhaled. The screen blurred faintly in front of me, and I realized it wasn't from the light.",
+      next = {9}
+    },
+    [9] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "After all the criticism, all the doubts and accusations, Lucien was finally standing before them again. And this time, the world was listening.",
+      next = {10}
+    },
+    [10] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 223000,
+      role2 = 201106,
+      role3 = 201201,
+      role5 = 223404,
+      ruchang = -1,
+      sentence = "The venue fell into a solemn hush. No one rose to speak; no more challenges stirred the silence. Lucien lifted the microphone with deliberate ease, and his voice rose at last.",
+      next = {11}
+    },
+    [11] = {
+      beijing = 1681,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "07_Romantic",
+      renming = "Lucien",
+      renwu = "npc",
+      role1 = 223000,
+      role2 = 201106,
+      role3 = 201201,
+      role5 = 223404,
+      sentence = "I believe that whenever we speak of the divide between science and the humanities, there is one truth we must not lose sight of.",
+      next = {12}
+    },
+    [12] = {
+      beijing = 1681,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "07_Romantic",
+      renming = "Lucien",
+      renwu = "npc",
+      role1 = 223000,
+      role2 = 201106,
+      role3 = 201201,
+      role5 = 223404,
+      ruchang = 9,
+      sentence = "There is no greater failure of humanism—no deeper betrayal of compassion—than to stand idle while lives hang in the balance.",
+      next = {13}
+    },
+    [13] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "A pause. Then, slowly, someone began to clap.",
+      next = {14}
+    },
+    [14] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "It spread like wildfire—first one, then many, until the applause thundered through the hall. Relief bloomed across the space like sunlight piercing through storm clouds.",
+      next = {15}
+    },
+    [15] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "Bathed in the soft light of a descending afternoon, Lucien stood poised, his silhouette edged in gold.",
+      next = {16}
+    },
+    [16] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "The crowd blurred around him in my vision, and all I could see was him—his quiet exchange with Dr. Howell, his weary sigh back at the lab.",
+      next = {17}
+    },
+    [17] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "My throat tightened. I leaned in to whisper to the colleague beside me.",
+      next = {18}
+    },
+    [18] = {
+      beijing = 1681,
+      dhead = 307,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Keep an eye on the comments. I've got a feeling a lot of patients will be reaching out.",
+      next = {19}
+    },
+    [19] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "Once the room quieted again and no further questions were raised, I stepped up and took the microphone in hand.",
+      next = {20}
+    },
+    [20] = {
+      beijing = 1681,
+      dhead = 301,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Thank you all for your insightful questions. We're reaching the end of today's presentation.",
+      next = {21}
+    },
+    [21] = {
+      beijing = 1681,
+      dhead = 301,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Professor Lucien, any final words you'd like to leave us with?",
+      next = {22}
+    },
+    [22] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 223000,
+      role2 = 201105,
+      role3 = 201201,
+      role5 = 223404,
+      ruchang = -1,
+      sentence = "Lucien didn't answer immediately. He looked at me in thought, long enough that I felt the silence draw tight.",
+      next = {23}
+    },
+    [23] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 223000,
+      role2 = 201105,
+      role3 = 201201,
+      role5 = 223404,
+      sentence = "Then, his voice returned, yet it felt intimate, like he was whispering something into my ears.",
+      next = {24}
+    },
+    [24] = {
+      beijing = 1681,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "07_Romantic",
+      renming = "Lucien",
+      renwu = "npc",
+      role1 = 223000,
+      role2 = 201105,
+      role3 = 201201,
+      role5 = 223404,
+      sentence = "Research isn't a sprint. It's a long, winding path. You stumble. You pause. Sometimes, you lose your way.",
+      next = {25}
+    },
+    [25] = {
+      beijing = 1681,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "07_Romantic",
+      renming = "Lucien",
+      renwu = "npc",
+      role1 = 223000,
+      role2 = 201105,
+      role3 = 201201,
+      role5 = 223404,
+      sentence = "But what matters is finding your anchor—and holding on to it.",
+      next = {26}
+    },
+    [26] = {
+      beijing = 1681,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "07_Romantic",
+      renming = "Lucien",
+      renwu = "npc",
+      role1 = 223000,
+      role2 = 201105,
+      role3 = 201201,
+      role5 = 223404,
+      ruchang = 9,
+      sentence = "No matter what. That's how you see it through to the end.",
+      next = {27}
+    },
+    [27] = {
+      beijing = 1681,
+      bganim = 0,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "As the rep from Harborlight gave the closing speech, the presentation officially came to a close.",
+      next = {28}
+    },
+    [28] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "The press slowly filtered out, and equipment was packed away. A few guests lingered at the front, engaging Lucien in quiet, intent discussion.",
+      next = {29}
+    },
+    [29] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "I waved our team off to the company van, then sat down alone at the back of the hall.",
+      next = {30}
+    },
+    [30] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "I rested my chin in my palm and watched him, just as I used to in those quieter days, waiting outside the lab, ready to walk home together under the city lights.",
+      next = {31}
+    },
+    [31] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      ruchang = -1,
+      sentence = "Lucien met my gaze and offered a faint, knowing smile. He exchanged a few quiet words with the professors—nothing I could hear, but they gave a final glance in my direction, then left the room in small groups, their footsteps echoing as the door clicked shut behind them.",
+      next = {32}
+    },
+    [32] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      sentence = "The spacious hall suddenly felt vast and still.",
+      sfx = "Metal_door_close",
+      next = {33}
+    },
+    [33] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "Lucien opened his arms slightly in invitation. I didn't hesitate, hurrying over and wrapping myself in his arms. Maybe I was imagining it, but his embrace felt tighter than usual.",
+      next = {34}
+    },
+    [34] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "I felt like a leaf carried by countless winds, drifting through endless skies. At last, I had found my home.",
+      next = {35}
+    },
+    [35] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "I nestled closer, my cheek brushing his shoulder, and tilted my head to look up at him.",
+      next = {36}
+    },
+    [36] = {
+      beijing = 1681,
+      dhead = 307,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "I know I've already said this a thousand times, but...",
+      next = {37}
+    },
+    [37] = {
+      beijing = 1681,
+      dhead = 313,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "Lucien, you're amazing.",
+      next = {38}
+    },
+    [38] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "A soft laugh escaped him. Outside, the clouds moved lazily across the sky, the sunlight slipping through and scattering across the walls.",
+      next = {39}
+    },
+    [39] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "The weight of the past months, the doubt, and the fear all seemed to dissolve in that rosy warmth.",
+      next = {40}
+    },
+    [40] = {
+      beijing = 1681,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "07_Romantic",
+      renming = "Lucien",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "I think so too. But if I had to say what I'm truly proud of...",
+      next = {41}
+    },
+    [41] = {
+      beijing = 1681,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "07_Romantic",
+      renming = "Lucien",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "It's that I found my anchor a long, long time ago.",
+      next = {42}
+    },
+    [42] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "Remembering his closing words, something in his voice made my smile widen. I couldn't help but chuckle.",
+      next = {43}
+    },
+    [43] = {
+      beijing = 1681,
+      dhead = 307,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "Wow, I had no idea I played such a pivotal role in the great Professor Lucien's research. Should I be flattered?",
+      next = {44}
+    },
+    [44] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "He didn't answer immediately.",
+      next = {45}
+    },
+    [45] = {
+      beijing = 1681,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "The afternoon sun caught in his eyes, casting a golden shimmer more alluring than the moonlight that once held me captive. But beneath that gentle glow was a flame lit by ambition, smoldering deep beneath the boundless depth of his gaze.",
+      next = {46}
+    },
+    [46] = {
+      beijing = 1681,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "07_Romantic",
+      renming = "Lucien",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      sentence = "Of course. You're more important to me than you know.",
+      next = {47}
+    },
+    [47] = {
+      beijing = 1681,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "07_Romantic",
+      renming = "Lucien",
+      renwu = "npc",
+      role1 = 224000,
+      role2 = 202101,
+      role3 = 202201,
+      roleanim = 1.1,
+      ruchang = 9,
+      sentence = "No matter what awaits at the end of this road, be it light or shadow, triumph or ruin, I'll always want you right beside me.",
+      next = {0}
+    }
+  },
   [410064] = {
     [1] = {
       beijing = 1422,
@@ -10901,6 +11424,88 @@ story273 = {
       game_type = "Textmessage",
       music = "60_Beaytiful_Daily",
       renwu = "npc",
+      next = {0}
+    }
+  },
+  [831314] = {
+    [1] = {
+      beijing = 1871,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "空调冷风徐徐，我闲来无事，准备将夏天出行时用的几个行李箱擦拭干净，放入杂物间里。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 1871,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "整理到最后一个行李箱，我伸手从隔袋中摸出了几个冰凉的物体。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 1871,
+      dhead = 111,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "这个是我们在沙滩上散步时捡的海螺；",
+      next = {4}
+    },
+    [4] = {
+      beijing = 1871,
+      dhead = 101,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "这个贝壳是白起帮小男孩捞起漂走的泳帽时收到的谢礼；这个是……",
+      next = {5}
+    },
+    [5] = {
+      beijing = 1871,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "每一个贝壳，都提醒着我这个夏天独一无二的回忆。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 1871,
+      dhead = 112,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "把它们收在箱子里也太可惜了……",
+      next = {7}
+    },
+    [7] = {
+      beijing = 1871,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "我的视线在杂物间游移，当瞄到杂物箱里的木质相框时，我终于有了主意。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 1871,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "我取出相框，用502胶将贝壳粘在框上。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 1871,
+      dhead = 107,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "白起回来之后，和他一起看看放什么照片吧。",
       next = {0}
     }
   }

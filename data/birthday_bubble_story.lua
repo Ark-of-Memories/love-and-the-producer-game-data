@@ -1942,7 +1942,7 @@ data = {
       {
         speaker = 2301,
         bubble_type = {3},
-        sentence = "好了……3、2、1，启动。",
+        sentence = "Okay... 3, 2, 1, activate.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -1971,35 +1971,35 @@ data = {
       {
         speaker = 2203,
         bubble_type = {2},
-        sentence = "……系统初始化完成。检测自我模块中……",
+        sentence = "...System initialization complete. Testing autonomous module...",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2301,
         bubble_type = {3},
-        sentence = "你好！你能听见我吗？",
+        sentence = "Hello? Can you hear me?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2203,
         bubble_type = {2},
-        sentence = "声音信号已接收……请问，我是谁？",
+        sentence = "Voice signal received... Who am I?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2301,
         bubble_type = {1},
-        sentence = "你的名字叫“咕噜”，是我发明的机器人助手。",
+        sentence = "Your name is Gurgo, a robot assistant that I created.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2203,
         bubble_type = {2},
-        sentence = "咕噜？检测中……姓名标签已录入。主人，你好！",
+        sentence = "Gurgo? Detecting... Name tag registered. Sir, hello.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2016,7 +2016,7 @@ data = {
       {
         speaker = 2301,
         bubble_type = {1},
-        sentence = "启动得比我预想的顺利。你感觉怎么样？",
+        sentence = "The program runs better than I expected. How are you feeling now?",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2033,7 +2033,7 @@ data = {
       {
         speaker = 2203,
         bubble_type = {2},
-        sentence = "系统运行平稳，当前温度22.7摄氏度。心情模块：好奇。",
+        sentence = "The system runs stably. The current room temperature is 22.7 °C. Mood module: Curious.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2050,14 +2050,14 @@ data = {
       {
         speaker = 2301,
         bubble_type = {1},
-        sentence = "很好，让我们先来试着做点什么，怎么样？",
+        sentence = "Good. Let's try doing something, shall we?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2203,
         bubble_type = {2},
-        sentence = "明白。下达第一条指令吧，许博士！",
+        sentence = "Understood. What is your first command, Dr. Lucien?",
         trigger_mode = 1,
         animeInfo = {}
       },
@@ -2092,7 +2092,7 @@ data = {
       {
         speaker = 2301,
         bubble_type = {1, 1},
-        sentence = "第一条指令——给我来一杯不加糖不加奶的咖啡。",
+        sentence = "The first command is—give me a coffee, no sugar or milk.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2109,14 +2109,14 @@ data = {
       {
         speaker = 2203,
         bubble_type = {2, 2},
-        sentence = "正在检索咖啡定义……建议：启动小卖部采购模式。",
+        sentence = "Searching for the definition of coffee... Suggestion: Activate convenience store shopping mode.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2301,
         bubble_type = {1, 1},
-        sentence = "嗯……看来还有点不够完美。不过没关系，我们有的是时间慢慢优化。",
+        sentence = "Hmm... Guess it's still not perfect, but that's okay. We have plenty of time to work on it.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2135,7 +2135,7 @@ data = {
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "拖拖，启动清洁模式，小心别碰到咕噜。",
+        sentence = "Moppo, activate cleaning mode, and watch out for Gurgo.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2167,56 +2167,56 @@ data = {
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "指令已接收。检测结果：你被标记为非清洁区域。优先避开。",
+        sentence = "Command received. Detected result: You have been marked as a non-cleaning area. Must avoid.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {2, 2},
-        sentence = "嗯……那你发现了哪些\n“清洁区域”？",
+        sentence = "So, what cleaning areas did you find?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "正在报告。地面上的纸屑、工具屑，以及……许博士的三明治袋子。",
+        sentence = "Reporting in progress. Paper scraps, tool shavings, and... Dr. Lucien's sandwich bag.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "呃，那是昨天测试设备时的意外，不用记那么清楚。",
+        sentence = "Okay, that was from the device testing accident yesterday. No need to mark that down.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {2, 2},
-        sentence = "数据记录和分类，我也可以做到。如果我是扫地机器人，我会更智能。",
+        sentence = "I can also record and categorize data. I would be smarter than Moppo as a cleaning robot.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "清洁效率98%。你的建议将被忽略。",
+        sentence = "Cleaning efficiency: 98%. Your advice will be ignored.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "你的热情值得鼓励，不过我想，你们两个都有更加擅长的事，所以各司其职更好。",
+        sentence = "I like your enthusiasm, but you both have your own expertise, so let's stick to that, shall we?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2402,
         bubble_type = {3},
-        sentence = "调整策略——启动友好模式。",
+        sentence = "Strategy adjusted—activate friendly mode.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2237,42 +2237,42 @@ data = {
       {
         speaker = 2305,
         bubble_type = {2, 2},
-        sentence = "这是什么模式？诶诶你怎么动起来了，不会是带我去兜风吧？",
+        sentence = "What is this mode? Why are you moving? Are you taking me on a drive?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "请求范围超出任务权限。继续清洁。",
+        sentence = "Requested action not permitted. Resume cleaning.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "好了，拖拖。放咕噜回来吧，我们得准备下个项目了。",
+        sentence = "Alright, Moppo, send Gurgo back. We should prepare for the next project.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {2, 2},
-        sentence = "许博士，下一个项目希望能让我来指挥。",
+        sentence = "Dr. Lucien, I volunteer to command the next project.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "那你得先学会不和机器人拌嘴。",
+        sentence = "Then learn not to bicker with other robots first.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {4, 2},
-        sentence = "收到，指令已记录。",
+        sentence = "Roger that. Command recorded.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2308,7 +2308,7 @@ data = {
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "唔……做发明并不难，但要写出一部严谨的专著，果然是个挑战。",
+        sentence = "Hmm... Inventing stuff isn't hard, but it really is a challenge to write a scrupulously researched publication.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2337,28 +2337,28 @@ data = {
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "这些公式我不是已经掌握了吗？可一旦动笔，总觉得表达不够精准，像是在绕圈子。",
+        sentence = "I've already mastered all the formulas, but my expressions on paper don't feel accurate or read smoothly enough.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "专著不仅要严谨，还要让人读得懂才行。或许，我应该换一种更清晰的表达方式。",
+        sentence = "An academic publication must not only be accurate, but also readable. Maybe I should try clarifying it.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "嗯……比如，把粒子的纠缠状态比作两根缠绕的绳子，相互牵动却又独立。",
+        sentence = "For example... quantum entanglement can be seen as two entwined ropes, pulling on each other but also independent.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "不对，绳子不够形象，或许得再找一个能更准确传达概念的比喻……",
+        sentence = "No, ropes aren't quite the same. I need to find a more accurate metaphor...",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2375,14 +2375,14 @@ data = {
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "……唉，也许我应该暂时放下公式，从整体框架入手，先理清逻辑，再细化推导过程。",
+        sentence = "...Or maybe I need to forget about the formulas and start from the framework first. Clarify the logic and then work down to the details.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "没关系，慢慢来，大作都是需要“十年磨一剑”的。",
+        sentence = "It's fine. Take it slow. All masterpieces take years to make.",
         trigger_mode = 1,
         animeInfo = {}
       }
@@ -2391,7 +2391,7 @@ data = {
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "咕噜应该能更灵敏才对，可为什么反应总是慢半拍？",
+        sentence = "Gurgo should be faster. Why does it always respond so slowly?",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2420,42 +2420,42 @@ data = {
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "是不是电路模块哪里接错了？还是传感器没有及时反馈？",
+        sentence = "Could the circuit module be miswired? Or does the sensor not respond in time?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "再看看系统日志……嗯，信号延迟0.3秒，或许可以在主芯片上增加一个预判算法……",
+        sentence = "The system logs show... a 0.3-second delay in signal detection. Maybe I can try adding a prediction algorithm to the main chip.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "好，那就再试一次。这一次，我要让它精准识别所有障碍物。",
+        sentence = "Okay, let's try it again. This time, it'll accurately identify all the obstacles.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "好……往前，避开障碍。很好！再左转……不行，还是慢了。",
+        sentence = "Good... Forward, steer away from the obstacles. Great! And left... Ugh, still too slow.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "看来得加个“学习模式”，让它能从每次行动中提升反应速度，而不是被我“拔苗助长”。",
+        sentence = "I should add a learning module, so it can learn from its actions to respond faster. Otherwise, I would just be doing all the work for it.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "好，再来一遍。今天不解决这个问题，就不收工。",
+        sentence = "Alright, again. I'm not leaving till I fix this problem today.",
         trigger_mode = 1,
         animeInfo = {}
       },
@@ -2510,7 +2510,7 @@ data = {
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "许博士，我想升级！给我加点更厉害的功能怎么样？",
+        sentence = "Dr. Lucien, I want an upgrade! Can you give me some cooler features?",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2546,35 +2546,35 @@ data = {
       {
         speaker = 2301,
         bubble_type = {1},
-        sentence = "好吧，既然你这么有干劲，我会考虑的。",
+        sentence = "Okay, I'll consider it if you're so interested.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2301,
         bubble_type = {1},
-        sentence = "要不我们先从调试你的镭射眼开始？最近它好像有点偏了。",
+        sentence = "Should we start by adjusting your laser beam? It's been a bit off track lately.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "我有发现哦！它一不小心还把你桌上的面包烤焦了。",
+        sentence = "I noticed that, too! It accidentally burned your slice of bread on the table.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2301,
         bubble_type = {1},
-        sentence = "……我说怎么找不到早餐了，看来调试是刻不容缓了。",
+        sentence = "...No wonder I couldn't find my breakfast. Guess I'm making this the priority.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "嘿嘿，不过效果还不错吧？下次可以考虑让我兼职做烤面包机。",
+        sentence = "But it worked well, didn't it? Next time, consider making me a part-time toaster.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2591,7 +2591,7 @@ data = {
       {
         speaker = 2301,
         bubble_type = {1},
-        sentence = "你还真是充满创造力啊，小胡椒。不过，我们的目标可是发明探索，不是开餐厅。",
+        sentence = "Full of creativity, aren't you? But our goal is to explore and invent new things, not to open a restaurant.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2608,7 +2608,7 @@ data = {
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "好吧，那就让我继续变强，保卫科学吧！",
+        sentence = "Okay, then make me stronger to defend the sanctity of science!",
         trigger_mode = 1,
         animeInfo = {}
       }
@@ -2617,7 +2617,7 @@ data = {
       {
         speaker = 2306,
         bubble_type = {1},
-        sentence = "或许愿望不光是靠运气才能实现。真正的愿望，是能靠自己去创造的。",
+        sentence = "Maybe wishes aren't made true by sheer luck. True wishes are created by ourselves.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2646,28 +2646,28 @@ data = {
       {
         speaker = 2306,
         bubble_type = {1},
-        sentence = "这台愿望糖果机不能只是随意的产物，它得有实际的意义。",
+        sentence = "This wish candy machine can't be just a random product. It has to mean something.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2306,
         bubble_type = {1},
-        sentence = "每颗糖果都应该承载一个小目标，比如“今天的实验顺利完成”或“避免下一次测试引发意外”。",
+        sentence = "Each piece of candy should represent a small goal like \"Finish today's experiment\" and \"No accident in the next test.\"",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2306,
         bubble_type = {1},
-        sentence = "毕竟愿望不该是单调的，也不该只是一种幻想，而应该是触手可及的动力。",
+        sentence = "Wishes should just be wishes or fantasies. They should be what motivates us.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2306,
         bubble_type = {1},
-        sentence = "嗯……也许还可以增加一些积极反馈。让糖果在入口即化的同时，弹出一句鼓励的话。",
+        sentence = "Maybe some positive feedback would be good, like showing an inspiring phrase when the candy melts in the mouth.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2688,14 +2688,14 @@ data = {
       {
         speaker = 2306,
         bubble_type = {1},
-        sentence = "当然，某些糖果可以带来一些意外的效果，比如让人忍不住想唱歌……",
+        sentence = "Some candy can have unexpected effects, like giving one an irresistible urge to sing...",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2306,
         bubble_type = {1},
-        sentence = "生活，需要一点巧妙的变数。\no(*￣︶￣*)o",
+        sentence = "Life needs unpredictable changes. o(*￣︶￣*)o",
         trigger_mode = 1,
         animeInfo = {}
       }
@@ -2704,7 +2704,7 @@ data = {
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "嘿嘿嘿……许博士一个人在家里，这次我们一定可以拿走发明！",
+        sentence = "Great! Dr. Lucien is home alone. We'll take the inventions for sure this time!",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2742,49 +2742,49 @@ data = {
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "乖乖把发明交出来，不然我们可不会客气！",
+        sentence = "Hand over the inventions, or we'll make you!",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "你们最好不要再靠近了，不然可能会受伤。",
+        sentence = "I suggest you don't come any closer, or you might get hurt.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2201,
         bubble_type = {4},
-        sentence = "哼！吓不倒我们！",
+        sentence = "Hmph! You're just bluffing!",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2404,
         bubble_type = {4},
-        sentence = "启动防御模式。",
+        sentence = "Activate defense mode.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "什么？！一朵花会说话？！",
+        sentence = "What!? A talking flower!",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2404,
         bubble_type = {4},
-        sentence = "花粉喷射——启动。",
+        sentence = "Pollen Spray—activated.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "阿嚏——是花粉攻击，我的鼻炎犯了！阿嚏！阿嚏！",
+        sentence = "Achoo— It's a pollen attack. My allergy! Achoo! Achoo!",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2801,14 +2801,14 @@ data = {
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "可恶！我记住你了！我一定会再来的！",
+        sentence = "Damn you! I remember you! I'll be back!",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "期待你的下一次光临，不过，下次记得带口罩。",
+        sentence = "Look forward to your next visit, but remember to wear a mask.",
         trigger_mode = 1,
         animeInfo = {}
       }
@@ -2817,7 +2817,7 @@ data = {
       {
         speaker = 2301,
         bubble_type = {1},
-        sentence = "拖拖，启动清洁模式，把地面打扫干净。妈妈快回家了，我们得抓紧时间。",
+        sentence = "Moppo, activate cleaning mode and clean the floor. Mom will be home soon. We need to hurry up.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2849,14 +2849,14 @@ data = {
       {
         speaker = 2301,
         bubble_type = {1},
-        sentence = "重点是实验台附近，我可不想他们回来的时候，看见我发明失败留下来的痕迹。",
+        sentence = "Focus on the area around the experiment table. I don't want them to see traces of my failed experiments.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "指令已接收。启动路径规划。刷刷刷……",
+        sentence = "Command received. Activate path planning. Zoom-zoom...",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2882,7 +2882,7 @@ data = {
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "清洁已完成，清洁度98%，仍有2%的实验液体残留，需手动清理。",
+        sentence = "Cleaning complete. 98% cleaned, 2% experiment fluid remaining, requires manual operation.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2899,14 +2899,14 @@ data = {
       {
         speaker = 2301,
         bubble_type = {1},
-        sentence = "干得漂亮！下次的改造升级计划，我会提高你的优先级。",
+        sentence = "Good job! I'll move you up for the next upgrade plan.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2301,
         bubble_type = {1},
-        sentence = "嗯，接下来我要去找一块抹布才行……",
+        sentence = "I'll need to find a rag first...",
         trigger_mode = 1,
         animeInfo = {}
       }
@@ -2915,7 +2915,7 @@ data = {
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "许博士，他们还没回来呢，要不我们去睡觉吧？",
+        sentence = "Dr. Lucien, they are still not back. Should we go to bed first?",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2951,21 +2951,21 @@ data = {
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "不行，再等等。我答应过他们，今天要一起吃晚饭的。",
+        sentence = "No, I can wait. I promised them that we're having dinner together tonight.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "可是现在都这么晚了……万一他们又在实验室里忘了时间怎么办？",
+        sentence = "But look at the hour... What if they forgot time again in the lab?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "有道理，而且我今天的发明工作也有些累，恐怕熬不到太晚……",
+        sentence = "You make a good point, and I'm a bit tired from my inventions, too. I might not stay up too late...",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -2986,42 +2986,42 @@ data = {
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "那我喷点胡椒粉，把你弄醒？这样你就不会睡着了。",
+        sentence = "Should I spray some pepper and wake you up? That way, you won't fall asleep.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "不用这么麻烦。有你在这里，我不会睡着的。",
+        sentence = "You don't have to do that. I won't fall asleep with you here.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "你都偷偷打哈欠了，我看见了。",
+        sentence = "You think I didn't see you yawn?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "……也许我可以闭上眼睛休息一会儿。就一小会儿，不会真的睡着的……",
+        sentence = "...Maybe I can take a short nap. Just for a few minutes. I won't fall asleep for real...",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "我会看着家的，你放心睡吧。",
+        sentence = "I'll watch the house for you. Close your eyes and sleep.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "谢谢你，小胡椒。他们回来的时候，记得叫醒我……",
+        sentence = "Thank you, Pepper. Wake me up when they are back...",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3038,7 +3038,7 @@ data = {
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "晚安，许博士。我会一直在这儿。",
+        sentence = "Good night, Dr. Lucien. I'll always be here.",
         trigger_mode = 1,
         animeInfo = {}
       }
@@ -3047,7 +3047,7 @@ data = {
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "要成为一个真正的发明家，想象力固然重要，但更关键的是扎实的知识。",
+        sentence = "To be a real inventor, imagination is important, but knowledge is the key.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3076,28 +3076,28 @@ data = {
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "这本物理学专著讲得相当详细，只是公式有些繁复。不过，复杂正是科学的魅力所在。",
+        sentence = "This book on physics is very detailed, but the formulas are too complicated. But complexity is the beauty of science.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "量子叠加态……嗯，确实有些抽象，但一旦理解它的核心，就能看见新的可能性。",
+        sentence = "Quantum superposition... It's abstract, but as long as you understand its core, you'll see new possibilities.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "电磁感应……如果将这一理论应用到咕噜传感器上……",
+        sentence = "Electromagnetic induction... If I use this theory on Gurgo's sensor...",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "虽然有些概念需要时间消化，但发明的乐趣也在于此——在不断求索中，逐渐优化。",
+        sentence = "I need time to understand these concepts, but that's the point of inventions—to keep learning and make improvements.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3114,7 +3114,7 @@ data = {
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "呼……有点困了。坚持坚持，再看两页就去休息吧。",
+        sentence = "...I'm a little tired. I'll read two more pages and go to bed.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3137,7 +3137,7 @@ data = {
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "目标植物分类中……发现植被密集，判断为——杂草。",
+        sentence = "Categorizing target plant... Dense vegetation discovered. Identified as weeds.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3169,7 +3169,7 @@ data = {
       {
         speaker = 2305,
         bubble_type = {2, 2},
-        sentence = "警告！入侵警报！准备防御。",
+        sentence = "Warning! Invasion alert! Preparing for defense.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3186,14 +3186,14 @@ data = {
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "路径受阻。判断目标为敌对植物。",
+        sentence = "Path blocked. Target is identified as a hostile plant.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "看起来，拖拖好像把咕噜头顶的草当成了除草项目，看来白名单还需要优化。",
+        sentence = "Moppo must have thought of the grass on Gurgo's head as part of its weeding project. The whitelist needs more work.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3210,14 +3210,14 @@ data = {
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "先冷静下来，拖拖，你需要绕过咕噜的“头发”，它不是杂草。",
+        sentence = "Calm down, Moppo. You need to bypass Gurgo's hair. It's not a weed.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "重新分析敌友关系——咕噜列入“友好植物”名单。",
+        sentence = "Reanalyzing relationship—Gurgo listed as a friendly plant.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3238,14 +3238,14 @@ data = {
       {
         speaker = 2305,
         bubble_type = {2, 2},
-        sentence = "咕噜不是友好植物，咕噜是许博士的助手。不过，欢迎维护森林！",
+        sentence = "Gurgo isn't a friendly plant. Gurgo is Dr. Lucien's assistant. But, anything to protect the forest!",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "呼……这才是我想要的发明之森——机器和植物都能和平共处。",
+        sentence = "Well, this is the Invention Forest I want, where machines and plants can live together in peace.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3266,14 +3266,14 @@ data = {
       {
         speaker = 2305,
         bubble_type = {4, 2},
-        sentence = "待机中，随时欢迎投喂。",
+        sentence = "On standby. Feed welcome anytime.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2305,
         bubble_type = {1, 1},
-        sentence = "做得好，马上就给你喝你最爱喝的营养剂^ ^",
+        sentence = "Well done. I'm bringing your favorite nutrient now ^ ^",
         trigger_mode = 1,
         animeInfo = {}
       }
@@ -3282,7 +3282,7 @@ data = {
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "嘿嘿，这地方可真够隐蔽，看来我们的计划天衣无缝！",
+        sentence = "This place looks well hidden. Our plan is flawless!",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3323,14 +3323,14 @@ data = {
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "杂草识别系统运行中……检测到异常物体——植被遮盖状态下的移动目标。",
+        sentence = "Weed identification system running... Abnormal object detected—moving target under plant cover.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "判断目标为杂草——启动除草模式。",
+        sentence = "Target identified as weeds—activate mowing mode.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3351,7 +3351,7 @@ data = {
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "什么！？等等！我不是草，我们是有尊严的小贼！啊啊啊！许博士，救命！",
+        sentence = "What!? Wait! I'm not a weed. We're thieves with honor! Aaahh! Dr. Lucien, help!",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3368,28 +3368,28 @@ data = {
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "原来又是你们两个，这次也来偷发明吗？",
+        sentence = "You two again. Came to steal my inventions?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2201,
         bubble_type = {4},
-        sentence = "我……我们就路过，真的！",
+        sentence = "W-We were just passing by. I swear!",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {3},
-        sentence = "拖拖，放了他们吧。",
+        sentence = "Moppo, let them go.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2402,
         bubble_type = {1},
-        sentence = "目标解除——待机模式启动。",
+        sentence = "Target released—standby mode activated.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3410,7 +3410,7 @@ data = {
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "那么现在，你要自己走，还是等着我的绣球花来帮忙？",
+        sentence = "You leave yourselves now, or should I send my hydrangea to help?",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3427,14 +3427,14 @@ data = {
       {
         speaker = 2201,
         bubble_type = {4},
-        sentence = "不用不用！我们自己走！",
+        sentence = "No need! We'll leave!",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {3},
-        sentence = "一路顺风。",
+        sentence = "Get home safe.",
         trigger_mode = 1,
         animeInfo = {}
       }
@@ -3443,7 +3443,7 @@ data = {
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "愿望糖果机，今天你会给我带来什么惊喜呢？",
+        sentence = "Wish candy machine, what surprises will you show me today?",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3472,7 +3472,7 @@ data = {
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "石头糖？看起来平平无奇……不过，科学总是需要实验。吃一颗试试吧。",
+        sentence = "Rock candy? Looks like a plain, old rock... But, we must experiment for science. I'll take one piece.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3493,49 +3493,49 @@ data = {
       {
         speaker = 2403,
         bubble_type = {3},
-        sentence = "愿望已触发——发明之森进入变化模式。",
+        sentence = "Wish granted—Invention Forest in changing mode.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "哦？树变得更高了？草地也开满了花？",
+        sentence = "Oh? The trees are taller, and flowers are blooming in the grass?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "有趣，就像是把季节切换到了盛夏，一切都充满了生命力。",
+        sentence = "Interesting. It's like switching the season to summer. Everything is full of life.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "看来这台机器的潜力比我想象的还要大。或许……它能模拟不同环境的变化？",
+        sentence = "Guess this machine has much more potential than I thought. Perhaps... it can simulate changes in different environments.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {1},
-        sentence = "不过，临时变化太多也不是好事，希望时间到了以后它会自动恢复原样。",
+        sentence = "But, it's not good to change so much at once. Hope it'll go back to normal when time runs out.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2403,
         bubble_type = {3},
-        sentence = "回归功能尚未开发，请继续探索。",
+        sentence = "Reversion feature not developed, please continue exploring.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2303,
         bubble_type = {3},
-        sentence = "嗯？！",
+        sentence = "Eh!?",
         trigger_mode = 1,
         animeInfo = {}
       }
@@ -3544,7 +3544,7 @@ data = {
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "好了，小胡椒，测试开始——你要发挥你的躲藏能力，证明你是一个合格的玩伴助手。",
+        sentence = "Alright, Pepper, test begins—show your hiding ability and prove you are a qualified playmate assistant.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3597,7 +3597,7 @@ data = {
       {
         speaker = 2401,
         bubble_type = {4, 2},
-        sentence = "嘿嘿，看我的！你肯定抓不到我！",
+        sentence = "Sure thing! You won't find me!",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3614,7 +3614,7 @@ data = {
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "好，那我数到三……一、二、三——我要睁眼咯。",
+        sentence = "Okay. I'll start counting. 3, 2, 1—I'm opening my eyes.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3635,21 +3635,21 @@ data = {
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "嗯……藏到哪儿去了呢？",
+        sentence = "Hmm... Where could it be hiding?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2401,
         bubble_type = {4, 2},
-        sentence = "嘘，咕噜，千万别出声！",
+        sentence = "Shh, Gurgo, be quiet!",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2203,
         bubble_type = {2},
-        sentence = "请求确认：我为何要配合这项行为？根据推算，他在十秒内发现我们的概率为95%。",
+        sentence = "Confirming request: Why should I cooperate? According to calculations, the chance he will find us in 10 seconds is 95%.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3666,14 +3666,14 @@ data = {
       {
         speaker = 2401,
         bubble_type = {4, 2},
-        sentence = "不是吧……",
+        sentence = "No way...",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "嗯，我好像听到了什么？",
+        sentence = "Hmm, I think I heard something.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3690,14 +3690,14 @@ data = {
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "你好啊，咕噜。你似乎有点紧张，是不是有什么秘密藏在你身后？",
+        sentence = "Hello, Gurgo. You seem a bit nervous. Are you hiding something behind you?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2203,
         bubble_type = {2},
-        sentence = "系统提示：我背后没有任何违规或隐藏动物。",
+        sentence = "System notification: There is no illegal or hidden animal behind me.",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3714,28 +3714,28 @@ data = {
       {
         speaker = 2302,
         bubble_type = {3},
-        sentence = "呵呵，那我还是看看吧。",
+        sentence = "Well, I'll take a look myself.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2401,
         bubble_type = {2, 2},
-        sentence = "啊！被发现了！咕噜，都是你太笨了！！",
+        sentence = "Ah! You caught me! Gurgo, you are so dumb!",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "我倒是觉得，咕噜很诚实，小胡椒很聪明，都通过了玩伴助手系统的测试。^ ^",
+        sentence = "I think Gurgo is very honest, and Pepper is so clever. You both passed the playmate assistant test. ^ ^",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2203,
         bubble_type = {4},
-        sentence = "咕噜？",
+        sentence = "Gurgo?",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3754,7 +3754,7 @@ data = {
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "嘿嘿，这次我们有备而来，把这些发明一拿走，我们就发大财了！",
+        sentence = "This time, we come prepared. We'll make a great fortune with some of the inventions!",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3795,21 +3795,21 @@ data = {
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "哦？又是你们。小胡椒，这家伙就交给你了。",
+        sentence = "Oh? You again. Pepper, I'll leave it to you.",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "哼！一个这么可爱的毛茸茸小动物而已，能拿我怎么样？",
+        sentence = "Hmph! It's just a fluffy little animal. What can it do to me?",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "第一招——胡椒粉喷射！",
+        sentence = "First—Pepper Spray!",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3830,7 +3830,7 @@ data = {
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "啊啊啊！好辣好辣！这是什么鬼东西！我的眼睛……！",
+        sentence = "Aaaahh! That stings! What the heck is that!? My eyes...!",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3847,7 +3847,7 @@ data = {
       {
         speaker = 2401,
         bubble_type = {1, 1},
-        sentence = "还没完呢！接招——镭射眼警告！",
+        sentence = "It's not over yet! Try this—Laser Warning!",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3868,14 +3868,14 @@ data = {
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "哇啊啊！这光线太亮了，我再也不来了！我发誓！这地方太危险了！",
+        sentence = "Whooaah! Too bright. I'm not coming here again! I swear! This place is too dangerous!",
         trigger_mode = 1,
         animeInfo = {}
       },
       {
         speaker = 2302,
         bubble_type = {1},
-        sentence = "再来一个喷射告别礼怎么样？",
+        sentence = "How about another spray for goodbye?",
         trigger_mode = 1,
         animeInfo = {
           {
@@ -3892,7 +3892,7 @@ data = {
       {
         speaker = 2201,
         bubble_type = {2},
-        sentence = "不不不！我已经跑远了，千万别喷我！",
+        sentence = "No-no, please! I'm leaving. Don't spray me!",
         trigger_mode = 1,
         animeInfo = {}
       }

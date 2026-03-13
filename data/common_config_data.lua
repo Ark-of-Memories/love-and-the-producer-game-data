@@ -1,7 +1,7 @@
 module("common_config_data", package.seeall)
 data = {
   ActivityBGMReplace = {
-    common_config_value = "545",
+    common_config_value = "556",
     common_config_name = "改变主界面BGM的活动ID",
     common_config_desc = "对应activity_info_data，活动期间内会替换主界面BGM"
   },
@@ -39,12 +39,12 @@ data = {
     common_config_name = "活跃爆表赠好礼ID"
   },
   ActivityKeepPoints = {
-    common_config_value = "21501;21502;21503;21508;21514;21504;21505;21506;21507;21536;21583;21553;21603;21591;21623;21627;21635;21636;21643;21656;21669;21698;21695",
+    common_config_value = "21501;21502;21503;21508;21514;21504;21505;21506;21507;21536;21583;21553;21603;21591;21623;21627;21635;21636;21643;21656;21669;21698;21695;21715;21744;21746",
     common_config_name = "保留活动积分的活动id",
     common_config_desc = "填上活动id后。该活动复开时保留上次积分。可用id21000 - 21999"
   },
   ActivityLoginPV = {
-    common_config_value = "543,548",
+    common_config_value = "565",
     common_config_name = "登录播PV的活动ID，可配置多个",
     common_config_desc = "对应activity_info_data，活动期间登录会弹出，弹出顺序在卡池PV后面；配置多个时按activity weight来播放"
   },
@@ -563,28 +563,28 @@ data = {
     common_config_desc = "玩家给男主换装达到第N次时，男主反馈变化为消极反馈"
   },
   BoardCharacter = {
-    common_config_value = "101|201|301|401|102|202|302|402|103|303|403|203",
+    common_config_value = "101|201|301|401|102|202|302|402|103|303|403|203|104|304|204|404|105|205|305|405",
     common_value_type = "string",
     common_config_name = "看板人格-（屏蔽陪伴",
     common_config_desc = "看板人格-（屏蔽陪伴"
   },
   BoardCharacter1 = {
-    common_config_value = "1|101|102|103",
+    common_config_value = "1|101|102|103|104|105",
     common_config_name = "看板人格，主人格|次要人格",
     common_config_desc = "看板人格，主人格|次要人格"
   },
   BoardCharacter2 = {
-    common_config_value = "2|201|202|203",
+    common_config_value = "2|201|202|203|204|205",
     common_config_name = "看板人格，主人格|次要人格",
     common_config_desc = "看板人格，主人格|次要人格"
   },
   BoardCharacter3 = {
-    common_config_value = "3|33|301|302|303",
+    common_config_value = "3|33|301|302|303|304|305",
     common_config_name = "看板人格，主人格|次要人格",
     common_config_desc = "看板人格，主人格|次要人格"
   },
   BoardCharacter4 = {
-    common_config_value = "4|401|402|403",
+    common_config_value = "4|401|402|403|404|405",
     common_config_name = "看板人格，主人格|次要人格",
     common_config_desc = "看板人格，主人格|次要人格"
   },
@@ -1422,7 +1422,7 @@ data = {
     common_config_desc = "屏蔽词白名单开关（1开0关）"
   },
   DoubleElevenActivityID = {
-    common_config_value = "990",
+    common_config_value = "843",
     common_config_name = "双11活动ID"
   },
   DoubleElevenSpecialState = {
@@ -4895,6 +4895,12 @@ data = {
     common_config_name = "百度停止登录时间",
     common_config_desc = "百度停止登录时间"
   },
+  PlatformRejectLoginEU = {
+    common_config_value = "2026/3/27 0:00:00",
+    common_value_type = "date",
+    common_config_name = "欧美停止登录时间",
+    common_config_desc = "欧美停止登录时间"
+  },
   PlatformRejectLoginKuaiKan = {
     common_config_value = "2024/11/20 5:00:00",
     common_value_type = "date",
@@ -4912,6 +4918,11 @@ data = {
     common_config_name = "百度停止充值时间",
     common_config_desc = "百度停止重置时间"
   },
+  PlatformRejectPayEU = {
+    common_config_value = "2026/2/27 0:00:00",
+    common_config_name = "欧美停止充值时间",
+    common_config_desc = "欧美停止充值时间"
+  },
   PlatformRejectPayKuaiKan = {
     common_config_value = "2024/11/10 5:00:00",
     common_config_name = "快看&魅族渠道停止充值时间",
@@ -4927,6 +4938,12 @@ data = {
     common_value_type = "date",
     common_config_name = "百度停止创建角色时间",
     common_config_desc = "百度停止创建角色时间"
+  },
+  PlatformRejectRegEU = {
+    common_config_value = "2026/2/27 0:00:00",
+    common_value_type = "date",
+    common_config_name = "欧美停止创建角色时间",
+    common_config_desc = "欧美停止创建角色时间"
   },
   PlatformRejectRegKuaiKan = {
     common_config_value = "2024/11/10 5:00:00",
@@ -6598,7 +6615,7 @@ data = {
     common_config_desc = "Exchange Ratio for Stars"
   },
   StoneRandomTypeItemShow = {
-    common_config_value = "200018,200019,200022,200025,200039,200031,200029,200032,200038,200039,200036,200039,200043,200042:200044:200045:200047",
+    common_config_value = "200018,200019,200022,200025,200039,200031,200029,200032,200038,200039,200036,200039,200043,200042:200044:200045:200047,200052,200051",
     common_config_name = "内容物包含104类型随机道具库，需要特殊展示的星缘石",
     common_config_desc = "内容物包含104类型随机道具库，需要特殊展示的星缘石"
   },
@@ -6887,7 +6904,7 @@ data = {
     common_config_desc = "配置控制切换热云上报方式的整包版本号"
   },
   TreasureCardLimitedRelatedKeyId = {
-    common_config_value = "400488",
+    common_config_value = "400574",
     common_config_name = "本期限时摘星券ID",
     common_config_desc = "本期限时摘星券ID，每次投放限时券需要换ID"
   },

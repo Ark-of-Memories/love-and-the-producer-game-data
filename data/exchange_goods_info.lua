@@ -471,7 +471,7 @@ data = {
   },
   [68] = {
     store_id = 11,
-    reward_info = "99,345,1",
+    reward_info = "9997,345,1",
     price_info = "400740,101,72",
     purchase_rules = "4,281,4",
     goods_rank = 2

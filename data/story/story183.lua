@@ -9914,6 +9914,147 @@ story183 = {
       next = {0}
     }
   },
+  [840323] = {
+    [1] = {
+      beijing = 4847,
+      dhead = 110,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "我记得你以前演过一个很帅的古装角色，可以把茶杯甩出去，等击退敌人后再飞回自己手里。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "里面的茶水还能一滴不撒，要是现实里也能做到就好了。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "90_childrenday",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301106,
+      role3 = 301201,
+      ruchang = -1,
+      sentence = "嗯？为什么突然想到这个？",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4847,
+      dhead = 112,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301106,
+      role3 = 301201,
+      sentence = "因为我觉得只是单纯的泡茶好像没有什么新意。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301106,
+      role3 = 301201,
+      sentence = "如果能给评审们表演一下，说不定会获得高分~",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "90_childrenday",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "你说的那招只能靠镜头剪辑了，不过有一招“悬停盖碗”我倒是练成了。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "90_childrenday",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "像这样两只手指捏住盖碗的盖扭，再轻轻一旋——",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "90_childrenday",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301104,
+      role3 = 301201,
+      sentence = "铛铛，盖碗就可以沿着碗沿旋转一周再停住！",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301104,
+      role3 = 301201,
+      sentence = "哇！好厉害！",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4847,
+      dhead = 114,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301108,
+      role3 = 301201,
+      sentence = "周棋洛你看，评审们都给你打了满分耶！",
+      next = {11}
+    },
+    [11] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "90_childrenday",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301105,
+      role3 = 301201,
+      ruchang = 9,
+      sentence = "虽然我也是评审，但……过奖过奖~",
+      next = {0}
+    }
+  },
   [903005] = {
     [1] = {
       beijing = 1581,

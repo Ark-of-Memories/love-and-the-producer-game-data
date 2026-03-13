@@ -282,6 +282,78 @@ data = {
     calendar_month = 12,
     month_reward = "1630,253,1"
   },
+  [10149] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 1,
+    month_reward = "1762,253,1"
+  },
+  [10150] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 2,
+    month_reward = "1763,253,1"
+  },
+  [10151] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 3,
+    month_reward = "1673,253,1"
+  },
+  [10152] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 4,
+    month_reward = "1674,253,1"
+  },
+  [10153] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 5,
+    month_reward = "1689,253,1"
+  },
+  [10154] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 6,
+    month_reward = "1690,253,1"
+  },
+  [10155] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 7,
+    month_reward = "1707,253,1"
+  },
+  [10156] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 8,
+    month_reward = "1708,253,1"
+  },
+  [10157] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 9,
+    month_reward = "1726,253,1"
+  },
+  [10158] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 10,
+    month_reward = "1727,253,1"
+  },
+  [10159] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 11,
+    month_reward = "1750,253,1"
+  },
+  [10160] = {
+    male = 1,
+    calendar_year = 2026,
+    calendar_month = 12,
+    month_reward = "1751,253,1"
+  },
   [20101] = {
     male = 2,
     calendar_year = 2022,
@@ -563,6 +635,78 @@ data = {
     calendar_year = 2025,
     calendar_month = 12,
     month_reward = "2632,253,1"
+  },
+  [20149] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 1,
+    month_reward = "2769,253,1"
+  },
+  [20150] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 2,
+    month_reward = "2770,253,1"
+  },
+  [20151] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 3,
+    month_reward = "2676,253,1"
+  },
+  [20152] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 4,
+    month_reward = "2677,253,1"
+  },
+  [20153] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 5,
+    month_reward = "2690,253,1"
+  },
+  [20154] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 6,
+    month_reward = "2691,253,1"
+  },
+  [20155] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 7,
+    month_reward = "2709,253,1"
+  },
+  [20156] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 8,
+    month_reward = "2710,253,1"
+  },
+  [20157] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 9,
+    month_reward = "2730,253,1"
+  },
+  [20158] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 10,
+    month_reward = "2731,253,1"
+  },
+  [20159] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 11,
+    month_reward = "2754,253,1"
+  },
+  [20160] = {
+    male = 2,
+    calendar_year = 2026,
+    calendar_month = 12,
+    month_reward = "2755,253,1"
   },
   [30101] = {
     male = 3,
@@ -846,6 +990,78 @@ data = {
     calendar_month = 12,
     month_reward = "3643,253,1"
   },
+  [30149] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 1,
+    month_reward = "3774,253,1"
+  },
+  [30150] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 2,
+    month_reward = "3775,253,1"
+  },
+  [30151] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 3,
+    month_reward = "3679,253,1"
+  },
+  [30152] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 4,
+    month_reward = "3680,253,1"
+  },
+  [30153] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 5,
+    month_reward = "3698,253,1"
+  },
+  [30154] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 6,
+    month_reward = "3699,253,1"
+  },
+  [30155] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 7,
+    month_reward = "3717,253,1"
+  },
+  [30156] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 8,
+    month_reward = "3718,253,1"
+  },
+  [30157] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 9,
+    month_reward = "3733,253,1"
+  },
+  [30158] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 10,
+    month_reward = "3734,253,1"
+  },
+  [30159] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 11,
+    month_reward = "3759,253,1"
+  },
+  [30160] = {
+    male = 3,
+    calendar_year = 2026,
+    calendar_month = 12,
+    month_reward = "3760,253,1"
+  },
   [40101] = {
     male = 4,
     calendar_year = 2022,
@@ -1128,6 +1344,78 @@ data = {
     calendar_month = 12,
     month_reward = "4637,253,1"
   },
+  [40149] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 1,
+    month_reward = "4772,253,1"
+  },
+  [40150] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 2,
+    month_reward = "4773,253,1"
+  },
+  [40151] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 3,
+    month_reward = "4678,253,1"
+  },
+  [40152] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 4,
+    month_reward = "4679,253,1"
+  },
+  [40153] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 5,
+    month_reward = "4693,253,1"
+  },
+  [40154] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 6,
+    month_reward = "4694,253,1"
+  },
+  [40155] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 7,
+    month_reward = "4713,253,1"
+  },
+  [40156] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 8,
+    month_reward = "4714,253,1"
+  },
+  [40157] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 9,
+    month_reward = "4738,253,1"
+  },
+  [40158] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 10,
+    month_reward = "4739,253,1"
+  },
+  [40159] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 11,
+    month_reward = "4758,253,1"
+  },
+  [40160] = {
+    male = 4,
+    calendar_year = 2026,
+    calendar_month = 12,
+    month_reward = "4759,253,1"
+  },
   [80101] = {
     male = 8,
     calendar_year = 2022,
@@ -1409,5 +1697,77 @@ data = {
     calendar_year = 2025,
     calendar_month = 12,
     month_reward = "6417,253,1"
+  },
+  [80149] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 1,
+    month_reward = "6524,253,1"
+  },
+  [80150] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 2,
+    month_reward = "6525,253,1"
+  },
+  [80151] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 3,
+    month_reward = "6451,253,1"
+  },
+  [80152] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 4,
+    month_reward = "6452,253,1"
+  },
+  [80153] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 5,
+    month_reward = "6461,253,1"
+  },
+  [80154] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 6,
+    month_reward = "6462,253,1"
+  },
+  [80155] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 7,
+    month_reward = "6482,253,1"
+  },
+  [80156] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 8,
+    month_reward = "6483,253,1"
+  },
+  [80157] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 9,
+    month_reward = "6495,253,1"
+  },
+  [80158] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 10,
+    month_reward = "6496,253,1"
+  },
+  [80159] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 11,
+    month_reward = "6513,253,1"
+  },
+  [80160] = {
+    male = 8,
+    calendar_year = 2026,
+    calendar_month = 12,
+    month_reward = "6514,253,1"
   }
 }

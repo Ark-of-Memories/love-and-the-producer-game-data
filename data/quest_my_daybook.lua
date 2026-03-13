@@ -4273,6 +4273,120 @@ data = {
     target_type = 1,
     title = {"1", "Main Story"}
   },
+  [5105660] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]59[-][/c] ",
+    group_id = 1,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "1,347,100",
+    show_order = 60,
+    source = "73,3159",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "315951",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5105661] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]60[-][/c] ",
+    group_id = 1,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "1,347,100",
+    show_order = 61,
+    source = "73,3160",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316012",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5105662] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]61[-][/c] ",
+    group_id = 1,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "1,347,100",
+    show_order = 62,
+    source = "73,3161",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316115",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5105663] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]62[-][/c] ",
+    group_id = 1,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "1,347,100",
+    show_order = 63,
+    source = "73,3162",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316215",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5105664] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]63[-][/c] ",
+    group_id = 1,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "1,347,100",
+    show_order = 64,
+    source = "73,3163",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316320",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5105665] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]64[-][/c] ",
+    group_id = 1,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "1,347,100",
+    show_order = 65,
+    source = "73,3164",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316416",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
   [5105701] = {
     activity_id = -1,
     desc = "Collect Victor's ER Quality Karma [c][A96C67FF] %s [-][/c] ",
@@ -8778,6 +8892,120 @@ data = {
     target_param = "315815",
     target_type = 1,
     title = {"1", "Main Story"}
+  },
+  [5205660] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]59[-][/c] ",
+    group_id = 2,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "2,347,100",
+    show_order = 60,
+    source = "73,3159",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "315951",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5205661] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]60[-][/c] ",
+    group_id = 2,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "2,347,100",
+    show_order = 61,
+    source = "73,3160",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316012",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5205662] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]61[-][/c] ",
+    group_id = 2,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "2,347,100",
+    show_order = 62,
+    source = "73,3161",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316115",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5205663] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]62[-][/c] ",
+    group_id = 2,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "2,347,100",
+    show_order = 63,
+    source = "73,3162",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316215",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5205664] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]63[-][/c] ",
+    group_id = 2,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "2,347,100",
+    show_order = 64,
+    source = "73,3163",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316320",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5205665] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]64[-][/c] ",
+    group_id = 2,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "2,347,100",
+    show_order = 65,
+    source = "73,3164",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316416",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
   },
   [5205701] = {
     activity_id = -1,
@@ -13285,6 +13513,120 @@ data = {
     target_type = 1,
     title = {"1", "Main Story"}
   },
+  [5305660] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]59[-][/c] ",
+    group_id = 3,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "3,347,100",
+    show_order = 60,
+    source = "73,3159",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "315951",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5305661] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]60[-][/c] ",
+    group_id = 3,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "3,347,100",
+    show_order = 61,
+    source = "73,3160",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316012",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5305662] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]61[-][/c] ",
+    group_id = 3,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "3,347,100",
+    show_order = 62,
+    source = "73,3161",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316115",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5305663] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]62[-][/c] ",
+    group_id = 3,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "3,347,100",
+    show_order = 63,
+    source = "73,3162",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316215",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5305664] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]63[-][/c] ",
+    group_id = 3,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "3,347,100",
+    show_order = 64,
+    source = "73,3163",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316320",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5305665] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]64[-][/c] ",
+    group_id = 3,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "3,347,100",
+    show_order = 65,
+    source = "73,3164",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316416",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
   [5305701] = {
     activity_id = -1,
     desc = "Collect  Kiro's ER Quality Karma [c][A96C67FF] %s [-][/c] ",
@@ -17791,6 +18133,120 @@ data = {
     target_type = 1,
     title = {"1", "Main Story"}
   },
+  [5405660] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]59[-][/c] ",
+    group_id = 4,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "4,347,100",
+    show_order = 60,
+    source = "73,3159",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "315951",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5405661] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]60[-][/c] ",
+    group_id = 4,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "4,347,100",
+    show_order = 61,
+    source = "73,3160",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316012",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5405662] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]61[-][/c] ",
+    group_id = 4,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "4,347,100",
+    show_order = 62,
+    source = "73,3161",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316115",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5405663] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]62[-][/c] ",
+    group_id = 4,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "4,347,100",
+    show_order = 63,
+    source = "73,3162",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316215",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5405664] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]63[-][/c] ",
+    group_id = 4,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "4,347,100",
+    show_order = 64,
+    source = "73,3163",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316320",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5405665] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]64[-][/c] ",
+    group_id = 4,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "4,347,100",
+    show_order = 65,
+    source = "73,3164",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316416",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
   [5405701] = {
     activity_id = -1,
     desc = "Collect  Gavin's ER Quality Karma [c][A96C67FF] %s [-][/c] ",
@@ -21249,6 +21705,120 @@ data = {
     target_param = "315815",
     target_type = 1,
     title = {"1", "Main Story"}
+  },
+  [5805660] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]59[-][/c] ",
+    group_id = 8,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "8,347,100",
+    show_order = 60,
+    source = "73,3159",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "315951",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5805661] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]60[-][/c] ",
+    group_id = 8,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "8,347,100",
+    show_order = 61,
+    source = "73,3160",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316012",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5805662] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]61[-][/c] ",
+    group_id = 8,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "8,347,100",
+    show_order = 62,
+    source = "73,3161",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316115",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5805663] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]62[-][/c] ",
+    group_id = 8,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "8,347,100",
+    show_order = 63,
+    source = "73,3162",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316215",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5805664] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]63[-][/c] ",
+    group_id = 8,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "8,347,100",
+    show_order = 64,
+    source = "73,3163",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316320",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
+  },
+  [5805665] = {
+    activity_id = -1,
+    desc = "Clear Main Story Season 2 Chapter [c][A96C67FF]64[-][/c] ",
+    group_id = 8,
+    is_achievement_data = 1,
+    pre_quest_id = -1,
+    quest_type = 5,
+    rewards = "8,347,100",
+    show_order = 65,
+    source = "73,3164",
+    spend_rewards = {},
+    sub_group_id = 56,
+    target_param = "316416",
+    target_type = 1,
+    title = {
+      "1",
+      " Main Story"
+    }
   },
   [5806501] = {
     activity_id = -1,

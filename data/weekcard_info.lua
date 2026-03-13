@@ -31152,5 +31152,2588 @@ data = {
     resetting_time = 5,
     card_tag = 1,
     show_icon = 1
+  },
+  [3463] = {
+    activity_pack_id = 115698,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3464] = {
+    activity_pack_id = 115698,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3465] = {
+    activity_pack_id = 115698,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3466] = {
+    activity_pack_id = 115698,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3467] = {
+    activity_pack_id = 115698,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3468] = {
+    activity_pack_id = 115698,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3469] = {
+    activity_pack_id = 115698,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3470] = {
+    activity_pack_id = 115699,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3471] = {
+    activity_pack_id = 115699,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3472] = {
+    activity_pack_id = 115699,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3473] = {
+    activity_pack_id = 115699,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3474] = {
+    activity_pack_id = 115699,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3475] = {
+    activity_pack_id = 115700,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3476] = {
+    activity_pack_id = 115700,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3477] = {
+    activity_pack_id = 115700,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3478] = {
+    activity_pack_id = 115700,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3479] = {
+    activity_pack_id = 115700,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3480] = {
+    activity_pack_id = 115701,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3481] = {
+    activity_pack_id = 115701,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3482] = {
+    activity_pack_id = 115701,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3483] = {
+    activity_pack_id = 115701,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3484] = {
+    activity_pack_id = 115701,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3485] = {
+    activity_pack_id = 115702,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3486] = {
+    activity_pack_id = 115702,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3487] = {
+    activity_pack_id = 115702,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3488] = {
+    activity_pack_id = 115702,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3489] = {
+    activity_pack_id = 115702,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3490] = {
+    activity_pack_id = 115703,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3491] = {
+    activity_pack_id = 115703,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3492] = {
+    activity_pack_id = 115703,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3493] = {
+    activity_pack_id = 115703,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3494] = {
+    activity_pack_id = 115703,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3495] = {
+    activity_pack_id = 115703,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3496] = {
+    activity_pack_id = 115703,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3497] = {
+    activity_pack_id = 115704,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3498] = {
+    activity_pack_id = 115704,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3499] = {
+    activity_pack_id = 115704,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3500] = {
+    activity_pack_id = 115704,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3501] = {
+    activity_pack_id = 115704,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3502] = {
+    activity_pack_id = 115704,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3503] = {
+    activity_pack_id = 115704,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3504] = {
+    activity_pack_id = 115705,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3505] = {
+    activity_pack_id = 115705,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3506] = {
+    activity_pack_id = 115705,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3507] = {
+    activity_pack_id = 115705,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3508] = {
+    activity_pack_id = 115705,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3509] = {
+    activity_pack_id = 115706,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3510] = {
+    activity_pack_id = 115706,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3511] = {
+    activity_pack_id = 115706,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3512] = {
+    activity_pack_id = 115706,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3513] = {
+    activity_pack_id = 115706,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3514] = {
+    activity_pack_id = 115706,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3515] = {
+    activity_pack_id = 115706,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3516] = {
+    activity_pack_id = 115707,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3517] = {
+    activity_pack_id = 115707,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3518] = {
+    activity_pack_id = 115707,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3519] = {
+    activity_pack_id = 115707,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3520] = {
+    activity_pack_id = 115707,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3521] = {
+    activity_pack_id = 115708,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3522] = {
+    activity_pack_id = 115708,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3523] = {
+    activity_pack_id = 115708,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3524] = {
+    activity_pack_id = 115709,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3525] = {
+    activity_pack_id = 115709,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3526] = {
+    activity_pack_id = 115709,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3527] = {
+    activity_pack_id = 115709,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3528] = {
+    activity_pack_id = 115709,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3529] = {
+    activity_pack_id = 115710,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3530] = {
+    activity_pack_id = 115710,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3531] = {
+    activity_pack_id = 115710,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3532] = {
+    activity_pack_id = 115710,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3533] = {
+    activity_pack_id = 115710,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3534] = {
+    activity_pack_id = 115711,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3535] = {
+    activity_pack_id = 115711,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3536] = {
+    activity_pack_id = 115711,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3537] = {
+    activity_pack_id = 115711,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3538] = {
+    activity_pack_id = 115711,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3539] = {
+    activity_pack_id = 115711,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3540] = {
+    activity_pack_id = 115711,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3541] = {
+    activity_pack_id = 115712,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3542] = {
+    activity_pack_id = 115712,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3543] = {
+    activity_pack_id = 115712,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3544] = {
+    activity_pack_id = 115712,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3545] = {
+    activity_pack_id = 115712,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3546] = {
+    activity_pack_id = 115713,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3547] = {
+    activity_pack_id = 115713,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3548] = {
+    activity_pack_id = 115713,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3549] = {
+    activity_pack_id = 115713,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3550] = {
+    activity_pack_id = 115713,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3551] = {
+    activity_pack_id = 115714,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3552] = {
+    activity_pack_id = 115714,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3553] = {
+    activity_pack_id = 115714,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3554] = {
+    activity_pack_id = 115714,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3555] = {
+    activity_pack_id = 115714,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3556] = {
+    activity_pack_id = 115715,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3557] = {
+    activity_pack_id = 115715,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3558] = {
+    activity_pack_id = 115715,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3559] = {
+    activity_pack_id = 115715,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3560] = {
+    activity_pack_id = 115715,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3561] = {
+    activity_pack_id = 115715,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3562] = {
+    activity_pack_id = 115715,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3563] = {
+    activity_pack_id = 115716,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3564] = {
+    activity_pack_id = 115716,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3565] = {
+    activity_pack_id = 115716,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3566] = {
+    activity_pack_id = 115716,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3567] = {
+    activity_pack_id = 115716,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3568] = {
+    activity_pack_id = 115716,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3569] = {
+    activity_pack_id = 115716,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3570] = {
+    activity_pack_id = 115717,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3571] = {
+    activity_pack_id = 115717,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3572] = {
+    activity_pack_id = 115717,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3573] = {
+    activity_pack_id = 115717,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3574] = {
+    activity_pack_id = 115717,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3575] = {
+    activity_pack_id = 115718,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3576] = {
+    activity_pack_id = 115718,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3577] = {
+    activity_pack_id = 115718,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3578] = {
+    activity_pack_id = 115718,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3579] = {
+    activity_pack_id = 115718,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3580] = {
+    activity_pack_id = 115718,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3581] = {
+    activity_pack_id = 115718,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3582] = {
+    activity_pack_id = 115719,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3583] = {
+    activity_pack_id = 115719,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3584] = {
+    activity_pack_id = 115719,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3585] = {
+    activity_pack_id = 115720,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3586] = {
+    activity_pack_id = 115720,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3587] = {
+    activity_pack_id = 115720,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3588] = {
+    activity_pack_id = 115720,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3589] = {
+    activity_pack_id = 115720,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3590] = {
+    activity_pack_id = 115721,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3591] = {
+    activity_pack_id = 115721,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3592] = {
+    activity_pack_id = 115721,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3593] = {
+    activity_pack_id = 115721,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3594] = {
+    activity_pack_id = 115721,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3595] = {
+    activity_pack_id = 115721,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3596] = {
+    activity_pack_id = 115721,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3597] = {
+    activity_pack_id = 115722,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3598] = {
+    activity_pack_id = 115722,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3599] = {
+    activity_pack_id = 115722,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3600] = {
+    activity_pack_id = 115722,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3601] = {
+    activity_pack_id = 115722,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3602] = {
+    activity_pack_id = 115723,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3603] = {
+    activity_pack_id = 115723,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3604] = {
+    activity_pack_id = 115723,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3605] = {
+    activity_pack_id = 115723,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3606] = {
+    activity_pack_id = 115723,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3607] = {
+    activity_pack_id = 115723,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3608] = {
+    activity_pack_id = 115723,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3609] = {
+    activity_pack_id = 115724,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3610] = {
+    activity_pack_id = 115724,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3611] = {
+    activity_pack_id = 115724,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3612] = {
+    activity_pack_id = 115724,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3613] = {
+    activity_pack_id = 115724,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3614] = {
+    activity_pack_id = 115724,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3615] = {
+    activity_pack_id = 115724,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3616] = {
+    activity_pack_id = 115725,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3617] = {
+    activity_pack_id = 115725,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3618] = {
+    activity_pack_id = 115725,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3619] = {
+    activity_pack_id = 115725,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3620] = {
+    activity_pack_id = 115725,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3621] = {
+    activity_pack_id = 115726,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3622] = {
+    activity_pack_id = 115726,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3623] = {
+    activity_pack_id = 115726,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3624] = {
+    activity_pack_id = 115726,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3625] = {
+    activity_pack_id = 115726,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3626] = {
+    activity_pack_id = 115727,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3627] = {
+    activity_pack_id = 115727,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3628] = {
+    activity_pack_id = 115727,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3629] = {
+    activity_pack_id = 115728,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3630] = {
+    activity_pack_id = 115728,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3631] = {
+    activity_pack_id = 115728,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3632] = {
+    activity_pack_id = 115728,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3633] = {
+    activity_pack_id = 115728,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3634] = {
+    activity_pack_id = 115728,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3635] = {
+    activity_pack_id = 115728,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3636] = {
+    activity_pack_id = 115729,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3637] = {
+    activity_pack_id = 115729,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3638] = {
+    activity_pack_id = 115729,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3639] = {
+    activity_pack_id = 115729,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3640] = {
+    activity_pack_id = 115729,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3641] = {
+    activity_pack_id = 115730,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3642] = {
+    activity_pack_id = 115730,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3643] = {
+    activity_pack_id = 115730,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3644] = {
+    activity_pack_id = 115730,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3645] = {
+    activity_pack_id = 115730,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3646] = {
+    activity_pack_id = 115730,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3647] = {
+    activity_pack_id = 115730,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3648] = {
+    activity_pack_id = 115731,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3649] = {
+    activity_pack_id = 115731,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3650] = {
+    activity_pack_id = 115731,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3651] = {
+    activity_pack_id = 115731,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3652] = {
+    activity_pack_id = 115731,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3653] = {
+    activity_pack_id = 115732,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3654] = {
+    activity_pack_id = 115732,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3655] = {
+    activity_pack_id = 115732,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3656] = {
+    activity_pack_id = 115732,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3657] = {
+    activity_pack_id = 115732,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3658] = {
+    activity_pack_id = 115732,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3659] = {
+    activity_pack_id = 115732,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3660] = {
+    activity_pack_id = 115733,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3661] = {
+    activity_pack_id = 115733,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3662] = {
+    activity_pack_id = 115733,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3663] = {
+    activity_pack_id = 115733,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3664] = {
+    activity_pack_id = 115733,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3665] = {
+    activity_pack_id = 115733,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3666] = {
+    activity_pack_id = 115733,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3667] = {
+    activity_pack_id = 115734,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3668] = {
+    activity_pack_id = 115734,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3669] = {
+    activity_pack_id = 115734,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3670] = {
+    activity_pack_id = 115734,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3671] = {
+    activity_pack_id = 115734,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3672] = {
+    activity_pack_id = 115735,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3673] = {
+    activity_pack_id = 115735,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3674] = {
+    activity_pack_id = 115735,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3675] = {
+    activity_pack_id = 115735,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3676] = {
+    activity_pack_id = 115735,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3677] = {
+    activity_pack_id = 115736,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3678] = {
+    activity_pack_id = 115736,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3679] = {
+    activity_pack_id = 115736,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3680] = {
+    activity_pack_id = 115736,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3681] = {
+    activity_pack_id = 115736,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3682] = {
+    activity_pack_id = 115736,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3683] = {
+    activity_pack_id = 115736,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3684] = {
+    activity_pack_id = 115737,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3685] = {
+    activity_pack_id = 115737,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3686] = {
+    activity_pack_id = 115737,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3687] = {
+    activity_pack_id = 115737,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3688] = {
+    activity_pack_id = 115737,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3689] = {
+    activity_pack_id = 115738,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3690] = {
+    activity_pack_id = 115738,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3691] = {
+    activity_pack_id = 115738,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3692] = {
+    activity_pack_id = 115738,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3693] = {
+    activity_pack_id = 115738,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3694] = {
+    activity_pack_id = 115738,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3695] = {
+    activity_pack_id = 115738,
+    award_info = "0,41,100:0,2,30",
+    award_banner = "Imgs/weekcard/5017.png",
+    award_banner_get = "Imgs/weekcard/5017.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3696] = {
+    activity_pack_id = 115739,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3697] = {
+    activity_pack_id = 115739,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3698] = {
+    activity_pack_id = 115739,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3699] = {
+    activity_pack_id = 115739,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3700] = {
+    activity_pack_id = 115739,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3701] = {
+    activity_pack_id = 115740,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3702] = {
+    activity_pack_id = 115740,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3703] = {
+    activity_pack_id = 115740,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3704] = {
+    activity_pack_id = 115740,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3705] = {
+    activity_pack_id = 115740,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3706] = {
+    activity_pack_id = 115740,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3707] = {
+    activity_pack_id = 115740,
+    award_info = "120002,101,20:0,41,100",
+    award_banner = "Imgs/weekcard/5022.png",
+    award_banner_get = "Imgs/weekcard/5022.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3708] = {
+    activity_pack_id = 115741,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3709] = {
+    activity_pack_id = 115741,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3710] = {
+    activity_pack_id = 115741,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3711] = {
+    activity_pack_id = 115741,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3712] = {
+    activity_pack_id = 115741,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3713] = {
+    activity_pack_id = 115741,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3714] = {
+    activity_pack_id = 115741,
+    award_info = "100062,101,10",
+    award_banner = "Imgs/weekcard/5029.png",
+    award_banner_get = "Imgs/weekcard/5029.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3715] = {
+    activity_pack_id = 115742,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3716] = {
+    activity_pack_id = 115742,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3717] = {
+    activity_pack_id = 115742,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3718] = {
+    activity_pack_id = 115742,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3719] = {
+    activity_pack_id = 115742,
+    award_info = "0,1,15000:0,2,30",
+    award_banner = "Imgs/weekcard/5028.png",
+    award_banner_get = "Imgs/weekcard/5028.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3720] = {
+    activity_pack_id = 115743,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3721] = {
+    activity_pack_id = 115743,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3722] = {
+    activity_pack_id = 115743,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3723] = {
+    activity_pack_id = 115743,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3724] = {
+    activity_pack_id = 115743,
+    award_info = "0,2,30:120003,101,3",
+    award_banner = "Imgs/weekcard/5015.png",
+    award_banner_get = "Imgs/weekcard/5015.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3725] = {
+    activity_pack_id = 115744,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3726] = {
+    activity_pack_id = 115744,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3727] = {
+    activity_pack_id = 115744,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3728] = {
+    activity_pack_id = 115744,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3729] = {
+    activity_pack_id = 115744,
+    award_info = "100030,101,4:0,41,30",
+    award_banner = "Imgs/weekcard/5012.png",
+    award_banner_get = "Imgs/weekcard/5012.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3730] = {
+    activity_pack_id = 115745,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3731] = {
+    activity_pack_id = 115745,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3732] = {
+    activity_pack_id = 115745,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3733] = {
+    activity_pack_id = 115745,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3734] = {
+    activity_pack_id = 115745,
+    award_info = "120003,101,5",
+    award_banner = "Imgs/weekcard/5011.png",
+    award_banner_get = "Imgs/weekcard/5011.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3735] = {
+    activity_pack_id = 115746,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3736] = {
+    activity_pack_id = 115746,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3737] = {
+    activity_pack_id = 115746,
+    award_info = "119051,101,2:119050,101,300",
+    award_banner = "Imgs/weekcard/5021.png",
+    award_banner_get = "Imgs/weekcard/5021.png",
+    resetting_time = 3,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3738] = {
+    activity_pack_id = 115747,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3739] = {
+    activity_pack_id = 115747,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3740] = {
+    activity_pack_id = 115747,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3741] = {
+    activity_pack_id = 115747,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3742] = {
+    activity_pack_id = 115747,
+    award_info = "100061,101,1",
+    award_banner = "Imgs/weekcard/5004.png",
+    award_banner_get = "Imgs/weekcard/5004.png",
+    resetting_time = 5,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3743] = {
+    activity_pack_id = 115748,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3744] = {
+    activity_pack_id = 115748,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3745] = {
+    activity_pack_id = 115748,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3746] = {
+    activity_pack_id = 115748,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3747] = {
+    activity_pack_id = 115748,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3748] = {
+    activity_pack_id = 115748,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
+  },
+  [3749] = {
+    activity_pack_id = 115748,
+    award_info = "0,2,100",
+    award_banner = "Imgs/weekcard/5027.png",
+    award_banner_get = "Imgs/weekcard/5027.png",
+    resetting_time = 7,
+    card_tag = 1,
+    show_icon = 1
   }
 }

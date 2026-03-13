@@ -945,6 +945,14 @@ data = {
     unlock_price = "150001,101,98",
     type = 3
   },
+  [129] = {
+    BGM_res = "1021_CloseYourEyes",
+    role_id = 5,
+    BGM_name = "Lights Out",
+    unlock_price = "150001,101,98",
+    new_type = 1,
+    type = 3
+  },
   [130] = {
     BGM_res = "1023_jewelry_113003",
     role_id = 5,
@@ -961,12 +969,99 @@ data = {
     unlock_time = "2025/7/7 5:00:00",
     type = 4
   },
+  [132] = {
+    BGM_res = "1022_2024Summer_Zoo",
+    role_id = 5,
+    BGM_name = "A Summer of Love with You",
+    unlock_price = "150001,101,98",
+    unlock_time = "2025/9/12 5:00:00",
+    type = 4
+  },
   [134] = {
     BGM_res = "1025_2024qixi",
     role_id = 5,
     BGM_name = "Stray Tales",
     unlock_price = "150001,101,98",
     unlock_time = "2025/4/24 5:00:00",
+    type = 4
+  },
+  [135] = {
+    BGM_res = "1026_Loading",
+    role_id = 5,
+    BGM_name = "Loading",
+    unlock_price = "150001,101,98",
+    type = 3
+  },
+  [136] = {
+    BGM_res = "1027_2024Halloween",
+    role_id = 5,
+    BGM_name = "Midnight Invitation",
+    unlock_price = "150001,101,98",
+    type = 4
+  },
+  [138] = {
+    BGM_res = "1029_2024ancientWedding2",
+    role_id = 5,
+    BGM_name = "Forevermore: Garden Tales",
+    unlock_price = "150001,101,98",
+    unlock_time = "2026/3/10 5:00:00",
+    type = 4
+  },
+  [139] = {
+    BGM_res = "1030_2024anniversary_pv",
+    role_id = 5,
+    BGM_name = "One and Only",
+    BGM_get = "Complete the achievement \"Daily Companion XIV\" to unlock",
+    condition_id = "819;820",
+    unlock_time = "2026/3/20 00:00:00",
+    type = 4
+  },
+  [140] = {
+    BGM_res = "1031_2024anniversary_scene",
+    role_id = 5,
+    BGM_name = "Where Love Blossoms",
+    unlock_price = "150001,101,98",
+    unlock_time = "2026/3/10 0:00:00",
+    type = 4
+  },
+  [141] = {
+    BGM_res = "1028_2024ancientWedding_ACCOM",
+    role_id = 5,
+    BGM_name = "Forevermore",
+    unlock_price = "150001,101,98",
+    unlock_time = "2026/03/10 05:00:00",
+    type = 4
+  },
+  [142] = {
+    BGM_res = "1032_FallinNight",
+    role_id = 5,
+    BGM_name = "Fall in Night",
+    unlock_price = "150001,101,98",
+    unlock_time = "2026/2/5 05:00:00",
+    type = 4
+  },
+  [144] = {
+    BGM_res = "1034_2025UR",
+    role_id = 5,
+    BGM_name = "Wildfire of the Forsaken",
+    unlock_price = "150001,101,98",
+    unlock_time = "2025/12/23 5:00:00",
+    type = 4
+  },
+  [146] = {
+    BGM_res = "1036_2025Prison",
+    role_id = 5,
+    BGM_name = "Original Sin",
+    unlock_price = "150001,101,98",
+    unlock_time = "2025/9/25 5:00:00",
+    type = 4
+  },
+  [147] = {
+    BGM_res = "1036_2025Prison_Pure",
+    role_id = 5,
+    BGM_name = "Domain of Sin",
+    unlock_price = "150001,101,98",
+    unlock_time = "2025/9/25 5:00:00",
     type = 4
   }
 }

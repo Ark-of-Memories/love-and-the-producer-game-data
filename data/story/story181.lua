@@ -11311,6 +11311,135 @@ story181 = {
       next = {0}
     }
   },
+  [840321] = {
+    [1] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      idx = 3,
+      music = "1014_2023anniversary_scene",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "咦，你怎么给我拿了一杯冰块？",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4847,
+      dhead = 114,
+      dialog = 1,
+      music = "1014_2023anniversary_scene",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "难道是想创新下口味，做成龙井冰饮吗~",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "1014_2023anniversary_scene",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3140000,
+      role2 = 302101,
+      role3 = 302205,
+      ruchang = -1,
+      sentence = "虽然冰饮也很好喝，不过这是其实是我给你准备的“烫手应急装置”。 ",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "1014_2023anniversary_scene",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3140000,
+      role2 = 302101,
+      role3 = 302205,
+      sentence = "刚刚喝茶的时候我就差点被烫到舌头，泡茶的你就更要小心了！",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      music = "1014_2023anniversary_scene",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3140000,
+      role2 = 302101,
+      role3 = 302205,
+      sentence = "嘿嘿~谢谢这位好心的评审老师！",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      music = "1014_2023anniversary_scene",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3140000,
+      role2 = 302101,
+      role3 = 302205,
+      sentence = "不过练习了这么久，我好像已经掌握了不会被烫到手的倒茶方法了。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4847,
+      dhead = 114,
+      dialog = 1,
+      music = "1014_2023anniversary_scene",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3140000,
+      role2 = 302101,
+      role3 = 302205,
+      sentence = "而且比起冰块，我更喜欢用“捏耳垂大法”降温~",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "1014_2023anniversary_scene",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3140000,
+      role2 = 302107,
+      role3 = 302205,
+      sentence = "这样……那薯片小姐也借我捏一下耳垂吧！",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4847,
+      dhead = 111,
+      dialog = 1,
+      music = "1014_2023anniversary_scene",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3140000,
+      role2 = 302107,
+      role3 = 302205,
+      sentence = "嗯？你刚才也被茶杯烫到手了吗？",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "1014_2023anniversary_scene",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3140000,
+      role2 = 302101,
+      role3 = 302205,
+      ruchang = 9,
+      sentence = "没有哦，是我也想摸摸你而已^^~",
+      next = {0}
+    }
+  },
   [903003] = {
     [1] = {
       beijing = 1113,

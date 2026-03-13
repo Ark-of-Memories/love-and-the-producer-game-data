@@ -12069,7 +12069,7 @@ story6 = {
       dialog = 3,
       music = "47_Warm_Daily",
       renwu = "npc",
-      sentence = "为了寻找合适的礼物，我来到了新开的礼品店。",
+      sentence = "To find the perfect gift, I wandered into a new boutique gift shop.",
       next = {2}
     },
     [2] = {
@@ -12077,7 +12077,7 @@ story6 = {
       dialog = 3,
       music = "47_Warm_Daily",
       renwu = "npc",
-      sentence = "正当我思考该为他准备什么礼物时，短信提示声响起了。",
+      sentence = "As I pondered my choices, a soft ding alerted me to another incoming message.",
       sfx = "Dia_Phone_MessageRecieve",
       next = {3}
     },
@@ -12094,7 +12094,7 @@ story6 = {
       dialog = 3,
       music = "47_Warm_Daily",
       renwu = "npc",
-      sentence = "我望向一旁的兔子玩偶，旁边的商品介绍上写着，它还有录音功能。",
+      sentence = "My eyes drifted to a bunny plushie sitting on a nearby shelf. Its tag mentioned a built-in voice recorder.",
       next = {5}
     },
     [5] = {
@@ -12102,7 +12102,7 @@ story6 = {
       dialog = 3,
       music = "47_Warm_Daily",
       renwu = "npc",
-      sentence = "我买下了可以录音的兔子玩偶，按下录音键。",
+      sentence = "Without hesitation, I bought it. Then I pressed the record button and began speaking into the mic.",
       next = {6}
     },
     [6] = {
@@ -12112,7 +12112,7 @@ story6 = {
       music = "47_Warm_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "咳咳，这里是你的专属陪伴$u。",
+      sentence = "Ahem. This is your personal companion bunny, $u speaking.",
       next = {7}
     },
     [7] = {
@@ -12122,7 +12122,7 @@ story6 = {
       music = "47_Warm_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "无法立刻出现在你面前的日子里，表达想念的方式有三种。",
+      sentence = "On the days when I can't show up by your side, you've got three options to let me know you're missing me.",
       next = {8}
     },
     [8] = {
@@ -12132,7 +12132,7 @@ story6 = {
       music = "47_Warm_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "一，按下录音键说上一句悄悄话；二，按下录音键唱一段旋律……",
+      sentence = "Option one: press record and whisper me a secret. Option two: record yourself singing a little tune...",
       next = {9}
     },
     [9] = {
@@ -12142,7 +12142,7 @@ story6 = {
       music = "47_Warm_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "三，放下小兔子，拨通$u的电话吧。",
+      sentence = "Option three: set the bunny down and call $u directly.",
       next = {0}
     }
   },
@@ -12367,7 +12367,7 @@ story6 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = 24,
+      renming = "24",
       renwu = "npc",
       sentence = "Comrade, I strongly recommend meeting in person a.s.a.p. This is important.",
       next = {10}
@@ -12395,7 +12395,7 @@ story6 = {
       dialog = 2,
       idx = 5,
       music = "23_Lonely",
-      renming = 24,
+      renming = "24",
       renwu = "npc",
       sentence = "Sad life, bro—it read.",
       next = {13}

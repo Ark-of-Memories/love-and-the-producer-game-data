@@ -138,7 +138,7 @@ data = {
   [401] = {
     announcement_display_type = {common_config_value = "1"},
     announcement_spprefab = {
-      common_config_value = "61090,Activity/401/Prefab/61090.prefab:62090,Activity/401/Prefab/62090.prefab:63090,Activity/401/Prefab/63090.prefab:64090,Activity/401/Prefab/64090.prefab"
+      common_config_value = "91030,Activity/401/Prefab/91030.prefab:92030,Activity/401/Prefab/92030.prefab:93030,Activity/401/Prefab/93030.prefab:94030,Activity/401/Prefab/94030.prefab"
     }
   },
   [502] = {
@@ -885,22 +885,22 @@ data = {
   },
   [8004] = {
     activity_count_start = {
-      common_config_value = "2024/3/11 05:00:00"
+      common_config_value = "2026/2/5 05:00:00"
     }
   },
   [8005] = {
     activity_count_start = {
-      common_config_value = "2024/3/11 05:00:00"
+      common_config_value = "2026/2/5 05:00:00"
     }
   },
   [8006] = {
     activity_count_start = {
-      common_config_value = "2024/3/11 05:00:00"
+      common_config_value = "2026/2/5 05:00:00"
     }
   },
   [8007] = {
     activity_count_start = {
-      common_config_value = "2024/3/11 05:00:00"
+      common_config_value = "2026/2/5 05:00:00"
     }
   },
   [9002] = {
@@ -1782,7 +1782,7 @@ data = {
     },
     shop_redpoint = {common_config_value = "400563,68"},
     shop_text = {
-      common_config_value = "活动结束后剩余快闪入场券将转换为试炼石，请及时兑换"
+      common_config_value = "Pop-up Admission Tickets will be converted into Trial Stones when the event ends."
     }
   },
   [9526] = {
@@ -1799,7 +1799,7 @@ data = {
     },
     shop_redpoint = {common_config_value = "400625,68"},
     shop_text = {
-      common_config_value = "活动结束后剩余积点卡将转换为试炼石，请及时兑换"
+      common_config_value = "Loyalty Cards will be converted into Trial Stones when the event ends."
     }
   },
   [9527] = {
@@ -1831,7 +1831,7 @@ data = {
     },
     shop_redpoint = {common_config_value = "400631,68"},
     shop_text = {
-      common_config_value = "·活动结束后剩余快闪入场券将转换为试炼石，请及时兑换·"
+      common_config_value = "Loyalty Cards will be converted into Trial Stones when the event ends."
     }
   },
   [9529] = {
@@ -1848,7 +1848,7 @@ data = {
     },
     shop_redpoint = {common_config_value = "400632,68"},
     shop_text = {
-      common_config_value = "活动结束后剩余积点卡将转换为试炼石，请及时兑换"
+      common_config_value = "Loyalty Cards will be converted into Trial Stones when the event ends."
     }
   },
   [9530] = {
@@ -1863,7 +1863,7 @@ data = {
     },
     shop_redpoint = {common_config_value = "400717,388"},
     shop_text = {
-      common_config_value = "活动结束后剩余积点卡将转换为试炼石，请及时兑换"
+      common_config_value = "Loyalty Cards will be converted into Trial Stones when the event ends."
     }
   },
   [9531] = {
@@ -2583,10 +2583,10 @@ data = {
       common_config_value = "1|1;2|2,3;3|4;4|4,5;5|4,5,6;6|4,5,6,7;7|4,5,6,7,8,9"
     },
     qq_click_response = {
-      common_config_value = "……是我在拉二胡，不是有鸭子路过。|某人“监工”我拉琴的嘴脸，倒是和“万恶资本家”有几分像。|听魏谦说，有个胆大的笨蛋给我报了年会的二胡独奏？"
+      common_config_value = "...It's me playing the erhu. There are no ducks.|The way a certain someone supervised me playing the erhu—she looked like the 'capitalist' herself.|I heard from Goldman that a certain someone told the annual gala that I'd be presenting an erhu solo?"
     },
     qq_switch_response = {
-      common_config_value = "用咖啡激励我学习二胡，的确是笨蛋想出来的办法。|专业老师表扬的人是我，某人怎么一脸骄傲的表情？"
+      common_config_value = "Using coffee to bait me into practicing erhu? Sounds like a certain dummy's idea.|I'm the one who got the praise from the teacher. What are you so smug about?"
     },
     qq_switch_time = {common_config_value = "10,13"},
     single_relate_activity = {
@@ -2665,10 +2665,10 @@ data = {
       common_config_value = "1|1,2;2|3,4;3|5,6;4|5,6,7,8;5|5,6,7,8,9;6|5,6,7,8,9,10,11;7|5,6,7,8,9,10,11,12"
     },
     qq_click_response = {
-      common_config_value = "刚刚节奏错了吗？我重敲一次，你帮我听一下吧。|这点训练量不至于累，但还是想要你的鼓励。|顾征说要和我在老师面前比赛练习成果，我会让他输得心服口服。"
+      common_config_value = "Did I mess up the rhythm just now? I'll try again. Can you listen and check it for me?|It's okay, this amount of work is nothing, but I still want a bit of encouragement from you.|Eli said he wanted to compete with me in front of the teacher. I'll make sure he loses fair and square."
     },
     qq_switch_response = {
-      common_config_value = "练习完之后还要回署里开个会。放心，不会太久。|休息十分钟后继续。"
+      common_config_value = "I've got a meeting back at the task force after practice. Don't worry; it won't take long.|Break time—ten minutes, then I'll go again."
     },
     qq_switch_time = {common_config_value = "10,13"},
     single_relate_activity = {
@@ -2730,10 +2730,10 @@ data = {
       common_config_value = "1|1;2|2,3;3|4,5;4|4,5,6,7;5|4,5,6,7,8,9;6|4,5,6,7,8,9,10;7|4,5,6,7,8,9,10,11,12"
     },
     qq_click_response = {
-      common_config_value = "你来了，要听听看我昨天的练习成果吗？|这里晚上的风景不错，要留下来看看吗？|放心，我有好好休息……嗯，练琴也算。"
+      common_config_value = "You're here. Do you want to see the results of my hard work?|The view here is great at night. Would you like to share it with me?|Don't worry. I have been resting well. Yes, practicing also counts as resting."
     },
     qq_switch_response = {
-      common_config_value = "应该是这么弹的……嗯，这样听起来音色会更美妙。|一边练习的时候，倒是可以再想想怎么梳理目录。"
+      common_config_value = "It should be like this... There. That should make it sound way better.|Maybe I can think about how to organize the catalog while practicing."
     },
     qq_switch_time = {common_config_value = "10,13"},
     single_relate_activity = {
@@ -3212,6 +3212,46 @@ data = {
       common_config_value = "43073:17247:21720:75027"
     },
     timelimited_galaxywishcoupon_id = {common_config_value = "400472"}
+  },
+  [15088] = {
+    activity_draw_audio = {
+      common_config_value = "sfx/Activity_15088_1.mp3|sfx/Activity_15088_2.mp3|sfx/Activity_15088_3.mp3|sfx/Activity_15088_4.mp3"
+    },
+    activity_launch_story = {common_config_value = "842700"},
+    bgm_gacha_volume = {common_config_value = "75"},
+    bgm_name = {
+      common_config_value = "1036_2025Prison"
+    },
+    goods_sign_new = {
+      common_config_value = "5198001:5296001:5398001:5497001"
+    },
+    single_relate_activity = {
+      common_config_value = "43075:17250:21780:75045"
+    },
+    suitpack_id = {
+      common_config_value = "110025:110026:110027:110028"
+    },
+    suitpack_point_relate_activity = {common_config_value = "21782"},
+    timelimited_galaxywishcoupon_id = {common_config_value = "400782"}
+  },
+  [15100] = {
+    activity_draw_audio = {
+      common_config_value = "sfx/Activity_15066_1.mp3|sfx/Activity_15066_2.mp3"
+    },
+    activity_launch_story = {common_config_value = "830500"},
+    bgm_gacha_volume = {common_config_value = "75"},
+    bgm_name = {
+      common_config_value = "1024_2024SummerSP"
+    },
+    goods_sign_new = {
+      common_config_value = "610901:620901:630901:640901"
+    },
+    relate_pack_id = {common_config_value = "120104"},
+    show_order = {common_config_value = "3:1:2:4"},
+    single_relate_activity = {
+      common_config_value = "43083:17271:21744:75035"
+    },
+    timelimited_galaxywishcoupon_id = {common_config_value = "400587"}
   },
   [15999] = {
     single_relate_activity = {common_config_value = "43999"}
@@ -4478,7 +4518,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     share_activity_rule = {common_config_value = "0,1201,1"},
     share_contents = {
-      common_config_value = "“相信值得相信的人，对他来说不过是最理所应当的事。”“风华绝代”活动进行中！#恋与制作人#"
+      common_config_value = "Believing in those worth believing, that has always been his creed.\"\"Unsurpassed Beauty\"\" event is live now! #MrLoveMobile"
     }
   },
   [17168] = {
@@ -4611,7 +4651,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     share_activity_rule = {common_config_value = "0,1201,1"},
     share_contents = {
-      common_config_value = "“震天撼地的鼓声终将会驱散一切阴霾，以凯歌奏响归家之音。”“拾壹”活动进行中！#恋与制作人#"
+      common_config_value = "The thundering drums will drive away the darkness, and welcome the heroes home. \"\"Eleven\"\" event live now! #MrLoveMobile"
     }
   },
   [17183] = {
@@ -4620,7 +4660,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     share_activity_rule = {common_config_value = "0,1201,1"},
     share_contents = {
-      common_config_value = "“殷殷古韵长鸣，寄千情，照长路。”“寒山独见卿”活动进行中！#恋与制作人#"
+      common_config_value = "An ancient melody, an eternal love, guiding you down the winding path.\"\"Eyes for You\"\" event is live now! #MrLoveMobile"
     }
   },
   [17184] = {
@@ -4749,7 +4789,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
   },
   [17198] = {
     share_contents = {
-      common_config_value = "每天的心情，都想和最爱的你分享。#恋与制作人#"
+      common_config_value = "I want to share my feelings with the one I love—every single day. #MrLoveMobile"
     }
   },
   [17199] = {
@@ -4954,14 +4994,14 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     share_activity_rule = {common_config_value = "0,1201,1"},
     share_contents = {
-      common_config_value = "听，你最深的欲望正蛊惑你打开心门。“午夜邀请函”活动进行中！#恋与制作人#"
+      common_config_value = "Your deepest desire beckons, unlatching the sealed doorway to your heart. 'Midnight Invitation' event live now! #MrLoveMobile"
     }
   },
   [17222] = {
     share_activity_rewards = {common_config_value = "0,2,10"},
     share_activity_rule = {common_config_value = "0,1201,1"},
     share_contents = {
-      common_config_value = "你赠与他蝶舞的梦境，他便为你编织出永不凋零的四季。#恋与制作人##许墨1115生日快乐#"
+      common_config_value = "You gave him a dream of dancing butterflies, so he weaves for you four seasons that bloom all the time. #MrLoveMobile#Lucien1115HappyBirthday"
     }
   },
   [17223] = {
@@ -5083,7 +5123,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     share_activity_rewards = {common_config_value = "0,2,10"},
     share_activity_rule = {common_config_value = "0,1201,1"},
     share_contents = {
-      common_config_value = "愿他旅途漫长，充满奇迹，充满爱。#恋与制作人##李泽言0113生日快乐#"
+      common_config_value = "May miracles and love accompany him on this long journey of life. #MrLoveMobile#Victor0113HappyBirthday"
     }
   },
   [17237] = {
@@ -5092,7 +5132,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     share_activity_rule = {common_config_value = "0,1201,1"},
     share_contents = {
-      common_config_value = "与子弹一同抵达的，是新的规则。“不归者的燎原”活动进行中！#恋与制作人#"
+      common_config_value = "With the bullet comes a new rule. The Wildfire of the Forsaken  event is now live! #MrLoveMobile"
     }
   },
   [17238] = {
@@ -5167,6 +5207,29 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     share_activity_rule = {common_config_value = "0,1201,1"},
     share_contents = {
       common_config_value = "尾灯拉出绵长光线，一纵而逝的图景，描摹夜的温度。“当我驶向你”活动进行中！#恋与制作人#"
+    }
+  },
+  [17250] = {
+    share_activity_rewards = {
+      common_config_value = "100061,101,1"
+    },
+    share_activity_rule = {common_config_value = "0,1201,1"},
+    share_contents = {
+      common_config_value = "Even in the most suffocating Bastille, a hidden heartbeat grows wild and unbound, daring to break free. \"\"Original Sin\"\" event live now! #MrLoveMobile"
+    }
+  },
+  [17260] = {
+    share_activity_rewards = {common_config_value = "0,2,10"},
+    share_activity_rule = {common_config_value = "0,1201,1"},
+    share_contents = {
+      common_config_value = "A hidden conspiracy unfolded in the fleeting glances, forming a magnetic yet perilous bond. \"\"Domain of Sin\"\" event live now! #MrLoveMobile"
+    }
+  },
+  [17271] = {
+    share_activity_rewards = {common_config_value = "0,1,0"},
+    share_activity_rule = {common_config_value = "0,1201,1"},
+    share_contents = {
+      common_config_value = "Out of a thousand reasons to love summer, you are the first one. [Across the Sea] event live now! #MrLoveMobile"
     }
   },
   [18901] = {
@@ -5302,21 +5365,21 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
   [18914] = {
     activity_pack_icon = {common_config_value = "1130.png"},
     activity_pack_title = {
-      common_config_value = "限时礼包"
+      common_config_value = "Limited Pack"
     },
     relate_activity = {common_config_value = "68028"},
     relate_pack_id = {
-      common_config_value = "230197:230198:230199:230200:230201"
+      common_config_value = "200134:200135:200136:200137:200138"
     }
   },
   [18915] = {
     activity_pack_icon = {common_config_value = "1130.png"},
     activity_pack_title = {
-      common_config_value = "限时礼包"
+      common_config_value = "Limited Pack"
     },
     relate_activity = {common_config_value = "68029"},
     relate_pack_id = {
-      common_config_value = "230207:230208:230209:230210"
+      common_config_value = "200197:200198:200199:200200"
     }
   },
   [18916] = {
@@ -5865,7 +5928,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     single_rank_top = {common_config_value = "100"}
   },
   [21727] = {
-    activity_score_global = {common_config_value = "1"},
+    activity_score_global = {common_config_value = "0"},
     single_relate_activity = {common_config_value = "98006"}
   },
   [21728] = {
@@ -5875,7 +5938,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     single_rank_top = {common_config_value = "100"}
   },
   [21734] = {
-    activity_score_global = {common_config_value = "1"},
+    activity_score_global = {common_config_value = "0"},
     single_relate_activity = {common_config_value = "98007"}
   },
   [21736] = {
@@ -5896,7 +5959,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
   },
   [21759] = {
     activity_check_alt = {common_config_value = "1"},
-    activity_score_global = {common_config_value = "1"},
+    activity_score_global = {common_config_value = "0"},
     rank_show_delay = {common_config_value = "172800"},
     single_rank_top = {common_config_value = "100"}
   },
@@ -5908,7 +5971,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
   },
   [21767] = {
     activity_check_alt = {common_config_value = "1"},
-    activity_score_global = {common_config_value = "1"},
+    activity_score_global = {common_config_value = "0"},
     rank_show_delay = {common_config_value = "172800"},
     single_rank_top = {common_config_value = "100"}
   },
@@ -5987,7 +6050,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     single_relate_activity = {
       common_config_value = "21504:21505:21506:21507:4101:4102:4103:4104"
     },
-    single_task_1_unlock = {common_config_value = "129600"},
+    single_task_1_unlock = {common_config_value = "86400"},
     single_task_3_new = {common_config_value = "2"},
     single_task_3_notnew1 = {common_config_value = "3"},
     single_task_3_prob = {common_config_value = "400"},
@@ -6857,9 +6920,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     vlog_daily_free_shoot_award = {
       common_config_value = "2166501,49,10"
     },
-    vlog_engage_location_name = {
-      common_config_value = "拍摄舞台"
-    },
+    vlog_engage_location_name = {common_config_value = "Film Set"},
     vlog_engage_location_stage = {common_config_value = "30921"},
     vlog_repeated_shoot_award = {
       common_config_value = "2166501,49,5"
@@ -6877,7 +6938,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "2167401,49,10"
     },
     vlog_engage_location_name = {
-      common_config_value = "悠悠青森"
+      common_config_value = "Verdant Woods"
     },
     vlog_engage_location_stage = {common_config_value = "10991"},
     vlog_repeated_shoot_award = {
@@ -6914,9 +6975,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     vlog_daily_free_shoot_award = {
       common_config_value = "2170001,49,10"
     },
-    vlog_engage_location_name = {
-      common_config_value = "纸笺传情"
-    },
+    vlog_engage_location_name = {common_config_value = "Love Notes"},
     vlog_engage_location_stage = {common_config_value = "31071"},
     vlog_repeated_shoot_award = {
       common_config_value = "2170001,49,5"
@@ -6934,7 +6993,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "2171901,49,10"
     },
     vlog_engage_location_name = {
-      common_config_value = "熏香时刻"
+      common_config_value = "Fragrant Moment"
     },
     vlog_engage_location_stage = {common_config_value = "41131"},
     vlog_repeated_shoot_award = {
@@ -10301,31 +10360,31 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     daily_reward_id = {common_config_value = "0,2"},
     daily_reward_range = {common_config_value = "50:88"},
     double_activity_male_special_talk_1 = {
-      common_config_value = "希望这件礼物，能满足某人关于新年的期盼。:希望这份礼物，可以让你的脸上绽放新年的第一份笑容。:今年的第一份惊喜已就位，只等我的家薯来亲手揭晓了！ :新年快乐，祝福和礼物我都想第一个送给你。:既然收了礼物，是不是该送我句特别的新年祝福？"
+      common_config_value = "I hope this gift lives up to a certain someone's New Year expectations.:My wish is to be the reason for your very first smile of the year.:Your first surprise of the year is all set—just waiting for my Miss Chips to unveil it herself!:Happy New Year. I wanted to be the first to give you both my wishes and my gift.:You're welcome for the gift. Now how about a 'Happy New Year' that's actually meant for me?"
     },
     double_activity_male_special_talk_2 = {
-      common_config_value = "对于笨蛋准备的礼物，我一向有所期待。:你总能从生活的点滴中发现我的一切，哪怕只是一份小小的喜好。:时间可以快一点，再快一点吗？迫不及待想知道阿薯准备的惊喜啦~:我的新年礼物，好像已经被你藏在手中了。:你送的我肯定喜欢？算你猜对了吧。"
+      common_config_value = "I have to admit, I've come to look forward to a certain dummy's gifts.:You remember my likes and dislikes better than I do. It means more than you know.:Is it time for my surprise yet? I've been thinking about it all day!:Is that my gift you're holding? You can just give it to me, you know.:What, you think you know my taste that well? ...Okay, maybe you do."
     },
     double_activity_male_special_talk_3 = {
-      common_config_value = "介于你这次的奇思妙想还不错，我的新年回礼自然也要深思熟虑。:关于新一年的第一份想象与期许，是你亲手送给我的。:原来魔法师就在我身边~你的每一份惊喜都有让人感到幸福的魔力。:送你的新年回礼当然要仔细挑选，我的女孩值得最好的。:新年当然要接福气、迎好运，你亲手送的礼物，我可得收好才行。"
+      common_config_value = "You've set a surprisingly high bar this time. Of course I have to put some serious thought into my gift for you.:You’re the one who gave me my very first hope and wish for the new year.:You're the real magician here! You always know the perfect way to make me happy.:I wanted to make sure I found something perfect for you. My girl deserves the best.:Guess I'll keep this for luck. After all... you handed it to me yourself."
     },
     double_activity_male_talk_1 = {
-      common_config_value = "我记得某人说过，生活需要仪式感。:这份小礼物，希望能和我一起陪伴你今天的好心情。:当当~周棋洛专属礼物送达~请签收！:在你身边，我也学到了不少挑礼物的方法。:这礼物还行吧？我可是耐着性子挑了半天。"
+      common_config_value = "Let's just say I was inspired by a certain someone's... philosophy on life's little ceremonies.:A little something to go along with you, and hopefully keep that smile on your face all day.:Ta-da! A special delivery from Kiro—please sign here!:Being around you, I guess I've gotten better at picking gifts.:It's not bad, right? And for the record, I spent forever choosing it."
     },
     double_activity_male_talk_2 = {
-      common_config_value = "笨蛋认真准备的心，比礼物更值得惊喜。:是你让我渐渐知道，未知与等待也伴随着幸福的模样。:好想知道你准备了什么惊喜，可以给我透露一点吗？:不用太费脑筋，你选的我都喜欢。:跟我就别卖关子了，你带了什么我还猜不出来？"
+      common_config_value = "Dummy, the heart you put into this is the real surprise—more than the gift itself.:It’s you who taught me that the unknown—and even the waiting—can carry its own kind of happiness.:Okay, I'm way too excited to wait any longer. Can you give me a little hint?:You really don't have to stress. Your choice is the right choice.:The big reveal, huh? I bet I know what it is. But go on, surprise me."
     },
     double_activity_male_talk_3 = {
-      common_config_value = "看来又见识到了一次，某人层出不穷的创意。:这位小姐的礼物，总能让我发自内心地感到快乐。:嗯……让我来想想，怎么给你独一无二的回礼~:其实礼物是什么不重要，是你送的就足够好。:有些人真是跟我待久了……你别说，这些东西有点意思。"
+      common_config_value = "Just when I think I've seen it all, a certain someone comes up with something new.:Every gift from this little miss is a genuine delight.:Hmm... what could possibly be good enough for you? I'll have to get seriously creative!:I'd be happy with anything, as long as it comes from you.:Okay, I'll admit it. You've got a pretty decent eye. Must be my influence."
     },
     double_activity_my_gift = {
-      common_config_value = "窗花:年历:灯笼:红包:春联:福字:围巾:零食:果盘:鞭炮"
+      common_config_value = "Festive Garland:Window Ornament:Desk Calendar:Scented Candle:New Year Card:Cozy Scarf:Snack Box:Fruit Basket:Confetti Poppers:Red Packet"
     },
     double_activity_special_talk_time = {
-      common_config_value = "2025/1/29 5:00;2025/2/4 4:59"
+      common_config_value = "2026/1/1 5:00:00;2026/1/3 23:59:59"
     },
     first_day_deadline = {
-      common_config_value = "2025/1/23  4:59:59"
+      common_config_value = "2025/12/26 4:59:59"
     },
     pack_current_price = {common_config_value = "10"},
     pack_original_price = {common_config_value = "15"},
@@ -10490,7 +10549,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     extra_pieces_daily_reward = {common_config_value = "8004"},
     extra_pieces_endtime = {
-      common_config_value = "2024/2/26 0:00:00"
+      common_config_value = "2026/2/12 0:00:00"
     },
     extra_pieces_goods = {common_config_value = "119817"},
     extra_pieces_hard_task_drop_probability = {common_config_value = "800"},
@@ -10503,7 +10562,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "54590,101,1"
     },
     extra_pieces_task_drop_endtime = {
-      common_config_value = "2024/2/26 0:00:00"
+      common_config_value = "2026/2/12 0:00:00"
     },
     extra_pieces_task_drop_limit = {common_config_value = "0"},
     extra_pieces_task_drop_max = {common_config_value = "15"},
@@ -10523,7 +10582,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     extra_pieces_daily_reward = {common_config_value = "8005"},
     extra_pieces_endtime = {
-      common_config_value = "2024/4/3 0:00:00"
+      common_config_value = "2026/2/12 0:00:00"
     },
     extra_pieces_goods = {common_config_value = "119877"},
     extra_pieces_hard_task_drop_probability = {common_config_value = "800"},
@@ -10536,7 +10595,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "52610,101,1"
     },
     extra_pieces_task_drop_endtime = {
-      common_config_value = "2024/4/3 0:00:00"
+      common_config_value = "2026/2/12 0:00:00"
     },
     extra_pieces_task_drop_limit = {common_config_value = "0"},
     extra_pieces_task_drop_max = {common_config_value = "15"},
@@ -10556,7 +10615,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     extra_pieces_daily_reward = {common_config_value = "8006"},
     extra_pieces_endtime = {
-      common_config_value = "2024/5/14 0:00:00"
+      common_config_value = "2026/2/12 0:00:00"
     },
     extra_pieces_goods = {common_config_value = "119904"},
     extra_pieces_hard_task_drop_probability = {common_config_value = "800"},
@@ -10569,7 +10628,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "51640,101,1"
     },
     extra_pieces_task_drop_endtime = {
-      common_config_value = "2024/5/14 0:00:00"
+      common_config_value = "2026/2/12 0:00:00"
     },
     extra_pieces_task_drop_limit = {common_config_value = "0"},
     extra_pieces_task_drop_max = {common_config_value = "15"},
@@ -10589,7 +10648,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     extra_pieces_daily_reward = {common_config_value = "8007"},
     extra_pieces_endtime = {
-      common_config_value = "2024/1/23 0:00:00"
+      common_config_value = "2026/2/12 0:00:00"
     },
     extra_pieces_goods = {common_config_value = "119927"},
     extra_pieces_hard_task_drop_probability = {common_config_value = "800"},
@@ -10602,7 +10661,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "53660,101,1"
     },
     extra_pieces_task_drop_endtime = {
-      common_config_value = "2024/1/23 0:00:00"
+      common_config_value = "2026/2/12 0:00:00"
     },
     extra_pieces_task_drop_limit = {common_config_value = "0"},
     extra_pieces_task_drop_max = {common_config_value = "15"},
@@ -10961,7 +11020,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
   },
   [58044] = {
     activity_certain_day_discount = {
-      common_config_value = "2025/2/7 5:00:00;2025/2/7 23:59:59|0.8"
+      common_config_value = "2024/2/1  5:00:00;2024/2/1  23:59:59|0.8"
     }
   },
   [60001] = {
@@ -12336,7 +12395,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     activity_name = {
       common_config_value = "S1 VOL.7  Echoes of Fate"
     },
-    activity_related_pack_id = {common_config_value = "200081"},
+    activity_related_pack_id = {common_config_value = "200282"},
     background_card_id_1 = {common_config_value = "51310"},
     background_card_id_2 = {common_config_value = "52300"},
     background_card_id_3 = {common_config_value = "53300"},
@@ -12378,7 +12437,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     activity_name = {
       common_config_value = "S1 VOL.8  Tracks of Light"
     },
-    activity_related_pack_id = {common_config_value = "200081"},
+    activity_related_pack_id = {common_config_value = "200282"},
     background_card_id_1 = {common_config_value = "51340"},
     background_card_id_2 = {common_config_value = "52360"},
     background_card_id_3 = {common_config_value = "53350"},
@@ -12420,7 +12479,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     activity_name = {
       common_config_value = "S1 VOL.9  Tomorrow's Endgame"
     },
-    activity_related_pack_id = {common_config_value = "200081"},
+    activity_related_pack_id = {common_config_value = "200282"},
     background_card_id_1 = {common_config_value = "51370"},
     background_card_id_2 = {common_config_value = "52380"},
     background_card_id_3 = {common_config_value = "53370"},
@@ -12468,7 +12527,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     activity_launch_story = {common_config_value = "806901"},
     activity_name = {
-      common_config_value = "Volumes 2| Dark Field"
+      common_config_value = "Volumes 2| The Dark Forest"
     },
     background_card_id_1 = {common_config_value = "71050"},
     background_card_id_2 = {common_config_value = "74050"},
@@ -12476,7 +12535,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     background_card_id_4 = {common_config_value = "73050"},
     background_card_id_5 = {common_config_value = "78040"},
     relate_RMB_pack_id = {
-      common_config_value = "111496:111497"
+      common_config_value = "200283:200284"
     },
     relate_activity = {common_config_value = "21580"},
     relate_item_pack_id = {common_config_value = "58008"},
@@ -12557,7 +12616,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     background_card_id_4 = {common_config_value = "51430"},
     background_card_id_5 = {common_config_value = "58060"},
     relate_RMB_pack_id = {
-      common_config_value = "111412:111413"
+      common_config_value = "200283:200284"
     },
     relate_activity = {common_config_value = "21587"},
     relate_item_pack_id = {common_config_value = "58011"},
@@ -12688,7 +12747,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     activity_name = {
       common_config_value = "S2 VOL.4  Darkfield"
     },
-    activity_related_pack_id = {common_config_value = "200081"},
+    activity_related_pack_id = {common_config_value = "200282"},
     background_card_id_1 = {common_config_value = "51460"},
     background_card_id_2 = {common_config_value = "52450"},
     background_card_id_3 = {common_config_value = "53460"},
@@ -12760,7 +12819,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     draw_single_time_min_score = {common_config_value = "9"},
     relate_RMB_pack_id = {
-      common_config_value = "111578:111579"
+      common_config_value = "200283:200284"
     },
     relate_activity = {common_config_value = "21615"},
     relate_item_pack_id = {common_config_value = "58016"},
@@ -12797,7 +12856,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     activity_name = {
       common_config_value = "S2 VOL.6  The Lost Land"
     },
-    activity_related_pack_id = {common_config_value = "200081"},
+    activity_related_pack_id = {common_config_value = "200282"},
     background_card_id_1 = {common_config_value = "51530"},
     background_card_id_2 = {common_config_value = "52500"},
     background_card_id_3 = {common_config_value = "53530"},
@@ -12904,7 +12963,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     background_card_id_replace = {common_config_value = "58090"},
     draw_single_time_min_score = {common_config_value = "9"},
     relate_RMB_pack_id = {
-      common_config_value = "111659:111660"
+      common_config_value = "200283:200284"
     },
     relate_activity = {common_config_value = "21631"},
     relate_item_pack_id = {common_config_value = "58022"},
@@ -13044,7 +13103,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     activity_name = {
       common_config_value = "S2 VOL.8  The Ideal City"
     },
-    activity_related_pack_id = {common_config_value = "200081"},
+    activity_related_pack_id = {common_config_value = "200282"},
     background_card_id_1 = {common_config_value = "51580"},
     background_card_id_2 = {common_config_value = "52560"},
     background_card_id_3 = {common_config_value = "53580"},
@@ -13117,7 +13176,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     background_card_id_replace = {common_config_value = "58090"},
     draw_single_time_min_score = {common_config_value = "9"},
     relate_RMB_pack_id = {
-      common_config_value = "111410:111411"
+      common_config_value = "200283:200284"
     },
     relate_activity = {common_config_value = "21648"},
     relate_item_pack_id = {common_config_value = "58028"},
@@ -13188,7 +13247,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     activity_name = {
       common_config_value = "S2 VOL.10  Descent"
     },
-    activity_related_pack_id = {common_config_value = "200081"},
+    activity_related_pack_id = {common_config_value = "200282"},
     background_card_id_1 = {common_config_value = "51650"},
     background_card_id_2 = {common_config_value = "52630"},
     background_card_id_3 = {common_config_value = "53650"},
@@ -13261,7 +13320,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     background_card_id_replace = {common_config_value = "58090"},
     draw_single_time_min_score = {common_config_value = "9"},
     relate_RMB_pack_id = {
-      common_config_value = "111412:111413"
+      common_config_value = "200283:200284"
     },
     relate_activity = {common_config_value = "21662"},
     relate_item_pack_id = {common_config_value = "58034"},
@@ -13422,15 +13481,15 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "1011_Absurd_Paradise"
     },
     activity_name = {
-      common_config_value = "第二季VOL.14 荒诞乐园"
+      common_config_value = "S2 VOL.14  Paradise Encore"
     },
-    activity_related_pack_id = {common_config_value = "200081"},
+    activity_related_pack_id = {common_config_value = "200282"},
     background_card_id_1 = {common_config_value = "51770"},
     background_card_id_2 = {common_config_value = "52750"},
     background_card_id_3 = {common_config_value = "53780"},
     background_card_id_4 = {common_config_value = "54760"},
     relate_item_store = {
-      common_config_value = "119161,101,1"
+      common_config_value = "119921,101,1"
     },
     relate_notice_num_min_1 = {
       common_config_value = "51770,101,80"
@@ -13446,23 +13505,23 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     single_relate_pack_activity_id = {common_config_value = "18911"},
     treasure_card_draw_reward_1 = {
-      common_config_value = "51770,101,1:119161,101,2"
+      common_config_value = "51770,101,1:119921,101,2"
     },
     treasure_card_draw_reward_2 = {
-      common_config_value = "52750,101,1:119161,101,2"
+      common_config_value = "52750,101,1:119921,101,2"
     },
     treasure_card_draw_reward_3 = {
-      common_config_value = "53780,101,1:119161,101,2"
+      common_config_value = "53780,101,1:119921,101,2"
     },
     treasure_card_draw_reward_4 = {
-      common_config_value = "54760,101,1:119161,101,2"
+      common_config_value = "54760,101,1:119921,101,2"
     },
     treasure_card_draw_reward_prob = {common_config_value = "10000"},
-    treasure_card_related_key_id = {common_config_value = "119160"},
+    treasure_card_related_key_id = {common_config_value = "119920"},
     treasure_card_related_limit_key_id = {common_config_value = "400330"},
     treasure_card_related_old_treasure_id = {common_config_value = "119160"},
-    treasure_card_related_treasure_id = {common_config_value = "400331"},
-    treasure_card_shop_redpoint = {common_config_value = "119161,36"}
+    treasure_card_related_treasure_id = {common_config_value = "119920"},
+    treasure_card_shop_redpoint = {common_config_value = "119921,36"}
   },
   [68025] = {
     activity_BGM = {common_config_value = "1016_Dash"},
@@ -13472,7 +13531,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     activity_draw_audio_weak = {common_config_value = "70"},
     activity_launch_story = {common_config_value = "824000"},
     activity_name = {
-      common_config_value = "第十五卷| ——"
+      common_config_value = "Volumes 15| Fate's Crossroad"
     },
     activity_next_reward_notice = {
       common_config_value = "122,345,1#自选SSR|123,345,1#自选服装"
@@ -13495,7 +13554,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     background_card_id_replace = {common_config_value = "58090"},
     draw_single_time_min_score = {common_config_value = "9"},
     relate_RMB_pack_id = {
-      common_config_value = "111606:111607"
+      common_config_value = "200283:200284"
     },
     relate_activity = {common_config_value = "21714"},
     relate_item_pack_id = {common_config_value = "58043"},
@@ -13522,8 +13581,8 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "119323,101,1"
     },
     treasure_card_draw_reward_prob = {common_config_value = "0"},
-    treasure_card_related_key_id = {common_config_value = "400377"},
-    treasure_card_related_treasure_id = {common_config_value = "400376"}
+    treasure_card_related_key_id = {common_config_value = "119857"},
+    treasure_card_related_treasure_id = {common_config_value = "119858"}
   },
   [68026] = {
     activity_BGM = {
@@ -13558,15 +13617,15 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "1020_bustlingworld"
     },
     activity_name = {
-      common_config_value = "第二季VOL.16 喧闹世界"
+      common_config_value = "S2 VOL.16  Bustling World"
     },
-    activity_related_pack_id = {common_config_value = "111848"},
+    activity_related_pack_id = {common_config_value = "200282"},
     background_card_id_1 = {common_config_value = "51840"},
     background_card_id_2 = {common_config_value = "52820"},
     background_card_id_3 = {common_config_value = "53830"},
     background_card_id_4 = {common_config_value = "54820"},
     relate_item_store = {
-      common_config_value = "119161,101,1"
+      common_config_value = "119921,101,1"
     },
     relate_notice_num_min_1 = {
       common_config_value = "51840,101,80"
@@ -13582,23 +13641,23 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     single_relate_pack_activity_id = {common_config_value = "18913"},
     treasure_card_draw_reward_1 = {
-      common_config_value = "51840,101,1:119161,101,2"
+      common_config_value = "51840,101,1:119921,101,2"
     },
     treasure_card_draw_reward_2 = {
-      common_config_value = "52820,101,1:119161,101,2"
+      common_config_value = "52820,101,1:119921,101,2"
     },
     treasure_card_draw_reward_3 = {
-      common_config_value = "53830,101,1:119161,101,2"
+      common_config_value = "53830,101,1:119921,101,2"
     },
     treasure_card_draw_reward_4 = {
-      common_config_value = "54820,101,1:119161,101,2"
+      common_config_value = "54820,101,1:119921,101,2"
     },
     treasure_card_draw_reward_prob = {common_config_value = "10000"},
-    treasure_card_related_key_id = {common_config_value = "119160"},
+    treasure_card_related_key_id = {common_config_value = "119920"},
     treasure_card_related_limit_key_id = {common_config_value = "400488"},
     treasure_card_related_old_treasure_id = {common_config_value = "119160"},
-    treasure_card_related_treasure_id = {common_config_value = "400489"},
-    treasure_card_shop_redpoint = {common_config_value = "119161,36"}
+    treasure_card_related_treasure_id = {common_config_value = "119920"},
+    treasure_card_shop_redpoint = {common_config_value = "119921,36"}
   },
   [68028] = {
     activity_BGM = {
@@ -13610,7 +13669,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     activity_draw_audio_weak = {common_config_value = "70"},
     activity_launch_story = {common_config_value = "830300"},
     activity_next_reward_notice = {
-      common_config_value = "135,345,1#自选SSR|136,345,1#自选服装"
+      common_config_value = "135,345,1#SSR Giftbox|136,345,1#Outfit GiftBox"
     },
     background_card_id_1 = {
       common_config_value = "51870;51871"
@@ -13630,7 +13689,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     background_card_id_replace = {common_config_value = "58090"},
     draw_single_time_min_score = {common_config_value = "9"},
     relate_RMB_pack_id = {
-      common_config_value = "111689:111690"
+      common_config_value = "200126:200127"
     },
     relate_activity = {common_config_value = "21743"},
     relate_item_pack_id = {common_config_value = "58045"},
@@ -13710,9 +13769,9 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "sfx/Activity_68030_1.mp3|sfx/Activity_68030_2.mp3|sfx/Activity_68030_3.mp3"
     },
     activity_draw_audio_weak = {common_config_value = "70"},
-    activity_launch_story = {common_config_value = "834300"},
+    activity_launch_story = {common_config_value = "0"},
     activity_next_reward_notice = {
-      common_config_value = "149,345,1#自选SSR|150,345,1#自选服装"
+      common_config_value = "149,345,1#SSR Giftbox|150,345,1#Outfit Giftbox"
     },
     background_card_id_1 = {
       common_config_value = "51920:51921"
@@ -15221,6 +15280,13 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     goods_rewards_compensate = {common_config_value = "3085,321,1"},
     goods_select_rewards = {common_config_value = "3085,321,1"}
   },
+  [75045] = {
+    exnumflag_item_id = {common_config_value = "400785"},
+    goods_rewards_compensate = {common_config_value = "163,345,1"},
+    goods_select_rewards = {
+      common_config_value = "3088,321,1:1088,321,1:4085,321,1:2087,321,1"
+    }
+  },
   [76001] = {
     activity_name = {
       common_config_value = "Bound by Love"
@@ -15974,10 +16040,10 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "100061,101,1:400743,101,1"
     },
     rebate_date = {
-      common_config_value = "2025/1/24 5:00:00|2025/1/28 5:00:00|2025/2/1 5:00:00"
+      common_config_value = "2025/12/27 5:00:00|2025/12/31 5:00:00|2026/1/4 5:00:00"
     },
     rebate_deadline = {
-      common_config_value = "2025/1/20 23:59:59"
+      common_config_value = "2025/12/23 23:59:59"
     },
     rebate_rate = {common_config_value = "0.2"},
     rebate_return_goods = {
@@ -16513,26 +16579,26 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     }
   },
   [86020] = {
-    battlepass_limit_time_pack = {common_config_value = "230167"},
+    battlepass_limit_time_pack = {common_config_value = "230176"},
     battlepass_premium_id = {
       common_config_value = "8602017:8602018"
     },
-    battlepass_premium_pack = {common_config_value = "230165"},
-    battlepass_premium_pack2 = {common_config_value = "230166"},
+    battlepass_premium_pack = {common_config_value = "230174"},
+    battlepass_premium_pack2 = {common_config_value = "230175"},
     goodsexchanged_gift_id = {common_config_value = "400342"},
     new_battlepass_card_id = {common_config_value = "73340"},
     new_battlepass_dailyquest_weeklimit = {common_config_value = "1000"},
     new_battlepass_head_frame = {common_config_value = "10157"},
     new_battlepass_levelbuy_offsetsecs = {common_config_value = "2592000"},
     new_battlepass_levelup_points = {common_config_value = "100"},
-    new_battlepass_limit_time_pack = {common_config_value = "230164"},
+    new_battlepass_limit_time_pack = {common_config_value = "230173"},
     new_battlepass_luxury_rewards_level = {common_config_value = "10"},
     new_battlepass_max_level = {common_config_value = "150"},
     new_battlepass_points_goods_id = {common_config_value = "400339"},
     new_battlepass_points_price = {common_config_value = "10:5"},
     new_battlepass_premium_goods_id = {common_config_value = "400340"},
-    new_battlepass_premium_pack = {common_config_value = "111582"},
-    new_battlepass_premium_pack2 = {common_config_value = "111583"},
+    new_battlepass_premium_pack = {common_config_value = "200151"},
+    new_battlepass_premium_pack2 = {common_config_value = "200152"},
     new_battlepass_preview_specialrank = {common_config_value = "10"},
     new_battlepass_related_activity_free = {common_config_value = "21708"},
     new_battlepass_related_activity_premium = {common_config_value = "21709"},
@@ -16558,14 +16624,14 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     new_battlepass_head_frame = {common_config_value = "10162"},
     new_battlepass_levelbuy_offsetsecs = {common_config_value = "2592000"},
     new_battlepass_levelup_points = {common_config_value = "100"},
-    new_battlepass_limit_time_pack = {common_config_value = "230176"},
+    new_battlepass_limit_time_pack = {common_config_value = "200276"},
     new_battlepass_luxury_rewards_level = {common_config_value = "10"},
     new_battlepass_max_level = {common_config_value = "150"},
     new_battlepass_points_goods_id = {common_config_value = "400446"},
     new_battlepass_points_price = {common_config_value = "10:5"},
     new_battlepass_premium_goods_id = {common_config_value = "400447"},
-    new_battlepass_premium_pack = {common_config_value = "111615"},
-    new_battlepass_premium_pack2 = {common_config_value = "111616"},
+    new_battlepass_premium_pack = {common_config_value = "200274"},
+    new_battlepass_premium_pack2 = {common_config_value = "200275"},
     new_battlepass_preview_specialrank = {common_config_value = "10"},
     new_battlepass_related_activity_free = {common_config_value = "21716"},
     new_battlepass_related_activity_premium = {common_config_value = "21717"},
@@ -16597,8 +16663,8 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     new_battlepass_points_goods_id = {common_config_value = "400465"},
     new_battlepass_points_price = {common_config_value = "10:5"},
     new_battlepass_premium_goods_id = {common_config_value = "400466"},
-    new_battlepass_premium_pack = {common_config_value = "111645"},
-    new_battlepass_premium_pack2 = {common_config_value = "111646"},
+    new_battlepass_premium_pack = {common_config_value = "200188"},
+    new_battlepass_premium_pack2 = {common_config_value = "200189"},
     new_battlepass_preview_specialrank = {common_config_value = "10"},
     new_battlepass_related_activity_free = {common_config_value = "21722"},
     new_battlepass_related_activity_premium = {common_config_value = "21723"},
@@ -19193,16 +19259,16 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     activity_show_delay = {common_config_value = "172800"},
     avg_cake_sentence1 = {
-      common_config_value = "voice_834103|尽管闭着眼睛，我也能清楚感受到你传递来的温暖。"
+      common_config_value = "voice_834103|Even with my eyes closed, I can feel your warmth."
     },
     avg_cake_sentence2 = {
-      common_config_value = "voice_834104|有你在身边，我就知道我的愿望一定会实现。"
+      common_config_value = "voice_834104|With you by my side, I know my wish will come true."
     },
     avg_cake_sentence3 = {
-      common_config_value = "voice_834105|烛光虽然短暂，但和你一起的每一刻，都是我想要停留的光景。"
+      common_config_value = "voice_834105|The candles dim, but I wish every moment with you could last forever."
     },
     avg_song_sentence = {
-      common_config_value = "voice_834106|我喜欢你的歌声，胜过这个季节的所有旋律。"
+      common_config_value = "voice_834106|I like your singing more than all the melodies of the season."
     },
     birth_male = {common_config_value = "2"},
     birthday_asmr_id = {common_config_value = "2032"},
@@ -19211,16 +19277,16 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     birthday_card_id2 = {
       common_config_value = "532200,81,1"
     },
-    birthday_celebrate_countdown = {common_config_value = "45"},
-    birthday_celebrate_detect = {common_config_value = "25"},
+    birthday_celebrate_countdown = {common_config_value = "5"},
+    birthday_celebrate_detect = {common_config_value = "3"},
     birthday_day_time = {
-      common_config_value = "2024/11/15 00:00:00|2024/11/15 23:59:00"
+      common_config_value = "2025/11/15 00:00:00|2025/11/15 23:59:59"
     },
     birthday_diy_story_id = {common_config_value = "834002"},
     birthday_diy_tag_merge = {common_config_value = "2,3,4"},
     birthday_gacha2_draw_max_cnt = {common_config_value = "100"},
     birthday_gacha_desc = {
-      common_config_value = "300239,已获得小屋礼物，可前往小屋送给他:400641,可在机械屋中兑换道具:400645,可获取【惊喜筹备】进度奖励:400646,可获取【相印值】进度奖励:400642,可用于蝶梦寻真排行榜，同时可累计全服积分"
+      common_config_value = "300239,Obtained Mini House Gift. You can give it to him in Mini House.:400641,Used to redeem items in the Machine Workshop.:400645,[Surprise Preparation] progression rewards can be obtained.:400646,[Adoration Points] progression rewards can be obtained.:400642,Counted towards the Butterfly Chase Ranking and Server Score."
     },
     birthday_gacha_icon_show = {
       common_config_value = "400649,101,1:400650,101,1"
@@ -19260,16 +19326,16 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     birthday_progress_a1 = {
       common_config_value = "18;532200,81,1:400642,101,10|30;0,41,60:400642,101,20|50;0,41,100:400642,101,20|100;120003,101,7:400642,101,50"
     },
-    birthday_progress_asmr_Phase_b1 = {common_config_value = "3"},
+    birthday_progress_asmr_Phase_b1 = {common_config_value = "0"},
     birthday_progress_b1 = {
-      common_config_value = "30;0,41,200:400642,101,50|75;2079,321,1:400642,101,50|150;142032,101,1:400642,101,50|225;0,41,300:400642,101,50|300;50003,381,1|520;10186,311,1:20001,400,1"
+      common_config_value = "30;0,41,200:400642,101,50|75;2079,321,1:400642,101,50|150;119051,101,15:400642,101,50|225;0,41,300:400642,101,50|300;50003,381,1|520;10186,311,1:20001,400,1"
     },
-    birthday_progress_special_Phase_b1 = {common_config_value = "2,3,5,6"},
+    birthday_progress_special_Phase_b1 = {common_config_value = "2,5,6"},
     birthday_prologue_id = {common_config_value = "834001"},
     birthday_rank_gift = {common_config_value = "520"},
     birthday_rank_reward_condition = {common_config_value = "10"},
     birthday_rank_show = {
-      common_config_value = "前50名|400647,101,1;前100名|51355,331,1"
+      common_config_value = "Top 100|51355,331,1"
     },
     birthday_share_activity_id = {common_config_value = "17222"},
     birthday_shop_redpoint = {
@@ -19277,7 +19343,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     birthday_special_story_id = {common_config_value = "834101"},
     birthday_special_story_time = {
-      common_config_value = "2024/11/15 00:00:00|2024/11/18 23:59:00"
+      common_config_value = "2025/11/15 00:00:00|2025/11/18 23:59:59"
     },
     birthday_standee_template = {
       common_config_value = "21001:2401;21002:2304;21003:2203;22002:2503;23000:2601;24000:2701"
@@ -19307,7 +19373,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     activity_show_delay = {common_config_value = "172800"},
     activity_ticket_endtime = {
-      common_config_value = "2025/1/12 23:59:00"
+      common_config_value = "2026/01/12 23:59:00"
     },
     activity_ticket_exchange = {common_config_value = "102003"},
     activity_ticket_goods = {
@@ -19317,22 +19383,22 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "400737,101,1"
     },
     activity_ticket_opentime = {
-      common_config_value = "2025/1/13 12:00:00"
+      common_config_value = "2026/01/13 12:00:00"
     },
     activity_ticket_rule = {
       common_config_value = "https://evol.papegames.cn/news/700"
     },
     avg_cake_sentence1 = {
-      common_config_value = "voice_838104|和你一起共度的时光，每分每秒都称得上如愿以偿。"
+      common_config_value = "voice_838104|Every second I spend with you feels like I'm exactly where I'm meant to be."
     },
     avg_cake_sentence2 = {
-      common_config_value = "voice_838105|不想浪费这根蜡烛的话，不如由笨蛋来许个愿。"
+      common_config_value = "voice_838105|If you don't want this candle to go to waste, how about letting a certain dummy make a wish instead?"
     },
     avg_cake_sentence3 = {
-      common_config_value = "voice_838106|你的承诺我记下了，从今往后我所有的心愿，都交给你了。"
+      common_config_value = "voice_838106|I heard your promise loud and clear. From now on, all my wishes, every single one, I'm leaving them in your hands."
     },
     avg_song_sentence = {
-      common_config_value = "voice_838107|没有在笑你。只是觉得开心才笑的。"
+      common_config_value = "voice_838107|I'm not laughing at you. I'm just... happy. That's all."
     },
     birth_male = {common_config_value = "1"},
     birthday_asmr_id = {common_config_value = "1037"},
@@ -19342,15 +19408,15 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     birthday_card_id2 = {
       common_config_value = "531230,81,1"
     },
-    birthday_celebrate_countdown = {common_config_value = "45"},
-    birthday_celebrate_detect = {common_config_value = "25"},
+    birthday_celebrate_countdown = {common_config_value = "5"},
+    birthday_celebrate_detect = {common_config_value = "3"},
     birthday_day_time = {
-      common_config_value = "2025/1/13 00:00:00|2025/1/13 23:59:00"
+      common_config_value = "2026/1/13 00:00:00|2026/1/13 23:59:59"
     },
     birthday_diy_story_id = {common_config_value = "838002"},
     birthday_gacha2_draw_max_cnt = {common_config_value = "100"},
     birthday_gacha_desc = {
-      common_config_value = "300240,已获得小屋礼物，可前往小屋送给他:400719,可在如愿小店中兑换道具:400723,可获取【萦心积分】进度奖励:400724,可获取【心契值】进度奖励:400720,可用于时光吻痕排行榜，同时可累计全服积分"
+      common_config_value = "300240,Obtained Mini House Gift. You can give it to him in Mini House.:400719,Used to redeem items in the Wish Shop.:400723,Grants [Heartbound Points] progression rewards.:400724,Grants [Soulink Points] progression rewards.:400720,Counted towards the Timeless Kiss Ranking and Server Score."
     },
     birthday_gacha_icon_show = {
       common_config_value = "400727,101,1:400728,101,1"
@@ -19397,16 +19463,16 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     birthday_progress_a1 = {
       common_config_value = "18;531230,81,1:400720,101,10|30;0,41,60:400720,101,20|50;0,41,100:400720,101,20|100;120003,101,7:400720,101,50"
     },
-    birthday_progress_asmr_Phase_b1 = {common_config_value = "3"},
+    birthday_progress_asmr_Phase_b1 = {common_config_value = "0"},
     birthday_progress_b1 = {
-      common_config_value = "30;0,41,200:300258,103,2:400720,101,50|75;1082,321,1:400720,101,50|150;141037,101,1:400720,101,50|225;0,41,300:300258,103,3:400720,101,50|300;30009,381,1|520;10190,311,1:10002,400,1|660;1007,402,1:300258,103,5"
+      common_config_value = "30;0,41,200:400720,101,50|75;1082,321,1:400720,101,50|150;119051,101,15:400720,101,50|225;0,41,300:400720,101,50|300;30009,381,1|520;10190,311,1:10002,400,1|660;1007,402,1"
     },
     birthday_progress_special_Phase_b1 = {common_config_value = "2,3,5,6,7"},
     birthday_prologue_id = {common_config_value = "838001"},
     birthday_rank_gift = {common_config_value = "520"},
     birthday_rank_reward_condition = {common_config_value = "10"},
     birthday_rank_show = {
-      common_config_value = "前50名|400725,101,1;前100名|51366,331,1"
+      common_config_value = "Top 100|51366,331,1"
     },
     birthday_sendgift_story = {common_config_value = "10026"},
     birthday_share_activity_id = {common_config_value = "17236"},
@@ -19415,7 +19481,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     birthday_special_story_id = {common_config_value = "838101"},
     birthday_special_story_time = {
-      common_config_value = "2025/1/13 00:00:00|2025/1/16 23:59:00"
+      common_config_value = "2026/1/13 00:00:00|2026/1/16 23:59:59"
     },
     birthday_theatre_rule = {common_config_value = "9202101"},
     birthday_token_item_id = {
@@ -19492,7 +19558,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "29:29:83:29"
     },
     quest_tab_name = {
-      common_config_value = "羁绊升星:羁绊进化:羁绊升华:解锁画面"
+      common_config_value = "Karma Star Up:Karma Evolution:Karma Ascension:Unlock Cover"
     }
   },
   [94000] = {
@@ -19535,19 +19601,19 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
   },
   [94001] = {
     activity_banner_overwrite = {
-      common_config_value = "425|2024/12/6 05:00:00|2024/12/22 23:59:59|overwrite_425"
+      common_config_value = "425|2025/12/23 05:00:00|2026/1/6 23:59:59|overwrite_425"
     },
     activity_launch_story = {
-      common_config_value = "810950|815600|817700|820561|830400"
+      common_config_value = "810950|815600|817700|820561|830400|839100"
     },
     activity_precedence = {
-      common_config_value = "548|2025/7/7 05:00:00|2025/7/20 23:59:59"
+      common_config_value = "563|2026/2/5 05:00:00|2026/2/16 23:59:59"
     },
     activity_preview_name = {
-      common_config_value = "94001:425:456:488:547"
+      common_config_value = "94001:425:456:488:547:563"
     },
     activity_pv_name = {
-      common_config_value = "Floating Shadow|The Kiss of Venus|Myriad Domain|Mr. Killer|Love for the Ages"
+      common_config_value = "Floating Shadow|The Kiss of Venus|Myriad Domain|Mr. Killer|Love for the Ages|Fall in Night"
     },
     call_all_price = {
       common_config_value = "119575,101,180"
@@ -19556,13 +19622,13 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "119575,101,60"
     },
     card_preview = {
-      common_config_value = "64050|61050|62040|63040|68010:71230|72220|73230|74220|78110:71270|72270|73260|74280|78130:71330|72310|73320|74310|78160:71400|72400|73400|74400|78210"
+      common_config_value = "64050|61050|62040|63040|68010:71230|72220|73230|74220|78110:71270|72270|73260|74280|78130:71330|72310|73320|74310|78160:71400|72400|73400|74400|78210:71440|72430|73430|74430|78230"
     },
     card_preview_group = {
-      common_config_value = "Floating Shadow:The Kiss of Venus:Myriad Domain:Mr. Killer:Love for the Ages"
+      common_config_value = "Floating Shadow:The Kiss of Venus:Myriad Domain:Mr. Killer:Love for the Ages:Fall in Night"
     },
     card_preview_time = {
-      common_config_value = "2023/3/16 05:00:00|2023/8/12 05:00:00|2024/1/25 5:00:00|2025/7/7 5:00:00"
+      common_config_value = "2023/3/16 05:00:00|2023/8/12 05:00:00|2024/1/25 5:00:00|2025/7/7 5:00:00|2026/2/16 5:00:00"
     },
     discount_call_all_price = {
       common_config_value = "119575,101,144"
@@ -19571,13 +19637,13 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "119575,101,48"
     },
     discount_end_time = {
-      common_config_value = "2023/03/19 23:59:59|2023/8/18 23:59:59|2023/11/26 23:59:59|2024/8/25 23:59:59|2024/12/1 23:59:59|2025/2/16 23:59:59"
+      common_config_value = "2023/03/19 23:59:59|2023/8/18 23:59:59|2023/11/26 23:59:59|2024/8/25 23:59:59|2024/12/1 23:59:59|2025/2/16 23:59:59|2025/11/30 23:59:59"
     },
     discount_goods_exchange_id = {
-      common_config_value = "9400482|9400483|9400484|9400485|9400486|9400487|9400488|9400489|9400490|9400491"
+      common_config_value = "9400502|9400503|9400504|9400505|9400506|9400507|9400508|9400509|9400510|9400511"
     },
     discount_start_time = {
-      common_config_value = "2023/3/16 05:00:00|2023/8/12 05:00:00|2023/11/23 05:00:00|2024/8/19 5:00:00|2024/11/25 5:00:00|2025/2/10 5:00:00"
+      common_config_value = "2023/3/16 05:00:00|2023/8/12 05:00:00|2023/11/23 05:00:00|2024/8/19 5:00:00|2024/11/25 5:00:00|2025/2/10 5:00:00|2025/11/26 5:00:00"
     },
     draw_ticket = {
       common_config_value = "119576,101,1"
@@ -19615,7 +19681,7 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "Outfits prepared for Gavin in Go See Him|Outfits prepared for Victor in Go See Him|Outfits prepared for Lucien in Go See Him|Outfits prepared for Kiro in Go See Him|Outfits prepared for Shaw in Go See Him"
     },
     suit_goods_exchange_id = {
-      common_config_value = "9400406|9400407|9400408|9400409|9400410|9400427|9400428|9400429|9400430|9400431|9400437|9400438|9400439|9400440|9400441|9400487|9400488|9400489|9400490|9400491|9400497|9400498|9400499|9400500|9400501"
+      common_config_value = "9400406|9400407|9400408|9400409|9400410|9400427|9400428|9400429|9400430|9400431|9400437|9400438|9400439|9400440|9400441|9400487|9400488|9400489|9400490|9400491|9400497|9400498|9400499|9400500|9400501|9400507|9400508|9400509|9400510|9400511|9400517|9400518|9400519|9400520|9400521"
     },
     week_max_times = {common_config_value = "99"},
     week_times_rewards = {
@@ -19889,10 +19955,10 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "400487,101,1"
     },
     vote_option_score = {
-      common_config_value = "2172702,320,1:2172703,320,1:2172704,320,1:2172705,320,1:2172706,320,1:2172707,320,1:2172708,320,1"
+      common_config_value = "2172702,320,1:2172703,320,1:2172704,320,1:2172705,320,1:2172706,320,1:2172707,320,1"
     },
     vote_original_id = {
-      common_config_value = "78002,15015,68015,78001,68007,30602,30601"
+      common_config_value = "78002,68015,78001,68007,30602,30601"
     },
     vote_relate_activity = {common_config_value = "21727"},
     vote_reward_items = {
@@ -20271,16 +20337,16 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     },
     common_quest_mail_switch = {common_config_value = "1"},
     common_quest_mail_title = {
-      common_config_value = "限时通关主线奖励补发"
+      common_config_value = "Limited-time Main Story Clearance Rewards"
     }
   },
   [103011] = {
     common_quest_mail_delay = {common_config_value = "604800"},
     common_quest_mail_desc = {
-      common_config_value = "未领取的限时通关主线奖励已补发，请及时领取。"
+      common_config_value = "You have unclaimed limited-time main story clearance rewards. Please check it out."
     },
     common_quest_mail_sender = {
-      common_config_value = "恋语市政府"
+      common_config_value = "City Council"
     },
     common_quest_mail_switch = {common_config_value = "1"},
     common_quest_mail_title = {
@@ -20475,14 +20541,14 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     activity_show_delay = {common_config_value = "86400"},
     reissue_mail_delay = {common_config_value = "604800"},
     reissue_mail_desc = {
-      common_config_value = "未领取的【贺岁迎新】活动奖励已补发，请及时领取。"
+      common_config_value = "Dear Producers, please find attached your unclaimed rewards from the [New Year Blessings] event."
     },
     reissue_mail_sender = {
-      common_config_value = "恋语市政府"
+      common_config_value = "City Council"
     },
     reissue_mail_switch = {common_config_value = "1"},
     reissue_mail_title = {
-      common_config_value = "奖励补发"
+      common_config_value = "Reward Reissue"
     }
   },
   [107999] = {
@@ -20530,14 +20596,28 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "Time-limited main story clearance reward reissue"
     }
   },
+  [108012] = {
+    common_quest_mail_delay = {common_config_value = "604800"},
+    common_quest_mail_desc = {
+      common_config_value = "Unclaimed time-limited main story clearance rewards have been reissued. Please collect them."
+    },
+    common_quest_mail_sender = {
+      common_config_value = "City Council"
+    },
+    common_quest_mail_switch = {common_config_value = "1"},
+    common_quest_mail_title = {
+      common_config_value = "Time-limited main story clearance reward reissue"
+    },
+    mainline_no_threshold_banner = {common_config_value = "551"}
+  },
   [110001] = {
     relate_activity = {
-      common_config_value = "68004:68006:68010:68013:68017:68020"
+      common_config_value = "68004:68006:68010:68013:68017:68020:68025"
     }
   },
   [110002] = {
     relate_activity = {
-      common_config_value = "68001:68002:68003:68009:68011:68016:68019"
+      common_config_value = "68001:68002:68003:68009:68011:68016:68019:68024:68027"
     },
     relate_item_pack_id = {common_config_value = "58031"}
   },
@@ -22170,24 +22250,24 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
     loversdiary_prologue_id = {common_config_value = "831101"},
     loversdiary_sign = {common_config_value = "7"},
     loversdiary_summary_data_bq = {
-      common_config_value = "很多年没有写过日记了，这种方式更是第一次。回看的时候，和当天又是不一样的感觉。和我一起做更多没做过的事吧，多年后再一起回想，我也想听到你那一刻的心情。"
+      common_config_value = "It's been years since I last kept a diary. Doing it this way, like this, feels entirely new. But now, as I look back... every moment seems to glow with a different light. Let's keep trying things we've never done before. And when we return to these pages one day, I want to hear it from you—if your heart stirred the same way mine just did."
     },
     loversdiary_summary_data_lx = {
-      common_config_value = "不夸夸我？虽然去年偶尔有缺卡，但今年答应你这100天的日记我可是一天没落。想好明年怎么折腾了没？先说好，报酬有诚意点，要不我可没那么容易配合。"
+      common_config_value = "What, no compliments? Even though I missed a few check-ins last year, this time I gave you my word, and I kept it. A hundred days, not a single one missed. Have you already decided how you'll drive me crazy next year? Just make sure the reward is sincere enough, or I might not be so easy to convince."
     },
     loversdiary_summary_data_lzy = {
-      common_config_value = "工作后能写日记的情况并不多，托某个笨蛋的福也体验了一次，已经能想象到某人看到这里时的表情了，明年还有什么稀奇古怪的想法，我不介意陪你一起尝试。"
+      common_config_value = "I haven't had many chances to keep a diary since I started working. But thanks to a certain dummy, I got to experience it once again. I can already picture the look on your face when you read this. Whatever wild idea you dream up next year, I won't mind trying it, so long as I get to try it with you."
     },
     loversdiary_summary_data_user = {
-      common_config_value = "一百天的日记结束了，有很多想对他说的话……"
+      common_config_value = "A hundred days just flew by. There is still so much I wanted to say to him..."
     },
     loversdiary_summary_data_xm = {
-      common_config_value = "分享并不拘泥于形式，但不论是这本日记、曾经的打卡，还是我们一同做过记录的每件事，都让我感受到，我们正被一件件的日常所连接，拥有着以幸福为主题的每一天。"
+      common_config_value = "Sharing doesn't need to follow a script. Whether it's this little diary, our past check-ins, or the things we've recorded together along the way—they've all quietly threaded our days together. And somehow, each one ends up shaped around happiness... shaped around us."
     },
     loversdiary_summary_data_zql = {
-      common_config_value = "有你的专“薯”日记陪伴，每天都被快乐拉满♪~每件生活中的小事，留在我们的一笔一划下，都闪闪发光~我想记录你所有开心的笑容，让美好的事都围绕在我们身边。"
+      common_config_value = "With Miss Chips keeping me company on this journaling run, every day feels like it's filled with a rosy warmth. Even the tiniest fragments of our lives just seem to glow on every page. I want to capture your every smile, every flicker of joy, so that each and every single day is filled with the delight of your loving company."
     },
-    loversdiary_summary_limit = {common_config_value = "50"},
+    loversdiary_summary_limit = {common_config_value = "140"},
     relate_activity = {common_config_value = "17198"}
   },
   [136001] = {
@@ -22792,5 +22872,91 @@ We walk into the spring together, our fingers locked, our hearts connected. Wish
       common_config_value = "400751,101,3|400751,101,3|400751,101,3|400751,101,3|400751,101,3|400751,101,3|400751,101,3|400751,101,4"
     },
     tea_type_standard = {common_config_value = "0.7"}
+  },
+  [144001] = {
+    action_comminicate = {
+      common_config_value = "Activity_144001_comminicate.mp3"
+    },
+    action_destination = {
+      common_config_value = "Activity_144001_destination.mp3"
+    },
+    action_prison_bg = {
+      common_config_value = "Activity_144001_prison.mp3"
+    },
+    action_success = {
+      common_config_value = "Activity_144001_success.mp3"
+    },
+    action_type = {
+      common_config_value = "Activity_144001_type.mp3"
+    },
+    action_window = {
+      common_config_value = "Activity_144001_window.mp3"
+    },
+    activity_show_delay = {common_config_value = "172800"},
+    bubble_story_malename_1 = {common_config_value = "SN: 0888"},
+    bubble_story_malename_2 = {common_config_value = "SN: 0525"},
+    bubble_story_malename_3 = {common_config_value = "SN: 9999"},
+    bubble_story_malename_4 = {common_config_value = "SN: 3918"},
+    communicationSpeed = {common_config_value = "0.004"},
+    condition_exchange_id = {common_config_value = "14400101"},
+    home_authentication = {
+      common_config_value = "Activity_144001_authentication.mp3"
+    },
+    home_bgm = {
+      common_config_value = "1036_2025Prison_Pure"
+    },
+    home_checkin = {
+      common_config_value = "Activity_144001_checkin.mp3"
+    },
+    mainsurface_screen_scroll_1 = {
+      common_config_value = "[c][e7d172][0416][-][/c]'s current multidimensional score: |33"
+    },
+    mainsurface_screen_scroll_10 = {
+      common_config_value = "[c][e7d172][3391][-][/c]'s current multidimensional score: |29"
+    },
+    mainsurface_screen_scroll_2 = {
+      common_config_value = "[c][e7d172][5541][-][/c]'s current multidimensional score: |04"
+    },
+    mainsurface_screen_scroll_3 = {
+      common_config_value = "[c][e7d172][9001][-][/c]'s current multidimensional score: |11"
+    },
+    mainsurface_screen_scroll_4 = {
+      common_config_value = "[c][e7d172][2249][-][/c]'s current multidimensional score: |17"
+    },
+    mainsurface_screen_scroll_5 = {
+      common_config_value = "[c][e7d172][6113][-][/c]'s current multidimensional score: |30"
+    },
+    mainsurface_screen_scroll_6 = {
+      common_config_value = "[c][e7d172][4206][-][/c]'s current multidimensional score: |09"
+    },
+    mainsurface_screen_scroll_7 = {
+      common_config_value = "[c][e7d172][7471][-][/c]'s current multidimensional score: |11"
+    },
+    mainsurface_screen_scroll_8 = {
+      common_config_value = "[c][e7d172][9563][-][/c]'s current multidimensional score: |21"
+    },
+    mainsurface_screen_scroll_9 = {
+      common_config_value = "[c][e7d172][0069][-][/c]'s current multidimensional score: |25"
+    },
+    partolRotationSpeed = {common_config_value = "4"},
+    prison_action_card_cost = {common_config_value = "0,2,20"},
+    prison_action_card_id = {
+      common_config_value = "400787,101,1:400788,101,1:400789,101,1:400790,101,1"
+    },
+    prison_action_card_maximum = {common_config_value = "7"},
+    prison_action_card_purchasable_time = {common_config_value = "8"},
+    prison_area_id = {
+      common_config_value = "1|Detention Area;2|Injection Room;3|Infirmary;4|Cafeteria;5|Visitation Room;6|Monitoring Hall;7|Exercise Yard;8|Administration Wing;9|Work/Study Area"
+    },
+    prologue_story_id = {common_config_value = "842800"},
+    proximitySpeed = {common_config_value = "8"},
+    quick_exchange_id = {common_config_value = "14400109"},
+    related_card_1 = {common_config_value = "51980"},
+    related_card_2 = {common_config_value = "52960"},
+    related_card_3 = {common_config_value = "53980"},
+    related_card_4 = {common_config_value = "54970"},
+    rotationSpeed = {common_config_value = "4"},
+    shop_redpoint = {common_config_value = "400786,60"},
+    single_relate_activity = {common_config_value = "17260"}
   }
 }

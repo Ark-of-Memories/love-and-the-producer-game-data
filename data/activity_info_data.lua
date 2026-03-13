@@ -21,11 +21,11 @@ data = {
     activity_desc = "Wake the Crystals for Limited SSR Karmas!\\nEXP & Training items are also available! "
   },
   [103] = {
-    activity_start_time = "2025/7/7 5:00:00",
-    activity_end_time = "2025/7/20 23:59:59",
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
     activity_title = "1st Top Up Grants Double Rewards banner",
     activity_recommend = 1,
-    activity_weight = 107,
+    activity_weight = 105,
     activity_repeat_cnt = 1,
     activity_resource = "evol://recharge"
   },
@@ -318,14 +318,6 @@ data = {
     activity_repeat_cnt = 1,
     activity_resource = "Sys:HomeMainPanel:FutureHouse:Enter Mini House？",
     activity_unlock_price = "10518,125,1"
-  },
-  [160] = {
-    activity_start_time = "2020/1/16 5:00",
-    activity_end_time = "2020/1/30 23:59:59",
-    activity_recommend = 1,
-    activity_weight = 14,
-    activity_repeat_cnt = 1,
-    activity_resource = "Sys:BoardMainPanel:Board:是否跳转至[去见他]？"
   },
   [162] = {
     activity_start_time = "2020/11/13 5:00",
@@ -861,7 +853,7 @@ data = {
     activity_repeat_cnt = 1
   },
   [268] = {
-    activity_start_time = "2021/9/29 5:00",
+    activity_start_time = "2021/9/29 5:00:00",
     activity_end_time = "2021/10/8 23:59:59",
     activity_recommend = 1,
     activity_weight = 1,
@@ -1541,13 +1533,13 @@ data = {
     activity_desc = "814100"
   },
   [401] = {
-    activity_start_time = "2025/7/7 5:00:00",
-    activity_end_time = "2025/7/20 23:59:59",
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
     activity_title = "SP/UR卡池活动弹窗",
     activity_recommend = 3,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
-    activity_basic_rule = "61090,1:62090,1:63090,1:64090,1"
+    activity_basic_rule = "91030,1:92030,1:93030,1:94030,1"
   },
   [404] = {
     activity_start_time = "2023/7/1 05:00:00",
@@ -2137,6 +2129,15 @@ data = {
     activity_resource = "#73,3149",
     activity_open_condition = "10212,125,1"
   },
+  [505] = {
+    activity_start_time = "2025/11/26  5:00:00",
+    activity_end_time = "2025/11/30  23:59:59",
+    activity_title = "口红SP折扣活动",
+    activity_recommend = 1,
+    activity_weight = 6,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://spwish94001"
+  },
   [507] = {
     activity_start_time = "2024/11/19 5:00:00",
     activity_end_time = "2024/12/1 23:59:59",
@@ -2205,6 +2206,17 @@ data = {
     activity_repeat_cnt = 1,
     activity_resource = "Sys:HomeMainPanel:FutureHouse:Enter Mini House？",
     activity_open_condition = "10518,125,1"
+  },
+  [521] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "心灵试炼双倍",
+    activity_recommend = 1,
+    activity_weight = 109,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://talenttreebattle",
+    activity_basic_rule = "10503",
+    activity_open_condition = "10503,125,1"
   },
   [522] = {
     activity_start_time = "2025/2/7 5:00:00",
@@ -2349,6 +2361,34 @@ data = {
     activity_repeat_cnt = 1,
     activity_desc = "830400"
   },
+  [549] = {
+    activity_start_time = "2025/11/1 5:00:00",
+    activity_end_time = "2025/11/7 23:59:59",
+    activity_title = "25年6月-25年9月欧美签到卡自选礼盒",
+    activity_recommend = 1,
+    activity_weight = 104,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://checkinshop"
+  },
+  [551] = {
+    activity_start_time = "2025/11/26  05:00:00",
+    activity_end_time = "2025/12/6  23:59:59",
+    activity_title = "限时无门槛banner",
+    activity_recommend = 1,
+    activity_weight = 2,
+    activity_repeat_cnt = 1,
+    activity_resource = "#73,3161",
+    activity_open_condition = "10212,125,1"
+  },
+  [552] = {
+    activity_start_time = "2025/11/26  05:00:00",
+    activity_end_time = "2025/12/6  23:59:59",
+    activity_title = "24年9月主线pv",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "832300"
+  },
   [553] = {
     activity_start_time = "2025/6/25 5:00:00",
     activity_end_time = "2025/7/4 23:59:59",
@@ -2358,6 +2398,139 @@ data = {
     activity_repeat_cnt = 1,
     activity_resource = "evol://dailytopup",
     activity_open_condition = "10212,125,1"
+  },
+  [554] = {
+    activity_start_time = "2025/11/26  05:00:00",
+    activity_end_time = "2025/12/6  23:59:59",
+    activity_title = "主界面BGM替换（2409026主线）",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "common/Audios/music/1026_Loading#加载中",
+    activity_open_condition = "10212,125,1"
+  },
+  [556] = {
+    activity_start_time = "2026/3/10 5:00:00",
+    activity_end_time = "2026/3/26 23:59:59",
+    activity_title = "主界面BGM替换（241206特殊羁绊）",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "common/Audios/music/1028_2024ancientWedding_ACCOM",
+    activity_open_condition = "10110,125,1"
+  },
+  [559] = {
+    activity_start_time = "2026/3/10 5:00:00",
+    activity_end_time = "2026/3/26 23:59:59",
+    activity_title = "心灵试炼双倍",
+    activity_recommend = 1,
+    activity_weight = 3,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://talenttreebattle",
+    activity_basic_rule = "10503",
+    activity_open_condition = "10503,125,1"
+  },
+  [560] = {
+    activity_start_time = "2026/3/1 5:00:00",
+    activity_end_time = "2026/3/7 23:59:59",
+    activity_title = "26年1月-26年3月签到商城上架",
+    activity_recommend = 1,
+    activity_weight = 13,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://checkinshop"
+  },
+  [561] = {
+    activity_start_time = "2025/10/7 5:00:00",
+    activity_end_time = "2025/10/16 23:59:59",
+    activity_title = "241224累充复刻388 - 周棋洛 - banner",
+    activity_recommend = 1,
+    activity_weight = 104,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://dailytopup",
+    activity_open_condition = "10212,125,1"
+  },
+  [562] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "香水动态ER",
+    activity_recommend = 1,
+    activity_weight = 104,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://spwish94001"
+  },
+  [563] = {
+    activity_start_time = "2026/2/5 5:00:00",
+    activity_end_time = "2038/1/1 0:00:00",
+    activity_title = "24年双旦5er上架口红商店",
+    activity_recommend = 2,
+    activity_weight = 101,
+    activity_repeat_cnt = 1
+  },
+  [564] = {
+    activity_start_time = "2026/2/5 5:00:00",
+    activity_end_time = "2026/2/16 23:59:59",
+    activity_title = "24年双旦5er口红商店限时折扣",
+    activity_recommend = 1,
+    activity_weight = 5,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://spwish94001"
+  },
+  [565] = {
+    activity_start_time = "2026/2/5 5:00:00",
+    activity_end_time = "2026/2/16 23:59:59",
+    activity_title = "24年双旦5er新PV",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "839100"
+  },
+  [566] = {
+    activity_start_time = "2026/2/5 5:00:00",
+    activity_end_time = "2026/2/16 23:59:59",
+    activity_title = "主界面BGM替换（2024双旦5ER）",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "common/Audios/music/1032_FallinNight#Fall in Night",
+    activity_open_condition = "10212,125,1"
+  },
+  [568] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "25春节UR卡池-PV",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "839400"
+  },
+  [569] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "25春节UR卡池-往期服装兑换",
+    activity_recommend = 1,
+    activity_weight = 103,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_ExchangeStorePanel",
+    activity_desc = "Clothshop:11"
+  },
+  [570] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "25春节UR卡池-主界面BGM替换",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "common/Audios/music/1034_2025UR#不归者的燎原",
+    activity_open_condition = "10212,125,1"
+  },
+  [573] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "25春节福袋礼包",
+    activity_recommend = 1,
+    activity_weight = 107,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://OpenMarket?index=0"
   },
   [701] = {
     activity_start_time = "2020/3/5 5:00",
@@ -2580,6 +2753,26 @@ data = {
     activity_resource = "evol://dailytopup",
     activity_open_condition = "10212,125,1"
   },
+  [831] = {
+    activity_start_time = "2025/8/21 5:00:00",
+    activity_end_time = "2025/8/30  23:59:59",
+    activity_title = "25年8月主线卡活动（记忆回廊）-限时掉落",
+    activity_recommend = 1,
+    activity_weight = 101,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://AnniversaryMainlineCard_68028",
+    activity_open_condition = "10212,125,1"
+  },
+  [832] = {
+    activity_start_time = "2025/8/21 5:00:00",
+    activity_end_time = "2025/8/30 23:59:59",
+    activity_title = "每日充值ER（240603）",
+    activity_recommend = 1,
+    activity_weight = 103,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://dailytopup",
+    activity_open_condition = "10212,125,1"
+  },
   [834] = {
     activity_start_time = "2025/4/24 5:00:00",
     activity_end_time = "2025/5/5 23:59:59",
@@ -2607,6 +2800,48 @@ data = {
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
+  [837] = {
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
+    activity_title = "每日充值（第4期4SR）",
+    activity_recommend = 1,
+    activity_weight = 107,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://dailytopup",
+    activity_open_condition = "10212,125,1"
+  },
+  [839] = {
+    activity_start_time = "2026/1/28 5:00:00",
+    activity_end_time = "2026/2/3 23:59:59",
+    activity_title = "241009累充复刻（第4期4SR）",
+    activity_recommend = 1,
+    banner_name = "839_9529",
+    activity_weight = 4,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://dailytopup",
+    activity_open_condition = "10212,125,1"
+  },
+  [840] = {
+    activity_start_time = "2025/11/26  5:00:00",
+    activity_end_time = "2025/12/6  23:59:59",
+    activity_title = "每日充值ER（240926）",
+    activity_recommend = 1,
+    activity_weight = 5,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://dailytopup",
+    activity_open_condition = "10212,125,1"
+  },
+  [843] = {
+    activity_start_time = "2025/11/26  5:00:00",
+    activity_end_time = "2025/12/2  23:59:59",
+    activity_title = "商城双十一活动",
+    activity_recommend = 1,
+    activity_weight = 7,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://OpenMarket?index=0",
+    activity_desc = "btn_evolstore_blackfriday",
+    activity_open_condition = "10212,125,1"
+  },
   [890] = {
     activity_start_time = "2022/2/14 5:00",
     activity_end_time = "2022/2/14 23:59:59",
@@ -2633,6 +2868,45 @@ data = {
     activity_repeat_cnt = 1,
     activity_open_condition = "10212,125,1"
   },
+  [893] = {
+    activity_start_time = "2026/2/5 5:00:00",
+    activity_end_time = "2026/2/11 23:59:59",
+    activity_title = "22年卡池碎片4SSR复刻",
+    activity_recommend = 1,
+    activity_weight = 7,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://lotterydraw?type=ExtraPieces"
+  },
+  [894] = {
+    activity_start_time = "2025/8/21  5:00:00",
+    activity_end_time = "2025/8/30  23:59:59",
+    activity_title = "240603限时无门槛banner",
+    activity_recommend = 1,
+    activity_weight = 102,
+    activity_repeat_cnt = 1,
+    activity_resource = "#73,3159",
+    activity_open_condition = "10212,125,1"
+  },
+  [895] = {
+    activity_start_time = "2025/8/21  5:00:00",
+    activity_end_time = "2025/8/30  23:59:59",
+    activity_title = "主界面BGM替换（240603主线）",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "common/Audios/music/1021_CloseYourEyes#LightsOut",
+    activity_open_condition = "10212,125,1"
+  },
+  [896] = {
+    activity_start_time = "2025/8/21  5:00:00",
+    activity_end_time = "2025/8/30  23:59:59",
+    activity_title = "240603主线pv",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "830300",
+    activity_open_condition = "10212,125,1"
+  },
   [897] = {
     activity_start_time = "2025/8/1 5:00:00",
     activity_end_time = "2025/8/10 23:59:59",
@@ -2643,6 +2917,16 @@ data = {
     activity_resource = "Sys:HomeMainPanel:FutureHouse:Enter Mini House？",
     activity_open_condition = "10518,125,1"
   },
+  [898] = {
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
+    activity_title = "单人卡池A复刻banner",
+    activity_recommend = 1,
+    activity_weight = 106,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://lotterydraw",
+    activity_open_condition = "10212,125,1"
+  },
   [902] = {
     activity_start_time = "2022/06/17 05:00:00",
     activity_end_time = "2037/12/31 4:59",
@@ -2650,6 +2934,54 @@ data = {
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
+  },
+  [903] = {
+    activity_start_time = "2025/10/28  05:00:00",
+    activity_end_time = "2025/11/7  23:59:59",
+    activity_title = "24年万圣卡池pv",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "833100"
+  },
+  [904] = {
+    activity_start_time = "2025/10/28  05:00:00",
+    activity_end_time = "2025/11/7  23:59:59",
+    activity_title = "主界面BGM替换（24万圣）",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "common/Audios/music/1027_2024Halloween#午夜邀请函",
+    activity_open_condition = "10212,125,1"
+  },
+  [908] = {
+    activity_start_time = "2025/12/10  5:00:00",
+    activity_end_time = "2025/12/19  23:59:59",
+    activity_title = "24年冬季小屋礼物限时上新banner",
+    activity_recommend = 1,
+    activity_weight = 9,
+    activity_repeat_cnt = 1,
+    activity_resource = "Sys:HomeMainPanel:FutureHouse:Go to the Mini House now?",
+    activity_open_condition = "10518,125,1"
+  },
+  [915] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "25年51卡池PV",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "842700"
+  },
+  [916] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "25年51卡池主界面BGM替换",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "common/Audios/music/1036_2025Prison#Prepare for judgment. Prepare for love.",
+    activity_open_condition = "10212,125,1"
   },
   [977] = {
     activity_start_time = "2022/9/1 5:00:00",
@@ -3030,32 +3362,32 @@ data = {
     activity_desc = "The seed we planted broke free from the earth, and slowly began its journey upwards.\\nEnjoy the fruition of your hard work and each step of the way that led to it with Victor."
   },
   [4101] = {
-    activity_start_time = "2020/8/14 5:00",
-    activity_end_time = "2020/8/23 23:59:59",
+    activity_start_time = "2026/3/11 5:00:00",
+    activity_end_time = "2026/3/17 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_desc = "Event Info#Event Info#Rank refreshes every 5 minutes"
   },
   [4102] = {
-    activity_start_time = "2020/8/14 5:00",
-    activity_end_time = "2020/8/23 23:59:59",
+    activity_start_time = "2026/3/11 5:00:00",
+    activity_end_time = "2026/3/17 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_desc = "Event Info#Event Info#Rank refreshes every 5 minutes"
   },
   [4103] = {
-    activity_start_time = "2020/8/14 5:00",
-    activity_end_time = "2020/8/23 23:59:59",
+    activity_start_time = "2026/3/11 5:00:00",
+    activity_end_time = "2026/3/17 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_desc = "Event Info#Event Info#Rank refreshes every 5 minutes"
   },
   [4104] = {
-    activity_start_time = "2020/8/14 5:00",
-    activity_end_time = "2020/8/23 23:59:59",
+    activity_start_time = "2026/3/11 5:00:00",
+    activity_end_time = "2026/3/17 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
@@ -3120,35 +3452,35 @@ data = {
   },
   [4201] = {
     activity_start_time = "2021/02/04 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
   [4202] = {
     activity_start_time = "2021/02/04 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
   [4203] = {
     activity_start_time = "2021/02/04 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
   [4204] = {
     activity_start_time = "2021/02/04 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
   [4205] = {
     activity_start_time = "2021/02/04 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
@@ -3218,35 +3550,35 @@ data = {
   },
   [4301] = {
     activity_start_time = "2021/02/04 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
   [4302] = {
     activity_start_time = "2021/02/04 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
   [4303] = {
     activity_start_time = "2021/02/04 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
   [4304] = {
     activity_start_time = "2021/02/04 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
   [4305] = {
     activity_start_time = "2021/02/04 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
@@ -4666,7 +4998,7 @@ data = {
   },
   [5099] = {
     activity_start_time = "2023/1/9 05:00:00",
-    activity_end_time = "2025/3/18 4:59:59",
+    activity_end_time = "2026/3/10 4:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = -1,
@@ -4674,8 +5006,8 @@ data = {
     activity_unlock_need = "0,0,7"
   },
   [5100] = {
-    activity_start_time = "2025/3/18 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_start_time = "2026/3/10 5:00:00",
+    activity_end_time = "2026/3/26 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = -1,
@@ -4683,7 +5015,7 @@ data = {
     activity_unlock_need = "0,0,1:0,0,2:0,0,3:0,0,4:0,0,5:0,0,6:0,0,7"
   },
   [5101] = {
-    activity_start_time = "2025/4/1 00:00:00",
+    activity_start_time = "2026/3/27 0:00:00",
     activity_end_time = "2037/1/1 4:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -5428,6 +5760,182 @@ data = {
     activity_basic_rule = "201,126,200:218,126,200:220,126,200",
     activity_desc = "Double Drops in Elite Chapters[-][/c]#2025/8/8 05:00-2025/8/10 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
   },
+  [5169] = {
+    activity_start_time = "2025/8/22 5:00:00",
+    activity_end_time = "2025/8/24 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "206,126,200:210,126,200:221,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2025/8/22 05:00-2025/8/24 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5170] = {
+    activity_start_time = "2025/9/5 5:00:00",
+    activity_end_time = "2025/9/7 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "207,126,200:211,126,200:219,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2025/9/5 05:00-2025/9/7 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5171] = {
+    activity_start_time = "2025/9/19 5:00:00",
+    activity_end_time = "2025/9/21 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "205,126,200:213,126,200:220,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2025/9/19 05:00-2025/9/21 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5172] = {
+    activity_start_time = "2025/10/3 5:00:00",
+    activity_end_time = "2025/10/5 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "208,126,200:217,126,200:219,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2025/10/3 05:00-2025/10/5 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5173] = {
+    activity_start_time = "2025/10/17 5:00:00",
+    activity_end_time = "2025/10/19 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "203,126,200:212,126,200:220,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2025/10/17 05:00-2025/10/19 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5174] = {
+    activity_start_time = "2025/10/31 5:00:00",
+    activity_end_time = "2025/11/2 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "206,126,200:210,126,200:221,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2025/10/31 05:00-2025/11/2 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5175] = {
+    activity_start_time = "2025/11/14 5:00:00",
+    activity_end_time = "2025/11/16 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "204,126,200:214,126,200:219,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2025/11/14 05:00-2025/11/16 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5176] = {
+    activity_start_time = "2025/11/28 5:00:00",
+    activity_end_time = "2025/11/30 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "201,126,200:216,126,200:220,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2025/11/28 05:00-2025/11/30 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5177] = {
+    activity_start_time = "2025/12/12 5: 00:00",
+    activity_end_time = "2025/12/14 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "209,126,200:211,126,200:221,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2025/12/12 05:00-2025/12/14 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5178] = {
+    activity_start_time = "2025/12/26 5: 00:00",
+    activity_end_time = "2025/12/28 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "207,126,200:213,126,200:219,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2025/12/26 05:00-2025/12/28 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5179] = {
+    activity_start_time = "2026/1/9 5:00:00",
+    activity_end_time = "2026/1/11 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "205,126,200:215,126,200:220,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2026/1/9 05:00-2026/1/11 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5180] = {
+    activity_start_time = "2026/1/23 5:00:00",
+    activity_end_time = "2026/1/25 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "202,126,200:217,126,200:221,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2026/1/23 05:00-2026/1/25 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5181] = {
+    activity_start_time = "2026/2/6 5:00:00",
+    activity_end_time = "2026/2/8 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "208,126,200:212,126,200:219,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2026/2/6 05:00-2026/2/8 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5182] = {
+    activity_start_time = "2026/2/20 5:00:00",
+    activity_end_time = "2026/2/22 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "203,126,200:210,126,200:220,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2026/2/20 05:00-2026/2/22 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5183] = {
+    activity_start_time = "2026/3/6 5:00:00",
+    activity_end_time = "2026/3/8 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "206,126,200:214,126,200:221,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2026/3/6 05:00-2026/3/8 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
+  [5184] = {
+    activity_start_time = "2026/3/20 5:00:00",
+    activity_end_time = "2026/3/22 23:59:59",
+    activity_title = "Double Drops",
+    activity_recommend = 0,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "DoubleDropPanel",
+    activity_basic_rule = "204,126,200:216,126,200:219,126,200",
+    activity_desc = "Double Drops in Elite Chapters[-][/c]#2026/3/20 05:00-2026/3/22 23:59, clear Elite Missions in the following Chapters and collect double Gold & Evolution items!"
+  },
   [6001] = {
     activity_start_time = "2018/5/16 5:00",
     activity_end_time = "2038/2/1 0:00:00",
@@ -5449,7 +5957,7 @@ data = {
   },
   [8004] = {
     activity_start_time = "2024/2/19 5:00:00",
-    activity_end_time = "2024/2/25 23:59:59",
+    activity_end_time = "2026/2/11 23:59:59",
     activity_title = "碎片卡池登录活动-白起",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -5458,7 +5966,7 @@ data = {
   },
   [8005] = {
     activity_start_time = "2024/3/27 5:00:00",
-    activity_end_time = "2024/4/2 23:59:59",
+    activity_end_time = "2026/2/11 23:59:59",
     activity_title = "碎片卡池登录活动-许墨",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -5467,7 +5975,7 @@ data = {
   },
   [8006] = {
     activity_start_time = "2024/5/7 5:00:00",
-    activity_end_time = "2024/5/13 23:59:59",
+    activity_end_time = "2026/2/11 23:59:59",
     activity_title = "碎片卡池登录活动-李泽言",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -5476,7 +5984,7 @@ data = {
   },
   [8007] = {
     activity_start_time = "2024/1/16 5:00:00",
-    activity_end_time = "2024/1/22 23:59:59",
+    activity_end_time = "2026/2/11 23:59:59",
     activity_title = "碎片卡池登录活动-周棋洛",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -6097,6 +6605,116 @@ data = {
     activity_resource = "A_DesenoRechargePanel",
     activity_desc = "Cumulative top-up reaches a given tier during the event to claim limited Karmas and Avatar Frames! #Event period: 7/7 5:00 - 7/20 23:59 #All top-ups made in the game aside from [Fragrant Sunshine] are counted towards this event."
   },
+  [9069] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "Ltd-Time Cumulative Top-Up Gifts",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_DesenoRechargePanel",
+    activity_desc = "Cumulative top-up reaches a given tier during the event to claim limited Karmas and Avatar Frames! #Event period: 9/25 5:00 - 10/5 23:59 #All top-ups made in the game aside from [Fragrant Sunshine] are counted in this event."
+  },
+  [9070] = {
+    activity_start_time = "2025/10/28 5:00:00",
+    activity_end_time = "2025/11/7 23:59:59",
+    activity_title = "限时累充送礼",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_DesenoRechargePanel",
+    activity_desc = "Cumulative top-up reaches a given tier during the event to claim limited Karmas, Avatar Frames and Live2D profiles! #Event period: 10/28 5:00 - 11/7 23:59 #All top-ups made in the game aside from [Fragrant Sunshine] are counted in this event."
+  },
+  [9072] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "Ltd-Time Cumulative Top-Up Gifts",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_DesenoRechargePanel",
+    activity_desc = "During the event, accumulate top-ups to reach the required tiers and claim limited Karmas, Avatar Frame, and Live2D Profile! #12/23 05:00 - 01/06 23:59 #All in-game top-ups will count toward this event, except for [Fragrant Sunshine]."
+  },
+  [9073] = {
+    activity_start_time = "2026/1/16 5:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "限时累充送礼-李",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_DesenoRechargePanel",
+    activity_desc = "Cumulative top-up reaches a given tier during the event to claim limited Karmas, Avatar Frames and Live2D profiles! #Event period: 1/16 5:00 - 1/26 23:59 #All top-ups made in the game aside from [Fragrant Sunshine] are counted in this event."
+  },
+  [9074] = {
+    activity_start_time = "2026/1/16 5:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "限时累充送礼-白",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_DesenoRechargePanel",
+    activity_desc = "Cumulative top-up reaches a given tier during the event to claim limited Karmas, Avatar Frames and Live2D profiles! #Event period: 1/16 5:00 - 1/26 23:59 #All top-ups made in the game aside from [Fragrant Sunshine] are counted in this event."
+  },
+  [9075] = {
+    activity_start_time = "2026/1/16 5:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "限时累充送礼-许",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_DesenoRechargePanel",
+    activity_desc = "Cumulative top-up reaches a given tier during the event to claim limited Karmas, Avatar Frames and Live2D profiles! #Event period: 1/16 5:00 - 1/26 23:59 #All top-ups made in the game aside from [Fragrant Sunshine] are counted in this event."
+  },
+  [9076] = {
+    activity_start_time = "2026/1/16 5:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "限时累充送礼-周",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_DesenoRechargePanel",
+    activity_desc = "Cumulative top-up reaches a given tier during the event to claim limited Karmas, Avatar Frames and Live2D profiles! #Event period: 1/16 5:00 - 1/26 23:59 #All top-ups made in the game aside from [Fragrant Sunshine] are counted in this event."
+  },
+  [9077] = {
+    activity_start_time = "2026/1/16 5:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "限时累充送礼-李",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_DesenoRechargePanel",
+    activity_desc = "Cumulative top-up reaches a given tier during the event to claim limited Karmas, Avatar Frames and Live2D profiles! #Event period: 1/16 5:00 - 1/26 23:59 #All top-ups made in the game aside from [Fragrant Sunshine] are counted in this event."
+  },
+  [9078] = {
+    activity_start_time = "2026/1/16 5:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "限时累充送礼-白",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_DesenoRechargePanel",
+    activity_desc = "Cumulative top-up reaches a given tier during the event to claim limited Karmas, Avatar Frames and Live2D profiles! #Event period: 1/16 5:00 - 1/26 23:59 #All top-ups made in the game aside from [Fragrant Sunshine] are counted in this event."
+  },
+  [9079] = {
+    activity_start_time = "2026/1/16 5:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "限时累充送礼-许",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_DesenoRechargePanel",
+    activity_desc = "Cumulative top-up reaches a given tier during the event to claim limited Karmas, Avatar Frames and Live2D profiles! #Event period: 1/16 5:00 - 1/26 23:59 #All top-ups made in the game aside from [Fragrant Sunshine] are counted in this event."
+  },
+  [9080] = {
+    activity_start_time = "2026/1/16 5:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "限时累充送礼-周",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_resource = "A_DesenoRechargePanel",
+    activity_desc = "Cumulative top-up reaches a given tier during the event to claim limited Karmas, Avatar Frames and Live2D profiles! #Event period: 1/16 5:00 - 1/26 23:59 #All top-ups made in the game aside from [Fragrant Sunshine] are counted in this event."
+  },
   [9501] = {
     activity_start_time = "2022/8/18 5:00:00",
     activity_end_time = "2022/8/27 23:59:59",
@@ -6277,6 +6895,24 @@ data = {
     activity_repeat_cnt = 1,
     activity_desc = "Placeholder #Event period: 4/13 05:00 - 4/22 23:59#Claim Loyalty Cards and other rewards when you reach specific daily top-up tiers.\\nReaching the final tier of the day will unlock tiers for the next day. Any excess amounts will also be carried over.\\nHead over to the Pop-up Shop to redeem cumulative top-up exclusive SSR Karma! #All in-game top-ups excluding [Fragrant Sunshine] will be counted toward this event. Top-up progress resets every day at 5 AM."
   },
+  [9525] = {
+    activity_start_time = "2025/8/21 5:00:00",
+    activity_end_time = "2025/8/30 23:59:59",
+    activity_title = "每日充值ER（240603）",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "Placeholder #Event period: 8/21 5:00 - 8/30 23:59 #Claim Pop-up Admission Tickets and other rewards when you reach daily top-up tiers.\\nReaching the final tier of the day will unlock tiers for the next day. Any excess amounts will also be carried over.\\nHead over to the Pop-up Shop to redeem limited ER Karmas and Memory Starlocks! #All in-game top-ups excluding [Fragrant Sunshine] will be counted toward this event. Top-up progress resets every day at 5 AM."
+  },
+  [9526] = {
+    activity_start_time = "2025/9/9 05:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
+    activity_title = "每日充值（第4期4SR）",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "Placeholder #Event time: 9/9 5:00 -9/15 23:59 #Claim Loyalty Cards and other rewards when you reach specific daily top-up tiers.\\nReaching the final tier of the day will unlock tiers for the next day. Any excess amounts will also be carried over.\\nHead over to the Pop-up Shop to redeem SR Karmas from past cumulative top-up events! #All in-game top-ups excluding [Fragrant Sunshine] will be counted toward this event. Top-up progress resets every day at 5 AM."
+  },
   [9527] = {
     activity_start_time = "2025/6/25 5:00:00",
     activity_end_time = "2025/7/4 23:59:59",
@@ -6285,6 +6921,35 @@ data = {
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_desc = "Placeholder #Event period: 6/25 05:00 - 7/4 23:59#Claim Loyalty Cards and other rewards when you reach specific daily top-up tiers.\\nReaching the final tier of the day will unlock tiers for the next day. Any excess amounts will also be carried over.\\nHead over to the Pop-up Shop to redeem cumulative top-up exclusive SSR Karma! #All in-game top-ups excluding [Fragrant Sunshine] will be counted toward this event. Top-up progress resets every day at 5 AM."
+  },
+  [9528] = {
+    activity_start_time = "2025/11/26  5:00:00",
+    activity_end_time = "2025/12/6  23:59:59",
+    activity_title = "每日充值ER（240926）",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "Placeholder#2025/11/26 5:00-2025/12/6 23:59#Claim Pop-up Admission Tickets and other rewards when you reach daily top-up tiers.\\nReaching the final tier of the day will unlock tiers for the next day. Any excess amount will be carried over.\\nHead over to the Pop-up Shop to redeem limited ER Karmas and Memory Starlock! #All in-game top-ups excluding [Fragrant Sunshine] will be counted toward this event. Top-up progress resets every day at 5 AM."
+  },
+  [9529] = {
+    activity_start_time = "2026/1/28 5:00:00",
+    activity_end_time = "2026/2/3 23:59:59",
+    activity_title = "241009累充复刻（每日充值形式）",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "Placeholder #Event period: 1/28 05:00 - 2/3 23:59#Claim Loyalty Cards and other rewards when you reach specific daily top-up tiers.\\nReaching the final tier of the day will unlock tiers for the next day. Any excess amounts will also be carried over.\\nHead over to the Pop-up Shop to redeem cumulative top-up exclusive SSR Karma! #All in-game top-ups excluding [Fragrant Sunshine] will be counted toward this event. Top-up progress resets every day at 5 AM.",
+    activity_open_condition = "10212,125,1"
+  },
+  [9530] = {
+    activity_start_time = "2025/10/7 5:00:00",
+    activity_end_time = "2025/10/16 23:59:59",
+    activity_title = "241224累充复刻388 - 周棋洛",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "Placeholder #Event period: 10/7 05:00 - 10/16 23:59#Claim Loyalty Cards and other rewards when you reach specific daily top-up tiers.\\nReaching the final tier of the day will unlock tiers for the next day. Any excess amounts will also be carried over.\\nHead over to the Pop-up Shop to redeem cumulative top-up exclusive SSR Karma! #All in-game top-ups excluding [Fragrant Sunshine] will be counted toward this event. Top-up progress resets every day at 5 AM.",
+    activity_open_condition = "10212,125,1"
   },
   [9997] = {
     activity_start_time = "2021/5/7 05:00",
@@ -6581,6 +7246,22 @@ data = {
   },
   [13030] = {
     activity_start_time = "2025/7/7 5:00:00",
+    activity_end_time = "2025/9/24 4:59:59",
+    activity_title = "1st Topping Up Rebate",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [13031] = {
+    activity_start_time = "2025/9/25  5:00:00",
+    activity_end_time = "2025/12/23 4:59:59",
+    activity_title = "1st Topping Up Rebate",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [13032] = {
+    activity_start_time = "2025/12/23 5:00:00",
     activity_end_time = "2038/1/1 0:00:00",
     activity_title = "1st Topping Up Rebate",
     activity_recommend = 2,
@@ -8498,8 +9179,18 @@ data = {
     activity_basic_rule = "6485,253,1",
     activity_unlock_need = "10210,125,1"
   },
+  [14980] = {
+    activity_start_time = "2025/11/15 00:00:00",
+    activity_end_time = "2025/11/15 23:59:59",
+    activity_title = "24年许墨生日视频",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2305,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
   [14981] = {
-    activity_start_time = "2024/10/31 0:00:00",
+    activity_start_time = "2024/10/31 00:00:00",
     activity_end_time = "2024/11/1 23:59:59",
     activity_title = "24年万圣朋友圈李",
     activity_recommend = 2,
@@ -8509,7 +9200,7 @@ data = {
     activity_unlock_need = "10116,125,1"
   },
   [14982] = {
-    activity_start_time = "2024/10/31 0:00:00",
+    activity_start_time = "2024/10/31 00:00:00",
     activity_end_time = "2024/11/1 23:59:59",
     activity_title = "24年万圣朋友圈许",
     activity_recommend = 2,
@@ -8519,7 +9210,7 @@ data = {
     activity_unlock_need = "10116,125,1"
   },
   [14983] = {
-    activity_start_time = "2024/10/31 0:00:00",
+    activity_start_time = "2024/10/31 00:00:00",
     activity_end_time = "2024/11/1 23:59:59",
     activity_title = "24年万圣朋友圈周",
     activity_recommend = 2,
@@ -8529,7 +9220,7 @@ data = {
     activity_unlock_need = "10116,125,1"
   },
   [14984] = {
-    activity_start_time = "2024/10/31 0:00:00",
+    activity_start_time = "2024/10/31 00:00:00",
     activity_end_time = "2024/11/1 23:59:59",
     activity_title = "24年万圣朋友圈白",
     activity_recommend = 2,
@@ -8539,13 +9230,23 @@ data = {
     activity_unlock_need = "10116,125,1"
   },
   [14985] = {
-    activity_start_time = "2024/10/31 0:00:00",
+    activity_start_time = "2024/10/31 00:00:00",
     activity_end_time = "2024/11/1 23:59:59",
     activity_title = "24年万圣朋友圈凌",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_basic_rule = "6509,253,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [14996] = {
+    activity_start_time = "2026/1/13 00:00:00",
+    activity_end_time = "2026/1/13 23:59:59",
+    activity_title = "25年李泽言生日视频",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "1313,252,1",
     activity_unlock_need = "10116,125,1"
   },
   [15001] = {
@@ -8672,7 +9373,7 @@ data = {
     activity_basic_rule = "51220,81,1:52200,81,1:53200,81,1:54200,81,1"
   },
   [15015] = {
-    activity_start_time = "2021/9/29 5:00",
+    activity_start_time = "2021/9/29 5:00:00",
     activity_end_time = "2021/10/8 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -8680,7 +9381,7 @@ data = {
     activity_basic_rule = "51390,81,1:52390,81,1:53380,81,1:54400,81,1:58040,81,1"
   },
   [15016] = {
-    activity_start_time = "2021/9/29 5:00",
+    activity_start_time = "2021/9/29 5:00:00",
     activity_end_time = "2021/10/8 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -9054,6 +9755,17 @@ data = {
     activity_basic_rule = "53800,81,1",
     activity_open_condition = "10212,125,1"
   },
+  [15054] = {
+    activity_start_time = "2025/9/1 5:00:00",
+    activity_end_time = "2025/9/7 23:59:59",
+    activity_title = "许愿树上新（李泽言第三轮单人）",
+    activity_recommend = 1,
+    activity_weight = 101,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "51800,81,1",
+    activity_open_condition = "10212,125,1"
+  },
   [15055] = {
     activity_start_time = "2024/12/23 5:00:00",
     activity_end_time = "2025/1/3 23:59:59",
@@ -9074,6 +9786,17 @@ data = {
     activity_resource = "evol://lotterydraw",
     activity_basic_rule = "61080,81,1:62070,81,1:63070,81,1:64070,81,1"
   },
+  [15057] = {
+    activity_start_time = "2025/10/19 5:00:00",
+    activity_end_time = "2025/10/25 23:59:59",
+    activity_title = "许愿树上新（白起第三轮单人）",
+    activity_recommend = 1,
+    activity_weight = 101,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "54810,81,1",
+    activity_open_condition = "10212,125,1"
+  },
   [15058] = {
     activity_start_time = "2025/2/7 5:00:00",
     activity_end_time = "2025/2/24 23:59:59",
@@ -9083,6 +9806,17 @@ data = {
     activity_repeat_cnt = -1,
     activity_resource = "evol://lotterydraw",
     activity_basic_rule = "91020,81,1:92020,81,1:93020,81,1:94020,81,1"
+  },
+  [15059] = {
+    activity_start_time = "2025/09/17 05:00:00",
+    activity_end_time = "2025/09/23 23:59:59",
+    activity_title = "许愿树上新（许墨第三轮单人）",
+    activity_recommend = 1,
+    activity_weight = 102,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "52810,81,1",
+    activity_open_condition = "10212,125,1"
   },
   [15063] = {
     activity_start_time = "2025/4/13 5:00:00",
@@ -9104,6 +9838,50 @@ data = {
     activity_resource = "evol://lotterydraw",
     activity_basic_rule = "61090,81,1:62090,81,1:63090,81,1:64090,81,1"
   },
+  [15067] = {
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
+    activity_title = "许墨第一轮单人卡池复刻",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "52660,81,1",
+    activity_open_condition = "10212,125,1"
+  },
+  [15068] = {
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
+    activity_title = "李泽言第一轮单人卡池复刻",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "51720,81,1",
+    activity_open_condition = "10212,125,1"
+  },
+  [15069] = {
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
+    activity_title = "白起第一轮单人卡池复刻",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "54700,81,1",
+    activity_open_condition = "10212,125,1"
+  },
+  [15070] = {
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
+    activity_title = "周棋洛第一轮单人卡池复刻",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "53710,81,1",
+    activity_open_condition = "10212,125,1"
+  },
   [15072] = {
     activity_start_time = "2025/6/25 5:00:00",
     activity_end_time = "2025/7/4 23:59:59",
@@ -9113,6 +9891,77 @@ data = {
     activity_repeat_cnt = -1,
     activity_resource = "evol://lotterydraw",
     activity_basic_rule = "91010,81,1:92010,81,1:93010,81,1:94010,81,1"
+  },
+  [15079] = {
+    activity_start_time = "2025/10/28  05:00:00",
+    activity_end_time = "2025/11/7  23:59:59",
+    activity_title = "许愿树上新（24万圣）",
+    activity_recommend = 1,
+    activity_weight = 101,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "51910,81,1:52900,81,1:53910,81,1:54920,81,1"
+  },
+  [15081] = {
+    activity_start_time = "2025/10/7 5:00:00",
+    activity_end_time = "2025/10/16 23:59:59",
+    activity_title = "23年万圣卡池复刻",
+    activity_recommend = 1,
+    activity_weight = 103,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw?type=JewelActivity&id=15081",
+    activity_basic_rule = "51780,81,1:52760,81,1:53790,81,1:54770,81,1"
+  },
+  [15082] = {
+    activity_start_time = "2025/12/10  5:00:00",
+    activity_end_time = "2025/12/19  23:59:59",
+    activity_title = "许愿树上新（23双旦）-复刻",
+    activity_recommend = 1,
+    activity_weight = 8,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "51820,81,1:52790,81,1:53820,81,1:54800,81,1"
+  },
+  [15083] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "25春节UR卡池-许愿树上新",
+    activity_recommend = 1,
+    activity_weight = 101,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "91030,81,1:92030,81,1:93030,81,1:94030,81,1"
+  },
+  [15086] = {
+    activity_start_time = "2026/1/16 5:00:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "24春节UR卡池-复刻",
+    activity_recommend = 1,
+    activity_weight = 111,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "91020,81,1:92020,81,1:93020,81,1:94020,81,1"
+  },
+  [15088] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "许愿树上新（25五一）",
+    activity_recommend = 1,
+    activity_weight = 101,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "51980,81,1:52960,81,1:53980,81,1:54970,81,1",
+    activity_open_condition = "10212,125,1"
+  },
+  [15100] = {
+    activity_start_time = "2026/2/28 5:00:00",
+    activity_end_time = "2026/3/9 23:59:59",
+    activity_title = "2024夏日4SP复刻",
+    activity_recommend = 1,
+    activity_weight = 11,
+    activity_repeat_cnt = -1,
+    activity_resource = "evol://lotterydraw",
+    activity_basic_rule = "61090,81,1:62090,81,1:63090,81,1:64090,81,1"
   },
   [15999] = {
     activity_start_time = "2021/02/18 5:00",
@@ -9901,6 +10750,16 @@ data = {
     activity_basic_rule = "100061,101,1",
     activity_open_condition = "10212,125,1"
   },
+  [17167] = {
+    activity_start_time = "2025/9/1 5:00:00",
+    activity_end_time = "2025/9/7 23:59:59",
+    activity_title = "2023李泽言第三轮单人分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "100061,101,1",
+    activity_open_condition = "10212,125,1"
+  },
   [17168] = {
     activity_start_time = "2024/11/11 05:00:00",
     activity_end_time = "2024/11/17 23:59:59",
@@ -9945,6 +10804,26 @@ data = {
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_basic_rule = "100061,101,1"
+  },
+  [17182] = {
+    activity_start_time = "2025/10/19 5:00:00",
+    activity_end_time = "2025/10/25 23:59:59",
+    activity_title = "白起第三轮单人分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "100061,101,1",
+    activity_open_condition = "10212,125,1"
+  },
+  [17183] = {
+    activity_start_time = "2025/09/17 05:00:00",
+    activity_end_time = "2025/09/23 23:59:59",
+    activity_title = "2023许墨第三轮单人分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "100061,101,1",
+    activity_open_condition = "10212,125,1"
   },
   [17184] = {
     activity_start_time = "2025/4/5 5:00:00",
@@ -9991,10 +10870,136 @@ data = {
     activity_repeat_cnt = 1,
     activity_basic_rule = "100061,101,1"
   },
+  [17198] = {
+    activity_start_time = "2025/12/10  05:00:00",
+    activity_end_time = "2026/3/19  23:59:59",
+    activity_title = "24百日分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [17204] = {
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
+    activity_title = "许墨第一轮单人卡池复刻分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [17205] = {
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
+    activity_title = "李泽言第一轮单人卡池复刻分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [17206] = {
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
+    activity_title = "白起第一轮单人卡池复刻分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [17207] = {
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
+    activity_title = "周棋洛第一轮单人卡池复刻分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
   [17209] = {
     activity_start_time = "2025/6/25 5:00:00",
     activity_end_time = "2025/7/4 23:59:59",
     activity_title = "许愿树分享（23夏日UR卡池复刻）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [17221] = {
+    activity_start_time = "2025/10/28  05:00:00",
+    activity_end_time = "2025/11/7  23:59:59",
+    activity_title = "许愿树分享（24万圣卡池）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "100061,101,1"
+  },
+  [17222] = {
+    activity_start_time = "2025/11/10  5:00:00",
+    activity_end_time = "2025/11/16  23:59:59",
+    activity_title = "24年许墨生日分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "0,2,10"
+  },
+  [17230] = {
+    activity_start_time = "2025/10/7 5:00:00",
+    activity_end_time = "2025/10/16 23:59:59",
+    activity_title = "23年万圣卡池复刻 - 分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [17235] = {
+    activity_start_time = "2025/12/10  5:00:00",
+    activity_end_time = "2025/12/19  23:59:59",
+    activity_title = "许愿树分享（23双旦卡池）复刻",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [17236] = {
+    activity_start_time = "2026/1/8 5:00:00",
+    activity_end_time = "2026/1/14 23:59:59",
+    activity_title = "25年李泽言生日分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "0,2,10"
+  },
+  [17237] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "25春节UR卡池-许愿树分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "100061,101,1"
+  },
+  [17247] = {
+    activity_start_time = "2026/1/16 5:00:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "24春节UR卡池-许愿树分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [17250] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "许愿树分享（25五一卡池）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "100061,101,1"
+  },
+  [17260] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "25五一卡池活跃活动分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "0,2,10"
+  },
+  [17271] = {
+    activity_start_time = "2026/2/28 5:00:00",
+    activity_end_time = "2026/3/9 23:59:59",
+    activity_title = "2024夏日4SP卡池复刻 - 分享",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
@@ -10874,6 +11879,69 @@ data = {
     activity_repeat_cnt = 1,
     activity_basic_rule = "130103,0,0"
   },
+  [18586] = {
+    activity_start_time = "2025/8/21  5:00:00",
+    activity_end_time = "2025/8/30  23:59:59",
+    activity_title = "$0.99 Pack",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "130104,0,0"
+  },
+  [18587] = {
+    activity_start_time = "2025/9/25  5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "$0.99 Pack",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "130105,0,0"
+  },
+  [18588] = {
+    activity_start_time = "2025/10/28  05:00:00",
+    activity_end_time = "2025/11/9  23:59:59",
+    activity_title = "$0.99 Pack",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "130106,0,0"
+  },
+  [18589] = {
+    activity_start_time = "2025/11/10  05:00:00",
+    activity_end_time = "2025/11/16  23:59:59",
+    activity_title = "$0.99 Pack",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "130107,0,0"
+  },
+  [18590] = {
+    activity_start_time = "2025/11/26  5:00:00",
+    activity_end_time = "2025/12/6  23:59:59",
+    activity_title = "$0.99 Pack",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "130108,0,0"
+  },
+  [18591] = {
+    activity_start_time = "2026/01/08 05:00:00",
+    activity_end_time = "2026/01/14 23:59:59",
+    activity_title = "$0.99 Pack",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "130170,0,0"
+  },
+  [18592] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/01/06 23:59:59",
+    activity_title = "$0.99 Pack",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "130109,0,0"
+  },
   [18604] = {
     activity_start_time = "2025/5/27 5:00:00",
     activity_end_time = "2038/1/1 23:59:59",
@@ -10982,6 +12050,31 @@ data = {
     activity_start_time = "2025/5/27 5:00:00",
     activity_end_time = "2025/6/6 23:59:59",
     activity_title = "星河印象[九期]-9月主线卡池礼包集合活动",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [18914] = {
+    activity_start_time = "2025/08/21 05:00:00",
+    activity_end_time = "2025/08/30 23:59:59",
+    activity_title = "25年8月主线卡活动（记忆回廊）-限时掉落",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
+  [18915] = {
+    activity_start_time = "2025/11/26  5:00:00",
+    activity_end_time = "2025/12/6  23:59:59",
+    activity_title = "星河印象[十期]-9月主线卡池礼包集合活动",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [18916] = {
+    activity_start_time = "2026/3/10 5:00:00",
+    activity_end_time = "2026/3/26 23:59:59",
+    activity_title = "24年特殊羁绊活动礼包集合",
     activity_recommend = 3,
     activity_weight = 9999,
     activity_repeat_cnt = 1
@@ -11327,8 +12420,8 @@ data = {
     activity_unlock_need = "2150301,49,10"
   },
   [21504] = {
-    activity_start_time = "2020/8/14 5:00",
-    activity_end_time = "2020/8/23 23:59:59",
+    activity_start_time = "2026/3/11 5:00",
+    activity_end_time = "2026/3/17 23:59:59",
     activity_recommend = 3,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
@@ -11337,8 +12430,8 @@ data = {
     activity_unlock_need = "2150401,49,10"
   },
   [21505] = {
-    activity_start_time = "2020/8/14 5:00",
-    activity_end_time = "2020/8/23 23:59:59",
+    activity_start_time = "2026/3/11 5:00",
+    activity_end_time = "2026/3/17 23:59:59",
     activity_recommend = 3,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
@@ -11347,8 +12440,8 @@ data = {
     activity_unlock_need = "2150501,49,10"
   },
   [21506] = {
-    activity_start_time = "2020/8/14 5:00",
-    activity_end_time = "2020/8/23 23:59:59",
+    activity_start_time = "2026/3/11 5:00",
+    activity_end_time = "2026/3/17 23:59:59",
     activity_recommend = 3,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
@@ -11357,8 +12450,8 @@ data = {
     activity_unlock_need = "2150601,49,10"
   },
   [21507] = {
-    activity_start_time = "2020/8/14 5:00",
-    activity_end_time = "2020/8/23 23:59:59",
+    activity_start_time = "2026/3/11 5:00",
+    activity_end_time = "2026/3/17 23:59:59",
     activity_recommend = 3,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
@@ -11819,7 +12912,7 @@ data = {
     activity_basic_rule = "2156401,49,1"
   },
   [21565] = {
-    activity_start_time = "2021/9/29 5:00",
+    activity_start_time = "2021/9/29 5:00:00",
     activity_end_time = "2021/10/8 23:59:59",
     activity_recommend = 3,
     activity_weight = 9999,
@@ -11836,7 +12929,7 @@ data = {
     activity_desc = "Spend Markers to customize special birthday outfits for him. The one chosen more across the server will be available at a discounted price later, and the other one will be offered at the original price. #Your customization attempts will be counted towards your Server Score. All participating players are eligible for rewards when the Server Score reaches a designated number. Once all designated numbers have been reached, outfits in Date Plans can be upgraded to Live2D outfits later on! #Players' attempts to customize outfits by spending Markers will be counted towards their ranking scores. Tap to preview Ranking Rewards, which will be distributed at the end of the event. #Top 50 players will receive Special Edition title [Floating Heart] and two customized outfits from the [Flawless Azure] event. If the server progress reaches 100%, the top 50 players will also receive outfit upgrade items (to give two outfits Live2D upgrades). Stay tuned for future announcements."
   },
   [21567] = {
-    activity_start_time = "2021/9/29 5:00",
+    activity_start_time = "2021/9/29 5:00:00",
     activity_end_time = "2021/10/8 23:59:59",
     activity_recommend = 3,
     activity_weight = 9999,
@@ -11945,7 +13038,7 @@ data = {
   },
   [21580] = {
     activity_start_time = "2021/11/25 05:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
@@ -12005,7 +13098,7 @@ data = {
   },
   [21587] = {
     activity_start_time = "2022/1/20 5:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
@@ -12142,7 +13235,7 @@ data = {
   },
   [21615] = {
     activity_start_time = "2022/8/18 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "21年6月主线卡活动（记忆回廊）进度",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -12280,7 +13373,7 @@ data = {
   },
   [21631] = {
     activity_start_time = "2023/3/16 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "12月主线卡积分",
     activity_recommend = 3,
     activity_weight = 9999,
@@ -12391,8 +13484,8 @@ data = {
     activity_basic_rule = "2164301,49,1"
   },
   [21644] = {
-    activity_start_time = "2023/4/25 5:00:00",
-    activity_end_time = "2024/5/7 23:59:59",
+    activity_start_time = "2025/11/18  5:00:00",
+    activity_end_time = "2025/11/26 23:59:59",
     activity_title = "22儿童节5SSR固定积分奖励",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -12430,7 +13523,7 @@ data = {
   },
   [21648] = {
     activity_start_time = "2023/8/31 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "22年6月主线卡积分",
     activity_recommend = 3,
     activity_weight = 9999,
@@ -12554,7 +13647,7 @@ data = {
   },
   [21662] = {
     activity_start_time = "2024/3/12 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "22年12月主线卡积分",
     activity_recommend = 3,
     activity_weight = 9999,
@@ -12578,6 +13671,16 @@ data = {
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_basic_rule = "2166401,49,1"
+  },
+  [21665] = {
+    activity_start_time = "2025/10/7 5:00:00",
+    activity_end_time = "2025/10/26 23:59:59",
+    activity_title = "Duo Adventure",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2166501,49,1",
+    activity_desc = "Event Description Placeholder# Event Description Placeholder# Leaderboard refreshes every 5 minutes."
   },
   [21667] = {
     activity_start_time = "2024/01/08 05:00:00",
@@ -12635,9 +13738,19 @@ data = {
     activity_repeat_cnt = 1,
     activity_basic_rule = "2167301,49,1"
   },
+  [21674] = {
+    activity_start_time = "2026/2/28 5:00:00",
+    activity_end_time = "2026/3/26 23:59:59",
+    activity_title = "Radiant Sunshine",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2167401,49,1",
+    activity_desc = "Event Description Placeholder# Event Description Placeholder# Leaderboard refreshes every 5 minutes."
+  },
   [21675] = {
-    activity_start_time = "2024/8/27 5:00:00",
-    activity_end_time = "2024/9/2 23:59:59",
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
     activity_title = "许墨单人SSR固定积分奖励",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -12656,8 +13769,8 @@ data = {
     activity_unlock_price = "2167601,49,1"
   },
   [21677] = {
-    activity_start_time = "2024/12/14 5:00:00",
-    activity_end_time = "2024/12/20 23:59:59",
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
     activity_title = "李泽言单人SSR固定积分奖励",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -12665,8 +13778,8 @@ data = {
     activity_basic_rule = "2167701,49,1"
   },
   [21678] = {
-    activity_start_time = "2024/9/30 5:00:00",
-    activity_end_time = "2024/10/6 23:59:59",
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
     activity_title = "白起单人SSR固定积分奖励",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -12674,8 +13787,8 @@ data = {
     activity_basic_rule = "2167801,49,1"
   },
   [21679] = {
-    activity_start_time = "2024/11/3 5:00:00",
-    activity_end_time = "2024/11/9 23:59:59",
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
     activity_title = "周棋洛单人SSR固定积分奖励",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -12840,6 +13953,16 @@ data = {
     activity_repeat_cnt = 1,
     activity_basic_rule = "2169801,49,1"
   },
+  [21700] = {
+    activity_start_time = "2026/1/28 5:00:00",
+    activity_end_time = "2026/2/23 23:59:59",
+    activity_title = "Sun‑kissed Journey",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2170001,49,1",
+    activity_desc = "Event Description Placeholder# Event Description Placeholder# Leaderboard refreshes every 5 minutes."
+  },
   [21701] = {
     activity_start_time = "2025/6/8 5:00:00",
     activity_end_time = "2025/6/14 23:59:59",
@@ -12880,7 +14003,7 @@ data = {
   },
   [21706] = {
     activity_start_time = "2024/10/22 5:00:00",
-    activity_end_time = "2024/11/1 23:59:59",
+    activity_end_time = "2025/10/16 23:59:59",
     activity_title = "23万圣积分固定奖励",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -12896,6 +14019,24 @@ data = {
     activity_repeat_cnt = 1,
     activity_basic_rule = "2170701,49,1",
     activity_open_condition = "10212,125,1"
+  },
+  [21708] = {
+    activity_start_time = "2025/9/1 5:00:00",
+    activity_end_time = "2025/10/30 23:59:59",
+    activity_title = "新Battlepass馥郁日光第二十期（免费档积分）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2170801,49,1"
+  },
+  [21709] = {
+    activity_start_time = "2025/9/1 5:00:00",
+    activity_end_time = "2025/10/30 23:59:59",
+    activity_title = "新Battlepass馥郁日光第二十期（付费档积分）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2170901,49,1"
   },
   [21710] = {
     activity_start_time = "2025/8/12 5:00:00",
@@ -12916,6 +14057,16 @@ data = {
     activity_repeat_cnt = 1,
     activity_basic_rule = "2171101,49,1"
   },
+  [21712] = {
+    activity_start_time = "2025/9/1 5:00:00",
+    activity_end_time = "2025/9/7 23:59:59",
+    activity_title = "2023李泽言第三轮单人SSR固定积分奖励",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2171201,49,1",
+    activity_open_condition = "10212,125,1"
+  },
   [21713] = {
     activity_start_time = "2024/11/11 05:00:00",
     activity_end_time = "2024/11/17 23:59:59",
@@ -12929,7 +14080,7 @@ data = {
   },
   [21714] = {
     activity_start_time = "2025/3/18 05:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "23年12月主线卡积分",
     activity_recommend = 3,
     activity_weight = 9999,
@@ -12938,13 +14089,31 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [21715] = {
-    activity_start_time = "2024/12/23 5:00:00",
-    activity_end_time = "2025/1/3 23:59:59",
+    activity_start_time = "2025/12/10  5:00:00",
+    activity_end_time = "2025/12/19  23:59:59",
     activity_title = "23双旦积分固定奖励",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_basic_rule = "2171501,49,1"
+  },
+  [21716] = {
+    activity_start_time = "2026/1/1 5:00",
+    activity_end_time = "2026/3/1 23:59:59",
+    activity_title = "新Battlepass馥郁日光第二十1期（免费档积分）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2171601,49,1"
+  },
+  [21717] = {
+    activity_start_time = "2026/1/1 5:00",
+    activity_end_time = "2026/3/1 23:59:59",
+    activity_title = "新Battlepass馥郁日光第二十1期（付费档积分）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2171701,49,1"
   },
   [21718] = {
     activity_start_time = "2025/1/8 5:00:00",
@@ -12957,23 +14126,79 @@ data = {
     activity_desc = "#The [c][CE9198]Confession Points[-][/c] obtained from the progress of the [Loving Whisper] and [Joining Hearts] will be converted to a corresponding Server Score. When the Server Score reaches a certain tier, all Producers participating in the event can claim a reward. #Rankings are based on the Confession Points obtained from [Loving Whisper] and [Joining Hearts]. Ranking Rewards can be previewed by tapping Check Rewards. The rewards will be given out within 1-2 working days after the event. #The top 3 Producers will receive [c][CE9198]Memory Starbursts*2[-][/c] and [c][CE9198]Time Coupons*788[-][/c]. The top 4-50 Producers will receive [c][CE9198]Time Coupons*788[-][/c]. The top 100 Producers will receive an [c][CE9198]Exclusive Birthday Title[-][/c].",
     activity_unlock_price = "2171801,49,1"
   },
+  [21719] = {
+    activity_start_time = "2025/9/3 5:00:00",
+    activity_end_time = "2025/9/22 23:59:59",
+    activity_title = "Winter Vista",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2171901,49,1",
+    activity_desc = "#Leaderboard refreshes every 5 minutes."
+  },
   [21720] = {
-    activity_start_time = "2025/2/7 5:00:00",
-    activity_end_time = "2025/2/24 23:59:59",
+    activity_start_time = "2026/1/16 5:00:00",
+    activity_end_time = "2026/1/26 23:59:59",
     activity_title = "24春节UR卡池-积分固定奖励",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_basic_rule = "2172001,49,1"
   },
+  [21721] = {
+    activity_start_time = "2025/10/19 5:00:00",
+    activity_end_time = "2025/10/25 23:59:59",
+    activity_title = "白起第三轮单人SSR固定积分奖励",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2172101,49,1",
+    activity_open_condition = "10212,125,1"
+  },
+  [21722] = {
+    activity_start_time = "2025/11/1 5:00:00",
+    activity_end_time = "2025/12/30 23:59:59",
+    activity_title = "新Battlepass馥郁日光第二十二期（免费档积分）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2172201,49,1"
+  },
+  [21723] = {
+    activity_start_time = "2025/11/1 5:00:00",
+    activity_end_time = "2025/12/30 23:59:59",
+    activity_title = "新Battlepass馥郁日光第二十二期（付费档积分）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2172301,49,1"
+  },
   [21724] = {
-    activity_start_time = "2025/2/7 5:00:00",
-    activity_end_time = "2025/2/24 23:59:59",
+    activity_start_time = "2026/1/16 5:00:00",
+    activity_end_time = "2026/1/26 23:59:59",
     activity_title = "24情人节5ER活动进度",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_basic_rule = "2172401,49,1"
+  },
+  [21726] = {
+    activity_start_time = "2025/09/17 05:00:00",
+    activity_end_time = "2025/09/23 23:59:59",
+    activity_title = "2023许墨第三轮单人SSR固定积分奖励",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2172601,49,1",
+    activity_open_condition = "10212,125,1"
+  },
+  [21727] = {
+    activity_start_time = "2025/09/09 05:00:00",
+    activity_end_time = "2025/09/15 23:59:59",
+    activity_title = "24年复刻投票活动排行榜(第6期)",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
   },
   [21728] = {
     activity_start_time = "2025/4/5 5:00:00",
@@ -12985,6 +14210,14 @@ data = {
     activity_basic_rule = "2172801,49,1",
     activity_desc = "#The [c][CE9198]Deep Sky Points[-][/c] obtained from the progress of the [Loving Whisper] and [Joining Hearts] will be converted to a corresponding Server Score. #Rankings are based on the Confession Points obtained from [Loving Whisper] and [Joining Hearts]. Ranking Rewards can be previewed by tapping Check Rewards. The rewards will be given out within 1-2 working days after the event. #The top 3 Producers will receive [c][CE9198]Memory Starburst*2[-][/c] and [c][CE9198]Time Coupon*788[-][/c]. The top 4-50 Producers will receive [c][CE9198]Time Coupon*788[-][/c]. The top 100 Producers will receive an [c][CE9198]Exclusive Birthday Title[-][/c]. Please stay updated for future announcements as the rewards are produced.",
     activity_unlock_price = "2172801,49,1"
+  },
+  [21734] = {
+    activity_start_time = "2026/1/28 5:00:00",
+    activity_end_time = "2026/2/3 23:59:59",
+    activity_title = "24年复刻投票活动排行榜(第7期)",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
   },
   [21736] = {
     activity_start_time = "2025/06/16 05:00:00",
@@ -13008,9 +14241,19 @@ data = {
     activity_desc = "#The [c][CE9198]Wind Trail Points[-][/c] obtained from the progress of the [Loving Whisper] and [Joining Hearts] will be converted to a corresponding Server Score. When the Server Score reaches a certain tier, all Producers participating in the event can claim a reward. #When all the tiers have been reached, rankings will be determined based on the Wind Trail Points obtained from [Loving Whisper] and [Joining Hearts]. Ranking Rewards can be previewed by tapping Check Rewards. The rewards will be given out within 1-2 working days after the event. #The top 3 Producers will receive [c][CE9198]Memory Starbursts*2[-][/c] and [c][CE9198]Time Coupons*788[-][/c]. The top 4-50 Producers will receive [c][CE9198]Time Coupons*788[-][/c]. The top 100 Producers will receive an [c][CE9198]Exclusive Birthday Title[-][/c].",
     activity_unlock_price = "2173701,49,1"
   },
+  [21743] = {
+    activity_start_time = "2025/08/21 05:00:00",
+    activity_end_time = "2025/08/30 23:59:59",
+    activity_title = "25年8月主线卡活动（记忆回廊）-限时掉落",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2174301,49,1",
+    activity_open_condition = "10212,125,1"
+  },
   [21744] = {
-    activity_start_time = "2025/7/7 5:00:00",
-    activity_end_time = "2025/7/20 23:59:59",
+    activity_start_time = "2026/2/28 5:00:00",
+    activity_end_time = "2026/3/9 23:59:59",
     activity_title = "固定积分奖励活动（24年夏日）",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -13019,12 +14262,88 @@ data = {
   },
   [21746] = {
     activity_start_time = "2025/4/24 5:00:00",
-    activity_end_time = "2025/5/7 23:59:59",
+    activity_end_time = "2026/3/11 23:59:59",
     activity_title = "24七夕5SSR固定积分奖励",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_basic_rule = "2174601,49,1"
+  },
+  [21756] = {
+    activity_start_time = "2025/10/28  05:00:00",
+    activity_end_time = "2025/11/7  23:59:59",
+    activity_title = "24万圣积分固定奖励",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2175601,49,1"
+  },
+  [21759] = {
+    activity_start_time = "2025/11/10  5:00:00",
+    activity_end_time = "2025/11/16  23:59:59",
+    activity_title = "许墨2024生日排行榜",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2175901,49,1",
+    activity_desc = "#The [c][CE9198]Butterfly Points[-][/c] obtained from the progress of the [Loving Whisper] and [Joining Hearts] will be converted to a corresponding Server Score. When the Server Score reaches a certain tier, all Producers participating in the event can claim a reward. #Rankings are based on the Butterfly Points obtained from [Loving Whisper] and [Joining Hearts]. Ranking Rewards can be previewed by tapping Check Rewards. The rewards will be given out within 1-2 working days after the event. #The top 3 Producers will receive [c][CE9198]Memory Starbursts*2[-][/c] and [c][CE9198]Time Coupons*788[-][/c]. The top 4-50 Producers will receive [c][CE9198]Time Coupons*788[-][/c]. The top 100 Producers will receive an [c][CE9198]Exclusive Birthday Title[-][/c].",
+    activity_unlock_price = "2175901,49,1"
+  },
+  [21761] = {
+    activity_start_time = "2026/3/10 5:00:00",
+    activity_end_time = "2026/3/26 23:59:59",
+    activity_title = "24年特殊羁绊活动积分",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2176101,49,1"
+  },
+  [21766] = {
+    activity_start_time = "2026/2/5 5:00:00",
+    activity_end_time = "2026/2/16 23:59:59",
+    activity_title = "24年末商店累积消费计数积分",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2176601,49,1"
+  },
+  [21767] = {
+    activity_start_time = "2026/1/8 05:00",
+    activity_end_time = "2026/1/14 23:59:59",
+    activity_title = "李泽言2025生日排行榜",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2176701,49,1",
+    activity_desc = "#The [c][CE9198]Time Points[-][/c] obtained from the [Heartfelt Celebration] and [Send Blessings] will be converted to a corresponding Server Score. When the Server Score reaches a certain tier, all Producers participating in the event can claim a reward. #Rankings are based on the Time Points obtained from [Heartfelt Celebration] and [Send Blessings]. Ranking Rewards can be previewed by tapping Check Rewards. The rewards will be given out by email within 1-2 working days after the event. #The top 3 Producers will receive [c][CE9198]Memory Starbursts*2[-][/c] and [c][CE9198]Time Coupons*788[-][/c]. The top 4-50 Producers will receive [c][CE9198]Time Coupons*788[-][/c]. The top 100 Producers will receive an [c][CE9198]Exclusive Birthday Title[-][/c].",
+    activity_unlock_price = "2176701,49,1"
+  },
+  [21768] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "25春节UR卡池-积分固定奖励",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2176801,49,1"
+  },
+  [21780] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "25五一积分固定奖励",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2178001,49,1"
+  },
+  [21782] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "25五一积分固定奖励 - 服装礼包积分",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2178201,49,1"
   },
   [22001] = {
     activity_start_time = "2019/6/4 5:00",
@@ -13192,17 +14511,17 @@ data = {
     activity_end_time = "2025/09/5 23:59:59",
     activity_title = "召回活动3期-召回任务",
     activity_recommend = 1,
-    activity_weight = 109,
+    activity_weight = 108,
     activity_repeat_cnt = 1,
     activity_resource = "evol://recall2024",
     activity_basic_rule = "400566,101,20",
     activity_desc = "Invite players who [c][CF6C83]haven't logged in since 5:00 on May 27, 2025, and are level 20 or above[-][/c] back to the game to receive Popularity Medals and free exclusive Avatar Frames!"
   },
   [30001] = {
-    activity_start_time = "2020/8/14 5:00",
-    activity_end_time = "2020/8/23 23:59:59",
+    activity_start_time = "2026/3/11 5:00:00",
+    activity_end_time = "2026/3/17 23:59:59",
     activity_recommend = 1,
-    activity_weight = 12,
+    activity_weight = 4,
     activity_repeat_cnt = 1,
     activity_resource = "SeaSidePanel",
     activity_desc = "Bathe in the sun, enjoy the beach and run towards the sea. What's your ideal summer holiday? This summer, take a romantic and unforgettable date on an island..."
@@ -13217,11 +14536,11 @@ data = {
     activity_desc = "This Double 7th holiday, you will see a ''time traveling'' Him— different identity but the same Him. Complete shooting missions, accumulate completions and get limited Karma Shards of the corresponding Double Seventh SSR."
   },
   [30601] = {
-    activity_start_time = "2022/08/31 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_start_time = "2026/1/28 5:00:00",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_title = "House of Love",
     activity_recommend = 1,
-    activity_weight = 5,
+    activity_weight = 3,
     activity_repeat_cnt = 1,
     activity_resource = "evol://lasaintvalentin",
     activity_open_condition = "10110,125,1"
@@ -13386,6 +14705,16 @@ data = {
     activity_title = "金币掉落翻倍",
     activity_recommend = 1,
     activity_weight = 104,
+    activity_repeat_cnt = 1,
+    activity_resource = "#4",
+    activity_basic_rule = "0,0,3"
+  },
+  [31011] = {
+    activity_start_time = "2026/1/1  5:00:00",
+    activity_end_time = "2026/1/3 23:59:59",
+    activity_title = "金币掉落翻倍",
+    activity_recommend = 1,
+    activity_weight = 118,
     activity_repeat_cnt = 1,
     activity_resource = "#4",
     activity_basic_rule = "0,0,3"
@@ -13983,6 +15312,61 @@ data = {
     activity_basic_rule = "100061,101,2",
     activity_desc = "1"
   },
+  [32065] = {
+    activity_start_time = "2025/11/26 05:00:00",
+    activity_end_time = "2025/12/6 23:59:59",
+    activity_title = "特权卡附赠",
+    activity_recommend = 1,
+    activity_weight = 4,
+    activity_repeat_cnt = 1,
+    activity_resource = "#43",
+    activity_basic_rule = "119160,101,2",
+    activity_desc = "1"
+  },
+  [32066] = {
+    activity_start_time = "2025/10/28 05:00:00",
+    activity_end_time = "2025/11/7 23:59:59",
+    activity_title = "特权卡附赠",
+    activity_recommend = 1,
+    activity_weight = 103,
+    activity_repeat_cnt = 1,
+    activity_resource = "#43",
+    activity_basic_rule = "100061,101,2",
+    activity_desc = "1"
+  },
+  [32070] = {
+    activity_start_time = "2025/8/21 5:00:00",
+    activity_end_time = "2025/8/30 23:59:59",
+    activity_title = "特权卡附赠",
+    activity_recommend = 1,
+    activity_weight = 105,
+    activity_repeat_cnt = 1,
+    activity_resource = "#43",
+    activity_basic_rule = "400560,101,3",
+    activity_desc = "1"
+  },
+  [32071] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5 23:59:59",
+    activity_title = "特权卡附赠",
+    activity_recommend = 1,
+    activity_weight = 103,
+    activity_repeat_cnt = 1,
+    activity_resource = "#43",
+    activity_basic_rule = "100061,101,2",
+    activity_desc = "1"
+  },
+  [32072] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "特权卡附赠（体力*400）",
+    activity_recommend = 1,
+    activity_weight = 106,
+    activity_repeat_cnt = 1,
+    activity_resource = "#43",
+    activity_basic_rule = "0,41,400",
+    activity_desc = "1"
+  },
   [32999] = {
     activity_start_time = "2021/02/18 5:00",
     activity_end_time = "2021/2/27 23:59:59",
@@ -14180,6 +15564,28 @@ data = {
     activity_basic_rule = "2165301,49,10:2165301,49,5:0,2,10",
     activity_desc = "Lock your hands together with him, and race toward life's perfect finish line.#815701"
   },
+  [33018] = {
+    activity_start_time = "2025/10/7 5:00:00",
+    activity_end_time = "2025/10/26 23:59:59",
+    activity_title = "22年新一轮周棋洛点就送",
+    activity_recommend = 1,
+    activity_weight = 102,
+    activity_repeat_cnt = 1,
+    activity_resource = "Vlog_2022ZQLClickPanel",
+    activity_basic_rule = "2166501,49,10:2166501,49,5:0,2,10",
+    activity_desc = "Every step you take, he is right there beside you, walking along in the radiant sun. #817801"
+  },
+  [33019] = {
+    activity_start_time = "2026/2/28 5:00:00",
+    activity_end_time = "2026/3/26 23:59:59",
+    activity_title = "2026 Victor Giveaway",
+    activity_recommend = 1,
+    activity_weight = 10,
+    activity_repeat_cnt = 1,
+    activity_resource = "Vlog_2023LZYClickPanel",
+    activity_basic_rule = "2167401,49,10:2167401,49,5:0,2,10",
+    activity_desc = "Through a journey to the past, memories bloom anew, and spring lingers gently over the verdant hills.#818601"
+  },
   [33020] = {
     activity_start_time = "2025/4/26 5:00:00",
     activity_end_time = "2025/5/15 23:59:59",
@@ -14190,6 +15596,28 @@ data = {
     activity_resource = "Vlog_2023XMClickPanel",
     activity_basic_rule = "2169401,49,10:2169401,49,5:0,2,10",
     activity_desc = "The world carried you to me, and every wasteland within me turned to blossoms. #820101"
+  },
+  [33021] = {
+    activity_start_time = "2026/1/28 5:00:00",
+    activity_end_time = "2026/2/23 23:59:59",
+    activity_title = "2026 Kiro Giveaway",
+    activity_recommend = 1,
+    activity_weight = 1,
+    activity_repeat_cnt = 1,
+    activity_resource = "Vlog_2023ZQLClickPanel",
+    activity_basic_rule = "2170001,49,10:2170001,49,5:0,2,10",
+    activity_desc = "You wash over me like sunlight, flooding every inch, golden and bright.#820601"
+  },
+  [33022] = {
+    activity_start_time = "2025/9/3 5:00:00",
+    activity_end_time = "2025/9/22 23:59:59",
+    activity_title = "23年新一轮白起SR点就送",
+    activity_recommend = 1,
+    activity_weight = 103,
+    activity_repeat_cnt = 1,
+    activity_resource = "Vlog_2023BQClickPanel",
+    activity_basic_rule = "2171901,49,10:2171901,49,5:0,2,10",
+    activity_desc = "离你再近一点，就是我最熟悉的味道。#826101"
   },
   [35001] = {
     activity_start_time = "2019/11/20 5:00",
@@ -14642,6 +16070,14 @@ data = {
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
+  [42007] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "岁月缘长第七期",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
   [43001] = {
     activity_start_time = "2020/5/15 5:00",
     activity_end_time = "2020/5/31 23:59:59",
@@ -15008,6 +16444,15 @@ data = {
     activity_repeat_cnt = 1,
     activity_open_condition = "10212,125,1"
   },
+  [43049] = {
+    activity_start_time = "2025/9/1 5:00:00",
+    activity_end_time = "2025/9/7 23:59:59",
+    activity_title = "许愿树抽卡分享（李泽言第三轮单人）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
   [43050] = {
     activity_start_time = "2024/12/23 5:00:00",
     activity_end_time = "2025/1/3 23:59:59",
@@ -15032,6 +16477,24 @@ data = {
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
+  [43053] = {
+    activity_start_time = "2025/10/19 5:00:00",
+    activity_end_time = "2025/10/25 23:59:59",
+    activity_title = "许愿树抽卡分享（白起第三轮单人）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
+  [43054] = {
+    activity_start_time = "2025/09/17 05:00:00",
+    activity_end_time = "2025/09/23 23:59:59",
+    activity_title = "许愿树抽卡分享（许墨第三轮单人）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
   [43058] = {
     activity_start_time = "2025/4/13 5:00:00",
     activity_end_time = "2025/4/22 23:59:59",
@@ -15052,6 +16515,62 @@ data = {
     activity_start_time = "2025/6/25 5:00:00",
     activity_end_time = "2025/7/4 23:59:59",
     activity_title = "许愿树抽卡 分享（23夏日UR卡池复刻）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [43066] = {
+    activity_start_time = "2025/10/28  05:00:00",
+    activity_end_time = "2025/11/7 23:59:59",
+    activity_title = "许愿树抽卡分享（24万圣）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [43068] = {
+    activity_start_time = "2025/10/7 5:00:00",
+    activity_end_time = "2025/10/16 23:59:59",
+    activity_title = "23年万圣卡池复刻 - 许愿树抽卡分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [43069] = {
+    activity_start_time = "2025/12/10  5:00:00",
+    activity_end_time = "2025/12/19  23:59:59",
+    activity_title = "许愿树抽卡分享（23双旦）复刻",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [43070] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "25春节UR卡池-抽卡分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [43073] = {
+    activity_start_time = "2026/1/16 5:00:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "24春节UR卡池-抽卡分享",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [43075] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "许愿树抽卡分享（25五一）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [43083] = {
+    activity_start_time = "2026/2/28 5:00:00",
+    activity_end_time = "2026/3/9 23:59:59",
+    activity_title = "许愿树抽卡分享（24夏日SP卡池复刻）",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
@@ -15123,8 +16642,8 @@ data = {
     activity_open_condition = "10110,125,1:20,351,1"
   },
   [45005] = {
-    activity_start_time = "2024/2/19 5:00:00",
-    activity_end_time = "2024/2/25 23:59:59",
+    activity_start_time = "2026/2/5 5:00:00",
+    activity_end_time = "2026/2/11 23:59:59",
     activity_title = "22年碎片卡池-白起",
     activity_recommend = 2,
     activity_weight = 101,
@@ -15134,8 +16653,8 @@ data = {
     activity_open_condition = "10212,125,1:44,351,1"
   },
   [45006] = {
-    activity_start_time = "2024/3/27 5:00:00",
-    activity_end_time = "2024/4/2 23:59:59",
+    activity_start_time = "2026/2/5 5:00:00",
+    activity_end_time = "2026/2/11 23:59:59",
     activity_title = "22年碎片卡池-许墨",
     activity_recommend = 2,
     activity_weight = 101,
@@ -15145,8 +16664,8 @@ data = {
     activity_open_condition = "10212,125,1:45,351,1"
   },
   [45007] = {
-    activity_start_time = "2024/5/7 5:00:00",
-    activity_end_time = "2024/5/13 23:59:59",
+    activity_start_time = "2026/2/5 5:00:00",
+    activity_end_time = "2026/2/11 23:59:59",
     activity_title = "22年碎片卡池-李泽言",
     activity_recommend = 2,
     activity_weight = 101,
@@ -15156,8 +16675,8 @@ data = {
     activity_open_condition = "10212,125,1:46,351,1"
   },
   [45008] = {
-    activity_start_time = "2024/1/16 5:00:00",
-    activity_end_time = "2024/1/22 23:59:59",
+    activity_start_time = "2026/2/5 5:00:00",
+    activity_end_time = "2026/2/11 23:59:59",
     activity_title = "22年碎片卡池-周棋洛",
     activity_recommend = 2,
     activity_weight = 101,
@@ -15409,7 +16928,7 @@ data = {
   },
   [58004] = {
     activity_start_time = "2021/02/04 5:00",
-    activity_end_time = "2022/9/10 23:59:59",
+    activity_end_time = "2026/2/3 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
@@ -15442,7 +16961,7 @@ data = {
   },
   [58008] = {
     activity_start_time = "2021/11/25 05:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
@@ -15457,7 +16976,7 @@ data = {
   },
   [58011] = {
     activity_start_time = "2022/1/20 5:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
@@ -15470,8 +16989,8 @@ data = {
     activity_repeat_cnt = 1
   },
   [58014] = {
-    activity_start_time = "2022/6/29 5:00:00",
-    activity_end_time = "2022/7/8 23:59:59",
+    activity_start_time = "2026/3/19 5:00:00",
+    activity_end_time = "2026/3/25 23:59:59",
     activity_title = "屏息4ssr付费道具兑换",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -15479,7 +16998,7 @@ data = {
   },
   [58016] = {
     activity_start_time = "2022/8/18 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "21年6月主线卡活动（记忆回廊）付费道具兑换",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -15522,7 +17041,7 @@ data = {
   },
   [58022] = {
     activity_start_time = "2023/3/16 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "21年12月主线卡活动（记忆回廊）付费道具兑换",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -15553,8 +17072,8 @@ data = {
     activity_repeat_cnt = 1
   },
   [58027] = {
-    activity_start_time = "2023/4/25 5:00:00",
-    activity_end_time = "2024/5/5 23:59:59",
+    activity_start_time = "2025/11/18  5:00:00",
+    activity_end_time = "2025/11/24 23:59:59",
     activity_title = "22儿童节5SSR代币兑换",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -15562,7 +17081,7 @@ data = {
   },
   [58028] = {
     activity_start_time = "2023/8/31 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "22年6月主线卡活动（记忆回廊）付费道具兑换",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -15586,7 +17105,7 @@ data = {
   },
   [58031] = {
     activity_start_time = "2023/11/23 5:00:00",
-    activity_end_time = "2025/6/6 23:59:59",
+    activity_end_time = "2026/2/26  23:59:59",
     activity_title = "星河印象复刻代币兑换",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -15594,7 +17113,7 @@ data = {
   },
   [58034] = {
     activity_start_time = "2024/3/12 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "22年12月主线卡活动（记忆回廊）付费道具兑换",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -15650,7 +17169,7 @@ data = {
   },
   [58043] = {
     activity_start_time = "2025/3/18 05:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "23年12月主线卡活动（记忆回廊）付费道具兑换",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -15658,17 +17177,34 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [58044] = {
-    activity_start_time = "2025/2/7 5:00:00",
-    activity_end_time = "2025/2/24 23:59:59",
+    activity_start_time = "2026/1/16 5:00:00",
+    activity_end_time = "2026/1/26 23:59:59",
     activity_title = "24情人节5ER活动付费道具兑换",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
+  [58045] = {
+    activity_start_time = "2025/08/21 05:00:00",
+    activity_end_time = "2025/08/30 23:59:59",
+    activity_title = "25年8月主线卡活动（记忆回廊）-限时掉落",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
   [58047] = {
     activity_start_time = "2025/4/24 5:00:00",
-    activity_end_time = "2025/5/5 23:59:59",
+    activity_end_time = "2026/3/9 23:59:59",
     activity_title = "24七夕5SSR代币兑换",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [58048] = {
+    activity_start_time = "2026/3/10 5:00:00",
+    activity_end_time = "2026/3/26 23:59:59",
+    activity_title = "24年特殊羁绊活动付费道具兑换",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
@@ -15786,6 +17322,18 @@ data = {
     activity_desc = "Daily Quest Active Reward|Claim Daily Quest Active Reward to get extra Mini Palette Knives|8||Limited-time Stage Drops|Clearing a Normal or Elite stage has a chance to award Mini Palette Knives|4||EVOL Supply|Mini Palette Knives can be purchased at the Evol Supply during the event|54,113376",
     activity_open_condition = "10212,125,1"
   },
+  [62016] = {
+    activity_start_time = "2025/10/28 5:00:00",
+    activity_end_time = "2025/11/9 23:59:59",
+    activity_title = "惊奇刹那",
+    activity_recommend = 1,
+    activity_weight = 102,
+    activity_repeat_cnt = 1,
+    activity_resource = "RandomPackActivityPanel",
+    activity_basic_rule = "200059,101,1",
+    activity_desc = "Daily Quest Active Reward|Claim Daily Quest Active Reward to get extra Gacha Eggs|8||Limited-time Stage Drops|Clearing a Normal or Elite stage has a chance to award Gacha Eggs|4||EVOL Supply|Gacha Eggs can be purchased at the Evol Supply during the event|54,200187",
+    activity_open_condition = "10212,125,1"
+  },
   [63001] = {
     activity_start_time = "2020/3/5 5:00",
     activity_end_time = "2020/3/30 23:59:59",
@@ -15868,6 +17416,16 @@ data = {
     activity_basic_rule = "200053,101,1:200053,101,1:200053,101,1:200053,101,1:200053,101,1",
     activity_open_condition = "10212,125,1"
   },
+  [63021] = {
+    activity_start_time = "2025/09/09 05:00:00",
+    activity_end_time = "2025/09/15 23:59:59",
+    activity_title = "复刻活动投票每日活跃（第6期）",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "400487,101,1:400487,101,1:400487,101,1:400487,101,1:400487,101,1",
+    activity_open_condition = "10212,125,2"
+  },
   [63022] = {
     activity_start_time = "2025/5/15 5:00:00",
     activity_end_time = "2025/5/25 23:59:59",
@@ -15876,6 +17434,26 @@ data = {
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_basic_rule = "200054,101,1:200054,101,1:200054,101,1:200054,101,1:200054,101,1",
+    activity_open_condition = "10212,125,1"
+  },
+  [63023] = {
+    activity_start_time = "2026/1/28 5:00:00",
+    activity_end_time = "2026/2/3 23:59:59",
+    activity_title = "复刻活动投票每日活跃（第7期）",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "400554,101,1:400554,101,1:400554,101,1:400554,101,1:400554,101,1",
+    activity_open_condition = "10212,125,1"
+  },
+  [63025] = {
+    activity_start_time = "2025/10/28 5:00:00",
+    activity_end_time = "2025/11/9 23:59:59",
+    activity_title = "惊奇刹那活跃活动",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "200059,101,1:200059,101,1:200059,101,1:200059,101,1:200059,101,1",
     activity_open_condition = "10212,125,1"
   },
   [64001] = {
@@ -16175,8 +17753,8 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [64044] = {
-    activity_start_time = "2025/3/18 05:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_start_time = "2026/2/17 05:00:00",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "复刻主线卡活动集合（记忆回廊）-限时掉落",
     activity_recommend = 3,
     activity_weight = 9999,
@@ -16301,8 +17879,8 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [64064] = {
-    activity_start_time = "2025/2/7 5:00:00",
-    activity_end_time = "2025/2/24 23:59:59",
+    activity_start_time = "2026/1/16 5:00:00",
+    activity_end_time = "2026/1/26 23:59:59",
     activity_title = "24年情人节5ER活动-限时掉落",
     activity_recommend = 3,
     activity_weight = 9999,
@@ -16362,6 +17940,51 @@ data = {
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_open_condition = "10212,125,1"
+  },
+  [64071] = {
+    activity_start_time = "2025/08/21 05:00:00",
+    activity_end_time = "2025/08/30 23:59:59",
+    activity_title = "25年8月主线卡活动（记忆回廊）-限时掉落",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
+  [64073] = {
+    activity_start_time = "2025/11/26  5:00:00",
+    activity_end_time = "2025/12/6  23:59:59",
+    activity_title = "星河印象[十期]限时掉落",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
+  [64074] = {
+    activity_start_time = "2025/10/28 5:00:00",
+    activity_end_time = "2025/11/9 23:59:59",
+    activity_title = "惊奇刹那掉落",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
+  [64075] = {
+    activity_start_time = "2025/11/10  5:00:00",
+    activity_end_time = "2025/11/16  23:59:59",
+    activity_title = "许墨24年生日限时掉落",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
+  [64076] = {
+    activity_start_time = "2026/1/8 5:00:00",
+    activity_end_time = "2026/1/14 23:59:59",
+    activity_title = "李泽言25年生日限时掉落",
+    activity_recommend = 3,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10110,125,1"
   },
   [65001] = {
     activity_start_time = "2021/3/12 5:00",
@@ -16425,7 +18048,7 @@ data = {
   },
   [68001] = {
     activity_start_time = "2021/3/15 5:00",
-    activity_end_time = "2025/6/6 23:59:59",
+    activity_end_time = "2026/2/26  23:59:59",
     activity_recommend = 2,
     activity_weight = 3,
     activity_repeat_cnt = 1,
@@ -16433,7 +18056,7 @@ data = {
   },
   [68002] = {
     activity_start_time = "2021/6/7 05:00",
-    activity_end_time = "2025/6/6 23:59:59",
+    activity_end_time = "2026/2/26  23:59:59",
     activity_recommend = 2,
     activity_weight = 1,
     activity_repeat_cnt = 1,
@@ -16441,7 +18064,7 @@ data = {
   },
   [68003] = {
     activity_start_time = "2021/8/2 05:00",
-    activity_end_time = "2025/6/6 23:59:59",
+    activity_end_time = "2026/2/26  23:59:59",
     activity_recommend = 2,
     activity_weight = 1,
     activity_repeat_cnt = 1,
@@ -16449,7 +18072,7 @@ data = {
   },
   [68004] = {
     activity_start_time = "2021/11/25 05:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_recommend = 2,
     activity_weight = 1,
     activity_repeat_cnt = 1,
@@ -16468,7 +18091,7 @@ data = {
   },
   [68006] = {
     activity_start_time = "2022/1/20 5:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
@@ -16484,18 +18107,18 @@ data = {
     activity_open_condition = "10110,125,1"
   },
   [68008] = {
-    activity_start_time = "2022/6/29 5:00:00",
-    activity_end_time = "2022/7/8 23:59:59",
+    activity_start_time = "2026/3/19 5:00:00",
+    activity_end_time = "2026/3/25 23:59:59",
     activity_title = "往昔留音-屏息4ssr复刻",
     activity_recommend = 1,
-    activity_weight = 1,
+    activity_weight = 5,
     activity_repeat_cnt = 1,
     activity_resource = "evol://AnniversaryMainlineCard68008",
     activity_open_condition = "10212,125,1"
   },
   [68009] = {
     activity_start_time = "2022/3/18  5:00",
-    activity_end_time = "2025/6/6 23:59:59",
+    activity_end_time = "2026/2/26  23:59:59",
     activity_recommend = 2,
     activity_weight = 1,
     activity_repeat_cnt = 1,
@@ -16503,7 +18126,7 @@ data = {
   },
   [68010] = {
     activity_start_time = "2022/8/18 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "21年6月主线卡活动（记忆回廊）",
     activity_recommend = 2,
     activity_weight = 1,
@@ -16513,7 +18136,7 @@ data = {
   },
   [68011] = {
     activity_start_time = "2022/11/24 5:00:00",
-    activity_end_time = "2025/6/6 23:59:59",
+    activity_end_time = "2026/2/26  23:59:59",
     activity_title = "星河印象[五期]-9月主线卡池活动",
     activity_recommend = 2,
     activity_weight = 101,
@@ -16532,7 +18155,7 @@ data = {
   },
   [68013] = {
     activity_start_time = "2023/3/16 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "21年12月主线卡活动（记忆回廊）",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -16561,7 +18184,7 @@ data = {
   },
   [68016] = {
     activity_start_time = "2023/5/25 5:00:00",
-    activity_end_time = "2025/6/6 23:59:59",
+    activity_end_time = "2026/2/26  23:59:59",
     activity_title = "星河印象[六期]-3月主线卡池活动",
     activity_recommend = 2,
     activity_weight = 102,
@@ -16570,7 +18193,7 @@ data = {
   },
   [68017] = {
     activity_start_time = "2023/8/31 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "22年6月主线卡活动（记忆回廊）",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -16590,7 +18213,7 @@ data = {
   },
   [68019] = {
     activity_start_time = "2023/11/23 5:00:00",
-    activity_end_time = "2025/6/6 23:59:59",
+    activity_end_time = "2026/2/26  23:59:59",
     activity_title = "星河印象[七期]-9月主线卡池活动",
     activity_recommend = 2,
     activity_weight = 101,
@@ -16599,7 +18222,7 @@ data = {
   },
   [68020] = {
     activity_start_time = "2024/3/12 5:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "22年12月主线卡活动（记忆回廊）",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -16628,8 +18251,8 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [68024] = {
-    activity_start_time = "2024/11/19 5:00:00",
-    activity_end_time = "2024/12/1 23:59:59",
+    activity_start_time = "2024/11/19 05:00:00",
+    activity_end_time = "2026/2/26  23:59:59",
     activity_title = "星河印象[八期]-9月主线卡池活动",
     activity_recommend = 2,
     activity_weight = 101,
@@ -16639,7 +18262,7 @@ data = {
   },
   [68025] = {
     activity_start_time = "2025/3/18 05:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "23年12月主线卡活动（记忆回廊）",
     activity_recommend = 2,
     activity_weight = 101,
@@ -16648,25 +18271,55 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [68026] = {
-    activity_start_time = "2025/2/7 5:00:00",
-    activity_end_time = "2025/2/24 23:59:59",
+    activity_start_time = "2026/1/16 5:00:00",
+    activity_end_time = "2026/1/26 23:59:59",
     activity_title = "24情人节5ER活动",
     activity_recommend = 1,
     banner_name = "68026_250227",
-    activity_weight = 102,
+    activity_weight = 112,
     activity_repeat_cnt = 1,
     activity_resource = "evol://AnniversaryMainlineCard",
     activity_open_condition = "10212,125,1"
   },
   [68027] = {
     activity_start_time = "2025/5/27 5:00:00",
-    activity_end_time = "2025/6/6 23:59:59",
+    activity_end_time = "2026/2/26  23:59:59",
     activity_title = "星河印象[九期]-3月主线卡池活动",
-    activity_recommend = 1,
+    activity_recommend = 2,
     activity_weight = 101,
     activity_repeat_cnt = 1,
     activity_resource = "evol://AnniversaryMainlineCard",
     activity_open_condition = "10212,125,1"
+  },
+  [68028] = {
+    activity_start_time = "2025/8/21 5:00:00",
+    activity_end_time = "2025/8/30 23:59:59",
+    activity_title = "24年6月主线卡活动（记忆回廊）",
+    activity_recommend = 2,
+    activity_weight = 101,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://AnniversaryMainlineCard",
+    activity_open_condition = "10212,125,1"
+  },
+  [68029] = {
+    activity_start_time = "2025/11/26  5:00:00",
+    activity_end_time = "2025/12/6  23:59:59",
+    activity_title = "星河印象[十期]-9月主线卡池活动",
+    activity_recommend = 1,
+    activity_weight = 1,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://AnniversaryMainlineCard",
+    activity_open_condition = "10212,125,1"
+  },
+  [68030] = {
+    activity_start_time = "2026/3/10 5:00:00",
+    activity_end_time = "2026/3/26 23:59:59",
+    activity_title = "24年特殊羁绊活动",
+    activity_recommend = 1,
+    activity_weight = 1,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://AnniversaryMainlineCard",
+    activity_open_condition = "10110,125,1"
   },
   [69001] = {
     activity_start_time = "2021/3/12 5:00",
@@ -17195,6 +18848,100 @@ data = {
     activity_desc = "2025/7/21, 5:00 - 2025/7/27, 23:59\\n During the event, you’ll receive “Dawn Stone” no matter you win or lose. The more you challenge, the more you get.",
     banner_type = 1
   },
+  [72051] = {
+    activity_start_time = "2025/8/25 5:00:00",
+    activity_end_time = "2025/8/31 23:59:59",
+    activity_title = "Limited Drop",
+    activity_recommend = 1,
+    activity_weight = 106,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://pvpentry",
+    activity_desc = "2025/8/25, 5:00 - 2025/8/31, 23:59\\n During the event, you’ll receive “Dawn Stone” no matter you win or lose. The more you challenge, the more you get.",
+    banner_type = 1
+  },
+  [72052] = {
+    activity_start_time = "2025/9/22 5:00:00",
+    activity_end_time = "2025/9/28 23:59:59",
+    activity_title = "Limited Drop",
+    activity_recommend = 1,
+    activity_weight = 109,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://pvpentry",
+    activity_desc = "2025/9/22, 5:00 - 2025/9/28, 23:59\\n During the event, you’ll receive “Dawn Stone” no matter you win or lose. The more you challenge, the more you get.",
+    banner_type = 1
+  },
+  [72053] = {
+    activity_start_time = "2025/10/20 5:00:00",
+    activity_end_time = "2025/10/26  23:59:59",
+    activity_title = "Limited Drop",
+    activity_recommend = 1,
+    activity_weight = 106,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://pvpentry",
+    activity_desc = "2025/10/20, 5:00 - 2025/10/26, 23:59\\n During the event, you’ll receive “Dawn Stone” no matter you win or lose. The more you challenge, the more you get.",
+    activity_open_condition = "10203,125,1",
+    banner_type = 1
+  },
+  [72054] = {
+    activity_start_time = "2025/11/17 5:00:00",
+    activity_end_time = "2025/11/23 23:59:59",
+    activity_title = "Limited Drop",
+    activity_recommend = 1,
+    activity_weight = 103,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://pvpentry",
+    activity_desc = "2025/11/17, 5:00 - 2025/11/23, 23:59\\n During the event, you’ll receive “Dawn Stone” no matter you win or lose. The more you challenge, the more you get.",
+    activity_open_condition = "10203,125,1",
+    banner_type = 1
+  },
+  [72055] = {
+    activity_start_time = "2025/12/15 5:00:00",
+    activity_end_time = "2025/12/21 23:59:59",
+    activity_title = "Limited Drop",
+    activity_recommend = 1,
+    activity_weight = 107,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://pvpentry",
+    activity_desc = "2025/12/15 5:00 - 12/21 23:59\\nDuring the event, you’ll receive “Dawn Stone” no matter you win or lose. The more you challenge, the more you get.",
+    activity_open_condition = "10203,125,1",
+    banner_type = 1
+  },
+  [72056] = {
+    activity_start_time = "2026/1/19 5:00:00",
+    activity_end_time = "2026/1/25 23:59:59",
+    activity_title = "Limited Drop",
+    activity_recommend = 1,
+    activity_weight = 117,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://pvpentry",
+    activity_desc = "2026/1/19 5:00 - 1/25 23:59\\nDuring the event, you’ll receive “Dawn Stone” no matter you win or lose. The more you challenge, the more you get.",
+    activity_open_condition = "10203,125,1",
+    banner_type = 1
+  },
+  [72057] = {
+    activity_start_time = "2026/2/16 5:00:00",
+    activity_end_time = "2026/2/22 23:59:59",
+    activity_title = "Limited Drop",
+    activity_recommend = 1,
+    activity_weight = 117,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://pvpentry",
+    activity_desc = "2026/2/16 5:00 - 2/22 23:59\\nDuring the event, you’ll receive “Dawn Stone” no matter you win or lose. The more you challenge, the more you get.",
+    activity_open_condition = "10203,125,1",
+    banner_type = 1
+  },
+  [72058] = {
+    activity_start_time = "2026/3/16 5:00:00",
+    activity_end_time = "2026/3/22 23:59:59",
+    activity_title = "Limited Drop",
+    activity_recommend = 1,
+    activity_weight = 117,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://pvpentry",
+    activity_desc = "2026/3/16 5:00 - 3/22 23:59\\nDuring the event, you’ll receive “Dawn Stone” no matter you win or lose. The more you challenge, the more you get.",
+    activity_open_condition = "10203,125,1",
+    banner_type = 1
+  },
   [73001] = {
     activity_start_time = "2021/1/8 5:00",
     activity_end_time = "2021/1/14 23:59:59",
@@ -17321,8 +19068,8 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [75013] = {
-    activity_start_time = "2024/8/27 5:00:00",
-    activity_end_time = "2024/9/2 23:59:59",
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
     activity_title = "自选服装奖励（许墨单人）",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -17330,8 +19077,8 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [75014] = {
-    activity_start_time = "2024/12/14 5:00:00",
-    activity_end_time = "2024/12/20 23:59:59",
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
     activity_title = "自选服装奖励（李泽言单人）",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -17339,8 +19086,8 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [75015] = {
-    activity_start_time = "2024/9/30 5:00:00",
-    activity_end_time = "2024/10/6 23:59:59",
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
     activity_title = "自选服装奖励（白起单人）",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -17348,8 +19095,8 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [75016] = {
-    activity_start_time = "2024/11/3 5:00:00",
-    activity_end_time = "2024/11/9 23:59:59",
+    activity_start_time = "2025/9/9 5:00:00",
+    activity_end_time = "2025/9/15 23:59:59",
     activity_title = "自选服装奖励（周棋洛单人）",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -17412,7 +19159,7 @@ data = {
   },
   [75023] = {
     activity_start_time = "2024/10/22 5:00:00",
-    activity_end_time = "2024/11/1 23:59:59",
+    activity_end_time = "2025/10/16 23:59:59",
     activity_title = "自选服装奖励（23万圣）",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -17428,9 +19175,18 @@ data = {
     activity_repeat_cnt = 1,
     activity_open_condition = "10212,125,1"
   },
+  [75025] = {
+    activity_start_time = "2025/9/1 5:00:00",
+    activity_end_time = "2025/9/7 23:59:59",
+    activity_title = "自选服装奖励（李泽言第三轮单人）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
   [75026] = {
-    activity_start_time = "2024/12/23 5:00:00",
-    activity_end_time = "2025/1/3 23:59:59",
+    activity_start_time = "2025/12/10  5:00:00",
+    activity_end_time = "2025/12/19  23:59:59",
     activity_title = "自选服装奖励（23双旦）",
     activity_recommend = 2,
     activity_weight = 9999,
@@ -17438,21 +19194,66 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [75027] = {
-    activity_start_time = "2025/2/7 5:00:00",
-    activity_end_time = "2025/2/24 23:59:59",
+    activity_start_time = "2026/1/16 5:00:00",
+    activity_end_time = "2026/1/26 23:59:59",
     activity_title = "24春节UR卡池-自选服装奖励",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1,
     activity_open_condition = "10212,125,1"
   },
+  [75028] = {
+    activity_start_time = "2025/10/19 5:00:00",
+    activity_end_time = "2025/10/25 23:59:59",
+    activity_title = "自选服装奖励（白起第三轮单人）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
+  [75029] = {
+    activity_start_time = "2025/09/17 05:00:00",
+    activity_end_time = "2025/09/23 23:59:59",
+    activity_title = "自选服装奖励（许墨第三轮单人）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
   [75035] = {
-    activity_start_time = "2025/7/7 5:00:00",
-    activity_end_time = "2025/7/20 23:59:59",
+    activity_start_time = "2026/2/28 5:00:00",
+    activity_end_time = "2026/3/9 23:59:59",
     activity_title = "自选服装奖励（24年夏日）",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
+  },
+  [75039] = {
+    activity_start_time = "2025/10/28  05:00:00",
+    activity_end_time = "2025/11/7  23:59:59",
+    activity_title = "自选服装奖励（24万圣）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
+  [75041] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "25春节UR卡池-自选服装奖励",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10110,125,1"
+  },
+  [75045] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "自选服装奖励（25五一）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
   },
   [76001] = {
     activity_start_time = "2021/5/7 5:00",
@@ -17502,6 +19303,16 @@ data = {
     activity_basic_rule = "120104",
     activity_open_condition = "10212,125,1"
   },
+  [77005] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "许愿树配套推送礼包（2025春节UR卡池）",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "120105",
+    activity_open_condition = "10110,125,1"
+  },
   [78001] = {
     activity_start_time = "2023/10/12 5:00:00",
     activity_end_time = "2023/10/19 23:59:59",
@@ -17514,11 +19325,11 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [78002] = {
-    activity_start_time = "2024/4/27 5:00:00",
-    activity_end_time = "2024/5/5 23:59:59",
+    activity_start_time = "2025/11/18  5:00:00",
+    activity_end_time = "2025/11/24 23:59:59",
     activity_title = "22儿童节5SSR奖池",
     activity_recommend = 1,
-    activity_weight = 105,
+    activity_weight = 102,
     activity_repeat_cnt = 1,
     activity_resource = "evol://chineseQiXi2022",
     activity_desc = "Collect Rainbow Cookie Shards during the event and combine them into Rainbow Cookies to trade them for event-limited SSR Karma and outfits.",
@@ -17559,11 +19370,11 @@ data = {
     activity_open_condition = "10212,125,1"
   },
   [78006] = {
-    activity_start_time = "2025/4/24 5:00:00",
-    activity_end_time = "2025/5/5 23:59:59",
+    activity_start_time = "2026/2/28 5:00:00",
+    activity_end_time = "2026/3/9 23:59:59",
     activity_title = "24七夕5SSR奖池",
     activity_recommend = 1,
-    activity_weight = 101,
+    activity_weight = 12,
     activity_repeat_cnt = 1,
     activity_resource = "evol://chineseQiXi2022",
     activity_desc = "During the event, refract with Natural Fiber Lanterns and combine Incense Burners from Incense Powder to obtain Event Exclusive SSR Karmas and outfits.",
@@ -17990,6 +19801,30 @@ data = {
     activity_weight = 9999,
     activity_repeat_cnt = 1
   },
+  [83210] = {
+    activity_start_time = "2026/1/1 0:00:00",
+    activity_end_time = "2026/1/31 23:59:59",
+    activity_title = "回收命运骰子的空活动-1月",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [83211] = {
+    activity_start_time = "2026/2/1 0:00:00",
+    activity_end_time = "2026/2/28 23:59:59",
+    activity_title = "回收命运骰子的空活动-2月",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [83212] = {
+    activity_start_time = "2026/3/1 0:00:00",
+    activity_end_time = "2026/3/31 23:59:59",
+    activity_title = "回收命运骰子的空活动-3月",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
   [84001] = {
     activity_start_time = "2022/2/14 05:00",
     activity_end_time = "2022/3/2 23:59:59",
@@ -18013,6 +19848,14 @@ data = {
     activity_weight = 103,
     activity_repeat_cnt = 1,
     activity_resource = "evol://FirstDayConsumeReturnPanel"
+  },
+  [84005] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "25年新春回馈-卡池",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
   },
   [86001] = {
     activity_start_time = "2022/8/19 5:00:00",
@@ -18205,6 +20048,36 @@ data = {
     activity_desc = "Complete Daily Quests and Limited Quests to get Sunlight Points, which can be exchanged for Sunlight Tokens at specific levels",
     activity_unlock_need = "10212,125,1",
     activity_open_condition = "10212,125,1"
+  },
+  [86020] = {
+    activity_start_time = "2025/9/1 5:00:00",
+    activity_end_time = "2025/10/30 23:59:59",
+    activity_title = "新常驻Battlepass-第二十期",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "Complete Daily Quests and Limited Quests to get Sunlight Points, which can be exchanged for Sunlight Tokens at specific levels",
+    activity_unlock_need = "10212,125,1"
+  },
+  [86021] = {
+    activity_start_time = "2026/1/1 5:00",
+    activity_end_time = "2026/3/1 23:59:59",
+    activity_title = "新常驻Battlepass-第二十一期",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "Complete Daily Quests and Limited Quests to get Sunlight Points, which can be exchanged for Sunlight Tokens at specific levels",
+    activity_unlock_need = "10110,125,1"
+  },
+  [86022] = {
+    activity_start_time = "2025/11/1 5:00:00",
+    activity_end_time = "2025/12/30 23:59:59",
+    activity_title = "新常驻Battlepass-第二十二期",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_desc = "Complete Daily Quests and Limited Quests to get Sunlight Points, which can be exchanged for Sunlight Tokens at specific levels",
+    activity_unlock_need = "10212,125,1"
   },
   [88001] = {
     activity_start_time = "2020/12/3 05:00",
@@ -18448,6 +20321,24 @@ data = {
     activity_repeat_cnt = 1,
     activity_resource = "evol://2024bqbirth"
   },
+  [92020] = {
+    activity_start_time = "2025/11/10  5:00:00",
+    activity_end_time = "2025/11/16  23:59:59",
+    activity_title = "24年许墨生日",
+    activity_recommend = 1,
+    activity_weight = 101,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://2024xmbirth"
+  },
+  [92021] = {
+    activity_start_time = "2026/1/8 5:00:00",
+    activity_end_time = "2026/1/14 23:59:59",
+    activity_title = "25年李泽言生日",
+    activity_recommend = 1,
+    activity_weight = 110,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://2025lzybirth"
+  },
   [93001] = {
     activity_start_time = "2022/4/13 05:00",
     activity_end_time = "2022/4/29 23:59:59",
@@ -18491,6 +20382,14 @@ data = {
     activity_start_time = "2025/7/7 5:00:00",
     activity_end_time = "2025/7/20 23:59:59",
     activity_title = "24夏日养卡活动",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1
+  },
+  [93007] = {
+    activity_start_time = "2025/12/23 5:00:00",
+    activity_end_time = "2026/1/6 23:59:59",
+    activity_title = "25春节养卡活动",
     activity_recommend = 2,
     activity_weight = 9999,
     activity_repeat_cnt = 1
@@ -18568,6 +20467,25 @@ During the event, tap [Launch Project] to plan your filming and enjoy an ordinar
     activity_resource = "evol://newformofssr2023",
     activity_open_condition = "10212,125,1"
   },
+  [98006] = {
+    activity_start_time = "2025/09/09 05:00:00",
+    activity_end_time = "2025/09/15 23:59:59",
+    activity_title = "24年复刻投票活动(第6期)",
+    activity_recommend = 1,
+    activity_weight = 105,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://returnvote98006",
+    activity_desc = "活动时间：9/9 5:00~9/15 23:59 每日活跃度达到指定档位即可获得【拾光车票】，为喜欢的活动进行投票！\\n投票最高的活动将会在后续版本开启限时复刻。"
+  },
+  [98007] = {
+    activity_start_time = "2026/1/28 5:00:00",
+    activity_end_time = "2026/2/3 23:59:59",
+    activity_title = "24年复刻投票活动(第7期)",
+    activity_recommend = 1,
+    activity_weight = 2,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://returnvote98007"
+  },
   [101001] = {
     activity_start_time = "2019/5/15 5:00",
     activity_end_time = "2038/1/1 0:00:00",
@@ -18615,6 +20533,15 @@ During the event, tap [Launch Project] to plan your filming and enjoy an ordinar
     activity_repeat_cnt = 1,
     activity_resource = "https://bosslovezhaohua.elexapp.com\\https://bosslovezhaohua.elexapp.com",
     activity_basic_rule = "0,1086,0:0,1601,0:0,1602,0:0,1603,0:0,1604,0:0,1605,0:0,1606,0:0,1607,0"
+  },
+  [102026] = {
+    activity_start_time = "2026/3/10 5:00:00",
+    activity_end_time = "2026/3/26 23:59:59",
+    activity_title = "25周年5R获取",
+    activity_recommend = 1,
+    activity_weight = 2,
+    activity_repeat_cnt = 1,
+    activity_resource = "https://www.facebook.com/MrLoveGame/"
   },
   [103001] = {
     activity_start_time = "2018/4/1 5:00",
@@ -18686,6 +20613,16 @@ During the event, tap [Launch Project] to plan your filming and enjoy an ordinar
     activity_repeat_cnt = 1,
     activity_resource = "evol://2024NewYearBP",
     activity_open_condition = "10212,125,1"
+  },
+  [107005] = {
+    activity_start_time = "2026/1/1 5:00:00",
+    activity_end_time = "2026/1/10 23:59:59",
+    activity_title = "贺岁迎新",
+    activity_recommend = 1,
+    activity_weight = 108,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://2025NewYearBP",
+    activity_unlock_price = "10212,125,1"
   },
   [107999] = {
     activity_start_time = "2025/7/7 5:00:00",
@@ -18781,28 +20718,46 @@ During the event, tap [Launch Project] to plan your filming and enjoy an ordinar
     activity_repeat_cnt = 1,
     activity_open_condition = "10212,125,1"
   },
+  [108011] = {
+    activity_start_time = "2025/8/21  5:00:00",
+    activity_end_time = "2025/8/30  23:59:59",
+    activity_title = "主线限时通关领奖",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
+  [108012] = {
+    activity_start_time = "2025/11/26  05:00:00",
+    activity_end_time = "2025/12/6  23:59:59",
+    activity_title = "Time-limited Main Story Clearance Rewards",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_open_condition = "10212,125,1"
+  },
   [110001] = {
-    activity_start_time = "2025/3/18 05:00:00",
-    activity_end_time = "2025/3/31 23:59:59",
+    activity_start_time = "2026/2/17 5:00:00",
+    activity_end_time = "2026/2/26 23:59:59",
     activity_title = "记忆回廊复刻活动",
     activity_recommend = 1,
-    banner_name = "110001_241206",
-    activity_weight = 106,
+    banner_name = "110001",
+    activity_weight = 8,
     activity_repeat_cnt = 1,
     activity_resource = "evol://mainlinecardselect",
-    activity_desc = "Event period: 2025/3/18 5:00 - 2025/3/31 23:59.\\nYou can enter any Memory Corridor during the event (your original event progress will be retained).",
+    activity_desc = "Event period: 2026/2/17 5:00 - 2026/2/26 23:59.\\nYou can enter any Memory Corridor during the event (your original event progress will be retained).",
     activity_open_condition = "10212,125,1"
   },
   [110002] = {
-    activity_start_time = "2025/5/27 5:00:00",
-    activity_end_time = "2025/6/6 23:59:59",
+    activity_start_time = "2026/2/17 5:00:00",
+    activity_end_time = "2026/2/26  23:59:59",
     activity_title = "星河印象复刻活动",
     activity_recommend = 1,
-    banner_name = "110002_240321",
-    activity_weight = 103,
+    banner_name = "110002_240926",
+    activity_weight = 9,
     activity_repeat_cnt = 1,
-    activity_resource = "evol://mainlinecardselect",
-    activity_desc = "Event period: 2025/5/27 5:00 - 2025/6/6 23:59.\\nYou can enter any Milky Way events during the period (your original event progress will be retained).",
+    activity_resource = "evol://mainlinecardselect2",
+    activity_desc = "Event period: 2026/2/17 5:00 - 2026/2/26 23:59.\\nYou can enter any Milky Way events during the period (your original event progress will be retained).",
     activity_open_condition = "10212,125,1"
   },
   [114001] = {
@@ -18844,6 +20799,16 @@ During the event, tap [Launch Project] to plan your filming and enjoy an ordinar
     activity_resource = "evol://YearEndBackFeedShop",
     activity_open_condition = "10212,125,1"
   },
+  [121002] = {
+    activity_start_time = "2026/2/5 5:00:00",
+    activity_end_time = "2026/2/16 23:59:59",
+    activity_title = "24年末回馈商店",
+    activity_recommend = 1,
+    activity_weight = 6,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://YearEndBackFeedShop",
+    activity_open_condition = "10212,125,1"
+  },
   [123001] = {
     activity_start_time = "2024/2/27 5:00:00",
     activity_end_time = "2024/3/8 23:59:59",
@@ -18853,6 +20818,16 @@ During the event, tap [Launch Project] to plan your filming and enjoy an ordinar
     activity_repeat_cnt = 1,
     activity_resource = "evol://DesenoRechargeChoosePanel",
     activity_desc = "Event period: 2/27 5:00 - 3/8 23:59."
+  },
+  [123002] = {
+    activity_start_time = "2026/1/16 5:00",
+    activity_end_time = "2026/1/26 23:59:59",
+    activity_title = "限时累充送礼",
+    activity_recommend = 1,
+    activity_weight = 113,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://DesenoRechargeChoosePanel",
+    activity_desc = "2026/1/16 5:00 - 2026/1/26 23:59"
   },
   [125001] = {
     activity_start_time = "2024/12/10 5:00:00",
@@ -18872,6 +20847,326 @@ During the event, tap [Launch Project] to plan your filming and enjoy an ordinar
     activity_weight = 107,
     activity_repeat_cnt = 1,
     activity_resource = "evol://SeasonalSceneryActivity",
+    activity_open_condition = "10212,125,1"
+  },
+  [135001] = {
+    activity_start_time = "2025/12/10  05:00:00",
+    activity_end_time = "2026/3/19  23:59:59",
+    activity_title = "24年百日相伴",
+    activity_recommend = 1,
+    activity_weight = 114,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://HundredDays2024",
+    activity_open_condition = "10212,125,1"
+  },
+  [140001] = {
+    activity_start_time = "2025/12/31 23:55:00",
+    activity_end_time = "2026/1/3 23:59:59",
+    activity_title = "李·24-25年跨年视频电话",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "1312,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140002] = {
+    activity_start_time = "2025/12/31 23:55:00",
+    activity_end_time = "2026/1/3 23:59:59",
+    activity_title = "许·24-25年跨年视频电话",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2309,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140003] = {
+    activity_start_time = "2025/12/31 23:55:00",
+    activity_end_time = "2026/1/3 23:59:59",
+    activity_title = "周·24-25年跨年视频电话",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "3305,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140004] = {
+    activity_start_time = "2025/12/31 23:55:00",
+    activity_end_time = "2026/1/3 23:59:59",
+    activity_title = "白·24-25年跨年视频电话",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "4310,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140005] = {
+    activity_start_time = "2025/12/31 23:55:00",
+    activity_end_time = "2026/1/3 23:59:59",
+    activity_title = "凌·24-25年跨年视频电话",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "8137,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140006] = {
+    activity_start_time = "2025/12/24 18:00:00",
+    activity_end_time = "2025/12/25 23:59:59",
+    activity_title = "24年圣诞短信李",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "140905,251,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140007] = {
+    activity_start_time = "2025/12/24 18:00:00",
+    activity_end_time = "2025/12/25 23:59:59",
+    activity_title = "24年圣诞短信许",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "140906,251,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140008] = {
+    activity_start_time = "2025/12/24 18:00:00",
+    activity_end_time = "2025/12/25 23:59:59",
+    activity_title = "24年圣诞短信周",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "140907,251,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140009] = {
+    activity_start_time = "2025/12/24 18:00:00",
+    activity_end_time = "2025/12/25 23:59:59",
+    activity_title = "24年圣诞短信白",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "140908,251,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140010] = {
+    activity_start_time = "2025/12/24 18:00:00",
+    activity_end_time = "2025/12/25 23:59:59",
+    activity_title = "24年圣诞短信凌",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "140909,251,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140034] = {
+    activity_start_time = "2026/2/14 0:00:00",
+    activity_end_time = "2026/2/14 23:59:00",
+    activity_title = "25年情人节电话·李",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "1317,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140035] = {
+    activity_start_time = "2026/2/14 0:00:00",
+    activity_end_time = "2026/2/14 23:59:00",
+    activity_title = "25年情人节电话·许",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2312,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140036] = {
+    activity_start_time = "2026/2/14 0:00:00",
+    activity_end_time = "2026/2/14 23:59:00",
+    activity_title = "25年情人节电话·周",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "3309,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140037] = {
+    activity_start_time = "2026/2/14 0:00:00",
+    activity_end_time = "2026/2/14 23:59:00",
+    activity_title = "25年情人节电话·白",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "4313,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140038] = {
+    activity_start_time = "2026/2/14 0:00:00",
+    activity_end_time = "2026/2/14 23:59:00",
+    activity_title = "25年情人节电话·凌",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "8140,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140049] = {
+    activity_start_time = "2026/3/14 0:00:00",
+    activity_end_time = "2026/3/14 23:59:59",
+    activity_title = "25年白色情人节电话·李",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "1327,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140050] = {
+    activity_start_time = "2026/3/14 0:00:00",
+    activity_end_time = "2026/3/14 23:59:59",
+    activity_title = "25年白色情人节电话·许",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2320,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140051] = {
+    activity_start_time = "2026/3/14 0:00:00",
+    activity_end_time = "2026/3/14 23:59:59",
+    activity_title = "25年白色情人节电话·周",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "3318,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140052] = {
+    activity_start_time = "2026/3/14 0:00:00",
+    activity_end_time = "2026/3/14 23:59:59",
+    activity_title = "25年白色情人节电话·白",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "4319,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140053] = {
+    activity_start_time = "2026/3/14 0:00:00",
+    activity_end_time = "2026/3/14 23:59:59",
+    activity_title = "25年白色情人节电话·凌",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "8146,252,1",
+    activity_unlock_need = "10116,125,1"
+  },
+  [140106] = {
+    activity_start_time = "2025/10/31  00:00:00",
+    activity_end_time = "2025/11/1  23:59:59",
+    activity_title = "25年万圣朋友圈李",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "1864,253,1",
+    activity_unlock_need = "10210,125,1"
+  },
+  [140107] = {
+    activity_start_time = "2025/10/31  00:00:00",
+    activity_end_time = "2025/11/1  23:59:59",
+    activity_title = "25年万圣朋友圈许",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2863,253,1",
+    activity_unlock_need = "10210,125,1"
+  },
+  [140108] = {
+    activity_start_time = "2025/10/31  00:00:00",
+    activity_end_time = "2025/11/1  23:59:59",
+    activity_title = "25年万圣朋友圈周",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "3875,253,1",
+    activity_unlock_need = "10210,125,1"
+  },
+  [140109] = {
+    activity_start_time = "2025/10/31  00:00:00",
+    activity_end_time = "2025/11/1  23:59:59",
+    activity_title = "25年万圣朋友圈白",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "4871,253,1",
+    activity_unlock_need = "10210,125,1"
+  },
+  [140110] = {
+    activity_start_time = "2025/10/31  00:00:00",
+    activity_end_time = "2025/11/1  23:59:59",
+    activity_title = "25年万圣朋友圈凌",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "6605,253,1",
+    activity_unlock_need = "10210,125,1"
+  },
+  [140111] = {
+    activity_start_time = "2026/3/20 0:00:00",
+    activity_end_time = "2026/3/26  23:59:59",
+    activity_title = "25年周年庆补发朋友圈李",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "1759,253,1",
+    activity_unlock_need = "10210,125,1"
+  },
+  [140112] = {
+    activity_start_time = "2026/3/20 0:00:00",
+    activity_end_time = "2026/3/26  23:59:59",
+    activity_title = "25年周年庆补发朋友圈许",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "2764,253,1",
+    activity_unlock_need = "10210,125,1"
+  },
+  [140113] = {
+    activity_start_time = "2026/3/20 0:00:00",
+    activity_end_time = "2026/3/26  23:59:59",
+    activity_title = "25年周年庆补发朋友圈周",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "3767,253,1",
+    activity_unlock_need = "10210,125,1"
+  },
+  [140114] = {
+    activity_start_time = "2026/3/20 0:00:00",
+    activity_end_time = "2026/3/26  23:59:59",
+    activity_title = "25年周年庆补发朋友圈白",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "4768,253,1",
+    activity_unlock_need = "10210,125,1"
+  },
+  [140115] = {
+    activity_start_time = "2026/3/20 0:00:00",
+    activity_end_time = "2026/3/26  23:59:59",
+    activity_title = "25年周年庆补发朋友圈凌",
+    activity_recommend = 2,
+    activity_weight = 9999,
+    activity_repeat_cnt = 1,
+    activity_basic_rule = "6521,253,1",
+    activity_unlock_need = "10210,125,1"
+  },
+  [144001] = {
+    activity_start_time = "2025/9/25 5:00:00",
+    activity_end_time = "2025/10/5  23:59:59",
+    activity_title = "25年51混池监狱生活小游戏",
+    activity_recommend = 1,
+    activity_weight = 102,
+    activity_repeat_cnt = 1,
+    activity_resource = "evol://PrisonLifeActivity",
     activity_open_condition = "10212,125,1"
   },
   [401001] = {
@@ -19003,5 +21298,14 @@ During the event, tap [Launch Project] to plan your filming and enjoy an ordinar
     activity_weight = 102,
     activity_repeat_cnt = 1,
     activity_resource = "evol://spwish94001"
+  },
+  [401015] = {
+    activity_start_time = "2025/9/12 5:00:00",
+    activity_end_time = "2025/9/18  23:59:59",
+    activity_title = "夏日5R进包",
+    activity_recommend = 1,
+    activity_weight = 104,
+    activity_repeat_cnt = 1,
+    activity_resource = "https://www.facebook.com/MrLoveGame/"
   }
 }

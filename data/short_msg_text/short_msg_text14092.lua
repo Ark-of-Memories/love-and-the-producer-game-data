@@ -1,160 +1,157 @@
 module("short_msg_text14092", package.seeall)
 data = {
   [140920000] = {
-    content = "今早一登存钱APP，你家的“发财兔”跑来跟我的“闪电小熊猫”哭诉，说你昨天又没给吃的。",
+    content = "I opened the money-saving app this morning. Your \"Bunny Richie\" came complaining to my \"Red Panda Flash\" that you didn't feed her again yesterday.",
     text_time = 6450
   },
   [140920110] = {
-    title = "糟了，忙忘了",
-    content = "糟了，昨天太忙又忘了存钱了！今天我去存双份！",
+    title = "Oh no, I forgot.",
+    content = "Oh no, I was so busy yesterday that I forgot! I'm saving double today!",
     text_time = 3300
   },
   [140920111] = {
-    content = "看你昨晚没回我消息我就猜到了。",
+    content = "I guessed it when you didn't reply to my message last night.",
     text_time = 2250
   },
   [140920112] = {
-    content = "不过这个APP还挺有意思的。",
+    content = "But this app is actually pretty fun.",
     text_time = 2100
   },
   [140920113] = {
-    content = "小熊猫今天还跟我要补习费，说要去报美术班。",
+    content = "Today, the red panda asked me for a tutoring fee to sign up for an art class.",
     text_time = 3150
   },
   [140920120] = {
-    title = "你已经养成存钱习惯了",
-    content = "看来你已经通过这个“电子宠物投喂系统”养成存钱的好习惯了！",
+    title = "You've learned to save money.",
+    content = "Looks like you've learned the good habit of saving money from this \"virtual pet feeding system.\"",
     text_time = 4350
   },
   [140920121] = {
-    content = "我就是看看它们到底能憋出多少个存钱理由。",
+    content = "I'm just curious how many reasons they can come up with for me to save money.",
     text_time = 3000
   },
   [140920122] = {
-    content = "小熊猫今天还跟我说要去报补习班。",
+    content = "Today, the red panda told me he needed money for tutoring.",
     text_time = 2400
   },
   [140920123] = {
-    content = "照这样下去，下个月估计都能上大学了。",
+    content = "If this goes on, he'll go to the university next month.",
     text_time = 2700
   },
   [140920130] = {
-    title = "我现在就去",
-    content = "啊啊我现在就去！要是把发财兔饿病了还要额外花钱去医院看病！",
+    title = "I'm feeding her now!",
+    content = "Ah, I'm feeding her now! If she gets sick, I'll have to pay extra for her treatment at the hospital.",
     text_time = 4350
   },
-  [140920131] = {
-    content = "……真的假的？",
-    text_time = 1050
-  },
+  [140920131] = {content = "...No way.", text_time = 1050},
   [140920132] = {
-    content = "你这么一说，突然觉得我的小熊猫也不算太离谱。",
+    content = "Now that you say it, I suddenly think my red panda is alright.",
     text_time = 3300
   },
   [140920133] = {
-    content = "它今天才跟我说要去报兴趣班，但被我拒绝了。",
+    content = "He wanted to sign up for an extracurricular class today, but I turned him down.",
     text_time = 3150
   },
   [140920210] = {
-    title = "一分投资一分回报",
-    content = "一分投资一分回报，小熊猫有什么错，它只是想帮你多存点钱而已。",
+    title = "No pain, no gain.",
+    content = "No pain, no gain. The red panda did nothing wrong. He just wanted to save more money for you.",
     text_time = 4500
   },
   [140920211] = {
-    content = "那还真是辛苦它。",
+    content = "Kudos to him, then.",
     text_time = 1200
   },
   [140920212] = {
-    content = "不过之前它吵着要喝奶茶的时候，我自己也买了一杯。",
+    content = "But last time he wanted bubble tea, I bought one for myself, too.",
     text_time = 3600
   },
   [140920213] = {
-    content = "毕竟亏了谁也不能亏了自己。",
+    content = "Gotta treat yourself sometimes.",
     text_time = 1950
   },
   [140920220] = {
-    title = "我觉得挺有意思",
-    content = "我觉得这种“养宠存钱”的模式还挺有意思的，连带每天存钱都变得有盼头了！",
+    title = "I think it's fun.",
+    content = "I think it's fun to save money by keeping a pet like this. It makes money-saving less of a chore.",
     text_time = 5250
   },
   [140920221] = {
-    content = "是挺好玩的。",
+    content = "It is quite fun.",
     text_time = 900
   },
   [140920222] = {
-    content = "尤其是不知道晚饭要吃什么的时候，就上线看看它想吃什么。",
+    content = "Especially when I'm not sure what to eat for dinner, I just start the app and see what he wants.",
     text_time = 4050
   },
   [140920223] = {
-    content = "正好它一份我一份。",
+    content = "I'll get whatever he wants.",
     text_time = 1350
   },
   [140920230] = {
-    title = "我也给报了钢琴班",
-    content = "我前几天也给发财兔报了钢琴班，它回家之后还真的给我弹了一小段！",
+    title = "I signed her up for a piano class, too.",
+    content = "I signed the bunny up for a piano class the other day, and she actually played me a song after she got home!",
     text_time = 4650
   },
   [140920231] = {
-    content = "嚯，那我给它报个贝斯班吧。",
+    content = "Interesting. I'll sign the red panda up for a bass guitar class then.",
     text_time = 1950
   },
   [140920232] = {
-    content = "再另外给你的发财兔和小熊猫买几套“衣服”。",
+    content = "I'm also buying your bunny and the red panda more clothes.",
     text_time = 3150
   },
   [140920233] = {
-    content = "让它们组个乐队。",
+    content = "So they can form a band.",
     text_time = 1200
   },
   [140920310] = {
-    title = "存钱的同时也花钱了",
-    content = "感觉你在存钱的同时，也花了不少钱……",
+    title = "You're also spending more...",
+    content = "I feel like you're also spending more while saving money...",
     text_time = 2700
   },
   [140920311] = {
-    content = "钱这种东西够用就行。",
+    content = "It's fine as long as I've got enough saved.",
     text_time = 1500
   },
   [140920312] = {
-    content = "不过这游戏是不是还有实景拍照的功能来着？",
+    content = "By the way, doesn't the game have an AR camera feature?",
     text_time = 3000
   },
   [140920313] = {
-    content = "那下个月的旅游别忘了带上两个电子宠物，让它俩也感受一下度假的快乐。",
+    content = "Let's not forget our two pets on our vacation next month. They can share the fun.",
     text_time = 4950
   },
   [140920320] = {
-    title = "其实我也是……",
-    content = "其实我也是……每次看到我的发财兔买了什么好玩的、好吃的，我都会悄悄给自己买一份。",
+    title = "Actually, I do that too...",
+    content = "Actually, I do that too... Every time I buy toys or snacks for my bunny, I'll buy one in real life for myself.",
     text_time = 6150
   },
   [140920321] = {
-    content = "看来你的发财兔也顺带散财效果。",
+    content = "Guess your bunny has taught you how to spend money, too.",
     text_time = 2250
   },
   [140920322] = {
-    content = "不过它买的好吃的、好玩的你也享受了，不亏。",
+    content = "But at least you've enjoyed everything you bought yourself. Not a bad deal.",
     text_time = 3150
   },
   [140920323] = {
-    content = "但下次它还做了什么有意思的，别忘了带上我和小熊猫。",
+    content = "Next time when she does something fun, don't forget me and the red panda.",
     text_time = 3750
   },
   [140920330] = {
-    title = "花得有意义",
-    content = "但怎么说我们都玩了这游戏这么久，我觉得存下来的这笔钱得花得有意义些！",
+    title = "Meaningful spending.",
+    content = "We've played the game for so long. I feel like we need to spend our savings on something meaningful.",
     text_time = 5100
   },
   [140920331] = {
-    content = "行啊，前两天我买了个你会喜欢的老物件。",
+    content = "No problem. I just bought an antique that I think you'd like.",
     text_time = 2850
   },
   [140920332] = {
-    content = "小熊猫正好负责出资买个漂亮点的盒子把东西装上。",
+    content = "The red panda also chipped in and bought a beautiful box for it.",
     text_time = 3450
   },
   [140920333] = {
-    content = "这算是我和小熊猫的共同努力，到时候可别太感动。",
+    content = "It's a gift from me and the red panda. I'm sure you'll be so moved.",
     text_time = 3450
   },
   [140921000] = {
@@ -312,329 +309,329 @@ data = {
     text_time = 2250
   },
   [140922000] = {
-    content = "不是说要好人做到底，帮忙代拆礼物吗？怎么没动静了。",
+    content = "Didn't you say you were going to help me open all these presents? Why'd you disappear on me?",
     text_time = 3750
   },
   [140922110] = {
-    title = "拆得眼花缭乱",
-    content = "礼物太多啦，我拆得眼花缭乱~看来华锐的大家都很爱你哦。",
+    title = "I'm getting dizzy...",
+    content = "There are so many gifts. I'm getting dizzy just unwrapping them. Looks like everyone at LFG really loves you, huh?",
     text_time = 4050
   },
   [140922111] = {
-    content = "……夸大其词。",
+    content = "...You're exaggerating things.",
     text_time = 1050
   },
   [140922112] = {
-    content = "不过比起前几年，他们看起来确实没那么怕我了。",
+    content = "Though I guess people aren't as scared of me as they used to be.",
     text_time = 3300
   },
   [140922113] = {
-    content = "可能也多亏了$c的老板，让我耳濡目染地习得了一点亲和力。",
+    content = "Maybe hanging around the boss of $c rubbed off on me, and I picked up a bit of her charm.",
     text_time = 4200
   },
   [140922120] = {
-    title = "礼物好多呀",
-    content = "呜呜，我拆累了……但是你放心，我会坚持拆完的！",
+    title = "There are so many gifts!",
+    content = "Ughhh, I'm exhausted from all this unwrapping... But don't worry, I'm finishing this no matter what!",
     text_time = 3450
   },
   [140922121] = {
-    content = "在这种不必要的事上，某人的毅力总是出奇好。",
+    content = "Someone always goes all-in on the weirdest stuff.",
     text_time = 3150
   },
   [140922122] = {
-    content = "不过，说不定这份毅力可以感动老天。",
+    content = "Keep it up. Maybe all your efforts will earn you...",
     text_time = 2550
   },
   [140922123] = {
-    content = "给你一点意想不到的回报。",
+    content = "An unexpected reward.",
     text_time = 1800
   },
   [140922130] = {
-    title = "拆礼物太有意思了",
-    content = "因为拆礼物太有意思了~我感觉自己还能再拆五百个。",
+    title = "Unwrapping gifts is so much fun.",
+    content = "Unwrapping gifts is so much fun. I wanna unwrap 500 more gifts!",
     text_time = 3900
   },
   [140922131] = {
-    content = "……十个生日都攒不够那么多礼物给你拆。",
+    content = "...Gonna need at least ten more birthdays to collect that amount.",
     text_time = 2850
   },
   [140922132] = {
-    content = "建议你加快速度。",
+    content = "Pick up the pace, though.",
     text_time = 1200
   },
   [140922133] = {
-    content = "距离预约好的晚餐时间只剩半小时了。",
+    content = "We've only got half an hour till our dinner reservation.",
     text_time = 2550
   },
   [140922210] = {
-    title = "有个粉色包装盒",
-    content = "居然有一个粉色的包装盒~难道你宇宙第一甜的名号已经散播到了华锐吗？",
+    title = "There's a pink gift box.",
+    content = "No way, there's a pink gift box?! Don't tell me your \"sweetest person in the universe\" rep made it all the way to LFG?",
     text_time = 4950
   },
   [140922211] = {
-    content = "……这种事只要你不到处嚷嚷，就不会有人知道。",
+    content = "...Only if someone doesn't go around shouting it everywhere.",
     text_time = 3300
   },
   [140922212] = {
-    content = "再说了，比起在这里大惊小怪——",
+    content = "Anyway, instead of freaking out—",
     text_time = 2250
   },
   [140922213] = {
-    content = "笨蛋不如看看礼物盒上写着谁的名字。",
+    content = "Why don't you see whose name is on the tag?",
     text_time = 2550
   },
   [140922220] = {
-    title = "水晶球怎么在这里",
-    content = "哇……我在礼物店橱窗里看到过的水晶球怎么也在这里？",
+    title = "What's this snow globe doing here?",
+    content = "Wait a sec... isn't this the snow globe I saw in the shop window?",
     text_time = 3750
   },
   [140922221] = {
-    content = "也许是某人盯着橱窗里那颗水晶球的时候，一副懊恼的样子。",
+    content = "Maybe it saw a certain someone pouting at the window.",
     text_time = 4050
   },
   [140922222] = {
-    content = "还嘟囔着什么要不是手里东西太多，一定把它带回家。",
+    content = "Muttering how you'd take it home if your hands weren't full.",
     text_time = 3600
   },
   [140922223] = {
-    content = "它大概听到了，就自己长脚跑过来了。",
+    content = "Guess it heard you and grew legs.",
     text_time = 2550
   },
   [140922230] = {
-    title = "精致礼物混进来了",
-    content = "咦，总觉得有个特别精致的礼物混进来了？",
+    title = "This one looks super fancy.",
+    content = "Huh? This one looks super fancy. Was this always here?",
     text_time = 2850
   },
   [140922231] = {
-    content = "既然礼物的主人已经发现它了，不如直接打开。",
+    content = "Looks like the gift's rightful owner noticed it. Why don't you open it?",
     text_time = 3150
   },
   [140922232] = {
-    content = "不过友情提醒一下——",
+    content = "Just a friendly reminder, though.",
     text_time = 1500
   },
   [140922233] = {
-    content = "动作幅度不要太大，里面是易碎品。",
+    content = "Don't get too excited. It's fragile.",
     text_time = 2400
   },
   [140922310] = {
-    title = "你什么时候准备的",
-    content = "噗，你什么时候给我买的礼物呀？",
+    title = "When did you prepare it?",
+    content = "Wait, when did you get me a present??",
     text_time = 2250
   },
   [140922311] = {
-    content = "在你傻笑着帮我代收生日礼物的时候。",
+    content = "When you were grinning like a dummy while helping me collect all my birthday gifts.",
     text_time = 2550
   },
   [140922312] = {
-    content = "那时候觉得，既然收礼物能让你这么高兴——",
+    content = "I figured, if gifts make you that happy...",
     text_time = 3000
   },
   [140922313] = {
-    content = "那为什么不让你更高兴一点。",
+    content = "Why not make you even happier?",
     text_time = 1950
   },
   [140922320] = {
-    title = "是给我的礼物吗",
-    content = "哇，这是你给我的礼物吗？",
+    title = "Is this a gift for me?",
+    content = "Whoa, is this... from you?",
     text_time = 1800
   },
   [140922321] = {
-    content = "嗯，是给这位笨蛋“寿星”的。",
+    content = "Yep. For a certain \"birthday\" dummy.",
     text_time = 2100
   },
   [140922322] = {
-    content = "毕竟在小镇上的，这么多人都给你送了祝福。",
+    content = "Everyone in town's been showering you with love—",
     text_time = 3000
   },
   [140922323] = {
-    content = "我当然也该给你补上一份礼物。",
+    content = "Figured I should add to the pile.",
     text_time = 2100
   },
   [140922330] = {
-    title = "你怎么还给我买礼物",
-    content = "嘿嘿，你过生日怎么我也有礼物收呀~",
+    title = "Why did you get me a present?",
+    content = "Hehe. It's your birthday. Why am I getting a present?",
     text_time = 2550
   },
   [140922331] = {
-    content = "既然你也说了今天是我的生日——",
+    content = "Well, you did say it's my birthday.",
     text_time = 2250
   },
   [140922332] = {
-    content = "那寿星最大。",
+    content = "That means I get to do whatever I want—",
     text_time = 900
   },
   [140922333] = {
-    content = "自然想做什么就做什么。",
+    content = "And I wanted to give you something.",
     text_time = 1650
   },
   [140923000] = {
-    content = "你发我的这个链接是什么？",
+    content = "What's this link you sent me?",
     text_time = 1800
   },
   [140923110] = {
-    title = "新学的小技能！",
-    content = "新学了一个小技能，你点开可以抽签哦！",
+    title = "A new trick I learned!",
+    content = "Just picked up this cool little trick. Tap it and you can draw a fortune slip!",
     text_time = 2700
   },
   [140923111] = {
-    content = "“每日一签，好运相伴”……",
+    content = "One fortune a day, good vibes all the way...",
     text_time = 1950
   },
   [140923112] = {
-    content = "测运势的？",
+    content = "So it's like a luck-reading thing?",
     text_time = 750
   },
   [140923113] = {
-    content = "怎么还要输入名字。",
+    content = "Why do I have to put in my name?",
     text_time = 1350
   },
   [140923120] = {
-    title = "点开有惊喜～",
-    content = "你点开就知道了，我藏了惊喜在里面～",
+    title = "Just tap it and see!",
+    content = "Just tap it and see! I hid a surprise in there for you!",
     text_time = 2550
   },
   [140923121] = {
-    content = "抽签游戏？",
+    content = "A fortune game?",
     text_time = 750
   },
   [140923122] = {
-    content = "界面这么花哨，很有某人的风格。",
+    content = "The flashy design really screams a certain someone's style.",
     text_time = 2250
   },
   [140923123] = {
-    content = "必须要输入名字？",
+    content = "Why do I need to put in my name?",
     text_time = 1200
   },
   [140923130] = {
-    title = "快体验一下黑科技！",
-    content = "是我跟同事学的“黑科技”，诚邀你体验。",
+    title = "Check out this cool thing!",
+    content = "It's this cool thing I learned from a coworker. Try it out!",
     text_time = 2850
   },
   [140923131] = {
-    content = "点开了，是抽签？",
+    content = "Okay, I opened it. Looks like some kind of fortune game.",
     text_time = 1200
   },
   [140923132] = {
-    content = "点击签筒怎么没反应？",
+    content = "Why's nothing happening?",
     text_time = 1500
   },
   [140923133] = {
-    content = "……看到了，要先输入姓名。",
+    content = "...Oh, never mind. Looks like you have to enter your name first.",
     text_time = 1950
   },
   [140923210] = {
-    title = "名字是彩蛋哦。",
-    content = "一定要输入名字，有彩蛋的。",
+    title = "Your name activates an Easter egg.",
+    content = "You have to enter your name! There's a hidden Easter egg in there.",
     text_time = 1950
   },
   [140923211] = {
-    content = "嗯，填好了。",
+    content = "I just did.",
     text_time = 900
   },
   [140923212] = {
-    content = "……你的抽签不是只抽一支？",
+    content = "...Isn't it supposed to give out only one fortune?",
     text_time = 1950
   },
   [140923213] = {
-    content = "怎么一下子显示了十条结果。",
+    content = "Why did I just get ten?",
     text_time = 1950
   },
   [140923220] = {
-    title = "请务必输入名字！",
-    content = "名字会影响结果哦。",
+    title = "Make sure you put in your name!",
+    content = "The name you put in actually changes the results!",
     text_time = 1800
   },
   [140923221] = {
-    content = "虽然不知道你指的影响是什么。",
+    content = "Not totally sure what that means...",
     text_time = 2100
   },
   [140923222] = {
-    content = "但一次出现十条结果，是正常的吗？",
+    content = "But it just gave me ten fortunes in one go. Is that normal?",
     text_time = 2400
   },
   [140923223] = {
-    content = "还是说，这个名字能“走后门”？",
+    content = "Or did this name just break the game?",
     text_time = 2250
   },
   [140923230] = {
-    title = "毕竟这不是普通的抽签。",
-    content = "这可不是普通的抽签游戏，需要名字来“召唤”。",
+    title = "This isn't a typical fortune game.",
+    content = "This isn't a typical fortune game. It needs your name to \"summon\" the results.",
     text_time = 3300
   },
   [140923231] = {
-    content = "抽好了，的确不普通。",
+    content = "Just did. It's certainly different.",
     text_time = 1500
   },
   [140923232] = {
-    content = "普通的只能抽一签，你的游戏一次抽十签。",
+    content = "Usually, games like these only give out one fortune, but yours gives ten in one go.",
     text_time = 2850
   },
   [140923233] = {
-    content = "没想到这个名字的“召唤力”这么厉害。",
+    content = "Didn't know my name had such summoning power.",
     text_time = 2700
   },
   [140923310] = {
-    title = "什么！出Bug了吗！",
-    content = "什么！糟了，一定是我哪里搞错了……",
+    title = "What?! Oh no!",
+    content = "What?! Oh no, I must've messed something up...",
     text_time = 2550
   },
   [140923311] = {
-    content = "果然，没见过这么慷慨的抽签。",
+    content = "Figured as much. Never seen a fortune game this generous before.",
     text_time = 2100
   },
   [140923312] = {
-    content = "不过，既然抽出来了，这十句告白我就都收下了。",
+    content = "Well, now I have ten love confessions from you. I might as well keep them.",
     text_time = 3300
   },
   [140923313] = {
-    content = "鉴于我输入的是你的名字……",
+    content = "And considering I typed your name instead of mine...",
     text_time = 1950
   },
   [140923314] = {
-    content = "接下来这十天，不如换你来找我抽签。",
+    content = "Why don't you come draw one from me each day for the next ten days?",
     text_time = 2550
   },
   [140923320] = {
-    title = "本来想给你好几天的惊喜的……",
-    content = "啊啊啊，怎么“泄题”了！原本想给你好几天的惊喜呢！",
+    title = "I was gonna surprise you over the next few days...",
+    content = "Nooo! I was planning to surprise you in the coming days!",
     text_time = 3750
   },
   [140923321] = {
-    content = "技术欠佳，真诚倒是很足。",
+    content = "Your tech skills might be questionable, but the effort's adorable.",
     text_time = 1800
   },
   [140923322] = {
-    content = "原来你准备的惊喜，是每天一句告白。",
+    content = "So, your surprise was a love confession for each day?",
     text_time = 2550
   },
   [140923323] = {
-    content = "看来输入了笨蛋的名字，倒是做对了。",
+    content = "Looks like I did the right thing by putting in your name instead of mine.",
     text_time = 2550
   },
   [140923324] = {
-    content = "这个惊喜，就当我们共享了。",
+    content = "Consider it a pleasant surprise for both of us now.",
     text_time = 1950
   },
   [140923330] = {
-    title = "怪我技术太差……",
-    content = "……是我技术太差，不小心设置错了TAT你不要笑话我！",
+    title = "I messed it up!",
+    content = "...Ugh, I totally botched the setup. TAT Please don't make fun of me!",
     text_time = 3900
   },
   [140923331] = {
-    content = "无伤大雅的失误，反倒是个惊喜。",
+    content = "A blunder, but a pleasant surprise nonetheless.",
     text_time = 2250
   },
   [140923332] = {
-    content = "一次抽到十句告白，就当是笨蛋的好运祝福了。",
+    content = "Pulling ten confessions at once... I'll take it as a certain dummy's good-luck blessing.",
     text_time = 3150
   },
   [140923333] = {
-    content = "毕竟，我输入的是你的名字。",
+    content = "That, and I put in your name instead of mine.",
     text_time = 1950
   },
   [140923334] = {
-    content = "“$u，遇到你就是幸运的开始”。",
+    content = "\"$u, meeting you has been the start of everything beautiful.\"",
     text_time = 2400
   },
   [140924000] = {

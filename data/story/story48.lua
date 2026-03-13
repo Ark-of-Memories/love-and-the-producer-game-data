@@ -8984,6 +8984,18 @@ story48 = {
       sentence = "哇！！！",
       next = {0}
     }
+  },
+  [832100] = {
+    [0] = {
+      beijing = 0,
+      dialog = 6,
+      hide_magnifier = 1,
+      music = "pause",
+      renwu = "npc",
+      sentence = "  ",
+      video = "bq5_pv_2024",
+      next = {0}
+    }
   }
 }
 return story48

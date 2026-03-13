@@ -11,7 +11,7 @@ data = {
       3,
       4
     },
-    diy_name = "生日派对",
+    diy_name = "Birthday Party",
     resource_name = {
       101011,
       101012,
@@ -24,7 +24,7 @@ data = {
       10301,
       10401
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     initial_put = 1,
     diy_type = 1
   },
@@ -34,8 +34,8 @@ data = {
     diy_icon = 10104,
     get_type = 1,
     page_id = {1},
-    diy_name = "心意蛋糕",
-    unlock_des = "李泽言生日",
+    diy_name = "Heartfelt Cake",
+    unlock_des = "Victor's Birthday",
     diy_type = 2
   },
   [10110] = {
@@ -48,7 +48,7 @@ data = {
       2,
       4
     },
-    diy_name = "梦幻气球",
+    diy_name = "Whispering Gallery",
     resource_name = {
       1011011,
       1011012,
@@ -65,7 +65,7 @@ data = {
       10204,
       10404
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 4
   },
   [10114] = {
@@ -74,10 +74,10 @@ data = {
     diy_icon = 10114,
     get_type = 3,
     page_id = {1},
-    diy_name = "心语花廊",
+    diy_name = "Sweet Glimmer",
     resource_name = {1011401},
     resource_slot = {10107},
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 5
   },
   [10116] = {
@@ -86,7 +86,7 @@ data = {
     diy_icon = 10116,
     get_type = 3,
     page_id = {1, 4},
-    diy_name = "甜蜜微光",
+    diy_name = "Dreamy Balloon",
     resource_name = {
       1011601,
       1011641,
@@ -99,7 +99,7 @@ data = {
       10403,
       10405
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 5
   },
   [10117] = {
@@ -108,7 +108,7 @@ data = {
     diy_icon = 10117,
     get_type = 2,
     page_id = {1, 2},
-    diy_name = "芳香花丛",
+    diy_name = "Fragrant Blossoms",
     resource_name = {
       1011711,
       1011712,
@@ -121,7 +121,7 @@ data = {
       10106,
       10202
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 4
   },
   [10118] = {
@@ -130,7 +130,7 @@ data = {
     diy_icon = 10118,
     get_type = 2,
     page_id = {1, 2},
-    diy_name = "缤纷礼盒",
+    diy_name = "Vibrant Giftbox",
     resource_name = {
       1011811,
       1011812,
@@ -145,7 +145,7 @@ data = {
       10106,
       10203
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 4
   },
   [10201] = {
@@ -159,7 +159,7 @@ data = {
       3,
       4
     },
-    diy_name = "浪漫旋律",
+    diy_name = "Romantic Melody",
     resource_name = {
       102011,
       102012,
@@ -172,7 +172,7 @@ data = {
       10301,
       10401
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     initial_put = 2,
     diy_type = 1
   },
@@ -182,8 +182,8 @@ data = {
     diy_icon = 10202,
     get_type = 2,
     page_id = {2},
-    diy_name = "玫瑰唱片机",
-    unlock_des = "李泽言生日",
+    diy_name = "Rose Record Player",
+    unlock_des = "Victor's Birthday",
     diy_type = 2
   },
   [10203] = {
@@ -192,7 +192,7 @@ data = {
     diy_icon = 10203,
     get_type = 3,
     page_id = {2, 3},
-    diy_name = "安稳入梦",
+    diy_name = "Peaceful Sleep",
     resource_name = {
       1020321,
       1020331,
@@ -207,7 +207,7 @@ data = {
       10308,
       10307
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 3,
     pop_img_res = "back_25birth_paperquestions_picture1"
   },
@@ -217,10 +217,10 @@ data = {
     diy_icon = 10204,
     get_type = 3,
     page_id = {2},
-    diy_name = "瓣瓣心香",
+    diy_name = "Scented Petal",
     resource_name = {1020421},
     resource_slot = {10206},
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 5
   },
   [10205] = {
@@ -229,10 +229,10 @@ data = {
     diy_icon = 10205,
     get_type = 3,
     page_id = {2},
-    diy_name = "心动舞步",
+    diy_name = "Fluttering Dance",
     resource_name = {1020521},
     resource_slot = {10207},
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 5
   },
   [10206] = {
@@ -246,7 +246,7 @@ data = {
       3,
       4
     },
-    diy_name = "玫瑰藤蔓",
+    diy_name = "Rose Vines",
     resource_name = {
       1020611,
       1020612,
@@ -267,7 +267,7 @@ data = {
       10304,
       10404
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 4
   },
   [10301] = {
@@ -281,7 +281,7 @@ data = {
       3,
       4
     },
-    diy_name = "海滨小镇",
+    diy_name = "Seaside Town",
     resource_name = {
       103011,
       103012,
@@ -294,7 +294,7 @@ data = {
       10301,
       10401
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     initial_put = 3,
     diy_type = 1
   },
@@ -304,8 +304,8 @@ data = {
     diy_icon = 10302,
     get_type = 1,
     page_id = {3},
-    diy_name = "与爱同行",
-    unlock_des = "李泽言生日",
+    diy_name = "Walking with Love",
+    unlock_des = "Victor's Birthday",
     diy_type = 2
   },
   [10303] = {
@@ -314,8 +314,8 @@ data = {
     diy_icon = 10303,
     get_type = 1,
     page_id = {3},
-    diy_name = "时光守望",
-    unlock_des = "李泽言生日",
+    diy_name = "Time Watcher",
+    unlock_des = "Victor's Birthday",
     diy_type = 2
   },
   [10304] = {
@@ -324,8 +324,8 @@ data = {
     diy_icon = 10304,
     get_type = 1,
     page_id = {3},
-    diy_name = "玫瑰花窗",
-    unlock_des = "李泽言生日",
+    diy_name = "Rose Window",
+    unlock_des = "Victor's Birthday",
     diy_type = 2
   },
   [10305] = {
@@ -334,8 +334,8 @@ data = {
     diy_icon = 10305,
     get_type = 1,
     page_id = {3},
-    diy_name = "美味灵感",
-    unlock_des = "李泽言生日",
+    diy_name = "Delicious Inspiration",
+    unlock_des = "Victor's Birthday",
     diy_type = 2
   },
   [10306] = {
@@ -344,7 +344,7 @@ data = {
     diy_icon = 10306,
     get_type = 3,
     page_id = {2, 3},
-    diy_name = "心动时刻",
+    diy_name = "Heartfelt Moment",
     resource_name = {
       1030621,
       1030631,
@@ -359,7 +359,7 @@ data = {
       10308,
       10307
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 3,
     pop_img_res = "back_25birth_paperquestions_picture2"
   },
@@ -369,7 +369,7 @@ data = {
     diy_icon = 10307,
     get_type = 3,
     page_id = {2, 3},
-    diy_name = "无声占据",
+    diy_name = "Silent Claim",
     resource_name = {
       1030721,
       1030731,
@@ -384,7 +384,7 @@ data = {
       10308,
       10307
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 3,
     pop_img_res = "back_25birth_paperquestions_picture3"
   },
@@ -394,10 +394,10 @@ data = {
     diy_icon = 10308,
     get_type = 3,
     page_id = {3},
-    diy_name = "兔子大厨",
+    diy_name = "Heartbeat Exchange",
     resource_name = {1030831},
     resource_slot = {10312},
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 5
   },
   [10309] = {
@@ -406,7 +406,7 @@ data = {
     diy_icon = 10309,
     get_type = 3,
     page_id = {2, 3},
-    diy_name = "幸福瞬间",
+    diy_name = "Moment of Happiness",
     resource_name = {
       1030921,
       1030931,
@@ -421,7 +421,7 @@ data = {
       10308,
       10307
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 3,
     pop_img_res = "back_25birth_paperquestions_picture5"
   },
@@ -431,10 +431,10 @@ data = {
     diy_icon = 10310,
     get_type = 3,
     page_id = {3},
-    diy_name = "饿饿，饭饭",
+    diy_name = "Food Please",
     resource_name = {1031031},
     resource_slot = {10309},
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 5
   },
   [10311] = {
@@ -443,10 +443,10 @@ data = {
     diy_icon = 10311,
     get_type = 3,
     page_id = {3},
-    diy_name = "如愿灯火",
+    diy_name = "Wishful Lights",
     resource_name = {1031131},
     resource_slot = {10310},
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 5
   },
   [10312] = {
@@ -455,10 +455,10 @@ data = {
     diy_icon = 10312,
     get_type = 3,
     page_id = {3},
-    diy_name = "亲密旅人",
+    diy_name = "Intimate Traveler",
     resource_name = {1031231},
     resource_slot = {10311},
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 5
   },
   [10313] = {
@@ -467,7 +467,7 @@ data = {
     diy_icon = 10313,
     get_type = 3,
     page_id = {2, 3},
-    diy_name = "交换心跳",
+    diy_name = "Bunny Chef",
     resource_name = {
       1031321,
       1031331,
@@ -482,7 +482,7 @@ data = {
       10308,
       10307
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 3,
     pop_img_res = "back_25birth_paperquestions_picture4"
   },
@@ -492,10 +492,10 @@ data = {
     diy_icon = 10314,
     get_type = 2,
     page_id = {2, 3},
-    diy_name = "华锐游轮",
+    diy_name = "LFG Cruise Ship",
     resource_name = {1031421, 1031431},
     resource_slot = {10204, 10303},
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 4
   },
   [10315] = {
@@ -504,7 +504,7 @@ data = {
     diy_icon = 10315,
     get_type = 2,
     page_id = {2, 3},
-    diy_name = "浪花朵朵",
+    diy_name = "Fluttering Waves",
     resource_name = {
       1031521,
       1031531,
@@ -515,7 +515,7 @@ data = {
       10302,
       10304
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 4
   },
   [10401] = {
@@ -529,7 +529,7 @@ data = {
       3,
       4
     },
-    diy_name = "适意旅行",
+    diy_name = "Leisure Trip",
     resource_name = {
       104011,
       104012,
@@ -542,7 +542,7 @@ data = {
       10301,
       10401
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     initial_put = 4,
     diy_type = 1
   },
@@ -552,8 +552,8 @@ data = {
     diy_icon = 10402,
     get_type = 1,
     page_id = {4},
-    diy_name = "瑰色心声",
-    unlock_des = "李泽言生日",
+    diy_name = "Rosy Words",
+    unlock_des = "Victor's Birthday",
     diy_type = 2
   },
   [10403] = {
@@ -562,8 +562,8 @@ data = {
     diy_icon = 10403,
     get_type = 1,
     page_id = {4},
-    diy_name = "历历在心",
-    unlock_des = "李泽言生日",
+    diy_name = "Vivid in Memory",
+    unlock_des = "Victor's Birthday",
     diy_type = 2
   },
   [10404] = {
@@ -572,10 +572,10 @@ data = {
     diy_icon = 10404,
     get_type = 3,
     page_id = {1, 4},
-    diy_name = "旅行印迹",
+    diy_name = "Journey's Memory",
     resource_name = {1040411, 1040441},
     resource_slot = {10107, 10406},
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 5
   },
   [10405] = {
@@ -584,10 +584,10 @@ data = {
     diy_icon = 10405,
     get_type = 3,
     page_id = {4},
-    diy_name = "金枝玉叶",
+    diy_name = "Noble Grandeur",
     resource_name = {1040541},
     resource_slot = {10407},
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 5
   },
   [10406] = {
@@ -596,7 +596,7 @@ data = {
     diy_icon = 10406,
     get_type = 2,
     page_id = {1, 4},
-    diy_name = "玫瑰香薰",
+    diy_name = "Rose Fragrance",
     resource_name = {
       1040611,
       1040641,
@@ -609,7 +609,7 @@ data = {
       10403,
       10405
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 4
   },
   [10407] = {
@@ -618,7 +618,7 @@ data = {
     diy_icon = 10407,
     get_type = 2,
     page_id = {4},
-    diy_name = "美味果酱",
+    diy_name = "Delicious Jam",
     resource_name = {
       1040741,
       1040742,
@@ -629,7 +629,7 @@ data = {
       10403,
       10405
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 4
   },
   [10408] = {
@@ -638,10 +638,10 @@ data = {
     diy_icon = 10408,
     get_type = 2,
     page_id = {2, 4},
-    diy_name = "甜蜜香槟",
+    diy_name = "Sweet Champagne",
     resource_name = {1040821, 1040841},
     resource_slot = {10203, 10404},
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 4
   },
   [10409] = {
@@ -650,7 +650,7 @@ data = {
     diy_icon = 10409,
     get_type = 2,
     page_id = {4},
-    diy_name = "焦糖曲奇",
+    diy_name = "Caramel Cookie",
     resource_name = {
       1040941,
       1040942,
@@ -661,7 +661,7 @@ data = {
       10403,
       10405
     },
-    unlock_des = "李泽言生日",
+    unlock_des = "Victor's Birthday",
     diy_type = 4
   }
 }

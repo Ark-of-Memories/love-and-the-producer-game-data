@@ -825,61 +825,61 @@ data = {
       [1] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "李泽言，你在干嘛？",
+        sentence = "Victor, what are you doing?",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 1,
-        sentence = "换琴弦。",
+        sentence = "Changing the strings.",
         trigger_mode = 2
       },
       [3] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "Σ( ° △ °|||)︴你已经进步到可以自己换琴弦的地步了吗？",
+        sentence = "Σ( ° △ °|||)︴ You can change strings by yourself now?",
         trigger_mode = 2
       },
       [4] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 1,
-        sentence = "如果不是某人好奇……",
+        sentence = "If a certain someone hadn't been curious...",
         trigger_mode = 2
       },
       [5] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 1,
-        sentence = "多大力才能让二胡拉出锯木头的声音。",
+        sentence = "about how much force it takes to make an erhu sound like it's sawing wood...",
         trigger_mode = 2
       },
       [6] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 1,
-        sentence = "它也不至于断得这么快。",
+        sentence = "the string would have never snapped this soon.",
         trigger_mode = 2
       },
       [7] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 1,
-        sentence = "更不需要我在大半夜上网搜索如何更换二胡琴弦。",
+        sentence = "And I wouldn't be up in the middle of the night googling how to replace erhu strings.",
         trigger_mode = 2
       },
       [8] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "……原来兜兜转转，是我的错呀。",
+        sentence = "...So it's my fault after all.",
         trigger_mode = 2
       },
       [9] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "好吧，为了弥补我的过错，我来帮你一起吧！",
+        sentence = "Alright, to make up for it, let me help you!",
         trigger_mode = 2
       },
       [10] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "是这样子缠吗？",
+        sentence = "Is this how you wrap it?",
         animation_mode = 2,
         animation_res = "15054/anime_c.prefab",
         trigger_mode = 2
@@ -887,7 +887,7 @@ data = {
       [11] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 1,
-        sentence = "你缠住我的手指了。",
+        sentence = "You just tied up my finger.",
         animation_mode = 1,
         animation_res = "15054/anime_c.prefab",
         trigger_mode = 2
@@ -895,7 +895,7 @@ data = {
       [12] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "Σ(っ °Д °;)っ对不起！是不是很痛啊？",
+        sentence = "Σ(っ °Д °;)っ Sorry! Does it hurt?",
         animation_mode = 1,
         animation_res = "15054/anime_c.prefab",
         trigger_mode = 2
@@ -903,7 +903,7 @@ data = {
       [13] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 1,
-        sentence = "还好，比不上你大呼小叫把我耳朵震痛的感觉。",
+        sentence = "I'm good. It hurts way less than you screaming in my ear.",
         animation_mode = 1,
         animation_res = "15054/anime_c.prefab",
         trigger_mode = 2
@@ -911,7 +911,7 @@ data = {
       [14] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "……你还开玩笑，明明手指都红肿了！",
+        sentence = "...Your finger's all red! This is no time to be joking around!",
         animation_mode = 1,
         animation_res = "15054/anime_c.prefab",
         trigger_mode = 2
@@ -919,7 +919,7 @@ data = {
       [15] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 1,
-        sentence = "不要大惊小怪，继续吧。",
+        sentence = "Quit making a fuss. Let's keep going.",
         animation_mode = 1,
         animation_res = "15054/anime_c.prefab",
         trigger_mode = 2
@@ -927,7 +927,7 @@ data = {
       [16] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "QAQ可你还要拉二胡呢，要不我帮你吹吹吧？",
+        sentence = "QAQ But you still need your fingers to play. Should I blow on it?",
         animation_mode = 1,
         animation_res = "15054/anime_c.prefab",
         trigger_mode = 2
@@ -935,7 +935,7 @@ data = {
       [17] = {
         qq_res = "15054/anime_c.prefab",
         speak_role_id = 1,
-        sentence = "……笨蛋，不是那根手指。",
+        sentence = "...Dummy, it's not that finger.",
         animation_mode = 1,
         animation_res = "15054/anime_c.prefab",
         trigger_mode = 2
@@ -945,19 +945,19 @@ data = {
       [1] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "《音乐理论基础》？",
+        sentence = "Music Theory 101?",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "你都有弹钢琴的基础了，还需要看这个吗？",
+        sentence = "You already play piano. Do you really need to study this?",
         trigger_mode = 2
       },
       [3] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 1,
-        sentence = "理论和实践毕竟不一样，",
+        sentence = "Theory's different from practice.",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -965,7 +965,7 @@ data = {
       [4] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 1,
-        sentence = "过一遍乐理，能帮我理解二胡的乐谱。",
+        sentence = "Reviewing the basics helps me read erhu sheet music better.",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -973,7 +973,7 @@ data = {
       [5] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "不愧是李总呀，做什么都对自己高要求！",
+        sentence = "That's the awesome Mr. Victor I know! You're always so strict with yourself!",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -981,7 +981,7 @@ data = {
       [6] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "你为了项目这么努力，我也得为你做点什么才行。",
+        sentence = "Since you're working so hard, I should do something to help too.",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -989,7 +989,7 @@ data = {
       [7] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "有了！(≧∇≦)ﾉ",
+        sentence = "I got it! (≧∇≦)ﾉ",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -997,7 +997,7 @@ data = {
       [8] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 1,
-        sentence = "你在干什么？",
+        sentence = "What are you up to now?",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -1005,7 +1005,7 @@ data = {
       [9] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "我在放钢琴曲呀。",
+        sentence = "Playing some piano music!",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -1013,7 +1013,7 @@ data = {
       [10] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "我听说学习的时候放钢琴曲，有助于提高专注力。",
+        sentence = "I heard listening to the piano while studying helps you focus.",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -1021,7 +1021,7 @@ data = {
       [11] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 1,
-        sentence = "你说的是特定的曲子。你现在放的这首更适合催眠。",
+        sentence = "That only works with certain tracks. What you're playing right now sounds more like a lullaby.",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -1029,7 +1029,7 @@ data = {
       [12] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "啊？那你现在困了吗？",
+        sentence = "Huh? Are you getting sleepy?",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -1037,7 +1037,7 @@ data = {
       [13] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 1,
-        sentence = "困了。",
+        sentence = "Yeah.",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -1045,7 +1045,7 @@ data = {
       [14] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "Σ(っ °Д °;)っ那、那我换一首，你等一下啊！",
+        sentence = "Σ(っ °Д °;)っ O-Okay! I'll change it right now!",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -1053,7 +1053,7 @@ data = {
       [15] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "……怎么感觉这一首更催眠？李泽言你可别睡着啊。",
+        sentence = "...Wait, this one sounds even more like a lullaby. Victor, don't fall asleep!",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -1061,7 +1061,7 @@ data = {
       [16] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 1,
-        sentence = "不用麻烦。",
+        sentence = "No worries.",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -1069,7 +1069,7 @@ data = {
       [17] = {
         qq_res = "15054/anime_d.prefab",
         speak_role_id = 1,
-        sentence = "看到笨蛋傻里傻气的模样，我现在很有精神。",
+        sentence = "Seeing you run around like a little dummy actually keeps me pretty awake.",
         animation_mode = 1,
         animation_res = "15054/anime_d.prefab",
         trigger_mode = 2
@@ -1079,19 +1079,19 @@ data = {
       [1] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "看你为了这个项目这么认真，我确实很感动……",
+        sentence = "You're working so hard... I'm really touched...",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "但来VIP包厢听二胡名家演奏，有点太浪费了吧？",
+        sentence = "But isn't it a bit much to get a VIP box just to listen to an erhu master?",
         trigger_mode = 2
       },
       [3] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "毕竟你要学的是入门级曲目，不需要向名家学习技巧。",
+        sentence = "You're only learning the entry-level pieces. You don't need that kind of advanced technique.",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1099,7 +1099,7 @@ data = {
       [4] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 1,
-        sentence = "基本功都没打扎实就来学技巧，我没那么自不量力。",
+        sentence = "I'm not crazy enough to skip the basics and jump straight into advanced techniques.",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1107,7 +1107,7 @@ data = {
       [5] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "嗯？难不成你已经爱上了二胡？",
+        sentence = "Wait... Don't tell me you've fallen in love with the erhu already?",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1115,7 +1115,7 @@ data = {
       [6] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 1,
-        sentence = "它的确很有魅力，但我想学的是名家的台风。",
+        sentence = "It is pretty charming, yeah. But I want to learn the master's stage presence.",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1123,7 +1123,7 @@ data = {
       [7] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "台风？",
+        sentence = "Stage presence?",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1131,7 +1131,7 @@ data = {
       [8] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 1,
-        sentence = "某人就给了我一个多月的练习时间。",
+        sentence = "A certain someone only gave me a month or so to practice.",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1139,7 +1139,7 @@ data = {
       [9] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 1,
-        sentence = "我只能保证技巧上不出错。",
+        sentence = "I can promise I'll make no mistakes.",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1147,7 +1147,7 @@ data = {
       [10] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 1,
-        sentence = "但如果台风够自然，也能给观众一种我很娴熟的错觉。",
+        sentence = "But a natural stage presence can also let the audience think I'm really skilled.",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1155,7 +1155,7 @@ data = {
       [11] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 1,
-        sentence = "内容不够时，必要的包装也很重要。",
+        sentence = "When content falls short, good packaging helps.",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1163,7 +1163,7 @@ data = {
       [12] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "我悟了，李总。",
+        sentence = "Victor, I've figured it out!",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1171,7 +1171,7 @@ data = {
       [13] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "要不你把昨天毙掉的策划案还给我吧？",
+        sentence = "Think you can give me back the proposal you rejected yesterday?",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1179,7 +1179,7 @@ data = {
       [14] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "也许我包装包装，它还有救呢？(´・ω・`)",
+        sentence = "Maybe I can repackage it and save it? (´・ω・`)",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1187,7 +1187,7 @@ data = {
       [15] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 1,
-        sentence = "很多东西再怎么包装都会露出马脚。",
+        sentence = "Some things show their flaws no matter how much you dress them up.",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1195,7 +1195,7 @@ data = {
       [16] = {
         qq_res = "15054/anime_e.prefab",
         speak_role_id = 1,
-        sentence = "▼ ᴗ ▼比如某人的小聪明。",
+        sentence = "▼ᴗ▼ Like someone's little tricks.",
         animation_mode = 1,
         animation_res = "15054/anime_e.prefab",
         trigger_mode = 2
@@ -1205,85 +1205,85 @@ data = {
       [1] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 1,
-        sentence = "$u，过来一下。",
+        sentence = "$u, come here.",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "怎么啦……诶？你为什么抓着布丁？",
+        sentence = "What's up... huh? Why are you holding Pudding?",
         trigger_mode = 2
       },
       [3] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 1,
-        sentence = "它最近胆子大了不少，是该学学规矩了。",
+        sentence = "He's been putting his \"paws\" over the line lately. Time for a little discipline.",
         trigger_mode = 2
       },
       [4] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "嚯，它做了什么坏事，让你这么生气？",
+        sentence = "Oh? What did he do to get you this worked up?",
         trigger_mode = 2
       },
       [5] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 1,
-        sentence = "你看看琴盒上的抓痕。",
+        sentence = "Take a look at the scratches on my instrument case.",
         trigger_mode = 2
       },
       [6] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "天啊，布丁把你的琴盒当成猫抓板了吗？",
+        sentence = "Oh no, Pudding used your case as a scratching post?",
         trigger_mode = 2
       },
       [7] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "坏猫咪，你……李泽言，它刚才是对我眨眼睛了吗？",
+        sentence = "Bad kitty! You... Victor, did he just wink at me?",
         trigger_mode = 2
       },
       [8] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 1,
-        sentence = "嗯，还伸舌头舔了你的手。",
+        sentence = "Yeah, and he even licked your hand.",
         trigger_mode = 2
       },
       [9] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "呜呜呜好可爱~猫好，琴盒坏，一定是琴盒的错！",
+        sentence = "Aww he's too cute. You're a good boy. It's the case's fault!",
         trigger_mode = 2
       },
       [10] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "你每天琴盒一提就很晚回家，布丁肯定是吃醋了！",
+        sentence = "Every time you bring the case, you come home late. Pudding's just jealous!",
         trigger_mode = 2
       },
       [11] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 1,
-        sentence = "我很晚回家是为了不给某人掉链子，在努力练习。",
+        sentence = "I stayed late because I didn't want to disappoint a certain someone.",
         trigger_mode = 2
       },
       [12] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 1,
-        sentence = "就算它吃醋，也该吃某人的醋。",
+        sentence = "If he should be jealous of anything, it's you.",
         trigger_mode = 2
       },
       [13] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "布丁才不会吃我的醋呢，对不对？",
+        sentence = "Pudding wouldn't get jealous of me, right?",
         trigger_mode = 2
       },
       [14] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "啊！坏猫猫，居然想抓我！ (`д′) ",
+        sentence = "Ah! Bad kitty, how dare you try to scratch me! (`д′) ",
         animation_mode = 2,
         animation_res = "15054/anime_f.prefab",
         trigger_mode = 2
@@ -1291,7 +1291,7 @@ data = {
       [15] = {
         qq_res = "15054/anime_f.prefab",
         speak_role_id = 1,
-        sentence = "……你们两个要打去客厅打，别打扰我练习。",
+        sentence = "...You two can fight in the living room. Don't interrupt my practice.",
         trigger_mode = 2
       }
     },
@@ -1299,31 +1299,31 @@ data = {
       [1] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "锵锵锵～＼(^▽^)／送你的礼物！喜欢吗？",
+        sentence = "Ta-da!＼(^▽^)／ A gift for you! You like it?",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 1,
-        sentence = "怎么突然想送我按摩椅？",
+        sentence = "What's with the surprise massage chair?",
         trigger_mode = 2
       },
       [3] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "我这不是看你努力，想犒劳一下你嘛~",
+        sentence = "You've been working so hard. I thought you deserved a treat.",
         trigger_mode = 2
       },
       [4] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "快来放松一下！",
+        sentence = "Come on, relax a bit!",
         trigger_mode = 2
       },
       [5] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 1,
-        sentence = "……",
+        sentence = "...",
         animation_mode = 2,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1331,7 +1331,7 @@ data = {
       [6] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "怎么样？是不是很舒服？",
+        sentence = "How is it? Feels good, huh?",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1339,7 +1339,7 @@ data = {
       [7] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 1,
-        sentence = "还不错。",
+        sentence = "Not bad.",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1347,7 +1347,7 @@ data = {
       [8] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "这可是我在店里一一试坐后选出的哦！",
+        sentence = "I tested so many in the store before picking this one!",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1355,7 +1355,7 @@ data = {
       [9] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "而且它还有个特别的功能，你等一下——",
+        sentence = "And it's got a special feature. Wait a sec—",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1363,7 +1363,7 @@ data = {
       [10] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 1,
-        sentence = "……是我幻听了么？哪里传来的二胡乐？",
+        sentence = "...Am I hearing erhu music?",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1371,7 +1371,7 @@ data = {
       [11] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "嘿嘿，你没听错。",
+        sentence = "You're not imagining it!",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1379,7 +1379,7 @@ data = {
       [12] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "这个按摩椅可以连接蓝牙。",
+        sentence = "This chair connects via Bluetooth.",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1387,7 +1387,7 @@ data = {
       [13] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "这样你在放松时也可以听二胡乐啦！",
+        sentence = "So now you can relax and listen to erhu at the same time!",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1395,7 +1395,7 @@ data = {
       [14] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 1,
-        sentence = "……原来你买它，归根结底还是为了监督我学二胡？",
+        sentence = "...So basically, you got this just to supervise my practice?",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1403,7 +1403,7 @@ data = {
       [15] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "非也非也，我只是物尽其用嘛。",
+        sentence = "No no, I'm just making full use of its features.",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1411,7 +1411,7 @@ data = {
       [16] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 1,
-        sentence = "你也来坐一下。",
+        sentence = "Come on, you should try it too.",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1419,7 +1419,7 @@ data = {
       [17] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "好呀！等等……这是什么声音？怎么这么熟悉。",
+        sentence = "Okay! Wait... what's that sound? Why does it sound so familiar?",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1427,7 +1427,7 @@ data = {
       [18] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 1,
-        sentence = "某人洗漱时的自创歌曲。",
+        sentence = "Someone's little custom tune while she's washing up.",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1435,7 +1435,7 @@ data = {
       [19] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "“洗干净脸脸我就是最漂漂的”。",
+        sentence = "\"Wash my face nice and clean, and I'll be the prettiest.\"",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1443,7 +1443,7 @@ data = {
       [20] = {
         qq_res = "15054/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "？你什么时候录的？好难听好羞耻啊！快暂停！！",
+        sentence = "? When did you record that? It's so cringey! Turn it off!!",
         animation_mode = 1,
         animation_res = "15054/anime_g.prefab",
         trigger_mode = 2
@@ -1453,91 +1453,91 @@ data = {
       [1] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "李泽言，你看我带来了什么好东西～",
+        sentence = "Victor, look what I brought you!",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 1,
-        sentence = "《二胡宝典》？",
+        sentence = "An erhu manual?",
         trigger_mode = 2
       },
       [3] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "没错，我今天去一家儿童二胡学习机构取材了。",
+        sentence = "Yep! I visited an erhu class for kids today.",
         trigger_mode = 2
       },
       [4] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "小朋友们听说我男朋友在学二胡——",
+        sentence = "When they heard my boyfriend's learning erhu—",
         trigger_mode = 2
       },
       [5] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "就送了我一本他们自制的《二胡宝典》。",
+        sentence = "They gave me this homemade erhu manual.",
         trigger_mode = 2
       },
       [6] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 1,
-        sentence = "“不可以边吃蛋糕边练二胡，否则会被老师打手心”？",
+        sentence = "\"No eating cake while practicing erhu, or the teacher will smack your hand\"?",
         trigger_mode = 2
       },
       [7] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 1,
-        sentence = "你确定这是“宝典”？",
+        sentence = "Are you sure this is a manual?",
         trigger_mode = 2
       },
       [8] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "呃……哈哈哈，也有很多中肯的建议啦。",
+        sentence = "Uh... haha, it's got some solid advice too!",
         trigger_mode = 2
       },
       [9] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "比如这个",
+        sentence = "Like this one—",
         trigger_mode = 2
       },
       [10] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 1,
-        sentence = "……我现在很怀疑这本宝典的专业度。",
+        sentence = "...I'm really questioning this book's expertise right now.",
         trigger_mode = 2
       },
       [11] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "你试试嘛，大部分人都没办法让书本在脑袋上……",
+        sentence = "Just give it a try! Most people can't balance a book on their head like this...",
         trigger_mode = 2
       },
       [12] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "诶？你怎么一下子就能在头顶放稳？",
+        sentence = "Whoa! How'd you get it perfectly on the first try?",
         trigger_mode = 2
       },
       [13] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 1,
-        sentence = "然后呢？",
+        sentence = "Now what?",
         trigger_mode = 2
       },
       [14] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "然后……坐着就好。",
+        sentence = "Now... just sit like that.",
         trigger_mode = 2
       },
       [15] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "……",
+        sentence = "...",
         animation_mode = 2,
         animation_res = "15054/anime_h.prefab",
         trigger_mode = 2
@@ -1545,7 +1545,7 @@ data = {
       [16] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 1,
-        sentence = "……",
+        sentence = "...",
         animation_mode = 1,
         animation_res = "15054/anime_h.prefab",
         trigger_mode = 2
@@ -1553,7 +1553,7 @@ data = {
       [17] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "李泽言，都过去五分钟了，你怎么一动不动的？",
+        sentence = "Victor, it's been five minutes. Why aren't you moving?",
         animation_mode = 1,
         animation_res = "15054/anime_h.prefab",
         trigger_mode = 2
@@ -1561,7 +1561,7 @@ data = {
       [18] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "难道你天生是学二胡的好苗子？⊙ω⊙ ",
+        sentence = "Are you secretly a natural erhu expert? ⊙ω⊙ ",
         animation_mode = 1,
         animation_res = "15054/anime_h.prefab",
         trigger_mode = 2
@@ -1569,7 +1569,7 @@ data = {
       [19] = {
         qq_res = "15054/anime_h.prefab",
         speak_role_id = 1,
-        sentence = "……￣ー￣*|||笨蛋，我脚麻了，过来扶我一把。",
+        sentence = "......￣ー￣*||| You dummy. My legs are numb. Help me up.",
         animation_mode = 1,
         animation_res = "15054/anime_h.prefab",
         trigger_mode = 2
@@ -1579,7 +1579,7 @@ data = {
       [1] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "我快递到了，应该是你的墨镜，你帮我签收了……？",
+        sentence = "My package arrived. Should be your sunglasses. Did you sign for it...?",
         animation_mode = 1,
         animation_res = "15054/anime_i.prefab",
         trigger_mode = 2
@@ -1587,61 +1587,61 @@ data = {
       [2] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "你怎么已经戴上了？",
+        sentence = "Wait, why are you already wearing them?",
         trigger_mode = 2
       },
       [3] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 1,
-        sentence = "这已经是某人这个月给我买的第五副墨镜了。",
+        sentence = "That's the fifth pair of sunglasses you've bought me this month.",
         trigger_mode = 2
       },
       [4] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 1,
-        sentence = "我都开始好奇这些墨镜有什么魅力。",
+        sentence = "I'm starting to wonder what's so fascinating about them.",
         trigger_mode = 2
       },
       [5] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 1,
-        sentence = "能让你如此乐此不疲。",
+        sentence = "That you keep buying more.",
         trigger_mode = 2
       },
       [6] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "毕竟你要上镜，我当然想给你做最好的妆造。",
+        sentence = "You're going on camera. I want you to look your best.",
         trigger_mode = 2
       },
       [7] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "这样才不会拉低华锐总裁的格调嘛~",
+        sentence = "Can't have LFG's president looking sloppy!",
         trigger_mode = 2
       },
       [8] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 1,
-        sentence = "这副镜框上有两只猫耳朵的，也是为了我的格调？",
+        sentence = "These ones even have little cat ears on the frame.",
         trigger_mode = 2
       },
       [9] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "……嘿嘿，这副太可爱太有特点了，我没忍住。",
+        sentence = "...Hehe, it was too cute. I couldn't resist.",
         trigger_mode = 2
       },
       [10] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "不止这副。其实每一副都各有特点哦。",
+        sentence = "Not just this one; each pair has its own little design.",
         trigger_mode = 2
       },
       [11] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "这副的镜片四周镶了一圈钻石，这副呢……",
+        sentence = "This one's got rhinestones on the rim, this one—",
         trigger_mode = 2
       },
       [12] = {
@@ -1653,25 +1653,25 @@ data = {
       [13] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "……没关系，这种微妙的差别我接受你get不到。",
+        sentence = "...Never mind. You won't get the differences anyway.",
         trigger_mode = 2
       },
       [14] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 1,
-        sentence = "确实。",
+        sentence = "You're right.",
         trigger_mode = 2
       },
       [15] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 1,
-        sentence = "毕竟在我眼里，它们都是笨蛋的心意——",
+        sentence = "To me, they're all the same. They're all little gifts from you.",
         trigger_mode = 2
       },
       [16] = {
         qq_res = "15054/anime_i.prefab",
         speak_role_id = 1,
-        sentence = "没什么不同。",
+        sentence = "That's what matters to me.",
         trigger_mode = 2
       }
     }
@@ -1681,7 +1681,7 @@ data = {
       [1] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "这就是哑鼓啊。",
+        sentence = "Whoa, this drum is almost silent!",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1689,7 +1689,7 @@ data = {
       [2] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "那这样怎么确定练习成果呀？",
+        sentence = "But how are you supposed to tell if you're getting any better if it doesn't make any sounds?",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1697,7 +1697,7 @@ data = {
       [3] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 4,
-        sentence = "敲哑鼓是训练身体的协调性，还有对鼓的熟悉度。",
+        sentence = "It's a practice drum that helps you train the coordination of your body and get used to the drum.",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1705,7 +1705,7 @@ data = {
       [4] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 4,
-        sentence = "只是练基本功而已。",
+        sentence = "It's for practicing the basics.",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1713,7 +1713,7 @@ data = {
       [5] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 4,
-        sentence = "当然，也不会太吵。",
+        sentence = "Plus, it's nice and quiet.",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1721,7 +1721,7 @@ data = {
       [6] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "原来如此……( ¯•ω•¯ ) ",
+        sentence = "Ohh, makes sense now... ( ¯•ω•¯ )",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1729,7 +1729,7 @@ data = {
       [7] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 4,
-        sentence = "你已经盯着看了很长一段时间了，不会觉得无聊吗？",
+        sentence = "You've been staring at this for ages. Aren't you bored?",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1737,7 +1737,7 @@ data = {
       [8] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "当然不会！",
+        sentence = "Of course not!",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1745,7 +1745,7 @@ data = {
       [9] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "不如说，看到敲哑鼓都有模有样的白警官……",
+        sentence = "Actually, watching Officer Gavin hit that drum so seriously...",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1753,7 +1753,7 @@ data = {
       [10] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "让我更期待你学成之后的英姿了！",
+        sentence = "makes me look forward to seeing you in action once you've really nailed it!",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1761,7 +1761,7 @@ data = {
       [11] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 4,
-        sentence = "那我再多敲一会儿。\\（O v O）/ ~咚",
+        sentence = "Guess I'll drum a bit more then! \\（O v O）/ ~thump",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1769,7 +1769,7 @@ data = {
       [12] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "哇！速度好快！ ",
+        sentence = "Whoa! That was fast!",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1777,7 +1777,7 @@ data = {
       [13] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 4,
-        sentence = "还可以这样——ミ\\（O v O）/ ミ~咚咚",
+        sentence = "I can do this too——ミ\\（O v O）/ ミ~thump thump",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1785,7 +1785,7 @@ data = {
       [14] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "O口O手都有残影了！",
+        sentence = "Your hands are moving so fast that they're leaving afterimages!O口O",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1793,7 +1793,7 @@ data = {
       [15] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "难道你已经成为了民打高手？！",
+        sentence = "Don't tell me you've already become some kind of drumming master?!",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1801,7 +1801,7 @@ data = {
       [16] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 4,
-        sentence = "没有，只是乱敲罢了。",
+        sentence = "Haha, no, I'm just messing around.",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1809,7 +1809,7 @@ data = {
       [17] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 4,
-        sentence = "打鼓最难的还是控制恰当的力度和节奏。",
+        sentence = "The hardest part is getting the strength and timing right.",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1817,7 +1817,7 @@ data = {
       [18] = {
         qq_res = "15057/anime_c.prefab",
         speak_role_id = 4,
-        sentence = "但这样会让你笑出来。O v O",
+        sentence = "But playing it this way makes you laugh. O v O",
         animation_mode = 1,
         animation_res = "15057/anime_c.prefab",
         trigger_mode = 2
@@ -1827,55 +1827,55 @@ data = {
       [1] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "白起，你这是在……扎马步吗？(*ﾟДﾟ)",
+        sentence = "Gavin, are you doing... squats or something? (*ﾟДﾟ)",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 4,
-        sentence = "这是三十六式太极拳。",
+        sentence = "This is part of the 36 styles of Tai Chi.",
         trigger_mode = 2
       },
       [3] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "……啊？难道你在场地排练的时候遇到了什么高人？",
+        sentence = "...Huh?! Did you run into some martial arts master while practicing?",
         trigger_mode = 2
       },
       [4] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "不会等这次表演结束……",
+        sentence = "Don't tell me once this performance is over...",
         trigger_mode = 2
       },
       [5] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "你就要被山里的神仙收做关门弟子？！（*ﾟдﾟ*）",
+        sentence = "You're gonna be whisked away to the mountains to become some old hermit's disciple?!（ﾟдﾟ）",
         trigger_mode = 2
       },
       [6] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 4,
-        sentence = "咳……只是在山上跟着锻炼的人稍微学了一点。",
+        sentence = "Ahem. I just picked up a few moves while training with people up there.",
         trigger_mode = 2
       },
       [7] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 4,
-        sentence = "练太极还挺有趣的，你要试试吗？",
+        sentence = "Tai Chi's actually kind of fun. Wanna give it a shot?",
         trigger_mode = 2
       },
       [8] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 4,
-        sentence = "教你一个“口诀”，然后跟我做动作。",
+        sentence = "I'll teach you some \"secret formulas\". Just follow along.",
         trigger_mode = 2
       },
       [9] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 4,
-        sentence = "一个——大——西瓜——",
+        sentence = "One—big—watermelon—",
         animation_mode = 2,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1883,7 +1883,7 @@ data = {
       [10] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "噗……！",
+        sentence = "Pfft—!",
         animation_mode = 1,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1891,7 +1891,7 @@ data = {
       [11] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 4,
-        sentence = "中间——切一半——",
+        sentence = "Slice—it—in—half—",
         animation_mode = 1,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1899,7 +1899,7 @@ data = {
       [12] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 4,
-        sentence = "一半——给你——一半——给他——",
+        sentence = "Half for you—and half for him—",
         animation_mode = 1,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1907,7 +1907,7 @@ data = {
       [13] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "哈哈，我学的怎么样？白师父？",
+        sentence = "Hahaha! How am I doing, Master Gavin?",
         animation_mode = 1,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1915,7 +1915,7 @@ data = {
       [14] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 4,
-        sentence = "嗯，已经入门了。",
+        sentence = "Hmm... not bad. You've grasped the basics.",
         animation_mode = 1,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1923,7 +1923,7 @@ data = {
       [15] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 4,
-        sentence = "接下来我们做一些进阶动作。",
+        sentence = "Let's level it up a bit.",
         animation_mode = 1,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1931,7 +1931,7 @@ data = {
       [16] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 4,
-        sentence = "双腿弓步、重心下沉、左腿屈膝的同时，右腿缓慢站直。",
+        sentence = "Bend your knees, drop your center of gravity. While bending the left leg, slowly straighten the right...",
         animation_mode = 1,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1939,7 +1939,7 @@ data = {
       [17] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "嗯？",
+        sentence = "Huh?",
         animation_mode = 1,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1947,7 +1947,7 @@ data = {
       [18] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 4,
-        sentence = "左腿落地，身体回拉，然后出拳！",
+        sentence = "Now, plant your left foot, pull your body back, and—punch!",
         animation_mode = 1,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1955,7 +1955,7 @@ data = {
       [19] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "嗯嗯嗯？？",
+        sentence = "Uhhh, what now???",
         animation_mode = 1,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1963,7 +1963,7 @@ data = {
       [20] = {
         qq_res = "15057/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "教学进度是不是进阶得有点快？！",
+        sentence = "Isn't this moving a bit too fast for a beginner?!",
         animation_mode = 1,
         animation_res = "15057/anime_d.prefab",
         trigger_mode = 2
@@ -1973,13 +1973,13 @@ data = {
       [1] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 4,
-        sentence = "嗯……这个姿势似乎不太对。",
+        sentence = "Hmm... that pose's a little off.",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "你再空挥一次，我跟着视频对比看看。",
+        sentence = "Try doing the move again. I'll check it against the video.",
         trigger_mode = 2
       },
       [3] = {
@@ -2001,43 +2001,43 @@ data = {
       [5] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "嗯……似乎没有哪里不对啊。",
+        sentence = "...Honestly, it doesn't look wrong at all.",
         trigger_mode = 2
       },
       [6] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "动作和样子都有模有样的。",
+        sentence = "Your form's actually pretty solid.",
         trigger_mode = 2
       },
       [7] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 4,
-        sentence = "但我想象了一下，如果按现在这样挥……",
+        sentence = "But now that I'm picturing it—if you keep swinging like this...",
         trigger_mode = 2
       },
       [8] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 4,
-        sentence = "最后这个动作会敲不到鼓上。",
+        sentence = "You're probably gonna miss the drum entirely.",
         trigger_mode = 2
       },
       [9] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "难道是你的动作没有视频里那么大开大合？",
+        sentence = "Maybe your moves just aren't as big and dramatic as the ones in the video?",
         trigger_mode = 2
       },
       [10] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 4,
-        sentence = "有可能，我的步伐似乎确实不够大。",
+        sentence = "Could be. I think my steps are definitely smaller.",
         trigger_mode = 2
       },
       [11] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "嗯……不如你再打一遍？带上一些情感表达！",
+        sentence = "Alright then—try it again! But this time, really get into it! Put some feeling into it!",
         trigger_mode = 2
       },
       [12] = {
@@ -2059,19 +2059,19 @@ data = {
       [14] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 4,
-        sentence = "……还是不对。",
+        sentence = "...Nope, still not quite there.",
         trigger_mode = 2
       },
       [15] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "再热情一点！激昂一点！(..•˘_˘•..)",
+        sentence = "More energy! Come on, fire it up! (..•˘_˘•..)",
         trigger_mode = 2
       },
       [16] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 4,
-        sentence = "~~/（O’口’ O）/~~",
+        sentence = "~~/（O'口' O）/~~",
         animation_mode = 1,
         animation_res = "15057/anime_e.prefab",
         trigger_mode = 2
@@ -2079,7 +2079,7 @@ data = {
       [17] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 4,
-        sentence = "~~ヘ(O ‘口’Oヘ)~~",
+        sentence = "~~ヘ(O ‘口'Oヘ)~~",
         animation_mode = 1,
         animation_res = "15057/anime_e.prefab",
         trigger_mode = 2
@@ -2087,13 +2087,13 @@ data = {
       [18] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "很好！我们再来一遍！",
+        sentence = "Now we're talkin'! One more round!",
         trigger_mode = 2
       },
       [19] = {
         qq_res = "15057/anime_e.prefab",
         speak_role_id = 4,
-        sentence = "~~ヘ(O ‘口’Oヘ)~~哦！",
+        sentence = "Ha!~~ヘ(O ‘口'Oヘ)~~ ",
         animation_mode = 1,
         animation_res = "15057/anime_e.prefab",
         trigger_mode = 2
@@ -2103,7 +2103,7 @@ data = {
       [1] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "白起，白……",
+        sentence = "Gavin...?",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2111,7 +2111,7 @@ data = {
       [2] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "……抱着鼓就睡着了，怎么都不好好回床上休息呀。",
+        sentence = "...Did you seriously fall asleep hugging the drum? Why didn't you go to bed?",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2119,7 +2119,7 @@ data = {
       [3] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 4,
-        sentence = "……右手动……左手静……Zzz（—_—）",
+        sentence = "...Right hand moves... left hand still... Zzz（—_—）",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2127,7 +2127,7 @@ data = {
       [4] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "梦里也在练习吗？",
+        sentence = "Wait, are you... practicing in your dreams?",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2135,7 +2135,7 @@ data = {
       [5] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "白起，醒醒，我们回床上吧？",
+        sentence = "Gavin, c'mon, wake up. Let's get you to bed, okay?",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2143,7 +2143,7 @@ data = {
       [6] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 4,
-        sentence = "不用……我靠着树根也能……休息好……",
+        sentence = "It's fine... I can rest here... the tree roots are comfy...",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2151,7 +2151,7 @@ data = {
       [7] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 4,
-        sentence = "到换班再来叫我……Zzz（—A—）",
+        sentence = "Just wake me up when my shift ends... Zzz（—A—）",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2159,7 +2159,7 @@ data = {
       [8] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "这是梦到哪里去了……",
+        sentence = "What are you even dreaming about...",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2167,7 +2167,7 @@ data = {
       [9] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "还知道我是谁吗？",
+        sentence = "Do you even remember who I am?",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2175,7 +2175,7 @@ data = {
       [10] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 4,
-        sentence = "$u。",
+        sentence = "$u.",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2183,7 +2183,7 @@ data = {
       [11] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "这个倒是答得很快。你不会是在装睡吧……",
+        sentence = "That was quick. You're not just pretending to sleep...?",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2199,7 +2199,7 @@ data = {
       [13] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "白起，晚饭吃苦瓜……",
+        sentence = "Gavin, if you don't get up, we're having bitter melon for dinner...",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2207,7 +2207,7 @@ data = {
       [14] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 4,
-        sentence = "嗯……晚饭我回家，今天不加班……Zzz（—_—）",
+        sentence = "Mmm... I'm eating at home... No overtime tonight... Zzz（—_—）",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2215,7 +2215,7 @@ data = {
       [15] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "噗。白起，演出提前啦……",
+        sentence = "Hey, Gavin! The show's been rescheduled—it's starting right now!",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2223,7 +2223,7 @@ data = {
       [16] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 4,
-        sentence = "……前面左转……Zzz（—_—）",
+        sentence = "...Take a left up ahead... Zzz（—_—）",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2231,7 +2231,7 @@ data = {
       [17] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "快让脑袋休息一下吧，辛苦啦白警官。",
+        sentence = "Alright, alright, your brain clearly needs a break. You've earned it, Officer Gavin.",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2239,7 +2239,7 @@ data = {
       [18] = {
         qq_res = "15057/anime_f.prefab",
         speak_role_id = 4,
-        sentence = "……Zzz（—_—）",
+        sentence = "......Zzz（—_—）",
         animation_mode = 1,
         animation_res = "15057/anime_f.prefab",
         trigger_mode = 2
@@ -2249,7 +2249,7 @@ data = {
       [1] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "工欲善其事，必先利其器。",
+        sentence = "You gotta have good tools to do good work.",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2257,7 +2257,7 @@ data = {
       [2] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "你和你新的伙伴关系好像变得更好啦。",
+        sentence = "Looks like you and your new gear are finally getting along.",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2265,7 +2265,7 @@ data = {
       [3] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 4,
-        sentence = "还是自己动手维护乐器更趁手。",
+        sentence = "Yeah, it just feels better doing the maintenance myself.",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2273,7 +2273,7 @@ data = {
       [4] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 4,
-        sentence = "这些事就都顺手做了。",
+        sentence = "I figured I'd take care of everything while I was at it.",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2281,7 +2281,7 @@ data = {
       [5] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "你缠得真好，是向哪位老师学的手法呀？",
+        sentence = "You wrapped that up so clean! Where did you learn how to tie it like that?",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2289,7 +2289,7 @@ data = {
       [6] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 4,
-        sentence = "鼓棒的绑法上有什么专门的讲究吗？",
+        sentence = "Is there some kind of special way to wrap drumsticks?",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2297,7 +2297,7 @@ data = {
       [7] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "啊？那你是怎么绑得这么漂亮的？(ﾟ△ﾟ;ﾉ)ﾉ",
+        sentence = "Huh? Then how did they end up looking so good? (ﾟ△ﾟ;ﾉ)ﾉ",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2305,7 +2305,7 @@ data = {
       [8] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 4,
-        sentence = "和平时绑拳击绷带一样，很简单。",
+        sentence = "Same as wrapping my hands for boxing. Easy stuff.",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2313,7 +2313,7 @@ data = {
       [9] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 4,
-        sentence = "一开始会觉得红绸有点滑，不过多绑几次后就熟了。",
+        sentence = "The red silk was a little slippery at first, but after a few tries, it got easier.",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2321,7 +2321,7 @@ data = {
       [10] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 4,
-        sentence = "这么一想……打拳和打鼓也有不少共通点。",
+        sentence = "Now that I think about it... drumming and boxing actually have a lot in common.",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2329,7 +2329,7 @@ data = {
       [11] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 4,
-        sentence = "鼓点的韵律也和出拳的节奏有些类似。",
+        sentence = "The rhythm of the beats kind of lines up with how you throw punches.",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2337,7 +2337,7 @@ data = {
       [12] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 4,
-        sentence = "嗯……感觉可以按照类似的感觉练习一下。",
+        sentence = "Mhm... that might actually be a good way to practice.",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2345,7 +2345,7 @@ data = {
       [13] = {
         qq_res = "15057/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "o口o真是令人意想不到的联系……",
+        sentence = "Huh. I never saw that connection coming...o口o ",
         animation_mode = 1,
         animation_res = "15057/anime_g.prefab",
         trigger_mode = 2
@@ -2355,13 +2355,13 @@ data = {
       [1] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "今天的练习结束啦——接下来是肩颈放松环节~",
+        sentence = "Alright, that's a wrap for today's training—time to relax my neck and shoulders.",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 4,
-        sentence = "一、二、三、四……二、二、三、四……/(O . O) >",
+        sentence = "One, two, three, four... and keep going... /(O . O) >",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2369,7 +2369,7 @@ data = {
       [3] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "做完肩部放松后，还要做一做常规的肌肉复健拉伸哦？",
+        sentence = "And don't forget your usual stretch routine after the shoulder stuff, okay?",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2377,7 +2377,7 @@ data = {
       [4] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 4,
-        sentence = "没问题。",
+        sentence = "Got it.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2385,7 +2385,7 @@ data = {
       [5] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 4,
-        sentence = "不论哪一种拉伸，我都在认真做。",
+        sentence = "I take all the stretching seriously.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2393,7 +2393,7 @@ data = {
       [6] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "每次看你拉伸的时候，就有种“今天结束了”的感觉。",
+        sentence = "Every time I see you stretch, it feels like the day just wrapped up.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2401,7 +2401,7 @@ data = {
       [7] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "都快变成我的外置生物钟了。",
+        sentence = "You're like an external biological clock of mine.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2409,7 +2409,7 @@ data = {
       [8] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 4,
-        sentence = "那每天开始的信号是什么？",
+        sentence = "Then what makes you feel like the day just started?",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2417,7 +2417,7 @@ data = {
       [9] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "是你顶着乱蓬蓬的头发对我说“早上好”。",
+        sentence = "When you say good morning with your messy hair in the morning.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2425,7 +2425,7 @@ data = {
       [10] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "中午的信号是你来问我午饭想吃什么。",
+        sentence = "And whenever you come ask me what's for lunch, I know it's noon time.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2433,7 +2433,7 @@ data = {
       [11] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 4,
-        sentence = "听起来还挺健康的。",
+        sentence = "Sounds like healthy living.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2441,7 +2441,7 @@ data = {
       [12] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "对你来说呢？",
+        sentence = "What about you?",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2449,7 +2449,7 @@ data = {
       [13] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 4,
-        sentence = "早上的开始是给你早安吻。",
+        sentence = "Your good morning kiss means it's morning.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2457,7 +2457,7 @@ data = {
       [14] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 4,
-        sentence = "一天结束是看着你放下手机准备睡觉。",
+        sentence = "When you put down your phone and prepare to go to bed, I know it's time to sleep.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2465,7 +2465,7 @@ data = {
       [15] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "那我可要早一点收手机。",
+        sentence = "Looks like I'll have to put my phone down earlier in the future.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2473,7 +2473,7 @@ data = {
       [16] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "好好肩负起“守夜人”这个职责，让你也早点休息。",
+        sentence = "That way, you'll go to bed earlier in the future.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2481,7 +2481,7 @@ data = {
       [17] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 4,
-        sentence = "不过在这之前，还有一个例行信号没有发出。",
+        sentence = "But there's also one thing I haven't mentioned yet.",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2489,7 +2489,7 @@ data = {
       [18] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "是什么？",
+        sentence = "What's that?",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2497,7 +2497,7 @@ data = {
       [19] = {
         qq_res = "15057/anime_h.prefab",
         speak_role_id = 4,
-        sentence = "今天晚饭你想吃什么？O ▽ O~♪",
+        sentence = "What do you want to eat for dinner? O ▽ O~♪",
         animation_mode = 1,
         animation_res = "15057/anime_h.prefab",
         trigger_mode = 2
@@ -2507,7 +2507,7 @@ data = {
       [1] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "你看得好认真啊。",
+        sentence = "You're watching it so carefully!",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2515,7 +2515,7 @@ data = {
       [2] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 41,
-        sentence = "毕竟要好好学习老师的台风。",
+        sentence = "I'm learning from the best, after all.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2523,7 +2523,7 @@ data = {
       [3] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 41,
-        sentence = "这样，正式表演时才能打动人心。",
+        sentence = "If I want to nail the performance, I've gotta study his stage presence.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2531,7 +2531,7 @@ data = {
       [4] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "不过你坐得好笔挺，感觉台上的老师都有点儿紧张了。",
+        sentence = "You're sitting so upright. I think you're making the performer nervous.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2539,7 +2539,7 @@ data = {
       [5] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "总时不时就往你这边瞟一眼。",
+        sentence = "He kept sneaking glances at you.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2547,7 +2547,7 @@ data = {
       [6] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 41,
-        sentence = "嗯？我只是普通坐着吧。",
+        sentence = "Huh? This is how I always sit.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2555,7 +2555,7 @@ data = {
       [7] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "可能是你的目光过于专注，坐得又很挺拔。",
+        sentence = "Yeah, but you're so focused, and you've got this perfect posture...",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2563,7 +2563,7 @@ data = {
       [8] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "比起学习，倒更像是来视察的。",
+        sentence = "Honestly, it looks more like you're here to evaluate the class than learn from it.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2571,7 +2571,7 @@ data = {
       [9] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 41,
-        sentence = "那……我放松一点儿。",
+        sentence = "Alright, alright... I'll relax a bit.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2579,7 +2579,7 @@ data = {
       [10] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "嗯嗯，就和平时在家里看电视一样。",
+        sentence = "Yeah, just act like we're sitting on the couch watching TV at home.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2587,7 +2587,7 @@ data = {
       [11] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "嗯？怎么突然跟我牵手？",
+        sentence = "Wait—why did you grab my hand?",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2595,7 +2595,7 @@ data = {
       [12] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 41,
-        sentence = "如果是在家看电视，当然会跟你靠得更近一点。",
+        sentence = "Well, if we were watching TV at home, I'd totally be leaning in closer to you like this.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2603,7 +2603,7 @@ data = {
       [13] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 41,
-        sentence = "你是让我放松下来的必要条件。",
+        sentence = "You're part of what helps me relax, you know.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2627,7 +2627,7 @@ data = {
       [16] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "……怎么感觉好像又被演奏的老师瞥了……",
+        sentence = "...Pretty sure the performer just glanced over here again.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2635,7 +2635,7 @@ data = {
       [17] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 41,
-        sentence = "没关系，我学得很认真。",
+        sentence = "It's fine. I'm watching seriously.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2643,7 +2643,7 @@ data = {
       [18] = {
         qq_res = "15057/anime_i.prefab",
         speak_role_id = 41,
-        sentence = "不会辜负他的演奏。",
+        sentence = "I'm not gonna let his performance go to waste.",
         animation_mode = 1,
         animation_res = "15057/anime_i.prefab",
         trigger_mode = 2
@@ -2655,7 +2655,7 @@ data = {
       [1] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "许教授现在指法看起来好专业。",
+        sentence = "Professor Lucien, your technique with the instrument has really gotten impressive!",
         animation_mode = 1,
         animation_res = "15059/anime_c.prefab",
         trigger_mode = 2
@@ -2663,79 +2663,79 @@ data = {
       [2] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 2,
-        sentence = "多亏了$u找给我的古琴指法练习视频。",
+        sentence = "Thanks to that guqin tutorial video you found for me, $u.",
         trigger_mode = 2
       },
       [3] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "嘿嘿，那是我找到的全网最长教学视频了。",
+        sentence = "Hehe, that was the longest tutorial I could find online.",
         trigger_mode = 2
       },
       [4] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "是不是每个知识点都拆解得特别详细？",
+        sentence = "It was pretty detailed, right?",
         trigger_mode = 2
       },
       [5] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 2,
-        sentence = "确实是超乎寻常的详细，详细到——",
+        sentence = "Yes, super detailed. So detailed that—",
         trigger_mode = 2
       },
       [6] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 2,
-        sentence = "视频的前一小时都在教小朋友们如何规范弹琴坐姿。",
+        sentence = "The first hour was just teaching little kids how to sit properly at the instrument.",
         trigger_mode = 2
       },
       [7] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "……嗯？我找了一份儿童学习教程给你吗？",
+        sentence = "...Wait. Did I seriously give you a kids' tutorial?",
         trigger_mode = 2
       },
       [8] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "呜呜，我现在给你找新的教程还来得及吗。",
+        sentence = "Ahhh, is it too late for me to find you a better one?",
         trigger_mode = 2
       },
       [9] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 2,
-        sentence = "( *^-^)好像有些晚了，我已经全部看完了。",
+        sentence = "( *^-^) It is kind of late. I already finished the whole thing.",
         trigger_mode = 2
       },
       [10] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 5,
-        sentence = "……但你明明知道这是儿童教程？",
+        sentence = "...But you knew it was for kids?",
         trigger_mode = 2
       },
       [11] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 2,
-        sentence = "虽然我也想过，会不会是你不小心而为之。",
+        sentence = "I thought maybe you sent it by accident at first.",
         trigger_mode = 2
       },
       [12] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 2,
-        sentence = "不过我又想，万一是小姑娘借着教程的名义——",
+        sentence = "But then I figured—",
         trigger_mode = 2
       },
       [13] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 2,
-        sentence = "在悄悄劝告我改正不健康的坐姿呢。",
+        sentence = "Maybe this was a certain young lady's way of gently reminding me to fix my posture.",
         trigger_mode = 2
       },
       [14] = {
         qq_res = "15059/anime_c.prefab",
         speak_role_id = 2,
-        sentence = "我想，我总不能辜负了这份好意。",
+        sentence = "And I couldn't just ignore your good intentions.",
         trigger_mode = 2
       }
     },
@@ -2743,7 +2743,7 @@ data = {
       [1] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "你把轸穗装到古琴上啦？",
+        sentence = "You already attached the tassel I gave you?",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2751,7 +2751,7 @@ data = {
       [2] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 2,
-        sentence = "嗯，毕竟这是$u给我的礼物。",
+        sentence = "Yeah. It is a gift from $u, after all.",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2759,7 +2759,7 @@ data = {
       [3] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 2,
-        sentence = "把它悬在琴上，在弹琴的时候我想我会更开心。",
+        sentence = "Hanging it on the guqin just makes me enjoy playing even more.",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2767,7 +2767,7 @@ data = {
       [4] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "嘿嘿，许教授又哄人了。",
+        sentence = "Hehe, you're being sweet again, Professor Lucien.",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2775,7 +2775,7 @@ data = {
       [5] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "你这样的好学生才不会因为文具多少影响学习心情~",
+        sentence = "A good student like you would succeed no matter what, tassel or no tassel~",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2783,7 +2783,7 @@ data = {
       [6] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 2,
-        sentence = "( *^-^)$u似乎有些高看我了。",
+        sentence = "( *^-^) You're giving me too much credit, $u.",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2791,7 +2791,7 @@ data = {
       [7] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 2,
-        sentence = "刚才装轸穗的时候，我一直在想象抚琴的场景。",
+        sentence = "While I was putting it on, I kept imagining how it would sway while I played.",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2799,7 +2799,7 @@ data = {
       [8] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 2,
-        sentence = "它大概会随着音韵的变化而产生不同的律动。",
+        sentence = "Its movement should strike a harmonious rhythm along with the guqin.",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2807,7 +2807,7 @@ data = {
       [9] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 2,
-        sentence = "这样的可爱活泼，似乎刚好可以和沉稳音色相中和。",
+        sentence = "And I feel like that would balance harmoniously with the guqin's calm sound.",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2815,7 +2815,7 @@ data = {
       [10] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "光是听你描述，我就有些迫不及待想看你弹奏了。",
+        sentence = "Just hearing you talk about it makes me wanna watch you play already.",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2823,7 +2823,7 @@ data = {
       [11] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 2,
-        sentence = "那不如来和我一起把最后一束装上去吧？",
+        sentence = "Then come help me put the last tassel on?",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2831,7 +2831,7 @@ data = {
       [12] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "好呀~说起来，这串轸穗真的和你的气质好配哦~",
+        sentence = "Sure! Honestly though, this color totally suits you!",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2839,7 +2839,7 @@ data = {
       [13] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "我一听店主说黛色代表清逸淡雅的瞬间——",
+        sentence = "The moment the shop owner said, \"Teal represents elegance\"...",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2847,7 +2847,7 @@ data = {
       [14] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "我的手已经结完账了把它买下了！",
+        sentence = "I bought it before I even gave it a second thought.",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2855,7 +2855,7 @@ data = {
       [15] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 2,
-        sentence = "如果我夸$u的眼光好，会不会看起来有些自夸的嫌疑？",
+        sentence = "If I compliment $u's taste, does that count as complimenting myself too?",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2863,7 +2863,7 @@ data = {
       [16] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "嘿嘿，我的眼光本来就很好的！",
+        sentence = "Hehe, my taste has always been that good!",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2871,7 +2871,7 @@ data = {
       [17] = {
         qq_res = "15059/anime_d.prefab",
         speak_role_id = 5,
-        sentence = "不然怎么能一眼认定这么好的许教授呀~",
+        sentence = "I mean, how else would I have chosen such a perfect Professor Lucien?",
         animation_mode = 1,
         animation_res = "15059/anime_d.prefab",
         trigger_mode = 2
@@ -2889,7 +2889,7 @@ data = {
       [2] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 21,
-        sentence = "$u。",
+        sentence = "$u.",
         animation_mode = 1,
         animation_res = "15059/anime_e.prefab",
         trigger_mode = 2
@@ -2905,7 +2905,7 @@ data = {
       [4] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 21,
-        sentence = "$u，刚才我没有听清，老师傅上一句说了什么？",
+        sentence = "$u, I didn't catch what the master said—what was his last point?",
         animation_mode = 1,
         animation_res = "15059/anime_e.prefab",
         trigger_mode = 2
@@ -2913,7 +2913,7 @@ data = {
       [5] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "“影响古琴音色的重要因素是腹腔结构和整体纹理”。",
+        sentence = "\"The main things that affect a guqin's sound are the structure inside and the wood grain.\"",
         animation_mode = 1,
         animation_res = "15059/anime_e.prefab",
         trigger_mode = 2
@@ -2921,7 +2921,7 @@ data = {
       [6] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 21,
-        sentence = "( *^-^)谢谢你的解答。",
+        sentence = "( *^-^) Thanks.",
         animation_mode = 1,
         animation_res = "15059/anime_e.prefab",
         trigger_mode = 2
@@ -2929,7 +2929,7 @@ data = {
       [7] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 21,
-        sentence = "不过我似乎有些走神，他现在进行到哪个步骤了？",
+        sentence = "I kinda zoned out. What's he doing now?",
         animation_mode = 1,
         animation_res = "15059/anime_e.prefab",
         trigger_mode = 2
@@ -2937,7 +2937,7 @@ data = {
       [8] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "调音的重要工艺之一——精修面板内部的槽腹。",
+        sentence = "He's carefully refining the inside of the soundboard—it's part of tuning.",
         animation_mode = 1,
         animation_res = "15059/anime_e.prefab",
         trigger_mode = 2
@@ -2945,85 +2945,85 @@ data = {
       [9] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 1001,
-        sentence = "好了，我有些累了，制作古琴也不是一蹴而就的事情。",
+        sentence = "Alright, I'm a little tired now. Making a guqin takes time.",
         trigger_mode = 2
       },
       [10] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 1001,
-        sentence = "二位看了很久了，明天再来吧。",
+        sentence = "You two have been watching for a long time. Come back tomorrow.",
         trigger_mode = 2
       },
       [11] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 21,
-        sentence = "您辛苦了。",
+        sentence = "Thank you for your teachings, master.",
         trigger_mode = 2
       },
       [12] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "您辛苦了。",
+        sentence = "Thank you for your teachings, master.",
         trigger_mode = 2
       },
       [13] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 21,
-        sentence = "( *^-^)下课了。",
+        sentence = "( *^-^) Class dismissed!",
         trigger_mode = 2
       },
       [14] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "下课竟然让你这么开心？你很可疑哦许教授。",
+        sentence = "You're way too happy for someone just finishing class, Professor Lucien.",
         trigger_mode = 2
       },
       [15] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "而且今天晚上老师傅就只做了修槽腹这一个步骤。",
+        sentence = "Well, tonight the master only worked on one thing: refining the soundboard.",
         trigger_mode = 2
       },
       [16] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "你刚才是故意找我说空话的。",
+        sentence = "You totally dragged me into small talk on purpose.",
         trigger_mode = 2
       },
       [17] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 21,
-        sentence = "看来瞒不过这位观察入微的小姐。",
+        sentence = "Can't fool those sharp eyes of yours, young miss.",
         trigger_mode = 2
       },
       [18] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 21,
-        sentence = "不过你好像没发现，自己刚才已经打了两个哈欠了。",
+        sentence = "But maybe you didn't notice—you yawned twice already.",
         trigger_mode = 2
       },
       [19] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "被你这么一说，忽然是有些困。",
+        sentence = "Now that you mention it... yeah, I am a bit sleepy.",
         trigger_mode = 2
       },
       [20] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 21,
-        sentence = "嗯，毕竟从傍晚我们过来，已经上了五个小时的课了。",
+        sentence = "We've been here since evening. That's five hours already.",
         trigger_mode = 2
       },
       [21] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 5,
-        sentence = "Σ(⊙▽⊙\"？！这么久吗？！",
+        sentence = "Σ(⊙▽⊙\"?! Five hours?!",
         trigger_mode = 2
       },
       [22] = {
         qq_res = "15059/anime_e.prefab",
         speak_role_id = 21,
-        sentence = "现在月色刚好，也是时候进行课后活动了。",
+        sentence = "The moonlight is beautiful. It's the perfect time for some after-class activities.",
         trigger_mode = 2
       }
     },
@@ -3031,13 +3031,13 @@ data = {
       [1] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "好香，哪里来的茶香……",
+        sentence = "Mmm... What's that nice smell? Is that tea?",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 2,
-        sentence = "这里，是我在点茶。",
+        sentence = "Over here. I'm making some tea.",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3045,7 +3045,7 @@ data = {
       [3] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "Σ(⊙▽⊙\"嗯？我怎么记得许教授刚刚还在学古琴的。",
+        sentence = "Σ(⊙▽⊙\" Wait, weren't you just practicing guqin, Professor Lucien?",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3053,7 +3053,7 @@ data = {
       [4] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 2,
-        sentence = "( *^-^)只是觉得这种和学琴相映成趣的点茶活动——",
+        sentence = "( *^-^) Just thought making tea kind of matches the vibe.",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3061,7 +3061,7 @@ data = {
       [5] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 2,
-        sentence = "拓展一下也不错。",
+        sentence = "A little side hobby while learning.",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3069,7 +3069,7 @@ data = {
       [6] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "原来如此。那你有感受到什么吗？",
+        sentence = "I see. Any special feelings you wanna share?",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3077,7 +3077,7 @@ data = {
       [7] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 2,
-        sentence = "刚开始感受到了一些。",
+        sentence = "I was feeling something just then.",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3085,7 +3085,7 @@ data = {
       [8] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 2,
-        sentence = "不过后来似乎是因为分心了，那个感受就逃跑了。",
+        sentence = "But then I got distracted, and I lost it.",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3093,7 +3093,7 @@ data = {
       [9] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "噗，难得听到许教授会分心，发生了什么？",
+        sentence = "Haha! Rare to hear something distracting you, Professor Lucien. What happened?",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3101,7 +3101,7 @@ data = {
       [10] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 2,
-        sentence = "( *^-^)$u过来看看就知道了。",
+        sentence = "( *^-^) Come take a look if you wanna find out, $u.",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3109,7 +3109,7 @@ data = {
       [11] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 5,
-        sentence = "哇……！你在茶汤的雪沫乳花上画了一个我吗？",
+        sentence = "Whoa...! You drew me with foam art?!",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3117,7 +3117,7 @@ data = {
       [12] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 2,
-        sentence = "嗯，不过画完才意识到杯口不够大——",
+        sentence = "Yeah, but then I realized the cup was too small—",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3125,7 +3125,7 @@ data = {
       [13] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 2,
-        sentence = "似乎没法在你旁边画一个等比例的我了。",
+        sentence = "I couldn't fit a mini version of me beside you.",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3133,7 +3133,7 @@ data = {
       [14] = {
         qq_res = "15059/anime_f.prefab",
         speak_role_id = 2,
-        sentence = "一直思来想去，就没有办法集中注意力感受那份意趣了。",
+        sentence = "I kept thinking about it so much that I totally lost my focus.",
         animation_mode = 1,
         animation_res = "15059/anime_f.prefab",
         trigger_mode = 2
@@ -3143,13 +3143,13 @@ data = {
       [1] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "某位教授明明和我说了晚安，怎么又出现在书房里了。",
+        sentence = "Hey! Didn't you say goodnight? What are you doing sneaking into the study?",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "( *^-^)|||怎么醒了？",
+        sentence = "( *^-^)||| I thought you'd be sleeping.",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3157,7 +3157,7 @@ data = {
       [3] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "做梦梦到你半夜偷偷起来整理资料，睁眼一看——",
+        sentence = "I dreamt you snuck off to sort files. I opened my eyes—",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3165,7 +3165,7 @@ data = {
       [4] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "你竟然真的不在床上了。",
+        sentence = "And you were really gone.",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3173,7 +3173,7 @@ data = {
       [5] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "( *^-^)|||原来是梦偷偷向你告了我的状。",
+        sentence = "( *^-^)||| Guess your dream tattled on me.",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3181,7 +3181,7 @@ data = {
       [6] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "所以你在——嗯？你怎么在看我拍的素材呀？",
+        sentence = "Wait, what are you watching? Is that the footage I shot?",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3189,7 +3189,7 @@ data = {
       [7] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "这、这是——",
+        sentence = "Wait, that's—",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3197,7 +3197,7 @@ data = {
       [8] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "( *^-^)是你准备在我们回家前剪辑好送给我的礼物？",
+        sentence = "( *^-^) You were planning to edit it into a gift for me before we go home, weren't you?",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3205,7 +3205,7 @@ data = {
       [9] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "你怎么知道……？",
+        sentence = "How did you know?",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3213,7 +3213,7 @@ data = {
       [10] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "因为我的小姑娘刚才嘟囔的梦话都在说——",
+        sentence = "Because a young lady were mumbling in your sleep—",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3221,7 +3221,7 @@ data = {
       [11] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "“没几天了，要快点剪好”",
+        sentence = "\"Not much time left, gotta finish editing it soon.\"",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3229,7 +3229,7 @@ data = {
       [12] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "所以我才想看看，到底是什么这么让你挂心。",
+        sentence = "So I got curious and peeked.",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3237,7 +3237,7 @@ data = {
       [13] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "然后就发现，原来这几天我弹琴的时候……",
+        sentence = "Turns out, whenever I was playing the guqin in the past few days...",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3245,7 +3245,7 @@ data = {
       [14] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "大制作人的摄影机一直都在悄悄运行。",
+        sentence = "You were filming me every step of the way.",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3253,7 +3253,7 @@ data = {
       [15] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "我就是觉得这个画面太珍贵了嘛。",
+        sentence = "Those moments felt just too precious not to capture.",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3261,7 +3261,7 @@ data = {
       [16] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "傻瓜，我当然知道你的心意。",
+        sentence = "Silly. Of course I know your intentions.",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3269,7 +3269,7 @@ data = {
       [17] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "所以才想试试我在大制作人身边这么久——",
+        sentence = "That's why I wanted to see that after being with you for so long...",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3277,7 +3277,7 @@ data = {
       [18] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "有没有学到剪辑的皮毛。",
+        sentence = "If I picked up any editing tricks from Miss Producer.",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3285,7 +3285,7 @@ data = {
       [19] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "噗，我来看看。剪辑条很干净，看起来也很连贯。",
+        sentence = "Hehe, let me see. The cuts are smooth and flow nicely.",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3293,7 +3293,7 @@ data = {
       [20] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "虽然许剪辑师很优秀，但还是有个明显不如我的地方~",
+        sentence = "But no offense, there's one thing you'll never beat me at!",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3301,7 +3301,7 @@ data = {
       [21] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 2,
-        sentence = "是什么？",
+        sentence = "Oh? Tell me.",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3309,7 +3309,7 @@ data = {
       [22] = {
         qq_res = "15059/anime_g.prefab",
         speak_role_id = 5,
-        sentence = "o(〃'▽'〃)o你对影像里这位主人公的爱意不及我~",
+        sentence = "o(〃'▽'〃)o You don't love the person in the video as much as I do!",
         animation_mode = 1,
         animation_res = "15059/anime_g.prefab",
         trigger_mode = 2
@@ -3319,31 +3319,31 @@ data = {
       [1] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 2,
-        sentence = "( *^-^)时隔几个月，又一次拥抱了晨起的第一缕阳光。",
+        sentence = "( *^-^) The first morning sunlight we've caught together in months.",
         trigger_mode = 2
       },
       [2] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "嘿嘿，旧办法但常用常新嘛~",
+        sentence = "Hehe, the tradition might be old for us, but it never stops feeling nice.",
         trigger_mode = 2
       },
       [3] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "辛苦了好几天的许教授，晒晒太阳有觉得放松一点吗？",
+        sentence = "After all that hard work, does a little sunshine help you relax?",
         trigger_mode = 2
       },
       [4] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 2,
-        sentence = "嗯，这种闲适又温馨的氛围，很难不让人忽然放松下来。",
+        sentence = "Yeah. Hard not to relax in such a cozy moment.",
         trigger_mode = 2
       },
       [5] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "⊙ω⊙！噗——",
+        sentence = "⊙ω⊙! Haha—",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3351,7 +3351,7 @@ data = {
       [6] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 2,
-        sentence = "嗯？",
+        sentence = "Hmm?",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3359,7 +3359,7 @@ data = {
       [7] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "除了放松，你就没有别的感受了吗？",
+        sentence = "Besides relaxing... do feel anything else?",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3367,7 +3367,7 @@ data = {
       [8] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 2,
-        sentence = "( *^-^)你泡的茶很好喝。",
+        sentence = "( *^-^) The tea you made is great.",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3375,7 +3375,7 @@ data = {
       [9] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "那多亏了许教授的耳濡目染~不过我可不是在讨夸奖哦！",
+        sentence = "Thanks to your techniques rubbing off on me! But I wasn't trying to fish for compliments!",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3383,7 +3383,7 @@ data = {
       [10] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "你就没有觉得自己身上有什么变化？",
+        sentence = "Notice any changes in yourself?",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3391,7 +3391,7 @@ data = {
       [11] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 2,
-        sentence = "嗯……如果$u这么问的话——",
+        sentence = "Hmm... if you put it that way, $u...",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3399,7 +3399,7 @@ data = {
       [12] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 2,
-        sentence = "每一天，我都会发现自己对$u更心动一点。",
+        sentence = "Every day, I fall a little more for $u",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3407,7 +3407,7 @@ data = {
       [13] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "(・ω・）虽然我也是，但我也不是在说这个啦~",
+        sentence = "(・ω・）Same here, but that's not what I meant!",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3415,7 +3415,7 @@ data = {
       [14] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "你没有发现自己脑袋上落了一只小鸟吗？",
+        sentence = "Didn't you notice the little bird sitting on your head?",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3423,7 +3423,7 @@ data = {
       [15] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 2,
-        sentence = "其实……从你的眼睛里能看得很清楚。",
+        sentence = "Actually... I could see it in your eyes.",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3431,7 +3431,7 @@ data = {
       [16] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 2,
-        sentence = "只是好像看你的反应会可爱一些。",
+        sentence = "But your reaction was too cute, so I stayed still.",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3439,7 +3439,7 @@ data = {
       [17] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "哼哼，还听说小动物会挑单纯善良的人靠近呢——",
+        sentence = "I heard animals like pure-hearted people—",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3447,7 +3447,7 @@ data = {
       [18] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 5,
-        sentence = "看来小鸟有点傻，才窝在“坏心眼小狐狸“的脑袋上~",
+        sentence = "Guess that little bird made an unwise choice landing on a \"sneaky little fox\"!",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3455,7 +3455,7 @@ data = {
       [19] = {
         qq_res = "15059/anime_h.prefab",
         speak_role_id = 2,
-        sentence = "( *^-^)这么说起来，傻傻的好像不只有这只小鸟。",
+        sentence = "( *^-^) Maybe that bird's not the only one who made an \"unwise decision\" one around.",
         animation_mode = 1,
         animation_res = "15059/anime_h.prefab",
         trigger_mode = 2
@@ -3465,7 +3465,7 @@ data = {
       [1] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "噢~发现了一位努力练书法的许教授。",
+        sentence = "Ooh. Looks like I found you practicing calligraphy, Professor Lucien!",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3473,7 +3473,7 @@ data = {
       [2] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "你怎么自己悄悄在书房里感受传统文化的意趣呀~",
+        sentence = "Sneaking in some traditional culture vibes, huh?",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3481,7 +3481,7 @@ data = {
       [3] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 2,
-        sentence = "( *^-^)其实我是在誊抄古琴谱。",
+        sentence = "( *^-^) Actually, I'm copying music sheets for the guqin.",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3489,7 +3489,7 @@ data = {
       [4] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "但上面明明有好多汉字，我看看——",
+        sentence = "But it's full of weird Chinese characters—",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3497,7 +3497,7 @@ data = {
       [5] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "完全是看不懂的“天书”呢( *^-^)|||",
+        sentence = "Looks like total gibberish to me! ( *^-^)|||",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3505,7 +3505,7 @@ data = {
       [6] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 2,
-        sentence = "它叫减字谱，上面记写着指位和左右手演奏技法。",
+        sentence = "It's called \"jianzi pu.\" It shows finger positions and playing techniques.",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3513,7 +3513,7 @@ data = {
       [7] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 2,
-        sentence = "确实有些像天书，我也学习辨认了很久。",
+        sentence = "Don't worry. I had to study it for quite a while too.",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3521,7 +3521,7 @@ data = {
       [8] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "原来如此，我也想试试~",
+        sentence = "I see. I wanna try too!",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3529,7 +3529,7 @@ data = {
       [9] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 2,
-        sentence = "虽然我也不是很熟练，但欢迎$u同学坐在我身边。",
+        sentence = "I'm not great at it either, but you're welcome to sit beside me, $u.",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3537,7 +3537,7 @@ data = {
       [10] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "那就拜托许老师啦~",
+        sentence = "I'm counting on you, Mr. Lucien!",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3545,7 +3545,7 @@ data = {
       [11] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "第一步，铺纸！第二步，提笔蘸墨——啊！",
+        sentence = "Step one: lay the paper! Step two: dip the brush—ah!",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3553,7 +3553,7 @@ data = {
       [12] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "……墨滴到纸上了。",
+        sentence = "...I dripped ink on the paper.",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3561,7 +3561,7 @@ data = {
       [13] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 2,
-        sentence = "没关系，备用的纸张还有很多，拿掉这张就可以 —— ( *^-^)|||",
+        sentence = "No worries. We've got plenty of paper. Just toss that one— ( *^-^)|||",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3569,7 +3569,7 @@ data = {
       [14] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "(⊙_⊙)？嗯？这张纸上怎么写满了我的名字。",
+        sentence = "(⊙_⊙)? Huh? Why is this sheet full of my name?",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3577,7 +3577,7 @@ data = {
       [15] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 2,
-        sentence = "许久没有用毛笔写字了，所以练习了一下找找感觉。",
+        sentence = "Haven't used a brush in a while, so I wanted to practice first.",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3585,7 +3585,7 @@ data = {
       [16] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 2,
-        sentence = "手边也没有字帖，于是想到什么便写什么了。",
+        sentence = "I didn't have anything to copy, so I just wrote down the first thing that always comes to my mind.",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3593,7 +3593,7 @@ data = {
       [17] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "原来如此~那我的第三步就是——",
+        sentence = "Aww! Then my next step is—",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -3601,7 +3601,7 @@ data = {
       [18] = {
         qq_res = "15059/anime_i.prefab",
         speak_role_id = 5,
-        sentence = "在每一个我的名字旁边，都写下你的名字。",
+        sentence = "I'll write your name next to every one of mine.",
         animation_mode = 1,
         animation_res = "15059/anime_i.prefab",
         trigger_mode = 2
@@ -11971,165 +11971,3175 @@ data = {
       }
     }
   },
+  [15088] = {
+    [17001] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Hey, 888, why do you have two yogurts on your tray?",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Is that a problem?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Of course it is! The rule says one per inmate. You need to return it.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Sorry, but I didn't take it. It just showed up on my tray.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...And you just accepted it?",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Why not?",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "If it bothers you, you can have it.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I don't want it! (=`´=)",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "And for the record, offering a yogurt to a guard counts as bribery!",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "First off, it's not even mine. Second, I was handing it over for you to deal with.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Isn't that what a rule-abiding inmate's supposed to do?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "You should be giving me a commendation instead.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Y-you—ugh! @@",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Don't try to talk circles around me!",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "So... can I drink it now? Or are you gonna take a picture, write a report, and file it up the chain?",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Ugh, just drink it already! = =#",
+        trigger_mode = 2
+      }
+    },
+    [17002] = {
+      [1] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "You've been stuck on that page for ten minutes.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I'm trying to memorize the important parts! Stop bugging me.",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Wait, why are you looking at me? Keep your eyes to yourself!",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "I would if someone would stop muttering under her breath nonstop.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I was not muttering... And 888, you're an inmate; you don't get to comment on a guard's behavior!",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "By \"guard behavior\", do you mean the little stick figures you drew down at the bottom of the page?",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...!",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "For your level, the drawings aren't half bad. You even fixed the crooked ones with correction fluid. I applaud the effort.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "That does not sound like a compliment... If you're so great, draw something yourself!",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Fine.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "A prison cat and a bunny guard... Hey, that's actually pretty good. (*´･д･) ‖",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Wait a sec. Why does the bunny have the word \"dummy\" on her forehead?!",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Figure it out yourself. ▼ ᴗ ▼",
+        trigger_mode = 2
+      }
+    },
+    [17003] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "According to records, your last visitor used a fake ID, 888.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Why didn't you report it?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "I assumed your system would catch it first.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "So if I didn't spot it, you weren't gonna say anything!?ヽ(`Д´)ﾉ",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Naturally. Verifying IDs is your job, not mine.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "You're still supposed to follow the rules!",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Quote the rule, then.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Never heard one that says I need to report a visitor who hasn't done anything wrong.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "You really think I'm plotting something behind your back, don't you? ▼ ᴗ ▼",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I—I'm not afraid of some random inmate, okay!?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Anyway, come with me. We're going to the isolation room. I'm doing a full-body search of you.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Gotta make sure you didn't take anything from that visitor.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Go ahead.",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Just remember, wrongfully accusing me goes on your record, too. Careful, Officer.",
+        trigger_mode = 2
+      }
+    },
+    [17004] = {
+      [1] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "...Something's bothering you?",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Are you watching me or something?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "That's suspicious behavior, 888.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "More like someone's just so obvious that she's like an open book.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Normal people don't mutter \"efficiency, impartiality\" while sighing like they've lost a bet.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Someone give you trouble?",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "No, I'm just... feeling a little down.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Someone didn't hit their score today. Got the death sentence.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I looked through his file. I don't think he deserved it... I guess I feel a little sorry for him.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Just a little sorry?",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "What do you mean?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Because you shouldn't.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Unless... you think the System got it wrong.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...!",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I-I never said that!",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "The System's always right!",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "You sure? Because your face disagrees.",
+        trigger_mode = 2
+      },
+      [18] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Enough, 888. Get back to your cell. We've talked way too much.",
+        trigger_mode = 2
+      }
+    },
+    [17005] = {
+      [1] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "You're writing way too slowly.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "It's called being thoughtful with my wording!",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "\"If I hadn't been walking that way, maybe the inmate would've taken a different route...",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "And if it had been a different guard, maybe none of this would've happened.\"",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "That's what you call thoughtful wording?",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "∑(ﾟДﾟノ)ノ",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Inmate 888! You are not allowed to peek at guard reports! *Stomach rumbles*",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Your stomach just growled.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "—You didn't hear that!",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "One nutrition pack was not enough for you?",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Of course not... Wait. That one on the floor, you left it there?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Didn't wanna see a guard collapse. That's all. ▼ _ ▼",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Wanna finish writing faster? Cafeteria's probably still open.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "You're not actually offering to help me write, are you?",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "You wish.",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "But when my employees write up proposals, they usually look at reference templates.",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "It might be a good idea to try that sometime.",
+        trigger_mode = 2
+      }
+    },
+    [17006] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "888, were you staring at me just now?",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Mhm.",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "You had cheesecake crumbs on your mouth.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "!!!",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Also saw you sneak two desserts today.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...!!!",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Don't give me that look. I'm not accusing you of anything. Just saying—",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "A certain someone looked genuinely happy, clutching those snacks. I daresay even happier than when your scores go up.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Inmates are not allowed to comment on a guard's facial expression!",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Then I'll phrase it differently. I was simply stating the fact that a \"high-scoring guard has a right to satisfaction\".",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Yeah, thanks.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "You're welcome.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I wasn't actually thanking you!",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Then I take it back.",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "(￣ー￣)",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Why don't you just smile more? It suits you better than your current expression.",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Can't. People will think I'm too soft.",
+        trigger_mode = 2
+      },
+      [18] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Strength and a smile aren't mutually exclusive. At least, not on you, $u.",
+        trigger_mode = 2
+      },
+      [19] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [20] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Thanks. This time I mean it.",
+        trigger_mode = 2
+      },
+      [21] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "You're welcome. I don't mind saying it twice.▼ ᴗ ▼",
+        trigger_mode = 2
+      }
+    },
+    [17007] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I'm transferring to a new sector starting tomorrow.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Congratulations. Looks like someone finally noticed how obsessively you follow protocol.",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Hmph. I'm taking that as a compliment.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "It was one. If this were my company, you'd already be promoted.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Well, too bad. I'm staying where the System assigned me.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Then you'd better start working even harder. It's harder to climb ranks in here than out there.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I'm not afraid of a little challenge.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "I know.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "So, 888. You'll be getting out soon, right?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Just... don't mess up again, okay? Don't come back.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "That depends on whether someone out there actually gives me a shot at staying clean.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "What do you mean?",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Maybe if you actually worked in a real company, you'd understand, amateur.",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I'm not an amateur! I'm a full-time officer now!",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "Saying that out loud just makes you sound even greener.",
+        trigger_mode = 2
+      },
+      [18] = {
+        qq_res = "15088/lzy_normal.png",
+        speak_role_id = 1,
+        sentence = "See you around. Hopefully.▼ ᴗ ▼",
+        trigger_mode = 2
+      }
+    },
+    [27001] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "What's with the look?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Has it really been so long that you've forgotten what your professor looks like?",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...As if.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "It's just... You seem to be doing even better than you did back at the university.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Bright, sharp, you don't even look tired.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Likely the result of a more disciplined daily routine lately.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "After all, meals here are planned to meet precise nutritional targets.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "No psychiatric patients to treat, and my reading time is strictly limited.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Compared to the constant pressure of my work before, it's almost relaxing.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Huh... when you put it that way, I guess you're right.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Now that I think about it, our quality of life as staff isn't even that much better than the inmates' QAQ.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "That's unfortunate.( ´•︵• ) ",
+        trigger_mode = 2
+      }
+    },
+    [27002] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "You really finished your meal!!!∑(ﾟДﾟノ)ノ",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Didn't notice anything off while eating?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Well... the fat content was slightly above my daily limit.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "But I'll be in the yard later, and that'll burn the excess off. Nothing to worry about.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "That's not the point... never mind.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Wait, when you used to recommend restaurants to me before, what was the reason for your choices?",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Efficient service that saves patrons' time.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "And they regularly disclose ingredient sources, making them more trustworthy in terms of food safety.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Anything else?",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Hmm? That's not persuasive enough?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Lucien, if you ever get out of here someday, I'll take you to some quality restaurants.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Some place that has actually healthy and delicious food.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "A very tempting proposal.",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "I'll have to be on my best behavior from now on, then.",
+        trigger_mode = 2
+      }
+    },
+    [27003] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Why are you the only one here? Where's everyone else?",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Still in the work-study area.",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "There's a full-day lecture for the inmates today. They'll be back late.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "And you...?",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "I got kicked out early.( ´•︵• )",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "I'm still not sure why participating too actively would warrant that.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Ha, I think you do know.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Drawing conclusions without all the facts, $u?",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I know all the facts about you.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Like how every time you're not being honest, you can't help but smile a little.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Is that so?^_^ ",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Then I'll just have to hide it better next time.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Good luck with that. But, I can't stand seeing you all alone in the Detention Area...",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Here, take this bottle of maple syrup.",
+        trigger_mode = 2
+      }
+    },
+    [27004] = {
+      [1] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "You've been standing here for a while.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "What's on your mind?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Just thinking the weather's perfect today. The sun's so clear you can see for miles.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "That faint outline over there, I think that's where Reintegration is.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Wonder if they're showing the latest movie releases this month...",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "If you're that curious, why not go see for yourself?",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "I read from the prison manual that inmates headed there need to be escorted by a member of the staff. That could be you.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I tried that already...",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "But the guards said that was their job, not the medical team's.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Even if an inmate's unwell, they won't go to Reintegration until they've fully recovered, so... there's just no way for me to go.(｡•́︿•̀｡) ",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "I see...",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Looks like I'll just have to find a way to bring you a little amusement as a thank-you for that maple syrup you gave me.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "If you liked the taste that much... wait.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Aren't you the criminal here? Why are you the one trying to cheer me up?",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Because you look a little... wistful.",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "And losing freedom isn't something reserved only for those in chains.",
+        trigger_mode = 2
+      }
+    },
+    [27005] = {
+      [1] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Your expression is... fascinating.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "I'd say that little tussle left quite the impression on you.",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Well... I can't tell if that guy was gutsy or just clueless.O口O",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I mean, there are guards and cameras on every floor.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Even if he broke out of the prison, he wouldn't get off this island on his own.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Perhaps he knows that all too well.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "But when you're sick of a life without daylight, even the faintest chance feels worth the risk.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...You sound like you actually relate to him.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "I've only caught fragments of his muttering. Enough to guess a few of his thoughts.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Tell me, what's going to happen to him now?",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "He'll definitely get points docked.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "As for memory wipe, execution, or something else... that's up to the System.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "And just so you don't do something stupid, too, think carefully before you act.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "...Are you worried about me, $u?",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Relax. I'm not the impulsive type.",
+        trigger_mode = 2
+      }
+    },
+    [27006] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Then explain why you are in the infirmary? (‧_‧?？？)",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "The System says your vitals are fine.",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Probably just hasn't updated yet.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "The wound's here... I caught it on the barbed wire during yard time.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "No wonder the system didn't warn me.O口O",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "That's barely a scratch.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "It'd heal in a few days even without treatment.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "But it does sting.(｡•́︿•̀｡) ",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "And you can't judge a wound just by its surface.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Barbed wire's been sitting out in the rain, picking up rust... tetanus isn't impossible.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "You'd really send me away like this?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Fine. Sit down, I'll take a look.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "We're out of light painkillers, so I'll go easy, but it'll take a little longer.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "That's fine. I'll let you take your time.",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "I'm in your hands now, $u.",
+        trigger_mode = 2
+      }
+    },
+    [27007] = {
+      [1] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "You're in a good mood.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I didn't even say a thing yet. How can you tell?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "I heard your footsteps.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Light, unhurried... like a butterfly's flutter.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "If it had been a quick, steady \"thud-thud-thud\", that would've meant you were tense—",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "And in most cases, that would mean trouble in the Infirmary.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "You noticed all that? (‧_‧?？？)",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "So what about when I'm annoyed? What does that sound like?",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Heavy steps, sometimes with the sharp tap of a kicked pebble.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "That only happens after you've had a chat with the Guard Captain.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "I take it he's not your favorite person?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Shhh—don't say it!!!!∑(ﾟДﾟノ)ノ ",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Your secret's safe with me.^_^",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "I wouldn't want it to spoil the mood of getting a gift.",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "Here, this chip's loaded with the latest film releases this month. Consider it my thanks for the maple syrup.",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Where did you even get this!?",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "This place isn't quite as airtight as you imagine.^_^ ",
+        trigger_mode = 2
+      },
+      [18] = {
+        qq_res = "15088/xm_normal.png",
+        speak_role_id = 2,
+        sentence = "There are still plenty of corners the system doesn't see.",
+        trigger_mode = 2
+      }
+    },
+    [37001] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Hi, my name is $u. I am a reporter for Continental News.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Hey! I'm Kiro. Great to meet you.",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "The warden should've filled you in about this feature.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "We'll be doing three to five interviews. Here's the outline. Take a look and see if anything's unclear.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Of course, we might talk a little about other things as well. Just think of it as a casual chat.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "The warden said you helped fix the prison's security system. I'd like to talk a bit more about that, too.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "It's pretty rare for inmates to receive accolades, and that makes for good PR.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Sounds good to me! I'll work with you all the way, Miss Reporter.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Ask whatever you like! I'll tell you whatever I know.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Perfect. Thanks for being so cooperative. Anything you want to ask me before we start?",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Nope, I'm good. But maybe for the next few interviews, let's keep things less formal and more relaxed.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "It's way easier to get honest answers that way, right?",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Definitely. A comfortable atmosphere makes all the difference.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Great! Let's go! I'm ready! ^ ^",
+        trigger_mode = 2
+      }
+    },
+    [37002] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "So this is what prison life's like.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Tough, sure, but the rehab programs seem really fulfilling.",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Oh, totally! Everyone gets to learn something they're actually interested in.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "And if you rack up points quickly enough, you walk out with a bunch of skills to use outside.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I don't think you have to worry about that. Even the warden says your skills are top-notch.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "But I'm curious. When you found that huge flaw in the security system...",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "How'd you convince the warden to trust you?",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Well... I've always kept a good record in here.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "So once I showed him proof and a fix, things just naturally moved forward.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "But the security system's classified.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "You're still an inmate; you couldn't have worked on it directly, could you?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Of course not.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "I wrote every single line of code out on paper, then passed it to the tech guys.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "That must've been a pain—writing in your cell and finding someone to pass it along.",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Oh no, I wasn't in my cell at the time.",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Huh? Were you in, like, a server room or something?",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Nah, I didn't have clearance for that. I was in the warden's office.",
+        trigger_mode = 2
+      },
+      [18] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "I was still a prisoner, so until I proved I was right...",
+        trigger_mode = 2
+      },
+      [19] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "I had to keep it all pretty low-key.",
+        trigger_mode = 2
+      }
+    },
+    [37003] = {
+      [1] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Hey, good evening, Miss Reporter. Still on the clock?",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Nah, I'm finished. I was just about to head back.",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "You looked into that lecture just now.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Well yeah. Gotta set an example for the other inmates, right?",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Haha, true.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Do you think those lectures actually help?",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Whoa, is this an off-the-record interview?",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Sorry, work habits never die.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Haha, I was just teasing you.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "I'm always happy to chat with you, Miss Reporter.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "As for the lectures... yeah, everyone resists them at first.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "But if you keep hearing and seeing the same stuff every day, it kind of sinks in.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Guess that's how \"brainwashing\" works, huh? ^ ^",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Wait, you sure it's okay to say that?",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Totally. I'm just speaking honestly—and I trust you.",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Reporters like people who are honest, right?",
+        trigger_mode = 2
+      }
+    },
+    [37004] = {
+      [1] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Anyway, the interview's over, but you still seem a bit out of it.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "You've been running back and forth all day. You must be tired.",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Yeah, kind of. I have to spend two or three hours on the boat every day...",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Sometimes I don't even get home until midnight.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Midnight? But I see you in here first thing in the morning sometimes.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "There's no way you're getting enough sleep.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Enough sleep? I'm barely getting four or five hours of sleep a day.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Whoa, being a reporter's even tougher than I thought.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "But it's worth it. Finding the truth is so satisfying.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "It's like getting a shot of pure adrenaline that just drives away all the fatigue.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Oh, I totally get that.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Whenever I crack a program, I feel amazing. Makes you wonder what else you can accomplish.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Exactly!",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Guess we really are alike.",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "The type who'll chase a goal no matter what. ^ ^!",
+        trigger_mode = 2
+      }
+    },
+    [37005] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Kiro? That's the first time I've seen you in the cafeteria.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I thought the guards usually brought your meals to your room.",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Haha. The guards here don't do room service.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "I just don't have a set meal schedule. That's all.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Oh, just FYI, don't down that coffee all at once. It's super bitter.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "That's just how things are. They don't stock any sugar here.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "True. However, I've got three orange candies on me.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Buuut... prison rules. You gotta trade something for something.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Uh... But I don't have anything to trade you.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "The guards locked up all my personal stuff.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "That's fine. I'll take an IOU.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "I'm getting out soon anyway, so I'll come collect later.",
+        trigger_mode = 2
+      }
+    },
+    [37006] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Kiro?",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "That's me! What are you doing here?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I... achoo!",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "You—achoo!",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Hahaha. Looks like we both caught a cold.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "The doctor's out for lunch, so we'll have to wait.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Come on, let's get some sun. It might help a bit.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Sun...? You mean that fake sun projection on the wall?",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Isn't that just for light and keeping everyone's spirits up?",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Yep, but fake or real, it's still light, right?",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "And where there's light, good things always happen.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "So let's stand here for a bit.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Maybe the good mood will make us both feel better without needing the meds. ^ ^!",
+        trigger_mode = 2
+      }
+    },
+    [37007] = {
+      [1] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "You still don't sound like you've fully recovered, Miss Reporter.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "How about we take it slow today and just talk?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "If you keep running non-stop like a machine...",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "You might end up breaking down.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Haha. Thanks for the concern, but I'm fine.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Besides, people are more flexible than machines. If I'm really at my limit, I'll just rest.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "True, people can choose for themselves.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "But what if, one day, machines could do that too?",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Have free will... do whatever they want?",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "What do you think the world would look like then?",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...That sounds like a horror story.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Does it?",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/zql_normal.png",
+        speak_role_id = 3,
+        sentence = "Or maybe... it's already happening. ^ ^!",
+        trigger_mode = 2
+      }
+    },
+    [47001] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Hey, uh... You hurt?",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Hey, don't turn your head.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "The guards are all half-asleep right now, but if they catch us, we're both screwed. So just... keep it quiet and listen.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I swiped a couple of band-aids from the infirmary earlier. Sometimes they patch people up like they don't even care. Here, take 'em.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Why're you giving these to me?",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "You're hurt, aren't you?",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "I don't even know you.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Doesn't matter. Strangers can help each other too, right? Just... think of it as me trying to earn some extra points.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "You even know why I'm hurt?",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...What, you tripped or something?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "The Deputy Warden and his goons jumped me.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Huh?",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Because I killed his uncle.",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "I'm not some saint.",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Do yourself a favor: stay away from me.",
+        trigger_mode = 2
+      },
+      [18] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Then I guess those two band-aids won't cut it. He'll probably come for you again tomorrow.",
+        trigger_mode = 2
+      },
+      [19] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "*Snorts*",
+        trigger_mode = 2
+      },
+      [20] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Was that a laugh?",
+        trigger_mode = 2
+      },
+      [21] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Aren't you scared of me?",
+        trigger_mode = 2
+      },
+      [22] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...You sound scary, but everyone here's scary, so... not really.",
+        trigger_mode = 2
+      },
+      [23] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "(Chuckles)...",
+        trigger_mode = 2
+      },
+      [24] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "I'll take your band-aids.",
+        trigger_mode = 2
+      }
+    },
+    [47002] = {
+      [1] = {
+        qq_res = "15088/unknown_normal.png",
+        speak_role_id = 1002,
+        sentence = "*Stomach growls*",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Uh, was that your stomach?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Haha...",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...You're that guy from yesterday, right? Guess you made it through another day.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Did they give you anything to eat? I got some bread. Want it?",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "You always hand out stuff to people?",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...It's just—",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/jailer_normal.png",
+        speak_role_id = 1003,
+        sentence = "Hey! You two! No whispering!",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Shh...",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "You didn't answer my question.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/jailer_normal.png",
+        speak_role_id = 1004,
+        sentence = "Gavin! Don't make me kick your ass!",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Shh!",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Give me a second.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/jailer_normal.png",
+        speak_role_id = 1003,
+        sentence = "What the hell are you—mmph!",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/jailer_normal.png",
+        speak_role_id = 1005,
+        sentence = "You—! Ugh—ahhh!",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Okay, talk.",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...What did you just do?! Wh–why's the alarm going off?!",
+        trigger_mode = 2
+      },
+      [18] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Cleared the pests out so we can chat.",
+        trigger_mode = 2
+      },
+      [19] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "We've got thirty seconds before backup shows—start talking.",
+        trigger_mode = 2
+      },
+      [20] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "About what—ah! I was just saying it's no big deal! I just heard your stomach growl...!",
+        trigger_mode = 2
+      },
+      [21] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Why didn't you eat it?",
+        trigger_mode = 2
+      },
+      [22] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Uhh... well...",
+        trigger_mode = 2
+      },
+      [23] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Twenty-three seconds.",
+        trigger_mode = 2
+      },
+      [24] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I wasn't feeling great, so I just held onto it. You can have it!",
+        trigger_mode = 2
+      },
+      [25] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "I'm fine. You eat it. Especially if you're not feeling well.",
+        trigger_mode = 2
+      },
+      [26] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "But...",
+        trigger_mode = 2
+      },
+      [27] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Then split it with me. I'll eat after I see you take a bite.",
+        trigger_mode = 2
+      },
+      [28] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Seventeen seconds.",
+        trigger_mode = 2
+      },
+      [29] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Fine—look, I ate it!",
+        trigger_mode = 2
+      },
+      [30] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Hmph. Not bad. Bread's actually pretty good.",
+        trigger_mode = 2
+      }
+    },
+    [47003] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...!",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Didn't expect to see you in the detention area. What are the odds!",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "You... what are you doing here?",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I—I'm just taking a walk.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "In the hallway of the area?",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "I thought you were an inmate.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I am! Just... got my own little way of getting around.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "But please... don't ask, yeah?",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Okay.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Thanks. Hope your score goes up so you can get outta here soon.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "And you? What's your story?",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Or is that off-limits too?",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Yeah, let's make that another \"don't ask\".",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Okay.",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "You got any more band-aids?",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Is your wound hurting again? Yeah, I always grab a few when I swing by the infirmary.",
+        trigger_mode = 2
+      },
+      [18] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "(Chukles) Why?",
+        trigger_mode = 2
+      },
+      [19] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Habit, I guess?",
+        trigger_mode = 2
+      },
+      [20] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Then make it a habit to tell me your name too.",
+        trigger_mode = 2
+      },
+      [21] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "And that's one I'm not letting you dodge.",
+        trigger_mode = 2
+      },
+      [22] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Nice to meet you, Gavin. My name is $u.(〃▽〃) ",
+        trigger_mode = 2
+      }
+    },
+    [47004] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Hey, are you watching the footage or not?",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "What's worth watching there?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Careful! The System checks if inmates show \"resistance\". If it detects anything, you'll get punished.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Not like I'm not used to getting smacked around.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Fair enough.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Besides, I'm not resisting. Watching the same thing every day is fine by me.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Good to know.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Didn't think you'd take them so seriously.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Not as seriously as you. Back in school, you'd probably be the teacher's favorite.",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Nah. I just pretend to look focused, but my head's actually thinking about something else.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Thinking about what?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Thinking about when I can get some sun during yard time next week... how to boost my score... and...",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "You're blushing.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "J–Just thinking about all sorts of stuff!",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Now watch the footage and quit bothering me.",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Fine. I'll leave you to your \"thoughts\".",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "I've got things to think about, too.",
+        trigger_mode = 2
+      }
+    },
+    [47005] = {
+      [1] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "So, you into midnight walks?",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...! Whoa, you scared me! How do you walk without making a sound?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "It's just easier at night when the guards stick to the main gate.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "If I could, I'd walk during the day too.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Today's as good a day as any. Let's go.",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Huh? Go where...? You planning to bust out?",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "You should go alone. I can't see. I'll just slow you down.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "We're not going far.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Didn't you say yesterday you wanted to sunbathe during yard time next week?",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Forget next week. The weather's good now.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Let's go soak up some moonlight.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...W–Wait...!",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Grab my hand. We'll move quicker that way.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...!(//////)",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...! I can feel the wind... Are we in the yard already?",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Nah, we are just running really, really fast.",
+        trigger_mode = 2
+      },
+      [18] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Really? No wonder the air feels so fresh... It's like I can taste the sky.",
+        trigger_mode = 2
+      },
+      [19] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Hey, Gavin. Can you tell me what the moon looks like?",
+        trigger_mode = 2
+      },
+      [20] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Then we'll have to get closer, or I won't be able to see it clearly either.",
+        trigger_mode = 2
+      },
+      [21] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Hold on tight. Don't let go.",
+        trigger_mode = 2
+      }
+    },
+    [47006] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Gavin? Is that you?",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Yeah, it's me.",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "I'll be quieter next time.",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "What are you doing here?",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Noticed you weren't in your room.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "You okay? Heard you blacked out this afternoon.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I'm fine. Really.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Can you stay for a while, Gavin?",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "I can stay all night if you want.",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "You wanna try sleeping again?",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I'm a little scared.",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Feels like I'll just have nightmares.",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Then how about this?",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...You're not dragging me to the yard again, are you? I'm not running tonight.",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "No. I'm taking you to a sweet dream.",
+        trigger_mode = 2
+      },
+      [18] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "That way, you don't have to be afraid.",
+        trigger_mode = 2
+      },
+      [19] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...You mean it?",
+        trigger_mode = 2
+      },
+      [20] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Yeah.",
+        trigger_mode = 2
+      },
+      [21] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Your hands are warm, Gavin.",
+        trigger_mode = 2
+      },
+      [22] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...You're almost out of here, aren't you?",
+        trigger_mode = 2
+      },
+      [23] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Hope it all goes your way...",
+        trigger_mode = 2
+      },
+      [24] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [25] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "I have just one last thing to take care of.",
+        trigger_mode = 2
+      },
+      [26] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Then we walk out together.",
+        trigger_mode = 2
+      }
+    },
+    [47007] = {
+      [1] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Evening, Gavin.",
+        trigger_mode = 2
+      },
+      [2] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [3] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...What's with that look? You mad about something?",
+        trigger_mode = 2
+      },
+      [4] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Is there something wrong?",
+        trigger_mode = 2
+      },
+      [5] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "...",
+        trigger_mode = 2
+      },
+      [6] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "No.",
+        trigger_mode = 2
+      },
+      [7] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Everything's fine.",
+        trigger_mode = 2
+      },
+      [8] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "I simply found something else equally important... only it's a bit of a hassle.",
+        trigger_mode = 2
+      },
+      [9] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Oh... can I help?",
+        trigger_mode = 2
+      },
+      [10] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Yeah. Give me a smile.",
+        trigger_mode = 2
+      },
+      [11] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Huh? That's all?",
+        trigger_mode = 2
+      },
+      [12] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "That's all.",
+        trigger_mode = 2
+      },
+      [13] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Easy enough.(˶ ᵔ ᵕ ᵔ ˶) ",
+        trigger_mode = 2
+      },
+      [14] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Why'd you go quiet?",
+        trigger_mode = 2
+      },
+      [15] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Because you look beautiful.",
+        trigger_mode = 2
+      },
+      [16] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "H-hey, don't just say stuff like that outta nowhere.(//////)...! ",
+        trigger_mode = 2
+      },
+      [17] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...Do you mean it?",
+        trigger_mode = 2
+      },
+      [18] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Yeah. In a dump like this...",
+        trigger_mode = 2
+      },
+      [19] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "You still look as beautiful as ever.",
+        trigger_mode = 2
+      },
+      [20] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "Being stuck here... doesn't it scare you?",
+        trigger_mode = 2
+      },
+      [21] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "Sure, but being scared doesn't fix anything.",
+        trigger_mode = 2
+      },
+      [22] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "I still wanna find a way out. I still wanna be brave.",
+        trigger_mode = 2
+      },
+      [23] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "...You're leaving soon, right, Gavin?",
+        trigger_mode = 2
+      },
+      [24] = {
+        qq_res = "15088/female_normal.png",
+        speak_role_id = 5,
+        sentence = "When you do... don't forget me, okay?",
+        trigger_mode = 2
+      },
+      [25] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "I won't.",
+        trigger_mode = 2
+      },
+      [26] = {
+        qq_res = "15088/bq_normal.png",
+        speak_role_id = 4,
+        sentence = "And I'll make damn sure... you don't forget me either.",
+        trigger_mode = 2
+      }
+    }
+  },
   [92021] = {
     [10001] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "笨蛋的祝福。",
+        sentence = "A certain dummy's wishes.",
         trigger_mode = 2
       }
     },
     [10002] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "布丁。刚烤好，焦糖香气还很浓的布丁。",
+        sentence = "Pudding, fresh out of the oven, with the caramel still warm and rich.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 1,
-        sentence = "毕竟某人说是被这种香气腌入味了都不过分。",
+        sentence = "I've made it for you so many times that you're starting to smell like one yourself.",
         trigger_mode = 2
       }
     },
     [10003] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "……▼ \" ▼",
+        sentence = "...▼ \" ▼",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "那我先回答好了，给你打个样~",
+        sentence = "Okay, I'll go first! Let me show you how it's done.",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 5,
-        sentence = "已回答问题",
+        sentence = "Question answered",
         trigger_mode = 2,
         extra_type = 1
       },
       [4] = {
         speak_role_id = 1,
-        sentence = "你的想法果然从来不令人失望。",
+        sentence = "Your outlandish creativity never disappoints.",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 5,
-        sentence = "嘿嘿，你想好了吗~",
+        sentence = "Hehe. So? You done thinking?",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "去$c给他们的老板当一天秘书。",
+        sentence = "Be the boss's secretary at $c for a day.",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 5,
-        sentence = "……哇！这个答案也太意外了！",
+        sentence = "Whoa, that's unexpected!",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 5,
-        sentence = "那我岂不是可以理直气壮地指使你端茶倒水？？",
+        sentence = "Does that mean I get to boss you around?",
         trigger_mode = 2
       },
       [9] = {
         speak_role_id = 1,
-        sentence = "可以，只要你有这个胆量。",
+        sentence = "Sure. If you've got the guts to try.",
         trigger_mode = 2
       },
       [10] = {
         speak_role_id = 5,
-        sentence = "哼哼，当我的秘书可是一件门槛很高的事！",
+        sentence = "Hmph! I don't just hire anyone as my secretary, you know!",
         trigger_mode = 2
       },
       [11] = {
         speak_role_id = 5,
-        sentence = "你先说说求职理由，我再决定要不要录用你~",
+        sentence = "Sell me on it. Why should I hire you?",
         trigger_mode = 2
       },
       [12] = {
         speak_role_id = 1,
-        sentence = "能旁观笨蛋的脑袋一点点冒出不着边际的想法——",
+        sentence = "I get a front-row seat to watch a certain dummy's ridiculous ideas come to life...",
         trigger_mode = 2
       },
       [13] = {
         speak_role_id = 1,
-        sentence = "▼ ᴗ ▼这样的工作，应该不会无聊。",
+        sentence = "▼ ᴗ ▼ Sounds like a fun job.",
         trigger_mode = 2
       }
     },
     [10004] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "如果我回答了，你就会帮我做吗。",
+        sentence = "If I give you my answer, you'll actually help me with it?",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "当然！毕竟我也是家里的一份子嘛~",
+        sentence = "Of course! I'm part of the family too, remember?",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "心意收下了。",
+        sentence = "Appreciate it.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 1,
-        sentence = "但我不喜欢的家务都已经有机器代劳了。",
+        sentence = "But all the chores I hate have already been delegated to machines.",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 5,
-        sentence = "被你这么一说……",
+        sentence = "Now that you mention it...",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 5,
-        sentence = "我发现这道题我也答不出来。",
+        sentence = "I don't think I can answer that question either.",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 5,
-        sentence = "毕竟我不想做的家务，好像全都被你代劳了。",
+        sentence = "All the stuff I hate doing is already taken care of by you.",
         trigger_mode = 2
       }
     },
     [10005] = {
       [1] = {
         speak_role_id = 5,
-        sentence = "是不是华锐游轮正式启航的时候？",
+        sentence = "Was it when the LFG cruise ship finally set sail?",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "或者是，我们今天上午一起看到海上日出的瞬间。",
+        sentence = "Or maybe that moment this morning when we watched the sunrise together on the water?",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "说得不错，但都算不上最近。",
+        sentence = "Good guesses, but not quite recent enough.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 5,
-        sentence = "可我们看完日出就回来就一直窝在房间里欸。",
+        sentence = "But after the sunrise, we just chilled in the room all day!",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 1,
-        sentence = "嗯，可是现在阳光正好。",
+        sentence = "Yeah, but right now, the sun's warm and perfect.",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "没有工作的打扰，脑子里什么都不用想。",
+        sentence = "No work, no stress, no thoughts.",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 1,
-        sentence = "怀里有个你傻乎乎地抬着头，等着听我的回答。",
+        sentence = "I've got you curled up next to me, looking up with that goofy face, waiting for my answer.",
         trigger_mode = 2
       },
       [8] = {
@@ -12139,202 +15149,202 @@ data = {
       },
       [9] = {
         speak_role_id = 1,
-        sentence = "这些就是我的幸福。",
+        sentence = "That's what happiness feels like.",
         trigger_mode = 2
       }
     },
     [10006] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "赤忱到毫无保留、盛大到铺天盖地、浪漫到倾尽所有。",
+        sentence = "Devoted without reserve, so grand it can blot out the sky, and romantic beyond what words can describe.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 1,
-        sentence = "是我遇见过的最好的爱。",
+        sentence = "It's the best love I've ever known.",
         trigger_mode = 2
       }
     },
     [10007] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "能陪伴彼此的人生向前走，也能一起做幼稚的事。",
+        sentence = "Someone who can walk through life with me, but also do silly stuff together.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 1,
-        sentence = "最重要的是，可以在对方眼里找到足够快乐的自己。",
+        sentence = "Most importantly, someone whose eyes reflect back the happiest version of myself.",
         trigger_mode = 2
       }
     },
     [10008] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "4天前。",
+        sentence = "Four days ago.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "记得这么清楚，那你梦到我什么了呀？",
+        sentence = "Wow, that specific? What was the dream?",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "某个笨蛋做成了一个大项目。",
+        sentence = "A certain dummy nailed a huge project.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 1,
-        sentence = "于是洋洋得意地跑到我办公室，扬言要收购华锐。",
+        sentence = "And then she strutted into my office, claiming she was going to buy out LFG.",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 5,
-        sentence = "噗，我居然敢在你的梦里做这么了不起的事……",
+        sentence = "Wow, I did that in your dream?",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "……▼ \" ▼？",
+        sentence = "...▼ \" ▼?",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 5,
-        sentence = "嘿嘿，如果是我做了这个梦，肯定要打击报复一番~",
+        sentence = "Hehe, if I were you, I'd totally get revenge in real life.",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 5,
-        sentence = "但你竟然提都没提，不愧是总裁的气量！",
+        sentence = "But you didn't even mention it to me. I guess that's why you're the CEO and not me!",
         trigger_mode = 2
       },
       [9] = {
         speak_role_id = 1,
-        sentence = "▼ ᴗ ▼但我忽然觉得……",
+        sentence = "▼ ᴗ ▼ But now that I think about it...",
         trigger_mode = 2
       },
       [10] = {
         speak_role_id = 1,
-        sentence = "都要被你“篡位”了，要气量也没什么用。",
+        sentence = "You were going to usurp me. The least I could do is be a bit more petty.",
         trigger_mode = 2
       },
       [11] = {
         speak_role_id = 1,
-        sentence = "所以原本准备给你的草莓挞，我决定自己吃。",
+        sentence = "I was going to get you some strawberry tarts, but now I'm eating them myself.",
         trigger_mode = 2
       }
     },
     [10009] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "上个月，在东海湾。",
+        sentence = "Last month, at Eastside Bay.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "嘿嘿，那我的答案和你一样。",
+        sentence = "Hehe, same for me then!",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "某些人这么快就忘了，自己昨晚还在浴室热情高歌？",
+        sentence = "Uh-huh... Funny how someone already forgot she was belting out songs in the shower last night.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 5,
-        sentence = "……！你都听到了？",
+        sentence = "...Wait, you heard that?!",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 1,
-        sentence = "何止听到，简直听得一清二楚。",
+        sentence = "Loud and clear.",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "“我爱洗澡，皮肤好好”。",
+        sentence = "\"I love taking showers. My skin's so smooth!\"",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 5,
-        sentence = "……李泽言，虽然我们关系很好，但这次你真的越界了。",
+        sentence = "...Victor, we might be close, but that was so over the line.",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 5,
-        sentence = "偷听别人在浴室唱歌是不礼貌的行为。",
+        sentence = "Eavesdropping on someone singing in the bathroom is rude!",
         trigger_mode = 2
       },
       [9] = {
         speak_role_id = 1,
-        sentence = "你声音那么大，我的耳朵还没投诉你，你反而先倒打一耙。",
+        sentence = "With how loud you were? My ears should be the ones filing the complaints, not you.",
         trigger_mode = 2
       },
       [10] = {
         speak_role_id = 5,
-        sentence = "QAQ呜呜呜我不管……",
+        sentence = "Noooo! How could you! I demand compensation! QAQ",
         trigger_mode = 2
       },
       [11] = {
         speak_role_id = 1,
-        sentence = "……那你想我怎么做？",
+        sentence = "...What do you want?",
         trigger_mode = 2
       },
       [12] = {
         speak_role_id = 5,
-        sentence = "今天晚上！和我一起唱吧！",
+        sentence = "Sing with me tonight!",
         trigger_mode = 2
       },
       [13] = {
         speak_role_id = 1,
-        sentence = "我忽然想起来晚上有个跨国会要开，你先睡，不用等我。",
+        sentence = "Just remembered I have an important online meeting tonight. You go ahead and sleep. Don't wait up.",
         trigger_mode = 2
       }
     },
     [10010] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "……这些问题真的不是你自己写了丢进瓶子里的吗？",
+        sentence = "...You sure you didn't write all these cheesy questions yourself and throw them in the bottle?",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "不要逃避问题哦~",
+        sentence = "Don't dodge the question!",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "没什么特别偏好的。",
+        sentence = "I don't have a specific favorite.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 1,
-        sentence = "比起自己，我知道某人的答案。",
+        sentence = "But I do know a certain someone's sleep habits really well.",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 1,
-        sentence = "毕竟每天三更半夜，我的身上都会多出来一只树袋熊。",
+        sentence = "Because every night, without exception...",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "四仰八叉地挂在我身上。",
+        sentence = "I always literally have a koala clinging to me.",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 5,
-        sentence = "真的假的，可我每天早上醒来的时候，明明都不在你身上啊……",
+        sentence = "No way! But when I wake up, I'm never even near you...",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 1,
-        sentence = "被你这么一提醒，我倒是忽然有答案了。",
+        sentence = "Now that you said that... actually, I do have an answer for this question.",
         trigger_mode = 2
       },
       [9] = {
         speak_role_id = 1,
-        sentence = "笨蛋没办法抢走被子的姿势比较令人安心。",
+        sentence = "My favorite position is the one where a certain dummy can't steal my blanket.",
         trigger_mode = 2
       },
       [10] = {
@@ -12344,223 +15354,223 @@ data = {
       },
       [11] = {
         speak_role_id = 1,
-        sentence = "至少这样，不至于双双露在被子外面，最后一起着凉。",
+        sentence = "At least that way, none of us would freeze in the middle of the night and catch a cold in the morning.",
         trigger_mode = 2
       },
       [12] = {
         speak_role_id = 1,
-        sentence = "我能睡得安稳一些。",
+        sentence = "That's my favorite sleeping position.",
         trigger_mode = 2
       },
       [13] = {
         speak_role_id = 5,
-        sentence = "嘿嘿，听懂了，你喜欢抱着我睡~",
+        sentence = "Hehe, so basically, you like cuddling me to sleep.",
         trigger_mode = 2
       },
       [14] = {
         speak_role_id = 1,
-        sentence = "▼ ᴗ ▼我不否认这一点。",
+        sentence = "▼ᴗ▼ I'm not denying it.",
         trigger_mode = 2
       }
     },
     [10011] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "把布丁也一起带出来看看。",
+        sentence = "Glad we brought Pudding with us on the trip.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "是哦~它这几天看起来好开心，很快就适应了时差。",
+        sentence = "Totally! He looks so happy! And he adjusted to the time zone so fast, too!",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "……难道不是某人用心良苦，硬生生把它熬成了相同的时差。",
+        sentence = "...Or maybe it's because someone was super committed to keeping him awake until he synced up.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 5,
-        sentence = "嘿嘿，毕竟我们一家人出来玩，当然一个都不能落~",
+        sentence = "Hehe, well, we're a family. Can't leave anyone behind, right?",
         trigger_mode = 2
       }
     },
     [10012] = {
       [1] = {
         speak_role_id = 5,
-        sentence = "哇，能抽到这个问题，我手气也太好了吧。",
+        sentence = "Oh my god! I actually pulled this question? My luck is on fire!",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 1,
-        sentence = "……看来你是打定主意要碰瓷了。",
+        sentence = "...Sounds like you planned this from the start.",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 5,
-        sentence = "嘿嘿，你必须挑一个~",
+        sentence = "Hehe. You have to pick one now!",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 1,
-        sentence = "……▼ _ ▼",
+        sentence = "...▼ _ ▼",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 5,
-        sentence = "李泽言——好不好嘛——",
+        sentence = "Come on, Victor!! Pleeease!!",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "……那就只做这一次赔本买卖。",
+        sentence = "...Alright, but just this once.",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 5,
-        sentence = "嗯嗯！哪一个？",
+        sentence = "Yay! So, which wish are you granting?",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 1,
-        sentence = "每一个。",
+        sentence = "All of them.",
         trigger_mode = 2
       }
     },
     [10013] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "……某人该不会又要说起那个沙堡了吧。",
+        sentence = "...You're not about to bring up that sandcastle again, are you?",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "噗，你是不是有点一朝被蛇咬十年怕井绳。",
+        sentence = "Pfft! Are you still salty about that?",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "这难道不是归功于你，拿着它对我开了无数个条件。",
+        sentence = "Can you blame me? You used that thing as a bargaining chip at least a million times.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 5,
-        sentence = "不过我对你的第一印象才没有那么单薄呢！",
+        sentence = "Hey, my first impression of you was way more meaningful, okay!",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 1,
-        sentence = "我倒是有些好奇了，这份印象有多厚重。",
+        sentence = "Oh really? Now I'm curious how \"meaningful\" we're talking.",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 5,
-        sentence = "已回答问题",
+        sentence = "Question answered",
         trigger_mode = 2,
         extra_type = 1
       },
       [7] = {
         speak_role_id = 1,
-        sentence = "这一点上，我和你相反。",
+        sentence = "Well, mine's kind of the opposite.",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 1,
-        sentence = "小时候见到你觉得遇到了一个黏人哭包。",
+        sentence = "The first time I saw you, you were this clingy little crybaby.",
         trigger_mode = 2
       },
       [9] = {
         speak_role_id = 1,
-        sentence = "后来再见面就是不看路的冒失鬼。",
+        sentence = "Next time we met, you were a total klutz who didn't watch where you were going.",
         trigger_mode = 2
       },
       [10] = {
         speak_role_id = 1,
-        sentence = "两次见面的印象都算不上重，但不是说不深刻的意思。",
+        sentence = "Neither left a huge impression, but that's not to say they weren't memorable.",
         trigger_mode = 2
       },
       [11] = {
         speak_role_id = 1,
-        sentence = "只是和后来你我间的际遇相比，相遇实在算不上什么厚重的事。",
+        sentence = "It's just we're comparing them to everything that's happened between us since then.",
         trigger_mode = 2
       }
     },
     [10014] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "……我使用拒绝回答权。",
+        sentence = "...Yeah, I'm not answering that.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "没有这种权利的。",
+        sentence = "Sorry, not an option.",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "你难道不比我更清楚这个问题的答案。",
+        sentence = "Don't you already know the answer to the question?",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 5,
-        sentence = "嗯？我根~本~不~知~道~呀~",
+        sentence = "Huh? No idea what you're talking about. Hehe.",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 1,
-        sentence = "既然这样，我可以多给你几次机会，直到你找到答案为止。",
+        sentence = "In that case... I'll let you find out for yourself. You have unlimited chances.",
         trigger_mode = 2
       }
     },
     [10015] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "比起哄人高兴，不如先解决问题。",
+        sentence = "Instead of cheering me up, I'd rather we fix the actual problem first.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "有道理。可你的情绪难道不需要被安抚吗？",
+        sentence = "Fair... but don't you think your feelings would need a little comforting too?",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "不需要。解决了问题，情绪自然会纾解。",
+        sentence = "Not really. Solve the issue, and the mood fixes itself.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 5,
-        sentence = "……这个答案不好，我不喜欢。",
+        sentence = "...Boo. Lame answer!",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 1,
-        sentence = "那你想听什么答案。",
+        sentence = "What, would you rather I say something like—",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "想听我说每次某人蹭过来亲我的时候，我都会被哄好？",
+        sentence = "\"Every time someone sneaks over and kisses me, I magically feel better\"?",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 5,
-        sentence = "……你怎么知道我在想什么？",
+        sentence = "...How'd you know that's exactly what I was thinking??",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 1,
-        sentence = "▼ ᴗ ▼因为我足够了解某个笨蛋。",
+        sentence = "▼ᴗ▼ Let's just say I know a certain dummy too well.",
         trigger_mode = 2
       },
       [9] = {
         speak_role_id = 1,
-        sentence = "不过之所以它不是这道题的答案。",
+        sentence = "But that's not the answer, because honestly—",
         trigger_mode = 2
       },
       [10] = {
         speak_role_id = 1,
-        sentence = "是因为它发生在任何情况下，都会令人心情不错。",
+        sentence = "That works no matter what mood I'm in.",
         trigger_mode = 2
       },
       [11] = {
@@ -12572,200 +15582,200 @@ data = {
     [10016] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "没有。不管做什么事都很好。",
+        sentence = "Don't have one. Anything with you is great.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "哇，我看到那里有人画情侣肖像画！",
+        sentence = "Ooh! I see someone doing couple portraits over there! Let's do one!",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "……没记错的话，五分钟前我刚刚拒绝了你一遍。",
+        sentence = "...Pretty sure I already turned that down like five minutes ago.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 5,
-        sentence = "可是今时不同往日，你刚刚可是亲口说的，做什么都很好~",
+        sentence = "Yeah, but that was before you said, \"Anything with you is great.\"",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 1,
-        sentence = "去可以，但距离登船时间只有20分钟了。",
+        sentence = "Fine, we can go. But boarding time is in 20 minutes.",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "如果没赶上，你来负责把我们一起运到下一个旅行地点。",
+        sentence = "If we miss the boat, you're carrying us both to the next stop.",
         trigger_mode = 2
       }
     },
     [10017] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "都可以，取决于和谁一起吃饭。",
+        sentence = "Depends. Who am I eating with?",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "如果和我呢？",
+        sentence = "Me, obviously.",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "那就根据你的想法来定。",
+        sentence = "Then we go with whatever you want.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 5,
-        sentence = "如果我再往题干里加一个选项——$u出品的家庭料理呢？",
+        sentence = "Okay, but what if I add one more choice—home-cooked meals made by the one and only $u?",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 1,
-        sentence = "选你。",
+        sentence = "Then I pick you.",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "刚好检查一下某人赖在厨房里耳濡目染的成果。",
+        sentence = "Perfect excuse to see if you've picked up anything from hanging around the kitchen so much.",
         trigger_mode = 2
       }
     },
     [10018] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "不存在这样的话。",
+        sentence = "Nope.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "可是每次我说“帮帮我吧，李泽言”的时候，你明明都会帮我。",
+        sentence = "Liar! Every time I say, \"Pleeease help me, Victor,\" you totally give in!",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "你没说这句话的时候，我难道就不帮你了？",
+        sentence = "And when you don't say that, do I still help you?",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 5,
-        sentence = "也对哦？那我下次不说了……",
+        sentence = "Hmm... yeah, I guess you do. Maybe I won't say it next time...",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 1,
-        sentence = "那下次我不帮了。",
+        sentence = "Then I guess I won't help next time.",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 5,
-        sentence = "……你好幼稚啊李泽言！",
+        sentence = "Oh my god, why?",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 5,
-        sentence = "刚刚明明就是你说这句话没有作用的。",
+        sentence = "You literally just said you didn't care!",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 1,
-        sentence = "它确实不会影响既定结果。",
+        sentence = "I did.",
         trigger_mode = 2
       },
       [9] = {
         speak_role_id = 1,
-        sentence = "毕竟某个笨蛋来求助的时候，肯定已经自己努力解决过了。",
+        sentence = "Whenever a certain dummy comes asking for help, I know she's already done everything she could.",
         trigger_mode = 2
       },
       [10] = {
         speak_role_id = 1,
-        sentence = "这种情况，就算你什么都不说，我也不会袖手旁观。",
+        sentence = "So even if she didn't say a word, I'd still help her out.",
         trigger_mode = 2
       },
       [11] = {
         speak_role_id = 1,
-        sentence = "但这句话也不算毫无用处。毕竟，它能让我的心情变得还不错。",
+        sentence = "But that doesn't mean asking me is useless. It does have one effect—it puts me in a good mood.",
         trigger_mode = 2
       }
     },
     [10019] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "游轮的构造有问题。",
+        sentence = "There's something wrong with the cruise ship's design.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "……你怎么忽然在航行在海上的时候，说这种吓人的话。",
+        sentence = "...You do realize we're literally in the middle of the ocean right now? Not the best time to say something like that!",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "胡思乱想些什么。",
+        sentence = "Relax. I'm not talking about anything dangerous.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 1,
-        sentence = "华锐游轮还不至于在安全性上出现问题。",
+        sentence = "LFG spared no expense in ensuring absolute safety.",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 5,
-        sentence = "那你说的是什么呀？",
+        sentence = "Then what's the problem?",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "套房离海钓中心要走10分钟。",
+        sentence = "The suite is a ten-minute walk from the fishing deck.",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 1,
-        sentence = "中间需要带着钓竿和钓箱换3部电梯，很不方便。",
+        sentence = "I have to drag the gear and switch elevators three times. It's a hassle.",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 1,
-        sentence = "▼ \" ▼还会遇到很多盯着钓箱看的人。",
+        sentence = "▼\"▼ And people keep staring at the tackle box.",
         trigger_mode = 2
       },
       [9] = {
         speak_role_id = 5,
-        sentence = "怪不得你昨天带着空钓箱回来，是把鱼送给他们了吗？",
+        sentence = "No wonder you came back empty-handed yesterday. Did you give the fish away?",
         trigger_mode = 2
       },
       [10] = {
         speak_role_id = 1,
-        sentence = "……不是。",
+        sentence = "...No.",
         trigger_mode = 2
       },
       [11] = {
         speak_role_id = 1,
-        sentence = "他们只是会盯着我的空钓箱，一遍遍地发出和你一样的疑问。",
+        sentence = "They just stared at the empty box and asked the same question you just did.",
         trigger_mode = 2
       }
     },
     [10020] = {
       [1] = {
         speak_role_id = 5,
-        sentence = "我要坦白，这张纸条是我偷偷塞进去的~",
+        sentence = "Okay, I'll admit it. I snuck this question into the jar.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 1,
-        sentence = "看出来了，某人抽出来这张纸条的时候就差跳起来了。",
+        sentence = "I figured. Someone looked like she won the lottery when pulling it out.",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "登船前。",
+        sentence = "Right before we boarded the ship.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 5,
-        sentence = "登船前……我好像只是一直拉着你和游轮拍合影？",
+        sentence = "Really? I was just dragging you around trying to get good photos with the cruise ship.",
         trigger_mode = 2
       },
       [5] = {
@@ -12775,252 +15785,252 @@ data = {
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "嗯，一会儿要把华锐的logo放进取景框里——",
+        sentence = "Yeah, you were trying to fit LFG's logo in one shot—",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 1,
-        sentence = "一会儿又说要把别人的脸拍得意气风发才行。",
+        sentence = "Then trying to get the \"perfect smile\" in the other.",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 5,
-        sentence = "嘿嘿，虽然对华锐来说，一艘游轮算不上大事……",
+        sentence = "Hehe... I mean, launching a cruise ship is not that big a deal for LFG...",
         trigger_mode = 2
       },
       [9] = {
         speak_role_id = 5,
-        sentence = "但无论如何，总归是一件好事嘛。",
+        sentence = "But it's still a milestone.",
         trigger_mode = 2
       },
       [10] = {
         speak_role_id = 1,
-        sentence = "这么多年，每次遇到了好事，某个笨蛋总会开心我的开心。",
+        sentence = "All these years, you've always celebrated my wins like they're your own.",
         trigger_mode = 2
       },
       [11] = {
         speak_role_id = 1,
-        sentence = "这样的你，难免会让人心动。",
+        sentence = "It's hard not to be touched when somebody would go that far out for you.",
         trigger_mode = 2
       }
     },
     [10021] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "看看世界。",
+        sentence = "A chance to see more of the world.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 1,
-        sentence = "再听听身边的笨蛋说说她眼里的世界。",
+        sentence = "And to hear how a certain dummy sees it.",
         trigger_mode = 2
       }
     },
     [10022] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "这又是什么问题……人不能就是人吗。",
+        sentence = "...Why can't I just be a person?",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 5,
-        sentence = "发挥一下你的想象力嘛！",
+        sentence = "Come on, play along!",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 5,
-        sentence = "如果是我，想要变成一朵玫瑰花~",
+        sentence = "I'd wanna be a rose!",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 1,
-        sentence = "一朵听起来不够热闹，不像你。",
+        sentence = "One rose doesn't quite match your energy.",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 1,
-        sentence = "估计一整座玫瑰花园，才堪堪够和你的吵闹相媲美。",
+        sentence = "A whole rose garden, maybe—that's closer.",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 5,
-        sentence = "嘿嘿，那你就是一棵长在玫瑰花园里的金币钱钱树。",
+        sentence = "Hehe. Then you'd be the lucky money tree growing right in the middle of it!",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 1,
-        sentence = "……倒是出人意料的不难接受。",
+        sentence = "...Unexpected, but I don't dislike it.",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 1,
-        sentence = "就它吧▼ ᴗ ▼。",
+        sentence = "You have a deal. ▼ᴗ▼",
         trigger_mode = 2
       }
     },
     [10023] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "猫砂、罐头、冻干、玩具、换季的猫窝。",
+        sentence = "Cat litter, canned food, freeze-dried treats, toys, and a seasonal cat bed.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 1,
-        sentence = "还有给某人的礼物。",
+        sentence = "Plus a gift. For a certain someone.",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 5,
-        sentence = "怎么都是我们的东西，你自己呢？",
+        sentence = "All that's for us! What about you?",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 1,
-        sentence = "我暂时没什么需要买的。",
+        sentence = "I don't really need anything right now.",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 5,
-        sentence = "李泽言，你这样不对，要对自己好一点。",
+        sentence = "That's not the point! You should treat yourself more.",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 1,
-        sentence = "我倒是想，可惜没找到机会。",
+        sentence = "I try, but I just don't get the chance.",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 1,
-        sentence = "上周刚想下单一套杯子，你就以签大单为由抢着帮我买了。",
+        sentence = "Last week, I was about to order a set of cups, and then you bought them for me \"to celebrate the signing of that big contract.\"",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 1,
-        sentence = "再上一周的那箱红酒也是。再上上周……笨蛋，发什么呆。",
+        sentence = "The week before that, I added some wine to my cart. Didn't even get to checkout. And the week before that... Little dummy, are you still listening?",
         trigger_mode = 2
       },
       [9] = {
         speak_role_id = 5,
-        sentence = "……我在想，怪不得我这个月的信用卡要还这么多钱。",
+        sentence = "...Yeah. Just realizing why my credit card bill's been terrifying this month.",
         trigger_mode = 2
       },
       [10] = {
         speak_role_id = 1,
-        sentence = "▼ ᴗ ▼现在后悔还来得及，给你报销。",
+        sentence = "▼ᴗ▼ It's not too late. I can still reimburse you.",
         trigger_mode = 2
       },
       [11] = {
         speak_role_id = 5,
-        sentence = "谢谢李总的好意，但送出去的礼物哪有喊人报销的道理~",
+        sentence = "Thanks, Mr. Victor, but gifts aren't meant to be reimbursed.",
         trigger_mode = 2
       },
       [12] = {
         speak_role_id = 5,
-        sentence = "这份甜蜜“负担”，我承受得心甘情愿。",
+        sentence = "I'll gladly carry this \"sweet burden.\"",
         trigger_mode = 2
       }
     },
     [10024] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "改变有很多，很难用程度来区分。",
+        sentence = "There've been a lot of changes. Hard to rank them.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 1,
-        sentence = "前所未有地拓展了布丁的制作方法和搭配组合。",
+        sentence = "I've come up with more pudding variations than I ever thought possible.",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 1,
-        sentence = "工作的占比变轻了不少。",
+        sentence = "Work doesn't take up quite as much space in my life anymore.",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 1,
-        sentence = "发现赖床的感觉也没那么糟糕。",
+        sentence = "I've even realized sleeping in isn't as much of a waste of time as I once thought.",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 1,
-        sentence = "也发现世界上居然有人这么笨、又出奇地擅长说歪理。",
+        sentence = "And, apparently, there's someone out there who's both hopelessly clumsy and unexpectedly skilled at bending logic to suit herself.",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 5,
-        sentence = "……等等等，你好像跑题了哦！",
+        sentence = "...Hey! That sounds like a personal attack! You're totally off-topic!",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 1,
-        sentence = "▼ ᴗ ▼不过，拜她所赐——",
+        sentence = "▼ᴗ▼ Maybe.",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 1,
-        sentence = "也让我发现了生活中居然有这么多傻傻的、却让人快乐的事。",
+        sentence = "But thanks to you, I've learned that life is full of silly little things, and somehow, they make it better.",
         trigger_mode = 2
       }
     },
     [10025] = {
       [1] = {
         speak_role_id = 1,
-        sentence = "不反感。",
+        sentence = "I don't mind it.",
         trigger_mode = 2
       },
       [2] = {
         speak_role_id = 1,
-        sentence = "而且，觉得笨蛋在这一点上有点缺乏。",
+        sentence = "Actually, I think you could show a little more of it.",
         trigger_mode = 2
       },
       [3] = {
         speak_role_id = 5,
-        sentence = "我吗？",
+        sentence = "Wait—me?!",
         trigger_mode = 2
       },
       [4] = {
         speak_role_id = 1,
-        sentence = "不然是谁，刚才转头就把我给她的布丁送给了吴部长的孩子。",
+        sentence = "Who else would give away the pudding I made her to Minister Wood's kid?",
         trigger_mode = 2
       },
       [5] = {
         speak_role_id = 5,
-        sentence = "噗，那不是好久没有见到这位小朋友了嘛~",
+        sentence = "Oh, come on! I hadn't seen his kid in forever!",
         trigger_mode = 2
       },
       [6] = {
         speak_role_id = 5,
-        sentence = "而且手边刚好什么都没拿，只有这一个布丁……",
+        sentence = "And I didn't have anything else on me...",
         trigger_mode = 2
       },
       [7] = {
         speak_role_id = 5,
-        sentence = "嘿嘿，李泽言，你的占有欲好可爱。",
+        sentence = "Hehe, your possessiveness is kind of cute, you know.",
         trigger_mode = 2
       },
       [8] = {
         speak_role_id = 5,
-        sentence = "我也想看你多多表现出来。",
+        sentence = "You should show it more often.",
         trigger_mode = 2
       },
       [9] = {
         speak_role_id = 1,
-        sentence = "还不够多吗。",
+        sentence = "You think I don't?",
         trigger_mode = 2
       },
       [10] = {
         speak_role_id = 1,
-        sentence = "只是很多时候，笨蛋太迟钝，察觉不了。",
+        sentence = "The problem is, you rarely notice, little dummy.",
         trigger_mode = 2
       },
       [11] = {
         speak_role_id = 5,
-        sentence = "嗯？你能不能提示我一下~",
+        sentence = "Hmm? Then give me a clue next time!",
         trigger_mode = 2
       },
       [12] = {
         speak_role_id = 1,
-        sentence = "此时此刻，我已经在提示你了。",
+        sentence = "I just did.",
         trigger_mode = 2
       },
       [13] = {
@@ -13030,7 +16040,7 @@ data = {
       },
       [14] = {
         speak_role_id = 1,
-        sentence = "我比你想象中，更想要占据你的一切。",
+        sentence = "I want more of you than you realize.",
         trigger_mode = 2
       }
     },
@@ -13039,73 +16049,73 @@ data = {
       [2] = {
         qq_res = "101101",
         speak_role_id = 1,
-        sentence = "这是你亲手做的？",
+        sentence = "You made this yourself?",
         voice = "voice_838102_1",
         trigger_mode = 2
       },
       [3] = {
         qq_res = "114",
         speak_role_id = 5,
-        sentence = "没错~还请李总审阅$u出品的手工书，多多发表感言！",
+        sentence = "Yep! Please enjoy this one-of-a-kind handmade book, specially crafted by the one and only $u! Reviews are welcome!",
         trigger_mode = 2
       },
       [4] = {
         qq_res = "101104",
         speak_role_id = 1,
-        sentence = "看起来花里胡哨的，一看就是你的风格。",
+        sentence = "It's... pretty flashy. Looks exactly like something you'd design.",
         voice = "voice_838102_3",
         trigger_mode = 2
       },
       [5] = {
         qq_res = "101104",
         speak_role_id = 1,
-        sentence = "这只兔子看起来很傻，也很像你。",
+        sentence = "And this rabbit—it looks absolutely silly. Just like you.",
         voice = "voice_838102_4",
         trigger_mode = 2
       },
       [6] = {
         qq_res = "112",
         speak_role_id = 5,
-        sentence = "……哼，那这只可爱的黑猫呢？",
+        sentence = "Excuse me?! Then what about the adorable black cat next to it?",
         trigger_mode = 2
       },
       [7] = {
         qq_res = "101101",
         speak_role_id = 1,
-        sentence = "它吗？它看起来很喜欢边上那只笨蛋兔子。",
+        sentence = "That one? Seems way too fond of the ridiculous rabbit beside it.",
         voice = "voice_838102_6",
         trigger_mode = 2
       },
       [8] = {
         qq_res = "101101",
         speak_role_id = 1,
-        sentence = "勉强算和我有几分相似。",
+        sentence = "I suppose it does resemble me... to some extent.",
         voice = "voice_838102_7",
         trigger_mode = 2
       },
       [9] = {
         qq_res = "114",
         speak_role_id = 5,
-        sentence = "明明就是一模一样~",
+        sentence = "Hah! Not \"to some extent\"—it's exactly you!",
         trigger_mode = 2
       },
       [10] = {
         qq_res = "113",
         speak_role_id = 5,
-        sentence = "而且从你现在的表情来看，你好像超级超级喜欢这份礼物。",
+        sentence = "And judging by that tiny smile, I think you secretly love it.",
         trigger_mode = 2
       },
       [11] = {
         qq_res = "101104",
         speak_role_id = 1,
-        sentence = "某人的尾巴都要翘到天上去了。",
+        sentence = "Someone's getting a little too proud of herself.",
         voice = "voice_838102_10",
         trigger_mode = 2
       },
       [12] = {
         qq_res = "101108",
         speak_role_id = 1,
-        sentence = "至于会不会“超级超级喜欢”，等看了后面再说。",
+        sentence = "Whether or not I really love it... I'll tell you after I've finished going through it.",
         voice = "voice_838102_11",
         trigger_mode = 2
       },
@@ -13119,26 +16129,26 @@ data = {
       [16] = {
         qq_res = "114",
         speak_role_id = 5,
-        sentence = "第一页是我送给你的生日祝福~",
+        sentence = "The first page is a birthday message just for you!",
         trigger_mode = 2
       },
       [17] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "短短一天生日，能送几百个不重样的祝福，也只有你能做到了。",
+        sentence = "Only you would think of giving me hundreds of different birthday wishes in a single day.",
         voice = "voice_838102_13",
         trigger_mode = 2
       },
       [18] = {
         qq_res = "114",
         speak_role_id = 5,
-        sentence = "毕竟我对你的心意从来都无穷无尽嘛~",
+        sentence = "Of course! My feelings for you don't exactly run out, you know!",
         trigger_mode = 2
       },
       [19] = {
         qq_res = "113",
         speak_role_id = 5,
-        sentence = "而且这里藏着机关哦！",
+        sentence = "Oh, and there's a hidden surprise on this page too!",
         trigger_mode = 2
       },
       [20] = {
@@ -13149,33 +16159,33 @@ data = {
       [21] = {
         qq_res = "113",
         speak_role_id = 5,
-        sentence = "我当时想，要是有一根不灭的蜡烛能帮李泽言实现所有的心愿就好了。",
+        sentence = "When I made it, I thought if there were a candle that never burned out, maybe it could help make all your wishes come true.",
         trigger_mode = 2
       },
       [22] = {
         qq_res = "112",
         speak_role_id = 5,
-        sentence = "不过，你都把以后的愿望交给我了，它好像就没什么用了。",
+        sentence = "But since you said you'd hand your future wishes over to me, I guess that candle isn't needed anymore.",
         trigger_mode = 2
       },
       [23] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "我不这么认为。",
+        sentence = "I don't quite agree.",
         voice = "voice_838102_18",
         trigger_mode = 2
       },
       [24] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "虽然这根蜡烛，确实无法和无所不能的笨蛋相提并论。",
+        sentence = "The candle might not match the capabilities of a certain overly enthusiastic dummy.",
         voice = "voice_838102_19",
         trigger_mode = 2
       },
       [25] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "但上面承载着的你的心意，与我而言，同样弥足珍贵。",
+        sentence = "But the thought behind it... That means just as much to me.",
         voice = "voice_838102_20",
         trigger_mode = 2
       },
@@ -13193,45 +16203,45 @@ data = {
       [29] = {
         qq_res = "114",
         speak_role_id = 5,
-        sentence = "嘿嘿，这一页有点挤~",
+        sentence = "Okay, this page got kind of full...",
         trigger_mode = 2
       },
       [30] = {
         qq_res = "113",
         speak_role_id = 5,
-        sentence = "因为它的主题是——希望你的人生永远都和美好相伴。",
+        sentence = "Because the theme was \"I hope your life is always surrounded by good things.\"",
         trigger_mode = 2
       },
       [31] = {
         qq_res = "112",
         speak_role_id = 5,
-        sentence = "但美好的事情太多了，我又很贪心，想把它们全部都带给你……",
+        sentence = "But there were too many things I wanted to include...",
         trigger_mode = 2
       },
       [32] = {
         qq_res = "114",
         speak_role_id = 5,
-        sentence = "所以一不小心就挤得满满当当了。",
+        sentence = "Think I packed in a little too much...",
         trigger_mode = 2
       },
       [33] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "你的心意，我从来都不嫌多。",
+        sentence = "No such thing as too much when it comes to you.",
         voice = "voice_838102_25",
         trigger_mode = 2
       },
       [34] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "只是在这件事上，其实你从来无须努力。",
+        sentence = "But for something like this, you don't actually have to try so hard.",
         voice = "voice_838102_26",
         trigger_mode = 2
       },
       [35] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "毕竟有笨蛋在身边，就已经是美好的代名词了。",
+        sentence = "With a certain dummy here... life is already filled with the best thing I could wish for.",
         voice = "voice_838102_27",
         trigger_mode = 2
       },
@@ -13264,79 +16274,79 @@ data = {
       [42] = {
         qq_res = "101101",
         speak_role_id = 1,
-        sentence = "这一页的主题看起来是生日当天。",
+        sentence = "This next page looks like it's about today.",
         voice = "voice_838102_28",
         trigger_mode = 2
       },
       [43] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "不过某人今天一直陪在我身边，不该有时间做这么繁杂的手工。",
+        sentence = "But you've been with me the whole time. There's no way you made this on the spot.",
         voice = "voice_838102_29",
         trigger_mode = 2
       },
       [44] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "所以，这是你之前做的？",
+        sentence = "So... you planned this in advance?",
         voice = "voice_838102_30",
         trigger_mode = 2
       },
       [45] = {
         qq_res = "103",
         speak_role_id = 5,
-        sentence = "哇，果然什么都瞒不过李总~这确实是我之前做的生日计划。",
+        sentence = "Wow! I knew nothing gets past you. Yep, it's part of my pre-made birthday plan.",
         trigger_mode = 2
       },
       [46] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "你就没有想过，如果我没有选择按你的计划度过今天呢？",
+        sentence = "And what if I didn't follow your plan?",
         voice = "voice_838102_32",
         trigger_mode = 2
       },
       [47] = {
         qq_res = "114",
         speak_role_id = 5,
-        sentence = "怎么可能~",
+        sentence = "Not possible. I knew you would.",
         trigger_mode = 2
       },
       [48] = {
         qq_res = "101104",
         speak_role_id = 1,
-        sentence = "这么自信？",
+        sentence = "Confident, aren't you?",
         voice = "voice_838102_34",
         trigger_mode = 2
       },
       [49] = {
         qq_res = "113",
         speak_role_id = 5,
-        sentence = "嗯！毕竟现在是华锐团建期间，你的工作本身就不多。",
+        sentence = "Well, with an LFG group event going on, I figured your workload was gonna be light.",
         trigger_mode = 2
       },
       [50] = {
         qq_res = "113",
         speak_role_id = 5,
-        sentence = "就算有工作，你也会尽量都提前做完，把今天的时间留给我。",
+        sentence = "Even if something came up, you'd have cleared your schedule for me today.",
         trigger_mode = 2
       },
       [51] = {
         qq_res = "114",
         speak_role_id = 5,
-        sentence = "而且你看起来是喜欢我给你过生日的，所以应该会听我的安排~",
+        sentence = "And... I think you actually like it when I take over your birthday.",
         trigger_mode = 2
       },
       [52] = {
         qq_res = "101107",
         speak_role_id = 1,
-        sentence = "终于没那么笨了。",
+        sentence = "I see you have become sharper.",
         voice = "voice_838102_38",
         trigger_mode = 2
       },
       [53] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "你说得不错，我确实很喜欢。",
+        sentence = "You're not wrong. I do enjoy it.",
         voice = "voice_838102_39",
         trigger_mode = 2
       },
@@ -13359,53 +16369,53 @@ data = {
       [58] = {
         qq_res = "110",
         speak_role_id = 5,
-        sentence = "你怎么一直不说话呀？",
+        sentence = "Hey... why'd you get so quiet?",
         trigger_mode = 2
       },
       [59] = {
         qq_res = "101108",
         speak_role_id = 1,
-        sentence = "只是忽然意识到，原来笨蛋已经陪着我度过这么多个生日了。",
+        sentence = "Just realizing that you've been with me for a lot of birthdays now.",
         voice = "voice_838102_41",
         trigger_mode = 2
       },
       [60] = {
         qq_res = "101108",
         speak_role_id = 1,
-        sentence = "好像和从前没什么分别，还是一样冒冒失失。",
+        sentence = "And really, not much has changed. You're still clumsy. Still a little chaotic.",
         voice = "voice_838102_42",
         trigger_mode = 2
       },
       [61] = {
         qq_res = "101108",
         speak_role_id = 1,
-        sentence = "也还是一样毫无保留地把全部的真心都送给别人。",
+        sentence = "Still giving everything you've got without holding anything back.",
         voice = "voice_838102_43",
         trigger_mode = 2
       },
       [62] = {
         qq_res = "113",
         speak_role_id = 5,
-        sentence = "你也和从前一样嘛~",
+        sentence = "You haven't changed much either.",
         trigger_mode = 2
       },
       [63] = {
         qq_res = "114",
         speak_role_id = 5,
-        sentence = "只是嘴上吐槽着，其实早就把我所有的祝福和真心都照单全收了。",
+        sentence = "You still act like you're not moved by anything, but you always accept everything I give you. Wishes, love, all of it.",
         trigger_mode = 2
       },
       [64] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "我没有拒绝的理由。",
+        sentence = "There's no reason not to.",
         voice = "voice_838102_46",
         trigger_mode = 2
       },
       [65] = {
         qq_res = "101103",
         speak_role_id = 1,
-        sentence = "毕竟被你这样纯粹又热烈地注视着、祝福着，是一件太过幸福的事。",
+        sentence = "Being seen and loved this deeply is the kind of happiness other people spend a lifetime chasing.",
         voice = "voice_838102_47",
         trigger_mode = 2
       }

@@ -21858,10 +21858,10 @@ data = {
     },
     type_judge = 2,
     male_role_id = 8,
-    card_get = "0,森游记活动限定",
+    card_get = "0,Forest Odyssey Event Exclusive",
     card_achieve_rewards = "6491,253,1",
     card_tag = "302",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/9/12 05:00:00",
     tag_desc_id = 302,
     card_talk_id = 30385302,
     card_shout_id = 30385302,
@@ -21871,8 +21871,8 @@ data = {
     fullshow_offset = "1,4,249,1:2,-54,249,1",
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "叛逆劳模",
-    card_role_name = "凌肖"
+    card_real_name = "Model Rebel",
+    card_role_name = "Shaw"
   }, meta),
   [38540] = setmetatable({
     card_rare = 3,
@@ -22000,10 +22000,10 @@ data = {
     },
     type_judge = 2,
     male_role_id = 8,
-    card_get = "0,惊奇刹那活动限定",
+    card_get = "0,Surprise Moment Event Exclusive",
     card_achieve_rewards = "6515,253,1",
     card_tag = "304",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/28 05:00:00",
     tag_desc_id = 304,
     card_talk_id = 30385602,
     card_shout_id = 30385602,
@@ -22012,8 +22012,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "糖心审判",
-    card_role_name = "凌肖"
+    card_real_name = "Trial of Sweets",
+    card_role_name = "Shaw"
   }, meta),
   [38570] = setmetatable({
     card_rare = 3,
@@ -22047,10 +22047,10 @@ data = {
     },
     type_judge = 2,
     male_role_id = 8,
-    card_get = "0,爱在有你的城市活动限定",
+    card_get = "0,Where Love Blossoms Event Exclusive",
     card_achieve_rewards = "6522,253,1",
     card_tag = "304",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/3/10 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 30385702,
     card_shout_id = 30385702,
@@ -22060,8 +22060,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "囊中之物",
-    card_role_name = "凌肖"
+    card_real_name = "Prized Possession",
+    card_role_name = "Shaw"
   }, meta),
   [38580] = setmetatable({
     card_rare = 3,
@@ -24612,11 +24612,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,幸福折角活动限定",
+    card_get = "0,Corner of Happiness Event Exclusive",
     card_achieve_rewards = "1776,253,1",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/1/8 00:00:00",
     tag_desc_id = 308,
     card_talk_id = 30414802,
     card_shout_id = 30414802,
@@ -24630,8 +24630,8 @@ data = {
     engagement_demo_end = 35,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "幸福折角",
-    card_role_name = "李泽言"
+    card_real_name = "Corner of Happiness",
+    card_role_name = "Victor"
   }, meta),
   [41490] = setmetatable({
     card_rare = 4,
@@ -24664,11 +24664,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,限时累充送活动限定",
+    card_get = "0,Limited-time Cumulative Top-up Event Exclusive",
     card_achieve_rewards = "1772,253,1",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/12/23 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 30414902,
     card_shout_id = 30414902,
@@ -24681,8 +24681,8 @@ data = {
     engagement_demo_end = 15,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "不如沉醉",
-    card_role_name = "李泽言"
+    card_real_name = "Twilight Fever",
+    card_role_name = "Victor"
   }, meta),
   [42010] = setmetatable({
     card_rare = 4,
@@ -26742,11 +26742,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,限时累充送活动限定",
+    card_get = "0,Limited-time Cumulative Top-up Event Exclusive",
     card_achieve_rewards = "2762,253,1",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/28 05:00:00",
     tag_desc_id = 308,
     card_talk_id = 30424502,
     card_shout_id = 30424502,
@@ -26759,8 +26759,8 @@ data = {
     engagement_demo_end = 54,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "盈盈在目",
-    card_role_name = "许墨"
+    card_real_name = "Glittering Gaze",
+    card_role_name = "Lucien"
   }, meta),
   [42460] = setmetatable({
     card_rare = 4,
@@ -26793,11 +26793,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,黄金恋比活动限定",
+    card_get = "0,Golden Ratio Event Exclusive",
     card_achieve_rewards = "2750,253,1",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/11/10  05:00:00",
     tag_desc_id = 305,
     card_talk_id = 30424602,
     card_shout_id = 30424602,
@@ -26811,8 +26811,8 @@ data = {
     engagement_demo_end = 49,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "黄金恋比",
-    card_role_name = "许墨"
+    card_real_name = "Golden Ratio",
+    card_role_name = "Lucien"
   }, meta),
   [43010] = setmetatable({
     card_rare = 4,
@@ -28518,11 +28518,11 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,如约而至活动限定",
+    card_get = "0,Promised Reunion Event Exclusive",
     card_achieve_rewards = "3555,253,1",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/7 05:00:00",
     tag_desc_id = 303,
     card_talk_id = 30433802,
     card_shout_id = 30433802,
@@ -28535,8 +28535,8 @@ data = {
     engagement_demo_end = 46,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "人生一掷",
-    card_role_name = "周棋洛"
+    card_real_name = "Toss of Fate",
+    card_role_name = "Kiro"
   }, meta),
   [43390] = setmetatable({
     card_rare = 4,
@@ -30706,11 +30706,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,如约而至活动限定",
+    card_get = "0,Promised Reunion Event Exclusive",
     card_achieve_rewards = "4663,253,1",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/9/3 05:00:00",
     tag_desc_id = 305,
     card_talk_id = 30444302,
     card_shout_id = 30444302,
@@ -30723,8 +30723,8 @@ data = {
     engagement_demo_end = 12,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "觅冬",
-    card_role_name = "白起"
+    card_real_name = "Winter's Trace",
+    card_role_name = "Gavin"
   }, meta),
   [44440] = setmetatable({
     card_rare = 4,
@@ -30860,11 +30860,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,限时累充送活动限定",
+    card_get = "0,Limited-time Cumulative Top-up Event Exclusive",
     card_achieve_rewards = "4732,253,1",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/9/25 05:00:00",
     tag_desc_id = 308,
     card_talk_id = 30444602,
     card_shout_id = 30444602,
@@ -30877,8 +30877,8 @@ data = {
     engagement_demo_end = 33,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "定帧温度",
-    card_role_name = "白起"
+    card_real_name = "Warm Frame",
+    card_role_name = "Gavin"
   }, meta),
   [48010] = setmetatable({
     card_rare = 4,
@@ -34170,11 +34170,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,如约而至活动限定",
+    card_get = "0,Promised Reunion Event Exclusive",
     card_achieve_rewards = "1232,252,1",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/2/28 05:00:00",
     tag_desc_id = 308,
     card_talk_id = 30517002,
     card_shout_id = 30517002,
@@ -34187,8 +34187,8 @@ data = {
     engagement_demo_end = 17,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "我心盎然",
-    card_role_name = "李泽言"
+    card_real_name = "A Heart in Bloom",
+    card_role_name = "Victor"
   }, meta),
   [51710] = setmetatable({
     card_rare = 5,
@@ -34673,11 +34673,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,风华绝代活动限定",
+    card_get = "0,Unsurpassed Beauty Event Exclusive",
     card_achieve_rewards = "1262,252,1",
     card_tag = "302",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/9/1 05:00:00",
     tag_desc_id = 302,
     card_talk_id = 30518002,
     card_shout_id = 30518002,
@@ -34690,8 +34690,8 @@ data = {
     engagement_demo_end = 50,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "共话凡尘",
-    card_role_name = "李泽言"
+    card_real_name = "This World With You",
+    card_role_name = "Victor"
   }, meta),
   [51810] = setmetatable({
     card_rare = 5,
@@ -35029,11 +35029,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,记忆回廊活动限定",
+    card_get = "0,Memory Corridor Event Exclusive",
     card_achieve_rewards = "1290,252,1",
     card_tag = "301",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/8/21 05:00:00",
     tag_desc_id = 301,
     card_talk_id = 30518702,
     card_shout_id = 30518702,
@@ -35043,8 +35043,8 @@ data = {
     engagement_list = 12,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "解药",
-    card_role_name = "李泽言"
+    card_real_name = "Remedy",
+    card_role_name = "Victor"
   }, meta),
   [51880] = setmetatable({
     card_rare = 5,
@@ -35181,11 +35181,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,星河印象活动限定",
+    card_get = "0,Milky Way Event Exclusive",
     card_achieve_rewards = "1297,252,1",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/11/26 05:00:00",
     tag_desc_id = 305,
     card_talk_id = 30519002,
     card_shout_id = 30519002,
@@ -35195,8 +35195,8 @@ data = {
     engagement_list = 12,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "硝色启示",
-    card_role_name = "李泽言"
+    card_real_name = "Ashen Revelation",
+    card_role_name = "Victor"
   }, meta),
   [51910] = setmetatable({
     card_rare = 5,
@@ -35229,11 +35229,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,午夜邀请函活动限定",
+    card_get = "0,Midnight Invitation Event Exclusive",
     card_achieve_rewards = "1305,252,1",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/28 05:00:00",
     tag_desc_id = 306,
     card_talk_id = 30519102,
     card_shout_id = 30519102,
@@ -35246,8 +35246,8 @@ data = {
     engagement_demo_end = 72,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "潮汐之溺",
-    card_role_name = "李泽言"
+    card_real_name = "Drowning Caress",
+    card_role_name = "Victor"
   }, meta),
   [51920] = setmetatable({
     card_rare = 5,
@@ -35280,11 +35280,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,地久天长活动限定",
+    card_get = "0,Forevermore Event Exclusive",
     card_achieve_rewards = "1308,252,1",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/3/10 5:00:00",
     tag_desc_id = 308,
     card_talk_id = 30519202,
     card_shout_id = 30519202,
@@ -35298,8 +35298,8 @@ data = {
     engagement_demo_end = 22,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "共今朝",
-    card_role_name = "李泽言"
+    card_real_name = "Everlasting Moment",
+    card_role_name = "Victor"
   }, meta),
   [51930] = setmetatable({
     card_rare = 5,
@@ -35554,6 +35554,57 @@ data = {
     card_no = 1,
     card_real_name = "尘嚣万千",
     card_role_name = "李泽言"
+  }, meta),
+  [51980] = setmetatable({
+    card_rare = 5,
+    card_level_limit = {40, 60},
+    card_type = 3,
+    card_property_base = {
+      6,
+      90,
+      216,
+      288
+    },
+    card_property_inc = {
+      61,
+      902,
+      2164,
+      2885
+    },
+    talent_plan_id = 5224,
+    card_skill_rand_id = 5,
+    card_resolve_price = {
+      {
+        100028,
+        28,
+        48
+      },
+      {
+        119071,
+        101,
+        2
+      }
+    },
+    male_role_id = 1,
+    card_get = "0,Original Sin Event Exclusive",
+    card_achieve_rewards = "1330,252,1",
+    card_tag = "303",
+    Share_tips = 1,
+    handbook_time = "2025/9/25 05:00:00",
+    tag_desc_id = 303,
+    card_talk_id = 30519802,
+    card_shout_id = 30519802,
+    card_icon = "51980",
+    evolution_icon = "51981",
+    engagement_type = 1,
+    engagement_list = 11311,
+    engagement_demo_id = 411312,
+    engagement_demo_start = 59,
+    engagement_demo_end = 77,
+    exchange_only = 0,
+    card_no = 1,
+    card_real_name = "Invincible",
+    card_role_name = "Victor"
   }, meta),
   [52010] = setmetatable({
     card_rare = 5,
@@ -39186,11 +39237,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,寒山独见卿活动限定",
+    card_get = "0,Eyes for You Event Exclusive",
     card_achieve_rewards = "2270,252,1",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/9/17 05:00:00",
     tag_desc_id = 305,
     card_talk_id = 30528102,
     card_shout_id = 30528102,
@@ -39203,8 +39254,8 @@ data = {
     engagement_demo_end = 22,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "浮生何如",
-    card_role_name = "许墨"
+    card_real_name = "Fleeting Dream",
+    card_role_name = "Lucien"
   }, meta),
   [52820] = setmetatable({
     card_rare = 5,
@@ -39338,11 +39389,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,记忆回廊活动限定",
+    card_get = "0,Memory Corridor Event Exclusive",
     card_achieve_rewards = "2283,252,1",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/8/21 05:00:00",
     tag_desc_id = 306,
     card_talk_id = 30528402,
     card_shout_id = 30528402,
@@ -39352,8 +39403,8 @@ data = {
     engagement_list = 22,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "暗流迷宫 ",
-    card_role_name = "许墨"
+    card_real_name = "Unseen Labyrinth",
+    card_role_name = "Lucien"
   }, meta),
   [52850] = setmetatable({
     card_rare = 5,
@@ -39437,11 +39488,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,限时累充送活动限定",
+    card_get = "0,Limited-time Cumulative Top-up Event Exclusive",
     card_achieve_rewards = "2293,252,1",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/9/25 05:00:00",
     tag_desc_id = 303,
     card_talk_id = 30528602,
     card_shout_id = 30528602,
@@ -39454,8 +39505,8 @@ data = {
     engagement_demo_end = 66,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "艳果",
-    card_role_name = "许墨"
+    card_real_name = "Luscious Apple",
+    card_role_name = "Lucien"
   }, meta),
   [52870] = setmetatable({
     card_rare = 5,
@@ -39540,11 +39591,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,星河印象活动限定",
+    card_get = "0,Milky Way Event Exclusive",
     card_achieve_rewards = "2298,252,1",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/11/26 05:00:00",
     tag_desc_id = 306,
     card_talk_id = 30528802,
     card_shout_id = 30528802,
@@ -39554,8 +39605,8 @@ data = {
     engagement_list = 22,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "寄生",
-    card_role_name = "许墨"
+    card_real_name = "Parasite",
+    card_role_name = "Lucien"
   }, meta),
   [52890] = setmetatable({
     card_rare = 5,
@@ -39639,11 +39690,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,午夜邀请函活动限定",
+    card_get = "0,Midnight Invitation Event Exclusive",
     card_achieve_rewards = "2302,252,1",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/28 05:00:00",
     tag_desc_id = 305,
     card_talk_id = 30529002,
     card_shout_id = 30529002,
@@ -39656,8 +39707,8 @@ data = {
     engagement_demo_end = 22,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "摄魂之主",
-    card_role_name = "许墨"
+    card_real_name = "Alluring Soul",
+    card_role_name = "Lucien"
   }, meta),
   [52910] = setmetatable({
     card_rare = 5,
@@ -39690,11 +39741,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,地久天长活动限定",
+    card_get = "0,Forevermore Event Exclusive",
     card_achieve_rewards = "2306,252,1",
     card_tag = "301",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/3/10 5:00:00",
     tag_desc_id = 301,
     card_talk_id = 30529102,
     card_shout_id = 30529102,
@@ -39708,8 +39759,8 @@ data = {
     engagement_demo_end = 33,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "痴情诗",
-    card_role_name = "许墨"
+    card_real_name = "Poem of Eternal Love",
+    card_role_name = "Lucien"
   }, meta),
   [52920] = setmetatable({
     card_rare = 5,
@@ -39793,11 +39844,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,限时累充送活动限定",
+    card_get = "0,Limited-time Cumulative Top-up Event Exclusive",
     card_achieve_rewards = "2314,252,1",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/12/23 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 30529302,
     card_shout_id = 30529302,
@@ -39811,8 +39862,8 @@ data = {
     back_login_offset = "1:-65,0,0;1:0,0,0",
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "心悦地",
-    card_role_name = "许墨"
+    card_real_name = "A Heart's Content",
+    card_role_name = "Lucien"
   }, meta),
   [52940] = setmetatable({
     card_rare = 5,
@@ -39861,6 +39912,57 @@ data = {
     card_no = 1,
     card_real_name = "蚕食",
     card_role_name = "许墨"
+  }, meta),
+  [52960] = setmetatable({
+    card_rare = 5,
+    card_level_limit = {40, 60},
+    card_type = 0,
+    card_property_base = {
+      288,
+      6,
+      90,
+      216
+    },
+    card_property_inc = {
+      2885,
+      61,
+      902,
+      2164
+    },
+    talent_plan_id = 5206,
+    card_skill_rand_id = 5,
+    card_resolve_price = {
+      {
+        100028,
+        28,
+        48
+      },
+      {
+        119071,
+        101,
+        2
+      }
+    },
+    male_role_id = 2,
+    card_get = "0,Original Sin Event Exclusive",
+    card_achieve_rewards = "2326,252,1",
+    card_tag = "303",
+    Share_tips = 1,
+    handbook_time = "2025/9/25 05:00:00",
+    tag_desc_id = 303,
+    card_talk_id = 30529602,
+    card_shout_id = 30529602,
+    card_icon = "52960",
+    evolution_icon = "52961",
+    engagement_type = 1,
+    engagement_list = 21401,
+    engagement_demo_id = 421402,
+    engagement_demo_start = 70,
+    engagement_demo_end = 83,
+    exchange_only = 0,
+    card_no = 1,
+    card_real_name = "Malevolence",
+    card_role_name = "Lucien"
   }, meta),
   [53010] = setmetatable({
     card_rare = 5,
@@ -43287,11 +43389,11 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,如约而至活动限定",
+    card_get = "0,Promised Reunion Event Exclusive",
     card_achieve_rewards = "3245,252,1",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/1/28 05:00:00",
     tag_desc_id = 306,
     card_talk_id = 30537602,
     card_shout_id = 30537602,
@@ -43304,8 +43406,8 @@ data = {
     engagement_demo_end = 28,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "心间遐迩",
-    card_role_name = "周棋洛"
+    card_real_name = "Closer Than Close",
+    card_role_name = "Kiro"
   }, meta),
   [53770] = setmetatable({
     card_rare = 5,
@@ -43842,11 +43944,11 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,记忆回廊活动限定",
+    card_get = "0,Memory Corridor Event Exclusive",
     card_achieve_rewards = "3283,252,1",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/8/21 05:00:00",
     tag_desc_id = 305,
     card_talk_id = 30538702,
     card_shout_id = 30538702,
@@ -43857,8 +43959,8 @@ data = {
     back_login_offset = "1:0,0,0;1:-60,0,0",
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "缓释依赖",
-    card_role_name = "周棋洛"
+    card_real_name = "Sustained Affection",
+    card_role_name = "Kiro"
   }, meta),
   [53880] = setmetatable({
     card_rare = 5,
@@ -43994,11 +44096,11 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,星河印象活动限定",
+    card_get = "0,Milky Way Event Exclusive",
     card_achieve_rewards = "3295,252,1",
     card_tag = "307",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/11/26 05:00:00",
     tag_desc_id = 307,
     card_talk_id = 30539002,
     card_shout_id = 30539002,
@@ -44008,8 +44110,8 @@ data = {
     engagement_list = 32,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "荧惑狩心",
-    card_role_name = "周棋洛"
+    card_real_name = "Heartbeat Pursuit",
+    card_role_name = "Kiro"
   }, meta),
   [53910] = setmetatable({
     card_rare = 5,
@@ -44042,11 +44144,11 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,午夜邀请函活动限定",
+    card_get = "0,Midnight Invitation Event Exclusive",
     card_achieve_rewards = "3298,252,1",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/28 05:00:00",
     tag_desc_id = 304,
     card_talk_id = 30539102,
     card_shout_id = 30539102,
@@ -44059,8 +44161,8 @@ data = {
     engagement_demo_end = 52,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "欲望之巢",
-    card_role_name = "周棋洛"
+    card_real_name = "Lair of Desire",
+    card_role_name = "Kiro"
   }, meta),
   [53920] = setmetatable({
     card_rare = 5,
@@ -44144,11 +44246,11 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,地久天长活动限定",
+    card_get = "0,Forevermore Event Exclusive",
     card_achieve_rewards = "3302,252,1",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/3/10 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 30539302,
     card_shout_id = 30539302,
@@ -44162,8 +44264,8 @@ data = {
     engagement_demo_end = 52,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "红尘笑",
-    card_role_name = "周棋洛"
+    card_real_name = "Mortal Joy",
+    card_role_name = "Kiro"
   }, meta),
   [53940] = setmetatable({
     card_rare = 5,
@@ -44315,6 +44417,57 @@ data = {
     card_no = 1,
     card_real_name = "往事不再",
     card_role_name = "周棋洛"
+  }, meta),
+  [53980] = setmetatable({
+    card_rare = 5,
+    card_level_limit = {40, 60},
+    card_type = 2,
+    card_property_base = {
+      90,
+      216,
+      288,
+      6
+    },
+    card_property_inc = {
+      902,
+      2164,
+      2885,
+      61
+    },
+    talent_plan_id = 5215,
+    card_skill_rand_id = 5,
+    card_resolve_price = {
+      {
+        100028,
+        28,
+        48
+      },
+      {
+        119071,
+        101,
+        2
+      }
+    },
+    male_role_id = 3,
+    card_get = "0,Original Sin Event Exclusive",
+    card_achieve_rewards = "3323,252,1",
+    card_tag = "305",
+    Share_tips = 1,
+    handbook_time = "2025/9/25 05:00:00",
+    tag_desc_id = 305,
+    card_talk_id = 30539802,
+    card_shout_id = 30539802,
+    card_icon = "53980",
+    evolution_icon = "53981",
+    engagement_type = 1,
+    engagement_list = 31421,
+    engagement_demo_id = 431423,
+    engagement_demo_start = 5,
+    engagement_demo_end = 19,
+    exchange_only = 0,
+    card_no = 1,
+    card_real_name = "Root of Evil",
+    card_role_name = "Kiro"
   }, meta),
   [54010] = setmetatable({
     card_rare = 5,
@@ -48046,11 +48199,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,拾壹活动限定",
+    card_get = "0,Eleven Event Exclusive",
     card_achieve_rewards = "4269,252,1",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/19 05:00:00",
     tag_desc_id = 304,
     card_talk_id = 30548102,
     card_shout_id = 30548102,
@@ -48063,8 +48216,8 @@ data = {
     engagement_demo_end = 67,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "霁月清风",
-    card_role_name = "白起"
+    card_real_name = "Moonlit Breeze",
+    card_role_name = "Gavin"
   }, meta),
   [54820] = setmetatable({
     card_rare = 5,
@@ -48249,11 +48402,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,记忆回廊活动限定",
+    card_get = "0,Memory Corridor Event Exclusive",
     card_achieve_rewards = "4283,252,1",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/8/21 05:00:00",
     tag_desc_id = 308,
     card_talk_id = 30548502,
     card_shout_id = 30548502,
@@ -48263,8 +48416,8 @@ data = {
     engagement_list = 42,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "善恶界线",
-    card_role_name = "白起"
+    card_real_name = "Line of Good and Evil",
+    card_role_name = "Gavin"
   }, meta),
   [54860] = setmetatable({
     card_rare = 5,
@@ -48451,11 +48604,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,星河印象活动限定",
+    card_get = "0,Milky Way Event Exclusive",
     card_achieve_rewards = "4300,252,1",
     card_tag = "307",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/11/26 05:00:00",
     tag_desc_id = 307,
     card_talk_id = 30549102,
     card_shout_id = 30549102,
@@ -48465,8 +48618,8 @@ data = {
     engagement_list = 42,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "风蚀",
-    card_role_name = "白起"
+    card_real_name = "Stormworn",
+    card_role_name = "Gavin"
   }, meta),
   [54920] = setmetatable({
     card_rare = 5,
@@ -48499,11 +48652,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,午夜邀请函活动限定",
+    card_get = "0,Midnight Invitation Event Exclusive",
     card_achieve_rewards = "4304,252,1",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/28 05:00:00",
     tag_desc_id = 308,
     card_talk_id = 30549202,
     card_shout_id = 30549202,
@@ -48516,8 +48669,8 @@ data = {
     engagement_demo_end = 28,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "昼夜之欢",
-    card_role_name = "白起"
+    card_real_name = "Twilight's Joyride",
+    card_role_name = "Gavin"
   }, meta),
   [54930] = setmetatable({
     card_rare = 5,
@@ -48550,11 +48703,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,限时累充送活动限定",
+    card_get = "0,Limited-time Cumulative Top-up Event Exclusive",
     card_achieve_rewards = "4302,252,1",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/28 05:00:00",
     tag_desc_id = 305,
     card_talk_id = 30549302,
     card_shout_id = 30549302,
@@ -48567,8 +48720,8 @@ data = {
     engagement_demo_end = 16,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "暮野鹿鸣",
-    card_role_name = "白起"
+    card_real_name = "Reindeer Evenfall",
+    card_role_name = "Gavin"
   }, meta),
   [54940] = setmetatable({
     card_rare = 5,
@@ -48601,11 +48754,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,地久天长活动限定",
+    card_get = "0,Forevermore Event Exclusive",
     card_achieve_rewards = "4306,252,1",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/3/10 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 30549402,
     card_shout_id = 30549402,
@@ -48619,8 +48772,8 @@ data = {
     engagement_demo_end = 48,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "嫁春风",
-    card_role_name = "白起"
+    card_real_name = "Bride of the Spring Breeze",
+    card_role_name = "Gavin"
   }, meta),
   [54950] = setmetatable({
     card_rare = 5,
@@ -48721,6 +48874,57 @@ data = {
     card_no = 1,
     card_real_name = "罗网",
     card_role_name = "白起"
+  }, meta),
+  [54970] = setmetatable({
+    card_rare = 5,
+    card_level_limit = {40, 60},
+    card_type = 1,
+    card_property_base = {
+      216,
+      288,
+      6,
+      90
+    },
+    card_property_inc = {
+      2164,
+      2885,
+      61,
+      902
+    },
+    talent_plan_id = 5208,
+    card_skill_rand_id = 5,
+    card_resolve_price = {
+      {
+        100028,
+        28,
+        48
+      },
+      {
+        119071,
+        101,
+        2
+      }
+    },
+    male_role_id = 4,
+    card_get = "0,Original Sin Event Exclusive",
+    card_achieve_rewards = "4323,252,1",
+    card_tag = "307",
+    Share_tips = 1,
+    handbook_time = "2025/9/25 05:00:00",
+    tag_desc_id = 307,
+    card_talk_id = 30549702,
+    card_shout_id = 30549702,
+    card_icon = "54970",
+    evolution_icon = "54971",
+    engagement_type = 1,
+    engagement_list = 41401,
+    engagement_demo_id = 441401,
+    engagement_demo_start = 28,
+    engagement_demo_end = 45,
+    exchange_only = 0,
+    card_no = 1,
+    card_real_name = "Caged Beast",
+    card_role_name = "Gavin"
   }, meta),
   [58010] = setmetatable({
     card_rare = 5,
@@ -49670,11 +49874,11 @@ data = {
     },
     type_judge = 2,
     male_role_id = 8,
-    card_get = "0,记忆回廊活动限定",
+    card_get = "0,Memory Corridor Event Exclusive",
     card_achieve_rewards = "8123,252,1",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/8/21 05:00:00",
     tag_desc_id = 303,
     card_talk_id = 30582002,
     card_shout_id = 30582002,
@@ -49684,8 +49888,8 @@ data = {
     engagement_list = 82,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "降温",
-    card_role_name = "凌肖"
+    card_real_name = "Cooling Down",
+    card_role_name = "Shaw"
   }, meta),
   [58210] = setmetatable({
     card_rare = 5,
@@ -49771,11 +49975,11 @@ data = {
     },
     type_judge = 2,
     male_role_id = 8,
-    card_get = "0,地久天长活动限定",
+    card_get = "0,Forevermore Event Exclusive",
     card_achieve_rewards = "8134,252,1",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/3/10 5:00:00",
     tag_desc_id = 303,
     card_talk_id = 30582302,
     card_shout_id = 30582302,
@@ -49789,8 +49993,8 @@ data = {
     engagement_demo_end = 79,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "承欢客",
-    card_role_name = "凌肖"
+    card_real_name = "Guest of Joy",
+    card_role_name = "Shaw"
   }, meta),
   [58240] = setmetatable({
     card_rare = 5,
@@ -51892,11 +52096,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,限时累充送活动限定",
+    card_get = "0,Limited-time Cumulative Top-up Event Exclusive",
     card_achieve_voice = "voice_64100.mp3",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/12/23 5:00:00",
     tag_desc_id = 303,
     card_talk_id = 30641002,
     card_shout_id = 30641002,
@@ -51912,8 +52116,8 @@ data = {
     card_appreciate_center = "1:72,0,0;1:72,0,0;1:42,0,0",
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "少将",
-    card_role_name = "白起"
+    card_real_name = "Major General",
+    card_role_name = "Gavin"
   }, meta),
   [68010] = setmetatable({
     card_rare = 6,
@@ -53749,11 +53953,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,馥郁日光活动获得",
+    card_get = "0,Obtained from the Fragrant Sunshine event.",
     card_achieve_rewards = "1664,253,1",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/11/1 05:00:00",
     tag_desc_id = 308,
     card_talk_id = 30713602,
     card_shout_id = 30713602,
@@ -53766,8 +53970,8 @@ data = {
     engagement_demo_end = 39,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "半岛繁华",
-    card_role_name = "李泽言"
+    card_real_name = "Splendor Aglow",
+    card_role_name = "Victor"
   }, meta),
   [71370] = setmetatable({
     card_rare = 7,
@@ -54051,11 +54255,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,每日充值活动限定",
+    card_get = "0,Daily Top-Up Event Exclusive",
     card_achieve_rewards = "1735,253,1",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/11/26 05:00:00",
     tag_desc_id = 304,
     card_talk_id = 30714202,
     card_shout_id = 30714202,
@@ -54068,8 +54272,8 @@ data = {
     engagement_demo_end = 38,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "倾心一击",
-    card_role_name = "李泽言"
+    card_real_name = "Loving Strike",
+    card_role_name = "Victor"
   }, meta),
   [71430] = setmetatable({
     card_rare = 7,
@@ -54153,11 +54357,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,Fall in Night活动获得",
+    card_get = "0,Fall in Night Event Exclusive",
     card_achieve_rewards = "1761,253,1",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/2/5 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 30714402,
     card_shout_id = 30714402,
@@ -54171,8 +54375,8 @@ data = {
     engagement_demo_end = 59,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "不眠人间",
-    card_role_name = "李泽言"
+    card_real_name = "The Night and Us",
+    card_role_name = "Victor"
   }, meta),
   [71450] = setmetatable({
     card_rare = 7,
@@ -55896,11 +56100,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,馥郁日光活动获得",
+    card_get = "0,Obtained from the Fragrant Sunshine event.",
     card_achieve_rewards = "2644,253,1",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/1/1 00:00:00",
     tag_desc_id = 305,
     card_talk_id = 30723402,
     card_shout_id = 30723402,
@@ -55913,8 +56117,8 @@ data = {
     engagement_demo_end = 35,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "偷闲两字",
-    card_role_name = "许墨"
+    card_real_name = "Stolen Moments",
+    card_role_name = "Lucien"
   }, meta),
   [72350] = setmetatable({
     card_rare = 7,
@@ -56148,11 +56352,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,每日充值活动限定",
+    card_get = "0,Daily Top-Up Event Exclusive",
     card_achieve_rewards = "2705,253,1",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/8/21 05:00:00",
     tag_desc_id = 306,
     card_talk_id = 30723902,
     card_shout_id = 30723902,
@@ -56165,8 +56369,8 @@ data = {
     engagement_demo_end = 14,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "夕日陶陶",
-    card_role_name = "许墨"
+    card_real_name = "Pottery Memory",
+    card_role_name = "Lucien"
   }, meta),
   [72400] = setmetatable({
     card_rare = 7,
@@ -56351,11 +56555,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,Fall in Night活动获得",
+    card_get = "0,Fall in Night Event Exclusive",
     card_achieve_rewards = "2768,253,1",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/2/5 5:00:00",
     tag_desc_id = 303,
     card_talk_id = 30724302,
     card_shout_id = 30724302,
@@ -56369,8 +56573,8 @@ data = {
     engagement_demo_end = 30,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "心焰漫天",
-    card_role_name = "许墨"
+    card_real_name = "A Heart Aflame",
+    card_role_name = "Lucien"
   }, meta),
   [72440] = setmetatable({
     card_rare = 7,
@@ -58152,11 +58356,11 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,馥郁日光活动获得",
+    card_get = "0,Obtained from the Fragrant Sunshine event.",
     card_achieve_rewards = "3641,253,1",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/9/1 05:00:00",
     tag_desc_id = 306,
     card_talk_id = 30733402,
     card_shout_id = 30733402,
@@ -58169,8 +58373,8 @@ data = {
     engagement_demo_end = 73,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "一抹春光",
-    card_role_name = "周棋洛"
+    card_real_name = "A Dash of Spring",
+    card_role_name = "Kiro"
   }, meta),
   [73350] = setmetatable({
     card_rare = 7,
@@ -58556,11 +58760,11 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,每日充值活动限定",
+    card_get = "0,Daily Top-Up Event Exclusive",
     card_achieve_rewards = "3744,253,1",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/11/26 05:00:00",
     tag_desc_id = 304,
     card_talk_id = 30734202,
     card_shout_id = 30734202,
@@ -58573,8 +58777,8 @@ data = {
     engagement_demo_end = 15,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "向上生长",
-    card_role_name = "周棋洛"
+    card_real_name = "Upward Growth",
+    card_role_name = "Kiro"
   }, meta),
   [73430] = setmetatable({
     card_rare = 7,
@@ -58607,11 +58811,11 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,Fall in Night活动获得",
+    card_get = "0,Fall in Night Event Exclusive",
     card_achieve_rewards = "3769,253,1",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/2/5 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 30734302,
     card_shout_id = 30734302,
@@ -58625,8 +58829,8 @@ data = {
     engagement_demo_end = 36,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "千千晚星",
-    card_role_name = "周棋洛"
+    card_real_name = "To the Stars and Back",
+    card_role_name = "Kiro"
   }, meta),
   [73440] = setmetatable({
     card_rare = 7,
@@ -58659,11 +58863,11 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,限时累充送活动限定",
+    card_get = "0,Limited-time Cumulative Top-up Event Exclusive",
     card_achieve_rewards = "3784,253,1",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/12/23 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 30734402,
     card_shout_id = 30734402,
@@ -58677,8 +58881,8 @@ data = {
     back_login_offset = "1:-65,0,0;1:0,0,0",
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "亲密爱人",
-    card_role_name = "周棋洛"
+    card_real_name = "Cherished Love",
+    card_role_name = "Kiro"
   }, meta),
   [73450] = setmetatable({
     card_rare = 7,
@@ -60707,11 +60911,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,每日充值活动限定",
+    card_get = "0,Daily Top-Up Event Exclusive",
     card_achieve_rewards = "4709,253,1",
     card_tag = "301",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/8/21 05:00:00",
     tag_desc_id = 301,
     card_talk_id = 30743902,
     card_shout_id = 30743902,
@@ -60724,8 +60928,8 @@ data = {
     engagement_demo_end = 49,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "涓涓相印",
-    card_role_name = "白起"
+    card_real_name = "Gentle Solicitude",
+    card_role_name = "Gavin"
   }, meta),
   [74400] = setmetatable({
     card_rare = 7,
@@ -60910,11 +61114,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,Fall in Night活动获得",
+    card_get = "0,Fall in Night Event Exclusive",
     card_achieve_rewards = "4770,253,1",
     card_tag = "301",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/2/5 5:00:00",
     tag_desc_id = 301,
     card_talk_id = 30744302,
     card_shout_id = 30744302,
@@ -60928,8 +61132,8 @@ data = {
     engagement_demo_end = 47,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "灼然星火",
-    card_role_name = "白起"
+    card_real_name = "Ignite the Night",
+    card_role_name = "Gavin"
   }, meta),
   [74440] = setmetatable({
     card_rare = 7,
@@ -62232,11 +62436,11 @@ data = {
     },
     type_judge = 2,
     male_role_id = 8,
-    card_get = "0,Fall in Night活动获得",
+    card_get = "0,Fall in Night Event Exclusive",
     card_achieve_rewards = "6523,253,1",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/2/5 5:00:00",
     tag_desc_id = 308,
     card_talk_id = 30782302,
     card_shout_id = 30782302,
@@ -62250,8 +62454,8 @@ data = {
     engagement_demo_end = 34,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "肆意燃宵",
-    card_role_name = "凌肖"
+    card_real_name = "Reign of the Night",
+    card_role_name = "Shaw"
   }, meta),
   [78240] = setmetatable({
     card_rare = 7,
@@ -62446,11 +62650,11 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,不归者的燎原活动限定",
+    card_get = "0,Wildfire of the Forsaken Event Exclusive",
     card_achieve_voice = "voice_91030.mp3",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/12/23 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 30910302,
     card_shout_id = 30910302,
@@ -62466,8 +62670,8 @@ data = {
     engagement_demo_end = 96,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "至神之所至",
-    card_role_name = "李泽言"
+    card_real_name = "Realm of the Divine",
+    card_role_name = "Victor"
   }, meta),
   [92010] = setmetatable({
     card_rare = 9,
@@ -62610,11 +62814,11 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,不归者的燎原活动限定",
+    card_get = "0,Wildfire of the Forsaken Event Exclusive",
     card_achieve_voice = "voice_92030.mp3",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/12/23 5:00:00",
     tag_desc_id = 303,
     card_talk_id = 30920302,
     card_shout_id = 30920302,
@@ -62631,8 +62835,8 @@ data = {
     back_login_offset = "1:0,0,0;1:65,0,0;1:0,0,0",
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "当沉浮沉溺",
-    card_role_name = "许墨"
+    card_real_name = "In The Ocean of Desire",
+    card_role_name = "Lucien"
   }, meta),
   [93010] = setmetatable({
     card_rare = 9,
@@ -62774,11 +62978,11 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,不归者的燎原活动限定",
+    card_get = "0,Wildfire of the Forsaken Event Exclusive",
     card_achieve_voice = "voice_93030.mp3",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/12/23 5:00:00",
     tag_desc_id = 305,
     card_talk_id = 30930302,
     card_shout_id = 30930302,
@@ -62795,8 +62999,8 @@ data = {
     back_login_offset = "1:0,0,0;1:65,0,0;1:0,0,0",
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "于命中心中",
-    card_role_name = "周棋洛"
+    card_real_name = "The Crossroad to You",
+    card_role_name = "Kiro"
   }, meta),
   [94010] = setmetatable({
     card_rare = 9,
@@ -62938,11 +63142,11 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,不归者的燎原活动限定",
+    card_get = "0,Wildfire of the Forsaken Event Exclusive",
     card_achieve_voice = "voice_94030.mp3",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/12/23 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 30940302,
     card_shout_id = 30940302,
@@ -62958,8 +63162,8 @@ data = {
     engagement_demo_end = 86,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "一瞬或一生",
-    card_role_name = "白起"
+    card_real_name = "Now or Forever",
+    card_role_name = "Gavin"
   }, meta),
   [531010] = setmetatable({
     card_rare = 3,
@@ -63642,10 +63846,10 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,2024年6月签到奖励",
+    card_get = "0,Sign-in September 2025",
     card_achieve_rewards = "1711,253,1",
     card_tag = "308",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/09/01 05:00:00",
     tag_desc_id = 308,
     card_talk_id = 35311502,
     card_shout_id = 35311502,
@@ -63654,8 +63858,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "甜香滋味",
-    card_role_name = "李泽言"
+    card_real_name = "Sweet Sensation",
+    card_role_name = "Victor"
   }, meta),
   [531160] = setmetatable({
     card_rare = 3,
@@ -63734,10 +63938,10 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,森游记活动限定",
+    card_get = "0,Forest Odyssey Event Exclusive",
     card_achieve_rewards = "1721,253,1",
     card_tag = "305",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/9/12 05:00:00",
     tag_desc_id = 305,
     card_talk_id = 35311702,
     card_shout_id = 35311702,
@@ -63747,8 +63951,8 @@ data = {
     fullshow_offset = "1,-64,415,1:2,-53,260,1",
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "狮全十美",
-    card_role_name = "李泽言"
+    card_real_name = "Heart of a Lion",
+    card_role_name = "Victor"
   }, meta),
   [531180] = setmetatable({
     card_rare = 3,
@@ -63873,10 +64077,10 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,2024年10月签到奖励",
+    card_get = "0,January 2026 Sign-In Reward",
     card_achieve_rewards = "1739,253,1",
     card_tag = "308",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/1/1 00:00:00",
     tag_desc_id = 308,
     card_talk_id = 35312002,
     card_shout_id = 35312002,
@@ -63885,8 +64089,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "霜色封藏",
-    card_role_name = "李泽言"
+    card_real_name = "Rime's Embrace",
+    card_role_name = "Victor"
   }, meta),
   [531210] = setmetatable({
     card_rare = 3,
@@ -63919,10 +64123,10 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,惊奇刹那活动限定",
+    card_get = "0,Surprise Moment Event Exclusive",
     card_achieve_rewards = "1753,253,1",
     card_tag = "302",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/28 05:00:00",
     tag_desc_id = 302,
     card_talk_id = 35312102,
     card_shout_id = 35312102,
@@ -63931,8 +64135,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "家有龙王",
-    card_role_name = "李泽言"
+    card_real_name = "Dragon's Nest",
+    card_role_name = "Victor"
   }, meta),
   [531220] = setmetatable({
     card_rare = 3,
@@ -63965,10 +64169,10 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,爱在有你的城市活动限定",
+    card_get = "0,Where Love Blossoms Event Exclusive",
     card_achieve_rewards = "1760,253,1",
     card_tag = "305",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/3/10 5:00:00",
     tag_desc_id = 305,
     card_talk_id = 35312202,
     card_shout_id = 35312202,
@@ -63978,8 +64182,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "心自能言",
-    card_role_name = "李泽言"
+    card_real_name = "Words of the Heart",
+    card_role_name = "Victor"
   }, meta),
   [531230] = setmetatable({
     card_rare = 3,
@@ -64012,10 +64216,10 @@ data = {
       }
     },
     male_role_id = 1,
-    card_get = "0,幸福折角活动限定",
+    card_get = "0,Corner of Happiness Event Exclusive",
     card_achieve_rewards = "1774,253,1",
     card_tag = "302",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/1/8 00:00:00",
     tag_desc_id = 302,
     card_talk_id = 35312302,
     card_shout_id = 35312302,
@@ -64028,8 +64232,8 @@ data = {
     engagement_demo_end = 35,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "最佳男友",
-    card_role_name = "李泽言"
+    card_real_name = "Perfect Boyfriend",
+    card_role_name = "Victor"
   }, meta),
   [531240] = setmetatable({
     card_rare = 3,
@@ -64574,10 +64778,10 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,2023年12月签到奖励",
+    card_get = "0,Sign-in November 2025",
     card_achieve_rewards = "2658,253,1",
     card_tag = "301",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/11/1 00:00:00",
     tag_desc_id = 301,
     card_talk_id = 35320802,
     card_shout_id = 35320802,
@@ -64586,8 +64790,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "掌心绵软",
-    card_role_name = "许墨"
+    card_real_name = "Soft Palm",
+    card_role_name = "Lucien"
   }, meta),
   [532090] = setmetatable({
     card_rare = 3,
@@ -64896,10 +65100,10 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,森游记活动限定",
+    card_get = "0,Forest Odyssey Event Exclusive",
     card_achieve_rewards = "2722,253,1",
     card_tag = "308",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/9/12 05:00:00",
     tag_desc_id = 308,
     card_talk_id = 35321502,
     card_shout_id = 35321502,
@@ -64909,8 +65113,8 @@ data = {
     fullshow_offset = "1,4,249,1:2,-53,260,1",
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "迷狐帮手",
-    card_role_name = "许墨"
+    card_real_name = "Fox Helper",
+    card_role_name = "Lucien"
   }, meta),
   [532160] = setmetatable({
     card_rare = 3,
@@ -65081,10 +65285,10 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,惊奇刹那活动限定",
+    card_get = "0,Surprise Moment Event Exclusive",
     card_achieve_rewards = "2756,253,1",
     card_tag = "303",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/28 05:00:00",
     tag_desc_id = 303,
     card_talk_id = 35321902,
     card_shout_id = 35321902,
@@ -65093,8 +65297,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "恶魔先生",
-    card_role_name = "许墨"
+    card_real_name = "Mr. Devil",
+    card_role_name = "Lucien"
   }, meta),
   [532200] = setmetatable({
     card_rare = 3,
@@ -65127,10 +65331,10 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,黄金恋比活动限定",
+    card_get = "0,Golden Ratio Event Exclusive",
     card_achieve_rewards = "2748,253,1",
     card_tag = "301",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/11/10  05:00:00",
     tag_desc_id = 301,
     card_talk_id = 35322002,
     card_shout_id = 35322002,
@@ -65143,8 +65347,8 @@ data = {
     engagement_demo_end = 49,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "安然依恋",
-    card_role_name = "许墨"
+    card_real_name = "Serene Affection",
+    card_role_name = "Lucien"
   }, meta),
   [532210] = setmetatable({
     card_rare = 3,
@@ -65223,10 +65427,10 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,爱在有你的城市活动限定",
+    card_get = "0,Where Love Blossoms Event Exclusive",
     card_achieve_rewards = "2765,253,1",
     card_tag = "306",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/3/10 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 35322202,
     card_shout_id = 35322202,
@@ -65236,8 +65440,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "流芳共赏",
-    card_role_name = "许墨"
+    card_real_name = "Symphony of Scents",
+    card_role_name = "Lucien"
   }, meta),
   [532230] = setmetatable({
     card_rare = 3,
@@ -65408,10 +65612,10 @@ data = {
       }
     },
     male_role_id = 2,
-    card_get = "0,2025年4月签到奖励",
+    card_get = "0,March 2026 Sign-In Reward",
     card_achieve_rewards = "2799,253,1",
     card_tag = "305",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/3/1 5:00:00",
     tag_desc_id = 305,
     card_talk_id = 35322602,
     card_shout_id = 35322602,
@@ -65420,8 +65624,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "藏香",
-    card_role_name = "许墨"
+    card_real_name = "The Scent That Lingers",
+    card_role_name = "Lucien"
   }, meta),
   [533010] = setmetatable({
     card_rare = 3,
@@ -66248,10 +66452,10 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,森游记活动限定",
+    card_get = "0,Forest Odyssey Event Exclusive",
     card_achieve_rewards = "3729,253,1",
     card_tag = "304",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/9/12 05:00:00",
     tag_desc_id = 304,
     card_talk_id = 35331802,
     card_shout_id = 35331802,
@@ -66261,8 +66465,8 @@ data = {
     fullshow_offset = "1,30,249,1:2,-53,260,1",
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "甜仔当家",
-    card_role_name = "周棋洛"
+    card_real_name = "Homemade Cutie Pie",
+    card_role_name = "Kiro"
   }, meta),
   [533190] = setmetatable({
     card_rare = 3,
@@ -66341,10 +66545,10 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,2024年9月签到奖励",
+    card_get = "0,Sign-in October 2025",
     card_achieve_rewards = "3738,253,1",
     card_tag = "305",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/1 05:00:00",
     tag_desc_id = 305,
     card_talk_id = 35332002,
     card_shout_id = 35332002,
@@ -66353,8 +66557,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "清爽王子",
-    card_role_name = "周棋洛"
+    card_real_name = "Fresh Prince",
+    card_role_name = "Kiro"
   }, meta),
   [533210] = setmetatable({
     card_rare = 3,
@@ -66433,10 +66637,10 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,惊奇刹那活动限定",
+    card_get = "0,Surprise Moment Event Exclusive",
     card_achieve_rewards = "3761,253,1",
     card_tag = "308",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/28 05:00:00",
     tag_desc_id = 308,
     card_talk_id = 35332202,
     card_shout_id = 35332202,
@@ -66445,8 +66649,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "成幽成对",
-    card_role_name = "周棋洛"
+    card_real_name = "Love at First Fright",
+    card_role_name = "Kiro"
   }, meta),
   [533230] = setmetatable({
     card_rare = 3,
@@ -66479,10 +66683,10 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,爱在有你的城市活动限定",
+    card_get = "0,Where Love Blossoms Event Exclusive",
     card_achieve_rewards = "3768,253,1",
     card_tag = "308",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/3/10 5:00:00",
     tag_desc_id = 308,
     card_talk_id = 35332302,
     card_shout_id = 35332302,
@@ -66492,8 +66696,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "花间蜜色",
-    card_role_name = "周棋洛"
+    card_real_name = "Honey & Bloom",
+    card_role_name = "Kiro"
   }, meta),
   [533240] = setmetatable({
     card_rare = 3,
@@ -66526,10 +66730,10 @@ data = {
       }
     },
     male_role_id = 3,
-    card_get = "0,2025年1月签到奖励",
+    card_get = "0,February 2026 Sign-In Reward",
     card_achieve_rewards = "3770,253,1",
     card_tag = "305",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/2/1 00:00:00",
     tag_desc_id = 305,
     card_talk_id = 35332402,
     card_shout_id = 35332402,
@@ -66538,8 +66742,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "大吉大利",
-    card_role_name = "周棋洛"
+    card_real_name = "Maxed-Out Luck",
+    card_role_name = "Kiro"
   }, meta),
   [533250] = setmetatable({
     card_rare = 3,
@@ -67549,10 +67753,10 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,森游记活动限定",
+    card_get = "0,Forest Odyssey Event Exclusive",
     card_achieve_rewards = "4729,253,1",
     card_tag = "307",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/9/12 05:00:00",
     tag_desc_id = 307,
     card_talk_id = 35341902,
     card_shout_id = 35341902,
@@ -67562,8 +67766,8 @@ data = {
     fullshow_offset = "1,-28,249,1:2,34,260,1",
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "做客夏天",
-    card_role_name = "白起"
+    card_real_name = "Summer's Guest",
+    card_role_name = "Gavin"
   }, meta),
   [534200] = setmetatable({
     card_rare = 3,
@@ -67688,10 +67892,10 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,惊奇刹那活动限定",
+    card_get = "0,Surprise Moment Event Exclusive",
     card_achieve_rewards = "4762,253,1",
     card_tag = "305",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/10/28 05:00:00",
     tag_desc_id = 305,
     card_talk_id = 35342202,
     card_shout_id = 35342202,
@@ -67700,8 +67904,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "午夜飞行",
-    card_role_name = "白起"
+    card_real_name = "Midnight Flight",
+    card_role_name = "Gavin"
   }, meta),
   [534230] = setmetatable({
     card_rare = 3,
@@ -67734,10 +67938,10 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,2024年11月签到奖励",
+    card_get = "0,Sign-in December 2025",
     card_achieve_rewards = "4760,253,1",
     card_tag = "308",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2025/12/01 00:00:00",
     tag_desc_id = 308,
     card_talk_id = 35342302,
     card_shout_id = 35342302,
@@ -67746,8 +67950,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "鸭力白白",
-    card_role_name = "白起"
+    card_real_name = "White Ducky",
+    card_role_name = "Gavin"
   }, meta),
   [534240] = setmetatable({
     card_rare = 3,
@@ -67780,10 +67984,10 @@ data = {
       }
     },
     male_role_id = 4,
-    card_get = "0,爱在有你的城市活动限定",
+    card_get = "0,Where Love Blossoms Event Exclusive",
     card_achieve_rewards = "4769,253,1",
     card_tag = "301",
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2026/3/10 5:00:00",
     tag_desc_id = 301,
     card_talk_id = 35342402,
     card_shout_id = 35342402,
@@ -67793,8 +67997,8 @@ data = {
     engagement_type = 0,
     exchange_only = 0,
     card_no = 1,
-    card_real_name = "心随风起",
-    card_role_name = "白起"
+    card_real_name = "Love With the Wind",
+    card_role_name = "Gavin"
   }, meta),
   [534250] = setmetatable({
     card_rare = 3,
@@ -138943,7 +139147,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -140497,7 +140701,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "302",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 302,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -142016,7 +142220,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -143500,7 +143704,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 303,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -144948,7 +145152,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "307",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 307,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -146360,7 +146564,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "301",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 301,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -147727,7 +147931,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "302",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 302,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -149067,7 +149271,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 305,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -150363,7 +150567,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "301",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 301,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -151624,7 +151828,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -152850,7 +153054,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 305,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -154046,7 +154250,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -155201,7 +155405,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 308,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -156321,7 +156525,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "307",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 307,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -157406,7 +157610,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 308,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -158456,7 +158660,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 303,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -159471,7 +159675,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 303,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -160451,7 +160655,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "302",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 302,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -161396,7 +161600,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -162306,7 +162510,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -163181,7 +163385,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "307",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 307,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -164021,7 +164225,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -164791,7 +164995,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 303,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -165561,7 +165765,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 308,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -166296,7 +166500,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 303,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -166996,7 +167200,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "307",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 307,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -167661,7 +167865,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 305,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -168291,7 +168495,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -168886,7 +169090,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -169446,7 +169650,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -169971,7 +170175,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "307",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 307,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -170461,7 +170665,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "307",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 307,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -170916,7 +171120,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -171336,7 +171540,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -171721,7 +171925,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 305,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -172071,7 +172275,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "308",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 308,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -172386,7 +172590,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "303",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 303,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -172666,7 +172870,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -172911,7 +173115,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "307",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 307,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -173121,7 +173325,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -173296,7 +173500,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "305",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 305,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -173436,7 +173640,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "304",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 304,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -173541,7 +173745,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 0,
     card_shout_id = 0,
@@ -173646,7 +173850,7 @@ data = {
     card_get = "0,暂无来源",
     card_tag = "306",
     Share_tips = 1,
-    handbook_time = "2038/1/1 00:00:00",
+    handbook_time = "2038/01/01 5:00:00",
     tag_desc_id = 306,
     card_talk_id = 0,
     card_shout_id = 0,

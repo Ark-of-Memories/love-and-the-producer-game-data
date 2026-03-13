@@ -1276,13 +1276,13 @@ data = {
   [41480] = {
     act_id = 92021,
     show_time = {
-      "2025/1/8 00:00:00",
-      "2025/1/8 00:00:00",
-      "2025/1/17 00:00:00",
-      "2025/1/17 00:00:00",
-      "2025/1/17 00:00:00"
+      "2026/1/8 00:00:00",
+      "2026/1/8 00:00:00",
+      "2026/1/17 00:00:00",
+      "2026/1/17 00:00:00",
+      "2026/1/17 00:00:00"
     },
-    show_time_words = "生日庆典还在进行中，可在活动界面回顾生日回忆。生日当天0点后，将在此界面永久开放包含生日回忆在内的更多活动剧情回顾。",
+    show_time_words = "Birthday Celebration is in progress. You can revisit Birthday Memories on the event screen. At 00:00 on the day of his birthday, Birthday Memories and other event stories will be permanently unlocked on the event screen.",
     story_line = {
       {838300},
       {838001},
@@ -1317,35 +1317,35 @@ data = {
       {4301}
     },
     story_name = {
-      "幸福折角",
-      "生日准备",
-      "生日庆祝",
-      "生日礼物",
-      "气味印象",
-      "换乘职业",
-      "讨厌的家务",
-      "幸福瞬间",
-      "当我形容你",
-      "理想爱情",
-      "总裁气量",
-      "隔墙有耳",
-      "安稳入梦",
-      "整齐一家",
-      "赔本买卖",
-      "第一印象",
-      "拒绝回答",
-      "交换心跳",
-      "不懈要求",
-      "家庭料理",
-      "帮帮我吧",
-      "找到爱好了",
-      "心动时刻",
-      "旅行意义",
-      "金币钱钱树",
-      "甜蜜抢单",
-      "新的发现",
-      "无声占据",
-      "今天过得好吗"
+      "Corner of Happiness",
+      "Birthday Preparation",
+      "Birthday Celebration",
+      "Birthday Present",
+      "Scent Impression",
+      "Career Transfer",
+      "Annoying Chores",
+      "Moment of Happiness",
+      "When I Describe You",
+      "Ideal Love",
+      "CEO's Magnanimity",
+      "Hidden Ears",
+      "Peaceful Sleep",
+      "Whole Family",
+      "Losing Deal",
+      "First Impression",
+      "Refusing to Answer",
+      "Heartbeat Exchange",
+      "Relentless Request",
+      "Home Cooking",
+      "Please Help Me",
+      "Found My Hobby",
+      "Heartfelt Moment",
+      "Meaning of Travel",
+      "Gold Coin Money Tree",
+      "Sweet Order Rush",
+      "New Discovery",
+      "Silent Claim",
+      "How Was Your Day?"
     },
     type = {
       103,
@@ -1609,13 +1609,13 @@ data = {
   [42460] = {
     act_id = 92020,
     show_time = {
-      "2024/11/10 00:00:00",
-      "2024/11/10 00:00:00",
-      "2024/11/19 00:00:00",
-      "2024/11/19 00:00:00",
-      "2024/11/19 00:00:00"
+      "2025/11/10 00:00:00",
+      "2025/11/10 00:00:00",
+      "2025/11/19 00:00:00",
+      "2025/11/19 00:00:00",
+      "2025/11/19 00:00:00"
     },
-    show_time_words = "生日庆典还在进行中，可在活动界面回顾生日回忆。生日当天0点后，将在此界面永久开放包含生日回忆在内的更多活动剧情回顾。",
+    show_time_words = "Birthday Celebration is in progress. You can revisit Birthday Memories on the event screen. At 00:00 on the day of his birthday, Birthday Memories and other event plots will be permanently unlocked on the event screen.",
     story_line = {
       {834200},
       {834001},
@@ -1640,25 +1640,25 @@ data = {
       {4201}
     },
     story_name = {
-      "黄金恋比",
-      "生日准备",
-      "生日庆祝",
-      "你好世界",
-      "和平相处",
-      "发明大作",
-      "提速实验",
-      "胡椒升级",
-      "自力更生",
-      "绣球当家",
-      "清扫家园",
-      "等候归来",
-      "书海遨游",
-      "植物误判",
-      "草丛惊魂",
-      "森林盲盒",
-      "捉迷游戏",
-      "胡椒反击",
-      "初雪之愿"
+      "Golden Ratio",
+      "Birthday Preparation",
+      "Birthday Celebration",
+      "Hello, World",
+      "Live in Peace",
+      "Great Invention",
+      "Speed-up Test",
+      "Pepper Upgrade",
+      "Self-Reliance",
+      "Hydrangea's Rule",
+      "House Cleaning",
+      "Await Return",
+      "Book Reading",
+      "Plant Misidentification",
+      "Panic in the Bush",
+      "Forest Surprise",
+      "Hide and Seek",
+      "Pepper Strikes Back",
+      "First Snow Wish"
     },
     type = {
       103,
@@ -1843,7 +1843,7 @@ data = {
   [43380] = {
     act_id = 33018,
     show_time = {
-      "2023/1/1 5:00"
+      "2025/10/7 5:00:00"
     },
     story_line = {
       {
@@ -1860,16 +1860,16 @@ data = {
       }
     },
     story_name = {
-      "如约而至·约定",
-      "愿望清单",
-      "想念的声音",
-      "如此演技",
-      "陪伴玩偶",
-      "小太阳",
-      "加油便签",
-      "惊喜糖果",
-      "定制奶茶",
-      "“护身符”"
+      "Promised Reunion",
+      "Wishlist",
+      "Voice of Love",
+      "Unmatched Acting",
+      "Companion Plushie",
+      "Little Sunflowers",
+      "Motivational Note",
+      "Surprise Candy",
+      "Custom Boba Tea",
+      "\"Good Luck Charm\""
     },
     type = {1}
   },
@@ -2241,17 +2241,17 @@ data = {
       }
     },
     story_name = {
-      "如约而至·约定",
-      "晴空盛景",
-      "温泉疗养",
-      "冬日必备",
-      "琳琅娃娃",
-      "雪上平衡",
-      "熟悉味道",
-      "雪线车票",
-      "机车贴纸",
-      "感冒特快",
-      "熏香时刻"
+      "Promised Reunion",
+      "Sunny Delight",
+      "Soothing Hot Springs",
+      "Winter Essentials",
+      "Dolls Galore",
+      "Snow-top Balance",
+      "Taste of Home",
+      "Winter Train Ride",
+      "Motorcycle Sticker",
+      "Fast Relief",
+      "Fragrant Moment"
     },
     type = {1}
   },
@@ -2728,7 +2728,7 @@ data = {
   [51700] = {
     act_id = 33019,
     show_time = {
-      "2023/2/22 5:00"
+      "2026/2/28 5:00:00"
     },
     story_line = {
       {
@@ -2748,19 +2748,19 @@ data = {
       }
     },
     story_name = {
-      "如约而至·约定",
-      "清晨餐点",
-      "泡沫猫球",
-      "干劲满满",
-      "永恒芬芳",
-      "半糖甜心",
-      "时光重叠",
-      "剧情谜团",
-      "低唱浅念",
-      "纸笺留情",
-      "琴声心声",
-      "情侣装饰",
-      "崭新衣装"
+      "Promised Reunion",
+      "Morning Meal",
+      "Furry Bubble",
+      "Fully Motivated",
+      "Eternal Fragrance",
+      "Little Ritual",
+      "Shared Moments",
+      "No Spoilers",
+      "Hushed Melody",
+      "Love Notes",
+      "Heartfelt Tune",
+      "In Sync",
+      "New Outfit"
     },
     type = {1}
   },
@@ -2845,15 +2845,15 @@ data = {
   [51800] = {
     act_id = 15054,
     show_time = {
-      "2023/11/26 5:00:00",
-      "2023/12/3 0:00:00",
-      "2023/12/3 0:00:00",
-      "2023/12/3 0:00:00",
-      "2023/12/3 0:00:00",
-      "2023/12/3 0:00:00",
-      "2023/12/3 0:00:00",
-      "2023/12/3 0:00:00",
-      "2023/12/3 0:00:00"
+      "2025/9/1 5:00:00",
+      "2025/9/8 0:00:00",
+      "2025/9/8 0:00:00",
+      "2025/9/8 0:00:00",
+      "2025/9/8 0:00:00",
+      "2025/9/8 0:00:00",
+      "2025/9/8 0:00:00",
+      "2025/9/8 0:00:00",
+      "2025/9/8 0:00:00"
     },
     story_line = {
       {821600},
@@ -2867,15 +2867,15 @@ data = {
       {2007}
     },
     story_name = {
-      "风华绝代",
-      "古韵前奏",
-      "帮倒忙达人",
-      "催眠曲目",
-      "包装技巧",
-      "吃醋猫猫",
-      "物尽其用",
-      "二胡宝典",
-      "心意"
+      "Unsurpassed Beauty",
+      "Classical Prelude",
+      "Unhelpful Hand",
+      "Sleep Melody",
+      "Packaging Techniques",
+      "Jealous Cat",
+      "Full Usage",
+      "Erhu Manual",
+      "Affection"
     },
     type = {
       104,
@@ -3025,48 +3025,6 @@ data = {
       4
     }
   },
-  [51920] = {
-    act_id = 131002,
-    show_time = {
-      "2024/12/23 0:00:00",
-      "2024/12/23 0:00:00",
-      "2024/12/23 0:00:00"
-    },
-    show_time_words = "活动还在进行中，可在活动界面回顾相关剧情。活动结束后，将在此界面永久开放所有活动剧情回顾。",
-    story_line = {
-      {834401},
-      {
-        10011,
-        10012,
-        10021,
-        10022,
-        10031,
-        10041,
-        10042,
-        10051,
-        10052
-      },
-      {834402}
-    },
-    story_name = {
-      "君心似我心·启",
-      "君心似我心·壹-上",
-      "君心似我心·壹-下",
-      "君心似我心·贰-上",
-      "君心似我心·贰-下",
-      "君心似我心·叁",
-      "君心似我心·肆-上",
-      "君心似我心·肆-下",
-      "君心似我心·伍-上",
-      "君心似我心·伍-下",
-      "君心似我心·合"
-    },
-    type = {
-      1,
-      5,
-      1
-    }
-  },
   [51940] = {
     act_id = 141001,
     show_time = {
@@ -3152,6 +3110,37 @@ data = {
       "字母石头"
     },
     type = {1}
+  },
+  [51980] = {
+    act_id = 15088,
+    show_time = {
+      "2025/10/6 0:00:00",
+      "2025/10/6 0:00:00"
+    },
+    show_time_words = "Event is still in progress. You can revisit key plots in the event menu. After the event, all event plots will become viewable in this menu.",
+    story_line = {
+      {842800},
+      {
+        17001,
+        17002,
+        17003,
+        17004,
+        17005,
+        17006,
+        17007
+      }
+    },
+    story_name = {
+      "Prison Management Announcement",
+      "Extra Yogurt",
+      "Key Point",
+      "Fancy Visitation",
+      "Undeserving Punishment",
+      "Incident Report",
+      "Rose Cheese",
+      "Sudden Departure"
+    },
+    type = {1, 4}
   },
   [52080] = {
     story_line = {
@@ -3497,15 +3486,15 @@ data = {
   [52810] = {
     act_id = 15059,
     show_time = {
-      "2024/2/22 5:00:00",
-      "2024/2/29 0:00:00",
-      "2024/2/29 0:00:00",
-      "2024/2/29 0:00:00",
-      "2024/2/29 0:00:00",
-      "2024/2/29 0:00:00",
-      "2024/2/29 0:00:00",
-      "2024/2/29 0:00:00",
-      "2024/2/29 0:00:00"
+      "2025/9/17 5:00:00",
+      "2025/9/24 0:00:00",
+      "2025/9/24 0:00:00",
+      "2025/9/24 0:00:00",
+      "2025/9/24 0:00:00",
+      "2025/9/24 0:00:00",
+      "2025/9/24 0:00:00",
+      "2025/9/24 0:00:00",
+      "2025/9/24 0:00:00"
     },
     story_line = {
       {826700},
@@ -3519,15 +3508,15 @@ data = {
       {3007}
     },
     story_name = {
-      "寒山独见卿",
-      "古韵前奏",
-      "指法教程",
-      "好学生文具也多",
-      "认真听讲",
-      "分心原因",
-      "偷偷告状",
-      "小鸟窝窝",
-      "练字方法"
+      "Eyes for You",
+      "Classical Prelude",
+      "Instrument Fingering",
+      "Cherry on Top",
+      "Listening Carefully",
+      "Cause of Distraction",
+      "Secret Tattling",
+      "Birdie's Cozy Nest",
+      "Practice Tips"
     },
     type = {
       104,
@@ -3677,48 +3666,6 @@ data = {
       4
     }
   },
-  [52910] = {
-    act_id = 131002,
-    show_time = {
-      "2024/12/23 0:00:00",
-      "2024/12/23 0:00:00",
-      "2024/12/23 0:00:00"
-    },
-    show_time_words = "活动还在进行中，可在活动界面回顾相关剧情。活动结束后，将在此界面永久开放所有活动剧情回顾。",
-    story_line = {
-      {834501},
-      {
-        20011,
-        20012,
-        20021,
-        20022,
-        20031,
-        20041,
-        20042,
-        20051,
-        20052
-      },
-      {834502}
-    },
-    story_name = {
-      "且觅情深处·启",
-      "且觅情深处·壹-上",
-      "且觅情深处·壹-下",
-      "且觅情深处·贰-上",
-      "且觅情深处·贰-下",
-      "且觅情深处·叁",
-      "且觅情深处·肆-上",
-      "且觅情深处·肆-下",
-      "且觅情深处·伍-上",
-      "且觅情深处·伍-下",
-      "且觅情深处·合"
-    },
-    type = {
-      1,
-      5,
-      1
-    }
-  },
   [52920] = {
     act_id = 141001,
     show_time = {
@@ -3738,6 +3685,37 @@ data = {
       "未来可期"
     },
     type = {4}
+  },
+  [52960] = {
+    act_id = 15088,
+    show_time = {
+      "2025/10/6 0:00:00",
+      "2025/10/6 0:00:00"
+    },
+    show_time_words = "Event is still in progress. You can revisit key plots in the event menu. After the event, all event plots will become viewable in this menu.",
+    story_line = {
+      {842800},
+      {
+        27001,
+        27002,
+        27003,
+        27004,
+        27005,
+        27006,
+        27007
+      }
+    },
+    story_name = {
+      "Prison Management Announcement",
+      "Feeling Like Forever",
+      "Recommendation Standard",
+      "Alone Time",
+      "Spacing Out",
+      "Idle Spectator",
+      "Need for Aid",
+      "A Secret Gift in Return"
+    },
+    type = {1, 4}
   },
   [53100] = {
     story_line = {
@@ -3960,7 +3938,7 @@ data = {
   [53760] = {
     act_id = 33021,
     show_time = {
-      "2023/8/28 5:00"
+      "2026/1/28 5:00:00"
     },
     story_line = {
       {
@@ -3980,19 +3958,19 @@ data = {
       }
     },
     story_name = {
-      "如约而至·约定",
-      "梦之航线",
-      "暖心散步",
-      "阳光薄荷",
-      "限量惊喜",
-      "舞台聚焦",
-      "玩趣乐游",
-      "贴心小熊",
-      "童真至味",
-      "谱写心曲",
-      "果蔬伴侣",
-      "为你骄傲",
-      "丝丝清甜"
+      "Promised Reunion",
+      "Dream Flight",
+      "A Warm Walk",
+      "Sunlit Mint",
+      "Limited Surprise",
+      "In the Spotlight",
+      "Just for Fun",
+      "Mr Teddy",
+      "Pure & Happy",
+      "Heartfelt Notes",
+      "Fresh Boost",
+      "Proud of You",
+      "Sweet Delivery"
     },
     type = {1}
   },
@@ -4222,48 +4200,6 @@ data = {
       4
     }
   },
-  [53930] = {
-    act_id = 131002,
-    show_time = {
-      "2024/12/23 0:00:00",
-      "2024/12/23 0:00:00",
-      "2024/12/23 0:00:00"
-    },
-    show_time_words = "活动还在进行中，可在活动界面回顾相关剧情。活动结束后，将在此界面永久开放所有活动剧情回顾。",
-    story_line = {
-      {834601},
-      {
-        30011,
-        30012,
-        30021,
-        30022,
-        30031,
-        30041,
-        30042,
-        30051,
-        30052
-      },
-      {834602}
-    },
-    story_name = {
-      "逐光寻秘宝·启",
-      "逐光寻秘宝·壹-上",
-      "逐光寻秘宝·壹-下",
-      "逐光寻秘宝·贰-上",
-      "逐光寻秘宝·贰-下",
-      "逐光寻秘宝·叁",
-      "逐光寻秘宝·肆-上",
-      "逐光寻秘宝·肆-下",
-      "逐光寻秘宝·伍-上",
-      "逐光寻秘宝·伍-下",
-      "逐光寻秘宝·合"
-    },
-    type = {
-      1,
-      5,
-      1
-    }
-  },
   [53940] = {
     act_id = 141001,
     show_time = {
@@ -4310,6 +4246,37 @@ data = {
       6,
       6
     }
+  },
+  [53980] = {
+    act_id = 15088,
+    show_time = {
+      "2025/10/6 0:00:00",
+      "2025/10/6 0:00:00"
+    },
+    show_time_words = "Event is still in progress. You can revisit key plots in the event menu. After the event, all event plots will become viewable in this menu.",
+    story_line = {
+      {842800},
+      {
+        37001,
+        37002,
+        37003,
+        37004,
+        37005,
+        37006,
+        37007
+      }
+    },
+    story_name = {
+      "Prison Management Announcement",
+      "First Meeting",
+      "Testing the Waters",
+      "A Sincere Soul",
+      "At Any Cost",
+      "Orange Candy",
+      "Shared Cold",
+      "Rest"
+    },
+    type = {1, 4}
   },
   [54100] = {
     story_line = {
@@ -4616,15 +4583,15 @@ data = {
   [54810] = {
     act_id = 15057,
     show_time = {
-      "2024/3/2 5:00:00",
-      "2024/3/9 0:00:00",
-      "2024/3/9 0:00:00",
-      "2024/3/9 0:00:00",
-      "2024/3/9 0:00:00",
-      "2024/3/9 0:00:00",
-      "2024/3/9 0:00:00",
-      "2024/3/9 0:00:00",
-      "2024/3/9 0:00:00"
+      "2025/10/19 5:00:00",
+      "2025/10/26 0:00:00",
+      "2025/10/26 0:00:00",
+      "2025/10/26 0:00:00",
+      "2025/10/26 0:00:00",
+      "2025/10/26 0:00:00",
+      "2025/10/26 0:00:00",
+      "2025/10/26 0:00:00",
+      "2025/10/26 0:00:00"
     },
     story_line = {
       {826900},
@@ -4638,15 +4605,15 @@ data = {
       {4007}
     },
     story_name = {
-      "拾壹",
-      "古韵前奏",
-      "基本功",
-      "三十六式太极拳",
-      "模拟表演",
-      "休息一下",
-      "融会贯通",
-      "生物钟",
-      "现场观摩"
+      "Eleven",
+      "Classical Prelude",
+      "The Basics",
+      "36 Styles of Tai Chi",
+      "Practice Performance",
+      "Take a Break",
+      "Perfect Mastery",
+      "Biological Clock",
+      "Onsite Observation"
     },
     type = {
       104,
@@ -4835,48 +4802,6 @@ data = {
       4
     }
   },
-  [54940] = {
-    act_id = 131002,
-    show_time = {
-      "2024/12/23 0:00:00",
-      "2024/12/23 0:00:00",
-      "2024/12/23 0:00:00"
-    },
-    show_time_words = "活动还在进行中，可在活动界面回顾相关剧情。活动结束后，将在此界面永久开放所有活动剧情回顾。",
-    story_line = {
-      {834701},
-      {
-        40011,
-        40012,
-        40021,
-        40022,
-        40031,
-        40041,
-        40042,
-        40051,
-        40052
-      },
-      {834702}
-    },
-    story_name = {
-      "清风知我意·启",
-      "清风知我意·壹-上",
-      "清风知我意·壹-下",
-      "清风知我意·贰-上",
-      "清风知我意·贰-下",
-      "清风知我意·叁",
-      "清风知我意·肆-上",
-      "清风知我意·肆-下",
-      "清风知我意·伍-上",
-      "清风知我意·伍-下",
-      "清风知我意·合"
-    },
-    type = {
-      1,
-      5,
-      1
-    }
-  },
   [54950] = {
     act_id = 141001,
     show_time = {
@@ -4896,6 +4821,37 @@ data = {
       "未来旅程"
     },
     type = {4}
+  },
+  [54970] = {
+    act_id = 15088,
+    show_time = {
+      "2025/10/6 0:00:00",
+      "2025/10/6 0:00:00"
+    },
+    show_time_words = "Event is still in progress. You can revisit key plots in the event menu. After the event, all event plots will become viewable in this menu.",
+    story_line = {
+      {842800},
+      {
+        47001,
+        47002,
+        47003,
+        47004,
+        47005,
+        47006,
+        47007
+      }
+    },
+    story_name = {
+      "Prison Management Announcement",
+      "Secret Murmuring",
+      "Fifty-Fifty",
+      "Chance Encounter",
+      "\"Serious\" Rehabilitation",
+      "Moonbathing",
+      "Secret Talk",
+      "Not Ready"
+    },
+    type = {1, 4}
   },
   [58010] = {
     story_line = {
@@ -4975,48 +4931,6 @@ data = {
       "Sway and Swing"
     },
     type = {1, 3}
-  },
-  [58230] = {
-    act_id = 131002,
-    show_time = {
-      "2024/12/23 0:00:00",
-      "2024/12/23 0:00:00",
-      "2024/12/23 0:00:00"
-    },
-    show_time_words = "活动还在进行中，可在活动界面回顾相关剧情。活动结束后，将在此界面永久开放所有活动剧情回顾。",
-    story_line = {
-      {834801},
-      {
-        80011,
-        80012,
-        80021,
-        80022,
-        80031,
-        80041,
-        80042,
-        80051,
-        80052
-      },
-      {834802}
-    },
-    story_name = {
-      "博卿笑乐声·启",
-      "博卿笑乐声·壹-上",
-      "博卿笑乐声·壹-下",
-      "博卿笑乐声·贰-上",
-      "博卿笑乐声·贰-下",
-      "博卿笑乐声·叁",
-      "博卿笑乐声·肆-上",
-      "博卿笑乐声·肆-下",
-      "博卿笑乐声·伍-上",
-      "博卿笑乐声·伍-下",
-      "博卿笑乐声·合"
-    },
-    type = {
-      1,
-      5,
-      1
-    }
   },
   [58240] = {
     act_id = 141001,

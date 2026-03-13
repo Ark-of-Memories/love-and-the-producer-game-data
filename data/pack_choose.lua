@@ -76,7 +76,7 @@ data = {
     pack_choose_icon = 345011,
     special_item = "71050,81,1:72060,81,1:73050,81,1:74050,81,1:78040,81,1",
     pop_msg = 1,
-    desc = "自选ER礼盒(20年9月主线卡）",
+    desc = "ER Giftbox",
     pack_rare = 4
   },
   [12] = {
@@ -1100,21 +1100,21 @@ data = {
     pack_rare = 2
   },
   [135] = {
-    pack_choose_name = "自选SSR礼盒",
+    pack_choose_name = "SSR Giftbox",
     pack_choose_icon = 345135,
     special_item = "54850,81,1:51870,81,1:53870,81,1:52840,81,1:58200,81,1",
     supply_item = "119071,101,1",
     pop_msg = 1,
-    desc = "可从SSR羁绊【白起·善恶界线】【李泽言·解药】【周棋洛·缓释依赖】【许墨·暗流迷宫】【凌肖·降温】中任选一张获得",
+    desc = "Choose and receive one of the following SSR Karmas: [Gavin: Line of Good and Evil], [Victor: Remedy], [Kiro: Sustained Affection], [Lucien: Unseen Labyrinth], and [Shaw: Cooling Down].",
     pack_rare = 4
   },
   [136] = {
-    pack_choose_name = "自选服装礼盒",
+    pack_choose_name = "Outfit Giftbox",
     pack_choose_icon = 345136,
     special_item = "4073,321,1:1074,321,1:3074,321,1:2072,321,1:8031,321,1",
     supply_item = "0,1,360000",
     pop_msg = 1,
-    desc = "可从【白起·黑白拼色登山服】【李泽言·撞色复古夹克】【周棋洛·医师手术短褂】【许墨·纯白清透礼服】【凌肖·职场新人西装】中任选一套获得",
+    desc = "Choose and receive one of the following outfits: [Gavin: Black-and-White Hiking Outfit], [Victor: Contrasting Vintage Jacket], [Kiro: Doctor's Surgical Scrub], [Lucien: Ashen Dress Suit], and [Shaw: Office Newcomer Suit].",
     pack_rare = 2
   },
   [137] = {
@@ -1177,12 +1177,12 @@ data = {
     pack_rare = 4
   },
   [144] = {
-    pack_choose_name = "签到羁绊自选礼盒",
+    pack_choose_name = "Sign-in Karma Giftbox",
     pack_choose_icon = 345144,
-    special_item = "532120,81,1:533160,81,1:531150,81,1:534180,81,1",
+    special_item = "531150,81,1:534180,81,1:532160,81,1:533200,81,1",
     supply_item = "0,1,50000",
     pop_msg = 1,
-    desc = "自选R羁绊礼盒",
+    desc = "R Karma Giftbox",
     pack_rare = 2
   },
   [145] = {
@@ -1194,47 +1194,47 @@ data = {
     pack_rare = 3
   },
   [146] = {
-    pack_choose_name = "自选SSR礼盒",
+    pack_choose_name = "SSR Giftbox",
     pack_choose_icon = 345146,
     special_item = "52080,81,1:54160,81,1:51240,81,1:53280,81,1",
     supply_item = "119071,101,1",
     pop_msg = 1,
-    desc = "可从SSR羁绊【许墨·桃之夭夭】【白起·沐光】【李泽言·正中心扉】【周棋洛·掌中星】中任选一张获得",
+    desc = "Choose and receive one of the following SSR Karmas: [Lucien: Peach Blossoms], [Gavin: Lightbath], [Victor: Hitting the Heart], and [Kiro: Star In Hand].",
     pack_rare = 4
   },
   [147] = {
-    pack_choose_name = "头像框自选礼盒",
+    pack_choose_name = "Avatar Frame Giftbox",
     pack_choose_icon = 345120,
     special_item = "10132,311,1:10134,311,1:10144,311,1:10153,311,1",
     supply_item = "0,1,50000",
     pop_msg = 1,
-    desc = "可从【入夜行灯】【恋爱环游】【漫野花时】【鹤栖良泽】中任选一个获得",
+    desc = "Choose one from the following rewards: [Midnight Odyssey], [Love on Tour], [Wild Blossoms], or [Crane's Haven].",
     pack_rare = 2
   },
   [148] = {
-    pack_choose_name = "自选服装礼盒",
+    pack_choose_name = "Outfit Giftbox",
     pack_choose_icon = 345148,
     special_item = "1079,321,1:4079,321,1:2078,321,1:3078,321,1",
     supply_item = "0,1,360000",
-    desc = "可从【李泽言·机械风重工套装】【白起·繁复主义潮流套装】【许墨·黑白哥特风小丑服】【周棋洛·皎夜圣职者套装】中任选一套获得",
+    desc = "Choose one of the following: [Victor: Industrial Steampunk Set], [Gavin: Maximalist Fashion Set], [Lucien: Monochrome Jester Set], and [Kiro: Moonlit Holy Night Set].",
     pack_rare = 2
   },
   [149] = {
-    pack_choose_name = "自选SSR礼盒",
+    pack_choose_name = "SSR Giftbox",
     pack_choose_icon = 345149,
     special_item = "53930,81,1:54940,81,1:51920,81,1:52910,81,1:58230,81,1",
     supply_item = "119071,101,1",
     pop_msg = 1,
-    desc = "可从SSR羁绊【周棋洛·红尘笑】【白起·嫁春风】【李泽言·共今朝】【许墨·痴情诗】【凌肖·承欢客】中任选一张获得",
+    desc = "Choose one of the following SSR Karmas: [Kiro: Mortal Joy], [Gavin: Bride of the Spring Breeze], [Victor: Everlasting Moment], [Lucien: Poem of Eternal Love], and [Shaw: Guest of Joy].",
     pack_rare = 4
   },
   [150] = {
-    pack_choose_name = "自选服装礼盒",
+    pack_choose_name = "Outfit Giftbox",
     pack_choose_icon = 345150,
     special_item = "3080,321,1:4080,321,1:1080,321,1:2080,321,1:8035,321,1",
     supply_item = "0,1,360000",
     pop_msg = 1,
-    desc = "可从【周棋洛·丹霞织锦喜袍】【白起·双燕戏云大红喜袍】【李泽言·蛟龙抱珠传统婚服】【许墨·朱墨锦绣喜袍】【凌肖·玲珑竹枝双色喜服】中任选一套获得",
+    desc = "Choose one of the following outfits: [Kiro: Sunset Brocade Wedding Outfit], [Gavin: Swallows & Cloud Wedding Outfit], [Victor: Pearl-Embracing Loong Wedding Outfit], [Lucien: Vermilion Ink Wedding Outfit], and [Shaw: Twin-Tone Bamboo Wedding Outfit].",
     pack_rare = 2
   },
   [151] = {
@@ -1247,29 +1247,29 @@ data = {
     pack_rare = 2
   },
   [152] = {
-    pack_choose_name = "自选ER礼盒",
+    pack_choose_name = "ER Giftbox",
     pack_choose_icon = 345152,
     special_item = "71440,81,1:73430,81,1:74430,81,1:72430,81,1:78230,81,1",
     supply_item = "119243,101,2",
     pop_msg = 1,
-    desc = "可从ER羁绊【李泽言·不眠人间】【周棋洛·千千晚星】【白起·灼然星火】【许墨·心焰漫天】【凌肖·肆意燃宵】中任选一张获得",
+    desc = "Choose one of the following ER Karmas:  [Victor: The Night and Us], [Kiro: To the Stars and Back] , [Gavin: Ignite the Night], [Lucien:  A Heart Aflame] and [Shaw:  Reign of the Night].",
     pack_rare = 4
   },
   [153] = {
-    pack_choose_name = "自选服装礼盒",
+    pack_choose_name = "Outfit Giftbox",
     pack_choose_icon = 345153,
     special_item = "1081,321,1:3081,321,1:4081,321,1:2081,321,1:8036,321,1",
     supply_item = "0,1,360000",
     pop_msg = 1,
-    desc = "可从【李泽言·酒红立领大衣套装】【周棋洛·繁花刺绣夹克套装】【白起·黑白贴花风衣套装】【许墨·灰白条纹休闲套装】【凌肖·扎染袖口牛仔服套装】中任选一套获得",
+    desc = "Choose one of the following: [Victor: Burgundy High-Neck Coat Set],  [Kiro: Floral Embroidered Jacket] , [Gavin: Black Overcoat with White Appliqué],[Lucien:Gray & White Striped Casual Set],and [Shaw:Denim Set with Tie-Dye Cuffs].",
     pack_rare = 2
   },
   [154] = {
-    pack_choose_name = "自选服装礼盒",
+    pack_choose_name = "Outfit Giftbox",
     pack_choose_icon = 345154,
     special_item = "3082,321,1:4082,321,1:1083,321,1:2082,321,1",
     supply_item = "0,1,360000",
-    desc = "可从【周棋洛·格纹妆点西式背心】【白起·白色简装行动服】【李泽言·暗色机能风套装】【许墨·暗红束带战斗服】中任选一套获得",
+    desc = "You can choose one of the following outfits: [Kiro: Checkered Waistcoat], [Gavin: White Operative Attire], [Victor: Dark Techwear Set], [Lucien: Burgundy Strapped Battledress].",
     pack_rare = 2
   },
   [155] = {
@@ -1344,6 +1344,23 @@ data = {
     desc = "自选R羁绊礼盒",
     pack_rare = 2
   },
+  [163] = {
+    pack_choose_name = "Outfit Giftbox",
+    pack_choose_icon = 345163,
+    special_item = "3088,321,1:1088,321,1:4085,321,1:2087,321,1",
+    supply_item = "0,1,360000",
+    desc = "Choose one of the following: [Kiro: Striped Ink-Green Inmate Outfit], [Victor: Straight Jacket Inmate Outfit], [Gavin: Striped Shackles Inmate Outfit], and [Lucien: Striped Restraint Inmate Outfit].",
+    pack_rare = 2
+  },
+  [997] = {
+    pack_choose_name = "Sign-in Karma Giftbox",
+    pack_choose_icon = 345997,
+    special_item = "532080,81,1:534230,81,1:531200,81,1:533240,81,1",
+    supply_item = "0,1,50000",
+    pop_msg = 1,
+    desc = "R Karma Giftbox",
+    pack_rare = 2
+  },
   [998] = {
     pack_choose_name = "Sign-in Karma Giftbox",
     pack_choose_icon = 345998,
@@ -1360,6 +1377,15 @@ data = {
     supply_item = "0,1,50000",
     pop_msg = 1,
     desc = "R Karma Giftbox",
+    pack_rare = 2
+  },
+  [9992] = {
+    pack_choose_name = "Forest Odyssey R Karma Giftbox",
+    pack_choose_icon = 345099,
+    special_item = "531170,81,1:532150,81,1:533180,81,1:534190,81,1:38530,81,1",
+    supply_item = "0,1,50000",
+    pop_msg = 1,
+    desc = "Forest Odyssey R Karma Giftbox",
     pack_rare = 2
   },
   [9993] = {
@@ -1422,6 +1448,15 @@ data = {
     supply_item = "0,1,50000",
     pop_msg = 1,
     desc = "4th Anniv. R Karma Giftbox",
+    pack_rare = 2
+  },
+  [10000] = {
+    pack_choose_name = "7th Anniv. R Karma Giftbox",
+    pack_choose_icon = 3450993,
+    special_item = "531220,81,1:532220,81,1:533230,81,1:534240,81,1:38570,81,1",
+    supply_item = "0,1,50000",
+    pop_msg = 1,
+    desc = "7th Anniv. R Karma Giftbox",
     pack_rare = 2
   }
 }

@@ -1326,7 +1326,7 @@ data = {
     },
     [13] = {
       name = "Victor",
-      sentence = "And we've been associates for some time.",
+      sentence = "And we've been dating for a long time.",
       text_start_time = "[00:39.22] "
     },
     [14] = {
@@ -5905,214 +5905,214 @@ data = {
   },
   [40011] = {
     [1] = {
-      name = "柳部长",
-      sentence = "说吧，什么事。",
-      text_start_time = "[00:08.59] "
+      name = "Principal Willis",
+      sentence = "What's going on?",
+      text_start_time = "[00:00.00] "
     },
     [2] = {
-      name = "白起",
-      sentence = "不好意思啊柳哥，打扰您休假了。",
-      text_start_time = "[00:10.74] "
+      name = "Gavin",
+      sentence = "My apologies for interrupting your leave.",
+      text_start_time = "[00:10.72] "
     },
     [3] = {
-      name = "柳部长",
-      sentence = "别假模假式地铺垫了，你这个点打来准没好事，我做好心理准备了。",
-      text_start_time = "[00:14.18] "
+      name = "Principal Willis",
+      sentence = "Cut the nonsense. I can tell when something's off. What's happened?",
+      text_start_time = "[00:13.70] "
     },
     [4] = {
-      name = "白起",
-      sentence = "那我直说了。",
-      text_start_time = "[00:21.06] "
+      name = "Gavin",
+      sentence = "Alright.",
+      text_start_time = "[00:16.30] "
     },
     [5] = {
-      name = "白起",
-      sentence = "朱波组了一个局，在长乐会所，应该还有万柳他们几个。",
-      text_start_time = "[00:22.77] "
+      name = "Gavin",
+      sentence = "Jobin's hosting an event at the Elysian Club. Warren and his crew are expected to show up.",
+      text_start_time = "[00:18.25] "
     },
     [6] = {
-      name = "白起",
-      sentence = "虽然都只是些边角料，但今晚准备顺手清理一下。",
-      text_start_time = "[00:27.50] "
+      name = "Gavin",
+      sentence = "They're just the supporting cast, but tonight, we're writing them out of the script.",
+      text_start_time = "[00:23.99] "
     },
     [7] = {
-      name = "柳部长",
-      sentence = "长大了，都知道跟我汇报了。",
-      text_start_time = "[00:32.23] "
+      name = "Principal Willis",
+      sentence = "Look at you, learning to give me a heads-up.",
+      text_start_time = "[00:29.65] "
     },
     [8] = {
-      name = "白起",
-      sentence = "没，我就是来通知你一下。",
-      text_start_time = "[00:36.53] "
+      name = "Gavin",
+      sentence = "Not a heads-up—a notification.",
+      text_start_time = "[00:31.97] "
     },
     [9] = {
-      name = "白起",
-      sentence = "免得他们大半夜电报打您家里，那才是真的是不让您休息。",
-      text_start_time = "[00:39.97] "
+      name = "Gavin",
+      sentence = "Just trying to prevent a midnight meltdown on your home line. That would really ruin your vacation.",
+      text_start_time = "[00:35.02] "
     },
     [10] = {
-      name = "白起",
-      sentence = "听我现在讲完，您就可以把线拔了，图个清静。",
-      text_start_time = "[00:44.70] "
+      name = "Gavin",
+      sentence = "Consider yourself notified. Feel free to unplug.",
+      text_start_time = "[00:41.14] "
     },
     [11] = {
-      name = "柳部长",
-      sentence = "臭小子，我还得谢谢你体贴周到？",
-      text_start_time = "[00:48.99] "
+      name = "Principal Willis",
+      sentence = "You're unbelievable. Should I thank you for your impeccable timing?",
+      text_start_time = "[00:45.40] "
     },
     [12] = {
-      name = "白起",
-      sentence = "那您见外了。",
-      text_start_time = "[00:53.29] "
+      name = "Gavin",
+      sentence = "Please, it's the least I could do.",
+      text_start_time = "[00:47.77] "
     },
     [13] = {
-      name = "柳部长",
-      sentence = "不过话说回来，你们才过去了九天，“资料”都准备齐了？",
-      text_start_time = "[00:55.87] "
+      name = "Principal Willis",
+      sentence = "Jokes aside, it's only been nine days. Do you have the full \"file\"?",
+      text_start_time = "[00:51.84] "
     },
     [14] = {
-      name = "白起",
-      sentence = "差不多了。",
-      text_start_time = "[01:00.60] "
+      name = "Gavin",
+      sentence = "Close enough.",
+      text_start_time = "[00:53.95] "
     },
     [15] = {
-      name = "白起",
-      sentence = "为了这九天，九百多个日子都搭进去了。",
-      text_start_time = "[01:02.27] "
+      name = "Gavin",
+      sentence = "Those nine days are built on over nine hundred.",
+      text_start_time = "[00:55.69] "
     },
     [16] = {
-      name = "白起",
-      sentence = "没个把握这次我也不会动手。",
-      text_start_time = "[01:06.19] "
+      name = "Gavin",
+      sentence = "I'm not making a move on a hunch.",
+      text_start_time = "[00:59.13] "
     },
     [17] = {
-      name = "白起",
-      sentence = "顺利的话，今晚会是转折点，能撬开更大的口子。",
-      text_start_time = "[01:09.15] "
+      name = "Gavin",
+      sentence = "If this works, tonight could give us the leverage we need to blow the lid off this thing.",
+      text_start_time = "[01:01.85] "
     },
     [18] = {
-      name = "柳部长",
-      sentence = "人手呢？",
-      text_start_time = "[01:14.78] "
+      name = "Principal Willis",
+      sentence = "Your team?",
+      text_start_time = "[01:07.33] "
     },
     [19] = {
-      name = "白起",
-      sentence = "部署好了。",
-      text_start_time = "[01:16.07] "
+      name = "Gavin",
+      sentence = "All sorted.",
+      text_start_time = "[01:08.34] "
     },
     [20] = {
-      name = "柳部长",
-      sentence = "要是需要支援，随时……",
-      text_start_time = "[01:17.36] "
+      name = "Principal Willis",
+      sentence = "Backup is—",
+      text_start_time = "[01:10.72] "
     },
     [21] = {
-      name = "白起",
-      sentence = "您休假呢，少操点心。",
-      text_start_time = "[01:19.20] "
+      name = "Gavin",
+      sentence = "Vacation, remember? Stop micromanaging.",
+      text_start_time = "[01:12.52] "
     },
     [22] = {
-      name = "柳部长",
-      sentence = "总之不要贸然行事。",
-      text_start_time = "[01:21.66] "
+      name = "Principal Willis",
+      sentence = "Just don't get carried away.",
+      text_start_time = "[01:16.61] "
     },
     [23] = {
-      name = "白起",
-      sentence = "柳哥，我这么不省心吗。您还觉得我是当年那个毛头小子，一股脑地就往前冲？",
-      text_start_time = "[01:24.68] "
+      name = "Gavin",
+      sentence = "Come on, Willis. Do you still see me as that reckless kid who ran headfirst into walls?",
+      text_start_time = "[01:18.08] "
     },
     [24] = {
-      name = "白起",
-      sentence = "我知道您担心什么。",
-      text_start_time = "[01:32.10] "
+      name = "Gavin",
+      sentence = "I know what you're afraid of.",
+      text_start_time = "[01:24.24] "
     },
     [25] = {
-      name = "白起",
-      sentence = "我也知道这次面对的都是什么人。",
-      text_start_time = "[01:34.12] "
+      name = "Gavin",
+      sentence = "And I know the monsters in this cage.",
+      text_start_time = "[01:25.72] "
     },
     [26] = {
-      name = "白起",
-      sentence = "放心，我有分寸。",
-      text_start_time = "[01:36.70] "
+      name = "Gavin",
+      sentence = "Don't worry. I've got it under control.",
+      text_start_time = "[01:28.52] "
     },
     [27] = {
-      name = "柳部长",
-      sentence = "那群人可能比你想象中的更恶劣。",
-      text_start_time = "[01:38.85] "
+      name = "Principal Willis",
+      sentence = "These \"monsters\" might be more vicious than you're prepared for.",
+      text_start_time = "[01:32.20] "
     },
     [28] = {
-      name = "柳部长",
-      sentence = "他们铤而走险惯了，把岔路走成了阳关大道，想翻修，没那么容易。",
-      text_start_time = "[01:42.29] "
+      name = "Principal Willis",
+      sentence = "They've been living on the edge for so long, they've built a castle there. You can't just ask them to move.",
+      text_start_time = "[01:34.62] "
     },
     [29] = {
-      name = "白起",
-      sentence = "那就全铲平了。",
-      text_start_time = "[01:49.17] "
+      name = "Gavin",
+      sentence = "Then we'll burn the castle down.",
+      text_start_time = "[01:37.52] "
     },
     [30] = {
-      name = "白起",
-      sentence = "我当初受到很多掣肘，但现在不一样了。所有的账，我都要一笔一笔跟他们算干净。",
-      text_start_time = "[01:50.96] "
+      name = "Gavin",
+      sentence = "Back then, I was held back. Not anymore. I'm collecting on everything they owe.",
+      text_start_time = "[01:40.75] "
     },
     [31] = {
-      name = "白起",
-      sentence = "一个都跑不掉。",
-      text_start_time = "[01:59.85] "
+      name = "Gavin",
+      sentence = "Every last one of them.",
+      text_start_time = "[01:47.98] "
     },
     [32] = {
-      name = "柳部长",
-      sentence = "看来这北边要变天了。",
-      text_start_time = "[02:02.06] "
+      name = "Principal Willis",
+      sentence = "Looks like we're in for a power shift up north.",
+      text_start_time = "[01:51.88] "
     },
     [33] = {
-      name = "白起",
-      sentence = "那不是正好？风浪合适的时候，鱼会自己落网。",
-      text_start_time = "[02:05.07] "
+      name = "Gavin",
+      sentence = "Good. When the current shifts, the predators get disoriented.",
+      text_start_time = "[01:53.37] "
     },
     [34] = {
-      name = "白起",
-      sentence = "既然谁也不敢掀起风，就让我来。",
-      text_start_time = "[02:10.23] "
+      name = "Gavin",
+      sentence = "If no one else has the guts to rock the boat, I'll be the one to capsize it.",
+      text_start_time = "[01:58.84] "
     },
     [35] = {
-      name = "柳部长",
-      sentence = "行啊，记得找张大一点的网。",
-      text_start_time = "[02:13.67] "
+      name = "Principal Willis",
+      sentence = "Go ahead. Just make sure you can handle the catch.",
+      text_start_time = "[02:03.78] "
     },
     [36] = {
-      name = "柳部长",
-      sentence = "拖了那么久，是该好好算算了。要做就要做干净，别留后患。",
-      text_start_time = "[02:16.67] "
+      name = "Principal Willis",
+      sentence = "It's been dragging on too long. Finish it. Clean.",
+      text_start_time = "[02:05.38] "
     },
     [37] = {
-      name = "白起",
-      sentence = "我有数。",
-      text_start_time = "[02:23.62] "
+      name = "Gavin",
+      sentence = "Understood.",
+      text_start_time = "[02:07.04] "
     },
     [38] = {
-      name = "柳部长",
-      sentence = "我还得多一句。你的弱点也要小心，毕竟这是谁都知道的东西。",
-      text_start_time = "[02:25.27] "
+      name = "Principal Willis",
+      sentence = "And Gavin... watch your back. It's no secret what you care about most.",
+      text_start_time = "[02:08.53] "
     },
     [39] = {
-      name = "白起",
-      sentence = "那就走着瞧。",
-      text_start_time = "[02:34.36] "
+      name = "Gavin",
+      sentence = "They can try their luck.",
+      text_start_time = "[02:12.88] "
     },
     [40] = {
-      name = "白起",
-      sentence = "谁敢动她，我保证他们不会剩一口气喊求饶。",
-      text_start_time = "[02:36.02] "
+      name = "Gavin",
+      sentence = "Anyone who goes near her will be silenced before they can even speak.",
+      text_start_time = "[02:14.62] "
     },
     [41] = {
-      name = "白起",
-      sentence = "该打碎的东西我会彻底打碎。",
-      text_start_time = "[02:40.50] "
+      name = "Gavin",
+      sentence = "I'll reduce every obstacle to rubble.",
+      text_start_time = "[02:18.56] "
     },
     [42] = {
-      name = "白起",
-      sentence = "我进去了，您歇着吧。",
-      text_start_time = "[02:45.18] "
+      name = "Gavin",
+      sentence = "I'm heading in. Enjoy your peace and quiet.",
+      text_start_time = "[02:23.25] "
     }
   },
   [80001] = {

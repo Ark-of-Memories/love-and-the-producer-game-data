@@ -4527,5 +4527,117 @@ data = {
     role_id = 4,
     special_type = 0,
     start_time = 20250729
+  },
+  [639] = {
+    library_id = 299,
+    man_advice_text = "你最近的拍摄选题是“总裁管家的一天”，我怀疑你又是一次早有预谋的“就地取材”。",
+    role_id = 1,
+    special_type = 0,
+    start_time = 20250805
+  },
+  [640] = {
+    library_id = 300,
+    man_advice_text = "在一个我们都刚好不用工作的工作日，我想可以用折纸手工填满这足够惬意的时光。",
+    role_id = 2,
+    special_type = 0,
+    start_time = 20250813
+  },
+  [641] = {
+    library_id = 301,
+    man_advice_text = "听说今天傍晚会有难得一见的晚霞，我想可以在天空上给你找个最佳观赏点。",
+    role_id = 4,
+    special_type = 0,
+    start_time = 20250820
+  },
+  [642] = {
+    library_id = 302,
+    man_advice_text = "我构思了不少双人拍照的姿势，等周末出去玩的时候我想和你都试一遍~",
+    role_id = 3,
+    special_type = 0,
+    start_time = 20250827
+  },
+  [643] = {
+    library_id = 303,
+    man_advice_text = "今天的微醺与电影夜，调酒师朋友帮忙选了几款酒，让我们度过美好的晚上。",
+    role_id = 2,
+    special_type = 0,
+    start_time = 20250904
+  },
+  [644] = {
+    library_id = 304,
+    man_advice_text = "报告阿薯，家里的饮料零食充足！申请和你这个周末在家里打游戏宅两天！",
+    role_id = 3,
+    special_type = 0,
+    start_time = 20250912
+  },
+  [645] = {
+    library_id = 305,
+    man_advice_text = "有笨蛋偷偷下单了两件“猫耳睡衣”，等再过几天，一回家就有三只小猫了。",
+    role_id = 1,
+    special_type = 0,
+    start_time = 20250920
+  },
+  [646] = {
+    library_id = 306,
+    man_advice_text = "我把小黑送去定期维修了，所以今晚下班我去接你飞回家。",
+    role_id = 4,
+    special_type = 0,
+    start_time = 20250928
+  },
+  [647] = {
+    library_id = 307,
+    man_advice_text = "附近开了家可以收获幸运的“魔法甜品店”，我想邀请阿薯一起来次甜品大冒险~",
+    role_id = 3,
+    special_type = 0,
+    start_time = 20251007
+  },
+  [648] = {
+    library_id = 308,
+    man_advice_text = "晚上的睡前故事，有“恐怖但很可爱”和“奇幻中有幽默”，小朋友更想听哪个。",
+    role_id = 2,
+    special_type = 0,
+    start_time = 20251014
+  },
+  [649] = {
+    library_id = 309,
+    man_advice_text = "最近署里想组织露营，带家属的那种，我想我们可以趁这个机会去外面好好放松几天。",
+    role_id = 4,
+    special_type = 0,
+    start_time = 20251022
+  },
+  [650] = {
+    library_id = 310,
+    man_advice_text = "某人托我研发的“秋天最后一口布丁”做好了，栗子味的，能同时满足你两项心愿。",
+    role_id = 1,
+    special_type = 0,
+    start_time = 20251030
+  },
+  [651] = {
+    library_id = 311,
+    man_advice_text = "天气转凉的日子，我们就该吃点热乎的，当然也可以是辣椒多的。",
+    role_id = 4,
+    special_type = 0,
+    start_time = 20251107
+  },
+  [652] = {
+    library_id = 312,
+    man_advice_text = "我收到了几份拍摄过的胶卷，虽不知道内容，但我想和你一同冲洗出这份惊喜。",
+    role_id = 2,
+    special_type = 0,
+    start_time = 20251115
+  },
+  [653] = {
+    library_id = 313,
+    man_advice_text = "布丁最近也迷上了我给你买的那个粉色抱枕，看起来小猫都很容易喜欢类似的东西。",
+    role_id = 1,
+    special_type = 0,
+    start_time = 20251122
+  },
+  [654] = {
+    library_id = 314,
+    man_advice_text = "明天临时有一场“王子”的戏要出演，薯片小姐能当我的“公主”和我对对戏嘛？",
+    role_id = 3,
+    special_type = 0,
+    start_time = 20251129
   }
 }

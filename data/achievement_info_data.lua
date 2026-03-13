@@ -186,6 +186,21 @@ data = {
     achv_time = "2025/3/20 00:00:00",
     achv_type = 1
   },
+  [10115] = {
+    achv_desc = "Cumulatively sign in 1500 times",
+    achv_id_old = 0,
+    achv_name = "Daily Companion XⅣ",
+    achv_need = {
+      0,
+      1142,
+      1500
+    },
+    achv_rank = 15,
+    achv_rewards = "139,325,1",
+    achv_theme = 1,
+    achv_time = "2026/3/20 00:00:00",
+    achv_type = 1
+  },
   [10201] = {
     achv_desc = "Cumulatively upgrade expert 5 times",
     achv_id_old = 8,
@@ -7620,6 +7635,90 @@ data = {
       15
     },
     achv_rank = 61,
+    achv_rewards = "100001,2,50",
+    achv_theme = 50,
+    achv_type = 2
+  },
+  [25062] = {
+    achv_desc = "Clear Chapter 59 of Season 2 with full stars",
+    achv_id_old = 0,
+    achv_name = "New Beginnings: Phase 59",
+    achv_need = {
+      3159,
+      1048,
+      30
+    },
+    achv_rank = 62,
+    achv_rewards = "100001,2,50",
+    achv_theme = 50,
+    achv_type = 2
+  },
+  [25063] = {
+    achv_desc = "Clear Chapter 60 of Season 2 with full stars",
+    achv_id_old = 0,
+    achv_name = "New Beginnings: Phase 60",
+    achv_need = {
+      3160,
+      1048,
+      15
+    },
+    achv_rank = 63,
+    achv_rewards = "100001,2,50",
+    achv_theme = 50,
+    achv_type = 2
+  },
+  [25064] = {
+    achv_desc = "Clear Chapter 61 of Season 2 with full stars",
+    achv_id_old = 0,
+    achv_name = "New Beginnings: Phase 61",
+    achv_need = {
+      3161,
+      1048,
+      15
+    },
+    achv_rank = 64,
+    achv_rewards = "100001,2,50",
+    achv_theme = 50,
+    achv_type = 2
+  },
+  [25065] = {
+    achv_desc = "Clear Chapter 62 of Season 2 with full stars",
+    achv_id_old = 0,
+    achv_name = "New Beginnings: Phase 62",
+    achv_need = {
+      3162,
+      1048,
+      15
+    },
+    achv_rank = 65,
+    achv_rewards = "100001,2,50",
+    achv_theme = 50,
+    achv_type = 2
+  },
+  [25066] = {
+    achv_desc = "Clear Chapter 63 of Season 2 with full stars",
+    achv_id_old = 0,
+    achv_name = "New Beginnings: Phase 63",
+    achv_need = {
+      3163,
+      1048,
+      15
+    },
+    achv_rank = 66,
+    achv_rewards = "100001,2,50",
+    achv_theme = 50,
+    achv_type = 2
+  },
+  [25067] = {
+    achv_desc = "Clear Chapter 64 of Season 2 with full stars",
+    achv_id_old = 0,
+    achv_name = "New Beginnings: Phase 64",
+    achv_need = {
+      3164,
+      1048,
+      15
+    },
+    achv_rank = 67,
     achv_rewards = "100001,2,50",
     achv_theme = 50,
     achv_type = 2
@@ -15458,6 +15557,71 @@ data = {
     achv_rewards = "534050,81,1",
     achv_theme = 90,
     achv_time = "2025/7/24 5:00:00",
+    achv_type = 4
+  },
+  [49101] = {
+    achv_desc = "Obtain Lucien: Pristine World",
+    achv_id_old = 0,
+    achv_name = "Pristine World",
+    achv_need = {
+      42420,
+      1110,
+      1
+    },
+    achv_rank = 1,
+    achv_rewards = "532050,81,1",
+    achv_theme = 91,
+    achv_time = "2025/11/10  05:00:00",
+    achv_type = 4
+  },
+  [49201] = {
+    achv_desc = "Obtained by upgrading all ER Karmas from the Kiss of Venus series.",
+    achv_name = "The Kiss of Venus",
+    achv_need = {
+      {
+        71230,
+        1465,
+        1
+      },
+      {
+        72220,
+        1465,
+        1
+      },
+      {
+        73230,
+        1465,
+        1
+      },
+      {
+        74220,
+        1465,
+        1
+      },
+      {
+        78110,
+        1465,
+        1
+      }
+    },
+    achv_rank = 1,
+    achv_rewards = "51359,331,1",
+    achv_theme = 92,
+    achv_type = 4
+  },
+  [49301] = {
+    achv_desc = "Obtain Victor: Time for Love",
+    achv_id_old = 0,
+    achv_name = "Time for Love",
+    achv_need = {
+      41450,
+      1110,
+      1
+    },
+    achv_rank = 1,
+    achv_rewards = "531100,81,1",
+    achv_theme = 93,
+    achv_time = "2026/1/8 5:00:00",
     achv_type = 4
   },
   [90101] = {

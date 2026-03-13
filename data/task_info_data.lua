@@ -24010,7 +24010,7 @@ data = {
     task_BGM = "51_Battle_2"
   },
   [1595] = {
-    task_name = "传说之谜",
+    task_name = "Mystery of Legends",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 315902,
@@ -24052,7 +24052,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1596] = {
-    task_name = "纸媒之殇",
+    task_name = "Decline of Print Media",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 315906,
@@ -24094,7 +24094,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1597] = {
-    task_name = "复古迪斯科",
+    task_name = "Retro Disco",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 315911,
@@ -24144,7 +24144,7 @@ data = {
     task_BGM = "51_Battle_2"
   },
   [1598] = {
-    task_name = "宴会交友季",
+    task_name = "Banquet Dating Season",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 315918,
@@ -24186,7 +24186,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1599] = {
-    task_name = "有关“梦”的讲座",
+    task_name = "A Lecture About \"Dreams\"",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 315923,
@@ -24236,7 +24236,7 @@ data = {
     task_BGM = "51_Battle_2"
   },
   [1600] = {
-    task_name = "禁止狩猎",
+    task_name = "Hunting Ban",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 315942,
@@ -24278,7 +24278,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1601] = {
-    task_name = "宝石博览会",
+    task_name = "Gem Exposition",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 315947,
@@ -24328,7 +24328,7 @@ data = {
     task_BGM = "51_Battle_2"
   },
   [1602] = {
-    task_name = "笨贼妙探",
+    task_name = "Clumsy Burglars",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 315930,
@@ -24370,7 +24370,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1603] = {
-    task_name = "医疗剧",
+    task_name = "Medical Drama",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 315935,
@@ -24420,7 +24420,7 @@ data = {
     task_BGM = "51_Battle_2"
   },
   [1604] = {
-    task_name = "谁在说谎",
+    task_name = "Who's Lying",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 315951,
@@ -24462,7 +24462,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1605] = {
-    task_name = "过度疲劳",
+    task_name = "Overfatigue",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316002,
@@ -24504,7 +24504,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1606] = {
-    task_name = "谈判高手",
+    task_name = "Hotshot Negotiators",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316004,
@@ -24546,7 +24546,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1607] = {
-    task_name = "断网一日",
+    task_name = "An Internet-Free Day",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316006,
@@ -24588,7 +24588,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1608] = {
-    task_name = "股市风云",
+    task_name = "Stock Market Stories",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316008,
@@ -24630,7 +24630,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1609] = {
-    task_name = "免费体检",
+    task_name = "Free Check-Up",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316010,
@@ -24672,7 +24672,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1610] = {
-    task_name = "我是直播王",
+    task_name = "King of Live Streaming",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316012,
@@ -24714,7 +24714,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1611] = {
-    task_name = "明星特训营",
+    task_name = "Star Training Camp",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316103,
@@ -24756,7 +24756,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1612] = {
-    task_name = "舞台安全",
+    task_name = "Stage Safety",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316105,
@@ -24798,7 +24798,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1613] = {
-    task_name = "地下演出",
+    task_name = "Underground Show",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316108,
@@ -24848,7 +24848,7 @@ data = {
     task_BGM = "51_Battle_2"
   },
   [1614] = {
-    task_name = "面具收藏家",
+    task_name = "Mask Collector",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316111,
@@ -24890,7 +24890,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1615] = {
-    task_name = "观众须知",
+    task_name = "Audience Notice",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316113,
@@ -24932,7 +24932,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1616] = {
-    task_name = "网吧欺诈",
+    task_name = "Net Café Scam",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316203,
@@ -24974,7 +24974,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1617] = {
-    task_name = "加班成风",
+    task_name = "Routine Overtime",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316205,
@@ -25016,7 +25016,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1618] = {
-    task_name = "“内鬼”游戏",
+    task_name = "Find the Mole",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316208,
@@ -25058,7 +25058,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1619] = {
-    task_name = "靶场积分",
+    task_name = "Range Points",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316212,
@@ -25108,7 +25108,7 @@ data = {
     task_BGM = "51_Battle_2"
   },
   [1620] = {
-    task_name = "苏醒疗法",
+    task_name = "Sleep Therapy",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316214,
@@ -25150,7 +25150,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1621] = {
-    task_name = "手术陪同",
+    task_name = "Surgery Companion",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316303,
@@ -25192,7 +25192,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1622] = {
-    task_name = "医疗参观日",
+    task_name = "Medical Equipment Day",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316308,
@@ -25242,7 +25242,7 @@ data = {
     task_BGM = "51_Battle_2"
   },
   [1623] = {
-    task_name = "历史的今天",
+    task_name = "Today in History",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316311,
@@ -25284,7 +25284,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1624] = {
-    task_name = "旅游赠礼",
+    task_name = "Travel Gift",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316316,
@@ -25326,7 +25326,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1625] = {
-    task_name = "神秘墓葬",
+    task_name = "Mysterious Tomb",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316319,
@@ -25368,7 +25368,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1626] = {
-    task_name = "都市怪谈",
+    task_name = "Urban Legends",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316402,
@@ -25410,7 +25410,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1627] = {
-    task_name = "影子的故事",
+    task_name = "Shadow Tales",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316405,
@@ -25452,7 +25452,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1628] = {
-    task_name = "师徒厨王大赛",
+    task_name = "Duo Cook-Off",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316407,
@@ -25502,7 +25502,7 @@ data = {
     task_BGM = "51_Battle_2"
   },
   [1629] = {
-    task_name = "伟大的普通人",
+    task_name = "The Great Ordinary People",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316411,
@@ -25544,7 +25544,7 @@ data = {
     task_BGM = "50_Task_S2"
   },
   [1630] = {
-    task_name = "前沿芯片",
+    task_name = "Smart Chips",
     task_type = 0,
     male_role_id = -1,
     task_line_id = 316414,

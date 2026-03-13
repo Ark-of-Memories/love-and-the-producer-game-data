@@ -8790,7 +8790,7 @@ story8 = {
       dialog = 3,
       music = "47_Warm_Daily",
       renwu = "npc",
-      sentence = "我站在咖啡机前揉了揉额头，长舒一口气。",
+      sentence = "I rubbed my forehead at the coffee machine, exhaling deeply.",
       next = {2}
     },
     [2] = {
@@ -8800,7 +8800,7 @@ story8 = {
       music = "47_Warm_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "三小时的会议，总算中场休息了。",
+      sentence = "Can't believe a meeting can go on for three straight hours... And now we finally got a break.",
       next = {3}
     },
     [3] = {
@@ -8808,7 +8808,7 @@ story8 = {
       dialog = 3,
       music = "47_Warm_Daily",
       renwu = "npc",
-      sentence = "自动售卖机发出一阵声响，刚弯下腰时，一张便签从怀中的文件夹里飘了出来。",
+      sentence = "The vending machine whirred. As I bent to grab my drink, a small sticky note slipped out from the folder I'd been carrying.",
       next = {4}
     },
     [4] = {
@@ -8826,7 +8826,7 @@ story8 = {
       music = "47_Warm_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "噗，这个人什么时候把它夹进去的？",
+      sentence = "Ha, when did he sneak this in?",
       next = {6}
     },
     [6] = {
@@ -8834,7 +8834,7 @@ story8 = {
       dialog = 3,
       music = "47_Warm_Daily",
       renwu = "npc",
-      sentence = "翻过便签，背后还画了一个可爱的向日葵笑脸。",
+      sentence = "I flipped it over—on the back was a doodle of a smiling sunflower.",
       next = {7}
     },
     [7] = {
@@ -8842,7 +8842,7 @@ story8 = {
       dialog = 3,
       music = "47_Warm_Daily",
       renwu = "npc",
-      sentence = "虽然只是一张小小的便签，但却让我觉得他好像真的就在我身边一样。",
+      sentence = "It was only a scrap of paper, yet somehow it felt as if he were right here with me.",
       next = {8}
     },
     [8] = {
@@ -8852,7 +8852,7 @@ story8 = {
       music = "47_Warm_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "感觉又能再努力一下了！",
+      sentence = "I think my battery just got recharged!",
       next = {9}
     },
     [9] = {
@@ -8860,7 +8860,7 @@ story8 = {
       dialog = 3,
       music = "47_Warm_Daily",
       renwu = "npc",
-      sentence = "我将便签折起，放进胸前的口袋，打起精神再次走进会议室。",
+      sentence = "I folded the note and tucked it into my pocket, straightened up, and stepped back into the meeting room.",
       next = {0}
     }
   },
@@ -8992,6 +8992,153 @@ story8 = {
       role3 = 202201,
       ruchang = 9,
       sentence = "这样一来，最终的成品簪在你发间时，就会更加枝叶饱满了。",
+      next = {0}
+    }
+  },
+  [840822] = {
+    [1] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703104,
+      role3 = 703203,
+      ruchang = -1,
+      sentence = "你刚才泡茶时的精彩走位，我全程录下来了。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703104,
+      role3 = 703201,
+      sentence = "有没有可能“三点头”冲泡法的起落运动只针对壶，人的身体不用也跟着一起？",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4800,
+      dhead = 104,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703104,
+      role3 = 703201,
+      sentence = "呜呜，我知道。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4800,
+      dhead = 112,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703104,
+      role3 = 703201,
+      sentence = "可是我如果不和壶保持一样的起落节奏，总感觉水会很容易漫出来。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "不过你这样也算歪打正着了。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "水柱三起三落，在茶文化里正好能表达对客人的尊敬。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4800,
+      dhead = 103,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "倒也不必敬重到如此地步……对了，手机交出来！",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703104,
+      role3 = 703201,
+      sentence = "怎么，想消灭黑历史？",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4800,
+      dhead = 112,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703104,
+      role3 = 703201,
+      sentence = "当然了！留给你说不定哪天就被“坐地起价”了。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "哦？原本我只是觉得好玩想收藏，现在你提醒我了。",
+      next = {11}
+    },
+    [11] = {
+      beijing = 4800,
+      dialog = 2,
+      idx = 8,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 773000,
+      role2 = 703101,
+      role3 = 703201,
+      ruchang = 9,
+      sentence = "跟我去参加下月的趣味滑板赛，之后再谈这个视频要怎么处理。",
       next = {0}
     }
   },

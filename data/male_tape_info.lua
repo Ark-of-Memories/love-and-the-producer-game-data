@@ -272,7 +272,7 @@ data = {
     male_tape_reward = "4,46,30"
   },
   [40011] = {
-    male_tape_name = "白起·例行通知",
+    male_tape_name = "Gavin: Routine Dispatch",
     male_role_id = 4,
     male_tape_audio = "voice_record_40011.mp3",
     male_tape_bg = 1141,

@@ -29193,7 +29193,7 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "'Cause I realized I don't do enough exercise and am very unfit, so I decided to learn from you."
+      sentence = "Cause I realized I don't do enough exercise and am very unfit, so I decided to learn from you."
     },
     [8] = {
       next = "9",
@@ -49158,11 +49158,10 @@ data = {
   [1232] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "距离上班时间刚过半个小时，某人已经有时间摸鱼了？",
-      voice = 1,
+      sentence = "It's only been half an hour since work started, and someone's already slacking off?",
       male = 1
     },
     [2] = {
@@ -49170,33 +49169,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "李泽言，你怎么有时间打电话！"
+      sentence = "Victor? I thought you'd be busy with work!"
     },
     [3] = {
       next = "4",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "现在是休息时间，短短十分钟没看手机，就弹出来二十多条消息。",
-      voice = 1,
+      sentence = "I'm on break. I leave my phone for ten minutes, and I get bombarded with messages from you.",
       male = 1
     },
     [4] = {
       next = "5",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "点开一看，不是表情包，就是短视频链接，顺便还换了个头像，改了朋友圈签名。",
-      voice = 1,
+      sentence = "I just opened them up, and they're all memes and short videos. Oh, and you changed your profile pic and your bio for your Moments.",
       male = 1
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你说要去片场监督，就是要做这些事？",
-      voice = 1,
+      sentence = "I thought you said you were wanted on the set?",
       male = 1
     },
     [6] = {
@@ -49204,29 +49200,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然不是了，其实是因为我已经堵了一个小时的车了，还没到片场呢。"
+      sentence = "I am, if I could actually get there. I've been stuck in traffic for the past hour."
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "眼看着距离只有五公里了，前面车动都不动，好像说是发生了车辆刮碰。"
+      sentence = "I'm literally five kilometers away, but traffic's at a standstill. I heard there was a minor accident up ahead."
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "要不是后备箱里面还放着设备，我就下车自己走了。"
+      sentence = "If I didn't have gear in the trunk, I swear I'd just get out and walk."
     },
     [9] = {
       next = "10",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "笨蛋，五公里不算近，不要犯傻。",
-      voice = 1,
+      sentence = "Don't be silly. Five kilometers isn't exactly close. Don't do anything stupid.",
       male = 1
     },
     [10] = {
@@ -49234,49 +49229,45 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不会啦，我就是说说。我没事的，只是有点无聊而已。"
+      sentence = "I won't. I'm just venting. I'm fine—just bored."
     },
     [11] = {
       next = "12",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "现在听听你的声音，焦躁的心情已经好很多啦！不过你是不是还在忙？没有耽误你吧。"
+      sentence = "Honestly, hearing your voice already calmed me down a lot. Are you busy? Hope I'm not bothering you."
     },
     [12] = {
       next = "13",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "没有，距离下一节会议还有十五分钟，可以陪你一会儿。",
-      voice = 1,
+      sentence = "Not at all. I've got about fifteen minutes before my next meeting. I can chat for a bit.",
       male = 1
     },
     [13] = {
       next = "14",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你发我的那个视频我看了，等我回去之后，我们可以给布丁拍个同款。",
-      voice = 1,
+      sentence = "I watched that video you sent me, by the way. Once I'm back, we can film something like that for Pudding.",
       male = 1
     },
     [14] = {
       next = "15",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "三件睡衣的话，小鸭子那套适合在家里穿，兔耳那套比较厚，更适合出门取快递穿。",
-      voice = 1,
+      sentence = "With three sets of pajamas, the duck one's perfect for wearing around the house, and the bunny-eared one's thicker, good for running outside to grab delivery packages.",
       male = 1
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "还有，那篇旅游博文太长了，等开完会之后再看，看完和你说。",
-      voice = 1,
+      sentence = "Oh, and that travel blog you sent is too long. I'll finish it after my meeting and let you know what I think.",
       male = 1
     },
     [16] = {
@@ -49284,22 +49275,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "李泽言，我好感动……你居然认真看了我发的每一条消息。"
+      sentence = "Victor, I'm actually really touched... You seriously read every single word I send."
     },
     [17] = {
       next = "18",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "虽然平时你都是这样，但是在堵车的此时此刻，对我来说有着特别的意义！"
+      sentence = "I mean, you always do, but right now, while I'm stuck in traffic, it just hits different!"
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "……笨蛋，产生分享欲源自于情绪触动，我当然不会无视。",
-      voice = 1,
+      sentence = "...Dummy. When someone shares something because they're emotionally moved, of course I'm going to pay attention.",
       male = 1
     },
     [19] = {
@@ -49307,22 +49297,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，我知道啦，能听你亲口这样说，好像堵这一个小时也不亏。"
+      sentence = "Hehe, I know. But hearing you say it out loud makes this traffic jam kind of worth it."
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……啊，车子发动了。"
+      sentence = "...Oh, the car's moving."
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么语气这么不甘不愿的？",
-      voice = 1,
+      sentence = "You sound disappointed.",
       male = 1
     },
     [22] = {
@@ -49330,60 +49319,55 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是啊，刚才明明还盼着车子赶快动起来，现在却还想再堵五分钟。"
+      sentence = "Yeah, I was just wishing it'd move, but now I kind of wish we'd stay stuck five more minutes."
     },
     [23] = {
       next = "24",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这样我就可以跟你再多聊一会了，毕竟你这几天都要开会……"
+      sentence = "Just so I could keep talking to you a little longer... Especially with all your meetings lately."
     },
     [24] = {
       next = "25",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "没必要郁闷，这次会议的休息时间安排还算合理，电话不会少。",
-      voice = 1,
+      sentence = "There are plenty of break times for this meeting. I'll make sure to call you whenever I get the chance.",
       male = 1
     },
     [25] = {
       next = "26",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "行了，快去工作吧，最近天气干，记得多喝水。",
-      voice = 1,
+      sentence = "Alright, back to work you go. It's a little dry lately; don't forget to hydrate.",
       male = 1
     },
     [26] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "挂了。",
-      voice = 1,
+      sentence = "See you later.",
       male = 1
     }
   },
   [1233] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你的邮件我收到了，10个G的图片，花了一段时间才看完。",
-      voice = 1,
+      sentence = "I got your email. Took me a while to get through all 10 gigs of pictures.",
       male = 1
     },
     [2] = {
       next = "3",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "所以你今天上午一直傻笑，就是在看这些图片？",
-      voice = 1,
+      sentence = "So these were why you were giggling all morning?",
       male = 1
     },
     [3] = {
@@ -49391,38 +49375,36 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是呀，上午我偶然看见了一个可以用特殊技术合成图片的网站。"
+      sentence = "Yep! I randomly found this website that lets you generate images."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "用户可以上传图片素材，并配合公用素材库的资源，合成出特别的效果。"
+      sentence = "You upload your own pics and combine them with stuff from their library to make cool effects."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以，我就把我们的照片传上去试了试。"
+      sentence = "So, of course, I uploaded our photos to try it out."
     },
     [6] = {
       next = "7",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "大部分的图片质量还不错，看起来这个网站的技术还算成熟。",
-      voice = 1,
+      sentence = "Most of them look pretty good. Looks like their technology is solid.",
       male = 1
     },
     [7] = {
       next = "8",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不过，某人最好给我解释一下“猫李泽言”这个文件夹。",
-      voice = 1,
+      sentence = "But you better explain what's up with the folder named \"Victor the Cat.\"",
       male = 1
     },
     [8] = {
@@ -49430,22 +49412,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈，那可是我的精心搭配呢！"
+      sentence = "Hahaha! That's my collection of carefully curated masterpieces!"
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "虽然伦勃朗和毕加索风格的李泽言各有各的艺术美，不过我还是最喜欢小猫咪！"
+      sentence = "The Rembrandt and Picasso versions of you are cool and all, but I'm obsessed with the kitty one!"
     },
     [10] = {
       next = "11",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "在你眼中，我和这些图片很像？",
-      voice = 1,
+      sentence = "You really think I look like those pictures?",
       male = 1
     },
     [11] = {
@@ -49453,22 +49434,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然！看这带着三分高冷、三分孤傲、四分漫不经心的胡须……"
+      sentence = "Of course! Look at those whiskers! You look so adorable, hahaha!"
     },
     [12] = {
       next = "13",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是不是很有之前Evol异化时，猫猫李泽言的神韵？"
+      sentence = "Doesn't it totally remind you of the Cat Victor from the Evolification days?"
     },
     [13] = {
       next = "14",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我看是你最近看电子屏幕太多，需要去看眼科。",
-      voice = 1,
+      sentence = "I think you've been staring at the screen too long—you need to get your eyes checked.",
       male = 1
     },
     [14] = {
@@ -49476,33 +49456,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哼，如果你不喜欢的话，我之后就独享这些成果，不给你分享了。"
+      sentence = "Hmph! If you don't like them, I'll keep them all to myself from now on!"
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "没关系，我并不讨厌。",
-      voice = 1,
+      sentence = "That's fine. I don't actually dislike them.",
       male = 1
     },
     [16] = {
       next = "17",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "华锐几年前曾经投资过一个试验项目，用的就是类似的图片处理技术。",
-      voice = 1,
+      sentence = "LFG invested in a similar image processing project a few years back.",
       male = 1
     },
     [17] = {
       next = "18",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不过那个项目的成果，主要应用于史学研究和医学指导。",
-      voice = 1,
+      sentence = "But that one was mainly used for historical studies and medical research.",
       male = 1
     },
     [18] = {
@@ -49510,33 +49487,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没想到连这个领域，你也早就涉猎过了……"
+      sentence = "Wow. Is there a field out there that you haven't touched yet?"
     },
     [19] = {
       next = "20",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我只是主导了投资决策，没有具体操作过。",
-      voice = 1,
+      sentence = "I just handled the investment side, but didn't work on it directly.",
       male = 1
     },
     [20] = {
       next = "21",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不过，比起那些漂亮的图，我更喜欢“老年”这个文件夹。",
-      voice = 1,
+      sentence = "But honestly, I liked the ones inside this folder named \"When We Are Old.\"",
       male = 1
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "真实感很强，也具有前瞻性。",
-      voice = 1,
+      sentence = "Feels very real. Like glimpsing into the future.",
       male = 1
     },
     [22] = {
@@ -49544,22 +49518,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我也很喜欢！"
+      sentence = "I love that one too!"
     },
     [23] = {
       next = "24",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "生成出来的“老爷爷”李泽言虽然满脸皱纹，但还是那么帅气和高傲~"
+      sentence = "Grandpa Victor may be wrinkly, but he's still got that charm and confidence."
     },
     [24] = {
       next = "25",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "彼此彼此，照片里的某人虽然老了，还是挺可爱。",
-      voice = 1,
+      sentence = "Same goes for you. The older version of you in those pics is still quite adorable.",
       male = 1
     },
     [25] = {
@@ -49567,40 +49540,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "看见这些照片的时候，我就想起了我们前几天的怀旧旅行。"
+      sentence = "Seeing those photos made me think of our throwback trip the other day."
     },
     [26] = {
       next = "27",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等我们老了以后，再来合成几张“重返青春”的照片吧！"
+      sentence = "When we're old, let's make a new set of \"back to our youth\" photos!"
     },
     [27] = {
       next = "28",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "没有那个必要。",
-      voice = 1,
+      sentence = "No need for that.",
       male = 1
     },
     [28] = {
       next = "29",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "和你一起拍的每一张照片，都会妥帖地存放和备份，不会丢失。",
-      voice = 1,
+      sentence = "Every single photo I've taken with you will be carefully saved and backed up. None of them will be lost.",
       male = 1
     },
     [29] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "如果想“体验青春”，不如这周末留好时间，和我一起出门，感受春天。",
-      voice = 1,
+      sentence = "If you want to enjoy youth, you should clear your schedule and come enjoy the spring with me this weekend.",
       male = 1
     }
   },
@@ -55723,10 +55693,10 @@ data = {
   [1262] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "喂，我收到票了，怎么突然想去听民乐音乐会？",
+      sentence = "Just got the tickets. What's up with you suddenly wanting to go to a Chinese folk music concert?",
       voice = 1,
       male = 1
     },
@@ -55735,14 +55705,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我得到了可靠消息，说不久后市里要举行大型传统文化活动！"
+      sentence = "I got a hot tip—there's gonna be a huge cultural event in the city soon!"
     },
     [3] = {
       next = "4",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你是说市政府马上立项招标的那个项目？",
+      sentence = "You mean the one the city's about to approve and open for bidding?",
       voice = 1,
       male = 1
     },
@@ -55751,14 +55721,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你也听说了？看来这个消息的确可靠。"
+      sentence = "You've heard too? Looks like it's legit then."
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "听某人跃跃欲试的口气，$c也打算参加这次竞标？",
+      sentence = "From the sound of it, $c's planning to jump into the bidding war?",
       voice = 1,
       male = 1
     },
@@ -55767,23 +55737,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "Bingo～"
+      sentence = "You got it!"
     },
     [7] = {
       next = "8",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "如果我没记错，你手里至少有五个同时正在进行的项目。",
+      sentence = "If I recall, you're already juggling at least five projects right now.",
       voice = 1,
       male = 1
     },
     [8] = {
       next = "9",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你确定你应付得来？",
+      sentence = "Are you sure you can take on one more?",
       voice = 1,
       male = 1
     },
@@ -55792,21 +55762,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……咳，坦白说，我不确定。"
+      sentence = "Uhhh... Fine. I'm not totally sure."
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "但据说这个活动会延续下去，变成每年的固定项目。所以今年的竞标意义重大！"
+      sentence = "But word is, this might become a yearly event—so winning the bid this year really matters!"
     },
     [11] = {
       next = "12",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "努力是好事，但别太逞强。",
+      sentence = "It's good to be driven, but don't bite off more than you can chew.",
       voice = 1,
       male = 1
     },
@@ -55815,14 +55785,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "也不是逞强啦，毕竟我知道天塌下来有李泽言给我顶着呢～"
+      sentence = "I'm not! I mean, worst-case scenario, I've got you to back me up, right?"
     },
     [13] = {
       next = "14",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，听这个异想天开的语气，的确是还有精力。",
+      sentence = "Hmm, with that kind of delusion, you clearly have enough energy to spare.",
       voice = 1,
       male = 1
     },
@@ -55831,48 +55801,48 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哪里异想天开了？我相信如果我真的应付不来，或者遇到了瓶颈……"
+      sentence = "It's not delusion! I know if I ever get stuck or hit a wall..."
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "善解人意的李总一定会帮我的，对不对？"
+      sentence = "The great Mr. Victor will always have my back, am I right?"
     },
     [16] = {
       next = "17",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "坦白说，在你说出这句话之前，我的确是这么打算的。",
+      sentence = "Funny you should mention it—before you said that, I actually did plan on helping.",
       voice = 1,
       male = 1
     },
     [17] = {
       next = "18",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "但善解人意的李总也想叛逆一回。",
+      sentence = "But the kind and considerate Mr. Victor is feeling rebellious.",
       voice = 1,
       male = 1
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "所以这次的项目，我不会提出任何建议。",
+      sentence = "So this time, you'll get no advice from me.",
       voice = 1,
       male = 1
     },
     [19] = {
       next = "20",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "由你全权决定和处理。",
+      sentence = "You're flying solo.",
       voice = 1,
       male = 1
     },
@@ -55881,14 +55851,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "怎么这样？！我甚至都想拜托你在民乐会上监督我别睡着呢！"
+      sentence = "What?! I was literally gonna beg you to keep me from dozing off at the concert!"
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "那你现在得到我的拒绝了。",
+      sentence = "Yeah, consider that request denied.",
       voice = 1,
       male = 1
     },
@@ -55897,32 +55867,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "啊啊啊——为什么这么对我啊呜呜……"
+      sentence = "Ughhh—why are you doing this to meeee..."
     },
     [23] = {
       next = "24",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "因为好久没看到某人现在这副吃瘪后哭哭啼啼的样子了。",
+      sentence = "Because it's been way too long since I've seen you pout and whine like this.",
       voice = 1,
       male = 1
     },
     [24] = {
       next = "25",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "果然是百看不厌。",
+      sentence = "It never gets old.",
       voice = 1,
       male = 1
     },
     [25] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "好了，我继续开会了，下班后接你去音乐会场。",
+      sentence = "Alright, back to my meeting. I'll pick you up after work for the concert.",
       voice = 1,
       male = 1
     }
@@ -55930,10 +55900,10 @@ data = {
   [1263] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么发那么多信息来，又对人生有什么感慨了？",
+      sentence = "What's with you spamming me with texts? Feeling philosophical again?",
       voice = 1,
       male = 1
     },
@@ -55942,30 +55912,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我由衷地向所有仍在坚持的民间传统艺术家，感到深深的敬佩！"
+      sentence = "I just seriously respect all the artists out there still sticking to what they love!"
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "诶，等等，你没看我的短信内容吗？"
+      sentence = "Wait—don't tell me you didn't even read my texts?"
     },
     [4] = {
       next = "5",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "开会时手机在桌面上疯狂震动，吸引了会议上所有的目光。",
+      sentence = "My phone was going nuts on the table during the meeting. Got everyone staring at me.",
       voice = 1,
       male = 1
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你认为我会不专业到当着所有人的面，逐一确认某人的大惊小怪？",
+      sentence = "You think I'd seriously check all your dramatic updates mid-meeting? That's unprofessional.",
       voice = 1,
       male = 1
     },
@@ -55974,44 +55944,44 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "才不是大惊小怪呢！我今天采访了一位传统艺术家。"
+      sentence = "I wasn't being dramatic! I interviewed a real music artist today!"
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "他……一两句话有点说不清楚，你有空看看我发的消息，总之我觉得他们真的很厉害！"
+      sentence = "It's kind of hard to explain in just a few words. Just read my messages when you can. I was honestly moved!"
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "世界上有那么多诱惑和新鲜的事物，但他们能始终低头看着自己最初的那份热爱……"
+      sentence = "There's so much out there, so many distractions and new stuff, but these folks just keep doing what they love from day one..."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哎，我知道李总忙碌，都没空和我一起感受这种匠人精神了。"
+      sentence = "Mr. Victor, I know you're busy and can't always slow down to appreciate this kind of dedication."
     },
     [10] = {
       next = "11",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "倒是连乱扣帽子都学会了。",
+      sentence = "Oh, I'm busy you say?",
       voice = 1,
       male = 1
     },
     [11] = {
       next = "12",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "既然如此，某人就别再“吵”我开会，我要继续去忙了。",
+      sentence = "In that case, stop interrupting me. I'm going back to work.",
       voice = 1,
       male = 1
     },
@@ -56020,28 +55990,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "诶等等——我开玩笑呢！我当然知道你对我有多好啦～"
+      sentence = "Waaaait! I was kidding! I know you're always so good to me!"
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "连会议的间隙都特意回电话，亲自来了解我那些不那么重要的“今日心情”。"
+      sentence = "You always call me back between meetings and actually read all my emotional rants."
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我还不懂你的心意嘛？"
+      sentence = "Of course I know you care!"
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "油嘴滑舌。",
+      sentence = "Quit trying to smooth-talk me.",
       voice = 1,
       male = 1
     },
@@ -56050,30 +56020,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，因为我在采访的时候真的很受触动嘛。而且看着他们，我想到了当年的你。"
+      sentence = "Hehe. I was just really touched today. And honestly, watching those artists reminded me of you back in the day."
     },
     [17] = {
       next = "18",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "虽然你只是只言片语地讲过创业的经历，但我觉得你当时的眼神应该和他们一样坚定。"
+      sentence = "You've only mentioned your startup story briefly, but I bet you had that same fire in your eyes."
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "如果自己都不能坚定地支持自己的选择，那说明一开始的决定就是错误的。",
+      sentence = "If you can't back your own decisions with full conviction, then maybe they weren't the right ones to begin with.",
       voice = 1,
       male = 1
     },
     [19] = {
       next = "20",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我只是在一开始尽自己所能去做最合适的决定，再努力去证明它是正确的。",
+      sentence = "All I ever did was make the best decision I could at the time—and then work hard to prove it was the right call.",
       voice = 1,
       male = 1
     },
@@ -56082,23 +56052,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "Wow，李总这番话又让我深受感触！我学到了。"
+      sentence = "Wow... that really hit me. I think I just learned something new from you."
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "关于这点，你不需要再学什么了。",
+      sentence = "That's one thing you don't need to learn from me.",
       voice = 1,
       male = 1
     },
     [22] = {
       next = "23",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "当年在华锐，你对着我大声厥词的眼神如果不够坚定，我也不会决定投资。",
+      sentence = "Because back in the day at LFG, if I hadn't seen the determination in your eyes when you gave me that pitch, I wouldn't have invested.",
       voice = 1,
       male = 1
     },
@@ -56107,14 +56077,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你的意思是，我一开始的选择就是正确的吗？"
+      sentence = "So what you're saying is... I made the right call from the start?"
     },
     [24] = {
       next = "25",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你没理解错。",
+      sentence = "Exactly.",
       voice = 1,
       male = 1
     },
@@ -56123,32 +56093,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，你今天怎么这么干脆就夸我呀？"
+      sentence = "Hehe, why are you being so sweet today?"
     },
     [26] = {
       next = "27",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我只是在陈述客观事实。",
+      sentence = "Just stating facts.",
       voice = 1,
       male = 1
     },
     [27] = {
       next = "28",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟某人每次获得什么人生感慨，第一时间想分享的人是我。",
+      sentence = "After all, every time you have a big life epiphany, I'm always the first person you choose to tell.",
       voice = 1,
       male = 1
     },
     [28] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "所以给她应得的正面反馈，也是我应该做的事情。",
+      sentence = "It's only right I give you the encouragement you deserve.",
       voice = 1,
       male = 1
     }
@@ -58662,10 +58632,10 @@ data = {
   [1277] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你逛街逛得很无聊？",
+      sentence = "Did you get bored shopping?",
       voice = 1,
       male = 1
     },
@@ -58674,41 +58644,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "还好呀？咦，你会议结束啦！"
+      sentence = "What are you talking about? You're done with your meeting?"
     },
     [3] = {
       next = "4",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，刚从会议室出来，就发现有些人连发了十几条消息。",
+      sentence = "Yeah, just stepped out of the room and saw someone had spammed me with a dozen messages.",
       voice = 1,
       male = 1
     },
     [4] = {
       next = "5",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "一会儿问我想不想换个新公文包和行李箱；",
+      sentence = "First, asking if I wanted a new briefcase.",
       voice = 1,
       male = 1
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "一会儿又说买了新的袖扣和领带，一定符合我的审美……",
+      sentence = "And then, saying that she bought some new cufflinks and ties that would totally match my style...",
       voice = 1,
       male = 1
     },
     [6] = {
       next = "7",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "看得出来，的确收获不小。",
+      sentence = "I can see you've been on a spree.",
       voice = 1,
       male = 1
     },
@@ -58717,14 +58687,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，其实我还想给你买身西装呢。只是后来觉得比起成衣，还是定制的穿起来更舒服。"
+      sentence = "Hehe, I was actually thinking about getting you a suit too. But then I figured, tailored clothes probably feel way better than off-the-rack ones."
     },
     [8] = {
       next = "9",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "笨蛋，我没什么特别需要的，你给自己挑选些东西就好。",
+      sentence = "Dummy. I don't need anything. Just buy something for yourself.",
       voice = 1,
       male = 1
     },
@@ -58733,14 +58703,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那我再想想……总觉得还有很多要买的东西。"
+      sentence = "Hmm... guess I'll look around. I feel like there's still a bunch I need."
     },
     [10] = {
       next = "11",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "就这么想把自己的钱包贡献给华锐的商厦？",
+      sentence = "Are you planning to boost the revenue of LFG's shopping mall on your own?",
       voice = 1,
       male = 1
     },
@@ -58749,23 +58719,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……嗯？你怎么知道我在这里逛街？该不会你也在吧？"
+      sentence = "...Huh? How do you even know where I'm shopping? Don't tell me you're here too?"
     },
     [12] = {
       next = "13",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "笨蛋，别东张西望了，我不在。",
+      sentence = "Quit looking around. I'm not there.",
       voice = 1,
       male = 1
     },
     [13] = {
       next = "14",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "是你发来的袖扣照片“交代”了行踪。礼盒上这个品牌的全国首店，就开在这个商厦。",
+      sentence = "You gave yourself away with that cufflink pic. That brand's first flagship store is in the mall you're at.",
       voice = 1,
       male = 1
     },
@@ -58774,21 +58744,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "原来如此……不过李总竟然连品牌入驻都记得那么清楚，真的投入了好多心血哦！"
+      sentence = "I see... But wow, you even remember the brands in LFG's shopping mall! You really put your heart into all this, Mr. Victor?"
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那我好像只好更更更捧场才行了！不把卡刷爆我今天绝不出去。"
+      sentence = "Well, now I have to show my support even more! I'm not leaving till my card's maxed out!"
     },
     [16] = {
       next = "17",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "决心这么大，看来商厦能盈收破亿还仰仗了某个笨蛋。",
+      sentence = "With that kind of drive, guess we have a dummy to thank for the mall breaking a hundred million in sales.",
       voice = 1,
       male = 1
     },
@@ -58797,14 +58767,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那当然啦，我的消费潜力可不容小觑——诶等等，你说盈收破亿了？！"
+      sentence = "Obviously! I've got elite-tier spending power—wait, did you just say a hundred million?"
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，刚刚得到的数据。",
+      sentence = "Mhm. Just got the report.",
       voice = 1,
       male = 1
     },
@@ -58813,14 +58783,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇！太好了！恭喜你，恭喜华锐！！"
+      sentence = "That's amazing!! Congrats to you and LFG!!"
     },
     [20] = {
       next = "21",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么感觉，你倒是比华锐的股东更激动。",
+      sentence = "You sound even more hyped than our actual shareholders.",
       voice = 1,
       male = 1
     },
@@ -58829,23 +58799,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那当然了~毕竟这段时间的努力，总算没有白费嘛！那你们晚上是不是会有庆功宴？"
+      sentence = "Of course! After all that hard work, it finally paid off! So... are you planning for a celebration dinner tonight?"
     },
     [22] = {
       next = "23",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "的确有这个安排，不过，我更想和这位很有消费潜力的大客户一起庆祝。",
+      sentence = "Yeah, we do have a celebration planned for it. But honestly, I'd rather celebrate with a certain customer with great spending potential.",
       voice = 1,
       male = 1
     },
     [23] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "在原地等我，我快到了。",
+      sentence = "Stay put. I'm almost there.",
       voice = 1,
       male = 1
     }
@@ -61030,19 +61000,19 @@ data = {
   [1290] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "家里收了一份很大的快递。",
+      sentence = "A huge package showed up at home.",
       voice = 1,
       male = 1
     },
     [2] = {
       next = "3",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "收件的地方还写了“李喵喵”收，看来又是某人买的东西了。",
+      sentence = "It was addressed to \"Vicvic,\" so I'm guessing someone went on another shopping spree.",
       voice = 1,
       male = 1
     },
@@ -61051,39 +61021,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没错，就是我~"
+      sentence = "Yeah, it was me!"
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "快拆快拆，然后帮我它们都放冰箱去。"
+      sentence = "Come on! Open it up! Then help me toss everything in the fridge."
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "刚拆开外面的包装。",
+      sentence = "I just got the outer box open.",
       voice = 1,
       male = 1
     },
     [6] = {
       next = "7",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "里面放的是……各种瓶瓶罐罐的牛奶？",
+      sentence = "Looks like... a bunch of bottled milk?",
       voice = 1,
       male = 1
     },
     [7] = {
       next = "8",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "剩下的还有不少有些年代感的饮料，你这是准备举办什么饮料大赛吗？",
+      sentence = "And the rest are all these old-school drinks. What, are you hosting a retro beverage contest?",
       voice = 1,
       male = 1
     },
@@ -61092,46 +61062,46 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然不是这么简单了~"
+      sentence = "Pfft, nothing that dramatic."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "最近有个主打“怀旧风”的项目找到过来，希望我们策划一次主题活动。"
+      sentence = "A project with a retro vibe reached out to us, asking if we could plan a themed event."
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我第一个想到的就是过去的零食饮料，干脆就直接再买点回来尝尝了。"
+      sentence = "The first thing I thought of was the snacks and drinks from back in the day, so I figured—why not buy a few to test out?"
     },
     [11] = {
       next = "12",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "从包装来看的确足够怀旧，倒是挺搭配这次主题。",
+      sentence = "I gotta say, the packaging really nails the nostalgia. Fits the theme well.",
       voice = 1,
       male = 1
     },
     [12] = {
       next = "13",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "但我猜还有一个更简单的理由。",
+      sentence = "Though I bet there's a simpler reason.",
       voice = 1,
       male = 1
     },
     [13] = {
       next = "14",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "单纯是某人嘴馋想喝了。",
+      sentence = "Someone just wanted an excuse to try these.",
       voice = 1,
       male = 1
     },
@@ -61140,21 +61110,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "虽然这也是原因之一，但出发点当然是为了工作啦。"
+      sentence = "Okay okay, that might've factored in a little... but this is all for work!"
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我只是在家里小小地提前测评下，做到心里有数。"
+      sentence = "I'm just doing some advance taste-testing at home. Gotta know what we're dealing with, right?"
     },
     [16] = {
       next = "17",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "所以你打算从哪款开始测评。",
+      sentence = "So, which one are you cracking open first?",
       voice = 1,
       male = 1
     },
@@ -61163,21 +61133,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯……考虑到保质期的话，应该是牛奶？"
+      sentence = "Hmm... probably the milk? Gotta use that up before the expiry date."
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我应该买了小时候最常见的几种。"
+      sentence = "I think I picked up all the ones we used to drink as kids."
     },
     [19] = {
       next = "20",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "这里有巧克力牛奶和香蕉牛奶，是打算一口气喝完？",
+      sentence = "I see chocolate milk and banana milk here. Planning to down 'em both?",
       voice = 1,
       male = 1
     },
@@ -61186,23 +61156,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呃……我要是喝不下的话，能呼唤李泽言帮帮忙嘛~"
+      sentence = "Uh... if I can't finish, can I call in Victor for backup?"
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不可以，工作上的事，自己负责。",
+      sentence = "Nope. You bought them for work—you deal with it.",
       voice = 1,
       male = 1
     },
     [22] = {
       next = "23",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "但我可以帮你各留出半杯，方便评测。",
+      sentence = "But I'll pour you half a cup of each so it's easier to compare.",
       voice = 1,
       male = 1
     },
@@ -61211,23 +61181,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那剩下的半杯呢？总不能再放回冰箱吧。"
+      sentence = "And the leftover half? You're not putting it back in the fridge, are you?"
     },
     [24] = {
       next = "25",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我可不是某个笨蛋，剩下的我打算做成对应味道的布丁。",
+      sentence = "I'm not that clueless like a certain dummy. I'll make pudding with what's left.",
       voice = 1,
       male = 1
     },
     [25] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "等你回家，刚好可以吃。",
+      sentence = "Should be ready for you when you get home.",
       voice = 1,
       male = 1
     }
@@ -61235,10 +61205,10 @@ data = {
   [1291] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "马上就要下班了，待会你有什么安排？",
+      sentence = "My work's wrapping up—got plans tonight?",
       voice = 1,
       male = 1
     },
@@ -61247,30 +61217,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "说起来的确有个想去的地方……但怎么突然想不起来了。"
+      sentence = "Actually, yeah... there was somewhere I wanted to go, but I suddenly couldn't remember where."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我白天有没有跟你提过？"
+      sentence = "Did I mention anything to you earlier?"
     },
     [4] = {
       next = "5",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "这点倒是没听说。",
+      sentence = "Not that I remember.",
       voice = 1,
       male = 1
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不过你下午的时候，给我发过一张“复古家具展”的海报图。",
+      sentence = "But you did send me that poster for the \"Retro Furniture Expo\" this afternoon.",
       voice = 1,
       male = 1
     },
@@ -61279,37 +61249,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "对对对，就是那个。听说里面会展出好多富有历史感的家具。"
+      sentence = "Oh, that's it! I heard they've got all these super nostalgic pieces on display."
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "甚至还提供“老电视沙发”套餐，让大家沉浸式体验过去的节目。"
+      sentence = "There's even a \"vintage TV + couch\" setup so you can watch old shows like it's the good ol' days."
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "今天是展览最后一天了，我想晚上跟你一起看看~"
+      sentence = "Tonight's the last day—I thought we could go together."
     },
     [9] = {
       next = "10",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "听起来的确挺有意思。",
+      sentence = "Sounds pretty fun, actually.",
       voice = 1,
       male = 1
     },
     [10] = {
       next = "11",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "从简介上看，里面倒是有不少怀旧产品。",
+      sentence = "The promo said they've got quite a few throwback items.",
       voice = 1,
       male = 1
     },
@@ -61318,30 +61288,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "诶~那有没有让你印象特别深的东西？"
+      sentence = "Hehe, anything in particular you're excited to see?"
     },
     [12] = {
       next = "13",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等我们去参观的时候，可以多看一会。"
+      sentence = "We can take our time to look at them when we get there."
     },
     [13] = {
       next = "14",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "印象特别深的不多。",
+      sentence = "Not really.",
       voice = 1,
       male = 1
     },
     [14] = {
       next = "15",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "但展览封面上的电视，倒是和我记忆中的一样。",
+      sentence = "But the TV on the event poster looks just like the one I had growing up.",
       voice = 1,
       male = 1
     },
@@ -61350,30 +61320,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "真的嘛，小时候我们家也是这一款~"
+      sentence = "Seriously? We had that exact one too!"
     },
     [16] = {
       next = "17",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这也算某种奇妙的缘分了。"
+      sentence = "That's such a coincidence."
     },
     [17] = {
       next = "18",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "某人口中的缘分，倒是层出不穷。",
+      sentence = "For a certain dummy, everything's some kind of \"fated moment.\"",
       voice = 1,
       male = 1
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "除开电视，刚才你说的那个套餐我好像没在导览页上看到。",
+      sentence = "Though, I didn't see that TV-couch package in the guide.",
       voice = 1,
       male = 1
     },
@@ -61382,30 +61352,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那个其实是展览的“休息室”，里面摆满了老电视和沙发。"
+      sentence = "Oh, that's actually in the lounge area—they've got old TVs and couches set up."
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "播放的也都是老节目，还能点一些怀旧餐点，很不错吧。"
+      sentence = "They play classic shows and serve old-school snacks... It's a whole vibe."
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "怪不得某人今天一天都没提晚餐的事。",
+      sentence = "No wonder you didn't mention anything about dinner plans today.",
       voice = 1,
       male = 1
     },
     [22] = {
       next = "23",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "看来是早有安排。",
+      sentence = "You had this all mapped out already.",
       voice = 1,
       male = 1
     },
@@ -61414,39 +61384,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘻嘻，这样不是显得更有诚意嘛。"
+      sentence = "Hehe, I wanted you to have the whole experience."
     },
     [24] = {
       next = "25",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "说起来，我们要不要直接在会场见？我怕时间来不及。"
+      sentence = "Speaking of which, should we just meet at the venue directly? I'm worried we'll cut it too close."
     },
     [25] = {
       next = "26",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不用那么着急。",
+      sentence = "No need to rush.",
       voice = 1,
       male = 1
     },
     [26] = {
       next = "27",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "展览结束的时间是晚上十点。",
+      sentence = "The exhibit runs 'til 10 p.m.",
       voice = 1,
       male = 1
     },
     [27] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "等我接了你，再一起过去。",
+      sentence = "I'll come pick you up, and we'll go together.",
       voice = 1,
       male = 1
     }
@@ -62635,10 +62605,10 @@ data = {
   [1297] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "睡醒了？",
+      sentence = "You're up?",
       voice = 1,
       male = 1
     },
@@ -62647,32 +62617,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "唔……眼睛虽然睁开了，但是脑子还是晕晕的。"
+      sentence = "Mmm... My eyes are open, but my brain's still half-asleep."
     },
     [3] = {
       next = "4",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "昨天在飞机上的时候，有人信誓旦旦自称“倒时差小天才”。",
+      sentence = "Funny. Yesterday on the plane, someone was bragging about being a \"jet lag expert\".",
       voice = 1,
       male = 1
     },
     [4] = {
       next = "5",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "还说什么“到时候，想要倒时差秘籍，欢迎来请教我”。",
+      sentence = "Even said, \"Want the secret? Just ask me.\"",
       voice = 1,
       male = 1
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "从昨天下午睡到现在就是你的秘籍吗？",
+      sentence = "So... sleeping straight through from yesterday afternoon until now was part of that secret?",
       voice = 1,
       male = 1
     },
@@ -62681,30 +62651,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这是意外！我以前出差的时候，也没有这么困。"
+      sentence = "That was an accident! I never get this tired on work trips."
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "一定是因为好久没有跨这么远的时差了，这十八个小时的差距影响了我。"
+      sentence = "Must be because it's been so long since I dealt with such a huge time difference. Eighteen hours is brutal."
     },
     [8] = {
       next = "9",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "比起客观原因，某人不如多考虑一下主观情况。",
+      sentence = "Or maybe you should stop blaming \"time difference\" and think about your own choices.",
       voice = 1,
       male = 1
     },
     [9] = {
       next = "10",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "下次可以试试不要在旅游前连续熬夜。",
+      sentence = "Next time, don't stay up all night before traveling.",
       voice = 1,
       male = 1
     },
@@ -62713,21 +62683,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "咳咳，我那是在刻意提前适应时差。"
+      sentence = "Ahem, I was just... pre-adjusting my sleep schedule!"
     },
     [11] = {
       next = "12",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "本来想着这样子一定会比你精神饱满，谁能想到……"
+      sentence = "Thought I'd end up more refreshed than you..."
     },
     [12] = {
       next = "13",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "反而让某个笨蛋的生物钟更加紊乱。",
+      sentence = "All a certain dummy did was mess up her circadian clock even more.",
       voice = 1,
       male = 1
     },
@@ -62736,30 +62706,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "但是我记得，明明那几天你的工作也很忙来着。"
+      sentence = "But you were super busy too, weren't you?"
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "为什么你的精神可以这么好啊？"
+      sentence = "How are you still so full of energy?"
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "因为忙和妥善安排时间并不冲突。",
+      sentence = "Being busy doesn't mean I can't plan things properly.",
       voice = 1,
       male = 1
     },
     [16] = {
       next = "17",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "如果你下次有需要，我也不介意顺便把你的时间也安排了。",
+      sentence = "If you'd like, I don't mind helping you manage your time, too.",
       voice = 1,
       male = 1
     },
@@ -62768,23 +62738,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等我下次继续努力学习！不过你去哪儿了？周围好像很热闹。"
+      sentence = "Next time I'll do better for sure! Anyway, where'd you go? Sounds busy over there."
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "去买一份酒店服务员说好吃的特色波奇。",
+      sentence = "Just picked up that poké bowl the hotel staff raved about.",
       voice = 1,
       male = 1
     },
     [19] = {
       next = "20",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "已经在回来的路上了。",
+      sentence = "I'm on my way back now.",
       voice = 1,
       male = 1
     },
@@ -62793,21 +62763,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "感觉已经闻到了它的香味了。"
+      sentence = "I swear I can already smell it from here."
     },
     [21] = {
       next = "22",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "肚子饿的感觉刚刚瞬间打败了困意。"
+      sentence = "I went from dead tired to starving in like two seconds."
     },
     [22] = {
       next = "23",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "没想到某人只要听见“好吃”，就足够达到这种清醒的效果了。",
+      sentence = "Who knew \"tasty food\" was the magic word to snap someone out of jet lag?",
       voice = 1,
       male = 1
     },
@@ -62816,32 +62786,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我可是不想再继续错过和李总的度假时间啦。"
+      sentence = "More like I don't want to miss any more vacation time with Mr. Victor!"
     },
     [24] = {
       next = "25",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "在这一点上，你大可以放心。",
+      sentence = "You won't.",
       voice = 1,
       male = 1
     },
     [25] = {
       next = "26",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我不仅不会让你继续浪费时间，还会把你睡过头的18个小时全都补回来。",
+      sentence = "I'll make sure you don't waste another second. I'll even make up for those 18 hours you slept through.",
       voice = 1,
       male = 1
     },
     [26] = {
       next = "27",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "如果这次假期不够，以后还有很多机会。",
+      sentence = "And if this trip's not enough, we've got plenty more ahead.",
       voice = 1,
       male = 1
     },
@@ -62850,14 +62820,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "听起来我的假期会越来越长，嘿嘿。"
+      sentence = "Sounds like I'm gonna get more vacation time. Hehe."
     },
     [28] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "是你和我的假期，会越来越长。",
+      sentence = "You mean \"we\" are gonna get more vacation time.",
       voice = 1,
       male = 1
     }
@@ -62865,19 +62835,19 @@ data = {
   [1298] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么突然发了这么多关于红酒的问题给我？",
+      sentence = "What's with the sudden flood of wine questions?",
       voice = 1,
       male = 1
     },
     [2] = {
       next = "3",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我不记得你们接下来有和红酒有关的策划案。",
+      sentence = "I don't remember you working on any wine-related projects recently.",
       voice = 1,
       male = 1
     },
@@ -62886,21 +62856,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "确实没有，不过公司最近兴起了在周五下班后办品酒会的风潮。"
+      sentence = "I'm not, but there's this Friday night wine tasting thing happening at the office lately."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我想趁这个机会挑几瓶酒送给大家～"
+      sentence = "Thought it'd be fun to pick out a few bottles for everyone."
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "嘴上这么说，挑选红酒的任务倒是从老板落到了我的手里。",
+      sentence = "And somehow that job ended up with me, rather than the boss herself.",
       voice = 1,
       male = 1
     },
@@ -62909,41 +62879,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "毕竟我们李总这么懂红酒，当然要好好咨询一下啦。"
+      sentence = "Well, you're the wine expert, Mr. Victor! Who else am I gonna ask?"
     },
     [7] = {
       next = "8",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "某人的尾巴倒是越晃越高，都要扫到我脸上来了。",
+      sentence = "A certain someone sure knows how to throw flattery like it's free.",
       voice = 1,
       male = 1
     },
     [8] = {
       next = "9",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "柜子上的酒大多是佐餐用的，不太适合单纯的品酒会。",
+      sentence = "Most of the stuff in my cabinet is for meals—not really suited for tasting events.",
       voice = 1,
       male = 1
     },
     [9] = {
       next = "10",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不过这周酒庄老板会挑一些酒送过来。",
+      sentence = "But the vineyard's owner is sending over some new bottles this week.",
       voice = 1,
       male = 1
     },
     [10] = {
       next = "11",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "到时候我会让他多送几瓶，至于具体的口味，你自己来挑。",
+      sentence = "I'll ask him to throw in a few extra. You can pick your favorites when they arrive.",
       voice = 1,
       male = 1
     },
@@ -62952,30 +62922,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿！那我就恭敬不如从命啦～"
+      sentence = "Hehe, yes please!"
     },
     [12] = {
       next = "13",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过我听同事们好像提过一种酒叫……冰酒？李总的酒庄也会有这个吗？"
+      sentence = "Oh, and someone mentioned something called... ice wine? Do you have that too?"
     },
     [13] = {
       next = "14",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯……这个会晚两天。",
+      sentence = "Hmm... that'll arrive a couple days later.",
       voice = 1,
       male = 1
     },
     [14] = {
       next = "15",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "但应该也能赶上你们下次的品酒会。",
+      sentence = "It should still make it in time for your next wine night, though.",
       voice = 1,
       male = 1
     },
@@ -62984,23 +62954,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "谢谢李总再度投资我们$c的周五品酒会～到时候我给你立个牌子，写上“特别鸣谢”！"
+      sentence = "Thanks again, Mr. Victor, for sponsoring our Friday wine adventures at $c! I'll even make a sign that says \"Special Thanks\" just for you!"
     },
     [16] = {
       next = "17",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "比起这个位置，我感觉更像是加入了$c的采购部。",
+      sentence = "It feels more like I just joined $c's supply team.",
       voice = 1,
       male = 1
     },
     [17] = {
       next = "18",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "既要配合老板掩耳盗铃，又要解决老板的困扰。",
+      sentence = "Gotta help the boss put on a show and clean up the mess she leaves behind.",
       voice = 1,
       male = 1
     },
@@ -63009,30 +62979,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "听你这么一说……不如你就来我公司上班吧？小李～"
+      sentence = "Hey, let's not rule anything out! You're always welcome to come work for me, Vic~"
     },
     [19] = {
       next = "20",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你看我们公司企业文化特别好！"
+      sentence = "We've got great team vibes!"
     },
     [20] = {
       next = "21",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "哦？那薪水你打算给多少？",
+      sentence = "Oh really? And how much are you planning to pay me?",
       voice = 1,
       male = 1
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟某人赖账的理由可是五花八门。",
+      sentence = "After all, I know a certain someone's very \"creative\" when it comes to excuses for late payments.",
       voice = 1,
       male = 1
     },
@@ -63041,23 +63011,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "放心，到时候当然是小李想要什么，我就给什么了。"
+      sentence = "Nonsense! Whatever Vic wants, I'm ready to give!"
     },
     [23] = {
       next = "24",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "$c的老板也不在话下吗？或者说$c本身也不错。",
+      sentence = "What if I want $c's boss herself? Or the entire $c sounds nice too.",
       voice = 1,
       male = 1
     },
     [24] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "同意的话，晚上给你看我的入职方案。",
+      sentence = "If we have a deal, I'll show you my contract proposal tonight.",
       voice = 1,
       male = 1
     }
@@ -63848,19 +63818,19 @@ data = {
   [1303] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "刚从会议室出来，就收到了某人的一些杰作。",
+      sentence = "I just got out of the meeting, and a certain someone sent me her masterpieces.",
       voice = 1,
       male = 1
     },
     [2] = {
       next = "3",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "“网红爆款国潮复古个性龙袍套装”，又是在哪里P的奇怪照片？",
+      sentence = "\"Viral Vintage-Style Royal Outfit\"... Where did you get the weird idea to photoshop these?",
       voice = 1,
       male = 1
     },
@@ -63869,28 +63839,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈哈这些照片是我用AR试衣技术合成的。"
+      sentence = "Hahaha, I used the AR try-on feature to make these photos."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "原本只是想网购买套情侣的马术服，结果意外发现某家商店有一个AR试衣功能。"
+      sentence = "I was looking for equestrian wear for couples online and stumbled upon a shop with the AR try-on feature."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "顺手就拿李总的照片试了试。"
+      sentence = "I just couldn't help but try it with your photos."
     },
     [6] = {
       next = "7",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "一件姑且可以算顺手，但二十八件只能是某个笨蛋有十四双手了。",
+      sentence = "I can understand if you tried it just once, but how would a certain dummy explain the 28 photos she sent me?",
       voice = 1,
       male = 1
     },
@@ -63899,14 +63869,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我没想到这功能这么好用嘛，一不小心多试了几件……"
+      sentence = "I didn't think it would actually work and got carried away..."
     },
     [8] = {
       next = "9",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "所以你最后挑选到心仪的马术服了吗？",
+      sentence = "So, did you find the equestrian wear you were looking for?",
       voice = 1,
       male = 1
     },
@@ -63915,21 +63885,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "还没。虽然这个大方向的任务失败了，但是请李总仔细看看最后几张。"
+      sentence = "Not yet. My search failed, but Mr. Victor, take a closer look at the last photos."
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那个西部牛仔帽我感觉很好看，平时日常也可以戴。"
+      sentence = "The cowboy hat looks really good on you, and you can wear it for any occasion."
     },
     [11] = {
       next = "12",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "看起来我们像要一起上场表演节目。",
+      sentence = "Looks like we're going on stage together.",
       voice = 1,
       male = 1
     },
@@ -63938,21 +63908,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "如果李总愿意的话，我也很愿意~"
+      sentence = "Well, I'd gladly join you if that's what you want, Mr. Victor."
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过现在我要认认真真地去挑一会儿马术服了！"
+      sentence = "But right now, I'm going to take time picking out our equestrian wear!"
     },
     [14] = {
       next = "15",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不如你先检查一下行程日历，看看明天下午。",
+      sentence = "Why don't you check the calendar and see what's for tomorrow afternoon?",
       voice = 1,
       male = 1
     },
@@ -63961,39 +63931,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯？去服装店？"
+      sentence = "Hmm? Shopping for clothes?"
     },
     [16] = {
       next = "17",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我怎么不记得有这个安排……？"
+      sentence = "I don't remember that..."
     },
     [17] = {
       next = "18",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "是我安排的。",
+      sentence = "Because I arranged it.",
       voice = 1,
       male = 1
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "两天前我就说过，不过当时某人睡得迷迷糊糊，我就知道你的答应八成是过口不过心。",
+      sentence = "I told you two days ago, but a certain someone looked drowsy when she mumbled yes, so I knew you probably didn't mean it.",
       voice = 1,
       male = 1
     },
     [19] = {
       next = "20",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不如直接写下来，白纸黑字，不能抵赖。",
+      sentence = "I thought it'd be best to write it down, so you couldn't go back on your word.",
       voice = 1,
       male = 1
     },
@@ -64002,32 +63972,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯……我现在好像有那么一些些印象了！"
+      sentence = "Hmm.. I think it's coming back to me now."
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "既然没有选到喜欢的，就等明天吧。",
+      sentence = "Just wait till tomorrow if you don't find anything you like.",
       voice = 1,
       male = 1
     },
     [22] = {
       next = "23",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你可以安心地给自己选一会儿表演服，西部牛仔的想法可以留给华锐年会。",
+      sentence = "You can take time picking outfits for your show and save the cowboy idea for LFG's New Year party.",
       voice = 1,
       male = 1
     },
     [23] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不过到时候我会坐在观众席。",
+      sentence = "But I'll be in the audience watching you.",
       voice = 1,
       male = 1
     }
@@ -64035,10 +64005,10 @@ data = {
   [1304] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "今天的活动安排，某人应该没忘记时间吧。",
+      sentence = "Please tell me you remember what we're doing today.",
       voice = 1,
       male = 1
     },
@@ -64047,30 +64017,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然，今天的“烟花大会”我期待很久了~"
+      sentence = "How could I forget? I've been counting down to the Fireworks Party!"
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我现在在家做最后准备，等你过来的时候应该刚好能做完。"
+      sentence = "I'm almost done getting ready at home—perfect timing for your arrival."
     },
     [4] = {
       next = "5",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "明明是去参加“爆竹样品”的现场体验。",
+      sentence = "It's a firecracker sampling event.",
       voice = 1,
       male = 1
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么到某人口中就变成“烟花大会”了？",
+      sentence = "Since when did it become a Fireworks Party?",
       voice = 1,
       male = 1
     },
@@ -64079,30 +64049,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "有什么不好嘛~反正最后的燃放环节也是以烟花作为结尾的。"
+      sentence = "Well, it ends with fireworks, so I'm not totally wrong!"
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "四舍五入的话我想想，嗯……就算“烟花小会”？"
+      sentence = "So, by that logic... let's just call it a \"Spark-tacular\"!"
     },
     [8] = {
       next = "9",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "天马行空的起名环节就到此为止，别忘了我们还有“考察任务”。",
+      sentence = "Let's save the creative naming for later and focus on the task at hand.",
       voice = 1,
       male = 1
     },
     [9] = {
       next = "10",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "来找你的下一个策划案里需要的特制烟花。",
+      sentence = "We're here to find the specialty fireworks for your next project.",
       voice = 1,
       male = 1
     },
@@ -64111,28 +64081,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "话是这么说，不过我这次做案子时候才了解到，原来爆竹还有这么多品种。"
+      sentence = "True, but doing the research for this proposal really opened my eyes!"
     },
     [11] = {
       next = "12",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不只燃放的效果不同，背后的工艺也丰富多样。"
+      sentence = "There are so many varieties, each with their own unique effects and craftsmanship behind them."
     },
     [12] = {
       next = "13",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "时隔这么久，好像第一次感受到了“爆竹”真正的魅力~"
+      sentence = "It's like I'm seeing them in a whole new light."
     },
     [13] = {
       next = "14",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "在这些方面的调查倒是做足了功夫。",
+      sentence = "Glad to see you taking your research seriously.",
       voice = 1,
       male = 1
     },
@@ -64141,23 +64111,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我是想遇到好玩的爆竹，过年时候还能买点过来放着玩~"
+      sentence = "And if I find any really fun ones, I'm totally getting some for the New Year!"
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "看来今年过年，家里应该会很热闹。",
+      sentence = "Sounds like we're in for a lively New Year.",
       voice = 1,
       male = 1
     },
     [16] = {
       next = "17",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "那就约法三章，等找到合适的物料后，再开始玩。",
+      sentence = "But first, business. You can play after we've found what we need.",
       voice = 1,
       male = 1
     },
@@ -64166,37 +64136,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "保证完成任务~"
+      sentence = "Deal!"
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "对了对了，你来的时候，能不能顺手带几个饭盒。"
+      sentence = "Oh, and could you bring some extra food containers?"
     },
     [19] = {
       next = "20",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我刚做好的小蛋糕和三明治……感觉一个盒子都塞不下了。"
+      sentence = "I made cakes and sandwiches... and it's a bit out of hand."
     },
     [20] = {
       next = "21",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "比起看烟花，某个笨蛋倒是更像去野餐的。",
+      sentence = "Someone seems more prepared for a picnic than for product sampling.",
       voice = 1,
       male = 1
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不过这一点，我们倒是想到一起去了。",
+      sentence = "Can't say I blame you—I had the same thought.",
       voice = 1,
       male = 1
     },
@@ -64205,41 +64175,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "难不成你也做了蛋糕吗？"
+      sentence = "Don't tell me you baked something too?"
     },
     [23] = {
       next = "24",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "是蛋糕，但也不完全是。",
+      sentence = "You could say that.",
       voice = 1,
       male = 1
     },
     [24] = {
       next = "25",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我给Souvenir新研制的冬日甜品，在蛋糕的处理上用了特别工艺。",
+      sentence = "It's a new winter creation for Souvenir. I used a special technique for the cake.",
       voice = 1,
       male = 1
     },
     [25] = {
       next = "26",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "想给某人带来如烟花般绚烂的味觉体验。",
+      sentence = "I wanted to give a certain someone a flavor that unfolds... like fireworks.",
       voice = 1,
       male = 1
     },
     [26] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "刚好相配今晚的主题，你可以多期待一下。",
+      sentence = "Consider it a preview of the magic to come.",
       voice = 1,
       male = 1
     }
@@ -64247,28 +64217,28 @@ data = {
   [1305] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "举办万圣线下活动的游戏方，发来了我们这次活动的照片。",
+      sentence = "The game company that hosted the Halloween offline event sent us some photos.",
       voice = 1,
       male = 1
     },
     [2] = {
       next = "3",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "说是可以在里面选择一张，他们后期会加上动态特效，作为纪念。",
+      sentence = "They said we could pick one, and they'll add dynamic effects to make it a keepsake.",
       voice = 1,
       male = 1
     },
     [3] = {
       next = "4",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我已经转发到你邮箱了，可以挑选一下。",
+      sentence = "I've already forwarded the set to your inbox. Go ahead and choose one.",
       voice = 1,
       male = 1
     },
@@ -64277,30 +64247,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好耶，我去开电脑。"
+      sentence = "That's awesome! Let me boot up my laptop."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……36张？居然有这么多照片！"
+      sentence = "...Wait, thirty-six photos?! That many?"
     },
     [6] = {
       next = "7",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟这个游戏持续了一晚上。",
+      sentence = "The event did run all night.",
       voice = 1,
       male = 1
     },
     [7] = {
       next = "8",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "某些人玩到最后的时候，还从便利店买了两杯咖啡提神。",
+      sentence = "A certain someone even ran out to grab coffee from the convenience store just to stay awake towards the end.",
       voice = 1,
       male = 1
     },
@@ -64309,37 +64279,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哎呀，那个玩家的安全值眼看就要清零了，总不能功亏一篑嘛。"
+      sentence = "Well yeah, that player's Safety Level was about to hit zero. Wasn't gonna let him get away."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "让我挑挑……噗哈哈哈，我觉得“李总尝试撬锁”这张就很不错。"
+      sentence = "I'm scrolling through now... Oh my god, look at this one—\"Mr. Victor attempts to pick a lock\"."
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "原来你当时表情那么不自在吗？"
+      sentence = "Look how tense you were!"
     },
     [11] = {
       next = "12",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我是在留神周围。",
+      sentence = "I was watching the surroundings.",
       voice = 1,
       male = 1
     },
     [12] = {
       next = "13",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "况且既然目的达到，过程并不重要。",
+      sentence = "I got what I was there for. The end justifies the means.",
       voice = 1,
       male = 1
     },
@@ -64348,48 +64318,48 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哦~原来是这样。"
+      sentence = "Oho. Is that how it is?"
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "可我很喜欢这张哎！不如就它，你觉得怎么样？"
+      sentence = "But I really like this one! What do you think, can we go with it?"
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我觉得还有几张照片，更有“收藏价值”。",
+      sentence = "I think there are a few others that are more, let's say... \"collectible\".",
       voice = 1,
       male = 1
     },
     [16] = {
       next = "17",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "比如笨蛋被树上掉下来的玩具蝙蝠，吓得跳了起来。",
+      sentence = "Like the one where a dummy jumped out of her skin after a toy bat fell from the tree.",
       voice = 1,
       male = 1
     },
     [17] = {
       next = "18",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "以及这张，被识破骗局后提起裙子准备追人。",
+      sentence = "Or the one where she lifted the hem of her dress and chased someone down after exposing his scam.",
       voice = 1,
       male = 1
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，还有在十字路口旁……",
+      sentence = "And don't forget the one at the intersection...",
       voice = 1,
       male = 1
     },
@@ -64398,48 +64368,48 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "停停停——我收回刚刚的话。"
+      sentence = "Okay okay! I take it back, I take it all back!"
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "既然只能挑一张，那还是选我们两个都美美上镜的合照吧！"
+      sentence = "Since we only get to choose one, let's go with one where we both actually look good."
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "如果是这样，我心里已经有一张备选了。",
+      sentence = "If that's the case, I already know which one I'd pick.",
       voice = 1,
       male = 1
     },
     [22] = {
       next = "23",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "会议马上开始，先不聊了。",
+      sentence = "My meeting's about to start, so let's talk about this later.",
       voice = 1,
       male = 1
     },
     [23] = {
       next = "24",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "某人可以慢慢挑，选好后发给我。",
+      sentence = "Take your time picking. Once you've decided, send it to me.",
       voice = 1,
       male = 1
     },
     [24] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "说不定这次，我们做出的是同一个选择。",
+      sentence = "Maybe this time... we'll end up choosing the same one.",
       voice = 1,
       male = 1
     }
@@ -64447,10 +64417,10 @@ data = {
   [1306] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "打电话过来又不作声，难道只是为了制造一些咀嚼音馋我？",
+      sentence = "You called just to chew in my ear? Are you trying to make me drool?",
       voice = 1,
       male = 1
     },
@@ -64459,28 +64429,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "咕嘟~"
+      sentence = "*Gulp*"
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，你买的夹心酥饼实在太美味了，一不小心就多塞了一点在嘴里~"
+      sentence = "Hehe, those cream-filled biscuits you bought are way too good... I ended up stuffing a few too many into my mouth."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我就是好奇，为什么突然往家里订了这么多好吃的，是有什么事要庆祝吗？"
+      sentence = "I gotta ask, though, what's with the sudden stack of snacks in the house? Are we celebrating something?"
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "如果要庆祝有意义的事，我更倾向于自己下厨。",
+      sentence = "If it's something worth celebrating, I'd rather whip something up myself.",
       voice = 1,
       male = 1
     },
@@ -64489,23 +64459,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我想想……难道是为了招待客人买的？我都拆开好几种“品鉴”了……"
+      sentence = "Wait... are we getting guests? I already tore into half the stash. For \"tasting purposes\", obviously."
     },
     [7] = {
       next = "8",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "放心，先斩后奏请人来家里做客不是我的风格。",
+      sentence = "Relax, I don't invite people over without telling you first.",
       voice = 1,
       male = 1
     },
     [8] = {
       next = "9",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "况且，用来招待客人的零食也不必都按某人的喜好挑选。",
+      sentence = "Besides, if these were for guests, I wouldn't have picked all of your favorite snacks.",
       voice = 1,
       male = 1
     },
@@ -64514,21 +64484,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "诶~你这么一说，好像确实全都是我爱吃的诶！"
+      sentence = "Huh. Now that you say it, they really are all my faves!"
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "难道是给我的万圣惊喜嘛！"
+      sentence = "Wait, is this my Halloween surprise?!"
     },
     [11] = {
       next = "12",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我准备的礼物是晚上的特制大餐，不是这个。",
+      sentence = "The real surprise is the fancy dinner I'm making tonight, not this.",
       voice = 1,
       male = 1
     },
@@ -64537,32 +64507,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "想不出别的缘由了，我放弃答题权利，请李总揭秘！"
+      sentence = "Okay, I give up. I got nothing. Come on, what are they for, Mr. Victor?"
     },
     [13] = {
       next = "14",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我昨天半夜醒来，听到厨房里有窸窸窣窣的声音。",
+      sentence = "Last night, I woke up and heard some rustling in the kitchen.",
       voice = 1,
       male = 1
     },
     [14] = {
       next = "15",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "原本以为是布丁又在翻箱倒柜，没想到起来发现另一只馋猫在冰箱里搜罗。",
+      sentence = "I thought it was Pudding rummaging through stuff again, but as it turned out, another little snack thief was digging through the fridge.",
       voice = 1,
       male = 1
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不过从后半夜某人肚子的叫声和叹气声看，应该没什么收获。",
+      sentence = "Judging by all the stomach growling and sighing I heard the rest of the night... sounds like the mission didn't go too well.",
       voice = 1,
       male = 1
     },
@@ -64571,41 +64541,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜不好意思，难道是我把你吵醒了……"
+      sentence = "Ughhh, I'm sorry... did I wake you?"
     },
     [17] = {
       next = "18",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "笨蛋，醒来是偶然。",
+      sentence = "I just happened to wake up, dummy.",
       voice = 1,
       male = 1
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不过晚上你提议做“全素宴”来清理家里的蔬菜库存时，我就隐约有所预感。",
+      sentence = "I had a feeling this would happen the moment you brought up doing an \"all-veggie dinner\" to clear out the fridge.",
       voice = 1,
       male = 1
     },
     [19] = {
       next = "20",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟某人平时荤素搭配还算均衡。",
+      sentence = "Especially considering you usually like a solid meat-and-veggie combo.",
       voice = 1,
       male = 1
     },
     [20] = {
       next = "21",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "身体按照熟悉的节奏去消化食物，就会容易饿。",
+      sentence = "When your body's used to a certain food rhythm, switching it up messes with your hunger.",
       voice = 1,
       male = 1
     },
@@ -64614,39 +64584,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜确实，后来饥饿感来得格外猛烈QAQ"
+      sentence = "Ughh, yeah, I really was starving later that night. QAQ"
     },
     [22] = {
       next = "23",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过鉴于你的独创菜式真的很好吃，所以整体不算亏~"
+      sentence = "But hey, your recipes were actually delicious, so not a total loss!"
     },
     [23] = {
       next = "24",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "定位在“不亏”要求有些低了。",
+      sentence = "\"Not a total loss\" feels like a pretty low bar to clear.",
       voice = 1,
       male = 1
     },
     [24] = {
       next = "25",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "之后我会更新做法，提升一下菜品的饱腹感。",
+      sentence = "I'll adjust the recipes next time—make them a bit more filling.",
       voice = 1,
       male = 1
     },
     [25] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "就算是为了消耗库存，也要尽量吃好。",
+      sentence = "Even if we're clearing out leftovers, we should still eat well.",
       voice = 1,
       male = 1
     }
@@ -64868,11 +64838,10 @@ data = {
   [1308] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "刚刚出门的时候忘记拿围巾了，下车才发现比昨天还要冷不少，风也很大。",
-      voice = 1,
+      sentence = "Left the house and forgot my scarf. Didn't realize how much colder it is today until I got out of the car. Wind's pretty brutal, too.",
       male = 1
     },
     [2] = {
@@ -64880,15 +64849,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "啊，那要不要帮你送过去？"
+      sentence = "Oh no! Want me to bring it to you?"
     },
     [3] = {
       next = "4",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "这倒不用，我打电话来只是想提醒你，如果要出门记得穿多点。",
-      voice = 1,
+      sentence = "No need. I just called to remind you. If you're going out, layer up.",
       male = 1
     },
     [4] = {
@@ -64896,22 +64864,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，这么冷的天我才不出去呢。"
+      sentence = "Haha, nope. Not going anywhere in this weather."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我现在正和布丁窝在沙发上报团取暖——阿嚏！"
+      sentence = "I'm cuddled up on the couch with Pudding right now, keeping warm—ah-choo!"
     },
     [6] = {
       next = "7",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "笨蛋，你感冒了？",
-      voice = 1,
+      sentence = "You caught a cold, dummy?",
       male = 1
     },
     [7] = {
@@ -64919,24 +64886,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不是啦。是布丁今天好像开始掉毛了，所以一抱着它，它再一动就会——阿嚏！"
+      sentence = "Nah. Pudding's just started shedding, so the second he moves—ah-choo!"
     },
     [8] = {
       next = "9",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "……",
-      voice = 1,
+      sentence = "...",
       male = 1
     },
     [9] = {
       next = "10",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "都不用打开家里的摄像头，就能想象到你和它窝在一起不停打喷嚏的傻样子。",
-      voice = 1,
+      sentence = "I can already picture you sneezing on the sofa.",
       male = 1
     },
     [10] = {
@@ -64944,24 +64909,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哼，你要是抱着它也会打喷嚏的。"
+      sentence = "Hmph. You'd be sneezing too if you were holding him."
     },
     [11] = {
       next = "12",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我不是笨蛋。",
-      voice = 1,
+      sentence = "I'm not a dummy.",
       male = 1
     },
     [12] = {
       next = "13",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不会明知道它开始掉毛，还一直要抱着它。",
-      voice = 1,
+      sentence = "I'm not the type to keep hugging a furball when he's clearly shedding.",
       male = 1
     },
     [13] = {
@@ -64969,24 +64932,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "可现在很冷嘛。"
+      sentence = "But it's freezing..."
     },
     [14] = {
       next = "15",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "那就去把地暖打开。",
-      voice = 1,
+      sentence = "Then turn on the floor heating.",
       male = 1
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "暖气生效之前，去冲个暖水袋抱着。",
-      voice = 1,
+      sentence = "While you're waiting, go fill a hot water bottle. Hug that instead.",
       male = 1
     },
     [16] = {
@@ -64994,31 +64955,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噢，好……可、可是布丁好像一点都不想走，一动不动地窝在——阿嚏！"
+      sentence = "Okay... b-but Pudding doesn't wanna move at all. He's totally zoned out in my lap—ah-choo!"
     },
     [17] = {
       next = "18",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "而且我走到哪里它就跟到哪——阿嚏！"
+      sentence = "And the moment I get up, he follows me—ah-choo!"
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "正常。毕竟对布丁来说，现在你就是家里最暖和的存在。",
-      voice = 1,
+      sentence = "Makes sense. Right now, you're probably the warmest thing in the whole house to him.",
       male = 1
     },
     [19] = {
       next = "20",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "看来你只能自求多福了。",
-      voice = 1,
+      sentence = "You're on your own with that one.",
       male = 1
     },
     [20] = {
@@ -65026,33 +64985,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我好像听到你在偷笑了……！"
+      sentence = "Hey! I swear I just heard you snickering!"
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "如果实在受不了，就把自己先关进房间里去。",
-      voice = 1,
+      sentence = "If it's getting that bad, go hide out in your room.",
       male = 1
     },
     [22] = {
       next = "23",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "布丁虽然粘人，但也不会没礼貌到非要跟你进去。",
-      voice = 1,
+      sentence = "He's clingy, but he's not rude—he won't barge in.",
       male = 1
     },
     [23] = {
       next = "24",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我等一下叫宠物店送几个粘毛器到家里，晚上等我回来好好处理一下猫毛。",
-      voice = 1,
+      sentence = "I'll have the pet store send over a few lint rollers. I'll take care of the fur tonight when I get back.",
       male = 1
     },
     [24] = {
@@ -65060,44 +65016,40 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "家里好像还有一个没用完的粘毛器……不如我来先清理一下屋子好了！"
+      sentence = "I think there's still one lying around at home... I could clean up a bit first!"
     },
     [25] = {
       next = "26",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不用。不过笨蛋倒是可以先把自己身上的猫毛清理干净。",
-      voice = 1,
+      sentence = "Don't bother. Just get the fur off yourself for now, little dummy.",
       male = 1
     },
     [26] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟，我不想晚上回来一抱你也不停地打喷嚏。",
-      voice = 1,
+      sentence = "The last thing I need is to start sneezing the second I hug you.",
       male = 1
     }
   },
   [1309] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我发现，某人的车已经在华锐楼下停了十分钟了。",
-      voice = 1,
+      sentence = "So... someone's car's been parked outside the LFG building for ten minutes now.",
       male = 1
     },
     [2] = {
       next = "3",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "一直不下车，也没有个电话，又在偷偷打什么主意？",
-      voice = 1,
+      sentence = "No call and no sign of anyone getting out. What are you plotting?",
       male = 1
     },
     [3] = {
@@ -65105,22 +65057,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……？！"
+      sentence = "...?!"
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "外面天都黑了，你还能从几十层高的办公室里精准地看见我的车吗？"
+      sentence = "Wait, it's already dark. How can you see my car from your office up there?"
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不能。",
-      voice = 1,
+      sentence = "I can't.",
       male = 1
     },
     [6] = {
@@ -65128,33 +65079,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那就是魏谦偷偷跟你打小报告了……"
+      sentence = "Then it was Goldman, wasn't it?! He ratted me out!"
     },
     [7] = {
       next = "8",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "果然，笨蛋的观察能力还有待提高。",
-      voice = 1,
+      sentence = "Your detective skills still need work, dummy.",
       male = 1
     },
     [8] = {
       next = "9",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "之所以能看见你，是因为我现在在一楼的咖啡厅坐着。",
-      voice = 1,
+      sentence = "I saw you because I'm downstairs, sitting in the café.",
       male = 1
     },
     [9] = {
       next = "10",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "倒是你，一直都没有发现我。",
-      voice = 1,
+      sentence = "Meanwhile, you haven't even noticed me.",
       male = 1
     },
     [10] = {
@@ -65162,24 +65110,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "咦……这句话怎么听起来好像有点酸酸的，又有点委屈呢？"
+      sentence = "Wait a sec... why do you sound kinda... pouty?"
     },
     [11] = {
       next = "12",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "看来不止是观察力有待提高，连判断力好像也有些下降了。",
-      voice = 1,
+      sentence = "So now your perception's slipping too.",
       male = 1
     },
     [12] = {
       next = "13",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我倒很乐意你没有发现我，不然就不会看到某人捧着小蛋糕，自拍了十几张照片。",
-      voice = 1,
+      sentence = "Though honestly, it's probably for the best. Otherwise, I wouldn't have seen someone taking about a dozen selfies with a tiny cake.",
       male = 1
     },
     [13] = {
@@ -65187,31 +65133,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……"
+      sentence = "..."
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你、你这是“偷窥”！"
+      sentence = "T-that's spying!"
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不用急着拿包下车，这杯咖啡我马上喝完了。",
-      voice = 1,
+      sentence = "No need to get out of your car so quickly. I'm not done with my coffee yet.",
       male = 1
     },
     [16] = {
       next = "17",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你待会准备的“结婚一周纪念日”惊喜，我都照单全收。",
-      voice = 1,
+      sentence = "But, I am ready for that \"One-Week Wedding Anniversary Surprise\" you've got lined up.",
       male = 1
     },
     [17] = {
@@ -65219,31 +65163,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等等，你怎么什么都知道？！"
+      sentence = "Wait—how do you know?!"
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我明明没有告诉你今天是我们的“结婚一周纪念日”……"
+      sentence = "I never said anything about that!"
     },
     [19] = {
       next = "20",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你的心思一向不难猜，除了家里日历上莫名多出一个红心以外。",
-      voice = 1,
+      sentence = "You didn't have to. You left a big red heart on the calendar.",
       male = 1
     },
     [20] = {
       next = "21",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "这蛋糕上两个穿婚服的小人也很显眼。",
-      voice = 1,
+      sentence = "And the cake? Two little figurines in wedding outfits. Subtle.",
       male = 1
     },
     [21] = {
@@ -65251,24 +65193,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜，你都提前发现了，那惊喜就不能算作惊喜了！"
+      sentence = "Ughhh! You found out everything already. Now it's not even a surprise!"
     },
     [22] = {
       next = "23",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "惊不惊喜，是由收到它的人说了算的。",
-      voice = 1,
+      sentence = "Whether it's a surprise or not... that's for me to decide.",
       male = 1
     },
     [23] = {
       next = "24",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "况且今天是我们的纪念日，属于你的惊喜也不会少。",
-      voice = 1,
+      sentence = "Besides, it's our anniversary. I've got a few surprises of my own for you, too.",
       male = 1
     },
     [24] = {
@@ -65276,15 +65216,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇！你竟然也准备了吗？！"
+      sentence = "No way! You actually prepared something?!"
     },
     [25] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟在这种事上，我也会不想输给笨蛋。",
-      voice = 1,
+      sentence = "Of course. I'm not about to let a dummy outdo me on something like this.",
       male = 1
     }
   },
@@ -65770,10 +65709,10 @@ data = {
   [1314] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "某人出门的时候不是说去娱乐中心吗，怎么没看到人。",
+      sentence = "Didn't someone say she was headed to the rec center? How come I didn't see her there?",
       voice = 1,
       male = 1
     },
@@ -65782,14 +65721,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哦……我来SPA中心了。"
+      sentence = "Oh... I ended up coming to the spa instead."
     },
     [3] = {
       next = "4",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "语气这么低落，是因为我临时开会没陪你一起，没心情玩了？",
+      sentence = "That tone says you're sulking. Let me guess, it's because I had to take a last-minute meeting and couldn't come with you?",
       voice = 1,
       male = 1
     },
@@ -65798,44 +65737,44 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜，不是的。今天不知道怎么了，玩了几次碰碰车都没有车来碰我。"
+      sentence = "Nooo, it's not that. I don't know what's going on today. Everyone just refused to bump into me on the bumper cars."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哪怕我先去碰了别人，他们也只是笑笑，然后转头就把车开走了。"
+      sentence = "I even deliberately bumped into this guy, and he just smiled and drove off."
     },
     [6] = {
       next = "7",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我又去排了其他项目，前面明明有很多预约号，却都轮空了，大家都像让给我玩一样。"
+      sentence = "I tried other games too. There were tons of people ahead in line, but suddenly it was like... everyone just let me go first."
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你说，我是不是也像你被吸猫群的活动拒之门外一样，被特殊对待了……"
+      sentence = "Am I getting the same kind of awkward VIP treatment you got when the holder of a cat-lovers' event at LFG turned you down?"
     },
     [8] = {
       next = "9",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "还不算太迟钝。",
+      sentence = "You're not entirely oblivious, I'll give you that.",
       voice = 1,
       male = 1
     },
     [9] = {
       next = "10",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟现在某人的总裁家属身份人尽皆知，和我一样被“礼貌”对待也很正常。",
+      sentence = "Everyone knows we're together now. It's only natural you're getting the same \"polite\" treatment I do.",
       voice = 1,
       male = 1
     },
@@ -65844,23 +65783,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……你说，我下次去华锐做汇报的时候，他们不会也把电梯让给我吧？"
+      sentence = "...So if I go to LFG to give a report next time, are they gonna clear out the elevator just for me, too?"
     },
     [11] = {
       next = "12",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不是没有这种可能。",
+      sentence = "Very likely. I wouldn't be surprised.",
       voice = 1,
       male = 1
     },
     [12] = {
       next = "13",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "基于我之前的经验，我推荐你下次直接用我的专梯。",
+      sentence = "Honestly, just use my private elevator. Saves the hassle.",
       voice = 1,
       male = 1
     },
@@ -65869,30 +65808,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯……没关系。"
+      sentence = "Nah... I think I'll pass."
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我还是用最友善的笑容来打破这种“礼貌”带来的距离感好了~"
+      sentence = "Maybe I'll just put up a big friendly smile and try to cozy up to everyone."
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你可以试试看。",
+      sentence = "Go for it.",
       voice = 1,
       male = 1
     },
     [16] = {
       next = "17",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "如果有效果记得告诉我，我下次也试试。",
+      sentence = "If it works, let me know. I might borrow the trick sometime.",
       voice = 1,
       male = 1
     },
@@ -65901,23 +65840,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过我这样做，不会有损总裁的威严吧？"
+      sentence = "But... that won't mess with your CEO image, right?"
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我暂时还不需要靠一个笨蛋来帮我树立威严。",
+      sentence = "I don't need a certain dummy to keep up my image, thanks.",
       voice = 1,
       male = 1
     },
     [19] = {
       next = "20",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "况且你想要怎么做，从来不应该被家属的身份，或者我束缚。",
+      sentence = "Besides, being with me doesn't mean I get to control who you want to be.",
       voice = 1,
       male = 1
     },
@@ -65926,21 +65865,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "有李总这句话，我就更不担心了~"
+      sentence = "That certainly takes a load off my shoulders!"
     },
     [21] = {
       next = "22",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过感觉最近两天的游轮上，应该不会有人和我一起玩了TvT"
+      sentence = "But I've got a feeling that no one's gonna want to play with me on this cruise for the rest of the trip. TvT"
     },
     [22] = {
       next = "23",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你的暗示还可以更明显一点。",
+      sentence = "Your hints are getting more obvious.",
       voice = 1,
       male = 1
     },
@@ -65949,32 +65888,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哼哼，那你答不答应嘛？"
+      sentence = "Hmph. So? You gonna take the hint or not?"
     },
     [24] = {
       next = "25",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "笨蛋，我已经在SPA中心门口等你了。",
+      sentence = "Dummy, I'm already waiting at the spa entrance.",
       voice = 1,
       male = 1
     },
     [25] = {
       next = "26",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不管是碰碰车，还是其他的娱乐项目，我都会陪你一起。",
+      sentence = "Bumper cars, games, whatever you want—I'll be right there with you.",
       voice = 1,
       male = 1
     },
     [26] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟，陪玩原本也是属于家属的责任。",
+      sentence = "After all, keeping you company has always been my duty.",
       voice = 1,
       male = 1
     }
@@ -66415,11 +66354,10 @@ data = {
   [1317] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "醒了吗？",
-      voice = 1,
+      sentence = "Are you up?",
       male = 1
     },
     [2] = {
@@ -66427,24 +66365,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "啊啊啊我的闹钟定错时间了！你去哪了？不会已经跟着情人节专列走了吧？"
+      sentence = "Ahhh! I set my alarm wrong! Where are you? Don't tell me I missed the Valentine's Day Express!"
     },
     [3] = {
       next = "4",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "……看来确实还没睡醒。做早餐的时候发现家里的蜂蜜用完了，我在附近的超市买一点。",
-      voice = 1,
+      sentence = "...Still half asleep, I see. Just found out we ran out of honey as I was making breakfast, so I'm heading to grab some from the supermarket nearby.",
       male = 1
     },
     [4] = {
       next = "5",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "不用那么着急，发车时间是中午，你还有起床收拾的时间。",
-      voice = 1,
+      sentence = "No need to panic. The trolleybus leaves at noon. You've got plenty of time to get ready.",
       male = 1
     },
     [5] = {
@@ -66452,54 +66388,51 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我现在立刻起来！"
+      sentence = "I'm getting up right now!"
     },
     [6] = {
       next = "7",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你都不知道，刚才梦见我起来晚了。"
+      sentence = "Man, I had the worst nightmare."
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "粉色的情人节电车就在我面前开走了，你也在车上。"
+      sentence = "I dreamed I overslept, and you left me on the pink Valentine's Day Express."
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我努力在车后面跑啊跑，却怎么都追不上！然后就听到你的电话了……"
+      sentence = "I kept running after it, but no matter how fast I went, I just couldn't catch up. Then your call came through..."
     },
     [9] = {
       next = "10",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "笨蛋。",
-      voice = 1,
+      sentence = "You're such a dummy.",
       male = 1
     },
     [10] = {
       next = "11",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "梦都是反着的，如果真的因为某人睡过头错过车，也不会是我一个人在车上。",
-      voice = 1,
+      sentence = "Dreams are always the opposite of reality. Even if you ended up missing the trolleybus for real, I doubt I'd take it alone.",
       male = 1
     },
     [11] = {
       next = "12",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "而且某人抢到这个车票的时候高兴了一整晚，错过了恐怕十个布丁也调理不好。",
-      voice = 1,
+      sentence = "And let's not forget, someone was so excited about getting these tickets that she smiled through the entire night. If you missed it, not even ten puddings would fix that mood.",
       male = 1
     },
     [12] = {
@@ -66507,29 +66440,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "毕竟是号称“恋语市最浪漫甜蜜”的情人节限定线路巴士欸，一票难求！"
+      sentence = "Well, duh! It's advertised as the \"most romantic route in Loveland City!\" Do you know how hard these tickets were to get?"
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "今天我们可要好好观赏一下城市里的浪漫之地~"
+      sentence = "We have to make the most of it today and visit every romantic spot on the route!!"
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "而且，这个线路的终点站附近有个很好吃的餐厅，我们可以游玩结束后直接吃饭！"
+      sentence = "Plus, there's that amazing restaurant near the last stop. We can go straight there for dinner after!"
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "难怪你昨天和我说今天不用在Souvenir准备食材，原来是早有准备。",
-      voice = 1,
+      sentence = "So that's why you told me not to prep anything at Souvenir today. You had this all planned out, huh?",
       male = 1
     },
     [16] = {
@@ -66537,24 +66469,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "偶尔也想要李大厨放个假嘛……事先说明，绝对不是因为吃腻了你做的大餐哦。"
+      sentence = "Gotta give Chef Victor a day off sometimes, you know? And no, it's not because I'm tired of your cooking!"
     },
     [17] = {
       next = "18",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "这种事情不用解释，从你昨晚把牛排布丁吃得一口不剩就能看出来。",
-      voice = 1,
+      sentence = "I don't doubt that. You polished off that steak pudding last night like it was your last meal.",
       male = 1
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "看来今天所有的精力，都可以完全专注在某个笨蛋身上了。",
-      voice = 1,
+      sentence = "Looks like I can now dedicate all my energy to a certain dummy today.",
       male = 1
     },
     [19] = {
@@ -66562,42 +66492,38 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然啦~希望李总可以比工作的时候更加认真地去享受哦！"
+      sentence = "As you should! I expect Mr. Victor to take as much effort at having fun as he does at work!"
     },
     [20] = {
       next = "21",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "放心，你和你的策划案，我一贯一视同仁。",
-      voice = 1,
+      sentence = "Don't worry. I never slack, whether it's you or your proposal.",
       male = 1
     },
     [21] = {
       next = "22",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "收拾好了就去餐桌等我，我马上就到。",
-      voice = 1,
+      sentence = "When you're ready, meet me at the table. I'll be back soon.",
       male = 1
     },
     [22] = {
       next = "23",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你昨晚点名的蜂蜜司康和红糖奶茶，出门前都能吃到。",
-      voice = 1,
+      sentence = "The honey scones and brown sugar boba tea you asked for last night will be ready before we head out.",
       male = 1
     },
     [23] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "填饱肚子，才有力气好好玩。",
-      voice = 1,
+      sentence = "Gotta fuel up if we're gonna enjoy the day.",
       male = 1
     }
   },
@@ -68406,11 +68332,10 @@ data = {
   [1327] = {
     [1] = {
       next = "2",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "今天Souvenir开门营业，某个自告奋勇要来帮忙的甜点师没忘记吧？",
-      voice = 1,
+      sentence = "Just a reminder: Souvenir's opening today. My volunteer pastry chef hasn't forgotten, has she?",
       male = 1
     },
     [2] = {
@@ -68418,29 +68343,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没忘没忘，我正带着材料从家里赶过来呢！"
+      sentence = "Of course not! I'm already on my way with everything!"
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "刚才出了点小插曲，我去冰箱里拿巧克力的时候，布丁突然叼走牛排。"
+      sentence = "Okay, so there was a little incident. I was getting the chocolate from the fridge when Pudding suddenly ran off with the steak!"
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我追着它满屋子跑了三圈才猫口夺肉！"
+      sentence = "Had to chase the little thief around the room three times before I got it back!"
     },
     [5] = {
       next = "6",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "……不用把跟布丁打架说得这么声情并茂、绘声绘色。",
-      voice = 1,
+      sentence = "You really don't have to narrate your cat adventures with so much drama.",
       male = 1
     },
     [6] = {
@@ -68448,31 +68372,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，总之我会用最快的速度赶到的。"
+      sentence = "Heh, anyway, I'll be there ASAP!"
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过说起来，你怎么会想到今天在Souvenir限时营业呢？"
+      sentence = "So, what made you decide to do a pop-up today?"
     },
     [8] = {
       next = "9",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "笨蛋的记性，是不是太差了点？",
-      voice = 1,
+      sentence = "Is your memory seriously that short?",
       male = 1
     },
     [9] = {
       next = "10",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "前天加班回来吃夜宵的时候说了什么，自己不记得了？",
-      voice = 1,
+      sentence = "Don't tell me you forgot what you said the other night over your late-night snack?",
       male = 1
     },
     [10] = {
@@ -68480,56 +68402,52 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然记得，毕竟你做的那个白巧蛋糕超级无敌好吃。"
+      sentence = "Oh yeah! How could I forget? That white chocolate cake you made was absolutely amazing!"
     },
     [11] = {
       next = "12",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我当时就想要是别人也能品尝到这种甜蜜就好了……"
+      sentence = "I remember saying how awesome it would be if more people could try something that amazing."
     },
     [12] = {
       next = "13",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "咦？你今天营业，还让我带巧克力过去不会是为了……？"
+      sentence = "Wait... Is that why you're opening today? And why you asked me to bring chocolate...?"
     },
     [13] = {
       next = "14",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "猜对了，毕竟某人说这句话的时候，眼睛都快亮出星了。",
-      voice = 1,
+      sentence = "Bingo. You looked so bright-eyed when you said that.",
       male = 1
     },
     [14] = {
       next = "15",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "我稍微改了一点配方，在今天限时出售。",
-      voice = 1,
+      sentence = "I made a small change to the recipe—it's today's special.",
       male = 1
     },
     [15] = {
       next = "16",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "按照你的理论……送出无数份甜蜜的人，自己也会收获无数倍相等的甜蜜。",
-      voice = 1,
+      sentence = "You said it yourself: the more sweetness you give, the more you get back.",
       male = 1
     },
     [16] = {
       next = "17",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "所以，就在今天实践一下吧，看看这个笨蛋，会不会收获到她想要的。",
-      voice = 1,
+      sentence = "Well, we'll see if that's true for a certain someone.",
       male = 1
     },
     [17] = {
@@ -68537,24 +68455,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然！一想到会有那么多人因为我们而感受到甜蜜，我就已经开始期待了。"
+      sentence = "It will! I'm already excited just thinking about making people's day."
     },
     [18] = {
       next = "19",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "你还可以更期待一点。",
-      voice = 1,
+      sentence = "You should be. Get a little more excited.",
       male = 1
     },
     [19] = {
       next = "0",
-      renming = "李泽言",
+      renming = "Victor",
       dialog = 2,
       namebg = 1,
-      sentence = "因为，除了这些，你那份最独一无二的巧克力蛋糕，我也准备好了。",
-      voice = 1,
+      sentence = "Because I also made a chocolate cake—one that's just for you.",
       male = 1
     }
   },
@@ -69040,6 +68956,437 @@ data = {
       dialog = 2,
       namebg = 1,
       sentence = "毕竟，我也会想要多知道一点关于笨蛋小时候的记忆。",
+      voice = 1,
+      male = 1
+    }
+  },
+  [1330] = {
+    [1] = {
+      next = "2",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "You called me three times. What happened?",
+      voice = 1,
+      male = 1
+    },
+    [2] = {
+      next = "3",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Victor, are you okay?"
+    },
+    [3] = {
+      next = "4",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Why wouldn't I be?",
+      voice = 1,
+      male = 1
+    },
+    [4] = {
+      next = "5",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "*Sobs* I was so scared! I just saw the news saying some CEO got arrested, and it looked like LFG was in trouble, too!"
+    },
+    [5] = {
+      next = "6",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I just wanted to make sure you were okay!"
+    },
+    [6] = {
+      next = "7",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I'm fine. I know about the case. We've been cooperating with the investigation for a couple of weeks.",
+      voice = 1,
+      male = 1
+    },
+    [7] = {
+      next = "8",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "As victims, however.",
+      voice = 1,
+      male = 1
+    },
+    [8] = {
+      next = "9",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "So, you guys were actually involved!"
+    },
+    [9] = {
+      next = "10",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Yeah, the other company had money issues. The police just wanted us to submit the transaction reports.",
+      voice = 1,
+      male = 1
+    },
+    [10] = {
+      next = "11",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "That's a relief, but how come you didn't tell me about this?"
+    },
+    [11] = {
+      next = "12",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I only found out through the news..."
+    },
+    [12] = {
+      next = "13",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "And you got worried that I was doing something illegal?",
+      voice = 1,
+      male = 1
+    },
+    [13] = {
+      next = "14",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "No, I'm just worried you might be set up. People can be so shady these days!"
+    },
+    [14] = {
+      next = "15",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Victor, promise me you'll stick to your bottom line and follow the law, okay?"
+    },
+    [15] = {
+      next = "16",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Don't let money tempt you!"
+    },
+    [16] = {
+      next = "17",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Are you sure that's your suggestion for me? \"Don't let money tempt you?\"",
+      voice = 1,
+      male = 1
+    },
+    [17] = {
+      next = "18",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "A certain dummy is the one who always gets tempted by the smallest things.",
+      voice = 1,
+      male = 1
+    },
+    [18] = {
+      next = "19",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "T-that's not true!"
+    },
+    [19] = {
+      next = "20",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Remember last weekend? You said you were gonna go to bed on time, but you spent the whole night giggling while reading some novel.",
+      voice = 1,
+      male = 1
+    },
+    [20] = {
+      next = "21",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Uhh... well..."
+    },
+    [21] = {
+      next = "22",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "And who said she was going to work overtime on that proposal, but ended up playing with Pudding all night?",
+      voice = 1,
+      male = 1
+    },
+    [22] = {
+      next = "23",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I can explain..."
+    },
+    [23] = {
+      next = "24",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Who was it that said she wanted to cut down on sugar, only to beg \"Mr. Victor, pretty please\" for a cake that same afternoon?",
+      voice = 1,
+      male = 1
+    },
+    [24] = {
+      next = "25",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Noooo! Stop! Okay, I admit it! My willpower isn't as strong as yours!"
+    },
+    [25] = {
+      next = "26",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "My willpower isn't as strong as you think.",
+      voice = 1,
+      male = 1
+    },
+    [26] = {
+      next = "27",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I saw a dummy's \"pretty please\", and I headed straight for Souvenir.",
+      voice = 1,
+      male = 1
+    },
+    [27] = {
+      next = "0",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "What else do you want to eat? Send over your requests.",
+      voice = 1,
+      male = 1
+    }
+  },
+  [1331] = {
+    [1] = {
+      next = "2",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Just saw your photo. Why were you at a temple?",
+      voice = 1,
+      male = 1
+    },
+    [2] = {
+      next = "3",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Another show of yours?",
+      voice = 1,
+      male = 1
+    },
+    [3] = {
+      next = "4",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Nope. I went with a friend."
+    },
+    [4] = {
+      next = "5",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "She's having her exam soon, so she wanted to pray for good luck."
+    },
+    [5] = {
+      next = "6",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "...Is praying supposed to help her pass?",
+      voice = 1,
+      male = 1
+    },
+    [6] = {
+      next = "7",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Maybe not, but it helps ease the nerves."
+    },
+    [7] = {
+      next = "8",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "What, you didn't do that back when you were in school? Like praying for quick wit and getting straight A's for all exams?"
+    },
+    [8] = {
+      next = "9",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "You either know the answers, or you don't. Praying has nothing to do with it.",
+      voice = 1,
+      male = 1
+    },
+    [9] = {
+      next = "10",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Maybe all that time praying should've been used to study instead.",
+      voice = 1,
+      male = 1
+    },
+    [10] = {
+      next = "11",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Whatever, I also prayed for good luck."
+    },
+    [11] = {
+      next = "12",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Why? You have an exam too?",
+      voice = 1,
+      male = 1
+    },
+    [12] = {
+      next = "13",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Nope, but I figured maybe it'd help me with my proposal!"
+    },
+    [13] = {
+      next = "14",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "...",
+      voice = 1,
+      male = 1
+    },
+    [14] = {
+      next = "15",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Has it ever occurred to you to pray to me?",
+      voice = 1,
+      male = 1
+    },
+    [15] = {
+      next = "16",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Would you pass my proposal if I did?"
+    },
+    [16] = {
+      next = "17",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Nope.",
+      voice = 1,
+      male = 1
+    },
+    [17] = {
+      next = "18",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "...Oh, Victor, come on!"
+    },
+    [18] = {
+      next = "19",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "But I did forward your past work to our partner and put in a few good words. Can your temple do that?",
+      voice = 1,
+      male = 1
+    },
+    [19] = {
+      next = "20",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Wait, are you saying...?"
+    },
+    [20] = {
+      next = "21",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Come back already.",
+      voice = 1,
+      male = 1
+    },
+    [21] = {
+      next = "22",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "A partner of mine is dying to meet you, Miss Big-shot Producer.",
+      voice = 1,
+      male = 1
+    },
+    [22] = {
+      next = "23",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "OMG! I love you so much! Mr. Victor is the Best!"
+    },
+    [23] = {
+      next = "24",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I'm gonna pray to you from now on!"
+    },
+    [24] = {
+      next = "25",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I don't need your prayers.",
+      voice = 1,
+      male = 1
+    },
+    [25] = {
+      next = "26",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "How about kisses, then? XOXO!"
+    },
+    [26] = {
+      next = "0",
+      renming = "Victor",
+      dialog = 2,
+      namebg = 1,
+      sentence = "That's more like it.",
       voice = 1,
       male = 1
     }
@@ -121665,10 +122012,10 @@ data = {
   [2262] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "喂，是我。不知道今天大制作人能不能准时下班呢？",
+      sentence = "It's me. Just checking if the great producer can clock out on time today.",
       voice = 1,
       male = 2
     },
@@ -121677,21 +122024,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我正想打电话给你呢。节目制作结束，从今天起我就可以准时回家了——"
+      sentence = "You read my mind! I'm all done. From today onward, I'm back to regular hours—"
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "希望节目上线后，观众们也会喜欢。"
+      sentence = "Now the real test is whether people will actually like it."
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "就我这段时间看过的样片而言，我有信心它能打动很多人。",
+      sentence = "From the clips I've been privileged to see, I think they'll like it very much.",
       voice = 1,
       male = 2
     },
@@ -121700,14 +122047,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哼哼，样片都能打动许教授，我对成片信心加倍了~"
+      sentence = "Well, if Professor Lucien approves of the rough cuts, I'm feeling super confident about the final product!"
     },
     [6] = {
       next = "7",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "说起来，为了庆祝我们都能准时下班，要不要去吃点东西？",
+      sentence = "In that case, to celebrate our timely escape, how about dinner?",
       voice = 1,
       male = 2
     },
@@ -121716,28 +122063,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好呀！像这样累了很久之后吃什么好呢……？"
+      sentence = "I'd love that! What's the perfect comfort food after all this...?"
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "对了，你记不记得我们之前去取材的时候，旅馆附近的那家糖水铺？"
+      sentence = "That's it! Remember that amazing dessert place near the hotel from our last trip?"
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "忙得晕头转向后喝一碗糖水，感觉整个人都有了幸福的感觉呢。"
+      sentence = "Nothing was better after a chaotic day than sharing a bowl of something sweet. It was pure comfort."
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "你想念那家店了？",
+      sentence = "You've been thinking about that?",
       voice = 1,
       male = 2
     },
@@ -121746,23 +122093,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯，不过现在回想，幸福感没准是来源于工作间隙偷溜出去放空一下的氛围。"
+      sentence = "Yeah. But now I think the happiness came from our little adventure sneaking off together."
     },
     [12] = {
       next = "13",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "如果想重温一下那种放松的感觉，不如在书房里支一张小桌子……",
+      sentence = "If you want to recapture that cozy vibe, we could set up a little nook in the study...",
       voice = 1,
       male = 2
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "摆上我们都喜欢的小装饰，再像当时一样，支起平板看个电影。",
+      sentence = "Decorate it with some of our shared treasures and lose ourselves in a movie, just like we did back then.",
       voice = 1,
       male = 2
     },
@@ -121771,23 +122118,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "听起来氛围有了，甜品部分是不是只能叫外卖了？"
+      sentence = "You've captured the mood perfectly! But is takeout our only option for dessert?"
     },
     [15] = {
       next = "16",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这个部分……我也有点头疼。",
+      sentence = "That... is the one problem I haven't solved yet.",
       voice = 1,
       male = 2
     },
     [16] = {
       next = "17",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "回来之后我找过几次，但一直都没发现像当时一样好吃的甜品。",
+      sentence = "I've tried a few places since we got back, but nothing tastes quite the same.",
       voice = 1,
       male = 2
     },
@@ -121796,14 +122143,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "要不，我动手试试？"
+      sentence = "Well... I could always try making it!"
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯？",
+      sentence = "Really?",
       voice = 1,
       male = 2
     },
@@ -121812,30 +122159,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "干嘛嗯一声呀，不相信我吗？"
+      sentence = "Why does that sound like a question? You don't think I can?"
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当时我特地问过老板有什么家常甜品，他说番薯甜汤就不难，完全可以自己做！"
+      sentence = "Just so you know, I asked the owner for his easy recipes! He said sweet potato soup is totally doable at home!"
     },
     [21] = {
       next = "22",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "没有不相信你，我只是很高兴幸福的氛围由我们两个人一起来完成。",
+      sentence = "I have no doubts about your abilities. I'm just excited that we're creating this little happy place together.",
       voice = 1,
       male = 2
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "家里还有一点红糖，但姜没有了，我现在去买。",
+      sentence = "We have brown sugar, but we're out of ginger. I'll run to the store now.",
       voice = 1,
       male = 2
     },
@@ -121844,23 +122191,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "咦，你怎么知道要这些食材，你也问老板啦？"
+      sentence = "Wait, how did you know what we need? Did you get a secret recipe too?"
     },
     [24] = {
       next = "25",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "傻瓜，我现搜的。",
+      sentence = "Silly girl, I performed a quick search.",
       voice = 1,
       male = 2
     },
     [25] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟我有些迫不及待，想更快地和你一起在“晕头转向”的忙碌后，仔细体会幸福啊。",
+      sentence = "Forgive my eagerness. I can't wait to share that post-chaos happiness with you again.",
       voice = 1,
       male = 2
     }
@@ -123217,10 +123564,10 @@ data = {
   [2270] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "$u，我在回家的路上了。",
+      sentence = "Hey, $u, I'm on my way back.",
       voice = 1,
       male = 2
     },
@@ -123229,23 +123576,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你从医院出来了吗？感觉今天好像比前几天要晚一些。"
+      sentence = "You just left the hospital? You are a little later than usual."
     },
     [3] = {
       next = "4",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "刚刚把一些资料先送到了所里一趟，又散了一会儿步。",
+      sentence = "Yes, I dropped off some files at the lab first, then took a little walk.",
       voice = 1,
       male = 2
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "然后……突然很想听到你的声音。",
+      sentence = "And then... I just really wanted to hear your voice.",
       voice = 1,
       male = 2
     },
@@ -123254,51 +123601,51 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那我是不是应该要多说一点话，来让许教授的世界里全都是我的声音~？"
+      sentence = "Well then, Professor Lucien, should I just keep talking nonstop and fill your whole world with my voice?"
     },
     [6] = {
       next = "7",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "今天我又看到了几个好厉害的节目制作，感觉可以学习一下成为新的灵感来源。"
+      sentence = "For starters, I saw a few really awesome shows today—thinking I could learn from them for some new inspirations."
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "同事买了两本书说很好看，过两天要借给我。"
+      sentence = "Then, one of my coworkers bought two books they said were amazing. She's lending them to me in a couple of days."
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "而且我一天也没有见到许教授了，也想多听听他的声音呢。"
+      sentence = "And most importantly, I haven't seen you at all today, so I really want to hear your voice."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "许教授今天都发生什么事情啦？"
+      sentence = "What happened in the world of Professor Lucien today?"
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "许教授今天检查了几个实验结果，帮一个教授否掉了几个开题。",
+      sentence = "He ran through some lab results, and shot down a few project ideas from another professor.",
       voice = 1,
       male = 2
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "去了医院，听杨老说了些话，还听到薛阿姨和他互相拌嘴。",
+      sentence = "Swung by the hospital, chatted a bit with Professor Young, and overheard him bickering with his wife.",
       voice = 1,
       male = 2
     },
@@ -123307,23 +123654,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈，他们说什么了？"
+      sentence = "Hahaha, what were they arguing about?"
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "都是些日常话，后来杨老一定要拉着我帮忙分个孰对孰错。",
+      sentence = "Just everyday stuff. But then I was dragged into it. They asked me who I thought was in the right.",
       voice = 1,
       male = 2
     },
     [14] = {
       next = "15",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "所以我只好装作看资料，让他们自己去说个明白了。",
+      sentence = "So I pretended to be busy with my paperwork and let them hash it out themselves.",
       voice = 1,
       male = 2
     },
@@ -123332,46 +123679,46 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "最后肯定还是薛阿姨赢了吧！"
+      sentence = "I bet his wife won in the end!"
     },
     [16] = {
       next = "17",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "虽然她声音软软的，总能让一向中气十足的杨老认输呢。"
+      sentence = "Her voice might always be soft, but somehow, she can always get her husband to back down."
     },
     [17] = {
       next = "18",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好神奇，就算我与他们交往不深，也能或多或少感受到他们的一些性格。"
+      sentence = "It's funny. Even though I don't know them super well, I can still kinda feel their personalities."
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟声音可以比较清晰地传达一些个性与情绪。",
+      sentence = "Voices do carry a lot of character and emotion.",
       voice = 1,
       male = 2
     },
     [19] = {
       next = "20",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "很多研究也标明，比起样貌，人会更容易通过声音去辨认他人的身份。",
+      sentence = "A lot of studies even show that people are better at recognizing someone by their voice rather than by their face.",
       voice = 1,
       male = 2
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "而相对应的，很多时候遗忘也会先从声音开始。",
+      sentence = "And oddly enough, when we start to forget someone, it's usually their voice that fades first.",
       voice = 1,
       male = 2
     },
@@ -123380,35 +123727,35 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……好像确实是这样的。"
+      sentence = "...That's actually so true."
     },
     [22] = {
       next = "23",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "很多在记忆里的人，我好像还能或多或少地想起他们的脸或是某个场景。"
+      sentence = "There are people I can still picture in my head, or remember being with them."
     },
     [23] = {
       next = "24",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "但似乎真的有些想不起他们的声音了。"
+      sentence = "But I really can't recall how some of them sounded."
     },
     [24] = {
       next = "25",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "有时候还是有些羡慕许教授的记忆力。"
+      sentence = "Honestly, I kind of envy how sharp your memory is sometimes."
     },
     [25] = {
       next = "26",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我倒是认为很多事不需要记得过于清晰，让时光将其美化也不失为一个很好的结果。",
+      sentence = "I think sometimes it's better not to remember every detail. Letting time blur things a bit can actually make them more beautiful.",
       voice = 1,
       male = 2
     },
@@ -123417,32 +123764,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "但我还是想要把和你有关的所有事都记得清清楚楚，记得你所有对我说过的话~"
+      sentence = "But when it comes to you, I want to remember everything—every word you've ever said to me."
     },
     [27] = {
       next = "28",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "……傻瓜。",
+      sentence = "...Silly.",
       voice = 1,
       male = 2
     },
     [28] = {
       next = "29",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "放心，我相信比起遗忘的速度，我可以更努力让你的世界装满我的痕迹。",
+      sentence = "Don't worry. I'm pretty sure I can leave enough of myself in your world to keep you from forgetting me.",
       voice = 1,
       male = 2
     },
     [29] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不要害怕遗忘，无论是过去还是未来，我都会让你清晰地望见我。",
+      sentence = "Don't be scared of forgetting. Whether it's the past or the future, I'll make sure you can always see me clearly.",
       voice = 1,
       male = 2
     }
@@ -123450,19 +123797,19 @@ data = {
   [2271] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "$u，有一个好消息。",
+      sentence = "Good news, $u.",
       voice = 1,
       male = 2
     },
     [2] = {
       next = "3",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "纳米科学中心有一个脑机接口领域的研究组联系我了。",
+      sentence = "A team from the Nano-Science Center reached out to me about their neuro-computer interface project.",
       voice = 1,
       male = 2
     },
@@ -123471,32 +123818,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "真的吗？！这么快！！"
+      sentence = "No way?! Already??"
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，接到电话的时候，我也有些意外。",
+      sentence = "I was surprised too when they called.",
       voice = 1,
       male = 2
     },
     [5] = {
       next = "6",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不过对方说是因为看了你的纪录片，在片末看到了我的信息，才打来的电话。",
+      sentence = "Turns out they saw your documentary, and spotted my info in the credits. That's why they reached out.",
       voice = 1,
       male = 2
     },
     [6] = {
       next = "7",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "所以一切进展得如此顺利，恐怕只能说明大制作人的节目真的很了不起。",
+      sentence = "That just shows how great of a show you managed to produce.",
       voice = 1,
       male = 2
     },
@@ -123505,23 +123852,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜，太好了！那你们沟通的结果怎么样呀？"
+      sentence = "Ahhh that's amazing! So how'd the talk go?"
     },
     [8] = {
       next = "9",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我了解了一下，对方是个很有经验的研究组。",
+      sentence = "They seem like a really experienced team.",
       voice = 1,
       male = 2
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "听起来他们对杨老的研究兴趣很大，所以目前的初步计划是，他们下周会专程来恋语市一趟，当面再聊聊。",
+      sentence = "They're very interested in Professor Young's work, so they plan on coming to Loveland City next week to chat face-to-face.",
       voice = 1,
       male = 2
     },
@@ -123530,23 +123877,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "也是哦，这种事总是要当面聊的，是我太兴奋了。"
+      sentence = "Makes sense. This kind of stuff always goes better in person. I'm so excited!"
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不管结果会是如何，这都是个好消息，毕竟距离你的纪录片播出才过去两天。",
+      sentence = "Either way, it's a great start, especially considering your documentary's only been out for two days.",
       voice = 1,
       male = 2
     },
     [12] = {
       next = "13",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "所以我想，像今天这样找上门来的研究组，一定不会只有这一个。",
+      sentence = "I've got a feeling this won't be the last offer that comes knocking.",
       voice = 1,
       male = 2
     },
@@ -123555,23 +123902,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，这样说起来，我算不算也为了脑科学领域做了点小小贡献呀？"
+      sentence = "Hehe, so... does this mean I've made a tiny little contribution to neuroscience?"
     },
     [14] = {
       next = "15",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "当然。不过，我想$u对脑科学做的贡献似乎远远不止小小贡献而已。",
+      sentence = "More than just a tiny one, $u. I think your impact is a lot bigger than you realize.",
       voice = 1,
       male = 2
     },
     [15] = {
       next = "16",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟于我而言，太多事都多亏了有你这位家属在身边。",
+      sentence = "Especially for me. So many things have gone well because I've had you around.",
       voice = 1,
       male = 2
     },
@@ -123580,14 +123927,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "被许大科学家这样认可，我忍不住都要骄傲起来了~"
+      sentence = "Getting praised by the great Professor Lucien himself—I feel so proud right now!"
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "那我认为，你可以更骄傲些。因为“认可”你的人可不只是我。",
+      sentence = "And you can be even more proud of it. I'm not the only one who thinks you're amazing.",
       voice = 1,
       male = 2
     },
@@ -123596,23 +123943,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯？还有谁呀？"
+      sentence = "Oh? Who else?"
     },
     [19] = {
       next = "20",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "是薛阿姨。在和对方沟通杨老的研究内容前，我先给她打了个电话征询意见。",
+      sentence = "Mrs. Young. Before I officially talked to the team about Professor Young's research, I called her to get her thoughts.",
       voice = 1,
       male = 2
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "她很高兴，提出一定让我邀请你这位大功臣一起吃顿饭，以此作为感谢。",
+      sentence = "She was thrilled. Said I absolutely have to invite you to dinner to thank you properly.",
       voice = 1,
       male = 2
     },
@@ -123621,14 +123968,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没问题，我随时都可以！而且能起到帮助，我也很高兴。"
+      sentence = "I'm in! Anytime! I'm just happy I could help."
     },
     [22] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "那一会儿等你下班了，我去接你。在正式“庆功”之前，我想先用我的方式，表达谢意。",
+      sentence = "Then I'll come pick you up after work. Before we have our \"celebration dinner,\" I want to thank you... in my own way.",
       voice = 1,
       male = 2
     }
@@ -125526,10 +125873,10 @@ data = {
   [2283] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我收到了你的酒店入住提示，一切都还顺利吗？",
+      sentence = "I just got your hotel check-in alert. Is everything going okay?",
       voice = 1,
       male = 2
     },
@@ -125538,39 +125885,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "很顺利！我和同事刚从雨林结束取景回来，现在正躺在大床上！"
+      sentence = "All good! My coworker and I just got back from the rainforest shoot. I'm sprawled out on this giant bed right now!"
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "许教授今天的工作进展如何？"
+      sentence = "How's your day going, Professor Lucien?"
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "今天的工作都很顺利，只不过一抬头，发现书房门后多了一个留言板。",
+      sentence = "Pretty smooth, actually. However, when I looked up, I noticed a new message board behind the study door.",
       voice = 1,
       male = 2
     },
     [5] = {
       next = "6",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "白板上，一只可爱的小兔子问小狐狸，“狐狸狐狸，热带雨林是什么样的？”",
+      sentence = "On it, a cute bunny's asking a little fox, \"Hey, hey, what's a rainforest like?\"",
       voice = 1,
       male = 2
     },
     [6] = {
       next = "7",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这是某位小姐给我留下的题目吗？",
+      sentence = "Was that little quiz from a certain young lady?",
       voice = 1,
       male = 2
     },
@@ -125579,46 +125926,46 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，许教授最近一直埋头研究课题，在书房里一待就是一整天。"
+      sentence = "Hehe, well, you've been buried in your research lately, staying in your study all day long."
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "听说在描述一件事时，大脑会用到和做研究时不一样的区域。"
+      sentence = "I heard describing things lights up a totally different part of the brain compared with doing research."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以我就想在许教授工作不经意的时候，帮你换换脑子，激活一下大脑的其他部分～"
+      sentence = "So I figured I'd sneak in a fun question to help Professor Lucien wake up the rest of his brain. Give it a little stretch!"
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "让我想想……雨林的地面是覆满了湿润的苔草。",
+      sentence = "Let me see... The rainforest floor is thick with damp moss, soft and cool underfoot.",
       voice = 1,
       male = 2
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "由于空气中水分含量极高，每一阵风吹过，脸上都能感受到凉爽的水汽。",
+      sentence = "The air's so heavy with moisture, and every breeze brushes your skin with a cool mist.",
       voice = 1,
       male = 2
     },
     [12] = {
       next = "13",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "另外，雨林的夜晚会比白日更加充满生机，有很多神秘未知的小生物。",
+      sentence = "And at night, it's even livelier than during the day. It's full of tiny, mysterious creatures whispering in the dark.",
       voice = 1,
       male = 2
     },
@@ -125627,14 +125974,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "许教授的回答，准确地概述了我今天很多的感受！"
+      sentence = "You seriously nailed it, Professor Lucien! That's exactly how it felt out there!"
     },
     [14] = {
       next = "15",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "看来出题人还算满意，那我就接着回答$u留在白板背后的隐藏问题了。",
+      sentence = "Looks like $u is quite pleased. In that case, I'll answer the secret question you scribbled behind the board too.",
       voice = 1,
       male = 2
     },
@@ -125643,32 +125990,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……嗯？我不记得在白板后面还写了东西啊？"
+      sentence = "...Huh? Wait, I don't remember writing anything on the back."
     },
     [16] = {
       next = "17",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "虽然字迹被擦掉了，但还是留下了一些痕迹",
+      sentence = "The writing was mostly wiped away, but there were still some faint smudges.",
       voice = 1,
       male = 2
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "好像还是能看到有一只小兔子在自言自语——",
+      sentence = "Looks like a little bunny was muttering to herself:",
       voice = 1,
       male = 2
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么样才能把小狐狸也带到美丽的雨林里去呢？",
+      sentence = "\"How do I get the little fox to come see the rainforest with me?\"",
       voice = 1,
       male = 2
     },
@@ -125677,30 +126024,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，那个问题已经过时啦！我知道你最近很忙，所以这道题已经被正式修改为——"
+      sentence = "Hehe, that question's kinda outdated now! Since I know you've been swamped lately, I've updated it to—"
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "如何足不出户，让许教授体验我带回来的雨林。"
+      sentence = "How can I bring the rainforest home so Professor Lucien can experience it without stepping outside?"
     },
     [21] = {
       next = "22",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "浓密的植物装饰可以模拟雨林的繁茂，声音播放器可以播放动物叫声和雨水轻响，加湿器则能重现湿润的空气感。",
+      sentence = "I've got dense greenery to mimic the jungle, a speaker ready to play animal calls and rain sounds, and a humidifier prepped to recreate that tropical air.",
       voice = 1,
       male = 2
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这些我都已经准备好，就等我的导游小姐回家了。",
+      sentence = "Now I'm just waiting for my little tour guide to come home.",
       voice = 1,
       male = 2
     },
@@ -125709,30 +126056,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……不愧是许教授。"
+      sentence = "...Whoa. That's quite a preparation."
     },
     [24] = {
       next = "25",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过我的目的是希望让你感到头脑放松，而不是增加你的“工作负担”呀。"
+      sentence = "But this was supposed to help you relax, not pile on more tasks!"
     },
     [25] = {
       next = "26",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这当然不能被称作是“负担”。",
+      sentence = "I wouldn't call it a task.",
       voice = 1,
       male = 2
     },
     [26] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟只要想到你，我的大脑全部区域，就足够被幸福感激活与放松了。",
+      sentence = "Just thinking about you is enough to light up every corner of my brain with peace and happiness.",
       voice = 1,
       male = 2
     }
@@ -125740,10 +126087,10 @@ data = {
   [2284] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "$u，你还记得你贴在冰箱上的配方吗？",
+      sentence = "Remember that recipe you stuck on the fridge, $u?",
       voice = 1,
       male = 2
     },
@@ -125752,23 +126099,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "记得……等等，国内现在不是都凌晨了吗，你怎么这么晚了问这个事？"
+      sentence = "Of course... Wait, isn't it super late over there? Why are you asking about that now?"
     },
     [3] = {
       next = "4",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "研究所有个实验出了点问题，必须今晚处理，做完以后我又想起$u要求我好好吃饭的叮嘱。",
+      sentence = "One of the lab experiments hit a snag, and I had to fix it tonight. Afterward, I remembered $u's reminder to eat properly.",
       voice = 1,
       male = 2
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "所以我乖乖走进厨房，恰好看到了你留下的小食谱，就花了点时间研究了一下。",
+      sentence = "So I went into the kitchen, spotted your recipe, and figured I'd give it a shot.",
       voice = 1,
       male = 2
     },
@@ -125777,37 +126124,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "许教授的熬夜理由真的很丰富。"
+      sentence = "You sure make up a lot of reasons to stay up late."
     },
     [6] = {
       next = "7",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……但我不得不提醒你，贴着的那个食谱，应该是个黑洞。"
+      sentence = "...But I gotta warn you, that recipe's kind of a black hole."
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我尝试了很多次，都没有成功，可能是我记下来的配方漏了点什么。"
+      sentence = "I've tried it so many times and never nailed it. I probably left something out when I wrote it down."
     },
     [8] = {
       next = "9",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "原来如此，如果连$u都没有成功的话，看来不是我的技术问题。",
+      sentence = "Ah, that makes sense. If even $u couldn't get it right, maybe it's not just me.",
       voice = 1,
       male = 2
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不过我有看到你留下的“厨房实验记录”，也多亏了它，才能找到了问题所在。",
+      sentence = "But I found your \"kitchen experiment log\", and it helped me track down the issue.",
       voice = 1,
       male = 2
     },
@@ -125816,23 +126163,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯？难道你成功了吗？！"
+      sentence = "Wait, seriously? You made it work?!"
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我查了下这个点心的经典配方，用料比例和你记录的相差不大。",
+      sentence = "I cross-checked some other recipe versions for this classic dessert, and the proportions weren't far off from your notes.",
       voice = 1,
       male = 2
     },
     [12] = {
       next = "13",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "在通过控制变量实验了几次后，我发现应该是家里的面粉有些问题。",
+      sentence = "After a few controlled trials, I figured out that there must be something wrong with the flour at home.",
       voice = 1,
       male = 2
     },
@@ -125841,14 +126188,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "难怪，之前怎么样都没办法让它在烤箱里“嘭”地变大……"
+      sentence = "No wonder I could never get it to puff up right in the oven..."
     },
     [14] = {
       next = "15",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不过我品尝了以后，按照你的口味又稍微改进一下那个配方。",
+      sentence = "After I tasted it, I made a few tweaks to better suit your taste.",
       voice = 1,
       male = 2
     },
@@ -125857,14 +126204,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……噗。"
+      sentence = "Haha..."
     },
     [16] = {
       next = "17",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么笑了，难道是我哪里处理得有问题吗？",
+      sentence = "What's so funny? Did I miss something?",
       voice = 1,
       male = 2
     },
@@ -125873,21 +126220,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "其实那个配方……已经是我按照许教授的口味调整过的版本了。"
+      sentence = "Actually... that recipe was the result of me trying to adjust to your taste."
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我很怀疑说不定你改回了最初的样子了哈哈哈。"
+      sentence = "I'm pretty sure you just reversed it back to the original, haha!"
     },
     [19] = {
       next = "20",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "原来我们两个人都绕了一圈。",
+      sentence = "So we've both just been going in circles.",
       voice = 1,
       male = 2
     },
@@ -125896,21 +126243,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没关系，等我回去，我们同时做送给对方的版本好了～"
+      sentence = "Doesn't matter! When I get back, let's each make a version for the other."
     },
     [21] = {
       next = "22",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这样刚好～"
+      sentence = "Sound good?"
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "看来为了避免失败，我要多练习几次。",
+      sentence = "Then I'd better practice a few more times to make sure I get it right.",
       voice = 1,
       male = 2
     },
@@ -125919,14 +126266,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不对哦，难道现在这个时间，应该更适合睡觉，而不是在厨房里“研究”吧？"
+      sentence = "Uh-uh, nope! This is bedtime, not kitchen science hour!"
     },
     [24] = {
       next = "25",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "偶尔在一些特殊的时间段里做一些不常做的事情，似乎会更有灵感一些。",
+      sentence = "Sometimes, doing something unusual at odd hours... sparks inspiration.",
       voice = 1,
       male = 2
     },
@@ -125935,23 +126282,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这是什么道理？"
+      sentence = "What kind of an excuse is that?"
     },
     [26] = {
       next = "27",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "或许是深夜时候对你的想念会更多一些……",
+      sentence = "Maybe because late at night... I end up missing you even more.",
       voice = 1,
       male = 2
     },
     [27] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "好像这份思念会让我的厨艺也变得不一样起来。",
+      sentence = "And it feels like that longing somehow makes the food taste just a little better.",
       voice = 1,
       male = 2
     }
@@ -125959,10 +126306,10 @@ data = {
   [2285] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "手工坊老板刚刚发消息给我，上次做的两个陶器已经送去烧制了，下周就可以去取。",
+      sentence = "The owner of the handicraft parlor just texted—the two pieces of pottery we made the other day are already off to be fired. They'll be ready next week.",
       voice = 1,
       male = 2
     },
@@ -125971,14 +126318,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "太好啦！不过为什么是两个，我们不是只做了一个陶杯吗？"
+      sentence = "Great! But did you just say two pieces? I thought we only made one cup."
     },
     [3] = {
       next = "4",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我请他把失败的那个也一并烧制出来，正好可以和你做的第一个陶杯一起摆在资料柜里。",
+      sentence = "I asked him to fire the botched one too, so I could put it in the filing cabinet with the first clay cup you made.",
       voice = 1,
       male = 2
     },
@@ -125987,23 +126334,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这样好像一场迷你陶艺展啊！"
+      sentence = "Sounds like a mini pottery exhibition!"
     },
     [5] = {
       next = "6",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "那下次有人问起，我就告诉他们，这是我和$u的小小陶艺展。",
+      sentence = "In that case, the next time someone asks about it, I'll tell them it's a mini pottery exhibition held by $u and me.",
       voice = 1,
       male = 2
     },
     [6] = {
       next = "7",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "可以请制作人小姐归纳它们的共同特征，为陶艺展起个名字吗？",
+      sentence = "Miss Producer, would you do the honors of summing up their common features and giving this exhibition a name?",
       voice = 1,
       male = 2
     },
@@ -126012,32 +126359,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "结合它们的共同特征……难道要叫“失误”？"
+      sentence = "Judging from their similarities… should we call it \"Slip-up\"?"
     },
     [8] = {
       next = "9",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "如果是我的话，我更愿意叫它“笑意”。",
+      sentence = "If it were up to me, I'd prefer to name it \"Smiles\".",
       voice = 1,
       male = 2
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "因为只要看到它们，我就会想起某个小姑娘灿烂的笑容。",
+      sentence = "Because they remind me of a certain young lady's bright smile every time I see them.",
       voice = 1,
       male = 2
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "就是不知道，$u在看到陶杯时，会不会和我有同样的心情呢？",
+      sentence = "I just wonder if $u feels the same way when she sees the clay cups.",
       voice = 1,
       male = 2
     },
@@ -126046,64 +126393,64 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哼，许教授又明知故问了。"
+      sentence = "Humph, Professor Lucien's faking his ignorance again."
     },
     [12] = {
       next = "13",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过，这个陶艺展的展品是不是少了点？"
+      sentence = "But then again, do you think our pottery exhibition could use some more exhibits?"
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "一下就能看完整个展览，好像不够尽兴……"
+      sentence = "It'd be more engaging if you couldn't see the whole exhibition at once..."
     },
     [14] = {
       next = "15",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我有一个方法，或许可以解决$u的烦恼。",
+      sentence = "$u, there may be a way to resolve your concerns.",
       voice = 1,
       male = 2
     },
     [15] = {
       next = "16",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "老板发消息时，还送了两张陶瓷摄影展的门票给我们，说是我们帮他看店的谢礼。",
+      sentence = "The owner also sent me two tickets for a pottery photo exhibition when he messaged me. He said it was a thank-you gift for helping him watch his store.",
       voice = 1,
       male = 2
     },
     [16] = {
       next = "17",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "展览地点就在你公司附近，今天你不加班的话，我们一起去看吧。",
+      sentence = "The venue for the exhibition is close to your office. We can go see it if you don't have to work overtime today.",
       voice = 1,
       male = 2
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "至于我们两个人的陶艺展，我想留出更多构思的时间。",
+      sentence = "As for our own pottery exhibition, I could use some time to come up with better ideas.",
       voice = 1,
       male = 2
     },
     [18] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我们可以在未来的时光中，慢慢填补展柜的空白。",
+      sentence = "We can fill the vacancies in the showcase one by one moving forward.",
       voice = 1,
       male = 2
     }
@@ -127562,10 +127909,10 @@ data = {
   [2293] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "是我，许墨。",
+      sentence = "It's me, Lucien.",
       voice = 1,
       male = 2
     },
@@ -127574,23 +127921,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "咦？怎么突然这个时间打过来？"
+      sentence = "Eh? Why are you suddenly calling me?"
     },
     [3] = {
       next = "4",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "因为我发现某位小姐今天回复信息时，语气和平时不太一样。",
+      sentence = "Because a certain young lady's messages felt different when she texted me back today.",
       voice = 1,
       male = 2
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "回想了一下最近几天你和我分享的日常，我推测或许是你心情有些低落。",
+      sentence = "From what she told me about her past few days, I assumed she might be upset.",
       voice = 1,
       male = 2
     },
@@ -127599,21 +127946,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……就知道瞒不过你。其实比起低落，更像是有些精神上的疲惫。"
+      sentence = "...I knew you'd see me through. But, I'd say I'm more tired than upset."
     },
     [6] = {
       next = "7",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以整个人脑子都钝钝的。"
+      sentence = "So my brain feels all foggy."
     },
     [7] = {
       next = "8",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "如果是这样的话……要不要找一个“恢复壁龛”，先休息一会儿？",
+      sentence = "If that's the case... maybe find a \"restorative niche\" and take a break for now?",
       voice = 1,
       male = 2
     },
@@ -127622,32 +127969,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "恢复壁龛？"
+      sentence = "What's that?"
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这是一位心理学家提出的名词，指一个能让你重拾自己，为自己“充充电”的地方。",
+      sentence = "It's a concept created by a psychologist. It's where you reconnect with your true self and recharge.",
       voice = 1,
       male = 2
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "比如你的房间，家里有阳光的客厅一角。",
+      sentence = "It could be your bedroom, a corner of your living room with sunlight;",
       voice = 1,
       male = 2
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "也可以是某种更抽象的东西，像是我们都喜欢的歌曲和电影。",
+      sentence = "Or something abstract, like a song or movie that you're fond of.",
       voice = 1,
       male = 2
     },
@@ -127656,14 +128003,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "怎么光是听起来就觉得心里暖暖的了……那你也有这样一个地方吗？"
+      sentence = "Just thinking about it makes me feel warm inside... So, do you have a \"restorative niche\", too?"
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "当然有。现在离我最近的一个，是办公室里书架旁边的小桌子。",
+      sentence = "Sure. The one closest to me now is the small table by the bookshelf in my office.",
       voice = 1,
       male = 2
     },
@@ -127672,23 +128019,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗……不愧是许教授，在自己的办公室里就可以“恢复”。"
+      sentence = "Haha, good for you, Professor Lucien. You can recharge right in your office."
     },
     [15] = {
       next = "16",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟这里是我最熟悉的地方之一。",
+      sentence = "Well, this is one of the places I'm most familiar with.",
       voice = 1,
       male = 2
     },
     [16] = {
       next = "17",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "书架上也被我偷偷放了很多和研究无关，只是我自己喜欢的书。",
+      sentence = "And I snuck a lot of personal favorites onto the bookshelf that have nothing to do with my work.",
       voice = 1,
       male = 2
     },
@@ -127697,23 +128044,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇，下次到你办公室时我一定要好好找找看。"
+      sentence = "Wow, I'm gonna look for them next time I'm there."
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "非常欢迎，欢迎你把你喜欢的书也加入进去。",
+      sentence = "You're welcome to include your favorite books there, too.",
       voice = 1,
       male = 2
     },
     [19] = {
       next = "20",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟这个角落里，还住着不少你送给我的办公用品和小装饰。",
+      sentence = "After all, a lot of the office supplies and ornaments you gave me are also in this corner.",
       voice = 1,
       male = 2
     },
@@ -127722,21 +128069,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "原来这就是最能让你安心的地方之一。"
+      sentence = "That's what a safe place of yours is like."
     },
     [21] = {
       next = "22",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "如果是这样的话……许教授现在有空，帮我搭一个恢复壁龛吗？"
+      sentence = "If so... do you have time to help me build a restorative niche now, Professor Lucien?"
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "需要我做什么？",
+      sentence = "What do you need?",
       voice = 1,
       male = 2
     },
@@ -127745,30 +128092,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "就这么再继续说会儿话吧。"
+      sentence = "Just keep talking with me like this."
     },
     [24] = {
       next = "25",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "每次在你身边的时候，我都会觉得安心很多。"
+      sentence = "I always feel more relaxed when I'm with you."
     },
     [25] = {
       next = "26",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "当然可以。或者你也可以选择开一个线上会议室，把我们都“放进去”。",
+      sentence = "Of course, anytime. Or you can create a chat room online just for the two of us.",
       voice = 1,
       male = 2
     },
     [26] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我会一直陪伴在你身边。",
+      sentence = "I'll always be here for you.",
       voice = 1,
       male = 2
     }
@@ -127776,10 +128123,10 @@ data = {
   [2294] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "今天需要加班吗？",
+      sentence = "Are you working late today?",
       voice = 1,
       male = 2
     },
@@ -127788,14 +128135,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不用~是有什么特别的安排吗？"
+      sentence = "No. Why? Do you have something special planned?"
     },
     [3] = {
       next = "4",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我刚刚收到了一份跨国包裹，是我们之前在卡弗山庄农场一起酿的苹果酒。",
+      sentence = "I just got a package from overseas. It's the cider we brewed together at Carver Hill Farm.",
       voice = 1,
       male = 2
     },
@@ -127804,23 +128151,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇！它已经完成酿造了吗！"
+      sentence = "Wow! It's fermented already?"
     },
     [5] = {
       next = "6",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，加上漂洋过海的这段时间，发酵得应该刚刚好。",
+      sentence = "Yeah, considering the time it took to ship overseas, the fermentation should be just right.",
       voice = 1,
       male = 2
     },
     [6] = {
       next = "7",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "所以如果今晚没有其他事情，就来品尝一下这瓶我们一起酿成的果酒吧。",
+      sentence = "So, I'm thinking we should try the cider together if you're free tonight.",
       voice = 1,
       male = 2
     },
@@ -127829,39 +128176,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好耶！当时一起酿酒的时候，我还很担心能不能成功呢。"
+      sentence = "Sounds great! I was worried if it'd even ferment when we made it together."
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "毕竟榨出果汁，加入酵母之后，一切都只能听天由命了……"
+      sentence = "After all, the fermentation was out of our hands after we juiced the apples and added yeast..."
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "确实，在酿酒这件事上，就算完全遵循既定的制作流程，也无法保证结果。",
+      sentence = "You're right, but that's how brewing works. Even if we follow every step, there's no guarantee.",
       voice = 1,
       male = 2
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "或许会成功，或许会失败，又或许会获得某种意外之喜。",
+      sentence = "It might work or fail. Or the result could be a pleasant surprise.",
       voice = 1,
       male = 2
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "但这个过程也足够让人期待了。",
+      sentence = "The anticipation in itself is worth it.",
       voice = 1,
       male = 2
     },
@@ -127870,14 +128217,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "听上去倒似乎有些像你做实验的流程。"
+      sentence = "It sounds kind of like one of your experiments."
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "那我们的酒一定会很美味。毕竟与你有关的实验，我好像很少会失败。",
+      sentence = "Then our cider must be great. I rarely fail my experiments with you.",
       voice = 1,
       male = 2
     },
@@ -127886,21 +128233,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，那就等晚上见分晓吧！"
+      sentence = "He-he, we'll see tonight."
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过……许教授，我有问题。"
+      sentence = "But, Professor Lucien... I have a question."
     },
     [16] = {
       next = "17",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这位同学请说。",
+      sentence = "And what would that be?",
       voice = 1,
       male = 2
     },
@@ -127909,57 +128256,57 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "如果是品尝香槟，一般会搭配水果和奶酪；如果是茶，也会准备茶点。"
+      sentence = "We usually pair champagne with fruits and cheese. For tea, we get desserts."
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那品鉴苹果酒需要准备些什么小吃呢？"
+      sentence = "So, what food should we prepare for our cider tasting party?"
     },
     [19] = {
       next = "20",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "苹果酒度数不高，我们酿制的这一种也更类似于轻微发酵的果汁。",
+      sentence = "Cider isn't too strong, and the kind we made is closer to fermented juice than alcohol.",
       voice = 1,
       male = 2
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "所以不妨用最“家庭”的方式来饮用它吧。",
+      sentence = "So, why don't we taste it in the most couple-like way?",
       voice = 1,
       male = 2
     },
     [21] = {
       next = "22",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "挑选一部我们都喜欢的电影，在客厅支起一张小桌子……",
+      sentence = "Let's pick a favorite movie, put up a small table in the living room...",
       voice = 1,
       male = 2
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "然后放上其他我们带回来的苹果制品和你喜欢的食品。",
+      sentence = "And fill it with the apple products we brought home and your favorite snacks.",
       voice = 1,
       male = 2
     },
     [23] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "来一场“午夜野餐会”，你觉得如何？",
+      sentence = "It'll be a midnight picnic. What do you think?",
       voice = 1,
       male = 2
     }
@@ -128483,10 +128830,10 @@ data = {
   [2298] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "喂，是我。圆桌会议刚刚结束，我已经收拾好东西在往回走了。",
+      sentence = "Hey, it's me. The conference just ended. I've packed up, and I'm heading back now.",
       voice = 1,
       male = 2
     },
@@ -128495,14 +128842,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "许教授辛苦啦，今天的会议演讲还顺利吗？"
+      sentence = "How'd your lecture go, Professor Lucien?"
     },
     [3] = {
       next = "4",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "整体还算顺利，学者们提出了不少有趣见解，对后续的实验很有启发，只是会议中途发生了一点小插曲。",
+      sentence = "Overall, pretty well. The scholars brought up some interesting points. They gave me a lot to think about for future experiments. It's just there was a small hiccup in the middle, though.",
       voice = 1,
       male = 2
     },
@@ -128511,14 +128858,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "听你的语气，应该不是什么坏事？"
+      sentence = "It doesn't sound really bad from your tone."
     },
     [5] = {
       next = "6",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，实习生在预定会议茶歇时，没有准备咖啡或普通的茶，而是点了奶茶。",
+      sentence = "Not really. The intern who arranged the coffee break didn't order coffee or tea... She brought boba tea instead.",
       voice = 1,
       male = 2
     },
@@ -128527,39 +128874,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗，我记得你说过，与会学者大多是德高望重的老教授……"
+      sentence = "Haha. Didn't you say most of the attendees were old professors?"
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "他们应该很少喝奶茶吧？"
+      sentence = "I can't imagine them drinking boba tea."
     },
     [8] = {
       next = "9",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "好像是这样。据我所知，教授们虽然知道奶茶在年轻人中很流行，但很少亲自尝试。",
+      sentence = "That's right. They knew it was popular with younger people, but most of them had never actually tried it.",
       voice = 1,
       male = 2
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不仅如此，与会的还有很多外国学者，光从奶茶名字和配料表，他们无法看出奶茶的味道。",
+      sentence = "And there were plenty of foreign scholars, too. From the names alone, they couldn't predict what the flavors would be.",
       voice = 1,
       male = 2
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "幸好在你的耳濡目染下，我对奶茶还算有研究。最后我只能给大家一一介绍，根据他们的口味推荐奶茶。",
+      sentence = "Fortunately, thanks to you, I've had my fair share of them. So I ended up introducing the options and recommending flavors for everyone.",
       voice = 1,
       male = 2
     },
@@ -128568,21 +128915,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈，原来今天的许教授还兼职了奶茶推荐官！"
+      sentence = "Haha, so Professor Lucien also worked as a boba tea guide today?"
     },
     [12] = {
       next = "13",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你都是怎么说的？"
+      sentence = "What did you even say to them?"
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "比如……“这款栗子奶茶茶香浓郁，栗子蓉口感绵密香甜，喝一口就像掉进秋天里一样。”",
+      sentence = "Something like... \"This chestnut boba tea has a strong tea base, with a smooth, sweet chestnut paste. One sip and it feels like autumn.\"",
       voice = 1,
       male = 2
     },
@@ -128591,30 +128938,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这不是上周我们一起喝奶茶时，我对它们的评价嘛！"
+      sentence = "Hey! That's exactly what I said last week when we had it!"
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这位推荐官偷偷夹带私货哦~"
+      sentence = "You totally stole my review, Professor Lucien~"
     },
     [16] = {
       next = "17",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟如果是我来介绍，大概只会有“红茶茶底”和“含有1/4杯栗蓉”这样刻板的内容。",
+      sentence = "If it were me, I'd probably just say \"black tea base, with a quarter cup of chestnut purée.\" Not very persuasive.",
       voice = 1,
       male = 2
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "为了让大家选到心仪的奶茶，我想还是你的介绍更生动。",
+      sentence = "Your descriptions were much more vivid, so I borrowed them.",
       voice = 1,
       male = 2
     },
@@ -128623,23 +128970,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那大家喜欢这些奶茶吗？"
+      sentence = "So, did they like it?"
     },
     [19] = {
       next = "20",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "他们很喜欢。以往会议结束后，大家会继续讨论学术问题，今天却在问我“还推荐什么奶茶”。",
+      sentence = "They did. Normally, after meetings, everyone lingers to talk about research. Today, all they wanted to know was other boba tea I'd recommend.",
       voice = 1,
       male = 2
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我把你喜欢的奶茶名单发给了他们，他们似乎打算周末组团去品尝。",
+      sentence = "I even sent them your favorites list. A few of them might go try it together this weekend.",
       voice = 1,
       male = 2
     },
@@ -128648,14 +128995,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这么说来，我才是正牌奶茶推荐官嘛！"
+      sentence = "Guess I'm the real boba tea expert here!"
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "确实如此，不知道这位推荐官小姐，可以再帮我推荐一款奶茶吗？",
+      sentence = "Exactly. So, Miss Boba Tea Expert, would you recommend one more for me?",
       voice = 1,
       male = 2
     },
@@ -128664,14 +129011,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然可以啦，有什么要求吗？"
+      sentence = "Of course. Got any preferences?"
     },
     [24] = {
       next = "25",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我马上就到你最喜欢的奶茶店了，准备带一杯奶茶去找你。你是更想喝之前喝过的，还是想试试新品呢？",
+      sentence = "I'm almost at your favorite shop. Thought I'd pick one up for you. Do you want the usual, or something new?",
       voice = 1,
       male = 2
     },
@@ -128680,23 +129027,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "想试试新品！要不你在店里等我一下，我们一起看看？"
+      sentence = "Definitely a new one! Why don't you wait for me? I'll head over and we can choose together!"
     },
     [26] = {
       next = "27",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "好，正好在介绍奶茶时，我发现原来我们还有很多口味没有尝试过。",
+      sentence = "Sounds good. When I was looking over the menu today, I realized there are a lot that we still haven't tried.",
       voice = 1,
       male = 2
     },
     [27] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "今天，或许可以填补少许空白，品尝更多未知的滋味。",
+      sentence = "Maybe tonight we can fill in a few blanks, and see what new tastes we'll find.",
       voice = 1,
       male = 2
     }
@@ -128704,19 +129051,19 @@ data = {
   [2299] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "早上有一份快递寄到了研究所，拆开之后是一本旅行杂志。",
+      sentence = "A package showed up at the research center this morning. It's a travel magazine.",
       voice = 1,
       male = 2
     },
     [2] = {
       next = "3",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我猜应该与某位小姐有关？",
+      sentence = "I'm guessing it belongs to a certain young lady?",
       voice = 1,
       male = 2
     },
@@ -128725,21 +129072,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "！！！是我的杂志！应该是上次我给你买过东西后忘了改地址，寄到你那里了。"
+      sentence = "That's mine! I must've forgotten to change the address after I bought you something last time."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你下班的时候帮我带回来吧~"
+      sentence = "Can you bring it back after work?"
     },
     [5] = {
       next = "6",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "好。刚刚我翻了一下，这本杂志好像是前年出版的，你怎么突然想起买一本旧刊？",
+      sentence = "Sure. I just flipped through—it's from a couple years ago. Why order an old issue?",
       voice = 1,
       male = 2
     },
@@ -128748,21 +129095,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "因为这本杂志这两年销量一直不太好，最近终于宣布停刊了。"
+      sentence = "The magazine hasn't been doing well. They just announced they're shutting down."
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我就从过往期刊里选了一本感兴趣的，买回来留作纪念。"
+      sentence = "So I grabbed a past issue I like and kept it as a little souvenir."
     },
     [8] = {
       next = "9",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "原来是这样，那我猜……引起你兴趣的，会不会也是副刊里的自驾游路线呢？",
+      sentence = "I see. Let me guess, the feature that caught your eye was also the one about  the road trip?",
       voice = 1,
       male = 2
     },
@@ -128771,39 +129118,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没错，就是它！"
+      sentence = "Yep!"
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等等，既然是“也”的话，说明许教授也很喜欢这条路线？"
+      sentence = "What do you mean by \"also\"? You liked that one, too?"
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "是的，看到这条自驾游路线的名字叫做“雪月花之路”，我想起了以前读过的诗。",
+      sentence = "Yes. The route was called \"The Road of Snow, Moon, and Flowers.\"",
       voice = 1,
       male = 2
     },
     [12] = {
       next = "13",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "里面有一句诗，“琴诗酒伴皆抛我，雪月花时最忆君”。",
+      sentence = "It reminded me of an old verse: \"My friends of music, poetry, and wine have left me; in times of snow, moon, and flowers, I think of you the most.\"",
       voice = 1,
       male = 2
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这条线路和诗里的意象很相似，所以我推测，应该是这一点吸引了你。",
+      sentence = "The imagery matched perfectly. I thought that's what drew you to it.",
       voice = 1,
       male = 2
     },
@@ -128812,55 +129159,55 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "答对啦，这条线路的卖点就是不论什么时候，都能看到雪、月、花的美景。"
+      sentence = "Right on! The route promises views of snow, the moon, and flowers all in one trip."
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "一下赏遍最浪漫的三种景色，真的很吸引人~"
+      sentence = "It sounded so romantic and attractive."
     },
     [16] = {
       next = "17",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "可惜最近我有个新企划，你也有实验要忙，只能看着杂志，想象我们去玩的场景了。"
+      sentence = "Too bad I've got a new project and you're buried in experiments. All I can do is imagine it with the magazine for now."
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "好，那我们就一起来想象吧。杂志上说，路线的起点是一座宁静的海滨小城……",
+      sentence = "Then let's imagine it together. It starts in a quiet seaside town...",
       voice = 1,
       male = 2
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "如果我们从小城出发，沿着盘山公路不断向上，你可能会趴在车窗上，欣赏两侧高山上的皑皑白雪。",
+      sentence = "We'd drive up the winding mountain roads, you leaning against the window and watching the snowy peaks.",
       voice = 1,
       male = 2
     },
     [19] = {
       next = "20",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "等抵达公路尽头的谷地，月亮也差不多升了起来。我们支开露营帐篷，在盛开着的各色花卉中聊天、烧烤。",
+      sentence = "By the time we reached the valley, the moon would be rising. We'd set up a tent among the flowers, talking and grilling barbecue under the night sky.",
       voice = 1,
       male = 2
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "对了，我刚刚在网上看到，那里新移栽了不少行道树，这个季节去，应该还可以看到美丽的秋叶。",
+      sentence = "That reminds me. I just read that they planted new rows of trees along the road. If we go this season, we'd catch the autumn leaves too.",
       voice = 1,
       male = 2
     },
@@ -128869,14 +129216,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜呜被许教授这么一说，更让人心动了！"
+      sentence = "Ugh, you're making it sound even harder to resist!"
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "那么，不如就等你的企划走上正轨，我也空出时间，一起去雪月花之路自驾游吧？正好稍微休息一下。",
+      sentence = "Then stop resisting. Once your project settles and I free up some time, let's go there together. A short break will do us good.",
       voice = 1,
       male = 2
     },
@@ -128885,32 +129232,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好啊！那我可要从现在开始每天挤点时间出来，做做自驾游的攻略了……"
+      sentence = "Deal! I'll start squeezing in time every day to plan the trip!"
     },
     [24] = {
       next = "25",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "既然由你发起了邀请，详细的攻略就交给我如何？",
+      sentence = "Since you were the one who invited me, can I take over the job for trip planning?",
       voice = 1,
       male = 2
     },
     [25] = {
       next = "26",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我想经过这么多次旅行，我应该可以做出一份让我们都很满意的攻略。",
+      sentence = "After so many trips, I should be able to put together something we'll both enjoy.",
       voice = 1,
       male = 2
     },
     [26] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这一点，就等我交出“答卷”的时候，请$u老师评价吧。",
+      sentence = "When it's ready, I'll hand in my \"assignment\" and let Miss $u grade it.",
       voice = 1,
       male = 2
     }
@@ -129339,19 +129686,19 @@ data = {
   [2302] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "今天大制作人似乎格外忙碌，一直都没有回消息。",
+      sentence = "You've been unusually quiet today, Miss Producer.",
       voice = 1,
       male = 2
     },
     [2] = {
       next = "3",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "是有什么新的拍摄项目吗？",
+      sentence = "Busy with a new project?",
       voice = 1,
       male = 2
     },
@@ -129360,28 +129707,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜，刚刚开完会又和同事们聊了一会儿，才刚看手机。"
+      sentence = "Ugh, I just got out of a meeting and ended up chatting with some coworkers. Just got time to check my phone."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你知道吗？悦悦最近发现，公司附近有大学开设了艺术夜校，每周上两小时的课。"
+      sentence = "Kiki found out there's a university near our office, which offers night art classes two hours a week."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "说着说着，大家就讨论起来要不要一起去学点什么。"
+      sentence = "That got everyone talking about maybe signing up together for something fun."
     },
     [6] = {
       next = "7",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "那其中你也有什么感兴趣的课程吗？",
+      sentence = "That sounds interesting. Was there anything in particular you were thinking of taking?",
       voice = 1,
       male = 2
     },
@@ -129390,39 +129737,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "与其说感兴趣……不如说不少课程听上去很有趣。"
+      sentence = "Well, there were a bunch of courses that sounded super fun."
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "比如插花、珠宝鉴赏、塔罗牌、奇门遁甲，还有魔术呢！"
+      sentence = "Like flower arranging, jewelry appraisal, tarot reading, and even magic tricks!"
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "听上去确实很有意思。",
+      sentence = "Those do sound fascinating.",
       voice = 1,
       male = 2
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "要是报名没有什么条件限制的话，或许我们可以一起去上个你感兴趣的课程。",
+      sentence = "If enrollment's open to anyone, maybe we can take a class together.",
       voice = 1,
       male = 2
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这样也好互相监督，不要因为沉迷工作而“翘课”。",
+      sentence = "That way, we can make sure none of us skips class due to work.",
       voice = 1,
       male = 2
     },
@@ -129431,21 +129778,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈，没想到我拥有了和某位学霸同学一起长期上课的机会~"
+      sentence = "Hahaha, I never thought I'd get to go to the same class with a top student like you."
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那我们一起选什么课好呢？"
+      sentence = "So... which class should we pick?"
     },
     [14] = {
       next = "15",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "插花听上去不错，可以让阳台的花草用更亲密的形式陪在我们身边。",
+      sentence = "Flower arranging could be nice. It'd let the flowers on our balcony feel a little more... personal.",
       voice = 1,
       male = 2
     },
@@ -129454,30 +129801,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "到时候还可以送你我自己扎的花！每周我们都可以更换阳台上的样式~"
+      sentence = "Ooh, and I can make you custom bouquets! And we can switch up the vibe on the balcony every week."
     },
     [16] = {
       next = "17",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "许教授对塔罗牌感兴趣吗？"
+      sentence = "How about tarot cards? You into divination, Professor Lucien?"
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "当然。神秘学背后的历史人文沉淀向来是非常有趣的课题。",
+      sentence = "Of course. The history and cultural roots behind mysticism have always fascinated me.",
       voice = 1,
       male = 2
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "或许通过塔罗，我也能更清晰地看懂这位小姐的心思。",
+      sentence = "And who knows... maybe tarot will help me better understand what a certain young lady's thinking from time to time.",
       voice = 1,
       male = 2
     },
@@ -129486,32 +129833,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "在了解我这件事上，说不定反而是塔罗牌需要请教你哦？"
+      sentence = "If it's about understanding me, I think the tarot cards should get lessons from you instead."
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "那不如我们一起去学习魔术吧。",
+      sentence = "In that case, how about we try the magic class?",
       voice = 1,
       male = 2
     },
     [21] = {
       next = "22",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "既能偶尔为你准备一些小惊喜，也可以和你一起锻炼手部力量，活动手指。",
+      sentence = "I could use a few tricks up my sleeve to surprise you once in a while, and it's a great way to keep our fingers nimble.",
       voice = 1,
       male = 2
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "避免长期工作积压的手部压力。",
+      sentence = "We could both use something to alleviate the hand fatigue from all that work.",
       voice = 1,
       male = 2
     },
@@ -129520,41 +129867,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇……许教授居然连保健的双重效果都考虑到了！"
+      sentence = "Wow... you're even factoring in health benefits now? That's some next-level planning, Professor Lucien."
     },
     [24] = {
       next = "25",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我还想到……如果我操控魔术道具的水平不够高，可以正大光明请你帮帮我。",
+      sentence = "It also occurred to me... that I can ask for your help if I mess up my sleight of hand.",
       voice = 1,
       male = 2
     },
     [25] = {
       next = "26",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "作为另一位优秀的魔术师，与我一起完成整个魔术的设计与表演。",
+      sentence = "As another fellow magician, you can help me design and perform the entire show.",
       voice = 1,
       male = 2
     },
     [26] = {
       next = "27",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "一起研究表演效果，一起为对方弥补失误。",
+      sentence = "We can sample different tricks, cover each other's slip-ups.",
       voice = 1,
       male = 2
     },
     [27] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "也一起……分享只有彼此知道的秘密。",
+      sentence = "And... we can share secrets only the two of us would know.",
       voice = 1,
       male = 2
     }
@@ -129562,19 +129909,19 @@ data = {
   [2303] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "之前我们一起参加游戏的工作室把小礼品一并寄到生科所了。",
+      sentence = "The game studio from last time sent their souvenirs to my office.",
       voice = 1,
       male = 2
     },
     [2] = {
       next = "3",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "晚上回家时，我就把它们带回来。",
+      sentence = "I'll bring them home tonight.",
       voice = 1,
       male = 2
     },
@@ -129583,14 +129930,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "竟然还有小礼品，都有些什么东西呀？"
+      sentence = "Wait, there are souvenirs? What'd they send?"
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "除了故事设定书之外，有一枚红色的水晶心脏，还有一个木枷人偶。",
+      sentence = "Besides a lore book, there's a red crystal heart... and this little wooden doll.",
       voice = 1,
       male = 2
     },
@@ -129599,14 +129946,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，听起来应该是对应我们角色的小礼物。"
+      sentence = "Hehe, sounds like they're based on our characters!"
     },
     [6] = {
       next = "7",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "工作室还送了几个角色盲盒，应该是追随着你这位女王陛下回家的“臣民”了。",
+      sentence = "They also threw in a few mystery boxes. I guess some of your loyal subjects decided to follow their queen home.",
       voice = 1,
       male = 2
     },
@@ -129615,30 +129962,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不如你现在就拆开，告诉我都拆出了些什么吧？"
+      sentence = "Why not open them now? Tell me what you got!"
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "看一看到底都是哪些玩具对我这么忠诚~"
+      sentence = "Let's see who my most loyal subjects are."
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯……有你最爱的宠物：一只腊肠弹簧狗；你尽职的书记官：一支羽毛笔；",
+      sentence = "Hmm...There's your favorite pet, the slinky dachshund. Your hardworking scribe, the feathered quill.",
       voice = 1,
       male = 2
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "还有你的小侍女：一颗水晶球；最后是你忠心的护卫：玩具士兵。",
+      sentence = "Your adorable handmaiden, the crystal ball. And your ever-loyal guard, the toy soldier.",
       voice = 1,
       male = 2
     },
@@ -129647,23 +129994,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你对这些玩具的设定好熟悉……"
+      sentence = "Wow, you actually remembered their backstories?"
     },
     [12] = {
       next = "13",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "因为我的角色设定就是需要记住那些玩具的身份，毕竟我是这个故事的讲述者。",
+      sentence = "Well, my role was the narrator. I had to memorize who's who.",
       voice = 1,
       male = 2
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "而且我也没法预先知道，我的小姑娘到底抽到了什么角色。",
+      sentence = "That, and I had no way of knowing what role you were gonna end up with.",
       voice = 1,
       male = 2
     },
@@ -129672,39 +130019,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗……不愧是你。如果是我的话，一定完全没办法在那么短的时间内记住……"
+      sentence = "Haha, that's so you. If it were me, I'd forget everything in like five minutes..."
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以这些玩具臣民们还有什么有趣的设定吗？"
+      sentence = "So, got any more fun backstories for these little toy minions?"
     },
     [16] = {
       next = "17",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "弹簧狗每晚都会写日记，要是被别人发现了日记本，会非常害羞，四处逃窜。",
+      sentence = "The slinky dachshund writes in a diary every night. If anyone finds it, he gets super shy and runs off to hide.",
       voice = 1,
       male = 2
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "水晶球里的小人可以操控水晶球的景象，不过它有些笨笨的，记不住事情。",
+      sentence = "The guy inside the crystal ball can control what it shows... but he's kind of clueless and forgets stuff all the time.",
       voice = 1,
       male = 2
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "羽毛笔伶牙俐齿，但会无条件遵循女王说出的话。",
+      sentence = "The feathered quill is sharp-tongued, but will follow whatever the queen says—no questions asked.",
       voice = 1,
       male = 2
     },
@@ -129713,46 +130060,46 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈哈，好可爱！等你回来，我一定要好好看看设定书。"
+      sentence = "Hahaha, that's so cute!"
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过现在想想，还好我没有抽到其他角色。"
+      sentence = "Now that I think about it, thank goodness I didn't get any of those characters."
     },
     [21] = {
       next = "22",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不然我的“弱点”就要被你精准拿捏，反抗难度就变得更高了！"
+      sentence = "Otherwise, you'd know my weaknesses inside and out!"
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我倒反而觉得，就算我做了再多准备，知道了你所有的弱点……",
+      sentence = "Even if I had all your weaknesses figured out...",
       voice = 1,
       male = 2
     },
     [23] = {
       next = "24",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "在真正面对你时，只要稍不留意就会落到下风。",
+      sentence = "The moment I'm actually up against you, one tiny slip and it would be game over for me.",
       voice = 1,
       male = 2
     },
     [24] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不论是这次游戏，还是更早之前，最让我不知如何是好的对手，一直都是你。",
+      sentence = "Whether it was this game or anything before it, you've always been the one person who can completely throw me off.",
       voice = 1,
       male = 2
     }
@@ -129760,10 +130107,10 @@ data = {
   [2304] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我收到了你发来的电子邮件，看起来像是一些关于生日的线索。",
+      sentence = "I got your email. It looks like a clue about my birthday.",
       voice = 1,
       male = 2
     },
@@ -129772,39 +130119,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是的！是我在网上找到的一个文字开源游戏，我把它改了改~"
+      sentence = "Yep! I found an open-source text-based game online and gave it a little tweak."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你可以从0岁开始，随机生成小小许墨的“人生”！"
+      sentence = "You can randomly generate a life for Young Lucien, starting from birth!"
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，就在刚刚，我已经完成了两次结局。",
+      sentence = "Well, I already finished two endings just now.",
       voice = 1,
       male = 2
     },
     [5] = {
       next = "6",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "第一次，小许墨在三岁的时候，不慎被天外来客的飞行器抓走，从此离开了地球。",
+      sentence = "The first time, Young Lucien was taken by a UFO at the age of 3 and left Earth forever.",
       voice = 1,
       male = 2
     },
     [6] = {
       next = "7",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "第二次，小许墨在十六岁的时候，收到了神秘的录取通知书，没有人知道他去了哪里。",
+      sentence = "The second time, Young Lucien received an offer into a mysterious academy at the age of 16, and no one heard from him again.",
       voice = 1,
       male = 2
     },
@@ -129813,23 +130160,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗，是不是游戏的随机值设计得太苛刻了，要不我还是修改一下……"
+      sentence = "Haha, is the game a bit too random? Should I change it up..."
     },
     [8] = {
       next = "9",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不用，我很喜欢这个难度。正是这些随机性，让我觉得很有趣味。",
+      sentence = "No, I like the way it is. The randomness makes the game more fun for me.",
       voice = 1,
       male = 2
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我现在开启了三周目，这一次，我决定把分配给智力的15点数值，分给运气一些。",
+      sentence = "I'm starting my third run. This time, I'm allocating some of the 15 Intelligence points to Luck.",
       voice = 1,
       male = 2
     },
@@ -129838,32 +130185,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "原来许教授之前一直把数值都放到了同一栏里！怪不得总有一些神秘过头的经历……"
+      sentence = "So, Professor Lucien has been putting all his eggs in one basket! Now that explains those mysterious experiences..."
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我只是下意识地想要去实验这个小游戏的边界处理，没想到真的有收获。",
+      sentence = "It's just in my nature to test the margins of the game. I didn't know it would actually work.",
       voice = 1,
       male = 2
     },
     [12] = {
       next = "13",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "虽然这些结局让游戏的可玩性变高了很多，不过这一次，我想让游戏持续得再久一点。",
+      sentence = "These endings do make the game more playable, but this time, I want it to last longer.",
       voice = 1,
       male = 2
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这样一来，或许就可以在游戏里也遇到你了。",
+      sentence = "That way, maybe I can meet you in the game, too.",
       voice = 1,
       male = 2
     },
@@ -129872,30 +130219,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，你可以期待哦！"
+      sentence = "Hehe, you can look forward to it."
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "怎么样，你第三周目玩到多少岁了？"
+      sentence = "So? How old are you in your third run?"
     },
     [16] = {
       next = "17",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "……嗯，我已经发明了长生药丸，来到了两百岁，却还是没有遇到小姑娘。",
+      sentence = "...I've invented a longevity pill and lived 200 years, but still no sign of you.",
       voice = 1,
       male = 2
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我是走在正确的路线上吗？",
+      sentence = "Am I on the right path?",
       voice = 1,
       male = 2
     },
@@ -129904,30 +130251,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗！我虽然设置了相遇，却没有设计年限，想让可玩性再强一些……"
+      sentence = "Haha, I did design our meeting, but to give it more freedom, I didn't limit when we would meet..."
     },
     [19] = {
       next = "20",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "总感觉好像玩脱了……"
+      sentence = "Guess it's too much freedom..."
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "没关系，游戏里的许墨小朋友已经遇到你了，在五百岁的时候。",
+      sentence = "It's alright, though. Lucien finally met you in the game at the age of 500.",
       voice = 1,
       male = 2
     },
     [21] = {
       next = "22",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "然后，在生日这天，我和你同时向对方告白，度过了愉快的一生。",
+      sentence = "On my birthday, you and I both confessed our feelings and then lived happily ever after.",
       voice = 1,
       male = 2
     },
@@ -129936,32 +130283,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈那就好那就好……那你喜欢这条成为发明家的“人生路线”吗？"
+      sentence = "Hahaha, that's good... So, do you like this life as an inventor?"
     },
     [23] = {
       next = "24",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "喜欢。我喜欢一切，和你命中注定的相遇。",
+      sentence = "I do. I like everything, especially our destined meeting.",
       voice = 1,
       male = 2
     },
     [24] = {
       next = "25",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我等下就到家，到时候，我想邀请你和我一起，探索小许墨的其他可能——",
+      sentence = "I'll be home soon. When I'm home, I'm going to invite you to explore other possibilities for our young Lucien with me—",
       voice = 1,
       male = 2
     },
     [25] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "以及每一次，与你在生日这天共度的时光。",
+      sentence = "And the time we spend together on every birthday.",
       voice = 1,
       male = 2
     }
@@ -129969,11 +130316,10 @@ data = {
   [2306] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "是我，你已经买到奶茶了吗？糕点铺这边排队的人有点多，我还要过一会儿才能排到。",
-      voice = 1,
+      sentence = "Hey, it's me. Any luck with the milk tea? My line at the pastry shop is barely moving.",
       male = 2
     },
     [2] = {
@@ -129981,22 +130327,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没有，我也还在等号呢。不过我好像听到店员说，你之前选的那款奶茶售罄了。"
+      sentence = "Nope, still in line. Oh, and bad news—I just overheard the staff say your first choice is sold out."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以问问你，想换成什么其他的吗？"
+      sentence = "Any second choice?"
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "那就换成如意奶茶吧。",
-      voice = 1,
+      sentence = "Let's go with Ruyi Milk Tea.",
       male = 2
     },
     [5] = {
@@ -130004,40 +130349,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好！！"
+      sentence = "Sounds good!"
     },
     [6] = {
       next = "7",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过我还没介绍奶茶种类，你竟然就已经就决定好了，莫非你早就有了PLAN B？"
+      sentence = "Wait, I didn't even get to list the options and you've already decided? Did you have a secret backup plan?"
     },
     [7] = {
       next = "8",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这倒没有，只是如意奶茶是这里的招牌饮品。",
-      voice = 1,
+      sentence = "No secret plan. Just observation. It's their signature drink for a reason.",
       male = 2
     },
     [8] = {
       next = "9",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不仅各种宣传里经常出现，而且在我们来这里的路上，拿着饮品的游客中有超过三分之一的人选择了它。",
-      voice = 1,
+      sentence = "It's plastered all over their ads, and based on the crowd we passed, I'd estimate a third of the customers were carrying one.",
       male = 2
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "所以我推测，它的味道应该不会太差。",
-      voice = 1,
+      sentence = "Logically, it shouldn't be too bad.",
       male = 2
     },
     [10] = {
@@ -130045,33 +130387,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗，不愧是许教授，好细致的观察，好科学严谨的思路！"
+      sentence = "Hah, you and your meticulous attention to detail. Never change."
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "其实我正好也有一个问题，需要你的思路帮忙。",
-      voice = 1,
+      sentence = "Actually, I need your perspective here.",
       male = 2
     },
     [12] = {
       next = "13",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "虽然我们根据网上的推荐列了一份糕点清单，但店门口的立牌上有一些新的糕点。",
-      voice = 1,
+      sentence = "So, we came with that list from online, but there's a new display up front with some special flavors.",
       male = 2
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "据说是经过改良的特色口味，我猜或许你会想试一试？",
-      voice = 1,
+      sentence = "They're supposed to be new and improved. I had a feeling that would catch your interest.",
       male = 2
     },
     [14] = {
@@ -130079,15 +130418,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "想试~都有什么啊？"
+      sentence = "Yes! What kinds?"
     },
     [15] = {
       next = "16",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "有梅花糕、海棠糕、鸳鸯糕，还有状元糕。",
-      voice = 1,
+      sentence = "Plum Blossom, Begonia, Mandarin Duck, and Top Scholar.",
       male = 2
     },
     [16] = {
@@ -130095,22 +130433,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "光是这么说，我好像想象不出来它们的味道……"
+      sentence = "Just from the names, it's hard to guess..."
     },
     [17] = {
       next = "18",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我们干脆换种思路，看眼缘“盲选”一下，说不定会选到意料之外的美味呢~"
+      sentence = "Hey, let's switch gears and just pick whatever catches our eye—a total blind pick! We might stumble on a hidden gem!"
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "好，这位小姐的声音听起来胸有成竹，似乎是有想法了？",
-      voice = 1,
+      sentence = "I like the confidence in your voice. Do you have one in mind already?",
       male = 2
     },
     [19] = {
@@ -130118,15 +130455,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是的，我想选状元糕！"
+      sentence = "Guilty—Top Scholar Cake!"
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "为什么会选这一款呢？",
-      voice = 1,
+      sentence = "What made you pick that one?",
       male = 2
     },
     [21] = {
@@ -130134,22 +130470,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，因为它的名字听起来和你很搭啊~"
+      sentence = "Because the name suits you!"
     },
     [22] = {
       next = "23",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "凭借许教授的聪明才智，如果生在古代，肯定也可以考个状元来当当。"
+      sentence = "With a mind like yours, Professor, you would have aced the imperial exams and taken the title of Top Scholar in a heartbeat."
     },
     [23] = {
       next = "24",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "以物思人，的确是一种不错的思路。如果按这种思路，我应该会选择鸳鸯糕。",
-      voice = 1,
+      sentence = "That's a sweet way to choose—picking what reminds you of someone. Well then, I'd pick the Mandarin Duck Cake.",
       male = 2
     },
     [24] = {
@@ -130157,53 +130492,48 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "莫非许教授也被它的名字打动了？"
+      sentence = "Oh? Does that name hold a special meaning for you, Professor?"
     },
     [25] = {
       next = "26",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "确实，凤凰于飞，鸳鸯双宿，这样的名字实在让人心动。",
-      voice = 1,
+      sentence = "It does. Mandarin ducks symbolize lifelong partnership. It's a fitting name.",
       male = 2
     },
     [26] = {
       next = "27",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "只要一说起，好像就可以想到和你在池塘边的情景。",
-      voice = 1,
+      sentence = "The name makes me picture the two of us, side by side by a pond.",
       male = 2
     },
     [27] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "状元糕和鸳鸯糕都已经买好，我现在就去找你了。",
-      voice = 1,
+      sentence = "Alright, both cakes are secured. I'm on my way to you now.",
       male = 2
     }
   },
   [2307] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我刚刚收到邮件，活动主办方发来了如意镇跑团活动的精修图，是所有现场照片的合集。",
-      voice = 1,
+      sentence = "The retouched photos from the Ruyi Town adventure just landed in my inbox—the full collection.",
       male = 2
     },
     [2] = {
       next = "3",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "今天晚上要不要一起看看，挑选出我们的部分？",
-      voice = 1,
+      sentence = "Feel like a viewing party tonight to pick out the best ones of us?",
       male = 2
     },
     [3] = {
@@ -130211,24 +130541,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜呜今天恐怕不行，我还在加班。"
+      sentence = "Aww, tonight's a no-go... I'm still stuck at work."
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "好，那就等过几天，你忙完之后再说。",
-      voice = 1,
+      sentence = "No rush. We'll do it when you're free.",
       male = 2
     },
     [5] = {
       next = "6",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不过从如意镇回来之后，你已经加班好几天了，是堆积的工作很多吗？",
-      voice = 1,
+      sentence = "I've noticed you've been pulling late nights since we got back. Is there a big pile of work?",
       male = 2
     },
     [6] = {
@@ -130236,22 +130564,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "其实工作内容倒是不多，就是去如意镇之前拍的纪录片粗剪好了，需要给剪辑师反馈一些意见。"
+      sentence = "It's not the volume of work. It's that the rough cut of the documentary I shot before the trip is ready, and I need to give the editor my notes."
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "但我的效率实在有些堪忧，总是不由自主地做一些其他事情，到现在才反馈了一半。"
+      sentence = "My productivity's been in the gutter, though. My mind keeps drifting, so I'm only about halfway through my notes."
     },
     [8] = {
       next = "9",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "你说的“其他事情”，是不是打开共享相册，回顾我们自己在如意镇大婚的视频？",
-      voice = 1,
+      sentence = "Would this \"drifting\" happen to involve our shared wedding video from Ruyi Town?",
       male = 2
     },
     [9] = {
@@ -130259,24 +130586,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "？！你怎么知道……"
+      sentence = "?! How could you tell..."
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "因为我好几次打开视频，进度条都会跳转到“上次看到这里”，每次的位置都不一样。",
-      voice = 1,
+      sentence = "I'm observant. The \"last played\" marker on our video keeps moving to a new spot whenever I check.",
       male = 2
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我猜应该是某个小姑娘反反复复地，把这段视频看了许多遍。",
-      voice = 1,
+      sentence = "The evidence suggests frequent, secret viewings by a little miss.",
       male = 2
     },
     [12] = {
@@ -130284,22 +130609,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我实在忍不住嘛……等等！我抓住许教授的小辫子咯！"
+      sentence = "I'm addicted!... Hey, but you're one to talk!"
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你明明说这几天有一大波实验数据要处理，居然“好几次”摸鱼看视频哦~"
+      sentence = "Professor \"Buried-in-Data\" has clearly been sneaking peeks too—and \"several times\" at that!"
     },
     [14] = {
       next = "15",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "确实，这两天我常常回忆起跑团时候的细节，忍不住打开视频重温几遍。",
-      voice = 1,
+      sentence = "I confess. I've sought solace in those memories more than once. The details are worth revisiting.",
       male = 2
     },
     [15] = {
@@ -130307,33 +130631,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那不是和我一模一样嘛！"
+      sentence = "So we're both hopeless!"
     },
     [16] = {
       next = "17",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "大概是，我们两个都被戒断反应所包围了。",
-      voice = 1,
+      sentence = "I think it's safe to say we're both going through a kind of... withdrawal.",
       male = 2
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "因为在如意镇的经历非常快乐，大脑沉浸在高浓度的多巴胺中，回到日常生活时就会产生落差感。",
-      voice = 1,
+      sentence = "Our time in Ruyi was pure joy—our brains were flooded with dopamine. Coming back to everyday life just feels flat in comparison.",
       male = 2
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "如果置之不理，过一段时间也就恢复了，当然，这段时间的工作效率可能会受到一些影响。",
-      voice = 1,
+      sentence = "If we just leave it alone, our brains will readjust on their own... eventually. But in the meantime, yeah, getting any work done is going to be a struggle.",
       male = 2
     },
     [19] = {
@@ -130341,33 +130662,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜呜就没有什么快速从戒断反应恢复过来，让工作效率高一点的方法嘛？"
+      sentence = "Ugh, so there's no quick fix for this \"withdrawal\" to get us back to being productive?"
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我们可以在日常生活中也不断制造能够刺激多巴胺的快乐，让大脑保持期待。",
-      voice = 1,
+      sentence = "We can consciously build in little pockets of joy throughout our day. Give our brains something to look forward to.",
       male = 2
     },
     [21] = {
       next = "22",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "比如今天我买了酒酿圆子回家，我们可以窝在暖桌里，一起快速反馈完纪录片，然后挑选如意镇的照片。",
-      voice = 1,
+      sentence = "Here's the plan: tonight, we have sweet rice wine balls. We can cozy up, power through your notes, and then pick our photos.",
       male = 2
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "到了明天，我带上路边的烤栗子去接你下班，后天的话……一起去看个电影怎么样？",
-      voice = 1,
+      sentence = "Tomorrow, I'll grab some roasted chestnuts on my way to pick you up. And for the day after... what do you think about catching a movie?",
       male = 2
     },
     [23] = {
@@ -130375,43 +130693,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好~不过这样就可以了吗？听起来好像很容易。"
+      sentence = "It sounds... wonderfully simple."
     },
     [24] = {
       next = "25",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "因为是你，才让它显得容易。",
-      voice = 1,
+      sentence = "It is, with you.",
       male = 2
     },
     [25] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟看到你，和你待在一起这件事本身，就已经足够快乐了。",
-      voice = 1,
+      sentence = "The complexity fades when I'm with you. You are the catalyst that makes ordinary plans feel like joy itself.",
       male = 2
     }
   },
   [2308] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "是我，我把去参加海滨烟花艺术节时拍的照片冲洗出来了。",
+      sentence = "Hey, I just picked up the photos from the fireworks festival.",
       voice = 1,
       male = 2
     },
     [2] = {
       next = "3",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "等我晚上回去，可以把它们加入到我们的家庭相册里。",
+      sentence = "I thought we could add them to our family album tonight.",
       voice = 1,
       male = 2
     },
@@ -130420,23 +130736,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好耶，胶片拍摄的效果怎么样？应该没有拍糊的吧？"
+      sentence = "Awesome! How do they look? Please tell me none of them are blurry..."
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我看过了，拍得都很好。",
+      sentence = "They're all clear—and lovely.",
       voice = 1,
       male = 2
     },
     [5] = {
       next = "6",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "特别是最后你和那张燃烧的烟火画，在朦胧的火光里，有种特殊的美感。",
+      sentence = "My favorite is the last one, with you and the burning painting. You look almost dreamlike in the soft glow of the fire.",
       voice = 1,
       male = 2
     },
@@ -130445,14 +130761,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那我可要好好欣赏一下，毕竟它已经“绝版”啦。"
+      sentence = "I can't wait to see it! That was such a unique moment."
     },
     [7] = {
       next = "8",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "那可不一定，或许我们可以让它换种方式“复活”过来。",
+      sentence = "Well, I was thinking we could recreate it.",
       voice = 1,
       male = 2
     },
@@ -130461,32 +130777,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "什么方式？"
+      sentence = "Really? How would we do that?"
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我听说烟火画的厂家调整了火药配比，生产出了灼痕更加柔和和自然的摔炮。",
+      sentence = "The manufacturer improved their chemistry. They now have bang snaps that leave a more delicate trace.",
       voice = 1,
       male = 2
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "下午等待实验结果的空隙，就去买了一些回来。",
+      sentence = "I picked some up today during a break in my research.",
       voice = 1,
       male = 2
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "今天晚饭后的休闲时间，要不要来一起试试？",
+      sentence = "So, what do you think? Want to try them out after dinner?",
       voice = 1,
       male = 2
     },
@@ -130495,14 +130811,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好啊好啊～这次我们是不是可以随心所欲一点，画些不一样的？"
+      sentence = "Yes! So we can just do our own thing and create whatever we want?"
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "当然，看来这位小姐已经想好画什么了。",
+      sentence = "Absolutely! I'm guessing you have something in mind.",
       voice = 1,
       male = 2
     },
@@ -130511,28 +130827,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，那天白天的行程，我们不是没有拍照嘛！"
+      sentence = "You know all those moments from our day that we didn't photograph?"
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我们就用烟火画，把它画下来怎么样？"
+      sentence = "Let's turn them into fireworks paintings!"
     },
     [16] = {
       next = "17",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "就是不知道会不会难度太大了一点……"
+      sentence = "But... is that too ambitious?"
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "别担心，我们可以每天抽一点时间，慢慢实验出最佳的绘制方法。",
+      sentence = "We'll take it step by step. A little practice each day, and we'll get the hang of it in no time.",
       voice = 1,
       male = 2
     },
@@ -130541,32 +130857,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好~那烟火画的材料还够吗，需不需要我带点什么工具回去？"
+      sentence = "Sounds perfect! Do we have enough supplies? Should I grab anything?"
     },
     [19] = {
       next = "20",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不用，从包装的分量来看，里面的画纸和摔炮应该足够我们画完一整天的行程，做一本烟火画集了。",
+      sentence = "We've got enough paper and bang snaps to recreate our whole day—maybe even make a mini art book.",
       voice = 1,
       male = 2
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "等这些材料用完，我们也可以探索一些其他的方法。",
+      sentence = "And when we run out, we'll just try something new.",
       voice = 1,
       male = 2
     },
     [21] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "把那些藏在记忆里的、没有被我们拍下来的画面，全部用不同的方式永远留存下来。",
+      sentence = "Every memory we have but didn't capture... we'll find a way to make it last.",
       voice = 1,
       male = 2
     }
@@ -130968,11 +131284,10 @@ data = {
   [2312] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "研讨会刚刚结束，你还在纠结，晚上要去哪一家餐厅吃饭吗？",
-      voice = 1,
+      sentence = "Just finished the seminar. Still stuck choosing where to eat tonight?",
       male = 2
     },
     [2] = {
@@ -130980,24 +131295,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是啊，你给我发的这三家餐厅看起来都很不错，真的很难选……"
+      sentence = "Yeah... The three places you sent all look so good. I can't decide at all."
     },
     [3] = {
       next = "4",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我也是对比过他们的菜单后，发现里面都有不少你感兴趣的菜品，所以想让你看看更偏向于哪一个。",
-      voice = 1,
+      sentence = "I figured. Each one has dishes on their menu that I know you'd love. Thought I'd let you decide which one feels right.",
       male = 2
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "如果实在不好选择，我刚才又找到了另外一种方案。不过，和之前的计划会有些冲突。",
-      voice = 1,
+      sentence = "But if they're too close to call, I've got another idea, though it's a bit of a detour from our original plan.",
       male = 2
     },
     [5] = {
@@ -131005,24 +131318,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好哦……等等，你刚才不是在听讲座吗，怎么还偷偷开小差？"
+      sentence = "Wait, weren't you in a lecture? When did you have time to come up with a Plan B?"
     },
     [6] = {
       next = "7",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不算开小差，讲座的部分，我也没有落下。",
-      voice = 1,
+      sentence = "I can multitask without missing anything.",
       male = 2
     },
     [7] = {
       next = "8",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "今天毕竟是个特殊的日子，我总会在时间的空隙中，想到和你有关的事情。",
-      voice = 1,
+      sentence = "It is Valentine's Day, after all. It's hard not to think about you in between.",
       male = 2
     },
     [8] = {
@@ -131030,33 +131341,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈，那让我来听听许教授做的新约会方案？"
+      sentence = "Hah, alright then. Let's hear Professor Lucien's alternate date plan."
     },
     [9] = {
       next = "10",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "听说郊外的海边新建起了一个“房车露营村”，周围的环境很不错，很适合情侣游玩度假。",
-      voice = 1,
+      sentence = "There's a new seaside RV glamping site just outside the city. It's quiet, scenic, and perfect for a getaway.",
       male = 2
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "只是露营村和市中心有点距离，如果决定要去的话，之前备选的三家餐厅就都去不成了。",
-      voice = 1,
+      sentence = "The only thing is, it's a bit far, so we'd have to skip those three restaurants if we go.",
       male = 2
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "所以，我想问问你的意思。",
-      voice = 1,
+      sentence = "Thought I'd run it by you first.",
       male = 2
     },
     [12] = {
@@ -131064,33 +131372,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "听上去确实不错！而且好久没有开房车出去玩了。不过你怎么突然想到这个的？"
+      sentence = "That actually sounds amazing! It's been a while since we did something like that. What made you think of it?"
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "可能因为，今天这个讲座占用了我预期之外的时间——",
-      voice = 1,
+      sentence = "Probably because the seminar went longer than I planned—",
       male = 2
     },
     [14] = {
       next = "15",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "所以等它结束之后，我想和你一起过一个只有我们两个人的情人节。",
-      voice = 1,
+      sentence = "So once it wrapped up, I figured... I'd rather spend the rest of today somewhere quiet, just the two of us.",
       male = 2
     },
     [15] = {
       next = "16",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "比起在人来人往的餐厅中和你享用晚餐，我更想和你一起享受幽静的海风，听一听海浪的声音。",
-      voice = 1,
+      sentence = "Instead of a crowded dinner, I'd rather share the sea breeze with you and listen to the waves.",
       male = 2
     },
     [16] = {
@@ -131098,33 +131403,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我也觉得这样不错。没有吵吵闹闹，我们可以安静地看看海聊聊天~"
+      sentence = "Yeah, that sounds perfect. Just us, no noise, just some peace and time to talk."
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，我已经和阿明他们说好，今晚我有很重要的事情要做，如果有什么工作，明天再处理。",
-      voice = 1,
+      sentence = "I've already let Pete and the team know. Told them I've got something important tonight. Anything work-related can wait till tomorrow.",
       male = 2
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不管是想要拍照，还是说悄悄话，又或者……做点别的，都可以。",
-      voice = 1,
+      sentence = "Whether you want to take pictures, whisper secrets... or do something else entirely—it's all good.",
       male = 2
     },
     [19] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "今晚，我会完整地只属于你。",
-      voice = 1,
+      sentence = "Tonight, I'm all yours.",
       male = 2
     }
   },
@@ -131309,10 +131611,10 @@ data = {
   [2314] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "喂？如果在忙的话，我等会儿打给你？",
+      sentence = "Hello? Should I try again later if you're in the middle of something?",
       voice = 1,
       male = 2
     },
@@ -131321,39 +131623,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我不忙，就是手机不小心开了静音，刚刚才看到屏幕亮了。"
+      sentence = "I'm not, I promise! I just didn't hear my phone."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "怎么听上去这么高兴，发生什么好事了吗？"
+      sentence = "I can hear the smile in your voice—what's made your day?"
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "看来，我在这位小姑娘面前，已经藏不住小秘密了。",
+      sentence = "I should have known—you can always read me like an open book.",
       voice = 1,
       male = 2
     },
     [5] = {
       next = "6",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我的确有一份喜悦，想第一时间和你分享。",
+      sentence = "There's a happy development I've been eager to share with you.",
       voice = 1,
       male = 2
     },
     [6] = {
       next = "7",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "研究所有关脑胶质细胞的实验得出了结果，估计很快就能收尾进入论文阶段了。",
+      sentence = "The glial cell experiment has finally shown conclusive results. We'll be wrapping up the practical work and drafting the paper shortly.",
       voice = 1,
       male = 2
     },
@@ -131362,14 +131664,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇！真的吗？我记得这个实验是不是已经做了一年多了~"
+      sentence = "That's amazing! It feels like this experiment has been going on for ages—almost a year, right?"
     },
     [8] = {
       next = "9",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "准确来说，是一年九个月零三天，好在，它很快就要结束了。",
+      sentence = "It's been exactly one year, nine months, and three days. I'm relieved it's concluding.",
       voice = 1,
       male = 2
     },
@@ -131378,21 +131680,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "恭喜许教授在拿到“这次培养皿又全军覆没”、“研究所通宵加班三天”，"
+      sentence = "Huge congratulations! After securing such illustrious \"trophies\" as \"The Great Petri Dish Die-Off,\" \"Marathon Lab Session,\""
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "以及“三次重归起点”等成就后，终于推满进度、实验成功！"
+      sentence = "and \"Triple Restart from Scratch,\" you've finally reached the finish line!"
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "原来那些也可以算在“成就”之中吗。",
+      sentence = "I hadn't thought to frame our setbacks as \"trophies.\"",
       voice = 1,
       male = 2
     },
@@ -131401,32 +131703,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然啦，每个“成就”都是概率事件，触发了就要留下点纪念嘛~"
+      sentence = "Well, they are! Each one is part of your story~"
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，对于我们来说，那些相对负面的成就，的确也是实验过程中重要的部分。",
+      sentence = "I understand. Those challenging times were truly formative for us.",
       voice = 1,
       male = 2
     },
     [14] = {
       next = "15",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不过，一般来说，集齐各种“成就”后，颁布这些成就的人，会给参与者一些奖励。",
+      sentence = "Though, typically, after collecting \"trophies,\" the participant earns a reward.",
       voice = 1,
       male = 2
     },
     [15] = {
       next = "16",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不知道，我现在有没有什么可以领取的奖励。",
+      sentence = "So, do I qualify for one?",
       voice = 1,
       male = 2
     },
@@ -131435,39 +131737,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然有呀，今晚的豪华神秘大餐已经在向你招手了~"
+      sentence = "You absolutely do! Get ready for an extravagant surprise dining experience tonight!"
     },
     [17] = {
       next = "18",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "啊，但你们是不是会有庆功宴啊？"
+      sentence = "Wait, don't you have to celebrate with your team?"
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "没有，他们最近都很累，我让他们今天先提早下班回去休息，等收尾工作完全结束以后再庆功。",
+      sentence = "I gave them the rest of the day off. They were running on empty. We'll have an official party once everything is finalized.",
       voice = 1,
       male = 2
     },
     [19] = {
       next = "20",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "那时候，玩得也应该会比较开心。",
+      sentence = "It'll be more fun when we can all relax.",
       voice = 1,
       male = 2
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "而且，我现在也比较想和最想要分享喜悦的人一起度过。",
+      sentence = "Right now, I'd prefer to share this joy with the one person who means the most.",
       voice = 1,
       male = 2
     },
@@ -131476,23 +131778,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没问题，今天正好我也能早点下班。"
+      sentence = "It's a date. I can clock out early today."
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我已经在向你那边走了，到了说不定正好可以接到你下班。",
+      sentence = "Great. I'm already heading over. Should get there right around the time you finish.",
       voice = 1,
       male = 2
     },
     [23] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "顺便，你也可以再慢慢告诉我这份榜单上，还有哪些我还不知道的“成就。”",
+      sentence = "And you can tell me all about the other \"trophies\" on my record.",
       voice = 1,
       male = 2
     }
@@ -131500,19 +131802,19 @@ data = {
   [2315] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "前面在和研究所的同事们开会，刚刚看到你发给我的分享链接。",
+      sentence = "I've been in meetings all morning, but I finally checked my phone and saw your link.",
       voice = 1,
       male = 2
     },
     [2] = {
       next = "3",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "你是想去拍一套和这个帖子里一样的写真吗？",
+      sentence = "This looks like a photoshoot idea. Is it something you'd like to do?",
       voice = 1,
       male = 2
     },
@@ -131521,21 +131823,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "对对，这个摄影棚之前和我们合作过，技术和装造都没的说。"
+      sentence = "Yes! We've worked with this studio before—their technical skills and wardrobe are fantastic."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "而且他们新进了一批衣服里面，有之前我们去文化节的时候穿的那一套！"
+      sentence = "Plus, they just added new costumes, including the ones we wore during the cultural festival!"
     },
     [5] = {
       next = "6",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "难怪，毕竟这位小朋友在旅游回来的时候，就一直懊恼着当时没有拍太多的合影。",
+      sentence = "That explains your interest. You've mentioned how we didn't capture enough moments during our cultural festival visit.",
       voice = 1,
       male = 2
     },
@@ -131544,14 +131846,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，所以~你下下个周日有空吗？有的话，我就预约啦~"
+      sentence = "So here's the question—are you free two Sundays from now? Say yes, and I'll book it!"
     },
     [7] = {
       next = "8",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "当然可以，我也觉得有些遗憾，没有在和你跳舞的时候留下合影。或许这次拍照的时候还有机会。",
+      sentence = "By all means. I've been thinking we should have taken a dancing photo too. This could be our chance.",
       voice = 1,
       male = 2
     },
@@ -131560,28 +131862,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "有！到时候就要请许教授再“领舞”了哦~除了那套衣服，其他的也很适合跳舞。"
+      sentence = "Perfect! Then you'll have to take the lead in dancing again. The other costumes will work beautifully for that too."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我定了一个套餐，可以换三套不同的民族服装呢。"
+      sentence = "I went with a package that includes three distinct cultural costumes!"
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我刚才挑得眼花，急需晚上回家听一下许参谋的意见！！"
+      sentence = "I was completely torn between options—I really need my personal consultant's advice this evening!"
     },
     [11] = {
       next = "12",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "当然没问题。我只是有些担心，三套足不足以满足这位同学想要尝试的心情。",
+      sentence = "I am at your service. I only wonder if three will be adequate, given your penchant for immersive experimentation.",
       voice = 1,
       male = 2
     },
@@ -131590,14 +131892,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "咦，你怎么知道我在纠结三套够不够？"
+      sentence = "How did you know I was thinking that?"
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "根据我们前几天在服装租赁时的经验……每换一套衣服，$u都会在镜子前纠结很久。",
+      sentence = "After our last dress-up session, I noticed you needed quite a bit of mirror time with every costume change.",
       voice = 1,
       male = 2
     },
@@ -131606,55 +131908,55 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那是因为不管换哪一套，我都觉得很登对嘛。"
+      sentence = "That's only because every costume seemed to suit us so well together!"
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "其实还有一个一天五套衣服的套餐，但估计要一大早去化妆，拍到半夜了。"
+      sentence = "They do offer a five-costume option, but we'd need to start with hair and makeup at sunrise and possibly finish around midnight."
     },
     [16] = {
       next = "17",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我担心会有点累。"
+      sentence = "I don't want it to be a strain."
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不会，不如说，这对我是一种休息与乐趣。和你一起换上的每套不同的衣服，我也会有种新鲜感。",
+      sentence = "It would be no strain at all. I find the prospect refreshing. Each costume change with you is a new scene in our story.",
       voice = 1,
       male = 2
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "好像我们本身，也随着着装的不同，被赋予了不同的“身份”。",
+      sentence = "It feels like we become different people with each costume change.",
       voice = 1,
       male = 2
     },
     [19] = {
       next = "20",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "比如——拉风琴的人和他的心仪的舞蹈姑娘。",
+      sentence = "For example—an accordion player and the lovely dancer who's captured his heart.",
       voice = 1,
       male = 2
     },
     [20] = {
       next = "21",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我也有很多想要尝试的风格。所以，你可以再贪心一点。",
+      sentence = "There are many such pairings I would like to embody with you. There's no need for restraint.",
       voice = 1,
       male = 2
     },
@@ -131663,32 +131965,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，那我现在去改成五套了哦~"
+      sentence = "Great! I'm updating our reservation to include five costumes!"
     },
     [22] = {
       next = "23",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "好，等晚上回来，我们可以一起挑选你最喜欢的服饰。",
+      sentence = "Lovely. We'll look through the costume selections together when we get home.",
       voice = 1,
       male = 2
     },
     [23] = {
       next = "24",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我也很期待，到时候能看到被各种不同颜色相衬的你。",
+      sentence = "I'm already anticipating seeing you illuminated by all those varied palettes.",
       voice = 1,
       male = 2
     },
     [24] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "就和你说的一样，无论我们换上哪套衣服，一定都会很登对。",
+      sentence = "You were right, you know. I'm sure we'll look perfectly suited, no matter the attire.",
       voice = 1,
       male = 2
     }
@@ -132369,11 +132671,10 @@ data = {
   [2320] = {
     [1] = {
       next = "2",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "$u，现在在忙吗？",
-      voice = 1,
+      sentence = "Are you in the middle of something?",
       male = 2
     },
     [2] = {
@@ -132381,22 +132682,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "刚刚下班，没想到你就打来了。"
+      sentence = "Just finished work—great timing."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我已经快到我们约定的鲜花咖啡馆了，你呢？"
+      sentence = "I'm almost at the flower café. You on your way?"
     },
     [4] = {
       next = "5",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "我这边暂时有些脱不开身，可能需要你稍微等等我。",
-      voice = 1,
+      sentence = "I'm running a little behind here. Would you mind waiting a short while?",
       male = 2
     },
     [5] = {
@@ -132404,33 +132704,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没关系，我进去等你，你先忙。"
+      sentence = "No problem at all. I'll head inside. You go ahead and finish up."
     },
     [6] = {
       next = "7",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "不要紧，我这边有一项数据需要再守一会，所以会晚点，但好在不需要全神贯注地盯着。",
-      voice = 1,
+      sentence = "It's alright—I just need to keep an eye on some data, but it doesn't need my full attention.",
       male = 2
     },
     [7] = {
       next = "8",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "所以，我还可以像现在这样，多听一会你的声音。",
-      voice = 1,
+      sentence = "That means I get to keep listening to your voice a little longer like this.",
       male = 2
     },
     [8] = {
       next = "9",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "你现在进店了吗？",
-      voice = 1,
+      sentence = "So, did you go in yet?",
       male = 2
     },
     [9] = {
@@ -132438,15 +132735,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "已经进来啦，但是店里好像一个人都没有……"
+      sentence = "Yeah, but... it's totally empty. That's weird..."
     },
     [10] = {
       next = "11",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "或许是因为，今天这家咖啡馆已经被提前包场了，只接待唯一的访客。",
-      voice = 1,
+      sentence = "Well, perhaps that's because someone has booked out the whole place for the day... just for one guest.",
       male = 2
     },
     [11] = {
@@ -132454,22 +132750,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "咦？可是这家店不是你好早之前就预定好的吗……"
+      sentence = "Wait, but you booked this place so long ago..."
     },
     [12] = {
       next = "13",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗，我知道了，这是一个等我发现的“惊喜”对不对？"
+      sentence = "Pfff... Aha! I get it now. This is one of your \"surprises,\" isn't it?"
     },
     [13] = {
       next = "14",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "这位小同学十分聪明，那你应该也发现了咖啡馆中另外的“小秘密”了。",
-      voice = 1,
+      sentence = "You catch on quick. So, did you find the other hint?",
       male = 2
     },
     [14] = {
@@ -132477,15 +132772,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我发现，花园后门上挂着一个在向我招手的小狐狸~"
+      sentence = "There's a little fox hanging from the back door to the garden... and it looks like it's waving at me!"
     },
     [15] = {
       next = "16",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "那要不要推开那扇门试试看？",
-      voice = 1,
+      sentence = "Why not go ahead and open it?",
       male = 2
     },
     [16] = {
@@ -132493,33 +132787,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇……花园里有好多的鸢尾花，整个花园都被染成紫色了，像梦境一样美……"
+      sentence = "Oh my gosh... The whole garden is full of purple irises. It's like something out of a fairy tale."
     },
     [17] = {
       next = "18",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "在前阵子某个Evol实验里，我发现了让鲜花能够在短时间内盛放的方法。",
-      voice = 1,
+      sentence = "During a recent Evol experiment, I discovered a method to make flowers bloom almost instantly.",
       male = 2
     },
     [18] = {
       next = "19",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "就让这个紫色的花园，先代替我向你说声——“抱歉，我来晚了”，以及“请再等等我”。",
-      voice = 1,
+      sentence = "So let this purple garden say what I can't right now: \"Sorry to be late,\" and \"Please hold on a little longer.\"",
       male = 2
     },
     [19] = {
       next = "0",
-      renming = "许墨",
+      renming = "Lucien",
       dialog = 2,
       namebg = 1,
-      sentence = "至于其他的话，比如“节日快乐”……就等我来到你面前后，再亲口告诉你吧。",
-      voice = 1,
+      sentence = "But for the rest... like \"Happy White Day\"... I'll save that for when I get there.",
       male = 2
     }
   },
@@ -133104,6 +133395,434 @@ data = {
       dialog = 2,
       namebg = 1,
       sentence = "毕竟，我想要成为你最好的、也是最特别的队友和对手。",
+      voice = 1,
+      male = 2
+    }
+  },
+  [2326] = {
+    [1] = {
+      next = "2",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I saw the return package you asked me to send just now.",
+      voice = 1,
+      male = 2
+    },
+    [2] = {
+      next = "3",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "So... you're really returning that tent?",
+      voice = 1,
+      male = 2
+    },
+    [3] = {
+      next = "4",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I forgot to check the weather before I bought it... It's gonna be raining for the next two weeks."
+    },
+    [4] = {
+      next = "5",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "And after that, it'll just be way too hot to camp in the open."
+    },
+    [5] = {
+      next = "6",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I doubt I'll get a chance to use it this year, so I figured I might as well return it while it's still unopened."
+    },
+    [6] = {
+      next = "7",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Sounds like a solid plan. But if I'm not mistaken, a certain young lady sounds a little reluctant to let it go?",
+      voice = 1,
+      male = 2
+    },
+    [7] = {
+      next = "8",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "...Aw, you really see me through."
+    },
+    [8] = {
+      next = "9",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I was actually really looking forward to spending a night in that tent with you. Just... lying back, watching the stars. It was gonna be amazing."
+    },
+    [9] = {
+      next = "10",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I even got the blanket, the backpack, and—"
+    },
+    [10] = {
+      next = "11",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "—And a whole bunch of snacks and fairy lights.",
+      voice = 1,
+      male = 2
+    },
+    [11] = {
+      next = "12",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I picked up those packages, too, by the way.",
+      voice = 1,
+      male = 2
+    },
+    [12] = {
+      next = "13",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "*Sobs* Snacks can stay! We'll just finish them together this weekend."
+    },
+    [13] = {
+      next = "14",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "As for the lights..."
+    },
+    [14] = {
+      next = "15",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Before you decide, hear me out.",
+      voice = 1,
+      male = 2
+    },
+    [15] = {
+      next = "16",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Let's not return anything. How about we set up a little camp, right here at home?",
+      voice = 1,
+      male = 2
+    },
+    [16] = {
+      next = "17",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "If we shift some items around on the balcony, there should be enough space for the tent.",
+      voice = 1,
+      male = 2
+    },
+    [17] = {
+      next = "18",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Sure, we won't see any stars with this gloomy weather...",
+      voice = 1,
+      male = 2
+    },
+    [18] = {
+      next = "19",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "But once we hang up those little lights, I bet it'll still feel pretty good.",
+      voice = 1,
+      male = 2
+    },
+    [19] = {
+      next = "20",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Heehee, that actually sounds great!"
+    },
+    [20] = {
+      next = "21",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "But wouldn't it be boring to just sit in a tent all night?"
+    },
+    [21] = {
+      next = "22",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Hmm... what if we brought the projector out to the balcony?",
+      voice = 1,
+      male = 2
+    },
+    [22] = {
+      next = "23",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Watching a \"semi-outdoor\" movie in the evening breeze could be fun.",
+      voice = 1,
+      male = 2
+    },
+    [23] = {
+      next = "24",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Okay, you just got me excited!"
+    },
+    [24] = {
+      next = "25",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Well, then, I guess I'll have to ask you to go on another fetch quest, Professor Lucien."
+    },
+    [25] = {
+      next = "26",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "It's no trouble at all. I'm just as excited for our \"Tent Night\", Miss Producer.",
+      voice = 1,
+      male = 2
+    },
+    [26] = {
+      next = "0",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I'm already on my way home. I'll be there soon.",
+      voice = 1,
+      male = 2
+    }
+  },
+  [2327] = {
+    [1] = {
+      next = "2",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Sorry, I missed your call earlier. My phone was off.",
+      voice = 1,
+      male = 2
+    },
+    [2] = {
+      next = "3",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "It's pretty late for a phone call... Couldn't sleep, Miss Producer?",
+      voice = 1,
+      male = 2
+    },
+    [3] = {
+      next = "4",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Mhm... I went to a concert after work with Anna tonight."
+    },
+    [4] = {
+      next = "5",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Felt fine at the time, but now every time I close my eyes, those songs won't stop looping in my head..."
+    },
+    [5] = {
+      next = "6",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "What about you, Professor Lucien? What did you get up to today?"
+    },
+    [6] = {
+      next = "7",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I went to an academic meeting and then dropped by the local prison museum.",
+      voice = 1,
+      male = 2
+    },
+    [7] = {
+      next = "8",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Wait, that's a thing? A prison museum?"
+    },
+    [8] = {
+      next = "9",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Yes, I was surprised too. I skipped a few other invitations just to check it out.",
+      voice = 1,
+      male = 2
+    },
+    [9] = {
+      next = "10",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Turns out, they've got a whole collection of ancient torture tools and life-sized replicas of prison cells.",
+      voice = 1,
+      male = 2
+    },
+    [10] = {
+      next = "11",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "The main exhibit was a reconstructed escape tunnel from a failed jailbreak.",
+      voice = 1,
+      male = 2
+    },
+    [11] = {
+      next = "12",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Right at the entrance, they had the tool the prisoner used—a tiny metal spoon from the cafeteria.",
+      voice = 1,
+      male = 2
+    },
+    [12] = {
+      next = "13",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Whoa... that's some next-level determination."
+    },
+    [13] = {
+      next = "14",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Did the guy make it out?"
+    },
+    [14] = {
+      next = "15",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Nope. He didn't realize the prison had upgraded the outer wall from concrete to metal.",
+      voice = 1,
+      male = 2
+    },
+    [15] = {
+      next = "16",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Determined, yes, but his knowledge was obsolete.",
+      voice = 1,
+      male = 2
+    },
+    [16] = {
+      next = "17",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Haha... Guess you could say karma caught up with him."
+    },
+    [17] = {
+      next = "18",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I bet the other inmates will think twice about escaping after that, eh?"
+    },
+    [18] = {
+      next = "19",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Probably. But if it were me, I might've felt a bit relieved.",
+      voice = 1,
+      male = 2
+    },
+    [19] = {
+      next = "20",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Someone already tested that method and failed. Saves me the trouble of trying the same.",
+      voice = 1,
+      male = 2
+    },
+    [20] = {
+      next = "21",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Wait, hold on. You wouldn't have given up?!"
+    },
+    [21] = {
+      next = "22",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Of course not. The outer wall was only changed because someone had escaped that way before.",
+      voice = 1,
+      male = 2
+    },
+    [22] = {
+      next = "23",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "And the fact that the exercise yard has an electrified fence is proof that someone climbed it once.",
+      voice = 1,
+      male = 2
+    },
+    [23] = {
+      next = "24",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "No system's ever airtight. Sure, escape gets harder, but it's never impossible.",
+      voice = 1,
+      male = 2
+    },
+    [24] = {
+      next = "25",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "...Wow. Professor Lucien, you've got some dangerous thoughts in that head of yours."
+    },
+    [25] = {
+      next = "26",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Just a little thought experiment. I'm a very well-behaved citizen.",
+      voice = 1,
+      male = 2
+    },
+    [26] = {
+      next = "0",
+      renming = "Lucien",
+      dialog = 2,
+      namebg = 1,
+      sentence = "There were other cool things in the museum, too. I'll tell you all about it when I'm back.",
       voice = 1,
       male = 2
     }
@@ -182195,20 +182914,18 @@ data = {
   [3245] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "报告薯片小姐，一会儿演出结束，明天我就是“自、由、人”啦。",
-      voice = 1,
+      sentence = "Hey Miss Chips, guess what? After tonight, I'm a free agent!",
       male = 3
     },
     [2] = {
       next = "3",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "你的会议进行得顺利吗？",
-      voice = 1,
+      sentence = "How was the conference?",
       male = 3
     },
     [3] = {
@@ -182216,22 +182933,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "很顺利~现在我已经在去机场的路上了。"
+      sentence = "Went well! I'm headed to the airport now."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没想到创投会临时改期，没办法去现场给你加油了。"
+      sentence = "The meeting got rescheduled last minute, so I can't make it to your show. I'm really sorry."
     },
     [5] = {
       next = "6",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "还有很多机会嘛，等这部剧去国内巡演的时候，我一定给你留最好位置的票。",
-      voice = 1,
+      sentence = "Don't worry about it. When we take the show on tour back home, I'll save you the best seat in the house.",
       male = 3
     },
     [6] = {
@@ -182239,24 +182955,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，这算是男主角的福利吗？听说这部剧在法国一票难求呢。"
+      sentence = "Is that a promise from the star of the show? I've heard tickets for your show in France are like gold."
     },
     [7] = {
       next = "8",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "其实传言有点夸张了，只是戏剧节期间有场地限制，所以票不是很好买。",
-      voice = 1,
+      sentence = "That's festival hype for you—limited seating makes everything look crazy.",
       male = 3
     },
     [8] = {
       next = "9",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "国内巡演的话，场次多了以后就不会那么紧张了。",
-      voice = 1,
+      sentence = "Once we're touring back home, tickets will be much easier to get.",
       male = 3
     },
     [9] = {
@@ -182264,15 +182978,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哎，如果水族馆的票也能不紧张就好了，现在甚至有人在倒卖票。"
+      sentence = "Tell me about it. I wish the aquarium tickets were easier to get too. People are already reselling them at crazy prices."
     },
     [10] = {
       next = "11",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我们要去的那个水族馆现在这么热门吗？",
-      voice = 1,
+      sentence = "Is it really that hard to get tickets?",
       male = 3
     },
     [11] = {
@@ -182280,15 +182993,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好像因为小朋友放假的原因，场馆在限流，每天我上线抢票的时候都是售罄。"
+      sentence = "With the school holidays, they're limiting entry. I've tried every day this week with no luck."
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "等我一下，我去网站看看。",
-      voice = 1,
+      sentence = "Let me check real quick.",
       male = 3
     },
     [13] = {
@@ -182296,33 +183008,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "欸？你不是快要演出了。"
+      sentence = "Really? But you're about to go on stage."
     },
     [14] = {
       next = "15",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "没关系，还有20分钟，来得及。",
-      voice = 1,
+      sentence = "Still have 20 minutes. It's fine.",
       male = 3
     },
     [15] = {
       next = "16",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯……我来看看……哦！",
-      voice = 1,
+      sentence = "Okay, let me see... Ah!",
       male = 3
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那我记得……OK，我已经搞定了。",
-      voice = 1,
+      sentence = "I know what to do... And done!",
       male = 3
     },
     [17] = {
@@ -182330,15 +183039,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……？！你做了什么，我看了三天都没票的。"
+      sentence = "...What did you do? I've been trying forever!"
     },
     [18] = {
       next = "19",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "嘿嘿，我有独门秘籍~",
-      voice = 1,
+      sentence = "A little insider magic~",
       male = 3
     },
     [19] = {
@@ -182346,33 +183054,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……你不会是加钱买了那种高价票吧？"
+      sentence = "...You didn't pay some crazy scalper price, did you?"
     },
     [20] = {
       next = "21",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "放心吧，我才不会助长那些倒卖票的风气呢。",
-      voice = 1,
+      sentence = "Relax, I'd never support those guys.",
       male = 3
     },
     [21] = {
       next = "22",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "是戏剧节给演职人员的福利，可以随意兑换城市一个景点的门票。",
-      voice = 1,
+      sentence = "It's a staff perk from the festival—we get free passes to any city attraction.",
       male = 3
     },
     [22] = {
       next = "23",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "之前想着水族馆应该不难买，我就想把福利留给别的地方……但既然这样我们就先用掉吧~",
-      voice = 1,
+      sentence = "I was saving it for something else since the aquarium seemed easy... but this works even better!",
       male = 3
     },
     [23] = {
@@ -182380,35 +183085,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那会不会有点浪费？"
+      sentence = "Are you sure it's okay to use it now?"
     },
     [24] = {
       next = "25",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "$u为我加油的话就不会~",
-      voice = 1,
+      sentence = "Totally. If you're there with me, it's worth it.",
       male = 3
     },
     [25] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "演出如果获奖，福利会是双倍的——所以，等我的好消息吧~",
-      voice = 1,
+      sentence = "And if we win tonight, the perks get even better. So... wish me luck!",
       male = 3
     }
   },
   [3246] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "终于打通了，我刚才打了两次都是正在通话中……",
-      voice = 1,
+      sentence = "There you are! I called twice—kept getting your voicemail.",
       male = 3
     },
     [2] = {
@@ -182416,15 +183118,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "刚才我在接快递小哥的电话，说到了好几箱快递，让我叫几个人帮忙到公司大堂搬。"
+      sentence = "Oh, that was a delivery call. Apparently there's a small mountain of boxes in the lobby for me."
     },
     [3] = {
       next = "4",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我正要跟你说不用下来，那几箱东西我待会会找人拿上去的。",
-      voice = 1,
+      sentence = "Yeah, about that—don't worry about it. I'll handle getting them up to you.",
       male = 3
     },
     [4] = {
@@ -182432,42 +183133,38 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯？是你寄的吗？"
+      sentence = "Did you send something?"
     },
     [5] = {
       next = "6",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯……这个有点说来话长，准确来说是农场寄的。",
-      voice = 1,
+      sentence = "Kind of? To be precise, they're from the farm.",
       male = 3
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我在郊区包了一片向日葵花田，本来想着让他们每周送花过来，打算给你一个惊喜。",
-      voice = 1,
+      sentence = "I adopted a row of sunflowers. The plan was to surprise you with weekly bouquets.",
       male = 3
     },
     [7] = {
       next = "8",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "但有点不是时候，还没来得及送花，现在葵花籽就熟了……",
-      voice = 1,
+      sentence = "Except... the sunflowers had other plans. They went to seed before I could send any.",
       male = 3
     },
     [8] = {
       next = "9",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "工作人员也没问我，就把葵花籽按照我留下的电话地址，直接寄到你那边去了。",
-      voice = 1,
+      sentence = "And the farm, very helpfully, shipped all the seeds straight to your office.",
       male = 3
     },
     [9] = {
@@ -182475,42 +183172,38 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈哈哈哈，既然都寄过来了，你怎么知道了？"
+      sentence = "Hah! Well, they're here now. But how did you find out?"
     },
     [10] = {
       next = "11",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那个农场小程序刚才给我发客户调查表，最后一题让我对他们的葵花籽做出评价。",
-      voice = 1,
+      sentence = "Got a survey from the farm app: \"How would you rate our sunflower seeds?\"",
       male = 3
     },
     [11] = {
       next = "12",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "然后我就有种不太好的预感，问了下客服，结果说已经在派送了。",
-      voice = 1,
+      sentence = "I put two and two together... called them, and yes—your office is now stocked with snacks.",
       male = 3
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我怎么也没想到，小小的“送花惊喜”变成了大大的“零食闪送”。",
-      voice = 1,
+      sentence = "My romantic flower surprise... turned into an office snack supply.",
       male = 3
     },
     [13] = {
       next = "14",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "浪漫计划泡汤了不说，还要干巴巴地吃完那么多葵花籽。",
-      voice = 1,
+      sentence = "Now we're buried in seeds instead of surrounded by flowers.",
       male = 3
     },
     [14] = {
@@ -182518,38 +183211,36 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "怎么会！这下不仅是我，安娜姐她们也会很开心的。"
+      sentence = "I love it! Anna and the girls will be so excited."
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这些葵花籽能当一个礼拜的下午茶呢~"
+      sentence = "We'll be set for snack breaks all week!"
     },
     [16] = {
       next = "17",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "再说送零食怎么就不浪漫了，吃零食的时候会觉得很幸福呀。"
+      sentence = "And snacks are totally romantic. It's the thought—and the sharing—that counts."
     },
     [17] = {
       next = "18",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "虽然我认同薯片小姐吃零食会幸福的理论，但花的浪漫可是零食替代不了的。",
-      voice = 1,
+      sentence = "I believe you about the snacks... but flowers just have a different kind of magic.",
       male = 3
     },
     [18] = {
       next = "19",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "下一次我一定要想一个万无一失的计划，例如找个一年常开的那种花田。",
-      voice = 1,
+      sentence = "Next time, I'll go with something that's always in bloom. A foolproof plan.",
       male = 3
     },
     [19] = {
@@ -182557,33 +183248,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那送我一朵周棋洛的笑脸花吧，每天都对着我笑，四季常开~"
+      sentence = "How about a \"Smiling Kiro\"? Never out of season, always cheerful."
     },
     [20] = {
       next = "21",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯？这已经不用送啦～明明在很久以前他就是你的了。",
-      voice = 1,
+      sentence = "Oh, you already have one of those.",
       male = 3
     },
     [21] = {
       next = "22",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "和向日葵一样，都喜欢向着自己的太阳。你走到哪，他的目光就停在哪。",
-      voice = 1,
+      sentence = "Sunflowers follow the light... and I'll always follow you.",
       male = 3
     },
     [22] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "只要有你的地方，就有他最灿烂的笑脸。",
-      voice = 1,
+      sentence = "Wherever you are, that's where my smile is.",
       male = 3
     }
   },
@@ -183876,10 +184564,10 @@ data = {
   [3253] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "嘟嘟——一份专属惊喜正在赶向你，请注意查收哦。",
+      sentence = "Ding! Your epic surprise is on its way! Keep an eye out for it!",
       voice = 1,
       male = 3
     },
@@ -183888,30 +184576,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇！真的吗？我昨天晚上还做梦梦到你今天给我送了一件礼物。"
+      sentence = "No way! For real? I actually dreamed last night that you'd give me a gift today."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "居然成真了？"
+      sentence = "Is this seriously coming true?"
     },
     [4] = {
       next = "5",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "你居然预判了我的预判！这算是超强灵感的剧透梦吗？",
+      sentence = "What, you already learned of my secret surprise? That's some spoiler dream right there!",
       voice = 1,
       male = 3
     },
     [5] = {
       next = "6",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那——你有没有梦到这个惊喜是什么？",
+      sentence = "Did your dream tell you what the surprise is?",
       voice = 1,
       male = 3
     },
@@ -183920,23 +184608,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "梦里光顾着和你抱抱了……没注意礼物。"
+      sentence = "I was too busy hugging you... I wasn't paying attention."
     },
     [7] = {
       next = "8",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "嘿嘿，我比礼物更重要嘛，这是当然的啦。那么我来公布答案——",
+      sentence = "Heh, well obviously, I'm more important than the present. But alright, time for the reveal—",
       voice = 1,
       male = 3
     },
     [8] = {
       next = "9",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这次的惊喜是代言珠宝品牌方给我寄的新品，正好是一对情侣项链。",
+      sentence = "The surprise is a newly designed set of couple's necklaces. Got them from the jewelry brand I'm endorsing.",
       voice = 1,
       male = 3
     },
@@ -183945,14 +184633,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "新款？是那个六芒星系列吗？"
+      sentence = "Wait, you mean their hexagram collection?"
     },
     [10] = {
       next = "11",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "没错~就是前几天我拍广告的时候你恋恋不舍、在身上比划来比划去的那个。",
+      sentence = "Yup! The exact same one you were excited to try out when I was filming that ad.",
       voice = 1,
       male = 3
     },
@@ -183961,32 +184649,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "看到布灵布灵的东西有点眼馋嘛！"
+      sentence = "I mean, they were really sparkly, okay? Can't blame me!"
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这个布灵布灵马上你也会有了~",
+      sentence = "Well, lucky you. Soon, you'll have your very own sparkly bling too!",
       voice = 1,
       male = 3
     },
     [13] = {
       next = "14",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "而且这次我还多加了一点个人设计，保证属于我们的布灵布灵都是独一无二的。",
+      sentence = "Plus, I added a little personal touch to it. It's completely custom, just for us.",
       voice = 1,
       male = 3
     },
     [14] = {
       next = "15",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "具体的先保密，等你收到了就知道了。",
+      sentence = "But I'm keeping the details secret for now. You'll see when it shows up.",
       voice = 1,
       male = 3
     },
@@ -183995,23 +184683,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "看来我的珠宝箱又可以增加新的收藏了。"
+      sentence = "Looks like my jewelry stash is about to get a glittering addition."
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "当然啦，女孩子的珠宝箱都应该是异次元口袋，每个种类风格都要有。",
+      sentence = "As it should! A girl's jewelry box should be like a magical bottomless satchel; gotta have every style and every vibe.",
       voice = 1,
       male = 3
     },
     [17] = {
       next = "18",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "所以呢~我也打算给自己增加一个小目标，给$u的珠宝箱持续添砖加瓦。",
+      sentence = "So I've decided that I'm gonna keep adding pieces to $u's jewelry collection.",
       voice = 1,
       male = 3
     },
@@ -184020,14 +184708,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗——这个梦想听上去像是个无底洞哦。"
+      sentence = "Haha, sounds like a never-ending mission!"
     },
     [19] = {
       next = "20",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "没关系，长线目标才更有挑战性嘛。而且还可以设置阶段奖励，用来提高动力。",
+      sentence = "Hey, that's the fun part. Long-term goals make it interesting. Plus, I can throw in little milestone rewards to keep myself going.",
       voice = 1,
       male = 3
     },
@@ -184036,21 +184724,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这么说来好像游戏通关一样，那我也定个小目标。"
+      sentence = "You're making it sound like a video game... In that case, I'm setting my own goals too."
     },
     [21] = {
       next = "22",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "比如……承包周棋洛以后所有的键盘？"
+      sentence = "Something like... supplying all your future keyboards?"
     },
     [22] = {
       next = "23",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这个听上去不错，我们可以设置一个“任务条”，然后互相打卡。",
+      sentence = "Sounds enticing! We can even make a progress checker to track our milestones!",
       voice = 1,
       male = 3
     },
@@ -184059,23 +184747,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没问题，“奖励宝箱”的内容也由对方设计怎么样？"
+      sentence = "Done. And how about we take turns designing each other's rewards?"
     },
     [24] = {
       next = "25",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "哼哼，游戏的进度条我可不会输给$u。",
+      sentence = "Deal. But just so you know, I'm not gonna let you beat me, $u.",
       voice = 1,
       male = 3
     },
     [25] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "你可以把接下来的几个奖励宝箱都先做好，反正我很快就会达成进度的。",
+      sentence = "You better start thinking about what my rewards are gonna be because I'm coming for them real soon!",
       voice = 1,
       male = 3
     }
@@ -189101,10 +189789,10 @@ data = {
   [3283] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "$u，能——听——到——吗——",
+      sentence = "$u! Can! You! Hear! Me?!",
       voice = 1,
       male = 3
     },
@@ -189113,14 +189801,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "可——以——听——到——"
+      sentence = "Yes! I! Can!"
     },
     [3] = {
       next = "4",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "总算接通了！万万没想到，这次医疗剧的片场竟然这么偏僻。",
+      sentence = "Finally! I can't believe how out-of-the-way this new filming location is.",
       voice = 1,
       male = 3
     },
@@ -189129,21 +189817,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "毕竟故事是发生在深山的疗养院里嘛。"
+      sentence = "Well, the whole story takes place in a sanatorium deep in the mountains, remember?"
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你看到片场的照片时，不是也夸它很还原，有上世纪的感觉吗？"
+      sentence = "Didn't you say it looked super authentic in the photos? Like something from the '80s?"
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "可这里的信号也太差了，害得我都3天没跟你通话了……阿薯难道不想我吗？",
+      sentence = "Yeah, but the signal here is awful. I haven't been able to talk to you for three days... Don't you miss me, Miss Chips?",
       voice = 1,
       male = 3
     },
@@ -189152,14 +189840,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "想啊，所以我在加紧处理手头的工作，过几天就可以去探班啦！"
+      sentence = "Of course I do! That's why I'm wrapping up work fast so I can come visit soon!"
     },
     [8] = {
       next = "9",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "好耶！听说附近有个养蜂人很有名，等休息的时候，我们可以一起去他的小屋看看！",
+      sentence = "Yay! Oh—and I heard there's this beekeeper nearby that's kinda famous. When I get a break, let's go check out his cabin together!",
       voice = 1,
       male = 3
     },
@@ -189168,14 +189856,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这里还有人养蜜蜂啊？"
+      sentence = "Wait, there's actually a beekeeper out there?"
     },
     [10] = {
       next = "11",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "是啊，化妆老师说之前的剧组经常会光顾他的生意，因为他的蜂蜜有种特殊的香气。",
+      sentence = "Yep! The makeup artist said other film crews used to stop by all the time. Apparently, his honey has this really unique scent.",
       voice = 1,
       male = 3
     },
@@ -189184,14 +189872,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "真的吗？是什么样的香气啊？"
+      sentence = "For real? What kind of scent?"
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "说实话……我也不知道。",
+      sentence = "Honestly... I have no clue.",
       voice = 1,
       male = 3
     },
@@ -189200,32 +189888,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我还以为你一听到消息，就会立刻去买来尝尝看呢！"
+      sentence = "I figured you'd immediately run off to buy some the moment you heard about it."
     },
     [14] = {
       next = "15",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "其实，听化妆老师说起的时候，我确实立刻就让远哥带我开车去找了。",
+      sentence = "I did! As soon as she told me, I asked Savin to drive me there.",
       voice = 1,
       male = 3
     },
     [15] = {
       next = "16",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我们在公路上绕了好几个圈子，在半山腰找到了养蜂人的小屋。",
+      sentence = "We went in circles on the road and finally found the little cabin halfway up the mountain.",
       voice = 1,
       male = 3
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "小屋亮着灯，但不管我怎么敲门，都没有人来开。",
+      sentence = "The lights were on, but no matter how hard I knocked, nobody answered.",
       voice = 1,
       male = 3
     },
@@ -189234,23 +189922,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "说不定养蜂人出去了，等等就会回来呢？"
+      sentence = "Maybe he stepped out? Could've come back if you waited a little longer."
     },
     [18] = {
       next = "19",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我也是这么想的，就在门口等了半个小时，还是一个人都没有。",
+      sentence = "That's what I thought, so I waited outside for half an hour. But still no one.",
       voice = 1,
       male = 3
     },
     [19] = {
       next = "20",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "回酒店脱掉手术服一看，我身上被蚊子叮了好几个包！",
+      sentence = "Then when I went back to the hotel and took off my scrubs, I found I'd gotten eaten alive by mosquitoes!",
       voice = 1,
       male = 3
     },
@@ -189259,14 +189947,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等等，你说脱掉手术服，难道你是穿着戏服去的吗？"
+      sentence = "Hold on—scrubs? You went there in full costume?"
     },
     [21] = {
       next = "22",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "对啊，当时天色暗了，我担心找不到地方，妆都没卸就出发了……",
+      sentence = "Yeah... it was getting dark, and I didn't wanna waste time. I didn't even remove my makeup.",
       voice = 1,
       male = 3
     },
@@ -189275,28 +189963,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以在养蜂人看来，就是天黑之后，一个穿着疗养院手术服的陌生人突然来敲门。"
+      sentence = "So from the beekeeper's point of view, it was nighttime, and suddenly some stranger in hospital scrubs showed up knocking."
     },
     [23] = {
       next = "24",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不仅如此，他还在门口徘徊了半个小时，迟迟不肯离开。"
+      sentence = "Then he just lingered outside for half an hour."
     },
     [24] = {
       next = "25",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "简直就像是恐怖片里的情节，如果我是养蜂人，肯定要吓死了。"
+      sentence = "That's literally the start of a horror movie. If I were him, I'd be scared out of my mind."
     },
     [25] = {
       next = "26",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我太好奇特殊蜂蜜的味道，一时疏忽了……我明天就去给养蜂人道歉！",
+      sentence = "Oh no! I got too curious about the honey and didn't think it through... I'll go apologize tomorrow!",
       voice = 1,
       male = 3
     },
@@ -189305,23 +189993,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我们不是要一起去找他吗？到时候再跟他说明情况就好了。"
+      sentence = "Weren't we gonna go together though? We can explain when we visit."
     },
     [27] = {
       next = "28",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "嘿嘿，除了道歉，我还想让他给我留几瓶最好的蜂蜜。",
+      sentence = "Hehe, true. And besides apologizing, I wanna ask if he can save me a few jars of his best honey.",
       voice = 1,
       male = 3
     },
     [28] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这样等阿薯来，我们就可以尽情享受甜甜的蜂蜜啦~",
+      sentence = "That way, when you come to visit, Miss Chips, we can enjoy the sweet stuff together.",
       voice = 1,
       male = 3
     }
@@ -189329,10 +190017,10 @@ data = {
   [3284] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "$u，我猜你现在还在忙策划案对不对？",
+      sentence = "Hey, $u. Let me guess, you're still knee-deep in that proposal?",
       voice = 1,
       male = 3
     },
@@ -189341,23 +190029,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "被你猜中了，今天我的工作效率奇低无比，到现在还没有做完……"
+      sentence = "Yup... My productivity's been trash today—I'm still not done..."
     },
     [3] = {
       next = "4",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "可惜我还在车上，没法给你一个有活力的拥抱。",
+      sentence = "Ugh, I wish I were there. I'd totally give you a big energizing hug.",
       voice = 1,
       male = 3
     },
     [4] = {
       next = "5",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "不过我有另一个办法，你要不要试试？",
+      sentence = "But I've got another idea. Wanna try it?",
       voice = 1,
       male = 3
     },
@@ -189366,14 +190054,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好啊，是什么办法？"
+      sentence = "Sure. What do you have in mind?"
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "你先走到阳台上，然后朝外面看……看到今晚的“世纪夕阳”了吗？",
+      sentence = "Go stand on your balcony and look outside... Do you see tonight's epic sunset?",
       voice = 1,
       male = 3
     },
@@ -189382,41 +190070,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我看到啦，好美的夕阳啊！"
+      sentence = "Whoa, yeah—I see it! It's gorgeous!"
     },
     [8] = {
       next = "9",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "你也这么觉得吧？",
+      sentence = "Right??",
       voice = 1,
       male = 3
     },
     [9] = {
       next = "10",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "刚刚我一从机场出来，就看到一轮好大好红的夕阳，周围的云都被它染成了红色。",
+      sentence = "The moment I stepped out of the airport, I saw this giant red sunset. Even the clouds were glowing.",
       voice = 1,
       male = 3
     },
     [10] = {
       next = "11",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "但它的光线非常温柔，照在身上暖暖的，拍戏的疲惫一下就消失了。",
+      sentence = "The light was super soft and warm—it instantly melted away the fatigue from my filming.",
       voice = 1,
       male = 3
     },
     [11] = {
       next = "12",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "所以我立刻就想到，让工作了一天的你也来晒晒夕阳！",
+      sentence = "And I thought, hey, maybe it'll recharge you too!",
       voice = 1,
       male = 3
     },
@@ -189425,21 +190113,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，我现在又能量满满啦！"
+      sentence = "Hehe, I feel way more alive now!"
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "幸好有你提醒我，不然我就要错过它了。"
+      sentence = "Thanks for the heads-up. I would've missed it otherwise."
     },
     [14] = {
       next = "15",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "错过了也没关系，日落之后的蓝调时间也很美。",
+      sentence = "Even if you had, it's okay. The blue hour after sunset is just as pretty.",
       voice = 1,
       male = 3
     },
@@ -189448,32 +190136,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "蓝调时间是什么？"
+      sentence = "Blue hour?"
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "日落之后的18分钟到40分钟，暮光会和天空交织融合，变成特别漂亮的蓝色。",
+      sentence = "Yeah! It's the 18 to 40 minutes after sunset. The sky goes all soft and blue—super dreamy.",
       voice = 1,
       male = 3
     },
     [17] = {
       next = "18",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "浪漫的人们就把它叫做“蓝调时间”。",
+      sentence = "Romantic people call it the \"blue hour.\"",
       voice = 1,
       male = 3
     },
     [18] = {
       next = "19",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "但是它也被认为是最孤独的时刻，因为人们望着天空光芒散去，就会觉得静谧又孤独。",
+      sentence = "But some say it's also the loneliest time. The fading light makes everything feel quiet and kinda melancholy.",
       voice = 1,
       male = 3
     },
@@ -189482,46 +190170,46 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我不这么觉得哦~"
+      sentence = "Hmm, I don't see it that way."
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "特别漂亮的蓝色，那不就是你的眼睛嘛！"
+      sentence = "That dreamy blue reminds me of your eyes."
     },
     [21] = {
       next = "22",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "看到它，就好像在和你对视，我只会觉得特别幸福~"
+      sentence = "When I see it, it feels like I'm looking into them. Makes me feel happy, not lonely."
     },
     [22] = {
       next = "23",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "欸，我也想看到阿薯！",
+      sentence = "Aww, I wanna see you too, Miss Chips!",
       voice = 1,
       male = 3
     },
     [23] = {
       next = "24",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "幸好我已经到楼下了，在蓝调时间到来之前，我一定会回到$u身边。",
+      sentence = "Good thing I'm downstairs already. I'll be by $u's side before the blue hour's over.",
       voice = 1,
       male = 3
     },
     [24] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我们两个人一起，就不会孤独啦。",
+      sentence = "When we're together, loneliness doesn't stand a chance.",
       voice = 1,
       male = 3
     }
@@ -191390,19 +192078,19 @@ data = {
   [3295] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "咦？我记得你的航班一小时前就起飞了……",
+      sentence = "Huh? Didn't your flight take off like an hour ago?",
       voice = 1,
       male = 3
     },
     [2] = {
       next = "3",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么现在突然给我发了信息？是延误了吗？",
+      sentence = "Why are you messaging me now? Was there a delay?",
       voice = 1,
       male = 3
     },
@@ -191411,30 +192099,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "唉……别提了，刚刚发布了暴雨预警，航班大规模延误。"
+      sentence = "Ugh... don't get me started. They just issued a heavy rain warning, and now a bunch of flights are delayed."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我现在只希望自己的航班不要取消……"
+      sentence = "I really hope they don't cancel my flight..."
     },
     [5] = {
       next = "6",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "没关系，就算取消了，也只是会稍晚一些回来而已。",
+      sentence = "It's okay. No biggie. Even if it's canceled, it just means you'll get home a little later.",
       voice = 1,
       male = 3
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "等你回来，我们立刻就去吃点你喜欢的东西恢复能量和心情吧。",
+      sentence = "When you're back, we'll go grab something you like to eat to perk you right up.",
       voice = 1,
       male = 3
     },
@@ -191443,32 +192131,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯，没错，我也要学习你这种心态！"
+      sentence = "Yes! I need to learn to think like you."
     },
     [8] = {
       next = "9",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "哈哈，毕竟我时不时就会在各个机场周转，有非常丰富的误机经验呀。",
+      sentence = "Haha, I mean... I've spent enough time stuck at airports.",
       voice = 1,
       male = 3
     },
     [9] = {
       next = "10",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "不仅是延误，航班取消、行程变更、行李丢失……",
+      sentence = "Delays, cancellations, last-minute changes, lost luggage—you name it.",
       voice = 1,
       male = 3
     },
     [10] = {
       next = "11",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我已经很习惯在机场遇到各种情况了。",
+      sentence = "I'm basically an airport survival expert at this point.",
       voice = 1,
       male = 3
     },
@@ -191477,14 +192165,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗……怎么听起来惨惨的。"
+      sentence = "Haha. That sounds kinda tragic."
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "虽然很无奈，不过也有不少因为这些特殊情况，才能体验到的事哦？",
+      sentence = "Eh, not ideal, but sometimes you get some pretty cool experiences out of it.",
       voice = 1,
       male = 3
     },
@@ -191493,32 +192181,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯？比如说？"
+      sentence = "Oh yeah? Like what?"
     },
     [14] = {
       next = "15",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "比如说，可以寻觅一下机场美食。",
+      sentence = "Like discovering awesome airport food.",
       voice = 1,
       male = 3
     },
     [15] = {
       next = "16",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "根据我的记忆，你现在所在的机场有一家很好吃的小笼包店。",
+      sentence = "If I remember right, there's a killer steamed bun spot at your airport.",
       voice = 1,
       male = 3
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "虽然确实是连锁店，但每个小笼包都是师傅现场手工制作，味道特别鲜美。",
+      sentence = "It's a chain, sure, but each one is handmade and tastes so good.",
       voice = 1,
       male = 3
     },
@@ -191527,14 +192215,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "刚好我还没吃饭呢！我这就去试试看。"
+      sentence = "Perfect, I haven't eaten yet. I'm heading there now!"
     },
     [18] = {
       next = "19",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "吃完小笼包，还可以到40号登机口附近逛逛。那里有家奶茶店，还有一排按摩椅。",
+      sentence = "After that, check out the area near Gate 40. There's a boba tea shop and a row of massage chairs there.",
       voice = 1,
       male = 3
     },
@@ -191543,23 +192231,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇，感觉你有好丰富的机场生存经验！"
+      sentence = "Wow, you really are a seasoned traveler!"
     },
     [20] = {
       next = "21",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "如果你需要，我可以给你列一份详细的“机场生存指南”，陪你一起度过候机时间。",
+      sentence = "If you want, I can totally make you a full \"airport survival guide\" to help you kill time.",
       voice = 1,
       male = 3
     },
     [21] = {
       next = "22",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这么一想，是不是觉得延误也没那么讨厌了？",
+      sentence = "Kind of makes the delay not so bad when you think about it, right?",
       voice = 1,
       male = 3
     },
@@ -191568,14 +192256,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，确实！有洛在手，万事不愁~"
+      sentence = "Haha, totally! As long as I've got you, I'm all set."
     },
     [23] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那么，请做好准备，和你的机场导览小助手周棋洛一起，开启一段机场之旅吧。",
+      sentence = "Then let's go! Time to kick off your airport adventure with your trusty guide, Kiro at your service!",
       voice = 1,
       male = 3
     }
@@ -191583,10 +192271,10 @@ data = {
   [3296] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "薯片小姐，我刚才在开会，没听到手机响。",
+      sentence = "Miss Chips, I was in a meeting just now. Sorry, I missed your call.",
       voice = 1,
       male = 3
     },
@@ -191595,21 +192283,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我没什么重要的事。"
+      sentence = "No worries, it wasn't anything urgent."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "就是刚才在美妆店想起你要和剧组去度假庆功，想问问你需不需要防晒霜。"
+      sentence = "I was just at a makeup store and suddenly remembered you were heading off on that celebration trip with your crew. Thought you might need some sunscreen."
     },
     [4] = {
       next = "5",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "现在还来得及买吗？我刚好用完了一支。",
+      sentence = "Ooh, is it still okay to get me one? I just ran out.",
       voice = 1,
       male = 3
     },
@@ -191618,23 +192306,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我已经给你备好啦。"
+      sentence = "Already got you covered."
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "嘿嘿，还是$u对我最好啦。",
+      sentence = "I knew I could count on you, $u. You're the best!",
       voice = 1,
       male = 3
     },
     [7] = {
       next = "8",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "不像远哥，提到度假只会跟我们约法三章……",
+      sentence = "Unlike Savin. Every time we talk about vacations, he goes into full rulebook mode...",
       voice = 1,
       male = 3
     },
@@ -191643,32 +192331,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯？远哥怎么说？"
+      sentence = "Oh? What'd he say?"
     },
     [9] = {
       next = "10",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "你不知道，刚才我们开了个度假承诺会。",
+      sentence = "We literally just had a \"vacation agreement meeting\".",
       voice = 1,
       male = 3
     },
     [10] = {
       next = "11",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "他列出来一堆条条框框，不允许这个不允许那个的。",
+      sentence = "He pulled out this huge list of dos and don'ts.",
       voice = 1,
       male = 3
     },
     [11] = {
       next = "12",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "违反条例的人，还要被他罚款呢。",
+      sentence = "And get this: anyone who breaks a rule has to pay a fine!",
       voice = 1,
       male = 3
     },
@@ -191677,59 +192365,59 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗——听起来还挺有意思的，都有什么条例呀？"
+      sentence = "Haha, that actually sounds kinda fun. What kind of rules?"
     },
     [13] = {
       next = "14",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "大致就是不允许我们太过闹腾、不允许暴露身份之类的。",
+      sentence = "Stuff like \"not being too loud\", \"don't reveal our identities\"...",
       voice = 1,
       male = 3
     },
     [14] = {
       next = "15",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这些都还好，但我严重怀疑个别条例有针对性！",
+      sentence = "Those are fine. But some of them feel way too specific...",
       voice = 1,
       male = 3
     },
     [15] = {
       next = "16",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "比如……你等等，我把条例打开给你念一下。",
+      sentence = "Like... hang on, I'll read you a few:",
       voice = 1,
       male = 3
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "“禁止以品尝当地特色为由，私自下单甜品点心。”",
+      sentence = "\"No ordering desserts under the excuse of sampling local specialties.\"",
       voice = 1,
       male = 3
     },
     [17] = {
       next = "18",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "“禁止购物时以品尝特色为由，大量购买当地零食。”",
+      sentence = "\"No bulk-buying snacks using 'research purposes' as an excuse.\"",
       voice = 1,
       male = 3
     },
     [18] = {
       next = "19",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "“如度假结束后演员体重上涨，则全公司陪同演员吃减脂餐三个月！”",
+      sentence = "\"If anyone gains weight over vacation, the entire team has to eat diet food with them for three months!\"",
       voice = 1,
       male = 3
     },
@@ -191738,39 +192426,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈哈，这么听下来确实有些针对性了哦。"
+      sentence = "Hahahaha okay, that definitely sounds like it's aimed at someone in particular."
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我还想着这次拍戏你为了角色瘦了不少，度假能好好享受美食呢。"
+      sentence = "I was actually thinking you've slimmed down a lot for this role. I figured you'd finally get to enjoy some good food!"
     },
     [21] = {
       next = "22",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "谁让度假结束后，我的下一部戏马上就要开拍了呢。",
+      sentence = "It's just unfortunate my next film starts shooting right after the vacation.",
       voice = 1,
       male = 3
     },
     [22] = {
       next = "23",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "不过没关系，反正对我来说，再有特色的食物也要和薯片小姐一起品尝才最美味～",
+      sentence = "Still, food's only amazing when I get to share it with you, Miss Chips!",
       voice = 1,
       male = 3
     },
     [23] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "等下次有机会，我们单独去度假，把这次没有尝到的东西都补上！",
+      sentence = "Next time we get the chance, let's go on our own trip, just you and me. We'll make up for everything I've missed this time!",
       voice = 1,
       male = 3
     }
@@ -191778,10 +192466,10 @@ data = {
   [3297] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "薯片小姐，我这边已经收工啦，还有十分钟到家楼下。",
+      sentence = "Miss Chips, I'm off work and will be home in ten minutes.",
       voice = 1,
       male = 3
     },
@@ -191790,14 +192478,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好哦，我就在路边！"
+      sentence = "OK. I'm waiting on the sidewalk."
     },
     [3] = {
       next = "4",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "你怎么提前下来了，距离攀岩馆预约的时间还很充裕呢。",
+      sentence = "You didn't have to come out so early. We have plenty of time till our appointment at the climbing gym.",
       voice = 1,
       male = 3
     },
@@ -191806,30 +192494,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，我这不是想着早点去能早点开始嘛。"
+      sentence = "Heehee, I just thought we could start early."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "而且不瞒你说，虽然我还是初学者，但总有一种上瘾的感觉……"
+      sentence = "I'm not going to lie. I might be a beginner, but I feel like I'm already hooked..."
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我懂，我一开始也这样。",
+      sentence = "Yeah, I get it. I was like that at first.",
       voice = 1,
       male = 3
     },
     [7] = {
       next = "8",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "去了一次之后，我又继续在馆里泡了一整天，最后胳膊都抬不起来了。",
+      sentence = "After my first try, I stayed in the gym for a whole day until I couldn't even raise my arms.",
       voice = 1,
       male = 3
     },
@@ -191838,46 +192526,46 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗，那你还要比我“疯狂”一点！我只是做梦都梦见自己在攀岩而已。"
+      sentence = "Haha, you were definitely more addicted than me. I was just dreaming about climbing."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过我现在这么痴迷，希望最后不只是三分钟热度……"
+      sentence = "I do hope that my love for climbing will last..."
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "感觉过段时间我又要忙了，说不定这次也会变成像过去那种心血来潮的爱好……"
+      sentence = "But I'm going to be busy soon. Maybe it'll be another one of my spur-of-the-moment hobbies..."
     },
     [11] = {
       next = "12",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "哈哈哈哈，三分钟热度也没什么不好吧？",
+      sentence = "Hahaha, what's wrong with spur-of-the-moment hobbies?",
       voice = 1,
       male = 3
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "至少你尝试了，体验了。",
+      sentence = "At least you tried and enjoyed them.",
       voice = 1,
       male = 3
     },
     [13] = {
       next = "14",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这个世界上有很多好玩的事，如果都要从一而终，时间恐怕根本不够用吧~",
+      sentence = "There are a million fun things in the world. We don't have time to enjoy them all from start to finish.",
       voice = 1,
       male = 3
     },
@@ -191886,37 +192574,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，我好像是有点杞人忧天了！"
+      sentence = "Heehee, I might be worrying about nothing."
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "可能是因为有了和你一样的爱好，所以就想认真坚持下去吧。"
+      sentence = "I just feel like we finally share a hobby and I shouldn't give up so easily."
     },
     [16] = {
       next = "17",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "万一我半途而废，周先生“寂寞”了怎么办？"
+      sentence = "What if Mr. Kiro gets lonely after I quit halfway?"
     },
     [17] = {
       next = "18",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "噢……原来你的自寻烦恼是因为我吗？那就更更更不需要这样了。",
+      sentence = "Oh... So, you're actually worrying about me? There's no need.",
       voice = 1,
       male = 3
     },
     [18] = {
       next = "19",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "因为我们最大的共同爱好是“快乐”，不是吗？",
+      sentence = "Because we'll always share the same love for fun and joy, right?",
       voice = 1,
       male = 3
     },
@@ -191925,41 +192613,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我很贪心嘛，想要我们的共同爱好越来越多，越来越大。"
+      sentence = "I'm greedy. I want us to share more and bigger hobbies."
     },
     [20] = {
       next = "21",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那这样……我们来做个约定好了~",
+      sentence = "Well... Let's make a deal, then.",
       voice = 1,
       male = 3
     },
     [21] = {
       next = "22",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "一旦有人离开了某个爱好，那这个人就要立刻发现新的好玩的事情。",
+      sentence = "If one of us gives up on a hobby, they will have to find something new for us to enjoy.",
       voice = 1,
       male = 3
     },
     [22] = {
       next = "23",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "大的也好，小的也好……就让我们把这份探索精神和快乐，一直一直持续下去。",
+      sentence = "No matter how grand or simple... Let's never stop our search for fun and joy.",
       voice = 1,
       male = 3
     },
     [23] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "——记在我们人生的To do list里。",
+      sentence = "—Let's put it on our lives' to-do list.",
       voice = 1,
       male = 3
     }
@@ -191967,19 +192655,19 @@ data = {
   [3298] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "薯——片——小——姐——",
+      sentence = "Miss— Chips—!",
       voice = 1,
       male = 3
     },
     [2] = {
       next = "3",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "写歌好难啊——",
+      sentence = "Ughhh, writing songs is soooo hard!",
       voice = 1,
       male = 3
     },
@@ -191988,14 +192676,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你听起来好疲惫……最近在写什么呀？"
+      sentence = "You sound totally wiped... What've you been working on?"
     },
     [4] = {
       next = "5",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "有家游戏公司最近要推出一款老游戏的重置版，邀请我给游戏写一首歌。",
+      sentence = "A game company's remaking this classic game, and they asked me to write a song for it.",
       voice = 1,
       male = 3
     },
@@ -192004,23 +192692,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你不喜欢那款游戏吗？"
+      sentence = "Wait, don't you love that game?"
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "正相反，我特别喜欢它，从宣布要出重置版的时候我就一直在关注。",
+      sentence = "I do! I've been obsessed with it ever since they announced the remake.",
       voice = 1,
       male = 3
     },
     [7] = {
       next = "8",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "收到官方合作邀请的时候，我都差点儿跳起来了。",
+      sentence = "When the collab invite landed in my inbox, I legit almost jumped through the roof.",
       voice = 1,
       male = 3
     },
@@ -192029,48 +192717,48 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那我懂了。"
+      sentence = "Ah, now I get it."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我们大明星是“近乡情怯”，因为很喜欢，所以反而写不出来了。"
+      sentence = "Our superstar's having a \"too-close-to-home\" moment. Because you love it so much, now you're stuck."
     },
     [10] = {
       next = "11",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "你懂我！！",
+      sentence = "Exactly!",
       voice = 1,
       male = 3
     },
     [11] = {
       next = "12",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我越写，想放到歌里的东西就越多，完全做不出取舍。",
+      sentence = "The more I write, the more stuff I wanna squeeze in. I can't choose what to keep!",
       voice = 1,
       male = 3
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "写到一半，更是想重新考据一下，打开了游戏。",
+      sentence = "And halfway through, I was like, \"Wait... maybe I should go fact-check a few things\", so I opened up the game...",
       voice = 1,
       male = 3
     },
     [13] = {
       next = "14",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "结果等我反应过来，已经能看到第二天的太阳了。",
+      sentence = "Next thing I know, the sun's rising. Literally.",
       voice = 1,
       male = 3
     },
@@ -192079,30 +192767,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗……这个情况好有既视感，总觉得不久前才发生过。"
+      sentence = "Hahaha, why does that sound so familiar?"
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "似乎是某位大歌星给《烈光勇士》创作动画主题曲的时候？"
+      sentence = "Didn't you pull this exact thing when writing the Firelight Warrior theme?"
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "看来人总是会无数次地踏入同一条卡顿的河流。",
+      sentence = "Yup. Guess people really do step into the same river twice.",
       voice = 1,
       male = 3
     },
     [17] = {
       next = "18",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "不过换个角度想想，人也总是会无数次地从河流里爬出来。",
+      sentence = "But hey, at least I always manage to swim back out.",
       voice = 1,
       male = 3
     },
@@ -192111,14 +192799,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈，我刚才还在想，要不要做点什么鼓励你一下，现在看来是不需要了。"
+      sentence = "Hahaha, I was just thinking if I needed to give you a pep talk or something. But sounds like you're doing okay."
     },
     [19] = {
       next = "20",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "当然需要。我打电话给你，就是有一件急需你支援的事情。",
+      sentence = "Nooo, I still need you! I called for a reason, you know. Emergency backup required!",
       voice = 1,
       male = 3
     },
@@ -192127,23 +192815,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是什么？"
+      sentence = "Okay okay, what's the mission?"
     },
     [21] = {
       next = "22",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我想和你一起打一打这款游戏。既然是重置版，当然也要考虑新玩家的印象。",
+      sentence = "Let's play the game together! It's a remake, right? I've gotta see how it feels for new players too.",
       voice = 1,
       male = 3
     },
     [22] = {
       next = "23",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "而且，我总觉得如果我的灵感女神在身边，一定可以创作出一首前所未有的好歌。",
+      sentence = "And honestly, if my muse is next to me, I just know I'll be able to write the perfect song.",
       voice = 1,
       male = 3
     },
@@ -192152,23 +192840,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这点小事，包在我身上~"
+      sentence = "That's easy. Leave it to me!"
     },
     [24] = {
       next = "25",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那我这就给你安排上最佳配置……",
+      sentence = "Yes!! I'll set up the ultimate co-op build for us!",
       voice = 1,
       male = 3
     },
     [25] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "再点上我们都馋了好久的外卖，一起开启灵感发掘之旅吧！",
+      sentence = "I'll even order from that takeout we've been craving. Let's kick off this quest for inspiration!",
       voice = 1,
       male = 3
     }
@@ -192176,19 +192864,19 @@ data = {
   [3299] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "Hi，薯片小姐，猜猜我刚刚收到了什么？",
+      sentence = "Guess what I just got, Miss Chips?",
       voice = 1,
       male = 3
     },
     [2] = {
       next = "3",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "提示：和万圣节相关！",
+      sentence = "Hint: It's Halloween-related!",
       voice = 1,
       male = 3
     },
@@ -192197,39 +192885,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯？我们最近好像没有买什么新东西吧……"
+      sentence = "Hmm? I don't think we ordered anything new lately..."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等等！难道一波南瓜未平，一波南瓜又起？"
+      sentence = "Wait, is this another round of pumpkins?"
     },
     [5] = {
       next = "6",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "你也太小看我了，区区南瓜怎么值得我专门打电话给你。",
+      sentence = "C'mon. I'd never have called you if it were just some pumpkins!",
       voice = 1,
       male = 3
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "是之前的真人RPG游戏馆刚刚发来了我们的照片。",
+      sentence = "It's the photos from that live-action RPG place!",
       voice = 1,
       male = 3
     },
     [7] = {
       next = "8",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "过了几天一看，阿薯女巫的装扮还是那么可爱。",
+      sentence = "Even after a few days, Miss Chips' witch look is still super cute.",
       voice = 1,
       male = 3
     },
@@ -192238,46 +192926,46 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，说起这个，我也很想和小周圣职者再一次踏上冒险之旅。"
+      sentence = "Hehe, I've actually been dying to go on another adventure with High Priest Kiro."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我后来看了其他人的评价，我们的角色还有其他隐藏剧情呢！"
+      sentence = "I saw other people's reviews. Apparently, our characters had extra hidden storylines!"
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "要不我们再去玩一次？"
+      sentence = "What if we went back for round two?"
     },
     [11] = {
       next = "12",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "二刷吗？好像挺不错的……不过如果要开启新的冒险，你不想试试其他角色吗？",
+      sentence = "Ooh, a replay? Sounds pretty fun... But if we're doing a new run, don't you wanna try out new characters?",
       voice = 1,
       male = 3
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "“图书塔管理员”、“流浪火枪手”、“魔法道具商人”，等等等等。",
+      sentence = "Like \"Librarian of the Tower\", \"Wandering Gunslinger\", \"Magical Trinket Seller\"—there's a whole list!",
       voice = 1,
       male = 3
     },
     [13] = {
       next = "14",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "每个角色也都有自己的个人任务，就算是同样的主线，也会有不一样的感受。",
+      sentence = "Each one's got their own personal mission too, so even if the main story's the same, the experience totally changes.",
       voice = 1,
       male = 3
     },
@@ -192286,21 +192974,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯……也有道理！"
+      sentence = "Hmm... good point!"
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "既然我们之前是圣职者和女巫，下次不如试试火枪手和道具商人吧？"
+      sentence = "We were a priest and a witch last time, so maybe this time we try gunslinger and trinket seller?"
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那我想当次道具商人，到时候再请这位火枪手小姐为我保驾护航。",
+      sentence = "Ooh ooh, dibs on trinket seller! And Miss Gunslinger can be my loyal bodyguard.",
       voice = 1,
       male = 3
     },
@@ -192309,14 +192997,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "包在我身上！不过，等我向你购买道具的时候，一定要给我打折哦？"
+      sentence = "Deal! But when I come to buy your trinkets, you'd better give me a discount."
     },
     [18] = {
       next = "19",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "放心，保证物美价廉。",
+      sentence = "Of course! Best deals in town, guaranteed.",
       voice = 1,
       male = 3
     },
@@ -192325,21 +193013,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗，感觉好像小时候大家扮家家酒。"
+      sentence = "Haha, this feels just like when we were kids playing pretend."
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "一起商量着要扮演什么角色，要编出什么剧情……"
+      sentence = "Arguing over who gets to be what, making up stories on the spot..."
     },
     [21] = {
       next = "22",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "然后一起完成只属于彼此的，最可爱的故事。",
+      sentence = "And building the cutest little worlds that were just for us.",
       voice = 1,
       male = 3
     },
@@ -192348,30 +193036,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "唉……要是除了照片，还有其他方式能保留下我们这次创造的故事就好了。"
+      sentence = "Sigh... I kinda wish we had more than just photos from it. Would've been nice to keep our little adventure in a more lasting way."
     },
     [23] = {
       next = "24",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我还挺想时不时复盘一下的。"
+      sentence = "Something I could look back on whenever I felt like it."
     },
     [24] = {
       next = "25",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "不如我们把它写成歌吧。",
+      sentence = "Then let's write a song about it!",
       voice = 1,
       male = 3
     },
     [25] = {
       next = "26",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "把一路的经历和见闻加工一下，变成歌词，再配上八音盒和管弦乐为主的音乐。",
+      sentence = "Take all the fun and magic and turn it into lyrics, with a music box and orchestra-style vibe to match.",
       voice = 1,
       male = 3
     },
@@ -192380,23 +193068,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈哈，没想到除了冒险故事，我们还多了一首万圣小调！"
+      sentence = "Hahahaha, so now we've got a Halloween jingle to go with the story!"
     },
     [27] = {
       next = "28",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "不仅如此哦，我还能和你一起创作诗歌，甚至一起画一幅抽象小画。",
+      sentence = "And that's just the beginning! We could write poems, draw cute little abstract art...",
       voice = 1,
       male = 3
     },
     [28] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我们一起经历的所有趣事，都是艺术品。",
+      sentence = "Everything we do together is a masterpiece.",
       voice = 1,
       male = 3
     }
@@ -192827,11 +193515,10 @@ data = {
   [3302] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "阿薯，刚刚看你在朋友圈里分享了一首《好运来》，怎么转眼间就被你删了？",
-      voice = 1,
+      sentence = "Hey, Miss Chips! I saw your \"good luck\" song post for like two seconds—what happened?",
       male = 3
     },
     [2] = {
@@ -192839,22 +193526,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜呜，因为我太得意太贪心，导致最后的结果落空……"
+      sentence = "Ugh, I let my early success go to my head and got greedy... and it totally blew up in my face."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以就又尴尬又羞愧地删掉了……"
+      sentence = "So I just deleted it out of sheer embarrassment..."
     },
     [4] = {
       next = "5",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "得意和贪心？是发生了什么吗？",
-      voice = 1,
+      sentence = "Greedy? Over what?",
       male = 3
     },
     [5] = {
@@ -192862,15 +193548,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯……我刚刚买了一张刮刮乐中了20，选择再来一次之后又中了20……"
+      sentence = "Well... I bought a scratchcard and won 20 bucks. I cashed it in for another, and that one got me another 20..."
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "但你还是没收手，又兑换了一张？",
-      voice = 1,
+      sentence = "But you didn't stop there, did you?",
       male = 3
     },
     [7] = {
@@ -192878,31 +193563,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没错，这一次我竟然中了100！"
+      sentence = "Nope! And then I hit 100 on the next one!"
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "然后我就犹豫是拿钱走人，还是再来五张……"
+      sentence = "Then I was stuck... cash out or risk it on five more..."
     },
     [9] = {
       next = "10",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么办，我好像已经知道结局了。",
-      voice = 1,
+      sentence = "Oh no... I have a terrible feeling I know where this is going.",
       male = 3
     },
     [10] = {
       next = "11",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "结果就是你又换了五张，但这一次什么都没中，对不对？",
-      voice = 1,
+      sentence = "You went for the five and lost it all, didn't you?",
       male = 3
     },
     [11] = {
@@ -192910,31 +193593,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯…………"
+      sentence = "...Unfortunately, yes."
     },
     [12] = {
       next = "13",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "如果当时拿钱走人就好了，我现在已经拎着两杯奶茶和小蛋糕回家了。"
+      sentence = "I should've quit. I could've had boba and cake by now."
     },
     [13] = {
       next = "14",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "不伤心不伤心，正好我路过一家商场，等等就把你喜欢的奶茶和蛋糕带回家。",
-      voice = 1,
+      sentence = "No worries—I'm swinging by the mall anyway. Your favorite treats are on me.",
       male = 3
     },
     [14] = {
       next = "15",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "毕竟只有吃到肚子里的幸福和开心是绝对跑不掉的。",
-      voice = 1,
+      sentence = "The best kind of luck is the one you can actually taste.",
       male = 3
     },
     [15] = {
@@ -192942,15 +193623,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜还好有你安慰我，不然我今天真的一无所有了。"
+      sentence = "Thank you... I really needed that. I'd be totally bummed otherwise."
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "阿薯好消极哦，我还等着你的帮助呢……这可怎么办？",
-      voice = 1,
+      sentence = "Hey, no moping! I was counting on my lucky charm to help me out... what am I gonna do now?",
       male = 3
     },
     [17] = {
@@ -192958,24 +193638,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "帮助？是需要我做些什么吗？"
+      sentence = "Help? What is it?"
     },
     [18] = {
       next = "19",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我想让你帮我抽一款游戏的武器箱子，因为里面有一个传说级的枪皮肤我怎么都抽不出来。",
-      voice = 1,
+      sentence = "I need you to pull for me in this game. There's a legendary gun skin I've been after forever.",
       male = 3
     },
     [19] = {
       next = "20",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "但你今天运气很好，有你出手就一定能帮我抽中。",
-      voice = 1,
+      sentence = "And today, with your luck? It's gonna happen. I can feel it!",
       male = 3
     },
     [20] = {
@@ -192983,40 +193661,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我？"
+      sentence = "Me?"
     },
     [21] = {
       next = "22",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不行不行，我很一般，不然也不会空手而归了。"
+      sentence = "But my luck's not that great... clearly."
     },
     [22] = {
       next = "23",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "谁说的，阿薯只是有点小贪心而已。",
-      voice = 1,
+      sentence = "Nah, you've got great luck! You just got caught up in the moment.",
       male = 3
     },
     [23] = {
       next = "24",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "再加上刮刮乐又不给你容错的机会，才会两手空空。",
-      voice = 1,
+      sentence = "Scratchcards are all or nothing—no mercy.",
       male = 3
     },
     [24] = {
       next = "25",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我就不一样了，我已经攒了两百个武器箱，绝对够你大展身手了。",
-      voice = 1,
+      sentence = "But here's the thing! I've been hoarding crates—like 200 of them! That's a mountain of chances for your luck to kick in!",
       male = 3
     },
     [25] = {
@@ -193024,22 +193699,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "两百个？？"
+      sentence = "200? Seriously?"
     },
     [26] = {
       next = "27",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗哈哈哈，我知道了。你是为了让我开心才让我抽箱子的，对不对？"
+      sentence = "Haha, I get it. You're doing this to cheer me up, right?"
     },
     [27] = {
       next = "28",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我的确是这么想的，不过也是真的真的很想要那款皮肤。",
-      voice = 1,
+      sentence = "Can't hide anything from you... but I really do want that skin!",
       male = 3
     },
     [28] = {
@@ -193047,42 +193721,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好吧~既然你都这么说了，那我待会好好洗个手，再把家里的幸运玩偶抱在身上……"
+      sentence = "Alright, alright~ Since you asked so nicely, I'll perform the full ritual. Hands washed, lucky plushie secured..."
     },
     [29] = {
       next = "30",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "保证帮你抽出来！"
+      sentence = "I'll get you that skin!"
     },
     [30] = {
       next = "31",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "非常好，我的幸运女神已经重新燃起斗志了。",
-      voice = 1,
+      sentence = "Perfect! My lucky charm is back in action.",
       male = 3
     },
     [31] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那等抽到之后，我就要立刻和队友炫耀炫耀——快看，这是我女朋友给我抽到的皮肤，厉害吧！",
-      voice = 1,
+      sentence = "Once it's ours, I'm telling the whole team, \"My girlfriend's luck got me this. Incredible, right?\"",
       male = 3
     }
   },
   [3303] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "薯片小姐，我有一个好消息和一个超级好消息想告诉你，你想先听哪一个？",
-      voice = 1,
+      sentence = "Miss Chips~! I've got good news and SUPER good news. Which do you want first?",
       male = 3
     },
     [2] = {
@@ -193090,24 +193761,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "竟然有这么好的事情，那我先听普通版的好消息吧~"
+      sentence = "Ooh, exciting! Hit me with the regular good news first."
     },
     [3] = {
       next = "4",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "好，普通版的好消息就是我进组的时间暂时延后了10天。",
-      voice = 1,
+      sentence = "Deal. So, the regular good news is... my filming schedule got pushed back a whole ten days!",
       male = 3
     },
     [4] = {
       next = "5",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这样我就能做更多的拍摄准备，也能在你身边多留几天了。",
-      voice = 1,
+      sentence = "More time to prepare, and way more time to spend with my favorite person.",
       male = 3
     },
     [5] = {
@@ -193115,22 +193784,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "真的吗，太好了！"
+      sentence = "No way! That's perfect."
     },
     [6] = {
       next = "7",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "正好你前两天还苦恼自己的体脂率差一点点达标，现在肯定没问题了。"
+      sentence = "Now you can finally get that body fat percentage right where you want it."
     },
     [7] = {
       next = "8",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "没错，现在我要宣布超级好消息了。还记得我们在庙会那天畅想的生活吧？",
-      voice = 1,
+      sentence = "Totally! Now, for the great news. Remember our little dream at the temple fair?",
       male = 3
     },
     [8] = {
@@ -193138,31 +193806,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯，你说要开个前无古人的奶茶店，我要摆字画摊。"
+      sentence = "Mmhmm—you with your legendary tea shop, me with my art stall."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等攒够钱，我们就云游四方……等等，难道你设计了什么绝妙的旅行路线吗？"
+      sentence = "Saving up to travel everywhere... Wait, did you plan out some amazing trip?"
     },
     [10] = {
       next = "11",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那倒不是，我是想告诉你……我在如意镇的官网上抢到“摊主”的一日资格证。",
-      voice = 1,
+      sentence = "Even better. I scored two one-day vendor permits online for Ruyi Town.",
       male = 3
     },
     [11] = {
       next = "12",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "等我们准备准备，收拾收拾就可以去镇上摆两个真的摊位了~",
-      voice = 1,
+      sentence = "We can actually go try out our dream stalls for real.",
       male = 3
     },
     [12] = {
@@ -193170,58 +193836,53 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "什么，这也太棒了吧？"
+      sentence = "Seriously? That's incredible!"
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过……你不是还要准备进剧组的事吗？会不会耽误你的时间呀？"
+      sentence = "But what about your filming prep? Will you have time?"
     },
     [14] = {
       next = "15",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我的好阿薯，怎么总是那么为我着想？",
-      voice = 1,
+      sentence = "Always worrying about me, huh?",
       male = 3
     },
     [15] = {
       next = "16",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "关于这一点，放一万个心吧。",
-      voice = 1,
+      sentence = "Don't sweat it.",
       male = 3
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "由于这十天十分宝贵，所以我已经做好了非常详尽的时间表，精确到分钟的那种。",
-      voice = 1,
+      sentence = "I've got every minute of these ten days mapped out.",
       male = 3
     },
     [17] = {
       next = "18",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "比如……早上10点起床，10点01分给你一个早安吻，10点30去健身房，12点25回家吃午饭。",
-      voice = 1,
+      sentence = "Check this out... 10 AM: wake up. 10:01: good morning kiss for you. 10:30: hit the gym. 12:25: lunch break.",
       male = 3
     },
     [18] = {
       next = "19",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "1点半洗碗，2点和你午睡30分钟，然后继续去健身房，5点回来陪你打游戏……",
-      voice = 1,
+      sentence = "1:30 PM: dishes. 2:00: mandatory 30-minute nap with my favorite person. Then back to the gym, and I'm all yours for gaming by 5!",
       male = 3
     },
     [19] = {
@@ -193229,15 +193890,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈，听起来分配得还挺合理嘛，非常劳逸结合~"
+      sentence = "Hah! That does sound nicely balanced."
     },
     [20] = {
       next = "21",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我规划得当然很合理，但……我要提前宣告一条免责声明。",
-      voice = 1,
+      sentence = "It's a solid plan... but I should warn you.",
       male = 3
     },
     [21] = {
@@ -193245,43 +193905,40 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是什么？"
+      sentence = "About what?"
     },
     [22] = {
       next = "23",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "“该时间计划表的执行，最终解释权归周棋洛所有。”",
-      voice = 1,
+      sentence = "\"This schedule is subject to change without notice—by me.\"",
       male = 3
     },
     [23] = {
       next = "24",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "因为我知道就算自己规划的再好，心里的小天平总会倾向你多一点。",
-      voice = 1,
+      sentence = "Because no matter how organized I am, my plans always bend toward you.",
       male = 3
     },
     [24] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "再多那么一点点~",
-      voice = 1,
+      sentence = "Always.",
       male = 3
     }
   },
   [3304] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "早上好薯片小姐，昨晚睡得好吗？",
+      sentence = "Mornin', Miss Chips! Get some good rest?",
       voice = 1,
       male = 3
     },
@@ -193290,14 +193947,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呵啊——早上好……诶？你不在酒店房间吗？"
+      sentence = "Haaah—Morning... Wait, you're not in the room?"
     },
     [3] = {
       next = "4",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "为了让你继续享受难忘的盲盒体验，我可是一大早就出门了。",
+      sentence = "Gotta keep the mystery box rolling! I had to head out early to set up the next act.",
       voice = 1,
       male = 3
     },
@@ -193306,23 +193963,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "继续享受？原来这次的盲盒之旅还没结束吗？"
+      sentence = "There's a next act? This whole surprise trip is still going?"
     },
     [5] = {
       next = "6",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "当然了！",
+      sentence = "You bet it is!",
       voice = 1,
       male = 3
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这可是为你量身定制的特等奖，哪有那样匆匆结束的道理？",
+      sentence = "Remember, this is the grand prize, made just for you. I'm not wrapping it up that quickly.",
       voice = 1,
       male = 3
     },
@@ -193331,14 +193988,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你说这个我可不困了，快告诉我，你一大早去准备什么了呀？"
+      sentence = "Okay, now you've got my full attention. What's the big early-morning mission?"
     },
     [8] = {
       next = "9",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "嘿嘿，这个嘛……",
+      sentence = "Well, that's...",
       voice = 1,
       male = 3
     },
@@ -193347,30 +194004,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等等，我是不是多嘴一问了？"
+      sentence = "Wait, I think I just set myself up for this."
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你肯定会说：保持期待吧，薯片小姐！期待感也是盲盒的一部分！"
+      sentence = "You're gonna hit me with the classic: \"You'll have to wait and see! The waiting is half the fun!\""
     },
     [11] = {
       next = "12",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "可恶，你怎么抢我的台词？",
+      sentence = "Hey, that's my bit!",
       voice = 1,
       male = 3
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "看来我的小心思都已经被你看穿了，我得使出我的杀手锏才行！",
+      sentence = "Man, you've got me all figured out. Okay, time for Plan B—my trump card!",
       voice = 1,
       male = 3
     },
@@ -193379,14 +194036,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "杀手锏？"
+      sentence = "Trump card?"
     },
     [14] = {
       next = "15",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "现在请打开床头柜，拿出里面的照片。",
+      sentence = "Check the nightstand drawer. There's a photo in there.",
       voice = 1,
       male = 3
     },
@@ -193395,14 +194052,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "照片……是印了电影海报的那张吗？"
+      sentence = "The photo... You mean the one that looks like the movie poster?"
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "没错，不过它可不是海报，是一张真的照片哦。",
+      sentence = "Yep! But it's not a print. It's a real photo.",
       voice = 1,
       male = 3
     },
@@ -193411,30 +194068,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "骗人，我可是很喜欢那部电影，对它清楚得很——"
+      sentence = "No way. I know that movie inside out—"
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "电影里的饭店明明不存在……等等，不会是……"
+      sentence = "That hotel isn't real... Hold on. You didn't...?"
     },
     [19] = {
       next = "20",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "就是你想的那样～",
+      sentence = "Bingo!",
       voice = 1,
       male = 3
     },
     [20] = {
       next = "21",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "几个月前我找到了一栋很像那个饭店的大楼，把它还原成了电影里的样子。",
+      sentence = "I found a building a few months back that had the right look. And fixed it up to match the movie set.",
       voice = 1,
       male = 3
     },
@@ -193443,23 +194100,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "周棋洛！！你也太厉害了吧！"
+      sentence = "KIRO!! THAT'S INSANE!"
     },
     [22] = {
       next = "23",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "嘿嘿，能得到阿薯的夸奖，做再多的准备也是值得的。",
+      sentence = "Totally worth it just to hear you say that.",
       voice = 1,
       male = 3
     },
     [23] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "赶紧起床洗漱吧，接下来还有好多好多盲盒惊喜等待着你亲自拆收呢。",
+      sentence = "Now come on, get moving! There's a whole lineup of surprises with your name on it today.",
       voice = 1,
       male = 3
     }
@@ -193467,10 +194124,10 @@ data = {
   [3306] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "$u，家里送来了好多口罩和酒精喷雾，是你下的外卖订单吗？",
+      sentence = "Hey! Did you order a bunch of masks and sanitizing spray? A big box just showed up!",
       voice = 1,
       male = 3
     },
@@ -193479,14 +194136,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没错，你已经到家了吗？那你快戴上口罩，用酒精喷一喷家里的各个地方。"
+      sentence = "I did. You're home already? Perfect timing. Could you put on a mask and give the place a quick spray?"
     },
     [3] = {
       next = "4",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "等等……是发生了什么吗？",
+      sentence = "Wait a second... is there something I should know?",
       voice = 1,
       male = 3
     },
@@ -193495,39 +194152,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我现在不停地打喷嚏，流鼻涕……估计是感冒了……"
+      sentence = "I've been sneezing constantly with a runny nose... pretty sure I've caught a cold..."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以为了避免传染给你，这几天我们在家里都戴上口罩吧。"
+      sentence = "So, new house rule: masks on until I'm no longer contagious. Gotta keep you safe!"
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "不用这么夸张……你别担心，我免疫力这么高，才不会轻易中招。",
+      sentence = "Ah, that's overkill! Don't stress about me, I have the immune system of a superhero. I'll be fine.",
       voice = 1,
       male = 3
     },
     [7] = {
       next = "8",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "倒是你，才是家里最需要被人关心和照顾的人。",
+      sentence = "You're the one I'm worried about.",
       voice = 1,
       male = 3
     },
     [8] = {
       next = "9",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我先在家里煮点红糖姜水吧，然后接你下班回家休息。还好明天是周末，不然你还不一定愿意请假。",
+      sentence = "I'm whipping up some ginger tea for you, and then I'm coming to get you. Thank goodness it's Friday—no arguments about taking a day off.",
       voice = 1,
       male = 3
     },
@@ -193536,37 +194193,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不用不用，我自己开车回去~"
+      sentence = "Oh, you really don't have to bother! I can drive myself back~"
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我要尽量减少和你接触的机会，你过几天就要录歌了。"
+      sentence = "I need to keep my germs to myself. Your recording session is way too important to risk."
     },
     [11] = {
       next = "12",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "万一感冒，嗓子哑了……不行不行，感觉光是戴口罩还不够，我们干脆分房睡吧？"
+      sentence = "What if you get sick and it affects your voice? Maybe we should even sleep in separate rooms, just to be safe?"
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "分房？！",
+      sentence = "Separate rooms?!",
       voice = 1,
       male = 3
     },
     [13] = {
       next = "14",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这一点我坚决反对，要是你夜里严重了，突然高烧了怎么办……？",
+      sentence = "Absolutely not! What if you need something in the middle of the night? What if you get a fever?",
       voice = 1,
       male = 3
     },
@@ -193575,23 +194232,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那吃颗退烧药就行了，阿嚏——！"
+      sentence = "I'll be perfectly fine with some medicine—Achoo!"
     },
     [15] = {
       next = "16",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "笨阿薯。",
+      sentence = "Oh, you silly.",
       voice = 1,
       male = 3
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "如果这么担心会传染给我……那我就戴上口罩后再戴一个头盔……这样全副武装，你总放心了吧？",
+      sentence = "Tell you what, if you're that worried... I'll wear a mask and a full-face helmet... Will that ease your mind?",
       voice = 1,
       male = 3
     },
@@ -193600,21 +194257,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "戴头盔？！"
+      sentence = "A helmet?!"
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈哈，虽然听起来是很保险，但确定要这么做吗……？"
+      sentence = "Pfft—hahaha! That's one way to do it! You'd really go that far?"
     },
     [19] = {
       next = "20",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "没办法，为了你不担心我，为了我不跟你分开、分房睡，只能这么做了。",
+      sentence = "I'll do whatever it takes to ease your worries and stay by your side.",
       voice = 1,
       male = 3
     },
@@ -193623,39 +194280,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜呜我也不想的，可毕竟你为了这次专辑准备了好久好久。"
+      sentence = "I just don't want to risk your health before the recording. You've been looking forward to this for so long."
     },
     [21] = {
       next = "22",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我真的不想在这样的关键时期，把你也传染感冒了。"
+      sentence = "I'd never forgive myself if I ruined it for you."
     },
     [22] = {
       next = "23",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "$u，你要相信我。",
+      sentence = "$u, you've got to trust me.",
       voice = 1,
       male = 3
     },
     [23] = {
       next = "24",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "无论是照顾你还是避免感冒，这两点我都会做得很好。",
+      sentence = "I'm an expert at taking care of you, and I'm even better at taking care of myself.",
       voice = 1,
       male = 3
     },
     [24] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "所以安心让我来照顾你，等你满血复活后……还要来录音棚探班，精神抖擞，为我加油打气呢~",
+      sentence = "So, please, let me take care of you. I need you to get your strength back so you can come to the studio and cheer me on with your energy!",
       voice = 1,
       male = 3
     }
@@ -194019,11 +194676,10 @@ data = {
   [3309] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "薯片小姐，你猜我发现了什么好东西~",
-      voice = 1,
+      sentence = "Miss Chips, guess what I just found!",
       male = 3
     },
     [2] = {
@@ -194031,15 +194687,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是什么？快告诉我~"
+      sentence = "Ooh, what is it? Tell me, tell me!"
     },
     [3] = {
       next = "4",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "嘿嘿，是一幅会动的“魔法油画”！",
-      voice = 1,
+      sentence = "Hehe, it's a moving \"magic painting\"!",
       male = 3
     },
     [4] = {
@@ -194047,33 +194702,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "会动的油画……难道和你今天的路演有关？"
+      sentence = "A moving painting? Wait... does it have something to do with your roadshow today?"
     },
     [5] = {
       next = "6",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "猜对啦！是这次电影的特别定制周边。",
-      voice = 1,
+      sentence = "Ding ding ding! You got it! It's a special piece of merch from the movie event.",
       male = 3
     },
     [6] = {
       next = "7",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我也是第一次见到的成品……其实是一块被放在画框里的电子屏幕，但看上去确实很有油画的感觉。",
-      voice = 1,
+      sentence = "It's actually the first time I've seen the final version, too... Technically, it's an electronic screen in a picture frame, but it really looks like a real oil painting.",
       male = 3
     },
     [7] = {
       next = "8",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "而且里面的画面是“魔法院长”版本的周棋洛~",
-      voice = 1,
+      sentence = "And guess who's in it? It's \"Headmaster Kiro\" from the movie—magic edition!",
       male = 3
     },
     [8] = {
@@ -194081,15 +194733,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "想看魔法院长！在哪里能下单？"
+      sentence = "I need to see Headmaster Kiro! Where do I order one?!"
     },
     [9] = {
       next = "10",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这批魔法油画是作为路演礼物送给现场观众的，暂时还没有购买渠道……",
-      voice = 1,
+      sentence = "Uh... about that... they're only for the fans who showed up at the event today. They are not selling it just yet...",
       male = 3
     },
     [10] = {
@@ -194097,24 +194748,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "啊，早知道今天就跟你一起去路演现场了！"
+      sentence = "Ughhh, I knew I should've gone to the event with you today!"
     },
     [11] = {
       next = "12",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "先别急着可惜，我还没说完呢。",
-      voice = 1,
+      sentence = "Whoa there, I haven't finished yet!",
       male = 3
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我早就定制了一幅专属特别版魔法油画，作为今天的情人节礼物，和我一起到家哦。",
-      voice = 1,
+      sentence = "I actually had a special edition made just for you! It's coming home with me as your Valentine's gift!",
       male = 3
     },
     [13] = {
@@ -194122,40 +194771,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那我就期待着魔法小周本人带着魔法油画回家了哦？"
+      sentence = "Then I'll be waiting for magical Kiro himself to bring that magical painting home!"
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "电影里的魔法油画，是不是一般都会挂在走廊里？"
+      sentence = "By the way, aren't the magical paintings in that movie usually hung in the hallway?"
     },
     [15] = {
       next = "16",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我的建议是挂在卧室里，因为它还有一个隐藏功能——",
-      voice = 1,
+      sentence = "My personal suggestion? Hang it in the bedroom. Wanna know why?",
       male = 3
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那就是按时提醒你早睡！",
-      voice = 1,
+      sentence = "It comes with a secret function—reminding you to sleep on time!",
       male = 3
     },
     [17] = {
       next = "18",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "夜深了，魔法院长提醒这位亲爱的小姐，该去睡觉了，不按时睡觉的人将会受到“黑眼圈咒”的惩罚。",
-      voice = 1,
+      sentence = "It's time to go to bed, young lady! Anyone who stays up too late will be cursed with the \"Dark Circle Under Eye Spell!\"",
       male = 3
     },
     [18] = {
@@ -194163,15 +194809,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗……那魔法院长自己不睡的话，也会受罚吗？"
+      sentence = "Hahaha, but what if Headmaster Kiro stays up too late himself?"
     },
     [19] = {
       next = "20",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "当然会了，“黑眼圈咒”可是会平等地惩罚每一个不好好睡觉的人。",
-      voice = 1,
+      sentence = "Oh, the curse plays no favorites! Even I have to follow the rules!",
       male = 3
     },
     [20] = {
@@ -194179,40 +194824,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "今天能不能让魔法院长先通融通融，因为等你回来，还有好多好多事想和你一起做呢。"
+      sentence = "But what if I want to stay up and do lots and lots of things with you when you get back tonight?"
     },
     [21] = {
       next = "22",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "按时睡觉可能会来不及。"
+      sentence = "Going to bed on time might not be an option..."
     },
     [22] = {
       next = "23",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "这么合理的要求，魔法院长一定会同意的。",
-      voice = 1,
+      sentence = "Hmm... I think that's a very valid reason. Permission granted!",
       male = 3
     },
     [23] = {
       next = "24",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "而且路演已经结束了，我正在用魔法一样的速度全力赶回你身边。",
-      voice = 1,
+      sentence = "Now that the roadshow's all done, I'm rushing back to you at magic speed!",
       male = 3
     },
     [24] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "就算代价是明天一起变成熊猫，我也会陪薯片小姐过完一个最最难忘的情人节！",
-      voice = 1,
+      sentence = "Even if we both end up with panda eyes tomorrow, I'm making sure Miss Chips has the most unforgettable Valentine's ever!",
       male = 3
     }
   },
@@ -195723,11 +196365,10 @@ data = {
   [3318] = {
     [1] = {
       next = "2",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "薯片小姐，我这边已经结束了，你怎么样了？",
-      voice = 1,
+      sentence = "Hey Miss Chips, all done on my end! You done yet?",
       male = 3
     },
     [2] = {
@@ -195735,15 +196376,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "还差小腿没有按摩完，但我已经有点想跑了……啊！"
+      sentence = "They're still on my calves... and I'm this close to bolting. Ow—!"
     },
     [3] = {
       next = "4",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "怎、怎么了？",
-      voice = 1,
+      sentence = "Whoa, what happened?",
       male = 3
     },
     [4] = {
@@ -195751,38 +196391,36 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘶——这个技师姐姐穴位找得好准，我现在整个小腿都酸麻酸麻的……"
+      sentence = "Sheesh—she's a pro. My whole leg is just this numb, achy tingle..."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "早知道就该老老实实的选舒缓一点的SPA了。"
+      sentence = "Ugh, I really should've gone for the gentle one."
     },
     [6] = {
       next = "7",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你这几天录歌那么累，本来想给你好好放松一下的……"
+      sentence = "I just wanted to help you unwind after all those hours in the studio..."
     },
     [7] = {
       next = "8",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那我觉得你选的泰式按摩非常有效哦！！",
-      voice = 1,
+      sentence = "Are you kidding? It was perfect!",
       male = 3
     },
     [8] = {
       next = "9",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "推完了之后感觉肌肉都被拉伸开了，走路都轻快了。",
-      voice = 1,
+      sentence = "I feel all loosened up now, like I'm floating.",
       male = 3
     },
     [9] = {
@@ -195790,42 +196428,38 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "真的吗？刚才你“惨叫”声我在隔壁都听到了。"
+      sentence = "Really? Heard some interesting noises from your room earlier."
     },
     [10] = {
       next = "11",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那是因为……给我按摩的小哥说，肌肉越僵硬，按摩的时候就越酸痛。",
-      voice = 1,
+      sentence = "Yeah, well... My masseur said the more tension you have, the more it hurts.",
       male = 3
     },
     [11] = {
       next = "12",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "那一肘下来的时候，有点后悔自己为什么最近没好好活动肩颈……",
-      voice = 1,
+      sentence = "When he dug his elbow in, I kinda wished I'd stretched more this week...",
       male = 3
     },
     [12] = {
       next = "13",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "虽然按摩的过程虽然有点痛苦，但我现在已经满血复活了！",
-      voice = 1,
+      sentence = "It was brutal for a minute, but now I'm totally revived!",
       male = 3
     },
     [13] = {
       next = "14",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我甚至感觉可以背着你逛完所有店，晚上回去还能给你安排上你想要的精油SPA哦~",
-      voice = 1,
+      sentence = "Seriously, I could carry you around shopping all day and still have energy for that aromatherapy massage you wanted tonight.",
       male = 3
     },
     [14] = {
@@ -195833,24 +196467,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇，小熊按摩师再次营业啦？"
+      sentence = "Is that Bear Masseur making a return?"
     },
     [15] = {
       next = "16",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "当然啦，而且今天是个特别的日子。",
-      voice = 1,
+      sentence = "Yup—and today I'm running a special multi-pack.",
       male = 3
     },
     [16] = {
       next = "17",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "除了按摩师，还有游戏陪玩熊、烛光晚餐提琴手熊等供小兔小姐选择~",
-      voice = 1,
+      sentence = "Pick from Masseur Bear, Gaming Buddy Bear, Romantic Violinist Bear... all yours, Miss Bunny.",
       male = 3
     },
     [17] = {
@@ -195858,24 +196490,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯……那我都要可以吗？"
+      sentence = "Can I... have the whole collection?"
     },
     [18] = {
       next = "19",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "我就知道你会这么说！",
-      voice = 1,
+      sentence = "Called it!",
       male = 3
     },
     [19] = {
       next = "0",
-      renming = "周棋洛",
+      renming = "Kiro",
       dialog = 2,
       namebg = 1,
-      sentence = "你的司机小熊已准备好果茶，随时可以带你出发寻找接下来的快乐啦~",
-      voice = 1,
+      sentence = "Then your Driver Bear is on standby with fruit tea, ready for the next adventure!",
       male = 3
     }
   },
@@ -196294,6 +196924,378 @@ data = {
       dialog = 2,
       namebg = 1,
       sentence = "在天梯榜留下一段可爱佳话~",
+      voice = 1,
+      male = 3
+    }
+  },
+  [3323] = {
+    [1] = {
+      next = "2",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Hey, Miss Chips, you free tonight?",
+      voice = 1,
+      male = 3
+    },
+    [2] = {
+      next = "3",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I was thinking of inviting you to dinner.",
+      voice = 1,
+      male = 3
+    },
+    [3] = {
+      next = "4",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Yeah, I'm free. But why are you being so formal all of a sudden?"
+    },
+    [4] = {
+      next = "5",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Well, today's a special day, and I want to call it \"Magic Day\" to celebrate.",
+      voice = 1,
+      male = 3
+    },
+    [5] = {
+      next = "6",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Celebrate? Did something good happen?"
+    },
+    [6] = {
+      next = "7",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Heh, kind of. I made this awesome demo at the studio this afternoon, all on the fly.",
+      voice = 1,
+      male = 3
+    },
+    [7] = {
+      next = "8",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "It was so good that I thought it might become a whole new music genre someday.",
+      voice = 1,
+      male = 3
+    },
+    [8] = {
+      next = "9",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Then I started wondering why everything was working out so well for me today, so I reflected on what I'd done.",
+      voice = 1,
+      male = 3
+    },
+    [9] = {
+      next = "10",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Did you figure it out?"
+    },
+    [10] = {
+      next = "11",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Honestly, I didn't at first.",
+      voice = 1,
+      male = 3
+    },
+    [11] = {
+      next = "12",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "My routine, meals—everything was the same as usual.",
+      voice = 1,
+      male = 3
+    },
+    [12] = {
+      next = "13",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "But if I had to find something different, I did notice it was really sunny today.",
+      voice = 1,
+      male = 3
+    },
+    [13] = {
+      next = "14",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "It was so sunny that I could see flowers blooming, the cobblestone path glinting under the sun, and sparrows taking a dip in a small puddle...",
+      voice = 1,
+      male = 3
+    },
+    [14] = {
+      next = "15",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "That moment, everything just felt so clear and bright.",
+      voice = 1,
+      male = 3
+    },
+    [15] = {
+      next = "16",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "So, I thought maybe the sun had worked some kind of magic on me?",
+      voice = 1,
+      male = 3
+    },
+    [16] = {
+      next = "17",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Could be! I feel the same way sometimes."
+    },
+    [17] = {
+      next = "18",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "If the weather's just right, it feels like the world's practically glowing."
+    },
+    [18] = {
+      next = "19",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Wow, we really think alike. Next time, I'm definitely taking you with me.",
+      voice = 1,
+      male = 3
+    },
+    [19] = {
+      next = "20",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Twinkle's long overdue for a new song anyway.",
+      voice = 1,
+      male = 3
+    },
+    [20] = {
+      next = "0",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "We'll walk hand in hand in the sunshine, whisper sweet words, and sing beautiful songs... We'll enjoy that simple, beautiful life.",
+      voice = 1,
+      male = 3
+    }
+  },
+  [3324] = {
+    [1] = {
+      next = "2",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "$u, I saw your message. This is your personal assistant, Kiro, speaking. How can I help?",
+      voice = 1,
+      male = 3
+    },
+    [2] = {
+      next = "3",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Boohoo, I feel like my self-control just... slips sometimes."
+    },
+    [3] = {
+      next = "4",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Like, when I'm doing something important, if I open my phone by accident, then I can't stop myself from playing on it."
+    },
+    [4] = {
+      next = "5",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "...And before I know it, I've already wasted so much time!"
+    },
+    [5] = {
+      next = "6",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Ugh, I get that. It's so frustrating!",
+      voice = 1,
+      male = 3
+    },
+    [6] = {
+      next = "7",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "What? You do that too?"
+    },
+    [7] = {
+      next = "8",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Not exactly. But when you get distracted by your phone, sometimes I have to call your name two or three times before you hear me.",
+      voice = 1,
+      male = 3
+    },
+    [8] = {
+      next = "9",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "A few times, I've even had this \"evil\" idea to shove your phone under the couch so you can never find it.",
+      voice = 1,
+      male = 3
+    },
+    [9] = {
+      next = "10",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Wait... that's actually not a bad idea?"
+    },
+    [10] = {
+      next = "11",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Maybe you should take my phone for a couple of hours every day, and that'll fix the problem at the root."
+    },
+    [11] = {
+      next = "12",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Nah, what if there's an emergency?",
+      voice = 1,
+      male = 3
+    },
+    [12] = {
+      next = "13",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "But... I could tweak that idea a little.",
+      voice = 1,
+      male = 3
+    },
+    [13] = {
+      next = "14",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I can design an app for you that'll only let you open a few fixed apps within a certain time frame. Problem solved!",
+      voice = 1,
+      male = 3
+    },
+    [14] = {
+      next = "15",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Hmm, that sounds like it could work!"
+    },
+    [15] = {
+      next = "16",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "But that'll take up your time, right? I bet there are apps like that already online. I'll just download one myself."
+    },
+    [16] = {
+      next = "17",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Stop right there—don't download anyone else's app. None of them will be as good as the one custom-made by me.",
+      voice = 1,
+      male = 3
+    },
+    [17] = {
+      next = "18",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Like, a cute bear and bunny on the main screen, and a voice pack that's exclusively yours.",
+      voice = 1,
+      male = 3
+    },
+    [18] = {
+      next = "19",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "And whenever you try to open those entertainment apps, a bear's head will pop up with a cheeky grin and say—",
+      voice = 1,
+      male = 3
+    },
+    [19] = {
+      next = "20",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "\"Aha! Gotcha! Trying to sneak some phone time, huh?\"",
+      voice = 1,
+      male = 3
+    },
+    [20] = {
+      next = "21",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "\"I'm not gonna let you unless you give that handsome guy Kiro a hug.\"",
+      voice = 1,
+      male = 3
+    },
+    [21] = {
+      next = "22",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Hahahaha, what?! Are you sure that feature is not for your own benefit?"
+    },
+    [22] = {
+      next = "23",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "It is. I'm just taking it as your \"membership fee!\"",
+      voice = 1,
+      male = 3
+    },
+    [23] = {
+      next = "24",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "But all those little details can be worked out. As long as I'm around, I'll solve all your problems.",
+      voice = 1,
+      male = 3
+    },
+    [24] = {
+      next = "0",
+      renming = "Kiro",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Trust in my work, and I promise I'll keep updating it forever, just for my Miss Chips~",
       voice = 1,
       male = 3
     }
@@ -250381,10 +251383,10 @@ data = {
   [4269] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "是我，白起。现在忙吗？",
+      sentence = "It's me. You busy?",
       voice = 1,
       male = 4
     },
@@ -250393,30 +251395,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "报告，今早出门前收到白警官指令，说要我晚上留点时间。"
+      sentence = "Reporting for duty, Officer Gavin! You told me this morning to keep my evening free, so now my whole night belongs to you."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以我现在的时间只属于白警官一个人，所以请随时“吩咐”吧～"
+      sentence = "Say the word and I'll follow!"
     },
     [4] = {
       next = "5",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "后半句就算了，因为我是来麻烦你的——表彰大会的发言稿我发到你邮箱了。",
+      sentence = "No need to be so formal. I actually want to ask a favor. I just sent my speech for the ceremony to your email.",
       voice = 1,
       male = 4
     },
     [5] = {
       next = "6",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "你帮我看看有没有问题吧。",
+      sentence = "Mind taking a look and telling me if anything's off?",
       voice = 1,
       male = 4
     },
@@ -250425,14 +251427,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好的，让我看看……我收到了，你稍等下哦，我要仔细看一下。"
+      sentence = "Got it. Let me check... Yep, it's here. Give me a sec. I'll read it over."
     },
     [7] = {
       next = "8",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不急，我现在的时间也是你一个人的。",
+      sentence = "No rush. My night belongs to you as well.",
       voice = 1,
       male = 4
     },
@@ -250441,14 +251443,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯，哈哈哈……"
+      sentence = "Mmm... haha..."
     },
     [9] = {
       next = "10",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "……怎么了？哪里有问题？",
+      sentence = "...What's wrong? Did I mess something up?",
       voice = 1,
       male = 4
     },
@@ -250457,21 +251459,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没有没有，只是这些文字实在很有白警官的风范～"
+      sentence = "No, no! It just sounds like something Officer Gavin would write."
     },
     [11] = {
       next = "12",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "真诚又简短……让人忍不住想象你在写下这些字时的样子。"
+      sentence = "Sincere and straight to the point... I could totally picture you while writing it."
     },
     [12] = {
       next = "13",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "什么样子？",
+      sentence = "Picture me how?",
       voice = 1,
       male = 4
     },
@@ -250480,28 +251482,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "大概是认真里带点可爱？"
+      sentence = "Hmm... super focused, but kind of cute?"
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "既不想在字里行间里太过感性，又担心过于简洁的文字不能体现真正的心声。"
+      sentence = "Like, trying hard not to get too sentimental, but also worried that being too blunt wouldn't sound heartfelt enough."
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "然后就苦思冥想，删删改改，说不定那时候连风都在你办公室里波涛暗涌呢。"
+      sentence = "So you sat there overthinking, typing, scratching it off, and rewriting... bet even the wind in your office was stressed out."
     },
     [16] = {
       next = "17",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "没你说那么夸张，就是正常坐在电脑前打字。",
+      sentence = "It wasn't that bad. I was just sitting at my desk typing normally.",
       voice = 1,
       male = 4
     },
@@ -250510,21 +251512,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哦……是吗？"
+      sentence = "Oh really?"
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "皱眉突击检查！二郎腿突击检查！发型突击检查！"
+      sentence = "So you're saying that right now, you're not sitting cross-legged with messy hair, and a big deep frown running on your face?"
     },
     [19] = {
       next = "20",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "…………",
+      sentence = "...",
       voice = 1,
       male = 4
     },
@@ -250533,14 +251535,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "怎么不吭声了，该不会是被我说中了吧？"
+      sentence = "Why'd you stop talking? Did I nail it?"
     },
     [21] = {
       next = "22",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "……报告，跟你说话没有皱眉，二郎腿前一秒放下来了，揉乱的头发也压下去了。",
+      sentence = "Frown removed, legs uncrossed, hair also flattened. Awaiting inspection, ma'am.",
       voice = 1,
       male = 4
     },
@@ -250549,14 +251551,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿就说嘛，我可是陪你写过述职报告的人～还是很了解你的。"
+      sentence = "Hehe, I knew it! I did help you write that work report once, remember? I know your habits."
     },
     [23] = {
       next = "24",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "你当然了解我，但有一点你没有说对。",
+      sentence = "You definitely know me. But there's one thing you got wrong.",
       voice = 1,
       male = 4
     },
@@ -250565,23 +251567,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "什么？"
+      sentence = "Huh? What?"
     },
     [25] = {
       next = "26",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "风今天很乖，没有波涛暗涌。",
+      sentence = "The wind wasn't stressed out today.",
       voice = 1,
       male = 4
     },
     [26] = {
       next = "27",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "它只是中间开小差偷跑出去看了你一会儿。",
+      sentence = "It even snuck off for a bit... to check on you.",
       voice = 1,
       male = 4
     },
@@ -250590,14 +251592,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗……那你告诉它不要让我分心，我还要好好看你的发言稿呢！"
+      sentence = "Pfft—well, tell it not to distract me! I need to finish reading your speech properly!"
     },
     [28] = {
       next = "29",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "行，那就等你看完再让你分心。",
+      sentence = "Alright. I'll wait till you're done before I start distracting you again.",
       voice = 1,
       male = 4
     },
@@ -250606,23 +251608,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……等等，我怎么听到了踩油门的声音？"
+      sentence = "...Wait. Did I just hear an engine?"
     },
     [30] = {
       next = "31",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "既然写完了，我当然要下班回家。所以稿子如果有问题，就当面指导我吧。",
+      sentence = "Since it's done, of course I'm heading home. If you spot anything wrong with the speech—tell me in person.",
       voice = 1,
       male = 4
     },
     [31] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我会好好听讲的。",
+      sentence = "I promise I'll be a good student.",
       voice = 1,
       male = 4
     }
@@ -250630,19 +251632,19 @@ data = {
   [4270] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "早，刚到特遣署就看到你发来了一堆哭泣的表情包。",
+      sentence = "Just arrived at the office and saw your flood of crying emojis.",
       voice = 1,
       male = 4
     },
     [2] = {
       next = "3",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么了？",
+      sentence = "What's going on?",
       voice = 1,
       male = 4
     },
@@ -250651,28 +251653,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜没人惹我，只不过没想到打鼓比我想象中的还累。"
+      sentence = "Nothing bad happened. I just didn't expect drumming to be that exhausting."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我一醒来胳膊都有点抬不起来QAQ……"
+      sentence = "Woke up and my arms were like noodles. I could barely lift them. QAQ"
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以晚上可能没办法和你一起打球了，但我会当好啦啦队给你加油的！"
+      sentence = "So I probably can't play basketball tonight, but I'll still come cheer for you!"
     },
     [6] = {
       next = "7",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "看来之前的篮球训练还不太够，过两天去打打羽毛球吧？",
+      sentence = "Sounds like our last basketball training wasn't enough. How about we play some badminton in a few days?",
       voice = 1,
       male = 4
     },
@@ -250681,30 +251683,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……收到，白教官。"
+      sentence = "...Alright, coach."
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过我要是晚上缺席的话，应该对你们的活动不影响吧？"
+      sentence = "But if I skip tonight, it won't mess up your plans, right?"
     },
     [9] = {
       next = "10",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不影响，正好我也撤了，人数拉得平。",
+      sentence = "Not at all. I'll sit this one out too so they don't have to rebalance the teams.",
       voice = 1,
       male = 4
     },
     [10] = {
       next = "11",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "下次再一起赢他们。",
+      sentence = "We'll crush them together next time.",
       voice = 1,
       male = 4
     },
@@ -250713,41 +251715,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不用不用，你去玩就好啦。我只是想来跟你撒个娇，诉个“苦”的！"
+      sentence = "No, no, you go have fun! I just wanted to whine for a bit."
     },
     [12] = {
       next = "13",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我知道。但我今天没什么事，下了班还不如早点回去陪你。",
+      sentence = "I know. But I've got nothing urgent today. I might as well head home early and hang with you.",
       voice = 1,
       male = 4
     },
     [13] = {
       next = "14",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "再说了，是我没有考虑到位。",
+      sentence = "And really, I should've thought ahead.",
       voice = 1,
       male = 4
     },
     [14] = {
       next = "15",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "以你昨天的运动量，我应该当晚就帮你放松肌肉的。",
+      sentence = "With how much you moved yesterday, I should've given you a massage that night.",
       voice = 1,
       male = 4
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "你晚上就别过来了，我到时候骑车回去，很快就回家。",
+      sentence = "Don't worry about coming over tonight. I'll take the bike home and I won't be long.",
       voice = 1,
       male = 4
     },
@@ -250756,23 +251758,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "还要按摩吗？不用这么麻烦，我休息两天就好啦～"
+      sentence = "Massage? You don't have to. I'll just rest up for a few days~"
     },
     [17] = {
       next = "18",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不行，忘了你在疗养院是怎么让我重视身体吗？",
+      sentence = "Nope. You're the one who drilled it into me at the recovery center to take care of my body.",
       voice = 1,
       male = 4
     },
     [18] = {
       next = "19",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "你如果不以身作则，我以后怎么好好表现？",
+      sentence = "How do you expect me to follow your instructions if you can't lead by example?",
       voice = 1,
       male = 4
     },
@@ -250781,30 +251783,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "…………"
+      sentence = "..."
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哎呀，我根本说不过你！"
+      sentence = "...Ugh, I can't win with you!"
     },
     [21] = {
       next = "22",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "说得过也没用，我该怎么做还是怎么做。",
+      sentence = "Even if you could, it wouldn't change anything.",
       voice = 1,
       male = 4
     },
     [22] = {
       next = "23",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "晚上我帮你好好放松一下，等你状态好点儿了我们重新开启阶段性跑步训练。",
+      sentence = "I'll help you loosen up tonight. Once you're better, I'll get you back into a jogging routine.",
       voice = 1,
       male = 4
     },
@@ -250813,14 +251815,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜，白教官真是严格啊……"
+      sentence = "Aw, Officer Gavin. Come on..."
     },
     [24] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "放心，针对你的身体，白教官一定会严阵以待。",
+      sentence = "When it comes to your health, I'm not letting anything slip through the cracks.",
       voice = 1,
       male = 4
     }
@@ -252896,10 +253898,10 @@ data = {
   [4283] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "刚刚你转给我的短信，怎么看起来有点奇怪啊？",
+      sentence = "Hey, that text you forwarded me... doesn't it seem a bit off?",
       voice = 1,
       male = 4
     },
@@ -252908,41 +253910,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "有嘛，白警官能分析一下怪在哪吗？"
+      sentence = "Really? How so, Officer Gavin?"
     },
     [3] = {
       next = "4",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "短信通篇的语气虽然很正常，但总是有意无意地提到银行信息。",
+      sentence = "Well, the tone seems normal at first glance. But it keeps trying to bring up things about bank info.",
       voice = 1,
       male = 4
     },
     [4] = {
       next = "5",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "还会提醒对方要私下转账，不要告诉别人。",
+      sentence = "And it's saying to transfer the money privately and not to tell anyone else.",
       voice = 1,
       male = 4
     },
     [5] = {
       next = "6",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "最关键的是，我查了这个手机号，是个刚注册的新号。",
+      sentence = "I also checked the number and found that it's newly registered.",
       voice = 1,
       male = 4
     },
     [6] = {
       next = "7",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "从种种线索分析，这应该是一封伪装成亲属的诈骗短信。",
+      sentence = "Putting it all together, I'd say this is a scam message pretending to be from a family member.",
       voice = 1,
       male = 4
     },
@@ -252951,46 +253953,46 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "真不愧是白警官，分析的全对！"
+      sentence = "Wow, you're good! You're absolutely correct, Officer Gavin!"
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "其实我们公司的许多员工最近都收到了类似的短信。"
+      sentence = "Actually, a bunch of people at my company have been getting similar messages lately."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "据说是最新的诈骗手段，我就赶紧发给你看看。"
+      sentence = "They say it's the newest scam tactic, so I figured I'd better send it to you right away."
     },
     [10] = {
       next = "11",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "警惕性不错。",
+      sentence = "Good call.",
       voice = 1,
       male = 4
     },
     [11] = {
       next = "12",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "这种诈骗短信都有很专业的身份伪装。",
+      sentence = "Scammers these days are pros at faking identities.",
       voice = 1,
       male = 4
     },
     [12] = {
       next = "13",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "如果不注意的话，很容易会中圈套。",
+      sentence = "If you're not careful, it's really easy to fall for it.",
       voice = 1,
       male = 4
     },
@@ -252999,21 +254001,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "确实，如果我突然收到这种短信的话，可能也会稀里糊涂中招。"
+      sentence = "Yeah, honestly, if I suddenly got one of these, I might get tricked too."
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过幸好我自带了“反诈神器”。"
+      sentence = "Luckily, I've got my own personal \"anti-fraud detector.\""
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "放心，有我在你绝对不会上当受骗。",
+      sentence = "Don't worry. As long as I'm around, no scammer's gonna get you.",
       voice = 1,
       male = 4
     },
@@ -253022,23 +254024,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我的确是不用怕了，但要是骗子发短信给你呢？"
+      sentence = "I know I'm safe, but what if they target you?"
     },
     [17] = {
       next = "18",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "这点我倒是没有想过。",
+      sentence = "Hmm. Hadn't thought of that.",
       voice = 1,
       male = 4
     },
     [18] = {
       next = "19",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "如果真收到，我也会第一时间和你确认。",
+      sentence = "If I ever get one, I'll double-check with you first.",
       voice = 1,
       male = 4
     },
@@ -253047,39 +254049,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，那如果再假设，那个骗子就是我呢~"
+      sentence = "Hehe, but what if, just hypothetically, I was the scammer?"
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "比如电话里骗你还在公司，其实已经到你们署门口了。"
+      sentence = "Like I call you saying I'm still at work, but I'm actually standing right outside your station?"
     },
     [21] = {
       next = "22",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "这么狡猾的犯人，的确有点难办。",
+      sentence = "Now that's a sneaky criminal.",
       voice = 1,
       male = 4
     },
     [22] = {
       next = "23",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我接下来要做的应该是下楼。",
+      sentence = "In that case, I'd head downstairs right away.",
       voice = 1,
       male = 4
     },
     [23] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "然后用最快的速度，把这名“犯罪嫌疑人”抓捕归案。",
+      sentence = "Then, I'll personally catch this \"suspect\" on the spot.",
       voice = 1,
       male = 4
     }
@@ -253087,19 +254089,19 @@ data = {
   [4284] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "刚刚看你发了条朋友圈，说这几天晚上都有敲门声？",
+      sentence = "I saw your post. You said you've been hearing knocking at your door late at night?",
       voice = 1,
       male = 4
     },
     [2] = {
       next = "3",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不如我现在过去看看。",
+      sentence = "How about I come over and check it out?",
       voice = 1,
       male = 4
     },
@@ -253108,14 +254110,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我也不知道是不是真的敲门声……"
+      sentence = "I'm not even sure if it's really knocking..."
     },
     [4] = {
       next = "5",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么说？",
+      sentence = "Why do you say that?",
       voice = 1,
       male = 4
     },
@@ -253124,30 +254126,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "因为那声音很轻，而且老断断续续的。"
+      sentence = "The sound's super light, and it keeps stopping and starting."
     },
     [6] = {
       next = "7",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我有几次从猫眼往外看都没看见人。"
+      sentence = "I've peeked through the peephole a few times but never saw anyone."
     },
     [7] = {
       next = "8",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "听起来的确有点蹊跷。",
+      sentence = "Hmm, that does sound kind of weird.",
       voice = 1,
       male = 4
     },
     [8] = {
       next = "9",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "等我到你家勘察一下，应该就能有结果。",
+      sentence = "I'll take a look once I get there. We'll get to the bottom of it.",
       voice = 1,
       male = 4
     },
@@ -253156,21 +254158,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呼，那我就在客厅里等你过来。"
+      sentence = "Okay, I'll wait for you in the living room."
     },
     [10] = {
       next = "11",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "被这个声音闹得我这两天都没睡好，这下一定要把罪魁祸首揪出来。"
+      sentence = "I haven't been sleeping well because of this. I really want to figure out who's doing it."
     },
     [11] = {
       next = "12",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "放心，我马上到。",
+      sentence = "Don't worry. I'm on my way.",
       voice = 1,
       male = 4
     },
@@ -253179,30 +254181,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等等，等等！你听，那声音好像又出来了。"
+      sentence = "Wait, wait! Hold on! I hear it again!"
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我把手机凑到门口你听听！"
+      sentence = "I'll hold the phone up to the door so you can listen!"
     },
     [14] = {
       next = "15",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "……的确是有轻微的剐蹭声。",
+      sentence = "...Yeah, I can hear some faint scratching.",
       voice = 1,
       male = 4
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "你别紧张，拿好手机先去把门反锁。",
+      sentence = "Stay calm. Keep the phone with you and make sure the door's locked.",
       voice = 1,
       male = 4
     },
@@ -253211,21 +254213,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "别急别急，我好像从猫眼里看到了！"
+      sentence = "Wait, hold up. I think I see something through the peephole!"
     },
     [17] = {
       next = "18",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是一个白白的，小小的……小狗狗！"
+      sentence = "It's small, white... a puppy!"
     },
     [18] = {
       next = "19",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "什么？",
+      sentence = "Huh?",
       voice = 1,
       male = 4
     },
@@ -253234,14 +254236,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "有只小狗正在我的门口挠门。"
+      sentence = "There's a little puppy scratching at my door!"
     },
     [20] = {
       next = "21",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "也就是说，这两天的罪魁祸首就是它？",
+      sentence = "So that's who's been causing all the noise these past few nights?",
       voice = 1,
       male = 4
     },
@@ -253250,30 +254252,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好像真的是这样，看他脖子上戴着项圈，应该是有主人的。"
+      sentence = "Looks like it. He's got a collar on, so he must belong to someone."
     },
     [22] = {
       next = "23",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过它警惕性很高，我刚刚一开门它就跑走了。"
+      sentence = "But he's pretty skittish. He ran off as soon as I opened the door."
     },
     [23] = {
       next = "24",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "估计偷偷跑出来的，结果迷路了。",
+      sentence = "Probably snuck out and got lost.",
       voice = 1,
       male = 4
     },
     [24] = {
       next = "25",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "等我过来后，可以陪你一起找。",
+      sentence = "Once I get there, we can look for him together.",
       voice = 1,
       male = 4
     },
@@ -253282,37 +254284,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，这下我总能放心了。"
+      sentence = "Phew, that's a relief."
     },
     [26] = {
       next = "27",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过紧绷神经突然放松后，感觉有点点困……"
+      sentence = "Now that I've relaxed, I'm starting to feel kinda sleepy..."
     },
     [27] = {
       next = "28",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "诶？不对，我怎么好像又听到敲门声了，难道那只小狗已经回来了吗？"
+      sentence = "Wait, hang on, I hear knocking again! Is he back already?"
     },
     [28] = {
       next = "29",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "这次敲门的不是小狗。",
+      sentence = "It's not the puppy this time.",
       voice = 1,
       male = 4
     },
     [29] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "是我到家了。",
+      sentence = "It's me.",
       voice = 1,
       male = 4
     }
@@ -253320,10 +254322,10 @@ data = {
   [4285] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我已经在你说的那家户外用品店附近了，确实离你公司不远。",
+      sentence = "I'm near the outdoor gear store you told me about. Turns out it's pretty close to your office.",
       voice = 1,
       male = 4
     },
@@ -253332,14 +254334,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……你已经到了吗！我还有事情没有忙完，可能还要一会……"
+      sentence = "…You're already there? I still got some unfinished business. Might keep you waiting a little longer…"
     },
     [3] = {
       next = "4",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不急，我可以去店里先逛逛。",
+      sentence = "Take your time. I'll walk around the store for a bit.",
       voice = 1,
       male = 4
     },
@@ -253348,30 +254350,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好哦，正好店长上午联系我说之前断货很久的帐篷今天上架了。"
+      sentence = "Oh nice, this morning the storekeeper told me the tent that's been long out of stock is back on the shelves again."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "白警官可以先去看看合不合适。"
+      sentence = "You may go and check it out, Officer Gavin."
     },
     [6] = {
       next = "7",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我去问问店长。",
+      sentence = "I'll go ask the storekeeper about it.",
       voice = 1,
       male = 4
     },
     [7] = {
       next = "8",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "找到了，不过你需要这么大的帐篷吗？",
+      sentence = "Found it. But are you sure you need such a large tent?",
       voice = 1,
       male = 4
     },
@@ -253380,14 +254382,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，我听说大帐篷能更好地感受星空顶，就是不知道它的天幕够不够透。"
+      sentence = "Tee-hee, it's said a bigger tent offers a better view of the starry sky. I'm just not sure if its canopy is transparent enough."
     },
     [9] = {
       next = "10",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "清晰度可以，但要是看星星的话，还少了点东西。",
+      sentence = "Its transparency's fine, but if you wanna see stars, you'll need one more thing.",
       voice = 1,
       male = 4
     },
@@ -253396,32 +254398,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯？什么？"
+      sentence = "Oh? What is it?"
     },
     [11] = {
       next = "12",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我再配一支指星笔吧。",
+      sentence = "I think I'll add a laser pointer to the list.",
       voice = 1,
       male = 4
     },
     [12] = {
       next = "13",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不容易眩晕，也不容易错过移速较快的星系。",
+      sentence = "It prevents dizziness and makes it easier to see fast-moving stars.",
       voice = 1,
       male = 4
     },
     [13] = {
       next = "14",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "当然，你也可以选择只追踪一颗星星的轨迹。",
+      sentence = "You can also choose to track a single star, of course.",
       voice = 1,
       male = 4
     },
@@ -253430,14 +254432,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "听起来好棒！希望到时候不会遇到意外的雨……"
+      sentence = "Sounds great! I hope there won't be any unexpected rain…"
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "放心，不会有任何乌云遮挡我们的视线。",
+      sentence = "Don't worry. There won't be any dark clouds to block our view.",
       voice = 1,
       male = 4
     },
@@ -253446,23 +254448,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿。我已经想速速下班去打包我的大帐篷啦！"
+      sentence = "Tee-hee, I can't wait to get off work and pack my large tent!"
     },
     [17] = {
       next = "18",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "为了更快实现这件事情。",
+      sentence = "To make that happen sooner…",
       voice = 1,
       male = 4
     },
     [18] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "今天的货物和你都会走乘风特快。",
+      sentence = "Both you and the product will be traveling by air.",
       voice = 1,
       male = 4
     }
@@ -256170,19 +257172,19 @@ data = {
   [4300] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "是我，白起。刚看到你的朋友圈，你说“今天也看到了通勤搭子”。",
+      sentence = "Hey, it's me. Just saw your post on Moments saying, \"Saw my commute buddy again today.\"",
       voice = 1,
       male = 4
     },
     [2] = {
       next = "3",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "“通勤搭子”是什么？",
+      sentence = "What's a \"commute buddy\"?",
       voice = 1,
       male = 4
     },
@@ -256191,21 +257193,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是我公司楼下一个卖早餐的老奶奶啦。"
+      sentence = "Oh, it's this old lady who sells breakfast downstairs by my office."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "如果我准时到，老奶奶就会招呼我；如果迟到了，看到的就是她收摊的背影。"
+      sentence = "If I'm on time, she waves me over. If I'm late, all I see is her packing up."
     },
     [5] = {
       next = "6",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我有印象，之前送你上班时，你在她那买过竹筒饭。",
+      sentence = "I remember her. When I gave you a ride to work, you bought breakfast from her.",
       voice = 1,
       male = 4
     },
@@ -256214,30 +257216,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "对对对，就是她～她就像在通勤路上陪伴我的NPC一样，所以叫做“通勤搭子”。"
+      sentence = "Yep, that's her. She's like an NPC who keeps me company on my way to work, so I call her my \"commute buddy\"."
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你平时有没有这样的通勤搭子啊？"
+      sentence = "You got any commute buddies?"
     },
     [8] = {
       next = "9",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "骑小黑上班的话，我一般不会注意其他人。",
+      sentence = "Not really. If I ride Sparky, I don't usually pay attention to other people.",
       voice = 1,
       male = 4
     },
     [9] = {
       next = "10",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "飞去上班的时候更不会碰到人了。",
+      sentence = "And when I'm flying, I don't run into anyone at all.",
       voice = 1,
       male = 4
     },
@@ -256246,14 +257248,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "上班搭子也不一定是人嘛。"
+      sentence = "A commute buddy doesn't have to be a person, though."
     },
     [11] = {
       next = "12",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "动物也算？",
+      sentence = "Do animals count?",
       voice = 1,
       male = 4
     },
@@ -256262,41 +257264,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然~"
+      sentence = "Of course!"
     },
     [13] = {
       next = "14",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "那倒是有不少，比如小区树上的野猫、广场上空的鸽子、还有在楼顶晒太阳的小狗。",
+      sentence = "Then yeah, I've got plenty. Like the stray cats in the tree, the pigeons over at the square, and that dog that always sunbathes on the rooftop.",
       voice = 1,
       male = 4
     },
     [14] = {
       next = "15",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "对了，以前还经常碰到一只花里胡哨的小鸟，它每天都叼着虫子往南飞。",
+      sentence = "Oh, and there used to be this flashy little bird; it always carried a bug in its beak.",
       voice = 1,
       male = 4
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "正好有一次值班时比较空，我就去查了一下观鸟图鉴。",
+      sentence = "One time I had downtime on shift, so I checked a bird guide.",
       voice = 1,
       male = 4
     },
     [16] = {
       next = "17",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "那应该是一只正在养育后代的雄鸟。",
+      sentence = "Turns out it was a male bird feeding its young.",
       voice = 1,
       male = 4
     },
@@ -256305,30 +257307,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗——看来白警官已经把小鸟的底细摸清了~"
+      sentence = "Haha, look at Officer Gavin doing a full background check on a bird."
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过为什么是“以前”，小鸟现在去哪了？"
+      sentence = "But what do you mean by \"used to\"? Where's it now?"
     },
     [19] = {
       next = "20",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我上次出任务回来之后，上班时就没有再看见它了。",
+      sentence = "I haven't seen it since I came back from my last mission.",
       voice = 1,
       male = 4
     },
     [20] = {
       next = "21",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "有可能是它搬家了，也有可能是因为最近我骑小黑多一点，没有碰到它吧。",
+      sentence = "Maybe it moved, or maybe I just missed it since I've been riding Sparky more often.",
       voice = 1,
       male = 4
     },
@@ -256337,32 +257339,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "可能吧……希望小鸟没有出什么事。"
+      sentence = "Hmm... I hope nothing bad has happened to it."
     },
     [22] = {
       next = "23",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我相信它不会有事的，明天我换成飞的，看能不能碰到它。",
+      sentence = "Don't worry. It's probably fine. I'll fly tomorrow and see if I can spot it.",
       voice = 1,
       male = 4
     },
     [23] = {
       next = "24",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "如果你担心的话，这周末我们也可以一起去找它。",
+      sentence = "And if you're still worried, we can go look for it this weekend.",
       voice = 1,
       male = 4
     },
     [24] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "顺便带你见见我的通勤搭子们。",
+      sentence = "I can also introduce you to all my \"commute buddies\".",
       voice = 1,
       male = 4
     }
@@ -256370,19 +257372,19 @@ data = {
   [4301] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "喂，是我。你前段时间说过，想要快餐店套餐里赠送的小夜灯。",
+      sentence = "Hey, it's me. Remember that nightlight you wanted from the fast-food kid's meal?",
       voice = 1,
       male = 4
     },
     [2] = {
       next = "3",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "是甜筒形状的那个吗？",
+      sentence = "Is it the one shaped like an ice cream cone?",
       voice = 1,
       male = 4
     },
@@ -256391,37 +257393,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "是的，可他家的套餐玩具每次一上线就售罄了，我从来都没抢到过。"
+      sentence = "Yeah! But it always sells out the second it drops. I've never managed to get one."
     },
     [4] = {
       next = "5",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不知道这两天有没有补货……"
+      sentence = "I don't know if they've restocked..."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等你出任务回来，我们去周边玩一圈放松一下，顺便去那边的门店问问好啦！"
+      sentence = "When you're back from your mission, let's hang out. And we can also ask about it!"
     },
     [6] = {
       next = "7",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "放松一下没问题，去问补货就不用了。",
+      sentence = "Hanging out sounds good, but no need to ask them.",
       voice = 1,
       male = 4
     },
     [7] = {
       next = "8",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我已经给你买到了。",
+      sentence = "I already got it for you.",
       voice = 1,
       male = 4
     },
@@ -256430,39 +257432,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇！真的吗？！！"
+      sentence = "What?! Seriously?!!"
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你是怎么买到的？"
+      sentence = "How'd you even get it?"
     },
     [10] = {
       next = "11",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我出来买夜宵，路过快餐店时想起你。",
+      sentence = "I was out grabbing a late-night snack, passed a fast-food place, and thought of you.",
       voice = 1,
       male = 4
     },
     [11] = {
       next = "12",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "想着这次出任务的小镇比较偏僻，买玩具的人可能没有那么多，就去找店员问了问。",
+      sentence = "Figured since this town was kind of remote, there wouldn't be much demand for the toys, so I asked the staff.",
       voice = 1,
       male = 4
     },
     [12] = {
       next = "13",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "你感兴趣的几款玩具都有库存，我全都给你带了一份。",
+      sentence = "They had all the ones you liked, so I got them all.",
       voice = 1,
       male = 4
     },
@@ -256471,32 +257473,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "全部？你都带了什么啊？"
+      sentence = "All of them? What'd you get?"
     },
     [14] = {
       next = "15",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "有一个跳舞的鸭子，我记得你点赞过好多它们的视频。",
+      sentence = "The dancing duck. I remember you liked tons of its videos.",
       voice = 1,
       male = 4
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "还有一对汉堡对讲机，你说过想在晚上散步的时候带上它。",
+      sentence = "A pair of burger walkie-talkies. You once said you wanted them for night walks.",
       voice = 1,
       male = 4
     },
     [16] = {
       next = "17",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "最后是一个鸡块跳台，你虽然没说想要，但上次在路边看小孩玩的时候，你的眼睛很亮。",
+      sentence = "And a chicken nugget launcher. You didn't ask for it, but when you saw kids playing with it, your eyes lit up.",
       voice = 1,
       male = 4
     },
@@ -256505,30 +257507,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "因为一按按钮，鸡块就会飞起来掉到烧烤酱上，真的很好玩嘛~"
+      sentence = "Well yeah. Push the button and the nugget launches into the barbecue sauce! It's hilarious!"
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "看小朋友玩得那么开心，我没好意思说让我试一下，感觉有点太幼稚了……"
+      sentence = "The kids looked so happy. I didn't dare ask to try it myself—it felt kinda childish..."
     },
     [19] = {
       next = "20",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不会，很可爱。",
+      sentence = "It's not childish. It's cute.",
       voice = 1,
       male = 4
     },
     [20] = {
       next = "21",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "现在你也有鸡块跳台，不用看其他小朋友玩了。",
+      sentence = "And now you've got your own nugget launcher. You don't have to watch the kids playing with it.",
       voice = 1,
       male = 4
     },
@@ -256537,39 +257539,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，那等你回来，我们一起玩！"
+      sentence = "Hehe, then when you're back, let's play together!"
     },
     [22] = {
       next = "23",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过我记得这些都要随餐赠送，你全买上的话，会不会太多了点？"
+      sentence = "But wait... don't these come with meals? If you bought all of them, that's a lot of food..."
     },
     [23] = {
       next = "24",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "没事，我带回去请值班的同事吃。",
+      sentence = "It's fine, I'll give the food to my teammates on duty.",
       voice = 1,
       male = 4
     },
     [24] = {
       next = "25",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "今天晚上还要通宵给案件收尾，有了吃的，他们的积极性应该也会更高一点。",
+      sentence = "We gotta stay up late tonight to wrap up a case, so with snacks, they'll be even more motivated.",
       voice = 1,
       male = 4
     },
     [25] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "这样一来，我也能早点回去见到你。",
+      sentence = "That way, I can finish up faster and get back to you sooner.",
       voice = 1,
       male = 4
     }
@@ -256577,10 +257579,10 @@ data = {
   [4302] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "喂，是我。刚刚太吵了，没有听到电话。",
+      sentence = "Hey, it's me. Sorry, I didn't hear the phone ring.",
       voice = 1,
       male = 4
     },
@@ -256589,14 +257591,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没事，我就是想问问你到哪里啦？"
+      sentence = "It's okay. I was just calling to ask where you are."
     },
     [3] = {
       next = "4",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我刚从超市买完食材出来，在附近的驯鹿市集里。",
+      sentence = "I just bought groceries from the supermarket. I'm at the Reindeer Market nearby.",
       voice = 1,
       male = 4
     },
@@ -256605,32 +257607,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "驯鹿市集？那是什么？"
+      sentence = "Reindeer Market? What's that?"
     },
     [5] = {
       next = "6",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "和恋语市的夜市差不多，有各种驯鹿小吃和纪念品。",
+      sentence = "It's like a night market in Loveland City. They sell snacks and souvenirs here.",
       voice = 1,
       male = 4
     },
     [6] = {
       next = "7",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "比如我刚刚路过了一个小摊，摊上摆了三排驯鹿角。",
+      sentence = "I just saw a stall with three rows of reindeer antlers.",
       voice = 1,
       male = 4
     },
     [7] = {
       next = "8",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "只要用套绳套中鹿角，就能获得奖品。",
+      sentence = "If you hoop one with a rope, you'll win a prize.",
       voice = 1,
       male = 4
     },
@@ -256639,32 +257641,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "原来是北欧版套圈啊！"
+      sentence = "So, it's like Scandinavian ring toss."
     },
     [9] = {
       next = "10",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "是有点像，只是绳索比套圈软一点，试几次就上手了。",
+      sentence = "Yeah, something like that. But the rope is softer than a ring, so it's actually easier to toss.",
       voice = 1,
       male = 4
     },
     [10] = {
       next = "11",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "感觉套中四个鹿角送的毛绒驯鹿冰箱贴你应该会喜欢。",
+      sentence = "I thought you might like the plush reindeer fridge magnet for hooping four antlers.",
       voice = 1,
       male = 4
     },
     [11] = {
       next = "12",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "就给你赢了一个。",
+      sentence = "So, I got one for you.",
       voice = 1,
       male = 4
     },
@@ -256673,21 +257675,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇！看来白Sir套圈在行，换成套鹿也依然是高手哦～"
+      sentence = "Wow! Guess Officer Gavin is not only good at ring toss, but a pro at hooping antlers."
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "早知道我就跟你一起去超市了，好想见识一下你套鹿的风采……"
+      sentence = "I would have gone to the supermarket with you if I had known. I wish I had seen you play..."
     },
     [14] = {
       next = "15",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "正好我跟摊主约好明天再过来一趟，你要不要一起？",
+      sentence = "I told the vendor I'd come again tomorrow. Wanna join me?",
       voice = 1,
       male = 4
     },
@@ -256696,30 +257698,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好啊好啊！"
+      sentence = "Sure!"
     },
     [16] = {
       next = "17",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过你为什么要特地和摊主约好明天过来啊？"
+      sentence = "But why tomorrow?"
     },
     [17] = {
       next = "18",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "摊主告诉我，这个毛绒驯鹿冰箱贴是一对的。",
+      sentence = "He told me that there was another reindeer magnet. And the two make a pair.",
       voice = 1,
       male = 4
     },
     [18] = {
       next = "19",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我就让他今晚回家把另一个找出来，明天我还来套。",
+      sentence = "So I asked him to find the other one, and said that I'd come again for it tomorrow.",
       voice = 1,
       male = 4
     },
@@ -256728,30 +257730,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……我怎么觉得你被老板套路了。"
+      sentence = "...Why do I feel like he tricked you?"
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "说不定他只是想用这种方法，让你多套几次呢？"
+      sentence = "Maybe he was just trying to get you to play more times."
     },
     [21] = {
       next = "22",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我知道。套鹿的时候，他一直盯着我包上的情侣挂件，还有你给我做的情侣手机壳。",
+      sentence = "I know. When I was playing, he kept staring at the couple's keychain on my bag and the matching mobile case you made me.",
       voice = 1,
       male = 4
     },
     [22] = {
       next = "23",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "应该是猜到了，我要把冰箱贴送给喜欢的女孩。",
+      sentence = "He must have guessed I was trying to win the fridge magnet for my girl.",
       voice = 1,
       male = 4
     },
@@ -256760,23 +257762,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈那你怎么还要自己跳进“陷阱”里？"
+      sentence = "Haha, so you just jumped right into his trap?"
     },
     [24] = {
       next = "25",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "因为我觉得，看到配对的驯鹿冰箱贴，你应该会更开心一点。",
+      sentence = "Because I thought matching reindeer fridge magnets would make you even happier.",
       voice = 1,
       male = 4
     },
     [25] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "只要能让你开心，偶尔被套路一下也无妨。",
+      sentence = "It's okay to be tricked sometimes as long as it makes you happy.",
       voice = 1,
       male = 4
     }
@@ -256784,10 +257786,10 @@ data = {
   [4303] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我收到了驯鹿部落的邮件，我们认养两只驯鹿的手续已经办好了。",
+      sentence = "I got an email from the reindeer tribe. The paperwork for sponsoring two reindeer is all done.",
       voice = 1,
       male = 4
     },
@@ -256796,39 +257798,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好快啊！"
+      sentence = "That was fast!"
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜呜我前两天一直忙着加班，只能让你准备需要的资料了。"
+      sentence = "Sorry, I've been busy working lately and didn't do anything to help with the paperwork."
     },
     [4] = {
       next = "5",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "没关系，都是很简单的资料。",
+      sentence = "Don't worry about it. It's just a simple process.",
       voice = 1,
       male = 4
     },
     [5] = {
       next = "6",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "主人写的是你，用到了你的联系方式、地址之类的，这些我都熟。",
+      sentence = "Since you're the sponsor, I had to fill in your contact info, which I'm quite familiar with.",
       voice = 1,
       male = 4
     },
     [6] = {
       next = "7",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不过认养证书上，小鹿的名字出了一点问题。",
+      sentence = "But there's a small problem with the baby reindeer's name on the certificate.",
       voice = 1,
       male = 4
     },
@@ -256837,32 +257839,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "什么问题啊？"
+      sentence = "What's the problem?"
     },
     [8] = {
       next = "9",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我给小鹿起的名字是Little Deer。",
+      sentence = "I named her Little Deer.",
       voice = 1,
       male = 4
     },
     [9] = {
       next = "10",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "但证书上写的是Dear，D-e-a-r。",
+      sentence = "But it says Dear on the certificate. D-e-a-r.",
       voice = 1,
       male = 4
     },
     [10] = {
       next = "11",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我刚刚看了邮件，应该是输入法自动修改的，我没有注意就发过去了。",
+      sentence = "I checked the email again. It must have been auto-corrected, and I sent it without noticing.",
       voice = 1,
       male = 4
     },
@@ -256871,23 +257873,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗哈哈哈——所以驯鹿的名字从“小鹿”，变成了“小亲亲”~"
+      sentence = "Hahaha, so the baby reindeer's name went from Little Deer to Little Dear?"
     },
     [12] = {
       next = "13",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "从意思看，是这样。",
+      sentence = "Yeah, that's what happened.",
       voice = 1,
       male = 4
     },
     [13] = {
       next = "14",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "如果你不喜欢，也可以换一个。",
+      sentence = "If you don't like it, we can ask them to change it.",
       voice = 1,
       male = 4
     },
@@ -256896,46 +257898,46 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不用啦，当是输入法给我们的小小惊喜好了。"
+      sentence = "No, it's okay. Think of it as a nice surprise."
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "以后我给别人介绍我们的小鹿，就可以说——"
+      sentence = "Next time I introduce our reindeer, I can say—"
     },
     [16] = {
       next = "17",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "This is my Little Dear，这是我的小亲亲！"
+      sentence = "This is my Little Dear!"
     },
     [17] = {
       next = "18",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "……晚上我们还是一起给它想一个新名字吧。",
+      sentence = "...Let's think of another name for her tonight.",
       voice = 1,
       male = 4
     },
     [18] = {
       next = "19",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "最好读音和拼写都能和这个名字的差别大一点。",
+      sentence = "It's best if the pronounciation and spelling are different from this one.",
       voice = 1,
       male = 4
     },
     [19] = {
       next = "20",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "想好之后我发邮件给汉森，请他帮忙重新办张证，怎么样？",
+      sentence = "I'll email the new name to Hansen and ask him to make another certificate. What do you think?",
       voice = 1,
       male = 4
     },
@@ -256944,32 +257946,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "啊——这个名字明明很可爱啊，为什么要换？"
+      sentence = "Eh... But the name's adorable. Why change it?"
     },
     [21] = {
       next = "22",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "……我不想听你这么介绍它。",
+      sentence = "...I don't want you to introduce her like that.",
       voice = 1,
       male = 4
     },
     [22] = {
       next = "23",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不管是“Dear”还是“亲爱的”。",
+      sentence = "Whether it's Dear or other terms of endearment...",
       voice = 1,
       male = 4
     },
     [23] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "这些称呼，我更希望在你跟别人介绍我的时候出现。",
+      sentence = "I only want you to use them to refer to me.",
       voice = 1,
       male = 4
     }
@@ -256977,10 +257979,10 @@ data = {
   [4304] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我下班了，现在在超市，有什么要我带的吗？",
+      sentence = "I just got off work. I'm at the supermarket now. Need me to pick up anything?",
       voice = 1,
       male = 4
     },
@@ -256989,30 +257991,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这么巧，我正好想买点东西。"
+      sentence = "Wow, perfect timing! I was just thinking of buying a few things."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那你买一斤梨、两个罗汉果、二十克川贝、三十克陈皮、红枣冰糖各半斤，还有……"
+      sentence = "Could you get a pound of pears, two monkfruits, 20 grams of fritillaria, 30 grams of dried tangerine peel, half a pound each of red dates and rock sugar, and—"
     },
     [4] = {
       next = "5",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "$u，等一下。",
+      sentence = "Hold on a sec, $u.",
       voice = 1,
       male = 4
     },
     [5] = {
       next = "6",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "除了梨以外，其它的超市里有吗？是不是该去药房能买得更齐一些。",
+      sentence = "Aside from the pears, do regular supermarkets even have the other stuff?",
       voice = 1,
       male = 4
     },
@@ -257021,14 +258023,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "有的有的，它们一般在干货区。我们平时不太常去，从平常买米的地方你走到底就是！"
+      sentence = "They usually do! It's in the dried goods section. We just don't go there much. Head to the back from where they sell rice and you'll see it!"
     },
     [7] = {
       next = "8",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "好，你买这些是要做糖水吗？",
+      sentence = "Got it. So what's all this for, some kind of dessert?",
       voice = 1,
       male = 4
     },
@@ -257037,21 +258039,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "很接近哦，不过是秋梨膏~"
+      sentence = "Close! I'm making pear syrup."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "秋天太干燥了，昨晚睡觉的时候还听你干咳了几声，就想着做点秋梨膏给你润润肺。"
+      sentence = "It's been super dry lately, and I heard you coughing in your sleep last night. Thought I'd make something to help soothe your throat."
     },
     [10] = {
       next = "11",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "是吗，我没什么印象。",
+      sentence = "Really? I don't even remember coughing.",
       voice = 1,
       male = 4
     },
@@ -257060,14 +258062,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "咦？那当时你为了止咳，翻身的事也不记得了？"
+      sentence = "Huh? You don't even remember tossing and turning at night?"
     },
     [12] = {
       next = "13",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "有么？我只记得你半夜踢被子，整个人半挂在我身上。",
+      sentence = "Did I? All I remember is you kicking the blanket off and half-landing on top of me.",
       voice = 1,
       male = 4
     },
@@ -257076,21 +258078,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……"
+      sentence = "..."
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我还做了这些吗？看来我们睡梦中都有很多的无意识行为……"
+      sentence = "I did that? Oh my, we really do some weird stuff in our sleep..."
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "那我不应该只是翻身。",
+      sentence = "In that case, I probably did more than just roll over.",
       voice = 1,
       male = 4
     },
@@ -257099,28 +258101,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这你都能猜到？"
+      sentence = "How'd you know?"
     },
     [17] = {
       next = "18",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那时你翻身之后先是背对着我，但马上你就原地一百八十度大翻面，又转向了我。"
+      sentence = "After you turned over, you were facing away from me, but then you spun around like 180 degrees and ended up facing me again."
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当时速度过快，我还以为家里进了什么袭击者。"
+      sentence = "You moved so fast that I thought someone broke into the apartment."
     },
     [19] = {
       next = "20",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "然后呢？",
+      sentence = "And then what?",
       voice = 1,
       male = 4
     },
@@ -257129,32 +258131,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "然后自然什么事都没发生，你抱着我继续睡了。"
+      sentence = "Then nothing happened—you just hugged me and went right back to sleep."
     },
     [21] = {
       next = "22",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "正常。",
+      sentence = "Makes sense.",
       voice = 1,
       male = 4
     },
     [22] = {
       next = "23",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "虽然我没有什么印象，但有这样的条件反射也不奇怪。",
+      sentence = "I don't remember anything, but honestly, I wouldn't be surprised if I did that.",
       voice = 1,
       male = 4
     },
     [23] = {
       next = "24",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "空落落的是睡不舒服。",
+      sentence = "I can't sleep well when I'm not hugging something.",
       voice = 1,
       male = 4
     },
@@ -257163,30 +258165,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗，看来你还有自动矫正的“程序”呢。"
+      sentence = "Haha, sounds like you've got some kind of built-in GPS."
     },
     [25] = {
       next = "26",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我突然很好奇，在我睡着的时候，是不是也这么“运作”的？"
+      sentence = "Now I'm curious, do I do that kind of stuff too?"
     },
     [26] = {
       next = "27",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "应该差不多。毕竟醒来的时候，你都会在我怀里。",
+      sentence = "Probably. I always wake up with you in my arms.",
       voice = 1,
       male = 4
     },
     [27] = {
       next = "28",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "而且我也会有意识地把你抱起来。",
+      sentence = "And yeah, sometimes I consciously pull you in.",
       voice = 1,
       male = 4
     },
@@ -257195,32 +258197,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……这么看的话，为了让你拥有更好的睡眠，我也要加强一下我的“程序”。"
+      sentence = "...Well then, looks like I need to upgrade my own \"programming\" so you sleep even better."
     },
     [29] = {
       next = "30",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "没关系，我会被动帮你增强的。",
+      sentence = "No worries. I'll help you improve it.",
       voice = 1,
       male = 4
     },
     [30] = {
       next = "31",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "对了，你说的川贝陈皮那些我都称好了，现在回来了。",
+      sentence = "Oh, and I got everything you needed. I'm heading back now.",
       voice = 1,
       male = 4
     },
     [31] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "有了它，就不会影响我晚上再翻错方向了。",
+      sentence = "With that syrup, maybe I won't roll over the wrong way again tonight.",
       voice = 1,
       male = 4
     }
@@ -257228,10 +258230,10 @@ data = {
   [4305] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "$u，你今天有接到上次一起玩大逃杀那家店的电话吗？",
+      sentence = "Hey, $u. Did you get a call today from that survival game place we went to?",
       voice = 1,
       male = 4
     },
@@ -257240,14 +258242,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "开会的时候倒有几个尾号0933的未接来电，是他们吗？"
+      sentence = "I was in a meeting, but I did miss a few calls from a number ending in 0933. Was that them?"
     },
     [3] = {
       next = "4",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，他们刚才也给我打电话了。",
+      sentence = "Yeah, they called me too.",
       voice = 1,
       male = 4
     },
@@ -257256,14 +258258,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "难道是来做满意度调查的？"
+      sentence = "What, they're doing a survey?"
     },
     [5] = {
       next = "6",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不止，他们还想请我们做关卡设计的顾问。",
+      sentence = "Not just that. They wanna bring us on as level design consultants.",
       voice = 1,
       male = 4
     },
@@ -257272,30 +258274,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……嗯？"
+      sentence = "...Huh?"
     },
     [7] = {
       next = "8",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "该不会是因为我们表现太优秀了，所以想来“收编”吧~"
+      sentence = "Wait, we were that good and now they wanna recruit us?"
     },
     [8] = {
       next = "9",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，而且酬劳还不低呢。",
+      sentence = "Kinda. And the pay's actually not bad.",
       voice = 1,
       male = 4
     },
     [9] = {
       next = "10",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "除了单个项目的费用，还对我们终生免费。",
+      sentence = "They're offering a fee for each project and even gave us lifetime free access.",
       voice = 1,
       male = 4
     },
@@ -257304,23 +258306,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇，那你答应了吗？"
+      sentence = "Whoa, that's awesome! Did you say yes?"
     },
     [11] = {
       next = "12",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "没有，署里事情多，我也不知道怎么把握分寸。",
+      sentence = "No. I've got a lot going on at work, and I'm not sure where to draw the line when it comes to designing levels.",
       voice = 1,
       male = 4
     },
     [12] = {
       next = "13",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "要是按照平时对队员们的考核标准来要求，估计这家店没多久就要倒闭了。",
+      sentence = "If I applied the same standards I use for training my team, that place would be out of business in no time.",
       voice = 1,
       male = 4
     },
@@ -257329,21 +258331,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈哈，也是。如果真是白指挥官上场设计，估计每一关都是地狱难度了……"
+      sentence = "Hahaha, true. If you started designing levels, every single one would be on nightmare difficulty."
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "看来我们只能和“终生免费”的机会说再见啦~"
+      sentence = "Guess we'll just have to say goodbye to that lifetime pass, huh?"
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不用说再见，我们还有别的方式。",
+      sentence = "Not necessarily. There's another way.",
       voice = 1,
       male = 4
     },
@@ -257352,14 +258354,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "什么？"
+      sentence = "Huh? What way?"
     },
     [17] = {
       next = "18",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "每拿到两个游戏榜单第一，就能免单一次。",
+      sentence = "If we get first place on two of their game leaderboards, we get a free pass.",
       voice = 1,
       male = 4
     },
@@ -257368,23 +258370,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "咦，那岂不是还要玩其他游戏？"
+      sentence = "Does that mean we gotta play some of their other games too?"
     },
     [19] = {
       next = "20",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "听说他们家的其他游戏口碑也不错。",
+      sentence = "I heard all their games are pretty good.",
       voice = 1,
       male = 4
     },
     [20] = {
       next = "21",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "所以即使没有这个奖励，我本来也想带你试试。",
+      sentence = "I was thinking of taking you to try them, even if they didn't offer any rewards.",
       voice = 1,
       male = 4
     },
@@ -257393,23 +258395,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好呀，不过既然他们敢推出这个挑战项目，就说明还是有一定挑战难度的。"
+      sentence = "Sounds fun! But if they're offering leaderboard challenges, they must be pretty tough."
     },
     [22] = {
       next = "23",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "以我们刚打完的那个本来说，强度还好。",
+      sentence = "Compared to the one we just did, they're manageable.",
       voice = 1,
       male = 4
     },
     [23] = {
       next = "24",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "很适合你用这种趣味方式进行体能训练。",
+      sentence = "Plus, it's a fun way for you to get in a bit of physical training.",
       voice = 1,
       male = 4
     },
@@ -257418,14 +258420,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……怎么说呢，用大逃杀进行训练的方式，白警官你也算是第一人了吧。"
+      sentence = "...Only you would think of using a survival game for training, Officer Gavin."
     },
     [25] = {
       next = "26",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "这么有挑战性还有奖励的事，用来玩刚好。",
+      sentence = "Hey, it's a challenge, and it's got great rewards. That's a win in my book.",
       voice = 1,
       male = 4
     },
@@ -257434,23 +258436,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "突然有点紧张了，我要是拖你后腿怎么办？"
+      sentence = "Now I'm getting nervous. What if I end up slowing you down?"
     },
     [27] = {
       next = "28",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "那你可要加油喽。",
+      sentence = "Then you'd better work hard.",
       voice = 1,
       male = 4
     },
     [28] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "可要努力带我拿第一名，大制作人。",
+      sentence = "Gotta help me score that first place, my big Producer.",
       voice = 1,
       male = 4
     }
@@ -257458,11 +258460,10 @@ data = {
   [4306] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "今天团建结束了吗？我去接你？",
-      voice = 1,
+      sentence = "You done team building? Want me to come pick you up?",
       male = 4
     },
     [2] = {
@@ -257470,22 +258471,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "还有一会儿呢。"
+      sentence = "Not yet, still got a bit to go."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过，我刚和大家提到你，你就来“查岗”了。"
+      sentence = "But funny thing, I was just talking about you with the others."
     },
     [4] = {
       next = "5",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯？你们说我什么了？",
-      voice = 1,
+      sentence = "Oh yeah? What were you saying about me?",
       male = 4
     },
     [5] = {
@@ -257493,15 +258493,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "问我平时会不会“欺负”你。"
+      sentence = "Someone asked if I ever \"bullied\" you."
     },
     [6] = {
       next = "7",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "这是什么问题？",
-      voice = 1,
+      sentence = "...What kind of question is that?",
       male = 4
     },
     [7] = {
@@ -257509,40 +258508,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "起因经过是这样的。"
+      sentence = "Okay, so here's how it started."
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我们公司最近来了一位新人，小姑娘特别可爱，大家都会忍不住逗一逗她。"
+      sentence = "There's this new girl at work. She's super cute, a total sweetheart. Everyone keeps playfully teasing her."
     },
     [9] = {
       next = "10",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "可以理解。",
-      voice = 1,
+      sentence = "Makes sense.",
       male = 4
     },
     [10] = {
       next = "11",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "唐朝和顾征也很喜欢小小地“捉弄”一下署里的新队员。",
-      voice = 1,
+      sentence = "Tang and Eli are always pulling that kind of stuff with the new recruits, too.",
       male = 4
     },
     [11] = {
       next = "12",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "他们之前还跟我说，打打闹闹有助于促进大家的关系。",
-      voice = 1,
+      sentence = "They say messing around a little helps people get closer.",
       male = 4
     },
     [12] = {
@@ -257550,24 +258546,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你也去跟新队员“近距离接触”了吗？"
+      sentence = "Oh? Did you mess around with any rookies?"
     },
     [13] = {
       next = "14",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我说：“既然这是促进关系，那你们两个先去跑三圈，维持一下我们之间的关系”。",
-      voice = 1,
+      sentence = "I told them, \"If it's the bond they want to deepen, nothing says a bonding experience like running three laps around the field together.\"",
       male = 4
     },
     [14] = {
       next = "15",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "然后他们就没再来烦我了。",
-      voice = 1,
+      sentence = "And they never brought it up again.",
       male = 4
     },
     [15] = {
@@ -257575,24 +258569,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗……那在一场酣畅淋漓的跑圈后，他们一定跟你关系更好了吧？"
+      sentence = "Haha! I bet after those laps, your bond was unbreakable!"
     },
     [16] = {
       next = "17",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "铁着呢。",
-      voice = 1,
+      sentence = "Rock solid.",
       male = 4
     },
     [17] = {
       next = "18",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "先不说他们，你们是怎么聊到我身上的？",
-      voice = 1,
+      sentence = "But seriously, how did I end up being the topic?",
       male = 4
     },
     [18] = {
@@ -257600,38 +258592,36 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "刚刚小姑娘问我为什么总逗她。顾梦说就是因为喜欢，用了我们俩举例子。"
+      sentence = "The new girl asked why I kept teasing her, and Willow said it's probably because I liked her. Then she used you and me as an example."
     },
     [19] = {
       next = "20",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "韩野还在给你鸣不平，说白哥是妥妥的“老实人”。"
+      sentence = "Minor even jumped in to defend you, saying you're the definition of a \"good guy.\""
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "他们才不知道，你的小心思可不少！不好好吹干头发、偷吃还没做好的菜，等等等等。"
+      sentence = "If only they knew how cheeky you actually are! Like how you never dry your hair properly, or how you always sneak bites of food before it's even done..."
     },
     [21] = {
       next = "22",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "在你面前，我当然会更随心所欲一点。",
-      voice = 1,
+      sentence = "Well, I suppose I do let myself go a bit when I'm around you.",
       male = 4
     },
     [22] = {
       next = "23",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "你时不时也会张牙舞爪地，用苦瓜或者其他东西“威胁”我一下，让我乖乖配合你。",
-      voice = 1,
+      sentence = "And it's not like you're innocent either. You've waved cauliflower at me more than once to \"threaten\" me into cooperating.",
       male = 4
     },
     [23] = {
@@ -257639,44 +258629,40 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……怎么听你这么一说，我好像不仅在“欺负”你，好像还在你面前横行霸道的？"
+      sentence = "...Wow, you make me sound like a total tyrant who has been bullying you all the time."
     },
     [24] = {
       next = "25",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "横行霸道也没什么不好，很有活力，很可爱。",
-      voice = 1,
+      sentence = "I actually think it's kinda cute.",
       male = 4
     },
     [25] = {
       next = "26",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "而且你放心，我也会继续保持我的小心思。",
-      voice = 1,
+      sentence = "Oh, by the way, I've still got a few little tricks up my sleeve.",
       male = 4
     },
     [26] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "像之前答应过你的那样，偶尔对你“凶”一点，“欺负”回来。",
-      voice = 1,
+      sentence = "I did promise to tease you back from time to time, remember?",
       male = 4
     }
   },
   [4307] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "喂，是我。还记得之前我们在如意镇参加的采买活动吗？",
-      voice = 1,
+      sentence = "Hey, it's me. You remember that shopping contest in Ruyi Town that we took part in?",
       male = 4
     },
     [2] = {
@@ -257684,15 +258670,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "就是那个我们“半途而废”的活动吗？当然记得！"
+      sentence = "You mean the one we gave up halfway through? Of course, I do!"
     },
     [3] = {
       next = "4",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我刚刚看了一篇关于小镇的报道，这个采买活动也被报道了。",
-      voice = 1,
+      sentence = "I just read this article about the town. It actually got featured in the article.",
       male = 4
     },
     [4] = {
@@ -257700,15 +258685,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇！居然还能上报！报纸上是怎么说的？"
+      sentence = "No way, it made it into the paper? What does it say?"
     },
     [5] = {
       next = "6",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "上面夸奖了小镇对于传统民俗文化的传播，还刊登了几份得分较高的采买清单。",
-      voice = 1,
+      sentence = "It praised the town for preserving traditional culture. They even printed a few of the highest-scoring shopping lists.",
       male = 4
     },
     [6] = {
@@ -257716,24 +258700,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "原来真的有人把那些东西买完啊……"
+      sentence = "Wait... someone actually managed to buy all that stuff?"
     },
     [7] = {
       next = "8",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "有。还不少呢。",
-      voice = 1,
+      sentence = "Yep. Quite a few groups did.",
       male = 4
     },
     [8] = {
       next = "9",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "据说得分最高的几组，都获得了小镇颁发的奖状做奖励。",
-      voice = 1,
+      sentence = "The top ones even got official certificates from the town as prizes.",
       male = 4
     },
     [9] = {
@@ -257741,15 +258723,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "奖状？参加活动的奖励是一张奖状？"
+      sentence = "...A certificate? That's it? That was the reward?"
     },
     [10] = {
       next = "11",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯哼。而且只有一张奖状。",
-      voice = 1,
+      sentence = "Yup. Just one certificate per team.",
       male = 4
     },
     [11] = {
@@ -257757,40 +258738,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……幸好我们中途就退出了，不然也太亏了！"
+      sentence = "...Thank god we bailed early! That would've been such a letdown!"
     },
     [12] = {
       next = "13",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "其他还有什么有趣的吗？"
+      sentence = "Anything else interesting?"
     },
     [13] = {
       next = "14",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯……有一组抽到“人生四悲”的人拿到了高分，还接受了报纸采访。",
-      voice = 1,
+      sentence = "Yeah, one group drew the \"Four Great Sorrows of Life\" theme and got a high score. They were even interviewed.",
       male = 4
     },
     [14] = {
       next = "15",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "这组人很有意思，他们专门请棺材店的老板刻上了不少金银财宝的花纹。",
-      voice = 1,
+      sentence = "They got really creative. They had the coffin shop owner carve all these gold and silver patterns on the casket.",
       male = 4
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "按他们的说法，这是“见棺生财”，一定程度上冲淡了一些悲伤的氛围。",
-      voice = 1,
+      sentence = "Said it was their way of \"making riches out of grief\" that supposedly lightened the mood.",
       male = 4
     },
     [16] = {
@@ -257798,24 +258776,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "还挺有想法的嘛！"
+      sentence = "That's... weirdly smart."
     },
     [17] = {
       next = "18",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "还说，很乐意和抽到“人生四喜”的人组个队，试着采买一下“人生大喜大悲”。",
-      voice = 1,
+      sentence = "They even said they'd love to team up with someone who drew the \"Four Great Joys of Life\" next time—",
       male = 4
     },
     [18] = {
       next = "19",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "什么……“久旱逢甘霖，一滴；金榜题名时，重名。”之类的。",
-      voice = 1,
+      sentence = "See what happens when you combine the greatest joy with the greatest sorrow.",
       male = 4
     },
     [19] = {
@@ -257823,24 +258799,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈，这也太有想法了吧！可惜我们参与活动那天没有遇到他们。"
+      sentence = "That sounds interesting! Too bad we didn't bump into them that day."
     },
     [20] = {
       next = "21",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我又看了一遍这篇报道。那人姓唐，很善言谈，留着小辫子，和古装很搭。",
-      voice = 1,
+      sentence = "I read it again—that guy's surname is Tang. Real talkative. Wears his hair in a little braid. The traditional look really suits him.",
       male = 4
     },
     [21] = {
       next = "22",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "所以我决定当面问问这位唐先生，打算把这场合作采买安排到什么时候。",
-      voice = 1,
+      sentence = "So I figured, why not go ask this Mr. Tang in person when he plans to schedule that joy-and-sorrow team-up?",
       male = 4
     },
     [22] = {
@@ -257848,50 +258822,47 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗……哈哈哈哈哈哈！"
+      sentence = "HAHAHA—"
     },
     [23] = {
       next = "24",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "报纸牵来的缘分是上司，这也算是一种大喜大悲了！"
+      sentence = "Running into your boss from a newspaper article, now that's a mix of joy and sorrow!"
     },
     [24] = {
       next = "25",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "既然参加了如意镇的活动，他最近应该是有点状况。",
-      voice = 1,
+      sentence = "That, and I wonder who his partner was. I think he might be seeing someone.",
       male = 4
     },
     [25] = {
       next = "26",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "以前还不认识你的时候，唐朝他们几个时不时就会吵着说让我介绍一下。",
-      voice = 1,
+      sentence = "Back before you guys met, Tang and the others were always bugging me to introduce you to them.",
       male = 4
     },
     [26] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "现在轮到他自己了。",
-      voice = 1,
+      sentence = "Now it's his turn to do the same.",
       male = 4
     }
   },
   [4308] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我在火车上了，你顺利上车了吗？",
+      sentence = "I'm on the train now. Did you make it to yours?",
       voice = 1,
       male = 4
     },
@@ -257900,14 +258871,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯，我已经在座位上坐下啦。"
+      sentence = "Yup, sitting pretty in my seat!"
     },
     [3] = {
       next = "4",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我记得你的座位在8号车厢靠窗的位置，没有换吧？",
+      sentence = "If I recall, you're by the window in Car 8—still the same?",
       voice = 1,
       male = 4
     },
@@ -257916,30 +258887,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没有，不过我坐在靠轨道这边，现在只能看到相邻的火车。"
+      sentence = "Uh-huh! But I'm facing the tracks, so there's another train blocking everything."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "一会儿等车开动，应该就可以看看小城的风景了。"
+      sentence = "Once we pull out, I'll get to see the town, though."
     },
     [6] = {
       next = "7",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "你的声音听起来好像有些失落。",
+      sentence = "You sound kind of down...",
       voice = 1,
       male = 4
     },
     [7] = {
       next = "8",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "发生什么事了吗？",
+      sentence = "Everything alright?",
       voice = 1,
       male = 4
     },
@@ -257948,30 +258919,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没有啦，只是在检票口分开的时候，我想起了曾经看过的一部老剧。"
+      sentence = "It's silly, but saying goodbye earlier made me think of this classic show."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "剧里的男女主人公分别坐上两个方向的火车，从此天各一方了。"
+      sentence = "The couple boarded trains going opposite ways and never saw each other again."
     },
     [10] = {
       next = "11",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我们才不会这样。",
+      sentence = "That won't be us.",
       voice = 1,
       male = 4
     },
     [11] = {
       next = "12",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "$u，现在抬头，向对面火车的窗户看。",
+      sentence = "$u, quick—look out at the train across from you.",
       voice = 1,
       male = 4
     },
@@ -257980,39 +258951,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "对面？"
+      sentence = "The one across from me?"
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "啊啊啊我好像看到你了！对面正在招手的人是你吗！"
+      sentence = "Oh my gosh—are you waving from over there?!"
     },
     [14] = {
       next = "15",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "是我。发现对面是你这趟车，我就跟坐在这里的大哥换了个位置。",
+      sentence = "Yeah. I saw your train and asked the guy next to me if we could switch.",
       voice = 1,
       male = 4
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "听说我想跟女朋友见一面，他很爽快地答应了。",
+      sentence = "When I said I wanted to see my girlfriend, he was happy to help.",
       voice = 1,
       male = 4
     },
     [16] = {
       next = "17",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "现在还像你看的那部老剧里的场景吗？",
+      sentence = "Still reminding you of that drama?",
       voice = 1,
       male = 4
     },
@@ -258021,14 +258992,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "一点都不像啦！"
+      sentence = "Not at all!"
     },
     [18] = {
       next = "19",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "等等……我擦一下车窗。",
+      sentence = "Wait... my window's getting foggy.",
       voice = 1,
       male = 4
     },
@@ -258037,14 +259008,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "怎么了？"
+      sentence = "What's wrong?"
     },
     [20] = {
       next = "21",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "一凑近车窗总会有水雾，有点看不清楚你的样子了。",
+      sentence = "My breath keeps fogging it up when I lean in. You're getting blurry.",
       voice = 1,
       male = 4
     },
@@ -258053,30 +259024,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，那我也擦一擦……"
+      sentence = "Haha, me too—I'll wipe mine..."
     },
     [22] = {
       next = "23",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "看我专门擦出了一个爱心形状的缺口哦~"
+      sentence = "Look! I wiped a little heart on my window... so I can see you through it!"
     },
     [23] = {
       next = "24",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，爱心很可爱。",
+      sentence = "Cute idea.",
       voice = 1,
       male = 4
     },
     [24] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "在爱心里的你，还要更可爱。",
+      sentence = "But you're cuter, framed in that heart.",
       voice = 1,
       male = 4
     }
@@ -258627,11 +259598,10 @@ data = {
   [4313] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "还在堵车吗，你发给我的即时定位已经很久没有动了。",
-      voice = 1,
+      sentence = "Still stuck in traffic? Your location hasn't moved for a while.",
       male = 4
     },
     [2] = {
@@ -258639,31 +259609,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜不愧是情人节，今天路上的车也太——多了吧！"
+      sentence = "Ughh, classic Valentine's Day traffic jam! The roads are packed."
     },
     [3] = {
       next = "4",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "可能你要再等我一会儿了……"
+      sentence = "Looks like I'll be a little late..."
     },
     [4] = {
       next = "5",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "没关系，不用着急，我这边也还有一会儿才能到。",
-      voice = 1,
+      sentence = "That's fine. No need to rush. I've still got a bit to go on my end, too.",
       male = 4
     },
     [5] = {
       next = "6",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "感觉还要堵一会，所以就想给你打个电话，陪你说说话。",
-      voice = 1,
+      sentence = "Figured I'd call while we're both stuck. Keep you company for a bit.",
       male = 4
     },
     [6] = {
@@ -258671,15 +259639,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈，你打的正好，快来试一试这个占卜小游戏！"
+      sentence = "Perfect timing! Come try this little fortune-telling mini-game with me!"
     },
     [7] = {
       next = "8",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "占卜小游戏？是你前几天推荐给我的小程序吗？",
-      voice = 1,
+      sentence = "Fortune game? The one you sent me the other day?",
       male = 4
     },
     [8] = {
@@ -258687,31 +259654,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "没错，今天的规则是，只要一次把小红心推进洞里，今天的一切都会很顺利。"
+      sentence = "Yup! Today's challenge is—if you can get the little red heart into the hole in one shot, your day will go perfectly."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我失败了，结果现在果然遇到了大堵车……"
+      sentence = "I messed it up... and boom, traffic jam. Totally cursed."
     },
     [10] = {
       next = "11",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我来试试。是推到这个洞里就可以吗？",
-      voice = 1,
+      sentence = "Let me try. Just aim for the hole, right?",
       male = 4
     },
     [11] = {
       next = "12",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "——成功了，一百分。",
-      voice = 1,
+      sentence = "...Got it. One shot.",
       male = 4
     },
     [12] = {
@@ -258719,31 +259684,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "一发入魂？！不愧是白Sir！"
+      sentence = "Whoa! One-shot win?! That's amazing!"
     },
     [13] = {
       next = "14",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "看来等堵车过了以后，我们后面的行程都会顺顺利利了！"
+      sentence = "Looks like once we get past the traffic, everything else today will go smoothly!"
     },
     [14] = {
       next = "15",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "其实约会行程你不用太担心，我之前制定了几种不同的方案，可以灵活变通。",
-      voice = 1,
+      sentence = "Don't worry too much about the schedule. I've prepared multiple plans just in case. We'll stay flexible.",
       male = 4
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "保证我们今天都能有最佳的体验。",
-      voice = 1,
+      sentence = "The goal is to make sure you enjoy every part of today.",
       male = 4
     },
     [16] = {
@@ -258751,24 +259714,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯？你这几天晚上待在书房里不会是在做这个吧？"
+      sentence = "Wait... is that what you've been doing the past few nights in the study?"
     },
     [17] = {
       next = "18",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，午餐选了三家离得比较近的店。下午去手工坊一条街，去做你之前想做的银杏叶书签。",
-      voice = 1,
+      sentence = "Yeah. I picked three lunch spots nearby. Then we'll head to that street with all the handicrafts. You said you wanted to make a ginkgo leaf bookmark.",
       male = 4
     },
     [18] = {
       next = "19",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "那条街四周还有公园和商场，如果你玩累了想要散步或者吃甜点都能找到合适的店。",
-      voice = 1,
+      sentence = "There are parks and cafés around too, so if you get tired or want something sweet, we've got plenty of options.",
       male = 4
     },
     [19] = {
@@ -258776,24 +259737,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哇……听上去和特遣署的特别任务执行方案一样严谨。"
+      sentence = "Wow... this sounds like a full-on task force mission plan."
     },
     [20] = {
       next = "21",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "确实是用同样的状态去准备的。",
-      voice = 1,
+      sentence = "That's exactly how I made the plans.",
       male = 4
     },
     [21] = {
       next = "22",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "体验下来如果有待提升的空间，也请“指挥官小姐”及时指正。",
-      voice = 1,
+      sentence = "If you feel anything needs improvement today, I'm counting on you to let me know right away, \"ma'am.\"",
       male = 4
     },
     [22] = {
@@ -258801,15 +259760,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好~那我可要好好体会一下啦~"
+      sentence = "Roger that! I'll be paying close attention!"
     },
     [23] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "没问题。毕竟比起占卜的结果，我还是更想自己来把握你今天的心情和运势。",
-      voice = 1,
+      sentence = "Good. Because between fortune games and plans, I'd still rather rely on myself to make sure your day goes just right.",
       male = 4
     }
   },
@@ -259723,20 +260681,18 @@ data = {
   [4319] = {
     [1] = {
       next = "2",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "报告指挥官，今日已采购草莓300g、葡萄500g、牛奶一盒、鸡蛋一板、蛋挞皮一袋。",
-      voice = 1,
+      sentence = "Field report: strawberries, grapes, milk, eggs, and tart bases are secured.",
       male = 4
     },
     [2] = {
       next = "3",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "采购任务已完成，申请返回报到。",
-      voice = 1,
+      sentence = "Mission accomplished. Ready to return to base.",
       male = 4
     },
     [3] = {
@@ -259744,15 +260700,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "指挥官收到。小白警官干得不错，批准返回~"
+      sentence = "Well done, Officer. You're cleared to return."
     },
     [4] = {
       next = "5",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "明白，预计十五分钟内到家。",
-      voice = 1,
+      sentence = "Copy. Fifteen minutes out.",
       male = 4
     },
     [5] = {
@@ -259760,33 +260715,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "看来我们的“糖分补充计划”进行得很顺利，你还有别的想买的吗？"
+      sentence = "\"Project Dessert\" is on track. Need me to add anything to the list?"
     },
     [6] = {
       next = "7",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯……吃的方面我暂时没有。",
-      voice = 1,
+      sentence = "No, ma'am.",
       male = 4
     },
     [7] = {
       next = "8",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "但精神上我觉得也需要一些糖分。",
-      voice = 1,
+      sentence = "But I'm filing a request for a different kind of sweetness.",
       male = 4
     },
     [8] = {
       next = "9",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "回家后我申请获得指挥官的拥抱十分钟、以及亲吻十个。",
-      voice = 1,
+      sentence = "Then I'm requesting my post-mission reward: a ten-minute hug and ten kisses.",
       male = 4
     },
     [9] = {
@@ -259794,15 +260746,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "听起来不像是任务，倒像是在讨要奖励呢。"
+      sentence = "Hey now, that sounds like you're trying to get bonus points."
     },
     [10] = {
       next = "11",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "那你愿意给我吗？",
-      voice = 1,
+      sentence = "What if I am? Is that okay?",
       male = 4
     },
     [11] = {
@@ -259810,15 +260761,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然！只不过要等我们完成今天的主要目标——烤制一次完美的草莓蛋挞之后。"
+      sentence = "Totally okay—right after we ace today's main task: the strawberry tart."
     },
     [12] = {
       next = "13",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "只有草莓味的？我看采购清单上还有葡萄。",
-      voice = 1,
+      sentence = "Only strawberry? You bought grapes too.",
       male = 4
     },
     [13] = {
@@ -259826,31 +260776,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "葡萄蛋挞是我突发奇想搭配的“黑暗料理”。"
+      sentence = "Grape tart is my risky side quest."
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "万一失败了，我就自己偷偷消灭，所以不算在目标里。"
+      sentence = "If it goes wrong, I'll take the hit—so it's not part of the main mission."
     },
     [15] = {
       next = "16",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "我觉得这样不好，执行任务应该一视同仁。",
-      voice = 1,
+      sentence = "No way. We share everything—the good and the experimental.",
       male = 4
     },
     [16] = {
       next = "17",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "不论是草莓味还是葡萄味，好的还是坏的，等做好了，我们一人一半。",
-      voice = 1,
+      sentence = "We try both tarts together, no matter how they turn out.",
       male = 4
     },
     [17] = {
@@ -259858,31 +260806,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那这么说的话，等任务成功了，白警官是不是也应该一视同仁地给我一些奖励？"
+      sentence = "So if sharing's the rule, do I get equal rewards if we succeed?"
     },
     [18] = {
       next = "19",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "比如二十分钟的拥抱和乘以三的亲吻？"
+      sentence = "Think: extended cuddle time and triple the kisses?"
     },
     [19] = {
       next = "20",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "只要你想要，我随时都可以给你。",
-      voice = 1,
+      sentence = "Deal. You can have whatever you want.",
       male = 4
     },
     [20] = {
       next = "0",
-      renming = "白起",
+      renming = "Gavin",
       dialog = 2,
       namebg = 1,
-      sentence = "等我回来，亲自执行。",
-      voice = 1,
+      sentence = "I'll be home soon to make it official.",
       male = 4
     }
   },
@@ -260492,6 +261438,464 @@ data = {
       dialog = 2,
       namebg = 1,
       sentence = "那约法结束，本人完全遵从指示，今晚下班我就带着球拍去接你。",
+      voice = 1,
+      male = 4
+    }
+  },
+  [4323] = {
+    [1] = {
+      next = "2",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Are you off work? I'll come pick you up.",
+      voice = 1,
+      male = 4
+    },
+    [2] = {
+      next = "3",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I'm about to head out. What's up? You sound super happy!"
+    },
+    [3] = {
+      next = "4",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Haha, yeah, something good happened.",
+      voice = 1,
+      male = 4
+    },
+    [4] = {
+      next = "5",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Remember that case I was working on?",
+      voice = 1,
+      male = 4
+    },
+    [5] = {
+      next = "6",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "The suspect kept saying it was self-defense, but nothing at the scene matched his story.",
+      voice = 1,
+      male = 4
+    },
+    [6] = {
+      next = "7",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Was there more to the story?"
+    },
+    [7] = {
+      next = "8",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Yeah, Eli and I have been at it for months.",
+      voice = 1,
+      male = 4
+    },
+    [8] = {
+      next = "9",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "After talking to people, we found a lot of dots that made no sense, but we finally managed to connect them together.",
+      voice = 1,
+      male = 4
+    },
+    [9] = {
+      next = "10",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Turns out, the guy really was acting in self-defense.",
+      voice = 1,
+      male = 4
+    },
+    [10] = {
+      next = "11",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "And because of this case, we uncovered a bunch of other people involved.",
+      voice = 1,
+      male = 4
+    },
+    [11] = {
+      next = "12",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "But with all that solid evidence, how did you spot the problem?"
+    },
+    [12] = {
+      next = "13",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Just a gut feeling. When I got to the scene, something just felt off.",
+      voice = 1,
+      male = 4
+    },
+    [13] = {
+      next = "14",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Later, Tang's Evol showed that he wasn't lying, but that only meant he wasn't making things up.",
+      voice = 1,
+      male = 4
+    },
+    [14] = {
+      next = "15",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "We ruled a few things out, and sure enough, we found the clues we were looking for.",
+      voice = 1,
+      male = 4
+    },
+    [15] = {
+      next = "16",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "That's awesome! If you hadn't kept pushing, the real bad guy might've gotten away!"
+    },
+    [16] = {
+      next = "17",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "It's not that big of a deal. Just doing what's right.",
+      voice = 1,
+      male = 4
+    },
+    [17] = {
+      next = "18",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Don't be so modest! Come on, say you're the coolest boyfriend in the world!"
+    },
+    [18] = {
+      next = "19",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Okay. You're the cutest girlfriend in the world.",
+      voice = 1,
+      male = 4
+    },
+    [19] = {
+      next = "20",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "...You're such a tease! Fine, I'll praise you in person later!"
+    },
+    [20] = {
+      next = "21",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "You've worked so hard for this. What do you say we eat something fancy tonight?"
+    },
+    [21] = {
+      next = "22",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "It's time we celebrated for Officer Gavin, who saved an innocent person from being wrongfully accused and caught a bunch of criminals!"
+    },
+    [22] = {
+      next = "23",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Then you'd better get downstairs quickly.",
+      voice = 1,
+      male = 4
+    },
+    [23] = {
+      next = "0",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Before we stuff ourselves, there's a reward I want from you even more.",
+      voice = 1,
+      male = 4
+    }
+  },
+  [4324] = {
+    [1] = {
+      next = "2",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Just saw your message. I thought calling would be easier.",
+      voice = 1,
+      male = 4
+    },
+    [2] = {
+      next = "3",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Hehe, it's fine. You can call when you're less busy. I just wanted to leave a message."
+    },
+    [3] = {
+      next = "4",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "It's cool. I'm on lunch. I was planning to call you anyway.",
+      voice = 1,
+      male = 4
+    },
+    [4] = {
+      next = "5",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Why do you suddenly want to learn communication skills from me?",
+      voice = 1,
+      male = 4
+    },
+    [5] = {
+      next = "6",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Well, I had a meeting with a client this morning. They kept dodging the main point, and it felt like we weren't getting anywhere."
+    },
+    [6] = {
+      next = "7",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "We spent a lot of time on something small because they were beating around the bush."
+    },
+    [7] = {
+      next = "8",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "That is indeed rather annoying.",
+      voice = 1,
+      male = 4
+    },
+    [8] = {
+      next = "9",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Afterward, I thought about it, and besides their issues, I feel like I also could've communicated better."
+    },
+    [9] = {
+      next = "10",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Like, maybe I could've focused on the main point they're trying to say? And perhaps I could have guided the conversation."
+    },
+    [10] = {
+      next = "11",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Then I remembered, you're an expert in this stuff!"
+    },
+    [11] = {
+      next = "12",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I figured if I could learn some tricks from Officer Gavin, it'd be way more effective."
+    },
+    [12] = {
+      next = "13",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "The more people you meet, the better you get at choosing the right words.",
+      voice = 1,
+      male = 4
+    },
+    [13] = {
+      next = "14",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "But my methods might not work for you.",
+      voice = 1,
+      male = 4
+    },
+    [14] = {
+      next = "15",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I'm not exactly a smooth talker, and you might end up upsetting people if you learn from me.",
+      voice = 1,
+      male = 4
+    },
+    [15] = {
+      next = "16",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "But don't you upset people too?"
+    },
+    [16] = {
+      next = "17",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "That just comes with my job. I don't care if I upset people.",
+      voice = 1,
+      male = 4
+    },
+    [17] = {
+      next = "18",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Argh! I was even hoping to learn how you gave orders. You always sounded so cool and commanding."
+    },
+    [18] = {
+      next = "19",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Don't you have anything that might work for me?"
+    },
+    [19] = {
+      next = "20",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I do, but you'll have to work with me.",
+      voice = 1,
+      male = 4
+    },
+    [20] = {
+      next = "21",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Really? You bet I'll be on my best behavior!"
+    },
+    [21] = {
+      next = "22",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "What constitutes \"best behavior\"?",
+      voice = 1,
+      male = 4
+    },
+    [22] = {
+      next = "23",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "Hmm... It means I'll listen to whatever you say! I want you to be as strict as possible. I'm here to learn!"
+    },
+    [23] = {
+      next = "24",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "I promise I won't quit until I master everything you teach me! No surrender!"
+    },
+    [24] = {
+      next = "25",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Alright, when do you want to start? And how long are we doing this for?",
+      voice = 1,
+      male = 4
+    },
+    [25] = {
+      next = "26",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "...How about starting tonight? Maybe for a month?"
+    },
+    [26] = {
+      next = "27",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Alright, it's a deal. We'll do it your way.",
+      voice = 1,
+      male = 4
+    },
+    [27] = {
+      next = "28",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "...Wait a minute, something feels off. Gavin, are you... already guiding me into speaking?"
+    },
+    [28] = {
+      next = "29",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "Tonight's training will be simple. Let's start by getting the other person to spill a secret.",
+      voice = 1,
+      male = 4
+    },
+    [29] = {
+      next = "30",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "We're starting already? That sounds too hard! I'll never outsmart you!"
+    },
+    [30] = {
+      next = "31",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "The loser gets punished.",
+      voice = 1,
+      male = 4
+    },
+    [31] = {
+      next = "32",
+      renming = "$u",
+      dialog = 1,
+      dhead = 108,
+      sentence = "There's a punishment?!"
+    },
+    [32] = {
+      next = "33",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "You said it yourself that you'd listen to whatever I say.",
+      voice = 1,
+      male = 4
+    },
+    [33] = {
+      next = "0",
+      renming = "Gavin",
+      dialog = 2,
+      namebg = 1,
+      sentence = "I'm picking you up tonight. There's no escape.",
       voice = 1,
       male = 4
     }
@@ -280374,28 +281778,28 @@ data = {
   [8123] = {
     [1] = {
       next = "2",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "可算接了，你最近在忙什么呢？",
+      sentence = "Hey! It took you long enough. What've you been so busy with lately?",
       voice = 1,
       male = 8
     },
     [2] = {
       next = "3",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "发消息大半天不回，约你出来也约不到。",
+      sentence = "You've been ghosting me all day and didn't even reply to my messages. I lost count of how many times I tried to ask you out.",
       voice = 1,
       male = 8
     },
     [3] = {
       next = "4",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "你们公司是出了什么天大的事，周末跟我出门看个Live的时间都没有？",
+      sentence = "What's going on at your work that you can't even spare one weekend to go see a live show with me?",
       voice = 1,
       male = 8
     },
@@ -280404,23 +281808,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜呜，老板的辛酸你不懂！"
+      sentence = "*Sniffs* You don't understand the struggles of being the boss!"
     },
     [5] = {
       next = "6",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "我不懂老板，但还能不懂你？",
+      sentence = "I might not get the boss thing, but I do get you.",
       voice = 1,
       male = 8
     },
     [6] = {
       next = "7",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "说说吧，这次遇到什么了？",
+      sentence = "So? What's got you all tied up this time?",
       voice = 1,
       male = 8
     },
@@ -280429,37 +281833,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "唉……最近我们公司在招人，到我手里的简历千奇百怪，怎么写的都有。"
+      sentence = "Ugh... We've been hiring lately, and the résumés I'm getting are just wild. No two are the same."
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "有把自己连续打游戏的时长写上，说自己连续工作能力很强的……"
+      sentence = "Someone literally listed their longest gaming streak as part of their skill set."
     },
     [9] = {
       next = "10",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "还有写自己每天坚持在支付软件上“种树”，证明自己很有爱心也很有毅力的。"
+      sentence = "Another said they plant trees on an online app every day. Apparently, that proves they're caring and persistent."
     },
     [10] = {
       next = "11",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "这不都是做包装的人才。",
+      sentence = "Well, that's some high-level self-marketing.",
       voice = 1,
       male = 8
     },
     [11] = {
       next = "12",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "可以考虑招一个进来，给你们公司做个宣传。",
+      sentence = "Maybe you should hire one and use it to get the company some good PR.",
       voice = 1,
       male = 8
     },
@@ -280468,32 +281872,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "招他还不如招你呢，还能帮我出出主意，听我说说话之类的。"
+      sentence = "I'd be better off hiring you. At least you'd help me think things through and let me rant in peace."
     },
     [13] = {
       next = "14",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "可以啊。",
+      sentence = "Sure. When do I start?",
       voice = 1,
       male = 8
     },
     [14] = {
       next = "15",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "给我个副总当当。",
+      sentence = "I'm not greedy. I'll just take the VP position.",
       voice = 1,
       male = 8
     },
     [15] = {
       next = "16",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "办公室窗户要对西南，再给我的桌子东边放棵赤楠，旺我。",
+      sentence = "I want an office facing the southwest. Oh, I also want a Podocarpus tree on the east side of my desk. Gotta keep that good fengshui flowing.",
       voice = 1,
       male = 8
     },
@@ -280502,21 +281906,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……想得倒挺美！我顶多给你盖个实习章。"
+      sentence = "...Dream on! The best I can do is an unpaid intern."
     },
     [17] = {
       next = "18",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过在聊岗位之前，你是不是得先给我份简历呀？"
+      sentence = "But hey, before we talk positions, don't you owe me a résumé first?"
     },
     [18] = {
       next = "19",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "这简单，我第一行就写上：数次拯救公司老板于危难之中。",
+      sentence = "No problem. First line: \"Successfully rescued the company's boss from disaster... multiple times.\"",
       voice = 1,
       male = 8
     },
@@ -280525,41 +281929,41 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗……怎么听上去，你更适合来应聘保安？"
+      sentence = "Haha, that sounds more like the skill set of a bodyguard than a VP."
     },
     [20] = {
       next = "21",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "我这么劳苦功高只能当保安？你可真有良心。",
+      sentence = "Really? That's all I get after all I've done? That's so cruel.",
       voice = 1,
       male = 8
     },
     [21] = {
       next = "22",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "不过先不说岗位，这份“简历”拿出手，至少够抓你周末出来陪我一天吧？",
+      sentence = "But fine, forget the title. That résumé alone should be enough to earn me one full day of your weekend, right?",
       voice = 1,
       male = 8
     },
     [22] = {
       next = "23",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "工作是做不完的，先好好休息一会儿再说。",
+      sentence = "Work's never-ending. Take a breather and come hang out.",
       voice = 1,
       male = 8
     },
     [23] = {
       next = "0",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "到时候我来找你，可别又让我联系不上人。",
+      sentence = "I'll come find you. Just don't pull another disappearing act.",
       voice = 1,
       male = 8
     }
@@ -280567,10 +281971,10 @@ data = {
   [8124] = {
     [1] = {
       next = "2",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "看了你给我发的视频……这又是什么新型“整蛊”？",
+      sentence = "I watched that video you sent me... What was that? Some new kind of prank?",
       voice = 1,
       male = 8
     },
@@ -280579,14 +281983,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不觉得我很有创意吗？不觉得它很可爱吗？"
+      sentence = "You didn't think it was creative? Come on, it was adorable!"
     },
     [3] = {
       next = "4",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "所以……你用我的脑袋做了个立牌，还安了个弹簧，做成摇摇乐？",
+      sentence = "You made a standee of my face, stuck it on a spring... and turned me into a bobblehead?",
       voice = 1,
       male = 8
     },
@@ -280595,23 +281999,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯！是我亲自找店家定做的！"
+      sentence = "Yup! Custom-made! Just for you!"
     },
     [5] = {
       next = "6",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "然后专门拍了个你戳得它前后左右晃的视频给我。",
+      sentence = "And then you filmed yourself poking it so it wobbled around... and sent it to me.",
       voice = 1,
       male = 8
     },
     [6] = {
       next = "7",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "还问可不可爱？",
+      sentence = "Are you really asking me if it was cute?",
       voice = 1,
       male = 8
     },
@@ -280620,23 +282024,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然！你要喜欢，我还可以送你几个！"
+      sentence = "Obviously! If you like it, I can get you a whole set!"
     },
     [8] = {
       next = "9",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "我听起来像是喜欢的意思吗？",
+      sentence = "Do I sound like I liked it?",
       voice = 1,
       male = 8
     },
     [9] = {
       next = "10",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "那块立牌被你戳来戳去，看得我自己的头都开始晕了。",
+      sentence = "Watching you poke that thing made my head spin for real.",
       voice = 1,
       male = 8
     },
@@ -280645,57 +282049,57 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这样啊……本来还想摆一排，灵感卡住的时候挨个戳戳放松一下。"
+      sentence = "That's a shame... I was planning to line them all up and maybe poke them one by one whenever I hit a creative block."
     },
     [11] = {
       next = "12",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "现在看来，只好放在抽屉里蒙尘了。"
+      sentence = "Guess now they'll just sit in a drawer collecting dust."
     },
     [12] = {
       next = "13",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "听起来委屈巴巴的。",
+      sentence = "Okay, okay, don't get all pouty on me.",
       voice = 1,
       male = 8
     },
     [13] = {
       next = "14",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "算了，东西都在你手上，给你这份使用自由。",
+      sentence = "Since you already made it, you can do whatever you want with it.",
       voice = 1,
       male = 8
     },
     [14] = {
       next = "15",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "不过你别忘了，我手上也有你的照片。",
+      sentence = "But just so you know... I've got photos of you, too.",
       voice = 1,
       male = 8
     },
     [15] = {
       next = "16",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "不管是睡蒙了一脸呆样，还是因为吃到了喜欢的东西一脸蠢样，我全都留着。",
+      sentence = "From your dazed morning face to that ridiculous grin when you eat something you like—I've saved 'em all.",
       voice = 1,
       male = 8
     },
     [16] = {
       next = "17",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "这就看看怎么二次加工一下，让你也享受一下被人时刻放在身边的感觉。",
+      sentence = "Might be time to \"play around\" and give you the experience of being someone's personal mascot.",
       voice = 1,
       male = 8
     },
@@ -280704,14 +282108,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等等等等！我好歹都是用你的帅照做立牌，你可不能抹黑我的形象！"
+      sentence = "Wait—wait! At least I used good-looking pics of you! Don't go ruining my rep!"
     },
     [18] = {
       next = "19",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "这叫生动形象地记录你的生活，怎么就抹黑了？",
+      sentence = "What do you mean by \"ruining\"? I was simply documenting the most authentic you.",
       voice = 1,
       male = 8
     },
@@ -280720,30 +282124,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "但是你想，你都要用我的照片了，起码给我点参与感？"
+      sentence = "But you're using my pictures... At least let me help!"
     },
     [20] = {
       next = "21",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "起码让我挑挑相片、看看款式之类的……"
+      sentence = "At least let me pick out the photos or... check the design or something?"
     },
     [21] = {
       next = "22",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "免谈。你自己动手前也没征询我本人的意见。",
+      sentence = "Nope. You didn't run your project by me, so I'm not running mine by you either.",
       voice = 1,
       male = 8
     },
     [22] = {
       next = "0",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "等着过几天看我给你拍的视频吧。",
+      sentence = "Just wait. I'll show you my masterpiece in a few days.",
       voice = 1,
       male = 8
     }
@@ -282269,11 +283673,10 @@ data = {
   [8134] = {
     [1] = {
       next = "2",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "醒了没，大好周末该出去溜达了。",
-      voice = 1,
+      sentence = "You awake? Get up. It's way too nice out to be cooped up inside all day.",
       male = 8
     },
     [2] = {
@@ -282281,15 +283684,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哼，不去。"
+      sentence = "Uh-uh. Not happening."
     },
     [3] = {
       next = "4",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "怎么，你要加班？",
-      voice = 1,
+      sentence = "Got work?",
       male = 8
     },
     [4] = {
@@ -282297,47 +283699,44 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不加班，我要“报复”。"
+      sentence = "Nope. This is payback."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "报复我上周周末怎么喊你出来玩你都不出来。"
+      sentence = "For last weekend, when you blew me off every time I asked to hang out."
     },
     [6] = {
       next = "7",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "甚至我找你打视频，你也百般推脱，不肯见我！"
+      sentence = "You blew off my video calls, too! Total radio silence."
     },
     [7] = {
       next = "8",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "……",
-      voice = 1,
+      sentence = "...",
       male = 8
     },
     [8] = {
       next = "9",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "但是我周末陪你打了两天游戏，也算弥补了吧？",
-      voice = 1,
+      sentence = "Come on, I spent the whole weekend gaming with you. That counts, right?",
       male = 8
     },
     [9] = {
       next = "10",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "再说了，我不想出门是有原因的。",
-      voice = 1,
+      sentence = "And for the record, I had a reason for hiding out.",
       male = 8
     },
     [10] = {
@@ -282345,24 +283744,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "什么原因？"
+      sentence = "Which was?"
     },
     [11] = {
       next = "12",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "我最近不是头发长了么，Jensen介绍了个Tony给我，结果对方跟听不懂人话似的。",
-      voice = 1,
+      sentence = "My hair was getting long, so Jensen hooked me up with this stylist. Guy had no clue what \"a little off the ends\" meant.",
       male = 8
     },
     [12] = {
       next = "13",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "我说略修一下，他差点给我剃成了“杀马特”。",
-      voice = 1,
+      sentence = "Asked for a trim and almost walked out looking like I belonged in a 90s boy band.",
       male = 8
     },
     [13] = {
@@ -282370,24 +283767,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哈哈哈哈哈哈真的假的？！"
+      sentence = "Hah! You're kidding."
     },
     [14] = {
       next = "15",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "不然呢，总之顶着这头发我实在是……出不了门。",
-      voice = 1,
+      sentence = "Sadly, no. I couldn't face the world like that.",
       male = 8
     },
     [15] = {
       next = "16",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "最后还是我自己在家修了修，才勉强有了点人样。",
-      voice = 1,
+      sentence = "Had to perform an emergency fix myself. Salvaged it, barely.",
       male = 8
     },
     [16] = {
@@ -282395,15 +283790,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你说的我都好奇起来了，有没有照片？"
+      sentence = "I kinda need to see this. Please tell me there's a photo."
     },
     [17] = {
       next = "18",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "啧，你听到我这么悲惨的遭遇不是应该先安慰我么？",
-      voice = 1,
+      sentence = "Wow. No sympathy at all?",
       male = 8
     },
     [18] = {
@@ -282411,15 +283805,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯嗯，都怪Tony，差点把我们的凌大帅哥弄成了精神小伙，太坏了！"
+      sentence = "I'm sorry, I'm sorry! That stylist is a menace. How dare he touch a masterpiece?"
     },
     [19] = {
       next = "20",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "……",
-      voice = 1,
+      sentence = "...",
       male = 8
     },
     [20] = {
@@ -282427,24 +283820,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以有没有照片呀？"
+      sentence = "So... photo?"
     },
     [21] = {
       next = "22",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "……你觉得我可能在世上留下我的丑照？",
-      voice = 1,
+      sentence = "You think I'd keep a photo of that?",
       male = 8
     },
     [22] = {
       next = "23",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "倒是你既然这么喜欢幸灾乐祸，看来我应该把你上次剪毁头发的照片设成屏保——",
-      voice = 1,
+      sentence = "Since you're enjoying my misery so much, maybe I should make that photo of your botched haircut my lockscreen...",
       male = 8
     },
     [23] = {
@@ -282452,42 +283843,39 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "啊啊啊不准！！"
+      sentence = "Nooo! Delete it!"
     },
     [24] = {
       next = "25",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "呜呜我错了还不行吗，我现在开始认真谴责坏Tony，成立“凌肖发型保护协会”！"
+      sentence = "Okay, okay! Truce! I hereby found the \"Official Shaw Hairstyle Preservation Society.\" That stylist is public enemy number one."
     },
     [25] = {
       next = "26",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "协会就不用成立了，一会你带点“慰问品”来找我就行。",
-      voice = 1,
+      sentence = "Good. Skip the society. Just bring over some \"apology snacks\" and we'll call it even.",
       male = 8
     },
     [26] = {
       next = "0",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "还有，看到我以后不准笑，不然你就完蛋了。",
-      voice = 1,
+      sentence = "And don't you dare laugh when you see me. One snicker, and that photo is my new lock screen.",
       male = 8
     }
   },
   [8135] = {
     [1] = {
       next = "2",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "刚刚谁找你啊，电话占线半天。",
-      voice = 1,
+      sentence = "Finally. Your line's been busy for ages. Who were you talking to?",
       male = 8
     },
     [2] = {
@@ -282495,15 +283883,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，是小兰姐，来找我说如意镇的事。"
+      sentence = "Heh, just Sharon. She was calling about Ruyi Town stuff."
     },
     [3] = {
       next = "4",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "不会又要找你去当NPC吧？",
-      voice = 1,
+      sentence = "They're not roping you into NPC duty again, are they?",
       male = 8
     },
     [4] = {
@@ -282511,29 +283898,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯，说对了一半。"
+      sentence = "Kind of, but better."
     },
     [5] = {
       next = "6",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "小兰姐说群众对我俩的“演技”认可度非常高，主办方发的物料视频里，点赞最高的就是我们的抢亲戏。"
+      sentence = "Apparently, our little act was a hit. The video from the wedding scene totally went viral and blew up the likes."
     },
     [6] = {
       next = "7",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "所以她想邀请我们俩一起当NPC……"
+      sentence = "Now they want us to come back as a pair—the special guest NPC couple."
     },
     [7] = {
       next = "8",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "又去演抢亲？",
-      voice = 1,
+      sentence = "What, another staged kidnapping?",
       male = 8
     },
     [8] = {
@@ -282541,15 +283927,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不是啦，是按人设当一天特别NPC情侣～"
+      sentence = "No, silly. We'd just hang out in character—"
     },
     [9] = {
       next = "10",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "“人设”？什么人设？",
-      voice = 1,
+      sentence = "And what characters are we playing this time?",
       male = 8
     },
     [10] = {
@@ -282557,40 +283942,37 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "当然是情思二小姐和凌公子的人设啦！"
+      sentence = "Why, the Second Young Lady and her dashing Young Master Shaw, of course!"
     },
     [11] = {
       next = "12",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "勇敢强势为爱而生的二小姐，和她呆头呆脑的俊俏意中人……"
+      sentence = "The fearless, love-driven heroine and her adorably clueless beau."
     },
     [12] = {
       next = "13",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "等等等等！",
-      voice = 1,
+      sentence = "Wait a minute.",
       male = 8
     },
     [13] = {
       next = "14",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "你解释一下，为什么你是勇敢强势，我是呆头呆脑？？",
-      voice = 1,
+      sentence = "How did you get \"fearless\" and I end up \"clueless\"?",
       male = 8
     },
     [14] = {
       next = "15",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "人设是不是哪里有问题？",
-      voice = 1,
+      sentence = "That feels backwards.",
       male = 8
     },
     [15] = {
@@ -282598,24 +283980,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这是观众们亲眼看到的嘛，我就是勇敢强势地抢了亲，而有人呆头呆脑，连娶错了新娘都没发现呢～"
+      sentence = "The audience saw what they saw! I was the fearless wedding-crasher, and someone was too clueless to notice he was about to marry the wrong person!"
     },
     [16] = {
       next = "17",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "……服了。",
-      voice = 1,
+      sentence = "...Whatever.",
       male = 8
     },
     [17] = {
       next = "18",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "我看这帮人眼睛都有问题。",
-      voice = 1,
+      sentence = "Your fanbase needs a reality check.",
       male = 8
     },
     [18] = {
@@ -282623,24 +284003,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嘿嘿，所以你想不想和我一起当情侣NPC呢？"
+      sentence = "So? Feel like spending the day as my official NPC sweetheart?"
     },
     [19] = {
       next = "20",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "想让我陪你当可以，除非把人设改了。",
-      voice = 1,
+      sentence = "I might be persuaded... on one condition. We change the descriptions.",
       male = 8
     },
     [20] = {
       next = "21",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "比如改成成天傻兮兮乐呵呵的二小姐，和高冷酷拽的凌公子。",
-      voice = 1,
+      sentence = "How about \"the cheerful, bubbly Second Young Lady\" and \"the effortlessly cool, magnetic Young Master Shaw.\"",
       male = 8
     },
     [21] = {
@@ -282648,24 +284026,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你想得美，剧本岂是你能轻易改动的？"
+      sentence = "Dream on. You don't get to edit the lore!"
     },
     [22] = {
       next = "23",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "那可说不准。",
-      voice = 1,
+      sentence = "Don't I?",
       male = 8
     },
     [23] = {
       next = "24",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "比如我看观众们那天不就很喜欢我们的“意外剧本”吗？",
-      voice = 1,
+      sentence = "Pretty sure the crowd loved it when we made our own rules.",
       male = 8
     },
     [24] = {
@@ -282673,34 +284049,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "你这么说好像也没错……但是！我也没有成天傻兮兮乐呵呵的，我要改人设！"
+      sentence = "Okay, fair point... but hey! \"Bubbly\" is not my whole vibe either! If you get a rewrite, so do I!"
     },
     [25] = {
       next = "26",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "没问题，到时候我们不如即兴发挥好了。",
-      voice = 1,
+      sentence = "Fine by me. Let's just play it by ear.",
       male = 8
     },
     [26] = {
       next = "0",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "看看观众更喜欢我们的哪一种“人设”。",
-      voice = 1,
+      sentence = "We'll see which act wins more hearts.",
       male = 8
     }
   },
   [8136] = {
     [1] = {
       next = "2",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "喂，你现在在家吧？先别出门。",
+      sentence = "Hey, you home? Stay where you are.",
       voice = 1,
       male = 8
     },
@@ -282709,23 +284083,23 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯？为什么？"
+      sentence = "Oh? What's up?"
     },
     [3] = {
       next = "4",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "之前田野考察那儿的主人家给老头寄了一大箱土特产，邮到学校里来了。",
+      sentence = "That family we visited during the fieldwork sent the old man a big box of local goodies. Just got delivered to the school.",
       voice = 1,
       male = 8
     },
     [4] = {
       next = "5",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "老头正在给我们分呢，有你的一份。一会儿我叫个跑腿，把我那份也送你那儿去。",
+      sentence = "He's handing them out now. There are some for you too. I'll pack ours together and send them over.",
       voice = 1,
       male = 8
     },
@@ -282734,14 +284108,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "分量很多吗？"
+      sentence = "Is there a lot?"
     },
     [6] = {
       next = "7",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "是挺多的，有些还是冰鲜手打丸子之类的，估计得抓紧吃。",
+      sentence = "Yeah, quite a bit. Some of them are fresh, like handmade meatballs and whatever. Gotta eat them before they go bad.",
       voice = 1,
       male = 8
     },
@@ -282750,48 +284124,48 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那今晚我们先吃一顿吧？"
+      sentence = "How about we cook some up for dinner tonight?"
     },
     [8] = {
       next = "9",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "对了，要不把Adam他们叫上吧？正好让他们都尝尝那边的风味~"
+      sentence = "Ooh, let's invite Adam and the guys! They deserve a taste of this too!"
     },
     [9] = {
       next = "10",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "我说你怎么对他们这么上心？",
+      sentence = "Look at you, being all thoughtful.",
       voice = 1,
       male = 8
     },
     [10] = {
       next = "11",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "不过也行，反正元旦前我也没和他们约饭。",
+      sentence = "But yeah, sure. Haven't had food with them since New Year's.",
       voice = 1,
       male = 8
     },
     [11] = {
       next = "12",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "而且今年元旦他们几个不是回家就是去哪里旅游来着，估计也带了特产回来。",
+      sentence = "All of 'em either went home or traveling during the New Year holiday. Probably brought back some local snacks too.",
       voice = 1,
       male = 8
     },
     [12] = {
       next = "13",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "干脆来个火锅大乱炖一起吃了。",
+      sentence = "Let's just throw them all into a giant hotpot free-for-all.",
       voice = 1,
       male = 8
     },
@@ -282800,28 +284174,28 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "好啊~"
+      sentence = "Sounds like a plan!"
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "不过话说回来，主人家特地给我们寄了特产。"
+      sentence = "It's really thoughtful of them to send us all this."
     },
     [15] = {
       next = "16",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我们是不是也该礼尚往来，给他们回寄些恋语市的特产啊？"
+      sentence = "Do you think we should send something back from our city?"
     },
     [16] = {
       next = "17",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "行啊，你想给他们寄什么？",
+      sentence = "Sure. What do you have in mind?",
       voice = 1,
       male = 8
     },
@@ -282830,32 +284204,32 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯......没想好......我打算明天去一趟商场看看有什么合适的~"
+      sentence = "Hmm... I'm not sure yet. I was thinking of checking out the mall tomorrow to see what's good~"
     },
     [18] = {
       next = "19",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "那别明天了，就一会儿吧。",
+      sentence = "Why tomorrow? I'm free now. Let's go today.",
       voice = 1,
       male = 8
     },
     [19] = {
       next = "20",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "既然火锅今晚就吃，等老头把特产分完，我亲自给你送上门，再和你出去逛逛。",
+      sentence = "If we're having hotpot tonight, I'll bring you the stuff myself once the old man's done sorting. Then we can head out and browse.",
       voice = 1,
       male = 8
     },
     [20] = {
       next = "0",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "在家等我。",
+      sentence = "Sit tight. Be there in a jiffy.",
       voice = 1,
       male = 8
     }
@@ -283231,11 +284605,10 @@ data = {
   [8140] = {
     [1] = {
       next = "2",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "收拾好了没有？",
-      voice = 1,
+      sentence = "You done yet?",
       male = 8
     },
     [2] = {
@@ -283243,15 +284616,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "等一下，我正在照视频教程编头发，编好了就下楼。"
+      sentence = "Almost! I'm trying to braid my hair like a video I found online. Just gotta finish and I'll head down."
     },
     [3] = {
       next = "4",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "行，那你快点，我——喂，这个板子有人预订了。",
-      voice = 1,
+      sentence = "Cool, just don't take forever, I—hey, this board's already taken!",
       male = 8
     },
     [4] = {
@@ -283259,15 +284631,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "嗯？你在和谁说话呢？"
+      sentence = "Huh? Who are you talking to?"
     },
     [5] = {
       next = "6",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "有两个“恶霸”，我刚把你的板子放一边，它们就上来霸占了。",
-      voice = 1,
+      sentence = "A couple of tiny \"thugs.\" The second I set your board down, they swooped in and claimed it.",
       male = 8
     },
     [6] = {
@@ -283275,24 +284646,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "……“恶霸”？"
+      sentence = "...\"Thugs\"?"
     },
     [7] = {
       next = "8",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "嗯，一个三花，还有一个长着对黑耳朵的小胡子冲我哈气。",
-      voice = 1,
+      sentence = "Yeah. One's a calico, and the other's got little black ears and a fake moustache. The moustache one just hissed at me.",
       male = 8
     },
     [8] = {
       next = "9",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "个头不大，脾气不小。",
-      voice = 1,
+      sentence = "Big temper for such a small thing.",
       male = 8
     },
     [9] = {
@@ -283300,15 +284669,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "噗——我知道了，那两只应该是物业养在小区的猫。"
+      sentence = "Oh, I know them! They're the cats the building keeps around. Everyone loves them."
     },
     [10] = {
       next = "11",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "原来有“后台”啊，难怪这么嚣张。",
-      voice = 1,
+      sentence = "No wonder they're acting like they own the place.",
       male = 8
     },
     [11] = {
@@ -283316,15 +284684,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "那可是我们小区的模范“情侣”猫咪，经常能看到它们“秀恩爱”。"
+      sentence = "They're the \"model couple\" of the neighborhood. Always snuggling up and being all lovey-dovey."
     },
     [12] = {
       next = "13",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "见识到了，刚才那个小胡子就带着三花招摇过市，现在还贴在一起在板子上瞅着我炫耀呢。",
-      voice = 1,
+      sentence = "I saw. That moustache dude was strutting around with the calico like a king. Now they're cuddled up on your board, giving me smug looks.",
       male = 8
     },
     [13] = {
@@ -283332,22 +284699,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "因为今天是个特殊的日子嘛，小猫咪也要约会！"
+      sentence = "I mean... it is Valentine's Day. Even cats are going on a date today!"
     },
     [14] = {
       next = "15",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "而且不管是人还是小猫咪，在感受到幸福的时候，都会不自觉地“显摆”出来~"
+      sentence = "Whether it's people or cats, when you're feeling the love, you just can't help but show it."
     },
     [15] = {
       next = "16",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "哦，所以有时候走在路上，你会忽然一脸美滋滋地傻笑。",
-      voice = 1,
+      sentence = "Ah, so that's why you randomly smile like an idiot when we're out walking.",
       male = 8
     },
     [16] = {
@@ -283355,15 +284721,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "我哪有？"
+      sentence = "I do not!"
     },
     [17] = {
       next = "18",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "想赖账？我手机里可是有一大堆照片，到时候你自己看看。",
-      voice = 1,
+      sentence = "I've got a whole photo album that says otherwise. Wanna see?",
       male = 8
     },
     [18] = {
@@ -283371,31 +284736,29 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "要这么说，你不是也一样？"
+      sentence = "Okay, but hold up—you're not so innocent either."
     },
     [19] = {
       next = "20",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "刚才我从窗上看到，有人看着手机在笑，心情很好的样子呢。"
+      sentence = "I saw you through the window just now, staring at your phone and grinning like a total softie."
     },
     [20] = {
       next = "21",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "啧，有时间隔窗暗中观察，不如赶紧下楼。",
-      voice = 1,
+      sentence = "Tch. If you've got time to spy on me from upstairs, maybe just come down already?",
       male = 8
     },
     [21] = {
       next = "22",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "我看猫秀恩爱已经看够了，想看你“显摆”幸福了。",
-      voice = 1,
+      sentence = "I've seen enough cats being all lovey. Now I wanna see you showing off your happy vibes.",
       male = 8
     },
     [22] = {
@@ -283403,22 +284766,21 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "已经出门啦。不过，听上去你对今天的计划很有自信嘛~"
+      sentence = "I'm out the door! Sounds like someone's pretty confident about his plans today."
     },
     [23] = {
       next = "24",
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "先说一下，今天是情人节，感受到幸福的标准会比平时高一点哦~"
+      sentence = "Just a heads-up, since it's Valentine's, I've got extra high expectations for the happiness levels today!"
     },
     [24] = {
       next = "25",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "我按照低标准糊弄过你？而且难度变高，“奖励”是不是也应该增加一点？",
-      voice = 1,
+      sentence = "When have I ever given you less? But, since the bar's higher today, I'm also expecting more reward too.",
       male = 8
     },
     [25] = {
@@ -283426,33 +284788,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "奖励？"
+      sentence = "What reward?"
     },
     [26] = {
       next = "27",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "就是你蹦蹦跳跳、嬉皮笑脸、耍赖卖萌的样要多一点。",
-      voice = 1,
+      sentence = "More of you being cute. Bouncing around, making silly faces, acting all clingy. That stuff.",
       male = 8
     },
     [27] = {
       next = "28",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "反正你今天所有的好心情和笑脸，都归我了。",
-      voice = 1,
+      sentence = "Your smiles and your good mood are all mine for the day.",
       male = 8
     },
     [28] = {
       next = "0",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "如果不满意——加倍补偿。",
-      voice = 1,
+      sentence = "And if I'm not satisfied, you'll have to compensate me double.",
       male = 8
     }
   },
@@ -284344,11 +285703,10 @@ data = {
   [8146] = {
     [1] = {
       next = "2",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "喂？现在可以告诉我了吧，你之前神神秘秘计划了那么久，今天到底要去哪？",
-      voice = 1,
+      sentence = "Alright, spill. What's the big secret plan you've been working on forever? Where's this mystery destination?",
       male = 8
     },
     [2] = {
@@ -284356,15 +285714,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "直接告诉多无聊，你先猜猜？"
+      sentence = "If I just tell you, it ruins it. Guess."
     },
     [3] = {
       next = "4",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "还学我卖关子……去市郊外新开的那个滑板池？",
-      voice = 1,
+      sentence = "Copying my moves now? Is it that new skate bowl outside the city?",
       male = 8
     },
     [4] = {
@@ -284372,15 +285729,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "这个我确实考虑过，不过交通不方便，再猜猜？"
+      sentence = "Was an option, but too remote. Another guess."
     },
     [5] = {
       next = "6",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "去之前我们路过的那个音乐剧场？",
-      voice = 1,
+      sentence = "That theater we saw downtown? The one with the live music?",
       male = 8
     },
     [6] = {
@@ -284388,33 +285744,30 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "咦？你上次还说那里看上去没什么有意思的音乐剧呢。"
+      sentence = "The one you said usually has lame lineups?"
     },
     [7] = {
       next = "8",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "最近不是有个还不错的乐队要来演出——",
-      voice = 1,
+      sentence = "Well, they might have something good coming up—...",
       male = 8
     },
     [8] = {
       next = "9",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "等等，我怎么觉得你是在套我话呢？",
-      voice = 1,
+      sentence = "Wait a second. Are you just fishing for ideas?",
       male = 8
     },
     [9] = {
       next = "10",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "你不会是做了一通计划发现没有合适的，所以来旁敲侧击看我想去哪，然后临时计划吧？",
-      voice = 1,
+      sentence = "Let me guess: zero actual plans, and now you're using me as your idea generator for a last-minute save?",
       male = 8
     },
     [10] = {
@@ -284422,15 +285775,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "怎么可能！我可是专业节目策划，这种约会我手到擒来的~"
+      sentence = "As if! I have everything perfectly planned. I'm a natural."
     },
     [11] = {
       next = "12",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "如果前几天你没半夜都抱着手机查“恋语市最佳约会地点”的话，说服力更大。",
-      voice = 1,
+      sentence = "Could've fooled me, with all that frantic googling for \"unique date ideas\" at 2 AM.",
       male = 8
     },
     [12] = {
@@ -284438,24 +285790,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "怎么有人晚上装睡实际上在暗中观察？"
+      sentence = "Hey! I thought you were asleep!"
     },
     [13] = {
       next = "14",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "……还不是你翻身声音太大了，我就睁开眼看了一下。",
-      voice = 1,
+      sentence = "...I was. Your rustling woke me up.",
       male = 8
     },
     [14] = {
       next = "15",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "当时你嘴巴翘那么高，看上去就是没发现什么好玩的东西。",
-      voice = 1,
+      sentence = "You were pouting at your phone, looking totally frustrated.",
       male = 8
     },
     [15] = {
@@ -284463,15 +285813,14 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "哼，居然怀疑我，我决定先不告诉你了。"
+      sentence = "Fine. Since you don't believe me, you can stay in the dark."
     },
     [16] = {
       next = "17",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "这么小气？",
-      voice = 1,
+      sentence = "That's how you're playing it?",
       male = 8
     },
     [17] = {
@@ -284479,24 +285828,22 @@ data = {
       renming = "$u",
       dialog = 1,
       dhead = 108,
-      sentence = "待会你一定会“哇”一下、眼睛亮起来的！"
+      sentence = "Uh-huh. Get ready for your mind to be blown."
     },
     [18] = {
       next = "19",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "还挺有自信的。",
-      voice = 1,
+      sentence = "Big talk.",
       male = 8
     },
     [19] = {
       next = "0",
-      renming = "凌肖",
+      renming = "Shaw",
       dialog = 2,
       namebg = 1,
-      sentence = "看来我要加快速度了，毕竟比起惊喜，我还是更期待某只笨兔子得意洋洋的脸。",
-      voice = 1,
+      sentence = "Then I'll hurry up. Honestly? I'm more excited to see that smug look on your face than the actual surprise, silly bunny.",
       male = 8
     }
   },

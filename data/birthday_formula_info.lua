@@ -693,7 +693,7 @@ data = {
   },
   [20001] = {
     stage_id = 2411,
-    stage_name = "你好世界",
+    stage_name = "Hello, World",
     diy_id = {
       2102,
       2301,
@@ -705,7 +705,7 @@ data = {
   },
   [20002] = {
     stage_id = 2411,
-    stage_name = "和平相处",
+    stage_name = "Live in Peace",
     diy_id = {
       2102,
       2305,
@@ -716,7 +716,7 @@ data = {
   },
   [20003] = {
     stage_id = 2411,
-    stage_name = "发明大作",
+    stage_name = "Great Invention",
     diy_id = {
       2102,
       2305,
@@ -727,7 +727,7 @@ data = {
   },
   [20004] = {
     stage_id = 2411,
-    stage_name = "提速实验",
+    stage_name = "Speed-up Test",
     diy_id = {
       2102,
       2303,
@@ -739,7 +739,7 @@ data = {
   },
   [20005] = {
     stage_id = 2411,
-    stage_name = "胡椒升级",
+    stage_name = "Pepper Upgrade",
     diy_id = {
       2102,
       2301,
@@ -750,7 +750,7 @@ data = {
   },
   [20006] = {
     stage_id = 2411,
-    stage_name = "自力更生",
+    stage_name = "Self-Reliance",
     diy_id = {
       2101,
       2306,
@@ -761,7 +761,7 @@ data = {
   },
   [20007] = {
     stage_id = 2411,
-    stage_name = "绣球当家",
+    stage_name = "Hydrangea's Rule",
     diy_id = {
       2101,
       2303,
@@ -773,7 +773,7 @@ data = {
   },
   [20008] = {
     stage_id = 2411,
-    stage_name = "清扫家园",
+    stage_name = "House Cleaning",
     diy_id = {
       2101,
       2301,
@@ -784,7 +784,7 @@ data = {
   },
   [20009] = {
     stage_id = 2411,
-    stage_name = "等候归来",
+    stage_name = "Await Return",
     diy_id = {
       2101,
       2302,
@@ -795,7 +795,7 @@ data = {
   },
   [20010] = {
     stage_id = 2411,
-    stage_name = "书海遨游",
+    stage_name = "Book Reading",
     diy_id = {
       2101,
       2302,
@@ -806,7 +806,7 @@ data = {
   },
   [20011] = {
     stage_id = 2411,
-    stage_name = "初雪之愿",
+    stage_name = "First Snow Wish",
     diy_id = {
       2101,
       2306,
@@ -817,7 +817,7 @@ data = {
   },
   [20012] = {
     stage_id = 2411,
-    stage_name = "植物误判",
+    stage_name = "Plant Misidentification",
     diy_id = {
       2103,
       2305,
@@ -828,7 +828,7 @@ data = {
   },
   [20013] = {
     stage_id = 2411,
-    stage_name = "草丛惊魂",
+    stage_name = "Panic in the Bush",
     diy_id = {
       2103,
       2302,
@@ -840,7 +840,7 @@ data = {
   },
   [20014] = {
     stage_id = 2411,
-    stage_name = "森林盲盒",
+    stage_name = "Forest Surprise",
     diy_id = {
       2103,
       2303,
@@ -851,7 +851,7 @@ data = {
   },
   [20015] = {
     stage_id = 2411,
-    stage_name = "捉迷游戏",
+    stage_name = "Hide and Seek",
     diy_id = {
       2103,
       2302,
@@ -863,7 +863,7 @@ data = {
   },
   [20016] = {
     stage_id = 2411,
-    stage_name = "胡椒反击",
+    stage_name = "Pepper Strikes Back",
     diy_id = {
       2103,
       2302,
@@ -877,61 +877,61 @@ data = {
     stage_id = 2411,
     diy_id = {2102, 2203},
     formula_type = 2,
-    narration = "这里是我第一眼看见的地方，也是我的家！"
+    narration = "This is my home, the place I saw when I opened my eyes!"
   },
   [20019] = {
     stage_id = 2411,
     diy_id = {2102, 2201},
     formula_type = 2,
-    narration = "小小的研发车间藏着这么多稀奇的发明，简直就是现实中的藏宝洞！"
+    narration = "A small workshop hides so many wonderful inventions. It's a treasure trove!"
   },
   [20020] = {
     stage_id = 2411,
     diy_id = {2102, 2405},
     formula_type = 2,
-    narration = "每一页纸都是通向奇迹的钥匙，只有耐心翻阅的发明家才能解锁无限可能。"
+    narration = "Each page is a key to miracles. Only those who read it with patience can tap into infinite possibilities."
   },
   [20021] = {
     stage_id = 2411,
     diy_id = {2102, 2202},
     formula_type = 2,
-    narration = "所有的奇思妙想，终将从图纸变为现实。"
+    narration = "All the creativity and imagination will turn blueprints into reality."
   },
   [20022] = {
     stage_id = 2411,
     diy_id = {2103, 2401},
     formula_type = 2,
-    narration = "这里是世界上最舒服的地方，主人也是世界上最好的主人。"
+    narration = "This is the comfiest place in the world. Dr. Lucien is the best."
   },
   [20023] = {
     stage_id = 2411,
     diy_id = {2103, 2203},
     formula_type = 2,
-    narration = "来这片森林的时间长了，好像自己身上也会悄悄长一两片小叶子~"
+    narration = "Having been in the forest for long, I feel like I'd grow a leaf or two, too."
   },
   [20024] = {
     stage_id = 2411,
     diy_id = {2103, 2405},
     formula_type = 2,
-    narration = "隐藏在纸页里的智慧，如同种子般埋藏，等待发芽、开花。"
+    narration = "Wisdom hidden in the pages, buried like seeds, awaits to sprout and bloom."
   },
   [20025] = {
     stage_id = 2411,
     diy_id = {2101, 2201},
     formula_type = 2,
-    narration = "不得不说，大发明家的审美很好，屋子看起来很舒适！"
+    narration = "The great inventor has good taste. The house looks comfortable!"
   },
   [20026] = {
     stage_id = 2411,
     diy_id = {2101, 2202},
     formula_type = 2,
-    narration = "嘘……偷偷告诉你，我原本的目的是培养小主人的厨艺的！嗯，原本。"
+    narration = "Shh, I'll let you in on a little secret. I was originally created to develop Dr. Lucien's cooking skills."
   },
   [20027] = {
     stage_id = 2411,
     diy_id = {2101, 2401},
     formula_type = 2,
-    narration = "主人的家里总是香香的暖暖的，尤其是厨房里，有着和我一样的味道！"
+    narration = "Dr. Lucien's home also smells so nice, especially the kitchen. It smells like me!"
   },
   [20028] = {
     stage_id = 2411,
@@ -941,7 +941,7 @@ data = {
       2202
     },
     formula_type = 2,
-    narration = "他计算了一下，每天泡在研发车间的时间占比为50%，嗯……很平衡的数字。"
+    narration = "He calculated that he spent 50% time in the research workshop every day. Well, a very balanced number."
   },
   [20029] = {
     stage_id = 2411,
@@ -951,7 +951,7 @@ data = {
       2404
     },
     formula_type = 2,
-    narration = "研发的时候，他也需要一株花卉来清新空气，提神醒脑。"
+    narration = "He also needs a flower to refresh the air and mind during research."
   },
   [20030] = {
     stage_id = 2411,
@@ -961,7 +961,7 @@ data = {
       2403
     },
     formula_type = 2,
-    narration = "他把每颗糖果都当成一次小小的实验，甜中藏着通往未来的无限可能。"
+    narration = "He takes each piece of candy as a little experiment. The sweetness holds infinite possibilities for the future."
   },
   [20031] = {
     stage_id = 2411,
@@ -971,7 +971,7 @@ data = {
       2405
     },
     formula_type = 2,
-    narration = "有的时候，他会选择在这里看书，既能感受自然的清新，又不会被阳光刺伤眼睛~"
+    narration = "Sometimes he'd read books here to feel closer to nature while not being blinded by direct sunlight."
   },
   [20032] = {
     stage_id = 2411,
@@ -981,7 +981,7 @@ data = {
       2201
     },
     formula_type = 2,
-    narration = "他有自信，即便他不作任何干预，两个小贼也无法从发明之森里走出来。"
+    narration = "He is confident that even if he doesn't do anything, those thieves won't make it out of the Invention Forest."
   },
   [20033] = {
     stage_id = 2411,
@@ -991,7 +991,7 @@ data = {
       2203
     },
     formula_type = 2,
-    narration = "他思考了很久，该如何教他的发明小家伙们“自然”的概念，于是他为它们创造了一片森林。"
+    narration = "He thought for a long time about how to teach his inventions the concept of nature, so he created a forest for them."
   },
   [20034] = {
     stage_id = 2411,
@@ -1001,7 +1001,7 @@ data = {
       2401
     },
     formula_type = 2,
-    narration = "毛茸茸的小动物和绿意盎然的森林，是他在发明遇到困难时，总会想到的治愈办法。"
+    narration = "Fluffy animals and green vegetation always help him recharge whenever he runs into a problem during research."
   },
   [20035] = {
     stage_id = 2411,
@@ -1011,7 +1011,7 @@ data = {
       2203
     },
     formula_type = 2,
-    narration = "等咕噜可以独当一面时，他想要让它第一个展览的地方，是家。"
+    narration = "When Gurgo can operate on its own, home will be the first place he'd like to display it."
   },
   [20036] = {
     stage_id = 2411,
@@ -1021,7 +1021,7 @@ data = {
       2402
     },
     formula_type = 2,
-    narration = "有的时候，大发明家也需要加入家庭大扫除的队伍中。"
+    narration = "Sometimes, the great inventor needs to join the house cleaning."
   },
   [20037] = {
     stage_id = 2411,
@@ -1031,7 +1031,7 @@ data = {
       2404
     },
     formula_type = 2,
-    narration = "绣球花在阳光下静静绽放，每一瓣花朵都是他精心培育的成果。"
+    narration = "Hydrangea flowers bloom in the sun. Each petal is a result of his care and love."
   },
   [30001] = {
     stage_id = 3321,

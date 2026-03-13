@@ -12135,6 +12135,152 @@ story284 = {
       sentence = "所有顾虑都被我抛却脑后，迈步和他一起跃入夏天。",
       next = {0}
     }
+  },
+  [840424] = {
+    [1] = {
+      beijing = 4847,
+      dhead = 107,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "说起来我前段时间去茶园考察的时候，拍下了好美的景色。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4847,
+      dhead = 107,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "特别是当风吹过茶园的时候，满眼都是碧绿的色彩。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4847,
+      dhead = 107,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "当时我还说，这差不多就是春风的样子。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 4,
+      music = "1015_2023anniversary_rv",
+      renming = "白起",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      ruchang = -1,
+      sentence = "听你这么说，确实很形象。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 4,
+      music = "1015_2023anniversary_rv",
+      renming = "白起",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "不过按照这么说，每个季节都能给风染上不同的颜色。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 4,
+      music = "1015_2023anniversary_rv",
+      renming = "白起",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "比如夏天会是天空的蓝色，秋天是银杏的黄色，到了冬天就变成雪的白色。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 4,
+      music = "1015_2023anniversary_rv",
+      renming = "白起",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "如果需要的话，它可能还有更多不一样的色彩。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "被你说的我都有赶快去旅游的冲动了，不过现在还是春天。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4847,
+      dhead = 114,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "我们就悠哉悠哉地品茶，慢慢去看不同的景色就好了。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 4,
+      music = "1015_2023anniversary_rv",
+      renming = "白起",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      sentence = "说得也是。",
+      next = {11}
+    },
+    [11] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 4,
+      music = "1015_2023anniversary_rv",
+      renming = "白起",
+      renwu = "npc",
+      role1 = 4107000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 4107401,
+      ruchang = 9,
+      sentence = "无论哪个季节的色彩，我都想带到你身边。",
+      next = {0}
+    }
   }
 }
 return story284

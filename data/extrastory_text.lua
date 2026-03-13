@@ -11590,81 +11590,109 @@ The reply to Hype was two simple words:
       uid = 3854,
       next = 2,
       beijing = 4482,
-      sentence = "酒桌就是生意场，这是圈内人人都知道的规矩。\n\n正所谓觥筹交错是假，金钱帝国是真，所有人都高举着酒杯，上演着一出出揣着明白喝起来糊涂的戏码。\n\n可王冠上总要有一颗最耀眼的明珠，每一出戏总归是有一个主角，毕胜知道，自己就是今天这场私人晚宴的主角。自己刚刚拿下了几位短视频头部主播的合约，对外的小额投资也都取得了不错的回报，而今晚就是和圈内人共同举办的“庆功宴”。而这些看似富有“先见之明”的投资，其实大部分都是无人问津的存在，只不过他比起别的生意人更有胆量，更愿意赌。",
-      music = "19_Daily02",
-      voice = "est_12171_1.mp3"
+      sentence = "In the world of business, there was an unspoken rule everyone knew: the dinner table was where deals were made.\n\nSure, the clinking glasses and cheerful toasts looked like a celebration, but beneath the surface, it was a silent battle. Everyone played their part—pretending to be tipsy, acting clueless—while their minds stayed razor-sharp.\n\nStill, every party needed a center, and every crown had its jewel. And tonight, Dan Barclay knew the spotlight was his. He'd just landed contracts with several top-tier short video influencers. His small public investments had seen surprisingly decent returns. On paper, these looked like very smart investments. In truth, most of these ventures had been ignored by others—he'd simply been bold enough to bet on them.",
+      music = "19_Daily02"
     },
     [2] = {
       uid = 3855,
       next = 3,
       beijing = 4482,
-      sentence = "“胜哥，我什么时候过来接你。”\n\n“今晚的局里没什么大人物，我应付一下就回公司，一个小时后吧。”\n\n“知道了，你中午才应酬过一场，晚上别再喝多了。”\n\n“放心吧，我人送外号千杯不倒。”\n\n毕胜对着后视镜摆了摆自己的领带，暗自揉了两下自己的胃后，迈步下车。",
-      music = "19_Daily02",
-      voice = "est_12171_2.mp3"
+      sentence = "\"Hey, boss, what time should I pick you up?\"\n\n\"It's a chill crowd tonight. No big shots. I'll wrap things up and head back in an hour.\"\n\n\"Copy that. But hey—you already drank at lunch. Don't go overboard again.\"\n\n\"Relax. They don't call me Mr. Iron Liver for nothing.\"\n\nDan adjusted his tie in the rearview mirror. After giving his stomach a subtle rub, he got out of the car and headed inside.",
+      music = "19_Daily02"
     },
     [3] = {
       uid = 3856,
       next = 4,
       beijing = 1561,
-      sentence = "推开宴会的大门，拥簇在门口的人就像看到饵料的鱼群般蜂拥而至。毕胜熟练地摆出笑容，随手从身旁的酒侍手上拿起了一杯酒。\n\n“不好意思啊大家，公司有急事所以来晚了。”\n\n“毕总，恭喜您啊。”\n\n“哪里哪里，都是托各位的福。”\n\n“毕总，再来一杯吧~”\n\n“今晚在这的都是自己人，当然是要喝个尽兴了。”",
-      music = "19_Daily02",
-      voice = "est_12171_3.mp3"
+      sentence = "As soon as he pushed open the banquet hall doors, the crowd swarmed like fish chasing bait. Dan slipped into his well-practiced smile and plucked a wine glass from a server's tray with ease.\n\n\"Sorry I'm late—got held up by something urgent at the office.\"\n\n\"Mr. Barclay, big congrats!\"\n\n\"Appreciate it. Wouldn't be here without all of you.\"\n\n\"Another round, Mr. Barclay?\"\n\n\"We're all family here tonight—of course we're drinking till we drop!\"",
+      music = "19_Daily02"
     },
     [4] = {
       uid = 3857,
       next = 5,
       beijing = 1561,
-      sentence = "“毕胜毕胜，战无不胜！”\n\n在无数的拥簇声中，毕胜满怀笑意地将杯中的酒液一口饮下。头顶水晶灯所泛起的光芒耀眼夺目，搭配着酒精，足以醉倒所有人。\n\n说到底，现在令他沉醉的，是名为成功的喜悦。\n\n“呕——咳咳咳，再给我来杯水。”\n\n接过一旁吴哥递来的水，毕胜朝着嘴里狠狠灌了几口，驱赶着胃里浓重的灼烧感。\n\n“说了让你别喝这么多了。”",
-      music = "19_Daily02",
-      voice = "est_12171_4.mp3"
+      sentence = "\"A big cheer for Mr. Barclay!\"\n\nThe cheers echoed around him as he downed his wine in one go, grinning beneath the chandelier's glittering light.\n\nThe alcohol lit a slow fire in his chest, but what really had him intoxicated was the feeling of success.\n\n\"Ugh—*cough, cough*. Someone get me some water.\"\n\nHe took the glass Alfred handed him and chugged it, trying to flush the burn from his stomach.\n\n\"Told you not to go that hard,\" Alfred muttered, thumping him on the back.",
+      music = "19_Daily02"
     },
     [5] = {
       uid = 3858,
       next = 6,
       beijing = 1113,
-      sentence = "身后传来吴哥重重的拍打，汹涌的呕吐欲让毕胜忍不住打了个激灵，挥手制止了对方的动作。\n\n“别拍了别拍了，再拍胆汁都要拍出来了。”\n\n“看你这样一时半会也回不去公司了，刚好在外面吹吹风聊聊天。”\n\n“你说，我刷会日常。”\n\n毕胜半靠在栏杆上，空荡荡的目光下映照着手机里的游戏画面。略显古早的画风虽然精致，但已然同现在的主流审美有了些许差别。",
-      music = "04_Normal",
-      voice = "est_12171_5.mp3"
+      sentence = "Dan felt a churning in his stomach.\n\n\"Jesus, stop—one more slap and I'll be puking bile.\"\n\n\"Well, you're definitely not heading back to the office like this. Let's chill out here and get some air.\"\n\n\"Good idea. I'll kill some time doing my dailies.\"\n\nDan leaned against the balcony rail and opened a game on his phone. The art style was a bit dated, but it had a classic sort of charm.",
+      music = "04_Normal"
     },
     [6] = {
       uid = 3859,
       next = 7,
       beijing = 1113,
-      sentence = "“从我们第一天认识你就在玩这个游戏，还不腻呢？”\n\n“当然了，再不上线今天的日常就忘了做了。”\n\n“更何况这期刚好有我喜欢的角色，肝了日常还能再抽一波。”\n\n毕胜熟练地打开每一个界面，轻车熟路地扫荡着每日任务所需要的资源。\n\n“一个好消息，一个坏消息。”\n\n“和Infinite的合作很顺利，他们邀请你参加三天后的《奥德赛》游戏体验会。”",
-      music = "04_Normal",
-      voice = "est_12171_6.mp3"
+      sentence = [[
+"You're still playing that thing? Been glued to it since we met."
+
+"Yeah. Gotta log in or I'll forget the dailies."
+
+"And my favorite character's on promotion this week. I have to grind a bit more."
+
+His fingers moved on instinct, collecting resources and clearing missions like muscle memory.
+
+"Got good news and bad news."
+
+"Infinite confirmed the collab. You're invited to the Odyssey preview event in three days."]],
+      music = "04_Normal"
     },
     [7] = {
       uid = 3860,
       next = 8,
       beijing = 1113,
-      sentence = "“那坏消息呢？”\n\n“给华锐的计划书又被打回了。”\n\n毕胜的手指微微一顿，唇角的笑容被瞬间凝固。\n\n“理由还是和上次一样，产业结构单一且并没有突出特点。”\n\n“切，做生意能赚钱不就行了吗？”\n\n“要是能想办法私下接触到华锐总裁，说不定还能想办法找找关系。”",
-      music = "04_Normal",
-      voice = "est_12171_7.mp3"
+      sentence = "\"And the bad?\"\n\n\"LFG rejected your proposal. Again.\"\n\nDan's hand paused. His smile froze.\n\n\"Same feedback—narrow focus, nothing unique.\"\n\n\"Man... is being profitable alone not enough now?\"\n\n\"If you could talk to LFG's CEO directly, maybe you'd have a shot.\"",
+      music = "04_Normal"
     },
     [8] = {
       uid = 3861,
       next = 9,
       beijing = 1113,
-      sentence = "“得了吧，要是那么容易能接触到，他还叫总裁吗？”\n\n朝着屏幕上的“抽卡”键点了过去，在令人炫目的动画效果后，回应他的是残酷的蓝天白云。看着卡池里金灿灿的人物，毕胜只能无奈地揉了揉鼻尖。\n\n“得，这个月的肝又算白费了。”\n\n“抽不到就氪点呗，怎么玩游戏还这么抠。”\n\n“你不懂，白嫖出货的感觉才最爽，这在生意上叫空手套白狼，只赚不赔。”",
-      music = "04_Normal",
-      voice = "est_12171_8.mp3"
+      sentence = [[
+"Yeah, sure. If it were that easy to meet him, he wouldn't be a CEO."
+
+He tapped "summon" on the gacha screen. The animation was flashy, but the results were nothing but disappointment. Dan sighed and rubbed the bridge of his nose.
+
+"Great. Another month of grinding for nothing."
+
+"Just spend real money. Don't be so cheap."
+
+"You don't get it. Scoring a win without spending, that's the real high. It's like getting a deal with nothing to offer."]],
+      music = "04_Normal"
     },
     [9] = {
       uid = 3862,
       next = 10,
       beijing = 1113,
-      sentence = "毕胜看了看右上角空荡荡的钻石槽，决定再去没打完的困难本里薅点羊毛出来，估计还能再凑一发。不过他此刻的思绪，已经被另一个问题牵走了许多。\n\n“所以最近那位华锐总裁在干嘛？”\n\n“其它的不清楚，只知道三天后的体验会他也被邀请了。”\n\n“嗯……”\n\n刚刚刷好的钻石又够了一抽，毕胜又打开了抽卡界面。",
-      music = "04_Normal",
-      voice = "est_12171_9.mp3"
+      sentence = [[
+Dan glanced at his near-empty Gem counter. He figured if he cleared one more hard-level stage, he could squeeze out another pull. But his mind had already drifted elsewhere.
+
+"What's that LFG CEO been up to lately?"
+
+"No clue. Just know he's attending the Odyssey event too."
+
+"Hmm..."
+
+Managing just enough gems. He hit the summon button once again.]],
+      music = "04_Normal"
     },
     [10] = {
       uid = 3863,
       next = 0,
       beijing = 1113,
-      sentence = "“帮我备一套游戏设备吧，送我家里，我恶补两天。”\n\n“你们又不一定分到同一场，去了也是大海捞针。”\n\n“赌一把而已，我又不亏。”\n\n看着屏幕上金光闪闪的抽卡界面，毕胜脑袋里闪过一个大胆的想法。\n\n“毕竟，运气总是站在我这边的。”",
-      music = "04_Normal",
-      voice = "est_12171_10.mp3"
+      sentence = [[
+"Get me a setup for Odyssey and send it to my place. I'll binge the game for the next two days."
+
+"You sure? You might not even end up in the same session."
+
+"Doesn't matter. I'm betting on the chance. Nothing to lose."
+
+The golden light of the gacha animation reflected in his eyes. A bold thought flashed through his mind.
+
+After all, luck's always been on his side.]],
+      music = "04_Normal"
     }
   },
   [12172] = {
@@ -11672,49 +11700,61 @@ The reply to Hype was two simple words:
       uid = 3864,
       next = 2,
       beijing = 4903,
-      sentence = "“毕总，给华锐的新方案已经修改完毕，您看什么时候过目。”\n\n“我现在就来公司，没问题就给华锐送过去。”\n\n他扫了扫脚边散落着一次性的餐盒和皱巴巴的空啤酒罐，从柜子里拿出了早就熨好的干净衣服换在身上，走出了家门。\n\n昏暗的路灯勉强照亮前路，夜色中的一栋栋高楼宛若幽邃的群山。“狂欢夜”的活动今天就要开始了，也不知道自己这次能不能押对宝。\n\n凌晨三点的城市，比想象中还要更冷清一些。",
-      music = "04_Normal",
-      voice = "est_12172_1.mp3"
+      sentence = "\"Mr. Barclay, the revised proposal for LFG's ready. When would you like to review it?\"\n\n\"I'm heading to the office now. If it checks out, we'll send it over right away.\"\n\nDan swept his eyes over the floor—crumpled beer cans and greasy takeout boxes. He grabbed a clean, pressed outfit from the closet and changed quickly. Then he stepped out into the night.\n\nThe dim streetlights barely lit the road ahead, while the high-rises around him loomed like shadowy mountains. Carnival Night was kicking off in Odyssey tonight. Whether he was betting on the right horse this time... that remained to be seen.\n\n3 a.m. in the city was quieter than he expected. Even the wind felt a little colder.",
+      music = "04_Normal"
     },
     [2] = {
       uid = 3865,
       next = 3,
       beijing = 4964,
-      sentence = "“隐锋玩家，欢迎您进入本场游戏，希望您在《曙光家园》内玩得愉快。”\n\n伴随着耳边熟悉的AI音效，毕胜总算是进到了游戏里。通宵看完方案的他总算是在车上的短暂休息和浓缩咖啡的帮助下恢复了些许精神，便准时参与了这场《奥德赛》的线上体验会。\n\n等他反应过来时，自己已经站在一处陌生的地方。\n\n曙光家园。",
-      music = "19_Daily02",
-      voice = "est_12172_2.mp3"
+      sentence = [[
+"Welcome, HiddenEdge. We hope you enjoy your time in Dawn Haven."
+
+The AI voice chimed in his ears as the game loaded. After pulling an all-nighter reviewing proposals, Dan had managed a quick nap in the car. Thanks to a shot of caffeine and adrenaline, he was awake enough to join Odyssey's showcase event on time.
+
+When he came to, he was already standing in a different world.
+
+Dawn Haven.]],
+      music = "19_Daily02"
     },
     [3] = {
       uid = 3866,
       next = 4,
       beijing = 4964,
-      sentence = "毕胜四下打量了一番，不管是有些斑驳脱落的白漆走廊，还是不远处绿到生锈的单元楼铁门，都恍如将毕胜的思绪拉到那个少年时代，那个他不愿意再回去的，充满困难的时代。\n\n“游戏身份分配完毕，隐锋玩家的身份为狼人，游戏内房间为201，请找物业领取房间备用钥匙。”\n\n狼人吗？听完游戏的身份提示，毕胜的心中已然有了接下来的游玩对策。就是不知道，那位华锐总裁会不会和自己在一个游戏里。\n\n而对于看人找人，向来是毕胜的专场。",
-      music = "19_Daily02",
-      voice = "est_12172_3.mp3"
+      sentence = "He glanced around. The chipped white hallway paint, the rusted green gate down the block... it all looked too familiar. It pulled him back to a place he'd tried to forget—his rougher, younger days. A time when everything felt like an uphill battle.\n\n\"Role assigned: Werewolf. Room 201. Please retrieve your spare key from property management.\"\n\nA werewolf, huh? Not bad. He was already plotting his path forward. The only unknown was whether LFG's CEO had landed in the same session.\n\nEither way, tracking people down was something Dan did best.",
+      music = "19_Daily02"
     },
     [4] = {
       uid = 3867,
       next = 5,
       beijing = 4964,
-      sentence = "虽然进到游戏里的大家都是用的虚拟形象，但知识和气质可并不是那么容易伪装的。虽然混迹商圈不久，但看人识相的技巧可是每个生意人的基本功。\n\n按照游戏的提示，他迈步朝着楼上走去。可没走几步路，一个身着可以称得上“复古”的男人便出现在了他面前。ID焦糖布丁，是个玩家。看到对方也明显一愣的神情，毕胜准备率先提问，朝对方伸出了手。\n\n“我叫隐锋，在这里应该算是个无业游民。”\n\n“焦糖布丁，经营着一家两元精品店。”",
-      music = "19_Daily02",
-      voice = "est_12172_4.mp3"
+      sentence = "Sure, avatars were customizable—but knowledge, mannerisms, and presence? That stuff was harder to fake. Even with just a few years in business, reading people was second nature to him.\n\nHe headed toward the stairwell. But before he could climb, a man stepped into view—dressed in something that could only be described as \"aggressively vintage.\" His username floated above him: Caramel Pudding. The two locked eyes. The guy looked just as surprised as Dan. Dan took the lead, reaching out a hand.\n\n\"HiddenEdge. Just your friendly neighborhood unemployed guy.\"\n\n\"Caramel Pudding. I run a dollar discount store.\"",
+      music = "19_Daily02"
     },
     [5] = {
       uid = 3868,
       next = 6,
       beijing = 4964,
-      sentence = "“你也是第一次玩这个游戏吧。”\n\n“嗯。”\n\n“我在外面玩过剧本杀，没想到这题材还挺复古的。”\n\n毕胜本想找找话题，可对方似乎只是沉闷地点了点头，四处张望的眼神中像是在找什么人。\n\n“看来小焦老板还有事，那我就不打扰了。”\n\n“物业是往上面走吗？我的消息提示我要去物业拿备用钥匙。”",
-      music = "19_Daily02",
-      voice = "est_12172_5.mp3"
+      sentence = "\"First time playing?\"\n\n\"Yeah.\"\n\n\"I've done some escape rooms and murder mystery stuff before, but this setting's got real retro vibes.\"\n\nDan tried to strike up some small talk, but the guy just nodded, glancing around like he was looking for someone else.\n\n\"Well, Mr. Pudding, looks like you've got things to do. I'll let you get to it.\"\n\nHe paused and checked the in-game message again. \"Oh—property management's upstairs, right? Gotta grab my spare key.\"",
+      music = "19_Daily02"
     },
     [6] = {
       uid = 3869,
       next = 0,
       beijing = 4964,
-      sentence = "“物业在楼下，不在上面。”\n\n毕胜暗自在心底打量了一番面前的男子。虽然从言语上能感觉出没啥游戏经验，但总体上来说还是挺沉稳的人，倒是有几分“上位者”的味道。\n\n“还有什么事吗？”\n\n“没事了，我还要赶紧去拿钥匙呢。”\n\n两人一前一后朝着楼下走去，毕胜看着面前焦糖布丁的背影，内心只是隐隐闪过一个念头。\n\n这个人，或许是个不错的对手。",
-      music = "19_Daily02",
-      voice = "est_12172_6.mp3"
+      sentence = [[
+"It's downstairs."
+
+Dan made a small mental note. This guy didn't seem like a gamer, but he carried himself with a kind of steadiness. Quiet. Confident. And a certain aura of authority.
+
+"You need anything else?"
+
+"Nah. I'll go grab that key now."
+
+They walked down the stairs one after the other. As Dan followed him, he glanced at the man's back and smirked inwardly.
+
+Interesting guy. Might actually be a fun opponent.]],
+      music = "19_Daily02"
     }
   },
   [12173] = {
@@ -11722,57 +11762,75 @@ The reply to Hype was two simple words:
       uid = 3870,
       next = 2,
       beijing = 4965,
-      sentence = "游戏的进程，远比毕胜想得顺利。\n\n一开始他还觉得游戏可能会上演一出精彩的博弈。可目前看来，除开那个名为焦糖布丁的玩家，其他人确实不算什么威胁，就这样安稳地赢得胜利，也不失为好结局。\n\n可比起这边的顺利，“个人任务”那边完全是一团乱麻。\n\n虽说给他安排了所谓“开发商卧底”的工作，但不是要白天去剪这一家的电线，就是傍晚时候偷偷把人家门口的东西换换位置，主打的就是一种“鬼魂无处不在，但其实都是我一人干的”。",
-      music = "19_Daily02",
-      voice = "est_12173_1.mp3"
+      sentence = [[
+So far, the game was going better than expected.
+
+He'd assumed there'd be more twists, more backstabbing. But outside of Caramel Pudding, the other players weren't exactly a threat. If this kept up, the win would be clean and simple.
+
+Unfortunately, his personal quest was a chore.
+
+They had him playing a "developer's undercover agent," which basically meant running around the apartment complex doing petty mischief: cutting wires here, moving furniture there... like he was a solitary poltergeist.]],
+      music = "19_Daily02"
     },
     [2] = {
       uid = 3871,
       next = 3,
       beijing = 1662,
-      sentence = "在又一次气喘吁吁地上下爬了几层楼梯之后，毕胜终于忍不住酸胀的小腿，对着精品店门前的矮凳子上猛地坐了下去。\n\n之前体验《奥德赛》的做得也太真实了，玩个游戏，感觉自己在当苦力！毕胜暗自吐槽了两句，却还是忍不住口渴，朝着精品店里喊了起来。\n\n“老板在吗？来瓶冰红茶。”\n\n背后响起轻微的捣鼓声，随后一道熟悉的人影站在了他面前。\n\n“精品店里不卖冰红茶。”",
-      music = "52_Daily03",
-      voice = "est_12173_2.mp3"
+      sentence = "After another round of stair climbing, Dan's legs were killing him. He dropped onto a low stool in front of the discount shop, catching his breath.\n\nThe experience in Oddessy was way too real. \"If this isn't slave labor, I don't know what is!\" His throat was dry. He leaned back and called toward the store.\n\n\"Hey, Mr. Pudding—you got iced tea in there?\"\n\nHe heard rustling from inside. Then the man himself appeared at the counter.\n\n\"We don't sell iced tea.\"",
+      music = "52_Daily03"
     },
     [3] = {
       uid = 3872,
       next = 4,
       beijing = 1662,
-      sentence = "当毕胜抬起头时，焦糖布丁已经站在柜台前。复古的衬衫微微敞开，顺着对方的指尖看去，店门口赫然立着一块牌子。\n\n两元店铺，清仓甩卖，买一送一，卖完倒闭。这种“低级”的拉客手段，毕胜倒是好多年没怎么见过了。他饶有兴趣地边打量着，一边走到了店铺里。\n\n“小焦老板，今天的生意怎么样？”\n\n“还不错，已经有一位客人了。”\n\n毕胜知道对方话里有话，随手从旁边拿起一把扇子放到柜台上。",
-      music = "52_Daily03",
-      voice = "est_12173_3.mp3"
+      sentence = "When Dan looked up, Caramel Pudding was already leaning behind the register. His half-unbuttoned shirt hung loose, and behind him stood a boldly printed sign:\n\nDollar Shop—Unbelievable Sale—Buy One Get One Free—Closing Down Soon. Dan chuckled to himself. He hadn't seen this kind of old-school marketing in years. It was so outdated, it was almost... endearing. He strolled in, casually browsing.\n\n\"How's business today?\"\n\n\"Not bad. There's a customer already.\"\n\nDan caught the subtlety immediately. He smirked, picking up a paper fan and setting it on the counter.",
+      music = "52_Daily03"
     },
     [4] = {
       uid = 3873,
       next = 5,
       beijing = 1662,
-      sentence = "“店里也没什么客人，你倒是还挺沉得住气。”\n\n手中扇子扬起的微风徐徐传来，让毕胜焦躁的心情也好了不少。\n\n“开门做生意，没那么着急。”\n\n“就是规模太小，要不是待在这儿，这两元店起码得涨到五元。”\n\n“生意的规模不重要。”\n\n“再珍贵的小鱼，也总逃不过被大鱼吃掉的一天。”",
-      music = "52_Daily03",
-      voice = "est_12173_4.mp3"
+      sentence = [[
+"Place looks dead, but you don't seem bothered at all."
+
+He waved the fan lazily, letting the breeze cool his face.
+
+"Being upset about it won't change a thing either."
+
+"I mean, the location isn't prime. Maybe if you made your store bigger, business might improve."
+
+"Size is irrelevant."
+
+"Even the rarest little fish eventually gets swallowed by the bigger ones."]],
+      music = "52_Daily03"
     },
     [5] = {
       uid = 3874,
       next = 6,
       beijing = 1662,
-      sentence = "“毕竟生意运作得再好，归根结底不就是赌博吗？赢家通吃，输者无家可归。”\n\n“但没有人能靠赌一直赢下去。”\n\n毕胜仰起的脖颈被对方的这句话说得定在了原地，在手中把玩的扇子不知什么时候也充斥着火药味。\n\n“可开这种店也赚不到大钱，不如拿这笔钱去外面投资。”\n\n“哪怕多买点楼盘，之后也能赚不少，何苦困在这呢。”",
-      music = "52_Daily03",
-      voice = "est_12173_5.mp3"
+      sentence = "\"End of the day, no matter how well you run a business... it's still a gamble, right? Winner takes all. Loser walks away with nothing.\"\n\n\"Yeah, but no one stays lucky forever.\"\n\nThat reply stopped Dan mid-motion, his chin tilted up, the fan in his hand suddenly heavy with tension.\n\n\"Still, running a tiny shop like this? You're never gonna make real money. You'd be better off investing it—put that cash into something scalable.\"\n\n\"Buy up a few properties, sit on them for a while... eventually, they'll pay off. Why stay stuck here?\"",
+      music = "52_Daily03"
     },
     [6] = {
       uid = 3875,
       next = 7,
       beijing = 1662,
-      sentence = "“我有更好的投资。”\n\n“什么？”\n\n焦糖布丁的表情仿佛毫不避讳，随手掸了掸柜台上散落的灰尘。\n\n“这家精品店。”\n\n“别说，还真是一笔稳赚不赔的投资。”\n\n“我在这买把扇子，倒是还学了不少生意经。”\n\n毕胜笑着擦了擦鼻翼，却发现焦糖布丁又往自己面前放了一把扇子。",
-      music = "52_Daily03",
-      voice = "est_12173_6.mp3"
+      sentence = "\"Because I've got a better investment.\"\n\n\"Oh yeah? Let's hear it.\"\n\nCaramel Pudding didn't even blink. He casually brushed some dust off the counter like it was nothing.\n\n\"This little shop right here.\"\n\n\"Hmm. Safe, steady return. No surprises. I suppose\"\n\n\"Looks like I bought a fan here and somehow walked away with a business lesson.\"\n\nDan chuckled as he wiped his nose with his knuckle—until Caramel Pudding silently slid another fan across the counter.",
+      music = "52_Daily03"
     },
     [7] = {
       uid = 3876,
       next = 0,
       beijing = 1662,
-      sentence = "“生意人可不会白送别人东西。”\n\n“买一送一，是这家店的营销宗旨。”\n\n望着手中的两把扇子，毕胜嘴角也是忍不住扬起了一抹笑意。\n\n面前这个人，倒是称得上真正的生意人。",
-      music = "52_Daily03",
-      voice = "est_12173_7.mp3"
+      sentence = [[
+"Business people don't give away tips for free."
+
+"Buy one, get one free. House policy."
+
+Dan glanced down at the two fans in his hands, lips twitching into a smile.
+
+This guy was smart, patient, and knew his stuff. He was a real businessman.]],
+      music = "52_Daily03"
     }
   },
   [12174] = {
@@ -11780,41 +11838,56 @@ The reply to Hype was two simple words:
       uid = 3877,
       next = 2,
       beijing = 4966,
-      sentence = "又是一个狼人夜。\n\n昏暗的灯光下整齐地摆放着几个人的照片，而已经出局的人，早已被打上大大的红叉。对局进行到现在这个程度，胜利的天平早就向狼人阵营倾斜。\n\n“锋哥，您看我们接下来要干什么？”\n\n毕胜瞥了眼身旁的队友，嘴角微微扬了扬，随后伸手指向桌上的其中一张照片。\n\n“现阶段守墓人对我们的威胁最大，把他干掉，后续就没人知道场上还剩几只狼了。”",
-      music = "19_Daily02",
-      voice = "est_12174_1.mp3"
+      sentence = "Another werewolf night had fallen.\n\nUnder the low, flickering light, photos of the remaining players were spread neatly across the table. The ones who'd already been eliminated had bright red Xs slashed across their faces. At this point, it was clear—the werewolves had the upper hand.\n\n\"What do we do next, HiddenEdge?\"\n\nDan didn't even look at his teammate at first. He simply reached out and tapped one photo on the table.\n\n\"This guy. The Gravekeeper. He's the only one who can track how many werewolves are left. Take him out, and we're in the clear.\"",
+      music = "19_Daily02"
     },
     [2] = {
       uid = 3878,
       next = 3,
       beijing = 4966,
-      sentence = "“明天投票的时候，只要我们设法再将一位好人投出去，最后就是我们的胜利了。”\n\n“那要不要先把女巫解决了？毕竟他还有一瓶毒药呢？”\n\n“毒药的威胁不大，还是抽空把那个守卫解决了最好。”\n\n虽然嘴上这么说，但他心里却总是警惕着那位叫做“焦糖布丁”的玩家。\n\n那对生意颇为精密的诊断和那具有远见的眼光，的确不由得让他侧目。",
-      music = "19_Daily02",
-      voice = "est_12174_2.mp3"
+      sentence = "\"If we can vote out another innocent person tomorrow, we'll have this game in the bag.\"\n\n\"What about the Witch? She's still got poison, right?\"\n\n\"Her poison's not much of a threat. What we need is to get rid of the Watcher.\"\n\nEven as he spoke, his mind drifted again—back to Caramel Pudding. There was something about that guy. The way he read situations and the way he played the long game. It was the kind of thinking you usually only saw in boardrooms, not discount stores.\n\nDan couldn't help but feel a chill on his back.",
+      music = "19_Daily02"
     },
     [3] = {
       uid = 3879,
       next = 4,
       beijing = 4966,
-      sentence = "毕竟从他的视角看，这局游戏里“开发商”确实并不止是想获得这个楼盘，但具体的原因，他也还没猜得出来。\n\n越是去想，这件原本不值得在意的事却越让毕胜较劲起来。\n\n“对了锋哥，我还有件事想问你。”\n\n“什么事你说。”\n\n“我不是也在做个人任务吗？主要就是帮开发商跑跑腿，放放信件什么的。”",
-      music = "19_Daily02",
-      voice = "est_12174_3.mp3"
+      sentence = "From what he could tell, the missions he'd been running for the property developer weren't just about clearing tenants from the rundown apartment complex. There was something else deeper going on.\n\nHe didn't have the full picture yet, and that was starting to irritate him.\n\n\"Oh, right, HiddenEdge. Can I ask you something?\"\n\n\"Yeah, go for it.\"\n\n\"I've got a personal mission too. I'm running small errands for the property developer. Mostly small stuff—dropping letters, moving things.\"",
+      music = "19_Daily02"
     },
     [4] = {
       uid = 3880,
       next = 5,
       beijing = 4966,
-      sentence = "“可最近这闹鬼的事，搞得我心底毛毛的，您看您能不能帮我送几封？”\n\n“你在现实里不是男的吗？怎么这么胆小？”\n\n盯着面前这个短发女生的虚拟形象，毕胜忍不住吐槽起来。\n\n“虚拟形象嘛，在游戏里要保持人设。”\n\n“先把东西拿给我看看吧。”\n\n想着明天还要爬上爬下去劝人搬迁，毕胜就不由得一阵心累。",
-      music = "19_Daily02",
-      voice = "est_12174_4.mp3"
+      sentence = [[
+"But with all this ghost story stuff going around, I'm starting to get spooked. Think you could deliver a few for me?"
+
+Dan raised an eyebrow at the short-haired female avatar in front of him.
+
+"Aren't you a dude in real life? Why're you acting all scared?"
+
+"It's the character! Gotta stay in role while I'm here."
+
+"Alright, alright. Hand 'em over."
+
+He sighed. Just thinking about the list of mundane missions awaiting him made him want to flip over the table.]],
+      music = "19_Daily02"
     },
     [5] = {
       uid = 3881,
       next = 0,
       beijing = 4966,
-      sentence = "手里接过两封皱巴巴的信件，视线却不由得被上面熟悉的房间号吸引了，这是一封要送给“焦糖布丁”的信。\n\n“怎么样锋哥，行不行？”\n\n“行了行了，大男人别扭扭捏捏的。刚好我也有任务要做，正好拿你的送信掩盖一下。”\n\n毕胜把信默默揣在怀里，心里想的却是怎么在生意经上找回点场子。他正愁没什么契机找那个焦糖布丁好好聊聊，现在总算有机会了。\n\n老天送给我的机会，我可不会随便浪费。",
-      music = "19_Daily02",
-      voice = "est_12174_5.mp3"
+      sentence = [[
+He took the crumpled letters and gave them a once-over. One address caught his eye immediately. It was the Caramel Pudding's store.
+
+"So? Can I count on you?"
+
+"Fine. I'll cover for you. I've got a mission to handle anyway, so I'll use your delivery to blend in."
+
+Dan tucked the letter inside his jacket, but his thoughts were already turning. "Perfect. A clean excuse to swing by and talk to him again. Maybe this time, I'll show that I'm also a capable businessman."
+
+Dan wasn't about to waste this good chance.]],
+      music = "19_Daily02"
     }
   },
   [12175] = {
@@ -11822,73 +11895,91 @@ The reply to Hype was two simple words:
       uid = 3882,
       next = 2,
       beijing = 1662,
-      sentence = "又过了一天，守墓人也成功被刀。而在群众投票的大会上，毕胜更是将整个局势的走向牢牢握在自己手里。\n\n他把信件揣在自己怀里，朝着不远处的精品店走去，心里却想的是好好会会焦糖布丁，毕竟做生意这块，他可没打算输给一个精品店老板。\n\n依旧是被旧货塞得满满的精品店，收音机里时不时传来的新闻播报，洋溢着奋进而又向上的精神色彩。\n\n“小焦老板在吗？这里有你的信。”",
-      music = "52_Daily03",
-      voice = "est_12175_1.mp3"
+      sentence = "The next day, the Gravekeeper went down just as planned. Even during the voting round, Dan held the flow of the game in the palm of his hand.\n\nWith the letter still snug in his coat, he made his way toward the shop—not just to complete the delivery, but to finally have the conversation he'd been turning over in his head. He wasn't about to accept that an owner of a discount store knew more about business than he did.\n\nThe shop hadn't changed. Still packed to the ceiling with bargain goods, still playing that chipper, static-filled radio with news bulletins from who-knows-when.\n\n\"Caramel Pudding, you in? Got a letter for you here.\"",
+      music = "52_Daily03"
     },
     [2] = {
       uid = 3883,
       next = 3,
       beijing = 1662,
-      sentence = "又是一阵窸窸窣窣的声音，李泽言拨开珠帘从屋里走了出来。毕胜晃了晃手中的信，随后把它放到了桌上。\n\n“开发商给的，人手一封。”\n\n“你和开发商倒是走得挺近。”\n\n“无业游民是这样的，找着机会就得赚点外快。”\n\n眼见着焦糖布丁把信拆开，毕胜准备趁这个机会再和对方聊聊生意上的事。\n\n“你说咱们这的人都搬得差不多了，接下来开发商会不会有大动作啊。”",
-      music = "52_Daily03",
-      voice = "est_12175_2.mp3"
+      sentence = [[
+There was another faint rustle of movement as the beaded curtain swayed, and Caramel Pudding stepped out of the room. Dan waved the envelope in his hand before setting it down on the table.
+
+"From the property developer. Everyone gets one."
+
+"You seem to be getting pretty cozy with them."
+
+"Hey, I'm just a freelancer hustling for extra cash when it comes my way."
+
+As he watched Caramel Pudding tear open the letter, Dan figured this was the perfect time to steer the conversation back to some business talk.
+
+"Most of the residents are gone now. You think the developer's planning to make a big move soon?"]],
+      music = "52_Daily03"
     },
     [3] = {
       uid = 3884,
       next = 4,
       beijing = 1662,
-      sentence = "“可能性是很大。”\n\n“但还是那句话，需要观望。”\n\n如果是别人说这句话，毕胜一定会嗤之以鼻。可自从上次交流后，他知道面前这个男人没那么简单。可明面上深藏不露，不代表一直毫无破绽。毕胜用余光找了找，在店铺的角落里瞥见一堆散乱的纸牌。\n\n“之前和你聊得挺投缘的，刚好没事儿干，要不来一局？”\n\n“纸牌一元钱一副。”",
-      music = "52_Daily03",
-      voice = "est_12175_3.mp3"
+      sentence = "\"Could be.\"\n\n\"But like I said before—wait and see.\"\n\nIf anyone else had said that, Dan would've scoffed. But after their last talk, he knew this man wasn't just any random person. Yet, despite his cool exterior, Dan was certain there were cracks beneath the surface. His eyes casually scanned the store until he spotted a messy pile of playing cards in the corner.\n\n\"We got along pretty well last time. I've got time to kill—how about a quick game?\"\n\n\"Deck's a dollar.\"",
+      music = "52_Daily03"
     },
     [4] = {
       uid = 3885,
       next = 5,
       beijing = 1662,
-      sentence = "“我出钱，你出人，这总行了吧。”\n\n“玩什么？”\n\n“就来跑得快好了，简单易懂。”\n\n毕胜流利的将牌分成两堆，想了想从牌堆里抽出了三张8。\n\n“谁先把手里的牌出完就算赢。”\n\n“大家都是做生意的，输了留个发，也算是好彩头。”",
-      music = "52_Daily03",
-      voice = "est_12175_4.mp3"
+      sentence = "\"Fine. I pay and you play.\"\n\n\"What are we playing?\"\n\n\"Let's keep it easy—we'll play Big Two.\"\n\nDan deftly shuffled and split the deck, pulling out three eights as he set things up.\n\n\"The first one to empty their hand wins.\"\n\n\"I like to keep just one 8 in the deck; it's my lucky number. My cards, my rules. Sound fair?\"",
+      music = "52_Daily03"
     },
     [5] = {
       uid = 3886,
       next = 6,
       beijing = 1662,
-      sentence = "焦糖布丁点了点头，这下对局也算正式开始了。毕竟只有两个人，只抽了一会，两人手中的牌便所剩无几。毕胜看着自己手中的8，不自觉地摸了摸鼻子，随后故意将那张牌放到了一侧。\n\n毕胜看着对方犹豫后将那张8抽走，嘴角忍不住露出一抹笑意：“上次你说开精品店是个稳赚不赔的投资，我其实很难认同。”\n\n“小区没了，你这店也就没了，怎么算是个好投资呢？”\n\n“因为它满足好投资所具备的一切要素。”",
-      music = "52_Daily03",
-      voice = "est_12175_5.mp3"
+      sentence = [[
+Caramel Pudding gave a small nod, and the game was on. With just the two of them, hands flew quickly. Before long, they were each down to just a few cards. Dan stared at the only 8 in his hand, tapped his nose absently, and placed one off to the side like a piece of bait.
+
+Sure enough, after a brief hesitation, Caramel Pudding picked it up. Dan grinned.
+
+"You said this shop's a sure deal. But once this building goes, this store's toast too. What makes you say it's a good investment?"
+
+"Because it checks all the boxes for a good one."]],
+      music = "52_Daily03"
     },
     [6] = {
       uid = 3887,
       next = 7,
       beijing = 1662,
-      sentence = "毕胜指着对方的牌抽了下去，可回到他手中的还是那张8。就像是自己的问题，被对方悄无声息地抛了回来。\n\n“投资回报率，长线规划，流动的客户，没有这些也算是好投资吗？”\n\n他再次将手中的两张牌换了换位置，重重地摆在了对方面前。可对方只是轻描淡写地一笑，随后将指尖伸出。\n\n“这个精品店的确只属于这个小区。”\n\n“它永远只进相同的货品，赚固定的钱。”",
-      music = "52_Daily03",
-      voice = "est_12175_6.mp3"
+      sentence = [[
+Dan pointed toward his opponent's card and drew, but the 8 had returned to his hand, like the argument had just been tossed right back.
+
+"No ROI, no scalability, no rotating customers. Without that, how's this a smart move?"
+
+He rearranged two cards and slapped them on the table with emphasis, but Caramel Pudding just smiled faintly and reached out with a single finger.
+
+"It's true this shop only works here. In this neighborhood."
+
+"It's got the same stock. Same cash flow. Every day."]],
+      music = "52_Daily03"
     },
     [7] = {
       uid = 3888,
       next = 8,
       beijing = 1662,
-      sentence = "“也正因如此，这是一门不需要赌博的生意。”\n\n焦糖布丁微微扬起目光，深色的眸底下映衬着令毕胜难以言说的锋锐。\n\n“生意场，永远属于在做生意的人，而不是草草出局的投机者。”\n\n当对方的指尖离开时，手中寓意发财的8，提醒着毕胜这局游戏的失利。不出所料，女巫正是这位焦糖布丁，而毕胜也在毒药的作用下被淘汰出局。\n\n在等待游戏正式结束后，摘下设备的毕胜有些不爽地躺在椅子上，再次打开了熟悉的游戏。",
-      music = "52_Daily03",
-      voice = "est_12175_7.mp3"
+      sentence = "\"And that's exactly why it's a business, not a gamble.\"\n\nCaramel Pudding raised his eyes. The calm, dark gaze somehow carried a sharp edge that made Dan feel oddly exposed.\n\n\"The business world belongs to people who actually do business—not to the ones who flame out chasing shortcuts.\"\n\nAs Dan lost, it turned out, Caramel Pudding was indeed the Witch, and Dan was eliminated by his poison.\n\nOnce the round ended, he pulled off his headset and leaned back in the chair with a scowl. He instinctively opened his usual game app again.",
+      music = "52_Daily03"
     },
     [8] = {
       uid = 3889,
       next = 9,
       beijing = 1081,
-      sentence = "断签了。\n\n看来自己真的在“狂欢夜”里太投入，居然第一次游戏断签了。\n\n在沉默地叹了口气之后，毕胜还是重新刷了起来，直到签到表上的数字从0变成了1。像是有什么东西空落落的，但又好像充盈了起来。他再次点开了抽卡界面，不过在他按下按钮之前，熟悉的铃声将他从界面上弹了出来。\n\n“毕总，给华锐的案子通过了，对方喊你明天下午去开会。”",
-      music = "47_Warm_Daily",
-      voice = "est_12175_8.mp3"
+      sentence = "Missed a sign-in.\n\nIt was the first time ever that he'd missed one. Must've gotten too into Carnival Night.\n\nDan sighed, tapped through the screens, and reset the streak. Zero became one again. Oddly enough, it didn't feel like a failure. Something was missing, sure—but something else had settled. He was just about to pull from the gacha when his phone rang.\n\n\"Mr. Barclay, the LFG proposal just got approved. They want to meet tomorrow afternoon.\"",
+      music = "47_Warm_Daily"
     },
     [9] = {
       uid = 3890,
       next = 0,
       beijing = 1081,
-      sentence = "秘书熟悉的声音却让他有些陌生，明明是期待了很久的东西，却就在这样一个简单的游戏之后达成了。没有香槟和掌声，没有拥簇的庆功宴，只有空调发出的阵阵声响，成为此刻唯一的伴奏。\n\n“我知道了，记得喊上吴哥一起。”\n\n窗外的阳光透过帘子在他的眸底落下深浅不一的痕迹。他忍不住伸了个懒腰，心底却比做成任何一桩生意都要充实得多，毕竟这次有人给他好好上了一课。\n\n生意，永远不是一锤子买卖。",
-      music = "47_Warm_Daily",
-      voice = "est_12175_9.mp3"
+      sentence = "The voice on the line was familiar, but the moment felt... off. He'd chased this deal for months. And now that it had landed, there was no celebration—no toasts, no applause. Just the hum of the air conditioner.\n\n\"Got it. Make sure Alfred comes along.\"\n\nSunlight slanted in through the curtains, casting faint shadows across his face. He stretched, feeling a strange fullness inside—something no big contract had ever quite left him with. Because today, someone had handed him a lesson worth more than any deal.\n\nBusiness isn't just about quick wins.",
+      music = "47_Warm_Daily"
     }
   },
   [12181] = {
@@ -11896,49 +11987,51 @@ The reply to Hype was two simple words:
       uid = 3994,
       next = 2,
       beijing = 4803,
-      sentence = "8点的分针刚刚滑过，我就在工作日历的30号旁打了一个勾，随即走向仓库里一排排的货架。\n\n这里是第五大道高尔夫俱乐部，也是我的工作场所。\n\n仓库里有584支球杆、200盒未拆封的高尔夫球、36个球包、89双各异尺码的球鞋，至于手套、帽子、球标、雨伞这些零碎物件，每天总有丢失、借走的理由，从来没有对上过数。\n\n今天留给我整理仓库的时间比较少，我注视着挂钟上的指针，手一刻也不停下。",
-      music = "48_Quiet_Daily",
-      voice = "est_12181_1.mp3"
+      sentence = "The minute hand had just ticked past 8 o'clock when I placed a check mark beside the 30th on my work calendar and headed for the warehouse shelves.\nThis was the Fifth Avenue Golf Club, and also my workplace.\nThe warehouse held exactly 584 golf clubs, 200 unopened boxes of golf balls, 36 golf bags, and 89 pairs of golf shoes in various sizes. As for the gloves, hats, markers, and umbrellas—those miscellaneous items always seemed to vanish or get borrowed, so the numbers never quite added up.\nI didn't have much time to organize today. I kept glancing at the clock as I moved, not letting my hands stop for even a second.",
+      music = "48_Quiet_Daily"
     },
     [2] = {
       uid = 3995,
       next = 3,
       beijing = 4803,
-      sentence = "“滋啦——”一声刺耳的摩擦声打断了我的动作，卷帘门被人从外猛然拉起，刺眼的阳光逼得我不由自主地眯起了眼睛。\n\n“Ted！你还在磨蹭这些！”听声音我也知道是高尔夫俱乐部的老板。\n\n我抬眸对上他那双紧锁的眉头，他训人的时候总是这种表情。“今天最关键的就是给包场的客户准备球具，我看你还没弄吧？”\n\n“是，马上就开始准备了，先生，但是仓库……”我垂下眼眸回应。",
-      music = "48_Quiet_Daily",
-      voice = "est_12181_2.mp3"
+      sentence = "Just then, a sudden, grating sound shattered the silence. Someone yanked the shutter door open from the outside, and sunlight came pouring in, blinding me for a moment.\n\"Ted! What the hell are you still here for?\" The voice was instantly familiar—my boss.\nI looked up to meet his scowl. That same furrowed brow always showed up when he was about to lecture someone. \"We've got VIPs coming in today. I told you to get their gear ready. Don't tell me you haven't started yet?\"\n\"Yeah, I'm on it, sir. Just about to begin. But the warehouse—\" I tried to explain.",
+      music = "48_Quiet_Daily"
     },
     [3] = {
       uid = 3996,
       next = 4,
       beijing = 4803,
-      sentence = "他直接打断了我的话：“以前让你管仓库，是因为你身体不好，现在就别老待在这里了，多去球场。”\n\n“弄好了就去，今天可千万别出差错。”他昂起下巴指向一旁。\n\n我本想半个小时后再开始，现在不得不要提前了。我回忆着试杆时瞥见的两位客户的背影，其中叫Victor的客户，他的挥杆动作稳健有力，出球角度高，且击球距离平均都在较高码数，所以我为他选了几支高弹性、硬度较高的铁杆，可以让他的力量优势得到更好的发挥；至于那位叫做Aether的客户则更适合灵活轻巧的科技款球杆，以便提升击球的速度和距离。",
-      music = "48_Quiet_Daily",
-      voice = "est_12181_3.mp3"
+      sentence = "He cut me off immediately. \"I only had you watching the warehouse 'cause of your health. You're better now, right? So quit hiding in here and go get your butt out onto the course more.\"\n\"Finish up here and go. We can't afford any mistakes today.\" He tilted his chin in dismissal, motioning toward the exit.\nI'd originally planned to start in thirty minutes, but clearly, that wasn't happening anymore. I ran through my mental notes from the earlier test swings. One of the clients was named Victor. He had a powerful, stable swing. His shots had a high launch angle and impressive distance, so I selected a few high-elasticity, stiff-shafted clubs to help him fully leverage his strength. As for the one called Aether, he seemed better suited for lightweight, flexible ones—designed for speed and distance with minimal effort.",
+      music = "48_Quiet_Daily"
     },
     [4] = {
       uid = 3997,
       next = 5,
       beijing = 2552,
-      sentence = "我一边装着球杆，一边斜睨着老板走出仓库，他随手打开了对讲机，嚷嚷着让人再检查门口和草场，显然今天的客人对他来说非比寻常。\n\n我将两个36英寸的车载球包甩上高尔夫球车，驶向球场入口处，从这里刚好可以看到俱乐部门口那条弯曲的车道。\n\n平时最爱拿小费的同事，此刻忙得不亦乐乎，跑动间衣角几乎带着风，而老板和一群主管集体站在门口，面上挤着笑容。\n\n一辆黑色的车不急不缓地滑入视野，看上去价值不菲。",
-      music = "48_Quiet_Daily",
-      voice = "est_12181_4.mp3"
+      sentence = [[
+As I packed the clubs, my boss walked out of the warehouse, barking into his walkie-talkie to double-check the gate and the fairway. Clearly, the guests today were very important.
+I tossed two 36-inch golf bags into the cart and drove it over to the course entrance. From here, I had a good view of the winding driveway leading to the clubhouse.
+My coworkers, who usually fought over tips, were now dashing around like mad. Meanwhile, the boss and a squad of managers stood lined up at the door, plastering on their best fake smiles.
+Just then, a sleek, luxurious black car glided into view.]],
+      music = "48_Quiet_Daily"
     },
     [5] = {
       uid = 3998,
       next = 6,
       beijing = 2552,
-      sentence = "两位东方面孔的男子分别从车中两侧走出，其中一位尤其令人印象深刻，动作轻而稳，脸上没有多余的表情，沉静得叫人无法忽视。\n\n他旁边的客人唇翕动了几下，我熟稔地解读出语句，他说“李总，这家俱乐部很适合谈事情。”我思索着这个称呼。\n\n“李总”，大约是位不容小觑的大投资人。\n\n片刻，他们换了休闲装走到我这边。\n\n我的目光不由自主地朝那位李总寻去，却顿然感到自己正被一双眼睛紧紧注视着。",
-      music = "48_Quiet_Daily",
-      voice = "est_12181_5.mp3"
+      sentence = "Two men stepped out, both Asians. One of them immediately drew my attention. His movements were composed and deliberate, and his expression was unreadable. There was a quiet authority about him that couldn't be ignored.\nThe man beside him leaned in and said something softly, but I could read his lips with ease. \"Mr. Victor, this place should be perfect for some business talks.\"\nJudging from the respect in his posture, this \"Mr. Victor\" was surely someone very important.\nA few minutes later, both of them returned in casual attire and walked toward me.\nI couldn't help but glance at Victor again—only to realize I was already being watched.",
+      music = "48_Quiet_Daily"
     },
     [6] = {
       uid = 3999,
       next = 0,
       beijing = 2552,
-      sentence = "我下意识地往这种感受的源头看去，是那位叫做Aether的客户，目光一触，我便愣了一瞬。\n\n似乎我在他眼里不存在任何秘密……\n\n我连忙压下脑中的思绪，略微低下头，礼貌地开口：“您好，我是今天负责的球童，Ted。如果您有任何需要，请随时告知。” \n\n李总淡淡地应了下，神色无波。而Aether的嘴角却弯起了一个恰到好处的微笑弧度。",
-      music = "48_Quiet_Daily",
-      voice = "est_12181_6.mp3"
+      sentence = [[
+I instinctively looked toward the source of that gaze. It was Aether. The moment our eyes met, I froze for just a second.
+It felt like he could see straight through me.
+I quickly collected myself, lowered my head slightly, and spoke with professional politeness. "Good afternoon. I'm Ted, your caddie for today. If you need anything at all, just let me know."
+Victor gave a short, indifferent nod. Aether, though, offered me a small, polite smile.]],
+      music = "48_Quiet_Daily"
     }
   },
   [12182] = {
@@ -11946,57 +12039,59 @@ The reply to Hype was two simple words:
       uid = 4000,
       next = 2,
       beijing = 3500,
-      sentence = "高尔夫球场的午后静谧而有序，只有偶尔的风声与球击出时的轻响。\n\n根据商务需求，我安排的是九洞制的高尔夫，理论上大概需要两个小时，但由于他们边打边聊，实际耗时自然会多出一些。\n\n李总与Aether在前方缓缓走着，我跟在他们侧后方，保持着几步之隔的距离。\n\n两人似乎一直在讨论某个项目的增资需求。\n\n我时不时抬起眼，细碎的声音顺着空气飘入我的耳畔。",
-      music = "101_LiZeyan",
-      voice = "est_12182_1.mp3"
+      sentence = "The course that afternoon was peaceful and calm. Only the wind and the occasional thwack of a golf ball broke the silence.\nI'd arranged a nine-hole round—ideal for business discussions. Theoretically, it should take about two hours, but with the pace of their conversation, it would definitely run longer.\nVictor and Aether walked slowly ahead, while I followed a few steps behind, keeping a respectful distance.\nThey seemed to be discussing funding for a new project.\nEvery now and then, I caught pieces of their conversation drifting through the air.",
+      music = "101_LiZeyan"
     },
     [2] = {
       uid = 4001,
       next = 3,
       beijing = 3500,
-      sentence = "“加深合作的前提是坦诚，但我不认为你们做到了。”李总双手握着球杆，眼神看向远方，细微地调整站姿，随即一杆果决地抽出，最终球停在了果岭上最危险的地带。\n\n我看向Aether，他似乎还在思考该怎么回答这个问题，而李总已经率先往前迈步了。\n\n我从球具袋里选出一只专用技术型推杆，追上李总的步伐。\n\n“这个角度，我推荐选择换杆，可以确保一杆进洞。”及时推荐更合适的装备，也是我作为球童的职责，“这是最新的技术，我可以帮您设定一些角度。”",
-      music = "101_LiZeyan",
-      voice = "est_12182_2.mp3"
+      sentence = "\"If you want to deepen this partnership, I'll need to see sincerity. And frankly, I don't think your side's shown much of it.\" Victor's voice was calm but firm. He gripped his club and subtly adjusted his stance. Then—crack—he swung, and the ball landed in one of the trickiest spots on the green.\nI looked over at Aether. He didn't answer, as if he was turning the words over in his head. But Victor was already striding ahead.\nI quickly pulled a precision putter from the bag and caught up with him.\n\"At this angle, I'd recommend switching to this putter. You've got a good shot at sinking it in one stroke,\" I said. \"It's the latest model. May I help you adjust the angle?\"",
+      music = "101_LiZeyan"
     },
     [3] = {
       uid = 4002,
       next = 4,
       beijing = 3500,
-      sentence = "“不用。”\n\n李总的目光依然投向瞄准的目标，随后不疾不徐地再度挥杆，正落球洞。他似乎没有受到任何影响，依然沉稳。\n\n此时Aether也走了过来，“李总，您说笑了。除了一些与华锐合作无关的小投资，我提交给华锐的报告已经足够详尽了。”\n\n李总的眉毛微微上扬，余光不着痕迹地从Aether的脸上掠过。\n\n“大规模的器械厂也只是一笔小投资的话，你们公司看来并不是那么需要资金支持。”",
-      music = "101_LiZeyan",
-      voice = "est_12182_3.mp3"
+      sentence = "\"No need.\"\nVictor kept his eyes on the hole, then calmly stepped forward and swung again. The ball dropped in cleanly—no hesitation, no drama.\nAether strolled over a moment later. \"I'm sure I don't know what you're talking about. Aside from a few tiny side projects that aren't tied to LFG in the slightest, the report I handed over was already pretty thorough.\"\nVictor's brow lifted just slightly, his gaze flicking over Aether's face without breaking stride.\n\"If a full-scale machinery plant is what you call a tiny side project, then I guess your company's not exactly short on cash.\"",
+      music = "101_LiZeyan"
     },
     [4] = {
       uid = 4003,
       next = 5,
       beijing = 3500,
-      sentence = "Aether露出一副恍然大悟的样子，语气似乎很轻松：“那个器械厂啊，都是在这里搁置了好几年的项目了，不说我都忘记了。”\n\n“本来是负责研究一些辅助治疗疑难杂症的技术，但李总您也知道，医疗行业的回报很难在短期内看到，又要烧进去不少钱，一直都没有什么进展。”\n\n他的语速平稳，力求让每个字的可信度都变高。\n\n这时，李总提着球杆擦过我身侧，我不由得绷紧了呼吸，将全部的注意力放在了他的回答上。",
-      music = "101_LiZeyan",
-      voice = "est_12182_4.mp3"
+      sentence = "Aether gave a soft laugh, as if just remembering something unimportant. \"Oh, that old project? Honestly, I'd forgotten it was still sitting on the books. Been shelved for years.\"\n\"It was meant to develop tech for treating rare conditions. But you know how it is—medical R&D takes ages to show returns, and it burns through a lot of funding. Nothing's really moved forward on it.\"\nHis tone was calm, his pacing deliberate, as if every word had been practiced until it sounded just right.\nAs Victor brushed past me, club in hand, I stiffened instinctively and focused on every word he was about to say next.",
+      music = "101_LiZeyan"
     },
     [5] = {
       uid = 4004,
       next = 6,
       beijing = 3500,
-      sentence = "“听起来像是亟需处理的不良资产，一项应该列在给华锐的报告中的潜在风险。”\n\nAether脸上露出方才和我打招呼时同样的笑容：“您说得对，之后我会让负责人员尽快补齐这些小投资的报告。不过我很看好这个项目，只要等待一段时间，肯定可以盈利，如果李总也感兴趣，我可以随时带您去看看。”\n\n“有空吧。”\n\n李总已经走到下一杆的发球区处，用力一挥，我的目光随着高尔夫球飞跃了半个高尔夫球场，脚步也立刻跟着跑了过去。",
-      music = "101_LiZeyan",
-      voice = "est_12182_5.mp3"
+      sentence = [[
+"Sounds like a non-performing asset, one that should've been flagged in your report as a potential risk."
+Aether responded with the same easy smile he'd given me earlier. "You're absolutely right. I'll make sure my team updates the disclosures on those small projects. But personally, I still think it has real potential. Give it a little time, and it'll turn a profit. If you're curious, Victor, I'd be happy to show you around the site sometime."
+Victor didn't break stride. "We'll see."
+He was already stepping into position for his next shot. With a sharp swing, the ball soared across nearly half the course. I ran to follow it.]],
+      music = "101_LiZeyan"
     },
     [6] = {
       uid = 4005,
       next = 7,
       beijing = 3500,
-      sentence = "最终我在洞里找到了这个球，我起身示意一杆进洞。而那抹挺拔的身影正准备离开球场了，的确，这种程度领先，已经提前宣布了比赛的结束。\n\n我看向李总的背影，他的球风审慎，似乎不会走一些不确定的“捷径”，却能稳操胜券。\n\n我扭头转向和我有一定距离的Aether，他的嘴唇上下开合着，却非常清楚，“辛苦，今天就到此为止吧。”我微微俯身，回以致意，随后他也离开了球场。\n\n当我抱着球具回仓库整理时，老板再度进来，他的声音还是那么高亢。",
-      music = "101_LiZeyan",
-      voice = "est_12182_6.mp3"
+      sentence = "I found the ball resting squarely in the hole. I straightened up and gave the hole-in-one signal. Up ahead, Victor was already beginning to walk away in strides. With that lead, the match was essentially over.\nI watched his retreating figure. His style was steady and methodical—he didn't gamble on risky shortcuts, yet he always emerged ahead.\nThen I turned toward Aether, who stood a little ways off. His lips moved ever so slightly, but the words reached me clearly: \"Let's call it a day.\" I gave a small nod and a slight bow in acknowledgment. He, too, left the course soon after.\nBack at the warehouse, I was putting away the gear when the boss strode in again, still sounding like he had a megaphone in his throat.",
+      music = "101_LiZeyan"
     },
     [7] = {
       uid = 4006,
       next = 0,
       beijing = 3500,
-      sentence = "“今天客人给的小费很多，这些是你的。”\n\n我从他手中接过钞票，整理好塞入口袋。\n\n“你不是一直想请假去医院吗，下午就去吧，我给你批了。”\n\n好像他只要一高兴，事情就会变得非常简单。\n\n“谢谢老板，那我先走了，明天来收拾。”我笑着放下手里的球具，往外走去。",
-      music = "101_LiZeyan",
-      voice = "est_12182_7.mp3"
+      sentence = [[
+"They were really generous today. Here are your tips."
+He handed over a stack of cash. I straightened the bills and slipped them into my pocket.
+"You've been asking for some time off to go to the hospital, yeah? Why don't you go this afternoon?"
+Funny how everything became so simple when he was in a good mood.
+"Thanks, boss. I'll head out now and finish up the rest tomorrow." I set down the clubs, gave a quick grin, and stepped outside.]],
+      music = "101_LiZeyan"
     }
   },
   [12183] = {
@@ -12004,65 +12099,83 @@ The reply to Hype was two simple words:
       uid = 4007,
       next = 2,
       beijing = 1303,
-      sentence = "这个月的最后一天刚好是周日，周日的门诊量比较少，但是医院永远需要有人值班。\n\n当旁边的同事抻腰站起来的时候，我便知道又到下班时间了。\n\n“怎么又不走啊？以前入职的时候，我记得你下班可比我积极。”\n\n他一边换下白大褂，一边从储物柜里拿出一些私人物品。\n\n我转过工作椅子，面对着他，微微一笑：“今天刚好还要等一个重要的病人。”",
-      music = "03_Daily",
-      voice = "est_12183_1.mp3"
+      sentence = [[
+The last day of the month fell on a Sunday. The hospital was quieter, but it never truly slept. Someone was always on shift.
+When the colleague beside me stretched and stood up, I knew it was the end of the shift.
+"You coming? Back when you first joined, you used to bolt faster than I did."
+He shrugged off his white coat and pulled a few personal items from the locker.
+I turned to face him with a faint smile. "Still waiting on an important patient."]],
+      music = "03_Daily"
     },
     [2] = {
       uid = 4008,
       next = 3,
       beijing = 1303,
-      sentence = "同事抬手看了看手表“我们医院是有下班时间的，他迟到了，你应该让他去急诊部。”\n\n“不，我们约的时间比较晚，他不会迟到的”，我回答得很坚决，他也愣了一下。\n\n“行，你自己也注意身体啊，一天比一天晚的……”\n\n我对着电脑的屏幕，平静地等待了十五分钟后，如约听到了敲门声。\n\n“请进。”我看了过去，“怎么现在才来？最近有什么不舒服吗？”",
-      music = "03_Daily",
-      voice = "est_12183_2.mp3"
+      sentence = [[
+He checked his watch with a slight frown. "Look, this isn't a 24/7 hotel. If he's late, just send him to the ER."
+"He's not late," I said firmly. "We just agreed on a later time."
+He blinked, a little caught off guard. "Alright... Just don't push yourself too hard. You've been clocking later hours every day."
+I didn't respond. I simply stared at the screen, waiting. Exactly fifteen minutes later, I heard a knock at the door.
+"Come in," I called, looking up. "Took your time. Any discomfort lately?"]],
+      music = "03_Daily"
     },
     [3] = {
       uid = 4009,
       next = 4,
       beijing = 1303,
-      sentence = "“工作的地方假比较难请，球场忙了些。”\n\n我起身拉起隔离帘，他也撸起袖子伸出胳膊，“没有特别的情况，不过我注意到自己最近的胳膊，血管有时会格外明显。”\n\n他的手臂上确实出现了一些静脉曲张的迹象，我眼神反复地扫视着他的面容，“这很正常，每个人在手术后都有个体化差异，可能也和你的工作性质有关，熬过前面几个月后都会适应得很好。”\n\n虽然这么说着，我还是戴上塑胶手套触摸了一下，随后拆开一包一次性用具，扎带，抽血，注入密封试剂管。",
-      music = "03_Daily",
-      voice = "est_12183_3.mp3"
+      sentence = "\"Work's been crazy. Not easy to take time off when the course gets busy.\"\nI stood and pulled the privacy curtain aside as he rolled up his sleeve and offered his arm. \"Nothing major, really. Just noticed the veins in my arm lookin'... more visible lately.\"\nHis arm did show some signs of early varicose veins. I glanced over his face again, studying him carefully. \"That's pretty normal. Everyone reacts differently after the surgery. Might be related to the kind of work you do, too. Give it a few months—you'll adjust just fine.\"\nStill, I put on gloves and gently touched the area for a quick check. I opened a sterile pack, prepped the tourniquet, drew his blood, and sealed it in the sample tube.",
+      music = "03_Daily"
     },
     [4] = {
       uid = 4010,
       next = 5,
       beijing = 4360,
-      sentence = "“不过，这些个体化的差异数据对于我们而言都很重要。”我凝视着手中这管红色的血液。\n\n“我还有什么别的要注意的吗？Levis医生。”他扯下了自己的袖子。\n\n“老规矩，你知道的，不要被人知道这件事就好。”\n\n“好，下次有空见。”\n\n我尽可能自然地将这管血液贴上标签，插入试管架中，提着它穿过联结楼宇的透明走廊。",
-      music = "03_Daily",
-      voice = "est_12183_4.mp3"
+      sentence = [[
+"But, every piece of data is still valuable to us," I said quietly, watching the red liquid swirl inside the vial.
+"Anything else I should keep an eye on, Dr. Levis?" he asked while tugging his sleeve back down.
+"Same rule as always, make sure no one finds out about this."
+"Alright. Catch you next time."
+I kept my movements smooth and casual, labeling the vial and placing it in the rack. Then I picked it up and made my way through the glass corridor that connected the different wings.]],
+      music = "03_Daily"
     },
     [5] = {
       uid = 4011,
       next = 6,
       beijing = 4360,
-      sentence = "这是家蝉联世界医疗评级第一的私人医院，有专门的一片区域从事各种尖端检测，再昂贵罕见的设备都能在这家医院里找到。\n\n不过大了，管理会有疏忽也是必然，比如检查三室的技术人员也是到点就下班的人，连密码都是原始密码。我熟练地输入6个0，随着一声“滴——”，我的手一时僵在空中，另一只手下意识地将试管架藏在了身后。\n\n“你怎么进来的？”\n\n技术同事侧着眸看向我，眉毛高高扬起，好像十分惊讶，随后他又看了看我胸口别着的铭牌。",
-      music = "03_Daily",
-      voice = "est_12183_5.mp3"
+      sentence = [[
+This was the world's top-rated private hospital, with an entire wing dedicated to cutting-edge diagnostics. No matter how rare or expensive the equipment, chances are, we had it.
+But in a place this big, some things inevitably slipped through the cracks. For instance, the tech in Lab 3 always clocked out right on time, and he'd never bothered to change the lab door's default password. I typed in six zeros. With a beep, my hand suddenly froze in midair. Without thinking, I shifted the test tube rack behind my back.
+"How did you get in here?"
+I turned to find the lab tech squinting at me, one eyebrow raised high. His gaze flicked down to the ID badge on my chest.]],
+      music = "03_Daily"
     },
     [6] = {
       uid = 4012,
       next = 7,
       beijing = 1303,
-      sentence = "“我在加班，临时想加做一个检查，不想麻烦急诊的同事，便拿着原始密码随便试了下，没想到你没有修改密码，抱歉。”\n\n我语气平和，带着几分适当的歉意。\n\n“请你遵守医院的规章，Levis医生！医院在管理上远比你以为的要严多了，被发现了就坏了……”他咕哝地说着。\n\n“那明天再做吧。不过你这个时间怎么还没有下班？”\n\n我尝试着转移话题，在以往的经验里，这一招好像效果还不错。",
-      music = "03_Daily",
-      voice = "est_12183_6.mp3"
+      sentence = "\"Working late,\" I said casually. \"Wanted to run a quick test without bothering the ER team. Took a wild shot at the default password. Guess you never bothered changing it.\"\nMy tone was even, with just enough apology to keep it from sounding flippant.\n\"You really oughta follow hospital protocol, Dr. Levis. This place is way more strict than you think. If someone finds out, that's gonna be a problem…\" he muttered under his breath.\n\"Fair enough. I'll run it tomorrow, then. But hey, what're you still doing here this late?\"\nI tried steering the conversation elsewhere. To my delight, it worked.",
+      music = "03_Daily"
     },
     [7] = {
       uid = 4013,
       next = 8,
       beijing = 1303,
-      sentence = "“你不知道吗？医院的某个大投资人来了，大概是要视察一些情况吧，反正我就被临时选到来加班了。”\n\n“大投资人？之前从来没听人提起过……是什么样的人？”\n\n他的头往后微微一扬，仿佛在脑海中思索，“长得挺帅的，像亚洲那些电视剧的男主角，但是……说话很……”\n\n他耸了耸肩，话题也随之越来越远。\n\n等我摆脱完这个突发事件，回到办公室时，已经是晚上快八点了。",
-      music = "03_Daily",
-      voice = "est_12183_7.mp3"
+      sentence = [[
+"You didn't hear? One of the big investors is here today. Supposed to be checking in on something. No clue what. It's all hush-hush. I just got picked last minute to stay late."
+"An investor? First time I've heard of that. What kind of person are we talkin' about?"
+He tilted his head, like he was trying to picture him. "Good-looking, honestly. Like one of those Asian drama leads. But the way he talks, it's like... I dunno..."
+He shrugged, and the conversation slowly trailed off.
+I managed to excuse myself soon after. By the time I got back to my office, it was almost eight.]],
+      music = "03_Daily"
     },
     [8] = {
       uid = 4014,
       next = 0,
       beijing = 1303,
-      sentence = "我思索了一下，将试管架里那管血液丢入了医疗垃圾里面。\n\n不能及时检查的话，这管血液也就失去了最重要的价值，但总会再有机会的。",
-      music = "03_Daily",
-      voice = "est_12183_8.mp3"
+      sentence = [[
+I paused for a second, then tossed the vial into the biohazard bin.
+Without a timely analysis, it had already lost its real value. Still, there would be other chances.]],
+      music = "03_Daily"
     }
   },
   [12184] = {
@@ -12070,57 +12183,58 @@ The reply to Hype was two simple words:
       uid = 4015,
       next = 2,
       beijing = 1302,
-      sentence = "星期一的七点钟，我按时坐在诊疗室的座位上，屏幕上的挂号量意外地冷清，无一患者挂号。我的指尖轻轻地在键盘上跳跃，刷新了几次系统，但这个数据依然毫无变化。正当我想着这个异常情况时，屏幕上弹出了一个会议邀请通知。\n\n“这是什么？述职抽查？”我轻声询问着。\n\n“看来你就是我们科室被选去进行‘拷打’的人了，祝好运吧。”对面的同事捧着咖啡杯看向我，但是眼里分明流动着和语言完全相反的情绪。\n\n我想起之前检查室的人提到大投资人来医院视察的事情，可能这次的突然抽查也与之相关吧。",
-      music = "23_Lonely",
-      voice = "est_12184_1.mp3"
+      sentence = [[
+Monday. 7 a.m. sharp. I sat at my usual spot in the office. The appointment screen was unusually empty. Not a single patient. I tapped the keyboard idly, refreshing the system a few times. Nothing changed. Just as I was starting to wonder what was going on, a meeting invite flashed across the screen.
+"What's this? A surprise audit?" I muttered.
+"Looks like you're the lucky one they picked to grill. Best of luck." My colleague across the desk raised a coffee mug in mock salute, but there was a completely different look in his eyes than the tone in his voice.
+I remembered the lab tech's comment about the investor visit. Maybe this surprise meeting had something to do with it.]],
+      music = "23_Lonely"
     },
     [2] = {
       uid = 4016,
       next = 3,
       beijing = 1101,
-      sentence = "我第一次按下23层的按钮，来到了医院顶楼。\n\n径直走向那间标有“会议室2301”的房间，它的门口还守着两位安保人员。\n\n我出示了一下证件后，两人才放我入内。\n\n里面坐着不少人，气氛接近我记忆里面试的模样，不过这次居中而坐的人不是院长，而是一位从没见过的黑发男人，身上的气场极具威慑力。\n\n“请坐，Levis医生，不要紧张。”院长用眼角瞟了一眼黑发男人后，才对着我开口。",
-      music = "23_Lonely",
-      voice = "est_12184_2.mp3"
+      sentence = "For the first time, I hit the button for the 23rd floor—the top of the building.\nI walked straight toward the room labeled Conference Room 2301. Two security guards were stationed at the door.\nI flashed my badge. Only then did they let me in.\nThe room was already half full. The tense and formal atmosphere reminded me of an interview panel. However, this time the person sitting dead center wasn't the hospital director, but a man I'd never seen before. He had black hair, sharp features, and a presence so cold and composed it almost filled the room by itself.\n\"Take a seat, Dr. Levis. No need to be nervous.\" The director only spoke after sneaking a glance at the black-haired man, as if waiting for permission.",
+      music = "23_Lonely"
     },
     [3] = {
       uid = 4017,
       next = 4,
       beijing = 1101,
-      sentence = "“和你介绍一下，Victor，我们医院的隐名投资人，他平常都在国外，所以这次过来会抽取一些同事进行例行述职。”\n\n此时我才正式对上他的眼睛，那双深色的眼眸带着天然的距离感，让人生理性地想要移开视线。\n\n他轻轻颔首，“开始吧。”\n\n“在加入医院的半年里，我参与并负责了几项关键的手术。其中最复杂的是一项脑部介入手术，手术结果很不错，也没有接收过任何患者投诉……”",
-      music = "23_Lonely",
-      voice = "est_12184_3.mp3"
+      sentence = [[
+"Let me introduce you. This is Victor, one of the hospital's biggest investors. He's usually overseas, but since he's here now, he'll be doing some routine performance reviews."
+It was only then that I met his gaze properly. His dark eyes carried a quiet intensity that was distant and unreadable. The kind of look that made you want to glance away without realizing it.
+He gave a slight nod. "Go ahead."
+"In the six months since I joined the hospital, I've taken part in several major surgeries. One of the most complex was a cranial intervention. The operation went smoothly, and we haven't received any patient complaints..."]],
+      music = "23_Lonely"
     },
     [4] = {
       uid = 4018,
       next = 5,
       beijing = 1101,
-      sentence = "在我汇报时，Victor一直在沉静地翻着资料，而在我陈述完毕后，他的眼角才细微地抬了下。\n\n“我想听更多关于那项脑部介入手术的内容，毕竟这个手术的难度不小。”他伸手抽出一份文件，示意旁边的记录员递给我。\n\n“看下这个，Levis医生。”不知道是不是错觉，他喊我名字的时候尾音微微上扬，语调有了一些不同。\n\n我垂下眸子看了看，扉页上夹着的照片正是Ted入院前的样子，头发乱糟糟的，大概是因为那时他饱受劣化病导致的头痛折磨。",
-      music = "23_Lonely",
-      voice = "est_12184_4.mp3"
+      sentence = "Victor said nothing throughout my presentation. He just flipped through the documents with calm precision. Only after I finished did he lift the corner of his eye slightly.\n\"I'd like to hear more about that cranial procedure. That kind of operation isn't exactly simple.\" He pulled out a file and gave a small nod to the assistant beside him.\n\"Take a look at this, Dr. Levis.\" I didn't know if it was my imagination, but there was something different in the way he called out my name.\nAs I lowered my gaze and accepted the folder, I noticed something paper-clipped to the front page—a photo of Ted before he was admitted. His hair was a mess, probably from the headaches caused by his Deterioration Disease at the time.",
+      music = "23_Lonely"
     },
     [5] = {
       uid = 4019,
       next = 6,
       beijing = 1101,
-      sentence = "“你提到很成功的这台脑部手术，我没有看到任何有关患者复查随访的资料。”\n\n我突然意识到，他好像不单纯是个例行检查的管理者，这份述职看来要比我想象中要棘手一些了。\n\n我的咽喉涌动了一下，“这位患者昨天来过医院复查，自述一切良好。”反正不管我怎么说，Ted都会和我保持高度默契的回答。“是有什么问题吗？Victor先生。”\n\n“那这支写着'Ted'的血液试管，你想怎么解释？”他翻开一旁盖着的资料，手指夹着一个封存着的袋子，对着我远远地晃了下。",
-      music = "23_Lonely",
-      voice = "est_12184_5.mp3"
+      sentence = "\"You said the procedure went well,\" Victor continued. \"But I'm not seeing any follow-up documentation.\"\nThat's when it hit me—this wasn't some ordinary performance review. Whatever this was, it was going to be a lot tougher than I'd thought.\nI swallowed. \"He came in for a follow-up just yesterday. Said he was feeling fine.\" Ted would back me up no matter what I said—we'd made sure of that. \"Is there an issue, Mr. Victor?\"\nVictor flipped open another document. This time, he held up a sealed evidence bag with a blood sample vial inside, labeled plainly: Ted. \"What about this, then? Care to explain?\"",
+      music = "23_Lonely"
     },
     [6] = {
       uid = 4020,
       next = 7,
       beijing = 1101,
-      sentence = "虽然我能感受到他的眼神依旧停留在我的面容上，但我的眼角难以受控地跳动起来。\n\n“每日的医疗垃圾也在医院检查范围，这家医院的所有规则都不是幌子。”\n\n“是我的失误，当时和检查室的同事解释过了，这是个基础的血液检查而已。”我开始控制自己呼吸的节奏。\n\n那双墨色的眼眸在听到我的回答后，似乎变得更加深沉，音量不轻不重，却仿佛在捍卫某种无形的秩序。\n\n“Levis医生，道德是技术的基石。”",
-      music = "23_Lonely",
-      voice = "est_12184_6.mp3"
+      sentence = "Even though his eyes were still fixed on me, I could feel the muscles around mine twitch slightly.\n\"All medical waste is subject to review. The policies of this hospital aren't just for show.\"\n\"That was my mistake,\" I said, trying to keep my tone steady. \"I explained it to the lab tech at the time—it was just a routine test.\"\nHis eyes darkened slightly. His voice didn't rise, but every word felt like a warning etched in stone.\n\"Dr. Levis, ethics are the foundation of all medical practice.\"",
+      music = "23_Lonely"
     },
     [7] = {
       uid = 4021,
       next = 0,
       beijing = 1101,
-      sentence = "“至于这管血液的目的是什么，我会有很多办法弄明白。 ”\n\n“这只是个失效的检查而已，我不认为医院有权利这么做，这是对我也是对患者的侵权。”我倏地站了起来，目光扫向四周。\n\n院长的神色格外不悦，“请你控制情绪，注意措辞。”\n\nVictor嘴角微微抿紧，眉头微不可察地蹙了下，“我不认为Levis医生还符合你院的用人标准。”\n\n他的话音刚刚落下，门口的保安便推开门站在了我的面前，没有给我留下任何的余地。",
-      music = "23_Lonely",
-      voice = "est_12184_7.mp3"
+      sentence = "\"And as for what this sample was really for, I've got plenty of ways to find out.\"\n\"It was a failed test. That's all. You can't do that. It's an invasion of my privacy—and the patient's.\" I stood abruptly, scanning the room.\nThe director frowned, his tone sharp. \"Control yourself.\"\nVictor's lips tightened slightly. His brows creased visibly. \"I don't believe Dr. Levis meets your hospital's standards anymore.\"\nThe moment he said it, the guards at the door stepped forward. They didn't say a word—they didn't need to.",
+      music = "23_Lonely"
     }
   },
   [12185] = {
@@ -12128,25 +12242,26 @@ The reply to Hype was two simple words:
       uid = 4022,
       next = 2,
       beijing = 1302,
-      sentence = "自从上次去医院后，我一直没有收到来自医院那边复查的消息。\n\n直到第三天，我低头看着短信，一字一句地读着。“Ted先生，您好，感谢您选择我们医院进行治疗，在医院审查时，我们发现您之前所接受的手术存在问题，出于对您健康的高度重视，希望您主动来医复查。”\n\n虽然之前的手术在我看来非常顺利，但我还是决定去医院聆听一下这个“问题”。\n\n推开诊室的门，一切一如往常，但与上次不同的是，坐在桌后等待我的，换成了一位陌生的医生。",
-      music = "19_Daily02",
-      voice = "est_12185_1.mp3"
+      sentence = [[
+Since my last visit, I hadn't heard anything from the hospital about my follow-up.
+It wasn't until three days later that a message popped up on my phone. I stared at the screen and read it slowly: "Dear Mr. Ted, thank you for choosing our hospital. During an internal audit, we discovered an issue with your previous procedure. Out of concern for your health, we encourage you to return for a follow-up exam."
+Even though I was confident the surgery had gone well, I decided to go back and see what this so-called "issue" was about.
+The consultation room looked the same, but the doctor waiting inside wasn't.]],
+      music = "19_Daily02"
     },
     [2] = {
       uid = 4023,
       next = 3,
       beijing = 1302,
-      sentence = "他看起来比Levis医生年轻一些，穿着洁白的医袍。\n\n他和我对视片刻后，示意我可以坐下，“抱歉，之前为您进行脑部介入手术的Levis医生已经不在本院就职了，之后的流程都将由我和您对接，方便告知我们，您在术后的——”\n\n我忍不住打断他：“不用了，我只信任Levis医生。”随后便离开了诊室。\n\n我穿梭在走廊里，快速编辑着短信。“我这边结束了，马上来找你，Levis医生。”余光扫过身边形形色色的患者还有医护人员。",
-      music = "19_Daily02",
-      voice = "est_12185_2.mp3"
+      sentence = "He looked younger than Dr. Levis, dressed in a spotless white coat.\nAfter making eye contact, he gestured for me to sit. \"Apologies. Dr. Levis is no longer with the hospital. From now on, I'll be handling your case. Can you tell me if you've noticed any post-op—\"\nI cut him off without thinking. \"Don't bother. I only trust Dr. Levis.\" Then I got up and walked out of the room.\nAs I moved through the hospital corridor, I typed out a message quickly: \"Just finished. Coming to find you now, Dr. Levis.\" Out of the corner of my eye, I took in the crowd—patients, doctors, nurses, all weaving past each other like a living tide.",
+      music = "19_Daily02"
     },
     [3] = {
       uid = 4024,
       next = 0,
       beijing = 1302,
-      sentence = "忽然，一道声音引起了我的注意，似乎有什么人正在打电话。我抬起头，发现是一个面容憔悴的中年男人。\n\n“……劣化也没有办法了，这次我都来了这么好的医院，还是白费功夫。”\n\n我把短信上的“马上”换成了“等下”，点击了发送后便坐到那个中年男人身边。他抬头看向我，瞪了下眼，透出几分茫然。\n\n我扯出友善的笑容，用平静的语气对他说：“你好，我有一个渠道可以帮你。",
-      music = "19_Daily02",
-      voice = "est_12185_3.mp3"
+      sentence = "Suddenly, a nearby voice caught my attention. Someone was on the phone—not loudly, but with a raw kind of frustration that made me pause. I looked up and saw a middle-aged man who looked utterly drained.\n\"...I can't believe it. I came all the way to one of the best hospitals to treat the Deterioration, and I still hit a dead end,\" he muttered into the phone.\nI paused, then went back to the message on my screen. I changed \"now\" to \"in a bit\", hit send, and took a seat next to the man. He glanced over, startled, blinking at me with a vague, uncertain look.\nI gave him a calm smile and said quietly, \"Hey. I might know someone who can actually help you.\"",
+      music = "19_Daily02"
     }
   },
   [12191] = {
@@ -12154,72 +12269,97 @@ The reply to Hype was two simple words:
       uid = 4123,
       next = 2,
       beijing = 2252,
-      sentence = "启程迎亲前，我想起了几年前那个拜天地的夜晚。\n\n隔着不短不长的时光，那双亮晶晶的眼睛仍然在记忆里无比清晰地望着我。\n\n渐渐地，就连那日的月色和星河都一点点出现在脑海里。最后，我想起了那句欠着她没说完的誓言。\n\n即便那时没有说出口，但自从那天起，这句话就埋在了我的心底，再也没有忘记。\n\n只是，原来还以为会等到更正式的那天再开口。",
+      sentence = "On the morning of our wedding, just before setting off to welcome her, my mind wandered back to a night years ago—the night we bowed to Heaven and Earth together.\n\nThough not too distant, nor too near, that memory remained vividly etched in my mind. I could still see her eyes, sparkling like stars, gazing into mine with quiet certainty.\n\nAnd slowly, everything from that night returned to me—the moonlight, the river of stars overhead... and the promise I never finished saying.\n\nEven though the words never left my lips, the vow rooted itself in my heart that night. It has stayed there ever since, unwavering, unforgettable.\n\nBack then, I thought I'd save it for a more fitting, formal day. A moment worthy of those words.",
       music = "28_Double_Seventh02",
-      voice = "est_12191_1.mp3",
       special = 1
     },
     [2] = {
       uid = 4124,
       next = 3,
       beijing = 2252,
-      sentence = "但方才她雀跃又期待的声音从听筒里传来的瞬间，我就改主意了。\n\n如果她想听，那早一些说也无妨。\n\n好像从不知道什么时候开始，我所有的秩序和原则在她面前，统统都不作数了。而我竟然也心甘情愿地接受了这件事。\n\n这样真的好吗。\n\n会不会太纵容她了。",
+      sentence = [[
+But the moment her bright, expectant voice came through the phone just now, I changed my mind.
+
+If she wants to hear it, then what harm is there in saying it sooner?
+
+I don't know exactly when it began, but somewhere along the way, every rule, every principle I once lived by began to unravel in her presence. And the strange thing is... I welcomed it.
+
+Is that really okay?
+
+Am I spoiling her?]],
       music = "28_Double_Seventh02",
-      voice = "est_12191_2.mp3",
       special = 1
     },
     [3] = {
       uid = 4125,
       next = 4,
       beijing = 2252,
-      sentence = "这么想着，我看到面前铜镜里的自己露出了无可奈何的笑，就知道这一次的答案和曾经的千万次不会有什么分别。\n\n也许我根本就乐在其中。",
+      sentence = [[
+As that thought passed through my mind, I caught my reflection in the bronze mirror, letting out a resigned smile. And in that smile, I found the answer I've always known.
+
+The truth is, I love it.]],
       music = "28_Double_Seventh02",
-      voice = "est_12191_3.mp3",
       special = 1
     },
     [4] = {
       uid = 4126,
       next = 5,
       beijing = 6026,
-      sentence = "婚礼上的誓言，从古至今都有着要被见证的习俗。\n\n我对此深以为然。\n\n我并不否认其中有被笨蛋耳濡目染的成分，才会下意识地认为重要的时刻理应需要仪式感相佐。\n\n但除此之外，或许另一个原因才更为重要。",
+      sentence = [[
+Wedding vows have always been spoken before witnesses.
+
+And I've come to believe deeply in that tradition.
+
+I won't pretend I wasn't influenced by a certain hopeless romantic. She has a way of making me believe that every important moment deserves its own little ceremony.
+
+But there's something else. A reason even more significant.]],
       music = "1028_2024ancientWedding_ACCOM",
-      voice = "est_12191_4.mp3",
       special = 1
     },
     [5] = {
       uid = 4127,
       next = 6,
       beijing = 6026,
-      sentence = "我比谁都清楚，某个笨蛋一定会无条件相信我说的每个字。所以，我不难想见她听到誓言时会作何反应。会眼泪汪汪地愣在那里，接着吸吸鼻子又蹭到身前来，再傻乎乎地嘟囔些“李泽言，你真好”这样的话。\n\n我并不怀疑自己会履行这份永恒的誓约。可我的新娘太过于信任我，难免会让人想要为她邀请某种威仪或者宏大的存在来见证一切。\n\n至少这样，会有些什么站在她的那边，给她约束我和监督我的底气。\n\n这么想着，我有了答案。不如，就邀请整个时间前来观礼吧。",
+      sentence = "No one in this world believes in me as completely as a certain dummy does. Which is why I already know exactly how she'll react. She'll freeze up with tears in her eyes, sniffle a little, and then step closer and murmur something ridiculous like, \"Victor, you're really the best.\"\n\nI know I'll keep my vow. I have no doubts about that. But because my bride trusts me so unconditionally, I find myself wanting to bring something greater into that moment—something vast, something sacred—to bear witness.\n\nSomething to stand beside her. To give weight to her faith in me. To prove she's not believing blindly.\n\nAnd then I realize: what better witness than Time itself?",
       music = "1028_2024ancientWedding_ACCOM",
-      voice = "est_12191_5.mp3",
       special = 1
     },
     [6] = {
       uid = 4128,
       next = 7,
       beijing = 6026,
-      sentence = "我想过她会发现这位特殊宾客的存在，但没想过这么快。\n\n几乎在时间造访的瞬间，我手心的红绸就从另一端被悄悄捏紧了。也许是为了不被我发现，她甚至故意放轻了呼吸。只是世界太安静了，让人没办法不去注意她的一切。不论是紧张地攥着嫁衣发红的指节，还是被偷偷挑起变得歪歪扭扭的盖巾，又或者是诚实地慢下来的脚步。好像所有细节都在证明，她很喜欢这场婚礼。\n\n这样就足够了。",
+      sentence = [[
+I'd imagined she might sense the presence of that special guest... I just didn't expect her to notice so quickly.
+
+The very moment Time stepped into the room, I felt a slight pressure on the red silk in my hand as her fingers gently pinched the other end. She even softened her breath, perhaps thinking I wouldn't notice. But in that hushed world, everything about her stood out. The way her fingers gripped her gown too tightly, knuckles turning pink. The veil, askew from nervous fiddling. The shy, halting pace of her footsteps. Each small detail whispered the same truth: she truly, deeply loved this wedding.
+
+And to me, that alone made everything worth it.]],
       music = "1028_2024ancientWedding_ACCOM",
-      voice = "est_12191_6.mp3",
       special = 1
     },
     [7] = {
       uid = 4129,
       next = 8,
       beijing = 6026,
-      sentence = "我忽然觉得心安了不少，那份自筹备婚礼时，就隐约盘踞在心中的犹疑消弭了大半。\n\n可不知为何，心跳却仍然没有慢下来的意思。\n\n直到用喜秤挑开盖巾，我终于望见那双剔透的眼眸。\n\n好像什么都没有改变。她仍旧和从前一样，以为垂下头就能把紧张和喜悦藏好，却没发现自己早已经被羞红的脸颊彻底出卖。\n\n所以她大概也仍旧不会发现，被她注视着的每一分每一秒，我其实都在渴望着，能在这双眼睛里，度过自此开始的一生。",
+      sentence = [[
+A strange calm settled over me. The lingering doubt I'd felt throughout the preparations quietly melted away.
+
+And yet... my heartbeat wouldn't slow.
+
+Not until I lifted the red veil and finally saw her clear, luminous, and trembling eyes.
+
+Nothing had changed. She still tried to hide her joy and nerves by looking down but didn't realize that her blushing cheeks gave everything away.
+
+Perhaps even now, she still doesn't know, every second she's looking at me, I'm silently wishing... Wish to spend the rest of my life inside those eyes.]],
       music = "1028_2024ancientWedding_ACCOM",
-      voice = "est_12191_7.mp3",
       special = 1
     },
     [8] = {
       uid = 4130,
       next = 0,
       beijing = 6026,
-      sentence = "她是我的新娘了。\n\n从今往后的路，有她陪我一起走。\n\n在这个瞬间，我终于感到一种难以名状的安定。\n\n我想，我确实拥有了全世界。",
+      sentence = "She is my bride now.\n\nFrom this day forward, we will walk this road together.\n\nAnd in this moment—this one, quiet moment—something in me finally settled. Something I can't quite name, but have longed for all my life.\n\nI think... I really do have the whole world now.",
       music = "1028_2024ancientWedding_ACCOM",
-      voice = "est_12191_8.mp3",
       special = 1
     }
   },
@@ -24493,41 +24633,55 @@ Reporter-A opened his word processor app and also opened the chat group called "
       uid = 3891,
       next = 2,
       beijing = 1341,
-      sentence = "“棋无绝路，AI杯大师邀请赛，诚邀玉兰女士参加……”\n\n玉兰冷哼了一下，摘下了老花镜，甚至不愿意再读下去，就点掉了这封邮件。老都老了，参加这种添堵的比赛，不如去织毛线。\n\n她戴上游戏头盔，登陆了《奥德赛》，一个名为“老猫”的游戏人物便出现在了一片风景秀美的湖畔。她轻车熟路地坐到草木蔓生的长椅上，手中的细针伴随手指快速舞动，一环一扣。\n\n不知道是那封邀请函的缘故，还是今天这里确实有些不太一样，老猫有些心神不宁地扫视着周围，突然她的目光落在一处。",
-      music = "03_Daily",
-      voice = "est_22171_1.mp3"
+      sentence = [[
+"Every game can be won. The AI Cup Grandmaster Invitational hereby cordially invites you..."
+
+Serena let out a cold scoff, took off her reading glasses, and closed the email without even bothering to finish it. She was too old for this. Rather than get frustrated by some stressful competition, she might as well stay home and knit.
+
+She put on her headset and logged into Odyssey. Her character was named "Old Cat," and she appeared by a serene lakeside. With practiced ease, she settled onto a bench overgrown with greenery and began knitting. Her fingers moved swiftly, guiding the needles as she looped the yarn stitch after stitch.
+
+Yet something felt off today. Whether it was the email or a subtle change in the air, she found herself unsettled. Her gaze swept across the peaceful scene when, suddenly, her eyes landed on something strange.]],
+      music = "03_Daily"
     },
     [2] = {
       uid = 3892,
       next = 3,
       beijing = 1341,
-      sentence = "那上面怎么会多了……是棋子？苟延残喘的黑色大龙，若群狼环伺的白棋。\n\n老猫认出来，这正是她年轻时惨败于初代AI那盘残局。在她思索之前，双手已先于理性抚向了棋盒，捻住棋子在棋盘上快速移动着。\n\n在漫长犹如牢笼的千万次的复盘里，这唯一的解法她已烂熟于心。\n\n棋子伴随老猫的胜利缓缓消失，她有些颓然地坐下，甚至失去了打毛线的兴趣。\n\n她不得不承认她怀念这种感觉。挑战，和对手斗智斗勇……",
-      music = "03_Daily",
-      voice = "est_22171_2.mp3"
+      sentence = "Were those... Go pieces? The black side was back into a corner, surrounded by a formation of encroaching white stones.\n\nShe recognized it instantly. It was the same game where she had once suffered a crushing defeat against the very first AI program. Her body moved before her mind could catch up. She reached for the Go box, lifted a piece, and placed it on the board.\n\nShe knew this puzzle by heart. After replaying it a thousand times in her mind like a bird trapped in a cage, she had long memorized the only correct solution.\n\nAs the final move sealed the win, the game pieces faded away. Old Cat sat back in silence, the thrill of victory quickly giving way to an odd sense of emptiness—even the desire to keep knitting was gone.\n\nShe had to admit—she missed this feeling. The excitement of a real challenge, the mental duel with a worthy opponent.",
+      music = "03_Daily"
     },
     [3] = {
       uid = 3893,
       next = 4,
       beijing = 1341,
-      sentence = "但是被碾压的滋味犹如一道挥之不去的魔咒，围棋仿佛对她而言，已失去了最令人沉醉的理由。\n\n正当老猫陷入沉思时，耳机里传来了电脑的邮件提示声。\n\n她赶忙查看，发现是一封来自Infinite公司的邮件：“恭喜您获得《奥德赛》新模式‘狂欢夜’的内测资格，请确认是否参加。”\n\n与此同时，另一封邀请她参加AI杯大师邀请赛的邮件也躺在她的邮箱里。两封同样是比赛邀请的邮件，时间只相差了一天，让老猫陷入了犹豫。",
-      music = "03_Daily",
-      voice = "est_22171_3.mp3"
+      sentence = [[
+But the memory of that crushing defeat still clung to her like a shadow. Go had once been a passion, but somewhere along the way, it had lost its magic.
+
+Just then, the soft chime of an email notification rang in her headset.
+
+She checked it immediately. It was a message from Infinite: "Congratulations! You've been selected for early access to Odyssey's new mode, Carnival Night. Please confirm your participation."
+
+Right beneath it was the invitation for the AI Cup; the date was only one day apart. Old Cat hesitated.]],
+      music = "03_Daily"
     },
     [4] = {
       uid = 3894,
       next = 5,
       beijing = 1341,
-      sentence = "为了解更多关于“狂欢夜”的信息，老猫打开了游戏论坛。彼时站内热搜的帖子正是【惊！！内测特邀的神秘嘉宾X，竟是销声匿迹的成就党大神X】\n\n从网友的零零碎碎的讨论中，老猫了解到这次内测的玩法是一种真人推理策略游戏，听起来与围棋颇为相似，但有不少的焦点都集中在讨论“X”身上。\n\n“那现在中了资格的普通玩家，肯定是陪跑了。”\n\n现在的年轻人说话都爱夸张，老猫起初并不以然，直到看到一条来自小编A的评论，还顶着《核游快车》的认证标记。",
-      music = "03_Daily",
-      voice = "est_22171_4.mp3"
+      sentence = "She opened the game forum to learn more about \"Carnival Night.\" The top trending thread read: \"The mysterious guest L is actually the long-lost legendary achievement hunter who goes by the same name!\"\n\nFrom the scattered discussions, Old Cat learned that this new mode was a deduction strategy game, something that she felt was similar to Go. However, most of the chatter wasn't about the rules, but rather about the mysterious \"L.\"\n\n\"I feel bad for the other players. L is just gonna crush them.\"\n\nYoung people these days always love to exaggerate. Old Cat thought with a sigh—until she spotted a comment from a user called \"Editor A,\" complete with a verified badge from the website CoreGame Express.",
+      music = "03_Daily"
     },
     [5] = {
       uid = 3895,
       next = 0,
       beijing = 1341,
-      sentence = "“他一伸手就抓了稀有飞兽……所行之地，隐藏成就寸草不生……本小编当时就在现场，句句属实！对了，X唯一的弱点是不太懂美食，主城美食地图新鲜出炉，关注我，私信领取。”\n\n他长达千字的篇幅都在绘声绘色地描绘X的神秘和对于成就的信手拈来。\n\n老猫摘下老花镜，若有所思地勾了勾毛线，在《奥德赛》的邮件下，点击了“确认参加”。",
-      music = "03_Daily",
-      voice = "est_22171_5.mp3"
+      sentence = [[
+"I once saw him catch a rare flying beast with one move. There's no achievement that can evade his grasp. Apparently, L's only weakness is that he doesn't know a thing about food. Speaking of which, I have a map of every good food spot in the game. DM me for your copy now!"
+
+The entire post of over a thousand words was almost entirely dedicated to the amazing feats of L.
+
+Old Cat took off her glasses, absentmindedly twisting her yarn between her fingers. Then, after a moment's thought, she scrolled down and clicked the Confirm button inside the email from Odyssey.]],
+      music = "03_Daily"
     }
   },
   [22172] = {
@@ -24535,49 +24689,66 @@ Reporter-A opened his word processor app and also opened the chat group called "
       uid = 3896,
       next = 2,
       beijing = 4948,
-      sentence = "“欢迎您到岛上做客，我是豪宅的管家，在本次狂欢夜，您的身份是……隐狼。”\n\n老猫拢了拢手腕上被阵阵不讲礼貌的海风吹乱的毛线圈，往集合点走去，路上听着电话中的管家介绍着自己的身份。\n\n“第一天的夜晚，您会确认自己狼队友的身份，但是其余队友无法得知您的身份信息，预言家也无法检测出您的狼人身份，只有在所有狼人去世后，才能获得狼人能力。”\n\n老猫暗自腹诽着这个角色，她放弃了围棋的邀请赛来到这里，是为了找到一些博弈的快乐——胜，这是职业棋手毋庸置疑的答案。",
-      music = "52_Daily03",
-      voice = "est_22172_1.mp3"
+      sentence = [[
+"Welcome to the island. I'm the butler of this manor. For this Carnival Night, your assigned role is... the Hidden Wolf."
+
+The rude sea breeze ruffled the yarn wrapped around Old Cat's wrist. She tugged at them slightly before making her way toward the gathering point. As she walked, the butler's voice continued over the call as he explained the rules.
+
+"On the first night, you'll learn the identities of your fellow wolves. However, they won't know yours. The Seer won't be able to detect you either. You'll only gain access to your wolf powers once all the other werewolves are eliminated."
+
+Old Cat frowned. She had turned down the Go tournament to be here. She was hoping to rediscover the thrill of competition. For a professional player like her, victory was always the one and only answer.]],
+      music = "52_Daily03"
     },
     [2] = {
       uid = 3897,
       next = 3,
       beijing = 4948,
-      sentence = "如今她不得不忧虑，自己会不会遇上一群“笨狼”队友，直接面临下线这个可能。毕竟，年轻时的比赛，让她习惯了独自鏖战，面对这种团体作战，她有些无从下手地紧张了起来。\n\n晃晃悠悠间，她终于走到了汇合点，找了棵隐蔽的大树坐了下来。她盘算着一定要争取早点找到狼队友们，手里的毛线也越编越快。\n\n等毛线打完一圈，老猫开始凝神观察眼前的环境，她一贯认为，棋盘上从没有无意义的落子——就好比面前这栋奢华的大型建筑，或许就将成为“狂欢夜”的主场地。她的视线慢慢下移，又转向了眼前的日晷。",
-      music = "52_Daily03",
-      voice = "est_22172_2.mp3"
+      sentence = "However, she couldn't help but worry: what if she ended up with a bunch of incompetent teammates and got eliminated early? Years of playing alone had made her a fierce lone wolf, and the prospect of working in a team made her feel uneasy.\n\nAs she arrived at the meeting spot, she took a seat beneath a large, secluded tree. She reminded herself to focus on identifying her teammates quickly, and her knitting sped up with that thought.\n\nOnce the yarn looped back around, she looked up and started observing her surroundings carefully. In her experience, no piece on the board was ever meaningless, just like the extravagant building ahead—it must be the main stage of Carnival Night. Then, her gaze drifted away and toward an old sundial nearby.",
+      music = "52_Daily03"
     },
     [3] = {
       uid = 3898,
       next = 4,
       beijing = 4948,
-      sentence = "可这个陈旧得有些突兀的摆件立在这里……又会是什么原因呢？\n\n老猫眯着眼睛想要确认这件事情，却被指针骤然洒出的水雾吓得手里一抖，毛线球扑簌簌滚落，随着一旁草地落势径直往下。\n\n她追了几步后，发现毛线球在被人用一本书截停，她用手挡住阳光看向对方的ID。\n\n是“X”。\n\nX没有老猫想象中的那么金光灿灿，而是浑身散发着一种极致沉静感：“好像吓到您了，抱歉。”",
-      music = "52_Daily03",
-      voice = "est_22172_3.mp3"
+      sentence = [[
+It looked old and strangely out of place.
+
+Narrowing her eyes, she stepped closer to inspect it. But just as she did, the dial suddenly sprayed out a watery mist. Startled, she flinched. Her fingers slipped, and the ball of yarn tumbled from her hands, rolling across the grass and downhill.
+
+She ran after it until someone stopped the rolling yarn ball with a book. Shielding her eyes from the sun, she looked up and read the player's name.
+
+It was L.
+
+To her surprise, L wasn't dazzling or showy like how she'd expected. Instead, he had a calm, quiet presence. "Sorry if that startled you," he said with a gentle tone.]],
+      music = "52_Daily03"
     },
     [4] = {
       uid = 3899,
       next = 5,
       beijing = 4948,
-      sentence = "他弯下腰正想要捡起毛线，老猫回过神来，拒绝了这番好意，“我自己来吧。”\n\nX看上去像是个谦逊低调的青年，可是语气里那种淡漠，让老猫近乎直觉地感到这份温和更像是一种伪装。《奥德赛》里，有些玩家努力想要掠夺更多注意力，而X却像那种需要反向努力的人。\n\n下棋的时候，除了棋盘，对手的气质也是很重要的观察因素，被错认的友善，往往让天真的棋手落入被绞杀的陷阱。\n\n老猫默默地回看了下系统提示——恭喜玩家[X]完成区域隐藏成就——[日晷下的喷泉]。",
-      music = "52_Daily03",
-      voice = "est_22172_4.mp3"
+      sentence = "He bent down to pick up the yarn, but Old Cat stepped forward and stopped him. \"It's alright. I can get it.\"\n\nL seemed like a polite, modest young man, but there was something about his tone that felt too practiced. To her, his kindness felt like a mask. In Odyssey, attention and fame were something that many players sought and strived for. But L felt more like he was actively trying to do the opposite and disappear into the background.\n\nIn a game of Go, it wasn't just the board that mattered—your opponent's energy could tell you just as much. Mistaking restraint for kindness could be a deadly misread.\n\nShe glanced at her system notification: \"Player [L] has unlocked the hidden achievement: Fountain Beneath the Sundial.\"",
+      music = "52_Daily03"
     },
     [5] = {
       uid = 3900,
       next = 6,
       beijing = 4948,
-      sentence = "老猫审视地看向那边的X，但对方只是风轻云淡坐在喷泉附近看书，许久都没有再次行动，对这个有些神秘的年轻人，她心中的防备更重了，一时间不知道是希望他是队友更好，还是对手更好。\n\n就在大家寒暄的时候，一个女孩从人群中走出，很快就和X挨到了一起，她的出现倒是让那张脸上的笑多了些真切的暖意。\n\n“没有等很久，反倒是恰好有了机会，让我能够研究下古老的日晷。”\n\n老猫走在两个人身后的不远处，听着他们的对话，手中的毛线不由自主编了一个爱心。",
-      music = "52_Daily03",
-      voice = "est_22172_5.mp3"
+      sentence = [[
+Old Cat studied him quietly. L was sitting calmly by the fountain, reading his book without moving. His mysterious stillness made her even more alert. She couldn't decide if she wanted him as a teammate or an opponent.
+
+Then, a girl emerged from the crowd and joined L. Her arrival softened his expression, and his smile turned warm and sincere.
+
+"I didn't wait long," he told her. "It actually gave me a chance to study the sundial."
+
+Old Cat followed the two of them from a short distance, listening to their conversation. Without realizing it, her fingers shaped the yarn into a heart.]],
+      music = "52_Daily03"
     },
     [6] = {
       uid = 3901,
       next = 0,
       beijing = 4948,
-      sentence = "她心中忽然产生了一个直觉，这两个人或许就是这盘棋中，最重要的对手。",
-      music = "52_Daily03",
-      voice = "est_22172_6.mp3"
+      sentence = "Suddenly, she had a gut feeling. These two might be the most important players in this entire match.",
+      music = "52_Daily03"
     }
   },
   [22173] = {
@@ -24585,49 +24756,57 @@ Reporter-A opened his word processor app and also opened the chat group called "
       uid = 3902,
       next = 2,
       beijing = 4600,
-      sentence = "午宴时，老猫特地选了一个能观察X和女孩的位置坐下。两个人始终没有流露出太多关于这场游戏的讨论，只是一些随意的聊天。但与X的松弛不同，那个女孩倒是……有些微妙的食不知味。\n\n老猫隐隐觉得她或许会是自己的队友。于是故意把毛线从桌子上推了下去，任由它往X的身边滚去，目标正是那个女孩。毕竟看似不经意的邂逅，往往最能轻易地解开别人的心防。\n\n老猫满怀期许地朝着那个女孩看了过去，却直直地对上了她身边X的眼神，一种被洞察的慌乱感让她下意识地躲开了。",
-      music = "09_Suspect",
-      voice = "est_22173_1.mp3"
+      sentence = "At the luncheon, Old Cat deliberately chose a seat with a clear view of L and the girl. The two didn't talk much about the game and just exchanged light, casual banter. But while L appeared perfectly at ease, the girl seemed... oddly disengaged, picking at her food without much appetite.\n\nOld Cat had a hunch the girl might be on the same team as her. Hoping to test the waters, she subtly nudged her yarn ball off the table, letting it roll toward L—more precisely, toward the girl. After all, accidental encounters were often the easiest way to lower someone's guard.\n\nWith hopeful curiosity, Old Cat glanced toward the girl—only to meet L's eyes directly. His gaze was sharp and unreadable. Caught off guard, Old Cat instinctively looked away, feeling strangely exposed under his inquisitive gaze.",
+      music = "09_Suspect"
     },
     [2] = {
       uid = 3903,
       next = 3,
       beijing = 4600,
-      sentence = "突然她感觉有什么东西碰到了自己的脚，低头一看，自己的毛线球不知道是被谁踢回来了。\n\n老猫心不在焉地喝了一口果汁，调整了一下心态，决定直接对着女孩开口，“可以把那道菜递给我一下吗？”但话刚出口，X就把菜推了过来，“我觉得比起午餐，您好像更关注一些别的事。”\n\n老猫尽量让自己看起来像个心里不装坏事的老太太，“不好意思啊，年纪大了，爱看小情侣。吃得有点撑，我先去房间里休息了。”\n\nX不置可否地礼貌一笑，让老猫感觉，刚刚的锐利仿佛是一场多心的幻觉。",
-      music = "09_Suspect",
-      voice = "est_22173_2.mp3"
+      sentence = [[
+Just then, she felt something brush against her foot. Looking down, she found the yarn ball had been kicked back to her by someone, though she couldn't tell who.
+
+Trying to stay composed, Old Cat took a sip of juice, and decided to stop beating around the bush. "Could you pass that dish to me?" She asked the girl directly. Before the girl could react, L had already slid the plate across. "I get the feeling you're more interested in something besides lunch," he said mildly.
+
+Old Cat let out a polite chuckle, trying to appear harmless. "Apologies. I'm just an old woman who enjoys watching young couples. I think I'm going to go back to my room and rest. Enjoy your lunch."
+
+L responded with a courteous smile, saying nothing more. The sharpness from earlier faded so seamlessly that Old Cat began to wonder if it had all been in her head.]],
+      music = "09_Suspect"
     },
     [3] = {
       uid = 3904,
       next = 4,
       beijing = 3180,
-      sentence = "出于战略考虑，老猫不愿意参与午餐宴结束后的警长竞选，所以选择了提前退场。\n\n因为第一晚，狼队肯定会选择明牌好人，或者是更具有威胁力的角色，她的存在感越低，就越有助于长期存活。\n\n老猫在房内有些忐忑地等待着，属于狼人的夜晚降临。终于，作为隐狼最后行动的老猫推开了房门，她长舒了一口气。\n\n豪宅走廊里的幽暗灯光下，连白日里看起来高贵的雕花都多了几分诡谲。天才哥的皮囊横在走廊，耀目的灯光微微晃动过他，停留在几处房间的门前，引导着老猫走向狼队友的位置。",
-      music = "09_Suspect",
-      voice = "est_22173_3.mp3"
+      sentence = "For strategic reasons, Old Cat decided not to participate in the post-lunch election for Sheriff, choosing instead to quietly slip away.\n\nShe knew the wolves would likely target those who revealed their identities early or looked like they posed a threat. By keeping a low profile, she improved her odds of surviving the first night.\n\nBack in her room, she waited nervously for nightfall—the time when the wolves would take action. Finally, as the Hidden Wolf, it was her turn to move. She stepped out of her room and exhaled quietly.\n\nThe dim lighting in the hallway gave the grand mansion a sinister air. Even the ornate carvings, so elegant by day, now seemed warped and foreboding. In front of her lay the deceased body of a player named Genius Guy, the flickering light casting eerie shadows over the \"corpse\". Faint glows lingered near a few doorways—subtle markers that pointed her toward the other wolves.",
+      music = "09_Suspect"
     },
     [4] = {
       uid = 3905,
       next = 5,
       beijing = 4679,
-      sentence = "老猫心中捕猎的快感随着氛围升腾，夜晚里统观全场的感觉，让她好像找到了在棋盘上指点江山的昔日辉煌感。\n\n“光头、鼠鼠……这个是？”\n\n她的视线驻留在第三个狼队友的房间门牌上——是X身边的那个女孩。今天的警长竞选虽然她没有参加，但是通过公开信息，她也得知了，是X。\n\n女孩和X几乎形影不离的画面浮现在老猫的脑海里，她的双眉紧紧拧在一起，踱步在走廊里思索着。",
-      music = "09_Suspect",
-      voice = "est_22173_4.mp3"
+      sentence = "A quiet thrill stirred in Old Cat's chest. To stand in the dark and observe the game from above—it felt almost like she was commanding a battlefield again, like her glorious days at the Go board.\n\n\"Baldie, Mousey... who's this?\"\n\nHer eyes paused on the nameplate of the third teammate's room. It was the girl who'd been beside L all day. Although Old Cat had skipped the Sheriff election, she'd learned through public announcements that it was won by L.\n\nThe memory of the girl constantly at L's side replayed in her mind. She frowned deeply as she paced the hallway in thought.",
+      music = "09_Suspect"
     },
     [5] = {
       uid = 3906,
       next = 6,
       beijing = 4679,
-      sentence = "如果X不猜疑这个女孩，她极有可能通过X 操控好整个局面，但这是一把双刃剑，在X身边，也会加大露馅的可能性。如果狼队想要取胜，X会是最大的障碍。\n\n无意识地，老猫看向了X的房间，脑海里忽然闪过灵光。正面如果赢不了，或许只能试试看有没有别的突破路线了……\n\n由于规则限制，“隐狼”并不能在此时对其他玩家发起攻击，但是在这个无人可以出入的时间段里，她可以在豪宅里肆意地逛着，比如说，去调查一下门口那个突兀的日晷。",
-      music = "09_Suspect",
-      voice = "est_22173_5.mp3"
+      sentence = "If L didn't suspect the girl, she could potentially steer the game through him. But that advantage came with a risk—staying close to L also increased the odds of being exposed. If the wolves wanted to win, L would be their biggest obstacle.\n\nUnconsciously, Old Cat's gaze drifted toward L's room. A sudden idea flashed through her mind. If a head-on victory wasn't possible... maybe it was time to search for another route.\n\nBy game rules, the Hidden Wolf couldn't attack during this phase, but she was allowed to move freely through the mansion. Perhaps this was the perfect time to investigate that strange sundial outside the entrance.",
+      music = "09_Suspect"
     },
     [6] = {
       uid = 3907,
       next = 0,
       beijing = 3830,
-      sentence = "她很快就回到了别墅的门口，然而研究了半天也没发现任何异常，直到零点之时，日晷的下方底座下竟然浮现出点点突起，冰凉凹凸的触感让她有些不寒而栗。\n\n好像是摩斯密码？老猫并不太懂这些。\n\n但过了零点之后，那些缓缓浮现的密文就忽然消失了，老猫着急地回到房间把这些记录下来。\n\n到底是什么意思呢？老猫百思不得其解，最终扯着毛线缓缓睡着。",
-      music = "09_Suspect",
-      voice = "est_22173_6.mp3"
+      sentence = [[
+Old Cat returned to the manor's front entrance, where she spent a while fruitlessly examining the sundial. However, as the clock tolled midnight, faint bumps began to suddenly rise from the sundial's base, their cold, uneven texture sending a chill down her spine.
+
+They felt like Morse code, but she couldn't be sure. This wasn't exactly her area of expertise.
+
+As quickly as they came, the mysterious symbols slowly vanished just after midnight. Perplexed, Old Cat hurried back to her room to jot down what she could remember.
+
+What did it all mean? She puzzled over it, tugging at her yarn with furrowed brows, until sleep finally overtook her.]],
+      music = "09_Suspect"
     }
   },
   [22174] = {
@@ -24635,57 +24814,82 @@ Reporter-A opened his word processor app and also opened the chat group called "
       uid = 3908,
       next = 2,
       beijing = 2517,
-      sentence = "第二天，老猫依然保持着和第一天一样的状态，并不参与明面上的局势斗争，但是在公投结束时，她已经隐隐感到，狼人团队正在把持住局面。\n\n由于不太信任自己的狼队友们，她左思右想还是打算尽快把自己的身份和手中的信息都告诉他们。\n\n“要是今天晚上被他们给当成平民误刀了，岂不是得不偿失哟……”\n\n老猫收拾了一下毛线，打算掩人耳目地去找狼队友汇合，没想到刚刚开门，却在走廊上看到了X。",
-      music = "22_Despair",
-      voice = "est_22174_1.mp3"
+      sentence = "The next day, Old Cat maintained the same low-profile approach as before, staying out of the spotlight and avoiding direct involvement in the power plays unfolding in plain view. Still, by the time the public vote concluded, she could already sense it—the werewolves were slowly gaining control of the game.\n\nHowever, her distrust of her fellow wolves lingered. After much deliberation, she decided it would be wiser to reveal her identity and share her gathered intel before it was too late.\n\n\"If they mistake me for a civilian and take me out tonight, everything would've been for nothing.\"\n\nShe gathered up her yarn and prepared to sneak off, planning to rendezvous with her teammates without drawing attention. But just as she opened her door, she saw L standing in the hallway.",
+      music = "22_Despair"
     },
     [2] = {
       uid = 3909,
       next = 3,
       beijing = 2517,
-      sentence = "他正站在走廊的一扇窗前，仿佛在观察着什么。\n\n老猫开门的声音也吸引了他的目光，他缓缓看了过来。\n\n“我出去走走……”出于心虚，老猫竟然对着X开口解释了一句。\n\n“我恰好想找您。”X挂起笑容。\n\n老猫直觉地想要回避X,“等我散步回来吧，年轻人。”然而她走了没有几步，身后就传来X有些冰冷的声音。",
-      music = "22_Despair",
-      voice = "est_22174_2.mp3"
+      sentence = [[
+He stood by a window, gazing out as if deep in thought.
+
+The sound of her door caught his attention. He slowly turned to face her.
+
+"I'm just heading out for a walk..." Old Cat offered awkwardly, almost instinctively and out of guilt.
+
+"I was just looking for you," L replied, smiling pleasantly.
+
+Old Cat instinctively tried to evade him. "Can't an old lady get some fresh air without being questioned first?" But she had barely taken a few steps when L's cold voice rang out behind her.]],
+      music = "22_Despair"
     },
     [3] = {
       uid = 3910,
       next = 4,
       beijing = 2517,
-      sentence = "“我猜，您是隐狼。”\n\n老猫回头看向X，他仿佛只是在陈述某种事实，嘴角挂着的笑容弧度半分未减。\n\n这是X和老猫在这局游戏说的第四句话，而四句话是如此恰到好处地提前压抑住了她所有的行动，老猫不由得淡淡笑了下，把搂着的毛巾往怀里塞了几分，尽可能让自己显得临危不乱“你不能光靠猜测就认定我是狼吧。”\n\nX的视线在她的手上，略作停留：“确实是猜测，但证据就在您自己手中。”",
-      music = "22_Despair",
-      voice = "est_22174_3.mp3"
+      sentence = [[
+"If I am correct, you're the Hidden Wolf."
+
+Old Cat turned. L smiled politely, as if he wasn't confronting her, but merely stating a fact.
+
+This was only the fourth sentence they'd exchanged in the game, yet somehow, it was enough to completely cut off her next move. She gave a soft chuckle, clutching her scarf a little tighter to steady herself. "Unless you've got proof, you're just throwing random guesses."
+
+L's gaze lingered on her hands for a moment. "It is indeed a guess," he said, "but the proof is in your own hands."]],
+      music = "22_Despair"
     },
     [4] = {
       uid = 3911,
       next = 5,
       beijing = 2517,
-      sentence = "老猫脸上的笑容不受控制地僵硬住，只能任由X像是拆解一个儿童玩具一样，将她的全部策略推测出来。\n\n“一开始，我注意到，您大概是在用不同材质和粗细的线代表不同的玩家。”\n\n“您手上的毛线巾是独属于您的密码本，我尝试在第二天将一些场面上存在的信息带入您的密码本，恰好解开了。”\n\n“比如代表天才哥的应该是麻绳，因为落在围棋的气绝的位置。按照这个道理，其他人的处境和身份应该都有围棋策略的暗示。”",
-      music = "22_Despair",
-      voice = "est_22174_4.mp3"
+      sentence = [[
+Old Cat's smile stiffened. She could only watch as L unraveled the entire logic behind her game plan like he was disassembling nothing but a child's toy.
+
+"I noticed early on that you seemed to use different textures and thicknesses of yarn to represent different players."
+
+"The scarf you carry is like your personal codebook. On the second day, I tested a few pieces of publicly available information against my theory, and the results aligned perfectly."
+
+"For example, Genius Guy's token was likely represented by a hemp string, because he was placed at the position of a dying stone in a Go match. Following that pattern, the rest of the identities and positions likely correspond to Go strategies too."]],
+      music = "22_Despair"
     },
     [5] = {
       uid = 3912,
       next = 6,
       beijing = 2517,
-      sentence = "“你还懂围棋？”老猫看向X的眼里染上了几分惊喜。\n\n“只是略懂。”X微吟了下才开口，好像对老猫的这个反应也感到了一丝意外。\n\n“不过凭借这些，你不能认定我为隐狼吧。”\n\n“这是只有夜晚活动，才能看到的日晷处的密文。”X捡起一部分垂在地上的毛线围巾，上面用针线勾勒了一些点与横杠。\n\n“看来您也察觉到这些信息是有用的，所以才将它放置在了棋盘的边角处，谋求可以用到的机会。”",
-      music = "22_Despair",
-      voice = "est_22174_5.mp3"
+      sentence = [[
+"You play Go?" Old Cat looked at him with a flicker of genuine surprise.
+
+"Just a bit," L replied after a pause, almost as if her reaction had caught him off guard as well.
+
+"But even so, that's not enough to declare me the Hidden Wolf."
+
+L knelt and picked up a part of her yarn scarf that had trailed to the floor, where lines and dots had been stitched into the fabric. "This is the cipher from the sundial outside. It's only visible at night."
+
+"It seems you also realized the information was valuable and embroidered it here, placing it near the edge of your 'board' so you'd have a chance to use it."]],
+      music = "22_Despair"
     },
     [6] = {
       uid = 3913,
       next = 7,
       beijing = 2517,
-      sentence = "老猫听出了X的话语里多了一些淡淡的赞扬，但对此她只能疲惫笑了笑。\n\n“没想到，我就连在游戏里，也再次输在了围棋这件事情上。”她深呼吸了几下，开始接受如今自己又被杀得片甲不留的局面。\n\n她也想努力不让自己看起来这么挫败，输嘛，要潇洒，但是依然难以驱逐这种气力消散的疲惫感。\n\n“棋法是策略游戏，但《奥德赛》并不是一个单纯的策略游戏。”",
-      music = "22_Despair",
-      voice = "est_22174_6.mp3"
+      sentence = "Old Cat could hear a faint note of admiration in his voice, though she could only offer a tired smile in return.\n\n\"Unbelievable... Even in a game, I've been outplayed by Go again.\" She inhaled deeply, trying to accept that once more, she'd been thoroughly outplayed.\n\nShe wanted to stay composed—to lose with grace. But even so, the weight of exhaustion clung to her like a second skin.\n\n\"Go is a game of pure strateg. But Odyssey... isn't just about strategy.\"",
+      music = "22_Despair"
     },
     [7] = {
       uid = 3914,
       next = 0,
       beijing = 2517,
-      sentence = "X平静如水的声音，切断了老猫思绪的漩涡，她有些难以置信地看向X，这个年轻人，在试图宽慰她。\n\n“我来找您，是为了邀请您合作，而非审判。”X的话有些出乎老猫的意料。\n\n“什么合作？”",
-      music = "22_Despair",
-      voice = "est_22174_7.mp3"
+      sentence = "L's calm voice cut through the haze of her thoughts. She looked at him, surprised—was this young man trying to console her?\n\n\"I came to you not to accuse, but to propose a partnership,\" L said, catching her off guard once more.\n\n\"Partnership?\"",
+      music = "22_Despair"
     }
   },
   [22175] = {
@@ -24693,65 +24897,71 @@ Reporter-A opened his word processor app and also opened the chat group called "
       uid = 3915,
       next = 2,
       beijing = 2518,
-      sentence = "X希望老猫能够利用自己的角色空间，收集夜晚的日晷信息给他，老猫思考下，好像自己也没有拒绝的选项。\n\n但在第二次和X见面时，她问出了自己心中的困扰：“为什么不是选择结束游戏，而是要执着于日晷？”\n\nX正低头看着密文，闻言淡淡地开了口：“生或死、输或赢并不是唯一的终局。这个原则，对于所有游戏都适用。”\n\n直到海风吹来，老猫才发现自己已经无言地倚靠在栏杆上许久了。",
-      music = "23_Lonely",
-      voice = "est_22175_1.mp3"
+      sentence = "L had asked Old Cat to use her role's privileges to collect data from the sundial each night. After some thought, she realized she didn't really have the option to refuse.\n\nWhen they met a second time, however, she finally voiced her doubts. \"You can end the game right here and now. Why are you interested in the sundial?\"\n\nL, eyes still on the inscriptions, answered calmly, \"Life and death, victory and defeat—these are never the only outcomes. That principle holds true for every game.\"\n\nThe sea breeze drifted in, and only then did Old Cat realize how long she'd been silently leaning against the railing, lost in thought.",
+      music = "23_Lonely"
     },
     [2] = {
       uid = 3916,
       next = 3,
       beijing = 2518,
-      sentence = "围棋何尝不也是一种游戏？但是玩久了，她似乎只能看到输和赢。赢不了，她就不玩了，可是它本不应该只有非黑即白的结局。\n\n面对这些自我诘问，她这才意识到自己从未探索过，胜负之外的可能。\n\nX的话语像是锋利直切要害的手术刀，又像一面镜子，映照出问题的真面目，不留任何掩饰的余地，更是点醒了她。\n\n此刻，她有些释然地吐了口气，以前，她总是不想承认自己输了，心里却比谁都认为自己输得彻彻底底。",
-      music = "23_Lonely",
-      voice = "est_22175_2.mp3"
+      sentence = [[
+Wasn't Go also just a game? And yet, the more she played, the more her world had reduced to wins and losses. If she couldn't win, she would simply quit, refusing to see any other ending.
+
+But now, faced with her own reflection, she realized she had never explored what might lie beyond the binary of triumph and failure.
+
+L's words had pierced her like a scalpel. Or perhaps they were more like a mirror, revealing truths she'd long avoided. At that moment, something within her quietly shifted.
+
+She exhaled, finally letting go of the pressure she'd always carried. She'd never wanted to admit defeat, but deep down, only she knew how completely she had already lost.]],
+      music = "23_Lonely"
     },
     [3] = {
       uid = 3917,
       next = 4,
       beijing = 2518,
-      sentence = "那场几十年前的局，或许已分过一次胜负，但这次，或许会有别的答案。\n\n夜晚再度降临，老猫被耳朵里传来的系统声音，赶回了房间。在房间里她有一下，没一下地拆解着毛巾。\n\n她原本只是出于缓兵之计才答应和X进行交易，她总想着，只要X不拆穿她的身份，总有一天狼人的刀便会落在他的头上。\n\n可如今，这些想法都在她的脑海里消散了。这个年轻人似乎并不在乎这些可能，或者说，他也有足够的实力抹去这些可能。",
-      music = "23_Lonely",
-      voice = "est_22175_3.mp3"
+      sentence = "That match decades ago might've already sealed its outcome. But this time—this game—perhaps a different answer could emerge.\n\nAs night fell once more, the voice in her earpiece summoned her back to her room. She sat quietly, unraveling her yarn scarf, one thread at a time.\n\nShe had initially agreed to cooperate with L only as a stalling tactic. In her mind, as long as he didn't expose her, the wolves would eventually handle him.\n\nBut those thoughts had faded. L didn't seem concerned with that possibility. Perhaps he was just that confident in his abilities.",
+      music = "23_Lonely"
     },
     [4] = {
       uid = 3918,
       next = 5,
       beijing = 3180,
-      sentence = "他所看到的这个游戏的脉络是规则之外的，他所渴望的结局，更不以阵营划分。\n\n老猫确实有些佩服这个年轻人，此时，她手里的毛线巾已经拆解殆尽了。\n\n她也打算修改一下自己的策略，去看看胜景之外的风景。\n\n“明天要记得问问他，日晷上到底是什么……”\n\n老猫提醒着自己，躺在床上打算等待第三个晚上的降临，但她没有想到的是，那天夜里自己便成为了狼人暗杀的对象。",
-      music = "23_Lonely",
-      voice = "est_22175_4.mp3"
+      sentence = "L saw patterns in the game that lay beyond its rules, just like his desired ending wasn't defined by factions.\n\nOld Cat found herself quietly admiring the young man. Her yarn scarf was now completely undone.\n\nAnd with it, her strategy had unraveled too. She decided it was time to revise her approach—to look beyond the battlefield and toward the view beyond it.\n\n\"Tomorrow,\" she reminded herself, \"I'll ask him what the sundial really says...\"\n\nShe lay down, waiting for the third night to fall—never expecting that it would be her final night, and that she'd become the wolves' next target.",
+      music = "23_Lonely"
     },
     [5] = {
       uid = 3919,
       next = 6,
       beijing = 3025,
-      sentence = "老猫回到了集合大厅，却没有想象中的懊丧，反而有些喜悦。毕竟，现在自己可以从另外一个视角看完整个故事了。\n\n随着X抱着女孩坠入水池，老猫也看到了在X房间里，留下的那些日晷的破译文字，原来日晷的密文上刻写的是提示狼队的话语。\n\n“秘密的主人存在于你的绝对信任的同伴里”、“日晷终会朝着豪宅主人的方向转动，唯有她，才能重塑这片荒岛。”\n\n老猫淡淡一笑，X从一开始解开日晷谜题的时候，恐怕就猜到了，豪宅的故事里有着藏在表象之下的情节。",
-      music = "23_Lonely",
-      voice = "est_22175_5.mp3"
+      sentence = "When Old Cat returned to the main hall, she didn't feel defeated. If anything, there was a strange sense of peace. Now, she could observe the rest of the story unfold—from a new vantage point.\n\nAs L carried the girl into the pool, Old Cat caught a glimpse of the decrypted sundial notes he had left behind. The inscriptions had been messages—coded clues left for the wolves:\n\n\"The one who guards the secret is hidden among those you trust without question.\" \"The sundial will always turn toward the mansion's true master. Only she can restore this forgotten island.\"\n\nOld Cat smiled faintly. It was clear now—L had understood from the beginning that there was a deeper narrative beneath the surface of this mansion.",
+      music = "23_Lonely"
     },
     [6] = {
       uid = 3920,
       next = 7,
       beijing = 4273,
-      sentence = "而规则之下，单纯执着于阵营的输赢，只会囚禁住所有人。\n\n是啊，真正的答案，在胜负之外。\n\n下了线的老猫，重新戴上了自己的老花镜，将案桌上的毛线通通收到了柜子里。\n\n她再度点开自己邮箱，从回收站里拖出那封邮件——AI杯国际大师邀请赛，缓缓地答复起来。\n\n“我是玉兰，我很愿意参加这场邀请赛，如果赛程足够长，请允许我晚点抵场……”",
-      music = "23_Lonely",
-      voice = "est_22175_6.mp3"
+      sentence = "Playing under the manor's rules and clinging to a team victory would only serve to imprison everyone here.\n\nYes... the real answer was never about winning or losing.\n\nOffline, Old Cat put on her reading glasses and carefully put her yarn away.\n\nShe reopened her email, retrieved the crumpled message from her trash—the invitation to the AI Cup Grandmaster Invitational—and began to type.\n\n\"This is Serena. I'd be honored to participate. If the schedule allows, I may arrive a little late...\"",
+      music = "23_Lonely"
     },
     [7] = {
       uid = 3921,
       next = 8,
       beijing = 4273,
-      sentence = "回复完毕后，她搬出了一张落尘的棋盘，拖出自己丢在床下的几筐棋谱，重新参悟再次打谱。\n\n或许再和AI一战，她的结局是也是显而易见的失败，但是，这又如何呢？\n\n就像这些棋谱里所记载的残局，并非来自所向披靡的棋手，而是那些穷极岁月，都在拓宽棋盘边界的人……\n\n那个年轻人，让她重新捡回了这颗心。",
-      music = "23_Lonely",
-      voice = "est_22175_7.mp3"
+      sentence = [[
+After replying, she pulled out a long-forgotten Go board, dragged out the baskets of records she'd stashed under her bed, and began studying them once again.
+
+Perhaps she would lose to AI once again. But why did it matter?
+
+These endgames weren't preserved because they led to flawless victories, but because they were played by those who, across the span of years, dared to push the edge of the board.
+
+That young man had helped her reclaim that forgotten resolve.]],
+      music = "23_Lonely"
     },
     [8] = {
       uid = 3922,
       next = 0,
       beijing = 4273,
-      sentence = "这样想着，玉兰翻开了泛黄的棋谱，却忽然发现背面留有一句话。\n\n那或许是年轻时玉兰写下的话语，连她自己都不记得了。如今，她轻抚着这行字，眼中泛光。\n\n“善弈者谋势不谋子，正如求道不求胜。”",
-      music = "23_Lonely",
-      voice = "est_22175_8.mp3"
+      sentence = "As she turned the brittle pages of an old game record, something handwritten on the back caught her eye.\n\nShe didn't even remember writing it—it must have been something from her youth, long faded with time. She ran her fingers over the ink, tears glittering in her eyes.\n\n\"A true player seeks strategy, not moves—just as a true seeker seeks the path, not victory.\"",
+      music = "23_Lonely"
     }
   },
   [22181] = {
@@ -24759,89 +24969,118 @@ Reporter-A opened his word processor app and also opened the chat group called "
       uid = 3960,
       next = 2,
       beijing = 4930,
-      sentence = "晚上九点三十分，科创大厦安保部交班的时间。\n\n等我填好交接人员表的时候，白班的保安们已经把各楼层安全门的钥匙抛在我面前，兴高采烈地讨论待会去哪喝酒了。我低头数了数，少了一把，是十三楼的。这样的事并不少见，隔三差五就会发生一次，所以并没有什么值得紧张的，更别说我大概知道那把丢失的钥匙在哪。\n\n我拿起对讲机走入监控中心，这里一共有十五块监视屏幕，对应着各个楼层的主监视器。我拨动着切换按钮，鼻尖能闻到淡淡的烟味儿。",
-      music = "48_Quiet_Daily",
-      voice = "est_22181_1.mp3"
+      sentence = "9:30 PM—shift change time for the security team at the Science Tower.\nBy the time I finished filling out the handover form, the day-shift guards had already tossed the floor keys in front of me and were excitedly chatting about where to grab drinks. I glanced down and counted—one was missing. Thirteenth floor. It wasn't anything new. Stuff like this happened every few days. I wasn't too worried. In fact, I had a pretty good guess where the missing key had ended up.\nI picked up the walkie-talkie and stepped into the monitoring room. Fifteen screens lit up the wall, each tied to a different floor's main feed. I flipped through them one by one, the faint smell of cigarette smoke still lingering in the air.",
+      music = "48_Quiet_Daily"
     },
     [2] = {
       uid = 3961,
       next = 3,
       beijing = 4930,
-      sentence = "整个科创大厦都是禁烟区，不用说，那群白班保安一定是找到了一块新的“吸烟区”，偷偷做着违禁的事。\n\n我瞅了眼墙上的钟，已经九点四十分了。九点五十分得开始全楼巡查，要在那之前把十三楼的钥匙找到才行。\n\n很快一层的显示器被我按了个遍，终于，我在后门处看到了一缕飘忽的白烟。\n\n“小王，整个园区都是禁烟的，掐了吧。”\n\n我话音未落，显示器上的人影就猛地颤了一下，估计是被我突如其来的声音吓了一跳。",
-      music = "48_Quiet_Daily",
-      voice = "est_22181_2.mp3"
+      sentence = "The whole tower was supposed to be a smoke-free zone, which meant the day-shift guys had probably discovered a new \"secret spot\" to sneak a puff.\nI checked the wall clock—9:40 p.m. My patrol had to start at 9:50, and that gave me ten minutes to find the missing key.\nI cycled through the ground-floor cameras. Finally, near the rear exit, I caught sight of a faint trail of smoke drifting up.\n\"Wayne, the whole campus is non-smoking. Put it out,\" I said into the walkie.\nThe guy on screen flinched hard, clearly startled by my voice coming out of nowhere.",
+      music = "48_Quiet_Daily"
     },
     [3] = {
       uid = 3962,
       next = 4,
       beijing = 4930,
-      sentence = "屏幕上一个瘦高的年轻男人默默把烟头丢在脚边，转身扶了下额头上的帽子，对着摄像头露出他那张嘴角挂痣的笑脸。随着对讲机里的推门声响起，小王的身影也在一层的显示器上闪现。\n\n“夏哥，你什么时候休假回来的，我都不知道你今晚值班。”\n\n“知道的话，我肯定喊你来陪一根了。”\n\n我清了清嗓子，把对讲机凑得的更近了点。\n\n“年纪大，抽不动了。”",
-      music = "48_Quiet_Daily",
-      voice = "est_22181_3.mp3"
+      sentence = [[
+A tall, skinny young man dropped the cigarette by his feet, then turned and adjusted the cap on his head. He gave the camera a sheepish grin, showing off the signature mole by the corner of his mouth. A second later, the door buzzed, and he stepped into view on the monitor.
+"Yo, Marco! When did you get back from leave? Didn't even know you were working tonight."
+"If I'd known, I would've saved you a smoke."
+I cleared my throat and brought the walkie closer.
+"Getting old. Trying to quit."]],
+      music = "48_Quiet_Daily"
     },
     [4] = {
       uid = 3963,
       next = 5,
       beijing = 4930,
-      sentence = "“您这是哪儿的话，咱们队里数您最健壮了。”\n\n“十三楼的钥匙是不是在你这？”\n\n我看着显示屏上小王的身影明显一顿，随后开始在口袋里翻了起来，没过多久，我就看到他从口袋里拿出了一串明晃晃的钥匙。\n\n“我还以为交班前给队长了，没想到忘身上了。”\n\n“不过听说您这次回去是看病来着，应该没啥问题吧。”\n\n“老病根了，没事的话就赶紧回来，快到时间了。”",
-      music = "48_Quiet_Daily",
-      voice = "est_22181_4.mp3"
+      sentence = [[
+"Nonsense! You're the most fit one on the team."
+"You got the keys to the thirteenth floor?"
+He immediately started patting his pockets, clearly searching. A moment later, he pulled out a shiny ring of keys.
+"Thought I gave it to the captain before I clocked out. Must've left it on me."
+"By the way... heard you were out seeing a doctor. Everything okay?"
+"Just the usual. Nothing serious. Now bring that key over. My patrol's about to start."]],
+      music = "48_Quiet_Daily"
     },
     [5] = {
       uid = 3964,
       next = 6,
       beijing = 4930,
-      sentence = "“放心，我马上就来给你，保准不耽误今晚的巡楼时间，我知道您最一丝不苟了。”\n\n我抬头看了眼时间，距离巡楼开始，还有五分钟。\n\n解决了迫在眉睫的问题，我的身体下意识发起了呆。\n\n明明盯着显示器，却只得任由视线散开焦距，怎么都集中不了精神。\n\n从身体状况判断，我可能不再适合这份夜间保安的工作了。",
-      music = "48_Quiet_Daily",
-      voice = "est_22181_5.mp3"
+      sentence = [[
+"I'm on my way. Can't have you late for your patrol!"
+I glanced at the time; still five minutes left.
+With the immediate issue handled, I felt my mind start to drift.
+My vision blurred, focus slipping even though I was staring straight at the screens.
+Maybe I am getting a little too old for this whole night shift thing.]],
+      music = "48_Quiet_Daily"
     },
     [6] = {
       uid = 3965,
       next = 7,
       beijing = 4930,
-      sentence = "一分钟以后，监控中心的门被打开了，随之而来的是最近很流行的一首电音的口哨旋律，估计又是他看短视频时学会的。\n\n“夏哥，接着。”\n\n半侧过身子，视线中的钥匙在半空中划过一道弧线，我只好伸手去抓住。这下整栋楼的钥匙都齐整了。即便抽了一根烟，我却还能从小王努力克制的眼角看出几分疲惫。科创大楼的白班往往并不太消耗精力，如果不是他最近熬夜太频繁，那就只可能是我不在的这几天，发生了什么事。\n\n我咳嗽了两声，让自己的语气尽量严肃。",
-      music = "48_Quiet_Daily",
-      voice = "est_22181_6.mp3"
+      sentence = [[
+A minute later, the door creaked open, and Wayne walked in while whistling an EDM tune that had gone viral recently. Probably something he picked up from doom-scrolling those video apps.
+"Catch!"
+I turned in time to see the keys arcing through the air, forcing me to catch them in midair. Even though he'd just had a cigarette, I could still see the fatigue in his face. He was trying to hide it, but it still clung to the corners of his eyes. Day shifts here usually weren't that taxing. If he looked this drained, either he hadn't been sleeping... or something had gone down while I was off.
+I coughed lightly and tried to make my tone sound more serious.]],
+      music = "48_Quiet_Daily"
     },
     [7] = {
       uid = 3966,
       next = 8,
       beijing = 4930,
-      sentence = "“我不在的这几天，有什么特别的事吗？”\n\n“别提了，您这一休假，上面就来活儿了。”\n\n“说是这几天北教授的实验室要和最高生命科学研究所联手搞什么大项目，要提高巡查力度。”\n\n“弄得我们这白班也摸不了鱼了。”\n\n他一边打着哈欠，一边指了指放在桌角的一堆文件，我知道那是每日安全检查要涉及的项目。\n\n“之前检查这些项目大家意思意思就得了，最近可是动了真格。”",
-      music = "48_Quiet_Daily",
-      voice = "est_22181_7.mp3"
+      sentence = [[
+"Anything unusual happen while I was out?"
+"Oh man, don't even get me started. The second you took leave, everything kicked off."
+"Apparently, Professor Bates' lab is partnering up with Ultima Bioresearch on some big project. Management wants tighter security all around."
+"Even the day shift guys can't slack off anymore."
+He yawned and pointed toward a messy stack of documents piled on the desk. I recognized them immediately. They were the inspection logs for our routine safety checks.
+"Back then, we just kinda skimmed through those. But now? They're not messing around anymore."]],
+      music = "48_Quiet_Daily"
     },
     [8] = {
       uid = 3967,
       next = 9,
       beijing = 4930,
-      sentence = "“最麻烦的是，还真给我们检查出点问题了，白班的哥几个正发愁呢。”\n\n我翻开文件，果然在十三楼的门禁处发现了一条“待复查”项目。\n\n“门禁开关老化，更新前请日班夜班的相关人员至少检查一次，以保证开闭正常。”\n\n我盯着手中的报告点了点头，脑海里忽然冒出了一个问题。\n\n“来北教授的实验室，是生科所的什么人？”",
-      music = "48_Quiet_Daily",
-      voice = "est_22181_8.mp3"
+      sentence = [[
+"The worst part? They really did find something during the inspection. The day shift guys are still busting their ass over it."
+I opened the file and, sure enough, spotted a flagged item under the 13th-floor access system.
+"The access control switch is falling into disrepair. Until it's replaced, both day and night shift staff must double-check its function to ensure proper operation."
+I nodded as I read, but something else popped into my head.
+"How many people did they send to work at Professor Bates' lab?"]],
+      music = "48_Quiet_Daily"
     },
     [9] = {
       uid = 3968,
       next = 10,
       beijing = 4930,
-      sentence = "“就一个，北教授那边负责接待的贾研究员之前就报备过了。”\n\n“这几天进进出出的，摄像头肯定也拍到了。”\n\n小王在备用显示器上调出前几天闸机口的录像，指着画面上一个颇为高挑俊朗的男子说道。\n\n“就是他，我记得好像在电视里见过好几次，应该挺有名的吧。”\n\n监控器里男子手里的袋子很薄，薄得只容得下几张打印纸，在行色匆匆的人群中格外醒目。",
-      music = "48_Quiet_Daily",
-      voice = "est_22181_9.mp3"
+      sentence = "\"Just one guy,\" Wayne replied. \"Jake from Professor Bates' team already logged his visit.\"\n\"He's been in and out the past few days and already shown up a few times on the surveillance.\"\nHe pulled up the gate footage on the spare monitor and pointed to a tall, well-dressed man in the frame.\n\"That's him. I've seen him on TV a few times, I think. Probably someone pretty famous.\"\nThe guy stood out—not just because of his looks, but because he was carrying this super-thin folder, like it barely held more than a few sheets of paper. In the fast-moving crowd, it practically screamed for attention.",
+      music = "48_Quiet_Daily"
     },
     [10] = {
       uid = 3969,
       next = 11,
       beijing = 4930,
-      sentence = "闸机门前的摄像头刚好拍下他胸前挂着的工牌。\n\n最高生命科学研究所，许墨。\n\n我起身拿着手电筒，拍了拍正在整理工具的小王。\n\n“跟我走。”\n\n“去哪儿啊，我这刚准备下班呢。”\n\n“按照条例，当在夜间排查安全隐患时，需要两人一组。”",
-      music = "48_Quiet_Daily",
-      voice = "est_22181_10.mp3"
+      sentence = [[
+The camera angle clearly showed the badge clipped to his chest.
+Ultima Bioresearch, Lucien.
+I grabbed my flashlight and gave Wayne, who was still tidying up his tools, a tap on the shoulder.
+"Let's go."
+"Huh? Go where? I was just about to clock out."
+"Regulations say night patrols need two people."]],
+      music = "48_Quiet_Daily"
     },
     [11] = {
       uid = 3970,
       next = 0,
       beijing = 4930,
-      sentence = "“今晚值班的就我一个，你得跟着来。”\n\n“不是吧，这么倒霉……”\n\n九点五十分，到规定的巡楼时间了。",
-      music = "48_Quiet_Daily",
-      voice = "est_22181_11.mp3"
+      sentence = [[
+"I'm the only one on shift tonight. You gotta come with me."
+"Man, are you serious?"
+By 9:50, right on the dot, we began our scheduled patrol.]],
+      music = "48_Quiet_Daily"
     }
   },
   [22182] = {
@@ -24849,65 +25088,81 @@ Reporter-A opened his word processor app and also opened the chat group called "
       uid = 3971,
       next = 2,
       beijing = 2070,
-      sentence = "夜间十点十分，楼层巡查到了第五层。\n\n这一层主要是负责器械研究的工作室，在我的印象里，比起一些明确的安全隐患，他们更害怕这里遭小偷，所以特别设置了两种不同的门锁。\n\n对于他们楼层的检查，我也是格外打起精神，直到确认最后一道门锁也关闭无误，才转身走向安全通道。\n\n为了防止有人从外部以非常规手段进入，安全通道内每隔五层才会有一扇狭小气窗，是鸟都无法落脚的那种狭小。",
-      music = "204_Affectionate_Scene",
-      voice = "est_22182_1.mp3"
+      sentence = [[
+At 10:10, we reached the fifth floor.
+This level was mostly equipment labs. From what I remembered, they weren't particularly worried about safety risks, but theft was a real concern, so they had a dual lock system for extra security.
+I focused more than usual during this check. Not until I'd confirmed the final lock was secure did I turn toward the stairwell.
+To guard against break-ins, the emergency stairwell only had tiny ventilation windows every five floors. Narrow slits, barely big enough for a bird to perch on.]],
+      music = "204_Affectionate_Scene"
     },
     [2] = {
       uid = 3972,
       next = 3,
       beijing = 2070,
-      sentence = "我顺着阶梯走着，忽然一阵晃悠悠的手电筒晃过我的视线。一起巡逻的小王正靠在六层的门口，怀中的手机散发着五颜六色的光。\n\n我知道那绝不是外联监视器所发出的光，因为在夜晚的实验室里，除非出现重大灾情，那样多彩的亮光并不会出现在手机上。\n\n我瞥了一眼。果然，屏幕上不断跃动的游戏画面。\n\n我推开了六层的安全门，面前是熟悉的狭长走廊。这里被很多初创的研究所承包，隔断成一个个相互独立的区域，在夜间关灯巡查的保安眼里就像是一个小迷宫。",
-      music = "204_Affectionate_Scene",
-      voice = "est_22182_2.mp3"
+      sentence = "As I made my way up the stairs, a flashlight beam flickered across my vision. Wayne was leaning casually against the sixth-floor door, his phone lighting up his face in a swirl of garish colors.\nI knew that kind of glow definitely wasn't from any surveillance app, unless something just blew up and made a rainbow explosion.\nI glanced his way—sure enough, he was glued to some mobile game.\nI pushed open the sixth-floor security door. A long, narrow, and familiar corridor stretched out ahead. This floor had been subdivided and leased out to several small startups. At night, with the lights off and the partitions casting shadows, the whole thing looked like a makeshift maze.",
+      music = "204_Affectionate_Scene"
     },
     [3] = {
       uid = 3973,
       next = 4,
       beijing = 2070,
-      sentence = "小王跟在我身后，时不时还用手电筒照着自己摆出鬼脸的样子，他总把这种和工作无关的事，叫做“生活的调剂”。\n\n“对了夏哥，你知道最近有部电影很火吗？里面有个桥段，就是保安在研究所里遇到了恐怖怪物……”\n\n他的嗓音瓮声瓮气，刻意模仿着恐怖电影里面的气氛。\n\n“嗯，知道。”\n\n我低头检查着门锁，嘴上简单回答着。",
-      music = "204_Affectionate_Scene",
-      voice = "est_22182_3.mp3"
+      sentence = [[
+Wayne followed behind, occasionally flashing his light on his face and pulling goofy expressions. He would always say it was "just a little fun to keep the shift from feeling endless."
+"Oh, by the way," he said, voice low and spooky, "you heard about that new movie? The one where a security guard runs into a freaky lab monster at night..."
+He dragged out his words dramatically, mimicking a narrator from a horror movie.
+"Yeah,"
+I said without looking up, still checking the locks. "I've heard of it."]],
+      music = "204_Affectionate_Scene"
     },
     [4] = {
       uid = 3974,
       next = 5,
       beijing = 2070,
-      sentence = "“挺潮啊，这都知道。”\n\n“感觉不像你这个年纪会去看的，血管还撑得住吗？”\n\n当不知道怎么解释一些你本不该了解的东西时，沉默是一个颇为万能的理由。\n\n“我就怕我们这个科创大楼，哪天有个什么疯子科学家也研究出那种东西。”\n\n所以他总是抱着肩膀，说这样更有安全感，大概在那部电影里能找到原因。\n\n“不做保安，就没有那种安全事故了。”",
-      music = "204_Affectionate_Scene",
-      voice = "est_22182_4.mp3"
+      sentence = [[
+"Damn, didn't think you were that up-to-date with pop culture."
+"Doesn't really feel like the kind of movie you'd be into. You sure your heart can take the jump scare?"
+When you don't know how to explain why you're familiar with something you probably shouldn't be, silence usually works best.
+"I just keep thinking... what if one day someone in our building, some mad scientist or something, actually creates that kind of monster?"
+Maybe that's why he always crossed his arms tight against his chest, saying it made him feel safer. Probably just too many horror movies.
+"If it scares you that much, just quit the job."]],
+      music = "204_Affectionate_Scene"
     },
     [5] = {
       uid = 3975,
       next = 6,
       beijing = 1691,
-      sentence = "我的意见相当中肯，但是对方似乎不屑一顾。\n\n“现在哪有什么工作比保安清闲。”\n\n他走到电梯旁，按下了上行的按钮。\n\n“走累了，坐电梯上去吧。”\n\n“按照规定，夜间巡逻需要走安全楼梯，检查各层开闭情况。”\n\n“都没人看也不装装样子，怪不得大家总说你是个怪人。”\n\n“怪不重要，这一行，规矩最重要。”",
-      music = "204_Affectionate_Scene",
-      voice = "est_22182_5.mp3"
+      sentence = [[
+I thought I had made a reasonable point, but Wayne only scoffed.
+"Come on, name a job that's more chill than being a security guard these days."
+He strolled over to the elevator and hit the button.
+"My legs are tired. Let's take the elevator."
+"Regulations state patrols have to be done on foot at night. Gotta check every floor's access points manually."
+"Who's gonna tell on us? No wonder everyone says you're kind of a freak."
+"Doesn't matter what they think. In this job, rules come first."]],
+      music = "204_Affectionate_Scene"
     },
     [6] = {
       uid = 3976,
       next = 7,
       beijing = 1691,
-      sentence = "“时间到了，该去下一层了。”\n\n十一点二十分，十三层的巡查开始了。\n\n“我胆子小，在这等你。”\n\n他说完就靠在路口，我知道那是偷懒的说辞，但我也知道不应该在现在戳穿。\n\n十三层，大家都称呼它为“胶囊研究所”。\n\n因为这里的北教授是鼎鼎有名的胶囊研究员，专利颇多，业务也很广，楼层物业对他们的要求往往也格外上心。",
-      music = "204_Affectionate_Scene",
-      voice = "est_22182_6.mp3"
+      sentence = "\"Time's up. Next floor.\"\n11:20 PM. Time to patrol the 13th floor.\n\"I'll wait here. Not really in the mood to get creeped out.\"\nHe leaned back against the corridor wall. I knew it was just an excuse to slack off, but this wasn't the moment to call him out.\nMost people call this place the Capsule Lab.\nProfessor Bates ran his capsule research team here. The guy was a big name—tons of patents, clients in all kinds of industries. Even the building management takes their request more seriously.",
+      music = "204_Affectionate_Scene"
     },
     [7] = {
       uid = 3977,
       next = 8,
       beijing = 1691,
-      sentence = "确认完其它门禁后，我踱步走过几个拐角，去检查文件上标注的待确认区域。办公区域的门虽然已经换上了最新的门禁系统，可毕竟是实验室初期的产物，在开合处明显的摩擦痕迹还是彰显着它的陈旧。\n\n我尝试推了推门，随着剧烈的咔嚓声传来，门居然意外地打开了。我知道并不是寻常状况，门禁系统的错漏也不会影响正常闭合。我开始在附近寻找着原因，直到在门的缝隙间看到了一张被折弯的工牌。\n\n工号13010，上面挂着的照片被压坏了一角，可我还是认出，工牌的主人是北教授身边的贾研究员。",
-      music = "204_Affectionate_Scene",
-      voice = "est_22182_7.mp3"
+      sentence = "After finishing up the other access checks, I made my way around a few corners to inspect the final flagged section. Even though the office door had already been upgraded with a newer access system, you could still see marks of its age from the lab's earliest days.\nI gave the door a push. With a loud crack, it unexpectedly popped open. That wasn't supposed to happen. Even if the system glitched, the lock should've held. I started looking around for a reason—then noticed something jammed in the doorframe: a bent ID badge.\nEmployee ID: 13010. The photo was damaged at one corner, but I recognized the face instantly—it belonged to Jake, Professor Bates' assistant.",
+      music = "204_Affectionate_Scene"
     },
     [8] = {
       uid = 3978,
       next = 0,
       beijing = 1691,
-      sentence = "我环顾四周，这里并没有人依旧在工作的迹象，只是在不远处的桌上，发现了一份“Evol治疗方案研究。”\n\n我下意识地朝前想靠近那份研究，但头顶的摄像头闪烁的红点提醒了我。我抿了抿嘴，将工牌揣进口袋里，等待明天早晨交还给他。",
-      music = "204_Affectionate_Scene",
-      voice = "est_22182_8.mp3"
+      sentence = [[
+The lab looked deserted. No signs anyone had stayed behind. On a desk nearby sat a folder titled: "Evol Treatment Plan: Research Draft."
+I stepped forward on instinct, but the faint blinking red light from the security camera above made me pause. After a moment's hesitation, I slipped the ID into my pocket and decided I'd return it to him tomorrow.]],
+      music = "204_Affectionate_Scene"
     }
   },
   [22183] = {
@@ -24915,41 +25170,49 @@ Reporter-A opened his word processor app and also opened the chat group called "
       uid = 3979,
       next = 2,
       beijing = 4577,
-      sentence = "“贾研究员，你工卡又坏了，记得去补办。”\n\n“哈哈哈，真谢谢了。”\n\n当我走进科创大厦的时候，就被身边的门卫叫住了。\n\n我和对方并不熟，只是在下夜班的时候草草见过两次这个叫做老夏的门卫。我笑着说了声谢谢，从对方手中接过了被压弯的工牌。\n\n即便是对待不熟悉的人，笑容也必须时刻保持标准。\n\n这是北教授教导我的，绝对不能忘记的事。",
-      music = "30_WarmSnow",
-      voice = "est_22183_1.mp3"
+      sentence = [[
+"Hey, Jake, your badge's busted again. Don't forget to get it replaced."
+"Haha, thanks. Really appreciate it."
+When I walked into the Science Tower, the gate guard called out to me.
+We seldom spoke. I only knew his name was Marco. I smiled and gave a quick thanks as I took the bent ID from his hand.
+Even with strangers, always wear your best smile.
+That was something Professor Bates had drilled into us.]],
+      music = "30_WarmSnow"
     },
     [2] = {
       uid = 3980,
       next = 3,
       beijing = 4577,
-      sentence = "早高峰的科创大厦人流很多，想要挤进电梯总得费上一番功夫，当然对于我来说早就轻车熟路。只是紧贴在口袋里凸起的工牌，让我回想起昨晚的情况。\n\n为了庆祝和生科所初步达成协议，师兄师姐们昨晚抬着我庆祝，直奔外面的餐厅，估计就是那时候掉出来的。\n\n一迈出电梯门，就能在左侧看到一整面墙的落地窗。\n\n城市景色尽收眼底，让人有高高在上的感觉。\n\n“科学，就是高高在上的。”",
-      music = "30_WarmSnow",
-      voice = "est_22183_2.mp3"
+      sentence = "Rush hour in the Science Tower was always packed. Getting into the elevator meant squeezing and dodging like it was a sport. I was used to it by now. But the badge pressing against my pocket brought back last night's memory.\nWe were out celebrating the agreement we had signed with Ultima. My seniors practically dragged me to dinner. That's probably when I dropped my badge.\nAs soon as the elevator doors opened, I turned left and was met with a panoramic window.\nThe view was stunning—an entire city spread out beneath my feet.\n\"Science is always above all else.\"",
+      music = "30_WarmSnow"
     },
     [3] = {
       uid = 3981,
       next = 4,
       beijing = 4577,
-      sentence = "我嘴里念着这句北教授挂在嘴边的名言，一边走进了办公区。\n\n在开展工作之前，挨个对着办公室里的师兄师姐这是所里新人必须做的一件事，用北教授的说法就是，身为最年轻的研究员，你要多向这些前辈们学习。\n\n而笑脸是接近人的捷径，即便大家都称呼我为“贾笑”，也并没有什么好在乎的。\n\n对于我这种在论文上没有任何突破的人来说，打好关系比什么都重要。",
-      music = "30_WarmSnow",
-      voice = "est_22183_3.mp3"
+      sentence = [[
+Muttering one of Professor Bates' favorite sayings under my breath, I stepped into the office area. 
+Before getting started, it was tradition for new recruits like me to greet each of the senior researchers in person. According to Professor Bates, "As the youngest researcher here, you should learn from every one of your seniors."
+And a smile was the fastest way to break the ice. Even if people around here had started calling me the "Smile-o-Matic," I didn't mind.
+For someone like me who hasn't made any real breakthroughs in papers or projects, building good relationships was the most valuable thing I could do.]],
+      music = "30_WarmSnow"
     },
     [4] = {
       uid = 3982,
       next = 5,
       beijing = 4577,
-      sentence = "接咖啡的时候，我才发现准备给生科所的草拟文件，被昨天负责打印的师兄随手放在了空桌上，也许还是昨天太过兴奋的原因。看着已经有些褶皱的边缘，我端着咖啡回到座位，准备重新打印一份。\n\n刚刚坐回座位，一份来自生科所的邮件提示却出现在桌面上。\n\n附件上的是于昨日才在海外知名杂志上公开的，有关最近胶囊研制方向的研究。只不过里面已经加上了生科所方面的批注。\n\n我知道这份附件的重要性，可此刻更重要的是那段简短的文字。",
-      music = "30_WarmSnow",
-      voice = "est_22183_4.mp3"
+      sentence = "While grabbing coffee, I noticed the draft document meant for Ultima had been left out on an empty desk—probably by someone who was supposed to print it yesterday. Guess he got too caught up in the excitement. The edges were already starting to wrinkle. I sighed, took my coffee back to my desk, and got ready to reprint a clean copy.\nBut just as I sat down, an email notification from Ultima popped up on my screen.\nAttached was a research paper that was just published yesterday relating to capsule research, now annotated with comments from their side.\nI knew how significant the attachment was, but what grabbed my attention was the short message that came with it.",
+      music = "30_WarmSnow"
     },
     [5] = {
       uid = 3983,
       next = 0,
       beijing = 4577,
-      sentence = "“在正式开展合作之前，我希望能和你们再沟通一些细节。今天我在恋语大学有讲座，如果有空，下午我们可以在这里抽空谈谈。”\n\n我毫不犹豫地拿起了抽屉里的录音笔，换上衣服走出了办公室。\n\n任何和许墨有关的事，都要事无巨细地录下来。这是北教授交代的，最重要的一件事。",
-      music = "30_WarmSnow",
-      voice = "est_22183_5.mp3"
+      sentence = [[
+"Before we move forward with our formal collaboration, I'd like to go over a few more details with your team. I'll be giving a lecture at Loveland University this afternoon. If you're available, we can talk there."
+Without hesitation, I reached into my drawer, grabbed my recorder, changed clothes, and headed out.
+When it came to anything involving Lucien, I had strict instructions: record everything. No matter how small. That was Professor Bates' number one rule.]],
+      music = "30_WarmSnow"
     }
   },
   [22184] = {
@@ -24957,49 +25220,55 @@ Reporter-A opened his word processor app and also opened the chat group called "
       uid = 3984,
       next = 2,
       beijing = 1453,
-      sentence = "当我抵达恋语大学时，许墨的讲座已经要开始了。\n\n他站在大教室的外面，过往的学生挨个伸手和他打招呼，他微微颔首，从学生的表情看得出，他们对面前这位教授相当尊敬。\n\n我挥手走向前去，一边将手中的文档递过去，嘴角的笑容也忍不住扬了起来。\n\n“许教授，您上午发来的文档我方还在研究中。”\n\n“为了节约您的时间，直接将意见告知我们即可。”",
-      music = "03_Daily",
-      voice = "est_22184_1.mp3"
+      sentence = [[
+By the time I arrived at Loveland University, Lucien's lecture was already about to begin.
+He was standing just outside the auditorium. Students were lining up to greet him, offering quick handshakes or respectful nods. You could tell by their expressions that they really admired him.
+I waved and walked up to him with the prepared document in hand, my practiced smile reflexively stretching across my face.
+"Professor Lucien, we're still reviewing the file you sent this morning," I said politely.
+"But if you'd like to save time, feel free to share your thoughts with us directly."]],
+      music = "03_Daily"
     },
     [2] = {
       uid = 3985,
       next = 3,
       beijing = 1453,
-      sentence = "许墨点点头，将文档放在书本下面，显然是没有现在就看的意思。\n\n“辛苦了贾研究员，不过讲座马上就要开始了，我不想让学生等太久。”\n\n“恋语大学里有不少休息的地方，你可以先去那个地方等我。”\n\n许墨的声线慢条斯理，让人很容易就能听清楚，我想这也是他的讲座有这么多人的原因之一。\n\n我冲着许墨摇了摇头，长久保持笑容的脸颊已经有些僵硬的感觉。",
-      music = "03_Daily",
-      voice = "est_22184_2.mp3"
+      sentence = "Lucien gave a small nod and tucked the document under the books he was carrying—clearly not planning to read it right away.\n\"Appreciate it, Jake,\" he said calmly. \"But the lecture's about to start, and I don't want to keep the students waiting.\"\n\"There are plenty of quiet spots around campus. Feel free to wait there in the meantime.\"\nHis voice was steady and slow—every word clearly enunciated. No wonder his lectures pulled in such big crowds.\nI shook my head gently, cheeks already aching from holding that smile too long.",
+      music = "03_Daily"
     },
     [3] = {
       uid = 3986,
       next = 4,
       beijing = 1453,
-      sentence = "“没关系的许教授，之前就久仰大名。刚好趁着这个机会，不知道我能不能旁听一下。”\n\n等我说完这个请求，许墨似乎并不是很意外。\n\n他指了指教室最后一排的位置，在喧闹的学生旁是一个多出来的位置。\n\n“那里是预留给旁听教授的位置，今天他没来。”\n\n我道了声谢，在众目睽睽之中俯身穿行到了教室的最后一排。\n\n刚才还喧闹的教室，随着许墨的走入，所有人都安静下来了。",
-      music = "03_Daily",
-      voice = "est_22184_3.mp3"
+      sentence = [[
+"No worries, Professor Lucien. I've heard so much about you. I'd love to sit in, if that's alright."
+He didn't seem surprised at all. Just pointed to an open seat in the very back row of the auditorium, next to a group of chattering students.
+"That seat was reserved for a visiting professor, but he didn't show up."
+I thanked him and made my way across the crowded room, slipping into the last row.
+As soon as Lucien stepped through the door, the room went completely still.]],
+      music = "03_Daily"
     },
     [4] = {
       uid = 3987,
       next = 5,
       beijing = 1453,
-      sentence = "并没有拖泥带水的预热，有的只是对当下课题的深入浅出地阐述。不知为何，我有种重新回到课堂的感觉。\n\n“如果当大家一定要面对寻求科学和为此做出牺牲的两难选择时。”\n\n“我相信科学的道路，会引导大家走向内心的选择。”\n\n“科学，并不是那么难以捉摸的东西。”\n\n许墨只是在台上淡淡诉说着，却足够牵引所有人的注意。这点从第一次我在大楼里见到他的时候我就意识到了。",
-      music = "03_Daily",
-      voice = "est_22184_4.mp3"
+      sentence = "He didn't waste any time on small talk. No introductions, no filler—just dove straight into the topic with clear, accessible explanations. Somehow, it suddenly felt like I'd been dropped right back into my college days.\n\"If one day you find yourself caught between the pursuit of science and the costs of said pursuit,\"\n\"I believe the path of science will always point you back to the answer inside yourself.\"\n\"In reality, science isn't some distant, abstract idea that most believe it to be.\"\nLucien's voice stayed calm and even, but he held the room effortlessly. That was something I'd noticed the very first time I saw him back in our own building: He never needed to raise his voice. People just naturally listened.",
+      music = "03_Daily"
     },
     [5] = {
       uid = 3988,
       next = 6,
       beijing = 1453,
-      sentence = "比起人类，他似乎更接近一个纯粹的“科学家”。比我见过的人，都要纯粹。\n\n讲座很快就结束了，许墨让我稍等片刻，就这样在教室里修改起了这次的合作意见，看起来就像在批改学生的作业。等到太阳几近落山时，许墨终于拿着文档走了过来。\n\n“关于特质胶囊在不同Evolver体内会不会引发特殊反应的实验，我希望能有更多数据支撑。”\n\n“我明白，今晚我就会把文档写出来。”\n\n他将手中的文件递了过来，我却察觉到一股似有若无的视线正瞥向我的口袋。",
-      music = "03_Daily",
-      voice = "est_22184_5.mp3"
+      sentence = "Lucien didn't feel like most people I'd met. He was less like a man and more like the very idea of a scientist made real—uncompromising, focused, and almost unsettlingly pure. Purer than anyone else I'd ever come across.\nThe lecture wrapped up quickly. Lucien asked me to wait a bit, then sat back down in the quiet classroom and started marking up the draft like he was grading homework. By the time the sun was nearly gone and the last light had faded from the windows, he finally walked over with the papers in hand.\n\"I'd like to see more data about whether trait-based capsules cause unique reactions in different Evolvers,\" he said.\n\"Understood. I'll write it up tonight and get it to you,\" I replied.\nAs he handed over the document, I caught the flicker of his gaze aimed right at my pocket.",
+      music = "03_Daily"
     },
     [6] = {
       uid = 3989,
       next = 0,
       beijing = 1453,
-      sentence = "那里，录音笔依然开启着。\n\n“顺便帮我向北教授问个好，欢迎下次你们一起来参加我的讲座。”",
-      music = "03_Daily",
-      voice = "est_22184_6.mp3"
+      sentence = [[
+The recorder inside was still running.
+He added with a faint smile, "Say hi to Professor Bates for me. And next time, you both are welcome to come to the lecture together."]],
+      music = "03_Daily"
     }
   },
   [22185] = {
@@ -25007,33 +25276,35 @@ Reporter-A opened his word processor app and also opened the chat group called "
       uid = 3990,
       next = 2,
       beijing = 2070,
-      sentence = "夜晚十一点二十一分，巡查的保安刚刚从门口离开。\n\n我站在打印机前，纸张一张张从机器里吐了出来，在出口堆成厚厚一叠。\n\n那是明天北教授要用到的资料，一共三十四份，要分发给这次生科所项目的所有研究人员。我仔细地给每份文档标注好人名——北教授说了，这种无用功，有时候反而是提高自己的关键。\n\n当我订好最后一个文档时，电话响了，上面是北教授的名字。我毫不犹豫地放下手中正在做的事，点开了外放。",
-      music = "23_Lonely",
-      voice = "est_22185_1.mp3"
+      sentence = "11:21 PM. The security guard had just finished his patrol and walked off down the hallway.\nI stood in front of the printer, watching page after page slide out, piling into a thick, uneven stack.\nThese were for tomorrow—thirty-four copies of the latest documents to be handed out to all the researchers working on the Ultima project. I carefully wrote each person's name on their copy. Professor Bates once told me, \"Sometimes, the tedious stuff is what sharpens your edge.\" And I never forgot it.\nJust as I finished stapling the last set, my phone rang. Professor Bates' name lit up the screen. I immediately set the papers aside and put the call on speaker.",
+      music = "23_Lonely"
     },
     [2] = {
       uid = 3991,
       next = 3,
       beijing = 2070,
-      sentence = "“小贾呀，事情办得怎么样啊。”\n\n北教授的声音很大，震得听筒都发出高频的嘶鸣，从各种意义上来说，都听得出他现在很激动。\n\n我一边清点着手中的文档，一边轻声开口。\n\n“生科所已经答应初步合作的要求。”\n\n“现在师兄师姐们都已经走了，我一个人在所里整理文档。”\n\n“我就知道许墨最后肯定还得找我合作。”",
-      music = "23_Lonely",
-      voice = "est_22185_2.mp3"
+      sentence = "\"Hey, Jake! How'd it go?\"\nHis voice came through loud—so loud it made the speaker hiss. He sounded thrilled. No mistaking that energy.\nI kept organizing the documents as I answered, voice low and steady.\n\"Ultima agreed to our initial proposal.\"\n\"Everyone else has gone home. I'm just finishing up here.\"\n\"Knew it! I told you Lucien would come crawling back to work with me.\"",
+      music = "23_Lonely"
     },
     [3] = {
       uid = 3992,
       next = 4,
       beijing = 2070,
-      sentence = "电话的另一头，是北教授颇有自信的声线。\n\n同一开始略显客气而有威严的语气相比，我知道现在北教授的语气，叫做“嚣张”。只因我一个人面对着他，他就可以毫无顾忌地宣泄着自己的情绪，无需顾及在旁人眼中的评价。\n\n“所以你按我的需求录音了吗？”\n\n“都录了，一字不差。”\n\n“好！你现在可比以前乖巧多了。”\n\n“之前刚来的时候还像个没长大的孩子，天天因为点论文署名的问题找我闹。”",
-      music = "23_Lonely",
-      voice = "est_22185_3.mp3"
+      sentence = [[
+His tone had shifted completely.
+Gone was the polished, formal way he talked to others; this was the real Professor Bates: full of himself and unapologetic when it was just me around to be his audience.
+"So, did you get the whole thing recorded?"
+"Every word. Didn't miss a thing."
+"Good! You're way more reliable than you used to be."
+"Back when you first joined, you were like some overgrown kid, always throwing a fit over author credit on every paper."]],
+      music = "23_Lonely"
     },
     [4] = {
       uid = 3993,
       next = 0,
       beijing = 2070,
-      sentence = "“下个月就有高级研究员的评定，到时候少不了你。”\n\n我对着话筒说着。\n\n“好的北教授，谢谢你给我一直想要的东西。”\n\n电话另一边，北教授的笑声很低沉，滋滋啦啦，听起来像是用指甲刮入平整的黑板。我挂断电话，漆黑的屏幕上能清晰可见我的双眼。\n\n窗外的月亮很大，看来今晚能睡个好觉。",
-      music = "23_Lonely",
-      voice = "est_22185_4.mp3"
+      sentence = "\"There's a senior researcher evaluation next month,\" he added. \"I've already got a spot with your name on it.\"\nI glanced at the stack of documents and said softly,\n\"Thanks, Professor. That's what I've been working for.\"\nOn the other end, he laughed—a low, grating chuckle that crackled like nails dragging across a smooth chalkboard. In the dark reflection of my phone screen, I could see my own eyes staring back at me.\nOutside the window, the moon was huge. Looks like I'll have a good sleep tonight.",
+      music = "23_Lonely"
     }
   },
   [22191] = {
@@ -25041,63 +25312,70 @@ Reporter-A opened his word processor app and also opened the chat group called "
       uid = 4102,
       next = 2,
       beijing = 6027,
-      sentence = "那个瞬间的阳光很特别。\n\n当她解开我递去的披风时，我看见细碎的光影溅在她微蹙的眉间。这个下意识的神色，又一次印证了我的猜测。\n\n从踏入府邸的那一刻起，我就在观察她的每一个反应。躲避我的目光、刻意保持的距离、甚至连称呼都改得生分——\n\n这些细节编织成一个清晰的剧本：她在试图逃离我的身边。\n\n虽然清楚她是在认真演绎自己的角色，但这样的若即若离却仍然让我……有些心烦。",
+      sentence = "There was a particular quality to the light in that moment.\n\nAs she loosened the cloak I'd offered, dappled sunlight traced the faint crease between her brows. That unguarded look—it confirmed my suspicion.\n\nI had been observing her since she entered the manor. The averted glances, the carefully maintained distance, the shift to a more formal address—\n\neach detail wove the same narrative: she was pulling away.\n\nLogically, I knew she was adhering to her role. Yet this gentle push and pull found its way under my skin, stirring a disquiet both rational and not.",
       music = "30_WarmSnow",
-      voice = "est_22191_1.mp3",
       special = 1
     },
     [2] = {
       uid = 4103,
       next = 3,
       beijing = 6027,
-      sentence = "不过有趣的是，她似乎忘了自己最显著的破绽——每次推开我时，她的动作总是迟疑的。就像现在，她的指尖在披风上停留了一瞬，仿佛在与自己的本心抗争。\n\n她几不可察地闭了闭眼，最终还是留给我一个背影。我微微沉吟，很快跟了上去。\n\n人头攒动的亭榭中，一眼便看见了她。\n\n她没有穿披风，似乎冷得有些打颤。我在众目睽睽之下自然地将披风搭到了她身上，坐了下来。这一次，她没能找到时机再还给我。",
+      sentence = [[
+But she had missed one telling clue: the hesitation that followed every retreat. Her hand had lingered on the cloak, hovering between intention and impulse.
+
+A soft, almost imperceptible sigh, and she turned. I allowed a breath of space before following.
+
+The pavilion buzzed with life, yet my gaze found her instantly.
+
+She had left the cloak behind and stood trembling slightly in the chill. Before the eyes of all, I stepped forward, settled the garment over her shoulders once more, and claimed the seat beside her. This time, there would be no returning it.]],
       music = "30_WarmSnow",
-      voice = "est_22191_2.mp3",
       special = 1
     },
     [3] = {
       uid = 4104,
       next = 4,
       beijing = 6027,
-      sentence = "自那之后，余光中便总有一道来自身旁的视线，只是每当我把视线转过去时，她都在低头把玩衣袖上的流苏，格外“专注”。\n\n这是她心猿意马时的习惯，每当她心口不一时，她都会不自觉地摩挲着手旁的东西。\n\n不知为何，这样的她，好像轻易地抚平了我那点浮躁的心情。\n\n让我本能地靠近她，想牵起她的手。\n\n可是，我低估了她的坚持。我的小姑娘好像太投入在角色中了。",
+      sentence = "From that moment onward, I could feel her gaze on me—a constant, subtle presence at my side. Yet whenever I turned, she'd be studying the fringe on her sleeve with exaggerated focus—a picture of feigned absorption.\n\nIt was a tell of hers—those restless hands seeking occupation whenever her heart and her words were at odds.\n\nParadoxically, the sight of that familiar tell soothed the quiet disquiet within me.\n\nIt drew me in, igniting a simple, physical impulse to bridge the gap—to take her hand.\n\nI had underestimated her commitment. My little miss was inhabiting her role with a conviction that was beginning to thwart my own.",
       music = "30_WarmSnow",
-      voice = "est_22191_3.mp3",
       special = 1
     },
     [4] = {
       uid = 4105,
       next = 5,
       beijing = 6027,
-      sentence = "任由我怎么吸引她的目光，她都只是慌乱地移开视线。当她第五次避开了我的视线时，我感受到了一丝挫败，也忽然有些懊恼。\n\n原本以为我能够游刃有余地掌控这种被拒绝的感受，可我似乎有些高估了自己。\n\n这种令人不适的感觉很清晰，很难忽视。甚至让我恍惚间开始怀疑，她是否真的把自己代入了那个“不愿意嫁给我”的角色？\n\n扮演家主的NPC开始引导大家进行飞花令，我却没什么附会游戏的心思。",
+      sentence = [[
+No matter how I tried to catch her eye, her gaze would only dart away in a fluster. By the fifth time she avoided my eyes, a thread of frustration began to weave itself into my mood, tinged with a growing sense of personal irritation.
+
+I had assumed my composure could weather these gentle rebuffs. A miscalculation, apparently.
+
+The feeling was distinct, undeniable. It even seeded a fleeting, absurd thought: had she immersed herself so completely that she was genuinely convincing herself she didn't want to marry me?
+
+The NPC playing the family head began to officiate a poetry game. I should have participated, but my heart wasn't in it. My thoughts were elsewhere, tangled up in the quiet rebuff taking shape beside me.]],
       music = "30_WarmSnow",
-      voice = "est_22191_4.mp3",
       special = 1
     },
     [5] = {
       uid = 4106,
       next = 6,
       beijing = 6027,
-      sentence = "我借着书痴公子的口吻说了几句轻狂的话，提议将输的人请出午宴。于是一句句诗词相和后，亭榭里的人被我逐个战胜，一个个拱手朝外走去。\n\n很快，只剩下了我和$u，四目相对。\n\n我看着她小声嘀咕着，眼见时限快到了，她还没想出来，脸上的焦急肉眼可见。\n\n看着她露出这样的神色，我心里却隐约产生了一个直觉——\n\n她也珍惜着和我独处的时间，不想就此离开。",
+      sentence = "Under the guise of the bookish young master, I put forth a strategically playful wager: the loser of each round would forfeit their place at the luncheon. Verse by verse, I answered their challenges, until one by one they yielded, the pavilion clearing around us.\n\nAnd then it was just us. Silence, and the weight of a shared gaze.\n\nI watched her—murmuring to herself, time slipping away, a faint blush of frustration coloring her cheeks as the line escaped her.\n\nAnd yet, watching her like that, a soft realization bloomed in my chest—\n\nShe was clinging to this solitude with me as much as I was. She had no real wish to leave.",
       music = "30_WarmSnow",
-      voice = "est_22191_5.mp3",
       special = 1
     },
     [6] = {
       uid = 4107,
       next = 7,
       beijing = 6027,
-      sentence = "我由衷地短叹一声，决意表达我的诚意。\n\n“换我心，为你心，始知……嗯……后面我忘了。”我轻声接上诗句，却假意忘了后半句。\n\n“我输了。”\n\n我坦然开口，正当我以为这样的试探又要落空时，忽然捕捉到了她眼中一闪而过的柔软。\n\n那一瞬的柔软来得太突然，让我险些错过。\n\n大概她自己都没发现，在听到那句“换我心”时，眼睛里闪过的光芒，有着掩饰不下的温柔。",
+      sentence = "With a quiet, deliberate breath, I laid my cards on the table.\n\n\"Trade my heart for yours, and only then will you know...\" I let the line hang, feigning a stumble. \"Ah, the rest escapes me.\"\n\n\"I concede,\"\n\nI declared, the words simple and final. Just as I braced for another silent retreat, I caught it—a fleeting, unmistakable softness in her eyes.\n\nIt was there and gone in an instant, a spark almost extinguished by my own doubt.\n\nPerhaps she was unaware, but in that moment—at the words \"trade my heart for yours\"—her guard fell completely, revealing a warmth so genuine it was disarming.",
       music = "30_WarmSnow",
-      voice = "est_22191_6.mp3",
       special = 1
     },
     [7] = {
       uid = 4108,
       next = 0,
       beijing = 6027,
-      sentence = "她怔忪片刻，才像明白了什么般低头笑了起来，红着脸转身匆匆离开。\n\n我的唇边也不自觉地扬起一抹笑意。\n\n我想，我的确输了。",
+      sentence = "She froze for a heartbeat, then understanding dawned. A soft, self-conscious laugh escaped her as she looked down, color rising in her cheeks before she turned and hurried away.\n\nAnd before I knew it, an answering smile had found its way to my lips—a reflex to hers.\n\nThe thought arrived, quiet and absolute: I had indeed lost.",
       music = "30_WarmSnow",
-      voice = "est_22191_7.mp3",
       special = 1
     }
   },
@@ -38019,57 +38297,73 @@ Endil laughed too. Just then, a chat window in the lower left corner started fla
       uid = 3823,
       next = 2,
       beijing = 1672,
-      sentence = "“恭喜玩家吕神医通关《奥德赛3000问》，获得“狂欢夜”内测资格！”\n\n吕神医摘下眼镜，揉了揉酸涩的眼睛，却不小心碰到了脸上的淤青，疼得龇牙咧嘴：“没玩过《奥德赛》又怎么样，这不是背背设定集就好了吗？”\n\n他把比砖头还厚的官方设定集《关于奥德赛的一切》放回书架上，那五颜六色的封面在一堆医学教材中显得格格不入。\n\n作为知名医科大学的学生，吕神医早就把教材背得滚瓜烂熟，绩点连续两年名列前茅。",
-      music = "19_Daily02",
-      voice = "est_32171_1.mp3"
+      sentence = "\"Congrats, player MasterHealerL! You've cleared Odyssey: 3000 Questions and earned access to the Carnival Night beta!\"\n\nMasterHealerL took off his glasses and rubbed his sore eyes, only to wince when he accidentally pressed on a bruise. \"Ow—damn it... Who needs to play Odyssey when you can just cram the lore book, right?\"\n\nHe shoved the brick-thick official compendium named All About Odyssey back onto his bookshelf. The bright, rainbow cover looked almost ridiculous sitting between dense, gray medical textbooks.\n\nAt his med school, MasterHealerL had always been top of the class, acing every exam and memorizing every page of every textbook.",
+      music = "19_Daily02"
     },
     [2] = {
       uid = 3824,
       next = 3,
       beijing = 1672,
-      sentence = "然而大三开始实习后，他便屡屡受挫，病人的一记铁拳成了压倒他的最后一根稻草。\n\n他翘了医院的实习，发现室友们经常议论的《奥德赛》最近出了新玩法“狂欢夜”，便准备下载来玩一玩。\n\n他爬到寝室床上，戴好头盔，眼前弹出一行系统提示：是否开始狂欢夜？\n\n吕神医毫不犹豫地按下“开始”按钮：“等着吧，高手现在就要登场了。”",
-      music = "19_Daily02",
-      voice = "est_32171_2.mp3"
+      sentence = "But ever since his clinical rotations started in junior year, things had gone sideways. Getting punched by a patient during a consult had been the final straw.\n\nHe decided to ditch his hospital shift and decided to try Odyssey, the game his roommates were always talking about—especially now that the new \"Carnival Night\" mode had dropped.\n\nHe climbed onto his bunk, secured his VR headset, and saw the system prompt float into view: Enter the Carnival Night?\n\nWithout a second thought, he hit the button. \"Prepare to tremble in fear. A real pro has entered the scene.\"",
+      music = "19_Daily02"
     },
     [3] = {
       uid = 3825,
       next = 4,
       beijing = 4971,
-      sentence = "“放开我，我没病，我要出去！”\n\n进入游戏的眩晕还没褪去，足以刺穿天花板的尖叫声便钻入了吕神医的耳朵，他急忙睁开眼。\n\n走廊的墙皮已经斑驳脱落，老旧的吊灯闪闪烁烁，灯下两名穿着白大褂的人涨红了脸，奋力按住挣扎不已的病人。其中一人转过头，朝他的方向高喊：“实习的，把看诊台药箱里的安定拿来！”\n\n吕神医左右看看，抬手指向自己：“我？”\n\n“还能有谁？赶紧的，实习分不想要了？！”",
-      music = "08_Tension",
-      voice = "est_32171_3.mp3"
+      sentence = "\"Let me go! I'm not crazy—I need to get out!\"\n\nHe hadn't even gotten over the login dizziness before a woman's voice screeched through the air, loud enough to make him flinch. MasterHealerL's eyes flew open.\n\nThe hallway around him looked like something out of a horror movie—peeling walls, flickering lights, and two white-coated staff struggling to restrain a flailing patient. One of them turned toward him, shouting: \"Intern! Get the sedative from the desk!\"\n\nMasterHealerL blinked, pointing at himself. \"Wait—me?\"\n\n\"Who else?! You want to fail your rotation?! Move!\"",
+      music = "08_Tension"
     },
     [4] = {
       uid = 3826,
       next = 5,
       beijing = 4971,
-      sentence = "吕神医浑身一哆嗦，立刻跑到看诊台，一眼就看见了桌子上的木头箱子。他的嘴里喃喃自语：“别慌，《常见药物手册》里说，安定又名地西泮，只要找到它就行……”\n\n但他打开药箱定睛一看，琳琅满目的包装盒上，密密麻麻都是英文。\n\n“不是，这疗养院只用进口药的吗？！《医学英语》我还没背完啊……”他一边哀嚎，一边颤抖着手指在众多药盒间游移。\n\n“安定在这里。”",
-      music = "08_Tension",
-      voice = "est_32171_4.mp3"
+      sentence = [[
+He scrambled to the desk, eyes locking on a wooden box. "Okay, don't panic. Diazepam, diazepam... that's Valium, right? Says the Handbook of Commonly Prescribed Drugs. Just need a minute to find it..."
+
+But when he opened the box, the labels on the meds were all in a language he couldn't read.
+
+"What the hell? They only stock imported drugs here or something?!" He groaned, fingers hovering uncertainly over the boxes.
+
+"It's this one."]],
+      music = "08_Tension"
     },
     [5] = {
       uid = 3827,
       next = 6,
       beijing = 4971,
-      sentence = "一只修长的手拿起了角落里写着“Valium Diazepam”的药盒，吕神医看向手的主人。那是一名身着医生服的青年，银发束在脑后，冷峻的面容旁，飘着一行字符——“C++”。\n\n“给我1号注射器。”\n\n吕神医赶忙找出贴着“1号”标签的针筒递给对方，只见他利落地拆开包装吸取药液，疾步走向混乱的中心，一手按住挣扎的病人，一手注射药剂。渐渐地，病人平静下来，被医生们带回了病房。\n\n吕神医两眼放光地看着银发青年：“大神你太牛了！扎针的手法那叫一个利落！”",
-      music = "08_Tension",
-      voice = "est_32171_5.mp3"
+      sentence = [[
+A calm voice came from behind as a pale hand grabbed the box. MasterHealerL turned and found himself staring at a tall, silver-haired man in a doctor's coat. His name tag hovered above: C++.
+
+"Pass me Syringe No. 1."
+
+MasterHealerL fumbled through the supplies and handed over the syringe. With practiced ease, C++ drew the meds and walked straight into the chaos, smoothly injecting the patient. Within seconds, the woman calmed down and was wheeled away.
+
+MasterHealerL stood frozen, eyes wide. "Whoa. That was seriously badass. You're a total pro. What's your name?"]],
+      music = "08_Tension"
     },
     [6] = {
       uid = 3828,
       next = 7,
       beijing = 4971,
-      sentence = "对方的面色波澜不惊：“叫我C++就好。”\n\n“我叫吕神医，是个大三医学狗。你也是医学生吗？”\n\n“我房间的处方上有药品记录，”C++指了指吕神医的腰间，“你的口袋里应该也有线索。”\n\n吕神医低头一看，一本随身笔记静静地插在白大褂口袋里，他赶忙打开笔记本。\n\n“真的欸，笔记里有疗养院常用的药名和药效……”",
-      music = "08_Tension",
-      voice = "est_32171_6.mp3"
+      sentence = [[
+"Just call me C++."
+
+"I'm MasterHealerL. Third-year med student. You a med student too?"
+
+"There's a prescription list in my room," C++ said, nodding toward MasterHealerL's coat. "You've got clues in your pocket too." MasterHealerL looked down and found a notebook tucked in his pocket.
+
+Flipping it open, true to C++'s words, he saw a list of common meds used in the facility.
+
+"Nice. This is super helpful..."]],
+      music = "08_Tension"
     },
     [7] = {
       uid = 3829,
       next = 0,
       beijing = 4971,
-      sentence = "他又往后翻了一页，五官瞬间皱成了一团，“我的身份是疗养院的实习医生，个人任务是‘转正成为正式医生’？！我要是能转正，就不会逃实习来玩游戏了！”\n\n“游戏有游戏的规则，现实里做不到的事，游戏可不一定。”C++的唇角微微上扬，湛蓝的眼睛在灯光下露出几分锋芒。\n\n“我可以帮你留意转正方法，不过……”他从口袋里掏出一支笔，在便签纸上写下几个名字，递给吕神医，“作为交换，如果看到这几个人的资料，记得给我。”",
-      music = "08_Tension",
-      voice = "est_32171_7.mp3"
+      sentence = "Then he turned the page—and his face fell. \"What?! My role is an intern and my personal quest is... to get promoted to a full-time doctor?! I'm a medical intern in real life. If I knew how to do that, I wouldn't be here in the first place!\"\n\nC++'s mouth twitched in a rare smile. \"Games follow their own rules. What you can't pull off in real life, you might just manage in here.\"\n\nHe pulled a pen from his coat and scribbled a few names on a sticky note. \"I'll help you figure out the promotion stuff. But if you come across any files or info on these people, I want you to pass them on to me.\"",
+      music = "08_Tension"
     }
   },
   [32172] = {
@@ -38077,41 +38371,41 @@ Endil laughed too. Just then, a chat window in the lower left corner started fla
       uid = 3830,
       next = 2,
       beijing = 4972,
-      sentence = "吕神医表情凝重地注视着眼前的铁门，仿佛门后不是疗养院食堂，而是危机四伏的“战场”。\n\n昨天与C++分开之后，他跟随护士长一起巡房，但心里琢磨着转正的事，一不小心打翻了药瓶，遭到了护士长的严厉批评。\n\n难道不论现实还是游戏，他都没法转正了吗？\n\n吕神医愁眉苦脸地叹了口气，但想起昨晚在枕头下发现的医生证，他的眉目重新舒展开。证件上写着他的阵营身份，虽然只是平平无奇的村民，却提醒了他眼下还有更要紧的事。",
-      music = "23_Lonely",
-      voice = "est_32172_1.mp3"
+      sentence = "MasterHealerL stared at the steel cafeteria doors like he was about to walk into a minefield.\n\nAfter splitting from C++ yesterday, he'd gone on a room check with the head nurse. But while mulling over his promotion tasks, he'd accidentally knocked over a medicine tray and gotten chewed out.\n\n\"Ugh... am I just doomed to fail in every world?\"\n\nHe sighed heavily, but then remembered the ID card he'd found tucked under his pillow last night. It listed him as a plain old villager—nothing special, but it reminded him of what really mattered in this game.",
+      music = "23_Lonely"
     },
     [2] = {
       uid = 3831,
       next = 3,
       beijing = 1241,
-      sentence = "“差点忘了转正只是个人任务，‘狂欢夜’最重要的是狼人杀啊！”他举起拳头，给自己加油打气，“进游戏前，我已经背下了《识破狼人谎言的120种方法》，找出狼人肯定不是难事！”\n\n吕神医挺起胸膛，斗志昂扬地推开食堂大门。然而15分钟后，他看着笔记本上的记录，陷入了沉思。\n\n《关于奥德赛的一切》里说过，预言家能够查验狼人，村民最好跟随他投票。\n\n潮人武藏自称预言家，查验雪梨软乎乎是个狼人。",
-      music = "23_Lonely",
-      voice = "est_32172_2.mp3"
+      sentence = "\"Oh right! The promotion stuff is a side quest. Carnival Night is basically a big game of Werewolf!\" He clenched his fist with new resolve. \"Good thing I crammed 120 Ways to Spot a Werewolf Lie. This'll be a breeze!\"\n\nBrimming with determination, he pushed open the cafeteria doors—only to find himself buried in a tangled mess of conflicting testimonies 15 minutes later.\n\nAccording to the rulebook, Seers could identify Werewolves, and villagers should vote with them.\n\nTrendyMusashi was the first to jump out, claiming to be the Seer and saying that FluffyShirley was a Werewolf.",
+      music = "23_Lonely"
     },
     [3] = {
       uid = 3832,
       next = 4,
       beijing = 1241,
-      sentence = "但也有人说真的预言家可能不愿意跳出来，这样的话，潮人武藏就是狼，雪梨软乎乎是好人？到底谁在说谎啊？书上说的根本没用！\n\n吕神医烦躁地在笔记本上画着圈，却始终看不出端倪，眼看着投票时间就要结束，他咬了咬牙，投给了雪梨软乎乎：“我就暂时相信场上唯一的预言家吧！”\n\n等到所有人都离开，吕神医像是斗败的公鸡一样，垂头丧气地向食堂门口走去，嘴里小声嘀咕：“我就一个普通村民，什么线索都没有，怎么可能找到狼人啊？干脆我就跟着预言家，他验谁我投谁！”",
-      music = "23_Lonely",
-      voice = "est_32172_3.mp3"
+      sentence = [[
+But the others also said that the real Seer could stay hidden, which meant... TrendyMusashi might be a Werewolf, and that FluffyShirley might be one of the good guys?
+
+MasterHealerL groaned, scribbling question marks and arrows in his notebook as time slowly ran out. "Ah, screw it!" Giving up, he decided to vote against FluffyShirley.
+
+When the cafeteria cleared out, MasterHealerL slouched toward the exit like a deflated balloon. "I'm just a basic villager. No abilities, no info... How am I supposed to find the Werewolves? I'll just follow the Seer's lead from now on."]],
+      music = "23_Lonely"
     },
     [4] = {
       uid = 3833,
       next = 5,
       beijing = 4972,
-      sentence = "这时，阴暗的走廊里冷不丁地传出一个女声：“小吕？你怎么还在这？”\n\n吕神医一回头，恍惚间看到一个白影，他吓得跳了起来：“谁啊？”\n\n白影子向前走了两步，是一个穿着白色护士服的女人，她的发髻利落地盘在脑后，显得干练而严肃。\n\n吕神医定睛一看：“护士长？”\n\n“毛毛躁躁的，一点都不稳重。”护士长皱着眉头吩咐道：“叫上C医生，该开晨会了。”",
-      music = "23_Lonely",
-      voice = "est_32172_4.mp3"
+      sentence = "A voice echoed in the dim hallway. \"L? Why are you still here?\"\n\nMasterHealerL spun around. A pale silhouette stepped into view, making him nearly jump out of his skin. \"Who goes the—?!\"\n\nIt was a woman in a crisp white nurse's uniform, her hair pinned neatly behind her head.\n\nHe blinked. \"Is that you, Head Nurse?\"\n\n\"Quit screwing around,\" she said, frowning. \"Get C++. Morning briefing's about to start.\"",
+      music = "23_Lonely"
     },
     [5] = {
       uid = 3834,
       next = 0,
       beijing = 4972,
-      sentence = "和医生们一起开完晨会，吕神医正在发愁接下来的任务，忽然一阵笑声传来。他闻声望去，在他面前严肃的护士长笑得像朵太阳花，她将一本手册递给C++，脚步轻快地走远了，吕神医一步一回头地走到C++面前。\n\n“护士长是学过变脸吗？她对我可凶了！”\n\n“只要达到护士长的业务要求，她是很和善的。”C++翻开书册的手顿了顿，“对了，我知道实习医生转正的条件了。”",
-      music = "23_Lonely",
-      voice = "est_32172_5.mp3"
+      sentence = "After the morning huddle with the attending doctors, MasterHealerL was still fretting over his next assignment when he heard laughter echoing down the corridor. He looked up to see the usually stern head nurse grinning like a ray of sunshine. She handed a small manual to C++ and practically skipped away. MasterHealerL followed her with his eyes and then hustled over to C++'s side.\n\n\"I can't believe what I'm seeing. One minute she's ripping me apart, and the next, she's all smiles to you!\"\n\nC++ flipped the booklet open, pausing on a page. \"She's like that—harsh until you hit her standards, and then she's as warm as can be. Oh, by the way—I just found out what you need to do to get promoted from intern.\"",
+      music = "23_Lonely"
     }
   },
   [32173] = {
@@ -38119,57 +38413,57 @@ Endil laughed too. Just then, a chat window in the lower left corner started fla
       uid = 3835,
       next = 2,
       beijing = 4972,
-      sentence = "破旧的走廊内，吕神医愣愣地看着C++：“你怎么会这么快知道的？”\n\n“听护士长说的，完成10次巡房就能转正。”C++一页页翻阅着护士长给的手册，不紧不慢地回答。\n\n“就这么简单？”吕神医瞪大眼睛。\n\n“‘狂欢夜’的个人任务不难，毕竟狼人杀才是重头戏，”C++的声音如同闲聊一般云淡风轻，“不过目前来看好人阵营的难度不低，早上开会时得到的信息太少了。”",
-      music = "22_Despair",
-      voice = "est_32173_1.mp3"
+      sentence = "In the worn, poorly lit hallway, MasterHealerL stared at him. \"How'd you find that so fast?\"\n\nC++ thumbed through the nurse's handbook at a leisurely pace.\n\n\"She told me—complete ten ward rounds, and you're officially a doctor.\"\n\nMasterHealerL's eyes went wide. \"That's it? That's all I have to do?\" C++ leaned back, voice casual. \"Side quests in Carnival Night are easy—this is still Werewolf at its core. That being said, the good guys' side is rough. We got almost zero intel at this morning's meeting.\"",
+      music = "22_Despair"
     },
     [2] = {
       uid = 3836,
       next = 3,
       beijing = 4972,
-      sentence = "提起早上的会议，吕神医满脸怨念：“就是啊，我们这种村民啥信息也没有，只能按设定集里说的，跟着预言家投票了。”他挠了挠头，对着C++嘿嘿一笑：“还是要谢谢大神帮我，现在我的个人任务有着落了。”\n\n“不用谢，”C++不动声色地收回目光，合上手中的小册子，将它递给吕神医，“《应急操作手册》，你会用到的。”\n\n吕神医接过手册，还没来得及细看，便听到了C++似有所指的话：“不过有些时候，光看手册没用。毕竟如果一开始就走在错误的道路上，不论怎么努力，结局都只有丧命。”",
-      music = "22_Despair",
-      voice = "est_32173_2.mp3"
+      sentence = "MasterHealerL let out a frustrated huff. \"Exactly! Us villagers get zilch. I just followed the lore book—vote with the Seer and hope for the best.\" He scratched his head and forced a grin. \"Still, thanks for the tip. Now I actually have a real task.\"\n\nC++ snapped the manual shut and handed it to him. \"No need to thank me. Here, this is an Emergency Ops Manual. You'll need it.\"\n\nMasterHealerL flipped it open without really looking, until C++ added in a low tone: \"But just so you know—reading the manual only helps if you're on the right path. Start down the wrong road, and no amount of effort can save you from ending up dead.\"",
+      music = "22_Despair"
     },
     [3] = {
       uid = 3837,
       next = 4,
       beijing = 4972,
-      sentence = "冷白的灯光透过银色的发丝，在那俊朗的脸上留下几道冰冷的阴影。一股寒意爬上吕神医的心头，他在心里疯狂呐喊：C++这是在暗示什么吗？说起来，除了让我帮他查几个病人资料，我对他一无所知啊！他帮了我那么多，就不怕我拿了好处不办事？还是说……他其实是狼，如果我不听话，他就会刀了我？\n\n想到这里，吕神医的额头不禁冒起了冷汗。他小心翼翼地试探道：“我今天一定把资料找到，明天拿给你！就是怕我今晚被刀了……”\n\n“刀你对狼的收益不高，不用担心。”C++微微颌首，转身离开了。",
-      music = "22_Despair",
-      voice = "est_32173_3.mp3"
+      sentence = "The cold fluorescent light caught in C++'s silver hair, casting stark shadows across his sharp features. A chill snaked down MasterHealerL's spine as panic set in. Is he warning me? I barely know this guy. I've only agreed to fetch some patient files... What if he's actually a Werewolf? If I don't deliver, will he knock me out next round?\n\nMasterHealerL's heart raced into his throat. He tried to sound casual but couldn't hide his tremor: \"I—I'll have those files for you by tomorrow. That... that is if I survive tonight.\"\n\n\"Killing won't do much for the Werewolves. Chill.\" C++ gave a slight nod with an unreadable expression, then he turned and walked away.",
+      music = "22_Despair"
     },
     [4] = {
       uid = 3838,
       next = 5,
       beijing = 1241,
-      sentence = "能这么笃定我会不会被刀，他果然是狼！C++的回应在吕神医耳中，像是认下了狼人的身份。吕神医暗暗下定决心：明天开会的时候我就揭穿他，让大家把他投出去！\n\n然而，第三天的讨论会议上，浓重的火药味让吕神医不敢开口。最初大家只是各有立场，但在名为“私心”的催化剂下，逐渐演化为争吵。\n\n一个名为“少装杯”的玩家黑着脸站了起来：“你什么意思？”\n\n在听到问题的瞬间，吕神医仿佛又回到了那个充斥着消毒水味的病房。",
-      music = "46_Split_in_Black",
-      voice = "est_32173_4.mp3"
+      sentence = [[
+His certainty was proof enough: C++ had to be a Werewolf! In MasterHealerL's mind, that was confirmation. "Tomorrow's vote, I'm calling him out. I'll get everyone to vote him out!"
+
+But when the next day's meeting kicked off, the air was so thick with suspicion that MasterHealerL couldn't bring himself to speak. What had started as polite debate descended into shouting matches.
+
+Finally, a player named "StopActingCool" slammed his fists on the table and glared at someone. "What the hell are you implying?"
+
+In that moment, MasterHealerL felt himself transported back to the sterile-smelling ER of reality.]],
+      music = "46_Split_in_Black"
     },
     [5] = {
       uid = 3839,
       next = 6,
       beijing = 1302,
-      sentence = "急诊室里，吕神医正笨手笨脚地给男子受伤的大腿上药，但他的呻吟一声比一声高亢：“痛死我了，你到底会不会上药啊？”\n\n“这位患者你别乱动，影响我操作了。”吕神医手一抖，按压到红肿的伤口。\n\n“你什么意思？”病人揪住吕神医的领子，“我看就是因为没给红包，你才不好好治！庸医！”\n\n他一拳打在吕神医脸上，吕神医只能捂着头躲闪，直到保安赶来维持秩序。\n\n吕神医盯着少装杯举起的拳头，恍惚间看到了医院病房里那张狰狞的脸。",
-      music = "46_Split_in_Black",
-      voice = "est_32173_5.mp3"
+      sentence = "In that memory, he was fumbling with a patient's thigh wound, trying to apply ointment while the man groaned louder with each touch. \"JESUS CHRIST, YOU'RE KILLING ME! DO YOUR DAMN JOB RIGHT!\"\n\n\"Hold still! You're only making it worse!\" One slip and MasterHealerL's hand pushed against the patient's swollen wound.\n\nThe patient grabbed MasterHealerL's collar. \"Is this because I didn't slip you a bribe, you son of a—\"\n\nBAM! A punch landed square on MasterHealerL's cheek. He stumbled back, clutching his face, until security rushed in and hauled the patient away.\n\nNow, across the meeting table, StopActingCool's raised fist looked all too familiar—like deja vu in a nightmare.",
+      music = "46_Split_in_Black"
     },
     [6] = {
       uid = 3840,
       next = 7,
       beijing = 1241,
-      sentence = "他的思绪开始发散，他该躲在哪里，才能不被拳头波及呢？\n\n在惊呼声中，一抹银色光辉刺入争执的人群，C++的神情没有丝毫波动，他一只手插在口袋里，另一只手将少装杯牢牢地按在原地。\n\n“少多管闲事！”少装杯涨红了脸奋力挣扎，想要摆脱C++的束缚，然而那看似轻描淡写的一只手，却像铁钳一样让他动弹不得。\n\n“被扔出去，或者认真盘狼，你选一个。”C++眯起眼睛，冰冷的声音熄灭了最后一丝火星。",
-      music = "46_Split_in_Black",
-      voice = "est_32173_6.mp3"
+      sentence = "MasterHealerL's thoughts scattered. Where do I hide so he can't hit me?\n\nThen, through the chaos, a silver flash: C++ stepped forward, utterly calm. One hand in his pocket, the other clamped StopActingCool's arm like metal tongs.\n\n\"Let go of me!\" StopActingCool struggled, face red as a beet—until he realized he wasn't budging.\n\n\"Get tossed out or help us find the Werewolves. Your call.\" C++'s cold stare snuffed out the last spark of rebellion.",
+      music = "46_Split_in_Black"
     },
     [7] = {
       uid = 3841,
       next = 0,
       beijing = 1241,
-      sentence = "见少装杯放弃挣扎，C++收回手，居高临下地环视一圈，在四目相对的一刹那，他锐利的眼神让吕神医打了个哆嗦。\n\n“继续盘狼吧。”C++淡淡地道。",
-      music = "46_Split_in_Black",
-      voice = "est_32173_7.mp3"
+      sentence = "Once StopActingCool slumped, C++ let go and swept his gaze over the room. His eyes flicked to MasterHealerL for a heartbeat—sharp enough to make him flinch.\n\n\"Back to business,\" C++ said calmly.",
+      music = "46_Split_in_Black"
     }
   },
   [32174] = {
@@ -38177,49 +38471,59 @@ Endil laughed too. Just then, a chat window in the lower left corner started fla
       uid = 3842,
       next = 2,
       beijing = 4972,
-      sentence = "接下来两天的会议，节奏完全由C++掌控，吕神医被众人的发言搅得头晕脑胀，只能跟随大流投票，心里快被疑问和沮丧淹没。\n\n一开始的预言家是狼？那C++呢？他到底是狼还是好人？\n\n我背了那么多东西，为什么还是看不出谁在说谎？为什么我不能像C++一样厉害？\n\n他回到看诊台，正想重新梳理来龙去脉，一个病人摇摇晃晃地走到他面前。吕神医没有在意，仍然埋头写写画画，直到听到对方含糊不清的声音。",
-      music = "22_Despair",
-      voice = "est_32174_1.mp3"
+      sentence = [[
+For the next two days, C++ ran every meeting like a seasoned leader, directing its every ebb and flow. On the side, MasterHealerL's head spun from all the accusations and defenses, so he simply followed the crowd's votes.
+
+The Seer from the beginning was actually a Werewolf? What does that make C++? Is he good or bad?
+
+Why couldn't he read people like C++ did? Why couldn't he be that sharp?
+
+Back at the med station, MasterHealerL tried to regroup his mind when a patient staggered toward him. He barely registered the murmur before looking up and locking eyes with a hollow stare.]],
+      music = "22_Despair"
     },
     [2] = {
       uid = 3843,
       next = 3,
       beijing = 4972,
-      sentence = "“挖掘机正在高速运转进入《奥德赛》。”\n\n“你说什么？”吕神医一抬头便对上了一双麻木的眼睛，他扫了一眼病人衣服上的编号，304……好像是他今天要去巡房的病人？\n\n没等他抓住这一闪而过的思绪，那双眼中便露出凶光。病人一把将看诊台上的东西扫落在地，挥舞着拳头冲向他。\n\n吕神医连滚带爬地躲开，大脑飞快地运转：病人语言不连贯，肢体摇晃不协调，有强烈的攻击性，是《应急操作手册》说的病发的症状，需要立刻给他注射安定。",
-      music = "46_Split_in_Black",
-      voice = "est_32174_2.mp3"
+      sentence = "\"The excavator's moving fast into Odyssey!\"\n\n\"What did you say?\" MasterHealerL looked up and saw a pair of numb eyes. He glanced at the patient's tag: Room 304—the ward he was supposed to check on that afternoon.\n\nBefore he could chase down the thought, the man's eyes snapped with fury. He swept everything off the desk and barreled forward, fists flying.\n\nMasterHealerL dove aside, adrenaline roaring. Disjointed speech. Unsteady gait. Aggression. Classic psychotic break. He yanked out his manual's checklist in his mind: Immediate Valium injection.",
+      music = "46_Split_in_Black"
     },
     [3] = {
       uid = 3844,
       next = 4,
       beijing = 4972,
-      sentence = "“但我知道了有什么用，”他不禁哀嚎：“凭我这脆弱的小身板，怎么可能压制住发病的病人，再把安定注射给他？”\n\n吕神医深吸一口气，难闻的消毒水味从鼻腔一路涌入心间，化为满满的苦涩。在医院实习也是这样，明明理论知识都在脑子里，明明把包扎的步骤倒背如流，但到了动手的时候，他总是立刻慌了手脚，把一切都搞砸。\n\n病人仿佛被他的哀嚎声吸引，喉咙中发出压抑的嘶吼，被昏暗的看诊厅不断放大。他直勾勾地盯着吕神医，再度举起拳头。",
-      music = "46_Split_in_Black",
-      voice = "est_32174_3.mp3"
+      sentence = "\"But what good will knowing it even do me?\" MasterHealerL groaned. \"I've got zero upper body strength—how am I supposed to hold down a patient mid-outburst and jab them with a sedative?\"\n\nHe took a deep breath, the pungent smell of disinfectant rushing through his nose and settling heavily in his chest. It was the same back when he was interning. All the knowledge in his head, all the protocols memorized down to the last step—and yet, the moment he had to act, his hands would tremble, his brain would blank, and the whole thing would fall apart.\n\nThe patient, perhaps stirred by his loud lament, let out a low, guttural growl. In the shadowy clinic, the sound echoed and twisted until it felt inhuman. His stare locked on MasterHealerL, eyes wild, and with another rage-fueled grunt, his fist shot into the air again.",
+      music = "46_Split_in_Black"
     },
     [4] = {
       uid = 3845,
       next = 5,
       beijing = 4972,
-      sentence = "吕神医眼睁睁地看着拳头离他越来越近，腿却像是被钉住了一般，一步也迈不开。他的脑海里划过一个念头：如果我多锻炼一下身体，或者多练习一下操作技巧，是不是现在就有可能完成注射？\n\n忽然，吕神医感到自己的衣服被一股力量猛地一拽，下一秒拳风擦着他的脸呼啸而过。他哆嗦着回头，看到一抹熟悉的银光——C++不知何时来到了看诊厅。他仍然是不紧不慢的样子，那双眼睛如同大海一般平静，奇异地让吕神医冷静了下来。\n\nC++四下扫视一番，挑起了眉梢：“看起来你正好需要帮助。”",
-      music = "46_Split_in_Black",
-      voice = "est_32174_4.mp3"
+      sentence = "MasterHealerL stood frozen as the punch came closer, every muscle locked in panic. His brain screamed at his legs to move, but it was like he was rooted to the floor. Maybe if I'd worked out more... or practiced more injections instead of just studying, he thought bitterly, maybe I wouldn't be in this mess.\n\nSuddenly, something yanked him back by the collar. A rush of air brushed his cheek—the punch had barely missed. He turned his head in shock, catching a flash of silver. It was C++. He stood there, composed as always, the gleam in his eyes as steady as the sea. That calm, strangely enough, helped MasterHealerL find his footing.\n\nC++ looked around the wrecked clinic, one brow quirked. \"Looks like you're in a bit of trouble.\"",
+      music = "46_Split_in_Black"
     },
     [5] = {
       uid = 3846,
       next = 6,
       beijing = 4972,
-      sentence = "吕神医猛地点了点头，向C++复述了刚刚发生的一切。\n\nC++双手环在胸前，若有所思：“你的个人任务怎么样了？”\n\n“已经完成9次巡房，只差这个病人的房间了。”\n\n闻言，C++的眼中闪过一丝锐芒，他微微歪过脑袋看向吕神医：“恭喜你，看来只要解决他，你就能完成任务转正了。”\n\n吕神医沮丧地垮下肩膀：“可我……我平时的练习不够，大神，能麻烦你给他注射吗？”",
-      music = "46_Split_in_Black",
-      voice = "est_32174_5.mp3"
+      sentence = [[
+MasterHealerL bobbed his head up and down frantically explaining the situation.
+
+"How's your task?" C++ said as he crossed his arms before his chest.
+
+"I've done nine room checks. This guy's the last one."
+
+At that, something sharp flickered in C++'s eyes. He tilted his head slightly toward MasterHealerL. "Well, congrats in advance. Handle him, and you're done."
+
+MasterHealerL wilted. "That's the problem... I've barely practiced. Can you do the injection for me? Please?"]],
+      music = "46_Split_in_Black"
     },
     [6] = {
       uid = 3847,
       next = 0,
       beijing = 4972,
-      sentence = "“我可以帮你，但不能确定由其他玩家完成注射，系统会如何判定你的任务结果。”C++的声音依然平静，“况且我认为，你只是缺乏练习，并非没有实力。”\n\n“我可以吗？”吕神医挠了挠头，他除了背书，似乎什么也不会……等等，背书？他飞快地在脑内搜寻了一圈，看向C++，“我背的教材里说过，部分患者会对噪音非常敏感。我用声音引开他的注意力，麻烦大神从身后束缚他，我再给他来一针，这样可以吗？”\n\nC++垂眸思考片刻，爽快地答应了：“当然，那就试试吧。”",
-      music = "46_Split_in_Black",
-      voice = "est_32174_6.mp3"
+      sentence = "\"I could,\" C++ said, voice level, \"but if someone else does it, I don't know how the system will log the result. And honestly? I think you've got what it takes. You're just under-practiced.\"\n\nMasterHealerL scratched his head. \"You think I've got a shot?\" Could he really do it? All he was ever good at was books. Then it hit him—books. He was good at books. \"Wait, I remember something! One of my texts said some patients react badly to loud noises. What if I use a sound to distract him? You grab him from behind, and I'll give him the shot. Think that'll work?\"\n\nC++ thought for a second and then nodded. \"Let's try it.\"",
+      music = "46_Split_in_Black"
     }
   },
   [32175] = {
@@ -38227,49 +38531,53 @@ Endil laughed too. Just then, a chat window in the lower left corner started fla
       uid = 3848,
       next = 2,
       beijing = 4972,
-      sentence = "清晨的阳光照进看诊厅，被满是灰尘的玻璃蒙上一层阴霾，洒落在病人身上。在火热的温度下，病人愈发暴躁，时不时飞起一脚，将原本便已破烂不堪的木台子踢成了碎片。\n\n吕神医朝C++比了个手势，见C++点头，他便打开闹铃，将手机声音调到最大，冲向看诊厅另一侧。刺耳的声音瞬间充斥了整个房间，病人捂住耳朵，踉踉跄跄地朝着吕神医的方向扑去。\n\n与此同时，C++悄无声息地移动到病人身后，轻轻抬手，迅速而精准地抓住病人的肩膀，膝盖抵住他的背部，将他牢牢地压制在地上。",
-      music = "46_Split_in_Black",
-      voice = "est_32175_1.mp3"
+      sentence = "Sunlight filtered through the clinic's dusty windows, casting a hazy glow over the wreckage. The patient, already agitated, had grown even more aggressive, lashing out and kicking a nearby bench into splinters.\n\nMasterHealerL gave C++ a hand signal. When he got the go-ahead, he cranked his phone alarm up to full volume and sprinted to the other end of the room. The blaring tone filled the space. As expected, the patient clutched his ears and staggered toward the noise, wild-eyed.\n\nAt the same time, C++ moved without a sound. With one swift motion, he grabbed the man's shoulder, pinned him from behind, and forced him to the ground—efficient, precise, and unshakably calm.",
+      music = "46_Split_in_Black"
     },
     [2] = {
       uid = 3849,
       next = 3,
       beijing = 4972,
-      sentence = "吕神医趁机从看诊台的医药箱里取出注射器。他深吸一口气，努力让自己的手保持平稳，将针头刺入皮肤。随着药剂缓缓注入，病人的挣扎逐渐减弱，最终安静下来。\n\n整个过程不过短短几秒钟，吕神医却感觉仿佛经历了一个世纪。忽然他听到系统的提示，手舞足蹈地凑到C++面前：“大神，我的个人任务完成了！”\n\n见事情解决，C++松开了手，退后一步，看着吕神医微微点头：“干得不错。”他拿出手机，手指轻快地点击屏幕，似乎在给人发消息。",
-      music = "46_Split_in_Black",
-      voice = "est_32175_2.mp3"
+      sentence = [[
+MasterHealerL rushed to the med kit, pulled out the syringe, and steadied his shaking hands. You've studied this a hundred times. You can do this. He slid the needle in, injected the sedative, and watched as the patient gradually calmed down, his breathing slowing.
+
+After what had felt like a century, the system chime rang in his ears. He nearly shouted in relief, bouncing over to C++. "I did it! My quest's done!"
+
+C++ stepped back and gave a small nod. "Nice work." He pulled out his phone and started typing, his fingers flying across the screen.]],
+      music = "46_Split_in_Black"
     },
     [3] = {
       uid = 3850,
       next = 4,
       beijing = 4972,
-      sentence = "那轻描淡写的模样一下让吕神医想起会议上他平息争端的场景，还有他对C++身份的纠结：“大神，你其实不是狼吧？不然，你没理由帮我啊？”\n\n“谁知道呢？”C++抬眸看了他一眼，注意力再次回到手机上，“这个世界谁都有可能说谎，相信自己的实力就够了。”\n\n吕神医见他敲击屏幕的速度越来越快，表情越来越阴沉，刚想发问，便看到他收起手机：“我还有事，先走了。”说完，他匆匆离开了。",
-      music = "22_Despair",
-      voice = "est_32175_3.mp3"
+      sentence = "The way he moved, the way he handled things so effortlessly—it reminded MasterHealerL of the scene back at the tense meeting. He hesitated and then blurted, \"Hey, uh... you're not actually a Werewolf, right? I mean, you've been helping me this whole time...\"\n\nC++ glanced up briefly. \"Who knows? Everyone lies in this game. Just trust yourself and your skills.\"\n\nMasterHealerL was about to say more when he noticed C++'s face had gone serious, his typing more intense. \"I've got something to take care of,\" C++ said, sliding his phone away. Without another word, he turned and walked off.",
+      music = "22_Despair"
     },
     [4] = {
       uid = 3851,
       next = 5,
       beijing = 4971,
-      sentence = "看着他的背影，吕神医一拍额头：“哎呀，我还没跟大神道谢呢……等明天的玩家会议，我一定第一个跟他的票！”然而时针刚刚来到0点，吕神医的耳边便响起了系统提示：好人阵营胜出。\n\n“咦，明明还没到投票时间，我们怎么就赢了？”吕神医被突如其来的胜利弄懵了，在心里暗暗思忖：肯定是C++又做了什么吧！他到底是什么人啊？他们之前还叫他KEY神，是什么很厉害的角色吗？不知道《奥德赛》有没有什么直播回放，等会儿去找找看好了……\n\n纷乱的思绪中，黑暗席卷而来，“狂欢夜”落幕了。",
-      music = "22_Despair",
-      voice = "est_32175_4.mp3"
+      sentence = [[
+Just as he disappeared, MasterHealerL suddenly smacked his forehead. "Crap, I didn't even thank him! Ugh, tomorrow at the meeting, I'm voting with him for sure!" But before he could plan out his speech, the system cut in: The Werewolves Have Been Defeated.
+
+He blinked, stunned by the abrupt victory. C++ definitely had something to do with this, he thought. Who is he, really? Everyone kept calling him 'KEY.' Wasn't that the name of some top-tier pro? I gotta check the game forums or find a replay or something...
+
+As his thoughts spiraled, the screen faded to black. Carnival Night was over.]],
+      music = "22_Despair"
     },
     [5] = {
       uid = 3852,
       next = 6,
       beijing = 1303,
-      sentence = "几个月后的深夜时分，吕神医背着运动包，走入沉睡的医院大楼，他打开值班室的灯，卸下手臂上的运动手环，又灌了一壶自来水，放在烧水器上。当目光扫过门口的落地镜时，看着那健硕了不少的身影，他的思绪难得地回到了过去。\n\n夏天的时候，他以“吕神医”的ID参加了一场狂欢夜游戏，在大神C++的带领下，成为了游戏的胜利者之一。\n\n游戏结束后，他摸索着打开沸腾的世界频道，终于知道他们口中的KEY神，原来是《奥德赛》中，以超神技术闻名的主播——KEY。",
-      music = "29_Memory",
-      voice = "est_32175_5.mp3"
+      sentence = "Months later, late at night, MasterHealerL walked into the dimly lit hospital, gym bag slung over one shoulder. He turned on the room light, set down his gear, and filled the kettle with water. He caught a glimpse of himself in the full-length mirror near the door. He was leaner and fitter than before. His thoughts drifted back.\n\nThat summer, he'd joined Carnival Night as \"MasterHealerL,\" and under C++'s quiet guidance, he'd won.\n\nAfter the game ended, he finally found out: C++ was, in fact, the legendary streamer known for his god-tier skills in Odyssey—KEY.",
+      music = "29_Memory"
     },
     [6] = {
       uid = 3853,
       next = 0,
       beijing = 1303,
-      sentence = "他本想私信大神表示感谢，但光标在输入框内跳跃许久，也没能发出任何消息。最终他只是点下了关注按钮，成为KEY神的小粉丝：“等我学医有成，再来留言道谢吧。”\n\n沸腾的水声将他从回忆中惊醒，他端起水壶，泡了一杯速溶黑咖，坐到书桌前，打开没看完的医学论文。\n\n在纷繁的世界中，唯有实力不会说谎。这是那场游戏里，C++教会他的道理。",
-      music = "29_Memory",
-      voice = "est_32175_6.mp3"
+      sentence = "He'd thought about messaging him to say thanks, but his fingers just hovered in the chat box, unsure. In the end, he only hit the follow button instead. \"I'll message him once I'm a real doctor.\"\n\nThe kettle whistled. He poured himself a cup of instant black coffee and sat at the desk, opening the medical journal he'd left half-read.\n\nIn this chaotic world, there's one thing that never lies—skill. That's what C++ had taught him. And MasterHealerL was going to earn his, one step at a time.",
+      music = "29_Memory"
     }
   },
   [32181] = {
@@ -38277,65 +38585,101 @@ Endil laughed too. Just then, a chat window in the lower left corner started fla
       uid = 4061,
       next = 2,
       beijing = 2392,
-      sentence = "周三晚上，是我该去合唱团进行合练的日子。\n\n合唱团建的位置在一个偏远地方的小学礼堂里，离市中心有一段距离，公交地铁都不怎么方便，所以大部分时候我都会骑电瓶车。因为过来的人大都是些合唱爱好者，技术也算不上优秀，能免费攒这一个团偶尔接接小演出，也算是给兴趣买单了。如果撞上阔绰的甲方，愿意付费请我们演出，那更算是走了大运了。\n\n我踏进礼堂的走廊，有些狭长，木地板一踩就发出咯吱咯吱的声响。等我推开门，吵闹的声音夹杂着烟味儿扑面而来，作为管理者的指挥此刻正坐在台下翻阅着文件。我拎着包想从人群里穿过，小汽水的挂坠叮铃铃地响着。",
-      music = "19_Daily02",
-      voice = "est_32181_1.mp3"
+      sentence = [[
+Wednesday night was choir practice.
+
+Our choir rehearsed in an old elementary school auditorium tucked away in a quiet part of town, far from the city center. Public transport didn't make it easy to get there, so I usually just took my electric scooter. The group was mostly made up of amateur singing enthusiasts. We weren't exactly top-tier, but it was a free group, and every now and then we'd land a small gig. That alone made it worth the effort. If we were lucky enough to have a well-funded client actually pay us to perform, well... that was a rare win.
+
+The hallway creaked underfoot as I stepped inside. The floorboards were old and narrow, groaning with every step. When I pushed open the auditorium door, the smell of cigarettes and the buzz of chatter hit me all at once. Our conductor, who also managed most of the group's logistics, was sitting below the stage flipping through a stack of papers. I held my bag and tried to weave through the crowd, the little soda-bottle charm on my bag jingling with each step.]],
+      music = "19_Daily02"
     },
     [2] = {
       uid = 4062,
       next = 3,
       beijing = 2392,
-      sentence = "“人齐了。”指挥突然开口。\n\n看来指挥的眼镜很厚，眼神却挺好使。\n\n随着沉闷的咳嗽声从话筒响起，大家也稀稀拉拉走到了自己的位置上。\n\n训练很快就开始，我清了清嗓子跟着大家一起练习声调的基本功。虽然声音高低起伏，但听得出很卖力。我用余光四处看了看，却从大家的表情上看出了一丝难以捉摸的“兴奋”。\n\n在我手机欠费失联的这“三天”，估计真有什么事发生了。",
-      music = "19_Daily02",
-      voice = "est_32181_2.mp3"
+      sentence = [[
+"Everyone's here," the conductor suddenly announced.
+
+He had thick glasses, but surprisingly sharp eyes.
+
+A low, dry cough echoed from the mic. That was the cue for the people to shuffle toward their usual spots.
+
+Rehearsal kicked off quickly. I cleared my throat and joined in with the others, running through vocal warm-ups. The volume went up and down, but you could tell everyone was giving it their all. Still, as I glanced around the room, I noticed this weird, unspoken energy on everyone's faces. Excitement, maybe?
+
+And that's when it hit me. Something must've happened during the three days that my phone service got shut off.]],
+      music = "19_Daily02"
     },
     [3] = {
       uid = 4063,
       next = 4,
       beijing = 2392,
-      sentence = "“大家的状态不错，先休息，我出去接个电话。”指挥说完急匆匆地跑了出去。\n\n我坐在木地板上想喝口水，趁着这个机会把手机连上了屋里的无线网络。随着信号满格，海量的弹窗如同病毒一般铺天盖地袭来。\n\n合唱一家亲，未读信息数999。\n\n我刚想点开，身旁低声部的团友就拍了拍我的肩膀，满脸堆笑地走了上来。\n\n“这几天给你发消息怎么没回啊，不知道出大事儿了吗？”",
-      music = "19_Daily02",
-      voice = "est_32181_3.mp3"
+      sentence = "\"Alright, sounding good,\" the conductor said. \"Take five. I've gotta step out and take a call.\" He rushed out in a hurry.\n\nI dropped onto the wooden floor and reached for my water bottle. With a quick swipe, I connected my phone to the room's Wi-Fi. The moment the signal hit full bars, a flood of notifications crashed in like a tidal wave.\n\nChoir Group Chat – 999+ unread messages.\n\nI was just about to tap in when someone from the bass section tapped me on the shoulder with a big grin on his face.\n\n\"Dude, where were you the last couple of days? We've been trying to tell you the big news!\"",
+      music = "19_Daily02"
     },
     [4] = {
       uid = 4064,
       next = 5,
       beijing = 2392,
-      sentence = "“我办离职呢，手机也停机没钱充了。”\n\n“这不过来等着发演出费的吗，起码把话费补了。”\n\n“啧，真够惨的。不过你运气不错，要转运了？”\n\n“怎么，演出费要从50变100了吗？”\n\n我的话刚出口，就遭了对方一个白眼。\n\n“真势利，是缺这三十五十的吗？是拿钱都买不来的运气！”",
-      music = "19_Daily02",
-      voice = "est_32181_4.mp3"
+      sentence = [[
+"I quit my job. Didn't have money to pay my phone bills."
+
+"Hope we get paid tonight so I can at least get that sorted."
+
+"Sheesh. Rough week, eh? But don't worry, we're getting paid well tonight."
+
+"Why? They're upping our fees?"
+
+The moment I said it, he rolled his eyes.
+
+"For crying out loud, it's not always about the money, you know. This is way bigger!"]],
+      music = "19_Daily02"
     },
     [5] = {
       uid = 4065,
       next = 6,
       beijing = 2392,
-      sentence = "“我们周末的演出，要有大变化了！”\n\n对方的表情很是兴奋，却让我更摸不着头脑。\n\n“不就是去那个小医院演出吗？又不是第一次去了。”\n\n“哎呀，跟你说不通，看看消息就知道了。”\n\n我低头打开群聊，跃入眼帘的就是数不清的表达“赞美”的表情包。在我千辛万苦翻到最上面之后，找到了指挥发的一条消息。\n\n这周六在附近的医院有个慈善表演，还有明星会参与，大家周三都来排练。",
-      music = "19_Daily02",
-      voice = "est_32181_5.mp3"
+      sentence = "He leaned in, voice dropping like he was about to share a state secret. \"Something big's happening at our weekend show!\"\n\nNow I was even more confused.\n\n\"You mean the hospital gig? We've done that place before, haven't we?\"\n\n\"Ugh, you don't get it. Just check the messages, will you?\"\n\nI looked down, opened the group chat, and was instantly hit with a wall of stickers—hearts, applause, fireworks, and exaggerated clapping gifs. It took me ages to scroll to the top, where our conductor pinned a message.\n\n\"This Saturday's charity show at the hospital will include special guests—some real celebrities. Everyone show up on Wednesday for a full rehearsal.\"",
+      music = "19_Daily02"
     },
     [6] = {
       uid = 4066,
       next = 7,
       beijing = 2392,
-      sentence = "“有明星？谁啊？”\n\n“不知道，但看我们指挥那个认真的样子，恐怕腕儿小不了。”\n\n“就算是二三线的糊咖，也能帮我们提提出场费了。”\n\n“你到时候争取个前排，还能多拿点。”\n\n听到对方还算实用的提议，我也忍不住点了点头。这个结果我很满意，起码这一次做完我的经济压力应该会缓解一点。",
-      music = "19_Daily02",
-      voice = "est_32181_6.mp3"
+      sentence = [[
+"Wait, there's a celeb coming? Who?"
+
+"No idea. But judging from the way the conductor's acting, it's gotta be someone big."
+
+"Even if it's some washed-up B-lister, it could still really bump up our fee."
+
+"Try to grab a front-row spot, you'll probably get paid more."
+
+It was actually a pretty practical suggestion. I nodded without thinking. Yeah, if all went well, this gig might finally ease some of my financial pressure.]],
+      music = "19_Daily02"
     },
     [7] = {
       uid = 4067,
       next = 8,
       beijing = 2392,
-      sentence = "就在这时，合唱室的门被推开了。进来的不止有指挥，还有好几台摄像机。我能听到周围的惊呼，毕竟这样的阵势可不常见。\n\n指挥走上前挥了挥手，对着话筒咳嗽了几声。\n\n“知道大家很期待这次和明星合作。”\n\n“本来预计的合练是到医院会场再进行的，但是对方说了，希望和大家提前见个面。”\n\n在指挥带头下，大家都鼓起了掌，同时也踮着脚尖，想要一睹明星的尊容。在合唱室昏黄的灯光下，迎着稀稀拉拉的掌声，他走了进来，脸上戴着遮挡性的墨镜和口罩。",
-      music = "19_Daily02",
-      voice = "est_32181_7.mp3"
+      sentence = [[
+Just then, the choir room door swung open. And it wasn't just our conductor walking in; there were several cameras, too. Gasps rippled through the room. Understandable. We weren't exactly used to that kind of setup.
+
+The conductor stepped forward, coughing into the mic as he raised a hand to quiet us.
+
+"I know everyone's excited about this collaboration," he began. "Originally, we planned to meet our special guest directly at the venue, but... he specifically asked to meet everyone in advance."
+
+As the room broke into a polite applause, people craned their necks, tiptoeing for a better look. And then he walked in, under the soft yellow light, through scattered claps, sunglasses and a mask on, but it didn't matter.]],
+      music = "19_Daily02"
     },
     [8] = {
       uid = 4068,
       next = 0,
       beijing = 2392,
-      sentence = "可当那标志性的金发出现在面前时，如同太阳落在了地平线上，我相信在场没有一个人不认识他。\n\n“大家晚上好，我是周棋洛。”",
-      music = "52_Daily03",
-      voice = "est_32181_8.mp3"
+      sentence = [[
+The moment those unmistakable golden bangs came into view, it felt like the sun had just dropped into the room. I don't think a single person here didn't recognize him.
+
+"Hey everyone, good evening. I'm Kiro."]],
+      music = "52_Daily03"
     }
   },
   [32182] = {
@@ -38343,65 +38687,96 @@ Endil laughed too. Just then, a chat window in the lower left corner started fla
       uid = 4069,
       next = 2,
       beijing = 2392,
-      sentence = "周棋洛的到来很显然出乎每个人的意料，包括之前在我身边侃侃而谈的那位朋友。所以在接近五秒钟的沉寂之后，雷鸣般的欢呼和掌声响起，震得我耳膜发痛。\n\n当然，我也没有例外地加入了欢呼鼓掌的阵营里。\n\n兴奋的人群朝着周棋洛越靠越近，却终究在一步之外停了下来。这堵人墙，宛若以太阳为中心所扩散开来的一抹余光。\n\n“大家不要着急，先回到自己的位置上。”",
-      music = "52_Daily03",
-      voice = "est_32182_1.mp3"
+      sentence = [[
+For a second, the room went dead silent. Even the guy next to me, who'd been rambling earlier, was stunned speechless. Then, like someone flipped a switch, the place exploded. Cheers and applause thundered through the hall, loud enough to make my ears ring.
+
+And of course, I joined in too.
+
+The crowd surged closer, drawn to Kiro like they were caught in the gravity of a radiant star. Yet just shy of reaching him, they halted, as if the air around him had transformed into sacred ground none dared trespass.
+
+"Everyone, please. Let's head back to our spots," the conductor called out, trying to rein things in.]],
+      music = "52_Daily03"
     },
     [2] = {
       uid = 4070,
       next = 3,
       beijing = 2392,
-      sentence = "任凭指挥怎么用力叫喊着，大家却还是沉浸在激动的海洋之中。\n\n我还是第一次这么近距离地接触偶像。\n\n不同于在媒体上看到的画面，就在我身边的周棋洛眼神纯净而深邃，里面是对周围群众藏不住的喜欢，即便我并不理解这种喜爱之情从何而来。\n\n我向后撤了一步，下意识不想参与到这场近距离观察偶像的机会里，明知道难得，可当这样的机会变得唾手可得时，人似乎总会感到抗拒。",
-      music = "52_Daily03",
-      voice = "est_32182_2.mp3"
+      sentence = "But no one was listening. We were all too caught up in the moment.\n\nIt was my first time seeing an idol this close.\n\nHe looked different in person, less polished than in the media, but... more real. His eyes were clear, focused, and somehow full of quiet warmth. Although I didn't understand why, I could feel something genuine in the way he looked at everyone—like he actually enjoyed being here.\n\nI took a step back, instinctively pulling myself out of the front row. Even though I knew chances like this were rare, something about how easy it suddenly became made me hesitate.",
+      music = "52_Daily03"
     },
     [3] = {
       uid = 4071,
       next = 4,
       beijing = 2392,
-      sentence = "大家嘴里都叫喊着周棋洛的名字，手里举着各种类型的笔，想要获得他的签名，仿佛那是某种能够治愈心灵的灵丹妙药。\n\n“真的很抱歉今晚来得挺突然，没有给大家准备什么。”\n\n“签名的话不用急，每个人都有。”\n\n周棋洛的身边并没有话筒，却仿佛穿透了每个人的心，让所有人都安静了下来。他的经纪人很快出现，身后还拿着一大摞海报和签名板，估计是对现在的情况早有预料。",
-      music = "52_Daily03",
-      voice = "est_32182_3.mp3"
+      sentence = "People were shouting his name, holding out notebooks and pens, asking for his autograph, as if they were yearning for a gush of crystal spring in the blazing desert heat.\n\n\"Sorry for showing up so suddenly tonight,\" Kiro said gently. \"I didn't have time to prepare anything.\"\n\n\"But don't worry. Everyone's getting an autograph.\"\n\nHe wasn't even holding a mic, but somehow his voice carried—soft, sincere, and enough to hush the entire room. His manager showed up moments later, carrying a huge stack of posters and signature boards. Clearly, they'd seen this coming.",
+      music = "52_Daily03"
     },
     [4] = {
       uid = 4072,
       next = 5,
       beijing = 2392,
-      sentence = "周棋洛就这样慢慢走到人群之中，伸手握了握前排人们的手，脸上是没有人能够抗拒的温暖笑容。\n\n指挥适时将话筒递到了周棋洛手里，示意让他和大家说两句。周棋洛将墨镜别在胸前，带着略有歉意的表情向大家挥了挥手。\n\n“真的很感谢大家的支持。”\n\n“我知道这次共演的邀请确实有些仓促，所以才会在今晚安排一次合练。”\n\n“我本人也很期待这次和大家的合作。”",
-      music = "52_Daily03",
-      voice = "est_32182_4.mp3"
+      sentence = [[
+Kiro stepped into the crowd, reaching out to shake a few hands in the front row. His smile was warm and irresistible.
+
+The conductor handed him the mic at the perfect moment, nodding for him to say a few words. Kiro slipped off his sunglasses and hooked them onto his collar. He gave a casual wave, his expression touched with a hint of apology.
+
+"Thank you all so much for your support," he said.
+
+"I know this collaboration came together a little last-minute, so I wanted to come by in person tonight."
+
+"I'm really looking forward to working with everyone."]],
+      music = "52_Daily03"
     },
     [5] = {
       uid = 4073,
       next = 6,
       beijing = 2392,
-      sentence = "我相信没有人会怀疑他所说的话，大家只能感受到来自他眼中的真诚。当然，对我来说，内心还是产生了某个疑问。为什么我们的演出，周棋洛也要参加。\n\n那个医院并不大，里面也没有什么重要病人，大都是一些慢性疑难杂症，或者是Evolver在里面久住，基本算是个养老院。直到第一轮合唱开始，我都没想通这件事。因为接下来我的全部注意力，都被周棋洛的歌声所吸引。即便我听过很多次他的唱片，依旧能感受到那种振奋人心的力量。\n\n我想这是我加入合唱团以来，最难以忘记的一个晚上。",
-      music = "52_Daily03",
-      voice = "est_32182_5.mp3"
+      sentence = [[
+I don't think anyone in the room doubted what Kiro said. You could feel the honesty straight from his eyes. But even so, I couldn't help wondering: Why this performance? Why was Kiro here for this?
+
+The hospital wasn't big. It wasn't treating anyone especially important, mostly chronic illnesses, long-term recoveries, or Evolvers who'd been basically living there for years. It was more like a care facility than a hospital. That question stuck in my head right up until the first round of rehearsals began. Because from the moment Kiro started singing, all my doubts vanished. His voice pulled every bit of attention in the room toward him. And even though I'd heard his recordings more times than I could count, hearing him live still hit like the first time.
+
+Honestly, it might've been the most unforgettable night I've had since joining the choir.]],
+      music = "52_Daily03"
     },
     [6] = {
       uid = 4074,
       next = 7,
       beijing = 2205,
-      sentence = "合练就这样连续进行了两天，原本不在时间安排内的周四，大家也都纷纷表示可以前来配合，这大概就是偶像的号召力。\n\n等到周六早晨，我准时在指定地点走上了一辆大巴车，随意找了个离得近的过道坐下。\n\n我旁边的人半躺在座椅上，额头上扣了个大大的帽檐。我坐下的时候不小心碰到了他，估计是打扰了他的回笼觉。他掀开帽子，露出的脸却是之前站在我旁边攀谈的男人。我点头示意，随后把背包抱在怀里，只是动作有点大，惹得背包上的挂坠叮当作响起来。\n\n“你也是小汽水？”",
-      music = "52_Daily03",
-      voice = "est_32182_6.mp3"
+      sentence = [[
+Rehearsals stretched on for two days straight. Even the Thursday that was originally not on the schedule ended up packed with people who'd suddenly "made time."
+
+By Saturday morning, I boarded the assigned bus right on time, grabbing a random aisle seat near the front.
+
+The guy next to me was half-asleep, cap pulled low over his face. I must've bumped him a little as I sat down, because he shifted, lifting his cap. I recognized him right away. It was the same guy who'd been chatting next to me during rehearsal. I gave him a nod and hugged my backpack close to me, accidentally making the charm on it jingle with the movement.
+
+"You're a Soda too?"]],
+      music = "52_Daily03"
     },
     [7] = {
       uid = 4075,
       next = 8,
       beijing = 2205,
-      sentence = "坐在旁边的男人指了指我背包上的汽水挂件。这是周棋洛第一次演唱会时候贩卖的周边，我花了好大力气才抢到的。\n\n“算是，喜欢听他歌而已。”\n\n“怪不得你这几天排练都玩命地唱，之前可没见你这么用力过，是想在偶像面前表现一下吧。”\n\n“也不是，你不是建议我好好表现，在前面抢个位置吗？”\n\n“你就这么缺钱啊。”\n\n“对啊，人活着总归是要钱的。”",
-      music = "52_Daily03",
-      voice = "est_32182_7.mp3"
+      sentence = [[
+He asked, nodding toward the soda-bottle charm on my bag. It was a limited-edition merch from Kiro's first concert. Took me ages to snag it.
+
+"Kinda. I just like his music, that's all."
+
+"No wonder you've been going all-out during rehearsals. I've never seen you sing that hard before. Trying to impress your idol?"
+
+"Not really. Weren't you the one who told me to grab a front-row spot?"
+
+"Man, you really that broke?"
+
+"Yeah. I'm just trying to chase a paycheck."]],
+      music = "52_Daily03"
     },
     [8] = {
       uid = 4076,
       next = 0,
       beijing = 2205,
-      sentence = "是的，我一直都很喜欢周棋洛这位明星。\n\n可对现在的我来说，钱更需要站在第一位。",
-      music = "52_Daily03",
-      voice = "est_32182_8.mp3"
+      sentence = "The truth was, I really did like Kiro—always had.\n\nBut right now, money had to come first.",
+      music = "52_Daily03"
     }
   },
   [32183] = {
@@ -38409,41 +38784,73 @@ Endil laughed too. Just then, a chat window in the lower left corner started fla
       uid = 4077,
       next = 2,
       beijing = 1473,
-      sentence = "大巴车驶入医院的时候正是中午，天空中的太阳大得晒人。\n\n在以前大家偶尔在来这里表演节目的时候，还会想和病人交流一番，刷刷好感。毕竟合唱团也支持私人赞助，保不齐什么时候就会拿到些额外资金。\n\n不过今天大家显然没有这个兴致。天上的太阳晒得人流汗，大家不得不赶紧钻到有空调的场馆里乘凉。而当我们前后脚走到场馆内时，周棋洛却已经站在舞台上排练站位了。\n\n周围的工作人员示意我们可以在座椅上稍事休息，周棋洛还要进行一些拍摄工作。",
-      music = "04_Normal",
-      voice = "est_32183_1.mp3"
+      sentence = [[
+We pulled into the hospital around noon. The sun was relentless overhead, practically burning the pavement.
+
+Back when we'd done shows here before, some of us would take the time to chat with the patients, trying to make a good impression. The choir always welcomed private sponsorships, and it wasn't unheard of for someone to offer a little extra funding.
+
+But today? No one had the energy. We all rushed into the building just to escape the heat and soak up some AC. By the time we made it to the venue, Kiro was already on stage, rehearsing his routine under the lights.
+
+A few staff waved us over to the seats, telling us to take it easy until Kiro finished filming.]],
+      music = "04_Normal"
     },
     [2] = {
       uid = 4078,
       next = 3,
       beijing = 9014,
-      sentence = "我觉得有些口渴，看现在的时间还早，就走出场馆准备找个自动贩卖机买点喝的。\n\n我把身上仅有的硬币投了进去，可能是因为年代老旧，饮料迟迟没有掉下来。\n\n我正准备试探性地敲一敲机器，花坛附近却传来吵闹的声音，等我仔细寻找声音的源头后，才在柱子后看到两个正在争吵的人。他们其中一个坐着轮椅神色冷漠，另一个则满脸激动地站在柱子前，两个人都身穿着这家医院的病号服，应该都是在这住院的病人。\n\n“陶姜，你这是什么意思？周棋洛好不容易来这里做一次演出，你怎么偏要回病房？”",
-      music = "04_Normal",
-      voice = "est_32183_2.mp3"
+      sentence = [[
+Feeling a little parched, I stepped back outside to hunt for a vending machine.
+
+I fed the only coins I had into the old machine. It made a groaning noise but didn't drop the drink.
+
+I was about to give it a light smack when I heard two heated voices nearby. Following the sound around a nearby pillar, I found two people mid-argument. One was seated in a wheelchair, eyes cold and expression distant. The other was standing in front of him, clearly agitated. Both wore the hospital's patient uniforms.
+
+"What's your problem, Todd? Kiro's finally doing a show here. Why the hell are you heading back to your room?"]],
+      music = "04_Normal"
     },
     [3] = {
       uid = 4079,
       next = 4,
       beijing = 9014,
-      sentence = "“没什么，我只是累了，所以想回去了。”\n\n“什么想回去了，你不一直是周棋洛的粉丝吗？”\n\n“现在不想粉了。”\n\n“就像你之前那么想要Evol，现在不也是深恶痛绝吗？”\n\n两人的吵架声似乎达到了高峰，我也忍不住有些紧张，可好巧不巧，刚才还被卡住的饮料，偏偏在这个时候掉了下来。易拉罐下落的声音很显然激起了两人的注意，当我抬起头时也正好撞上了两个人的视线。",
-      music = "04_Normal",
-      voice = "est_32183_3.mp3"
+      sentence = [[
+"I'm just tired. I wanna go back."
+
+"Don't give me that. You used to be his biggest fan!"
+
+"Well, I'm not anymore."
+
+"You used to be obsessed with getting Evol. And now you also act like it's poison."
+
+Their voices rose, clashing like waves against stone. I found myself holding my breath. And, as if on cue, the machine decided now was the time to drop the drink. The metallic clunk echoed off the tiles. Both heads turned toward me, locking their gazes onto mine.]],
+      music = "04_Normal"
     },
     [4] = {
       uid = 4080,
       next = 5,
       beijing = 1473,
-      sentence = "很明显，他们并不打算在我这样一个外人面前继续刚才的争吵。高个子的男生叹了口气走到轮椅后面，默默朝前推了几步。\n\n“算了，不管你说什么，我今天都要带你去周棋洛的演出！”\n\n看着两个人的身影消失在走廊尽头，我摇了摇头拧开了瓶口。水入口后，是一股难以言语的涩味。\n\n演出开始了，我作为低声部的代表站在更靠近舞台前侧的位置。小小的演出场地此刻塞满了人，迎来了不属于它的隆重时刻。",
-      music = "10_Happy_Family",
-      voice = "est_32183_4.mp3"
+      sentence = [[
+They stopped. Clearly, neither of them wanted to keep fighting in front of a stranger. The taller one sighed, moved behind the wheelchair, and quietly started pushing it forward.
+
+"Doesn't matter what you say. You're coming to watch Kiro with me!"
+
+I watched them disappear around the corner, then shook my head and twisted the cap off the bottle. It tasted strangely bitter.
+
+The concert began soon after. As one of the bass singers, I stood toward the front of the stage. The small hospital venue was packed wall-to-wall, buzzing with a kind of energy it probably hadn't seen in years. For one brief afternoon, that place felt bigger than it had ever been.]],
+      music = "10_Happy_Family"
     },
     [5] = {
       uid = 4081,
       next = 0,
       beijing = 1473,
-      sentence = "随着音乐从舒缓进入高潮，周棋洛也走到了舞台的正中央。只是一个人站在舞台前面就足以吸引所有人的目光，在没有聚光灯的场地中央，观众的视线就是最好的聚光灯。\n\n“希望接下来这首歌，能给你们带来快乐。”\n\n台下的摄像机紧跟着周棋洛的动作，而我的视线却从台下的观众脸上扫过。他们大都怀揣着感动与开心的表情，除了一个人，刚才在花园的那个轮椅少年。\n\n他的视线直直地看着我，那双黝黑的眼眸，空洞的，是只属于病人的目光。",
-      music = "10_Happy_Family",
-      voice = "est_32183_5.mp3"
+      sentence = [[
+As the music swelled from gentle to soaring, Kiro stepped into the very center of the stage. Just standing there alone was enough to pull every pair of eyes toward him. No spotlight was needed. The gaze of the crowd was electric enough to light up the air.
+
+"I hope this next song makes you as happy as I am to be here!"
+
+The cameras tracked his every move. My eyes, though, wandered across the audience. Most faces glowed with happiness, except for one. The boy in the wheelchair from the garden.
+
+His eyes were fixed on me. Dark, hollow, carrying the kind of emptiness that only someone who'd been sick for a long time wore.]],
+      music = "10_Happy_Family"
     }
   },
   [32184] = {
@@ -38451,41 +38858,50 @@ Endil laughed too. Just then, a chat window in the lower left corner started fla
       uid = 4082,
       next = 2,
       beijing = 1304,
-      sentence = "今晚我坐在窗边看书，因为天文台预告会有不错的满月。\n\n我本来是想和卡卡一起看的，但他看过演出后又被医生喊过去治疗，现在正躺在我身后的床上睡着了，偶尔也会发出一些格外痛苦的叫声。\n\n据他说，是因为使用Evol的副作用。\n\n新闻报道过Evolver都会生病的事，那时我就问过卡卡，他是不是也得了新闻上的劣化病，但他告诉我不是，因为他并不是真正的Evolver。等我接着往下追问的时候，他常常岔开话题，后来我索性就不问了。",
-      music = "48_Quiet_Daily",
-      voice = "est_32184_1.mp3"
+      sentence = "Tonight, I sat by the window with a book, waiting for the promised full moon the observatory had forecast.\n\nI'd wanted to watch it with Karl. But after the performance, the doctors called him back for treatment. Now he lay behind me, asleep in his bed. He would sometimes let out these faint, pained grunts.\n\nHe said it was the side effects of using Evol.\n\nThe news had reported for years that Evolvers eventually got sick. I'd asked Karl once if he had the same Deterioration Disease they talked about, but he told me no—because he wasn't a true Evolver. Whenever I tried to press further, he'd change the subject. Eventually, I stopped asking.",
+      music = "48_Quiet_Daily"
     },
     [2] = {
       uid = 4083,
       next = 3,
       beijing = 1304,
-      sentence = "只是每天晚上翻来覆去的病痛时间，估计很难熬。所以每到他治疗的日子，我都会选择靠着窗边看书，看他最喜欢的那本《变形记》。\n\n卡卡昨天说他的境遇和书里的主角差不多，都变成了和以前不一样的自我，却遭受了同样的境遇和痛苦。\n\n他很难过，而我也很难过，因为今天我的偶像周棋洛来我们医院演出了。\n\n他似乎是为了举办一场慈善活动而来，还带了周围没什么名气的合唱团过来。那个合唱团之前来过不少次，我听过，演出相当的敷衍差劲。",
-      music = "48_Quiet_Daily",
-      voice = "est_32184_2.mp3"
+      sentence = "Still, I knew those nights of tossing and turning must've been hell for him. On his treatment days, I'd always sit by the window and read. His favorite book was The Metamorphosis, so that's what I'd keep open on my lap.\n\nYesterday, Karl had said his life was just like the protagonist's—transformed into something unrecognizable, cursed with pain and rejection.\n\nHe was heartbroken. And so was I. Because today, my idol, Kiro, had come to our hospital to perform.\n\nIt was supposed to be for charity, and he'd even brought along the small choir that usually sang here. I'd heard them before. They sound like a cat in a blender.",
+      music = "48_Quiet_Daily"
     },
     [3] = {
       uid = 4084,
       next = 4,
       beijing = 1306,
-      sentence = "当然，今天的演出除外。\n\n而我之所以感到难过，是因为我无法像一个正常的歌迷一样站起来为他庆祝，在他表演到高潮的时候和他进行互动，就像我曾经无数次想象的那样。\n\n月色被乌云笼罩，书上也没有了光亮。\n\n我转身看向床铺，卡卡的呼吸很平稳，应该是睡着了，我也应该回床铺了。我照例走到他的床头，想看看瓶子里的花有没有凋谢。\n\n花依然绽放，只是比昨天少了一瓣。",
-      music = "48_Quiet_Daily",
-      voice = "est_32184_3.mp3"
+      sentence = "But even they sounded different today.\n\nAnd yet, even as the music soared, I felt a deep sadness. Because I could never be a normal fan—I couldn't stand up, couldn't shout his name, and couldn't reach toward him when the performance hit its peak, the way I'd imagined countless times.\n\nThe moonlight dimmed behind drifting clouds, leaving my book in the shadow.\n\nI turned toward Karl's bed. His breathing had steadied into something close to peaceful. He was asleep. I stepped to his bedside, checking the flower in the bottle between our beds.\n\nIt was still in bloom, though with one petal fewer than yesterday.",
+      music = "48_Quiet_Daily"
     },
     [4] = {
       uid = 4085,
       next = 5,
       beijing = 1306,
-      sentence = "他虽然笑着说，自己没事儿就会把瓶子里的花换一换，只是恰好换的都是同一个品种。而我却知道，这朵花从开始直到现在就没有变过。\n\n也不知道卡卡用了什么方式，才让这株花一直都不凋谢。我给花重新换了水，将两个病床之间的帘子拉上。\n\n可就当我躺在床上的时候，病房门被打开了。沉稳的脚步声一步接着一步走着，停在了房间中央。\n\n我知道那并不是卡卡的声音，也并非晚上巡查医生的脚步声。我把头埋得更深了一点，身旁的脚步声却越来越近。",
-      music = "09_Suspect",
-      voice = "est_32184_4.mp3"
+      sentence = [[
+He said he swapped out the flower every now and then, but somehow, it was always the same kind. He called it a coincidence, but I knew better. It had always been the same flower.
+
+Somehow, he was keeping it alive. I replaced the water and drew the curtain closed between our beds.
+
+Just as I lay down, the door creaked open and heavy footsteps crossed the room.
+
+It wasn't the footsteps Karl usually made, and it wasn't the quiet tread of a night doctor. I pulled the blanket tighter, burying my head as the steps drew closer.]],
+      music = "09_Suspect"
     },
     [5] = {
       uid = 4086,
       next = 0,
       beijing = 1306,
-      sentence = "咚咚，很明显，那是某种不同于检测仪器的声响。\n\n“BOSS，仪器已经准备好了，确认201号床为这次的目标卡卡。”\n\n“动手。”\n\n我听到的声音无比冰冷，如同落在床上的水银般的月色。",
-      music = "09_Suspect",
-      voice = "est_32184_5.mp3"
+      sentence = [[
+With a thud, they placed a machine down.
+
+"We're all set, boss. Bed 201, Karl. This is our guy."
+
+"Do it."
+
+The reply was as cold as the shadow of a grave at midnight.]],
+      music = "09_Suspect"
     }
   },
   [32185] = {
@@ -38493,57 +38909,90 @@ Endil laughed too. Just then, a chat window in the lower left corner started fla
       uid = 4087,
       next = 2,
       beijing = 1306,
-      sentence = "这是个夜晚湿热的季节，可现在的我却冷得浑身发抖。我蜷缩在被子里，能听到对面床铺所传来的阵阵响动。有金属的敲击声，西装的摩擦声，和卡卡时不时发出的声响。\n\n“BOSS，确认有使用过机械盒子的迹象。”\n\n“劣化情况呢？”\n\n“已经是重度劣化了，他甚至在无意识中一直保持着Evol释放。”\n\n交谈的人不止一个，但却很容易分辨出谁才是他们中间主导的那个人。",
-      music = "22_Despair",
-      voice = "est_32185_1.mp3"
+      sentence = "The air was heavy and damp with summer heat, but I shivered so hard my teeth almost rattled. Curled up under the blanket, I listened to the noises from Karl's bed—metal clinking, fabric rustling, and his strained, broken voice slipping through.\n\n\"Confirmed signs of mechanical box usage, boss.\"\n\n\"How's his deterioration?\"\n\n\"Severe. He's unconsciously releasing Evol, even in his current state.\"\n\nThere were several voices in the room, but it was easy to tell who held the authority.",
+      music = "22_Despair"
     },
     [2] = {
       uid = 4088,
       next = 3,
       beijing = 1306,
-      sentence = "“这么频繁地释放，周围一定有被影响的物品，查。”\n\n为首的男人听起来年纪不大，却颇有威严。跟随命令一同响起的，还有剩下几个人在房间里进行摸索的响声。\n\n不幸中的万幸，他们并没有靠近我的床位。\n\n“BOSS，找到了。”\n\n我悄悄从床褥里探出头，在帘子的遮挡下，我勉强能看到几道虚影映照在上面。他们都团团围在一个人的身旁，手上则是那朵我再熟悉不过的花。",
-      music = "22_Despair",
-      voice = "est_32185_2.mp3"
+      sentence = [[
+"If he's been releasing Evol this frequently, there ought to be signs nearby. Search the place."
+
+The leader's voice was calm but commanding. He was young but undeniably authoritative. As he spoke, the rest began combing the room, drawers opened, bedsheets rustling, and footsteps thudding against the floor.
+
+By sheer luck, they didn't approach my side of the room.
+
+"Boss, we found it."
+
+From under my blanket, I dared a glance. The curtain between us obscured the view, but faint shadows danced across the fabric. They had gathered around Karl's bed, and in one of their hands, unmistakably, was the flower I knew too well.]],
+      music = "22_Despair"
     },
     [3] = {
       uid = 4089,
       next = 4,
       beijing = 1306,
-      sentence = "“是这朵花吗？”\n\n“根据上面传来的Evol波动来看，可能性很大。”\n\n“对象在使用机械盒子后，很可能获得了有关植物生长相关的Evol。”\n\n“而劣化后，对象因为无法控制住Evol的释放，这朵花就一直活着。”\n\n“从结果来看，更促使了该对象的进一步劣化。”\n\n我听到这，也明白了那朵花从未凋谢的原因。",
-      music = "22_Despair",
-      voice = "est_32185_3.mp3"
+      sentence = [[
+"Is this it?"
+
+"Judging by the Evol energy readings, it's the likeliest candidate."
+
+"Looks like after using the mechanical box, the subject developed Evol related to plant growth."
+
+"Now that his Evol has deteriorated, his power is leaking uncontrollably. That's why the flower hasn't withered."
+
+"Based on the test results, the continued release has accelerated his deterioration."
+
+So that was the answer; the flower bloomed without pause.]],
+      music = "22_Despair"
     },
     [4] = {
       uid = 4090,
       next = 5,
       beijing = 1306,
-      sentence = "“能查到他获得机械盒子的渠道吗？”\n\n“通过对记忆搜寻应该能整理出一些线索，但剩下的还是要追查。”\n\n“那就查下去。”\n\n名为BOSS的男子声音很轻，却露出令人难以抗拒的威严。\n\n“调查结束，就赶紧走吧。”\n\n“BOSS，屋里那个醒着的人该怎么处理？”\n\n“清除他的记忆，剩下的处理都交给你们了。”",
-      music = "22_Despair",
-      voice = "est_32185_4.mp3"
+      sentence = [[
+"Can we trace where he got the mechanical box?"
+
+"We can probably get some clues from the memory scan. But we'll still have to do the digging ourselves."
+
+"Then do it."
+
+His voice was soft, but the weight behind it brooked no argument.
+
+"We're done here. Pack up."
+
+"Boss, what about the other patient?" someone asked. "The one who's awake?"
+
+"Erase his memory. Handle the rest as necessary."]],
+      music = "22_Despair"
     },
     [5] = {
       uid = 4091,
       next = 6,
       beijing = 1306,
-      sentence = "“知道了，我会确认另一名人员不会保留这段记忆。”\n\n当我听到脚步声临近的时候，除了闭上眼睛装睡，我找不到别的办法。我多希望自己能够正常走路，那样起码，我还能试着跑出去。而不是像现在一样，双腿冰冷得，如同一块镶嵌在身上的石头。\n\n在帘幕被打开的时候，我只能紧紧抓紧被子，听到皮鞋声一步步靠了过来。\n\n那是一双很大的手，轻轻按在我的头顶。我不知道他要做什么，来清除我的记忆。",
-      music = "22_Despair",
-      voice = "est_32185_5.mp3"
+      sentence = [[
+"Understood. I'll make sure everything's wiped."
+
+The sound of footsteps drew closer. I curled deeper under the covers, holding my breath. If only I could walk. If only I could run. But my legs had long since turned cold and useless, like a dead weight I couldn't shed.
+
+The curtain slid open as he approached me. Then, a large and unfamiliar hand came to rest gently on my head.
+
+I didn't know what he was about to do. I only knew it would take everything from me.]],
+      music = "22_Despair"
     },
     [6] = {
       uid = 4092,
       next = 7,
       beijing = 1306,
-      sentence = "记忆真的会被清除吗？我曾经从书里看到过一个论点：你的记忆，并不属于你一个人。\n\n或许，今晚发生的一切，会以另一种方式永远被记住。\n\n随着一股剧烈的疼痛袭来，浓重的睡意瞬间从我的大脑袭来。我好像看到很多画面，有白天和卡卡的争吵，周棋洛的演出，还有刚刚读过的《变形记》上的段落。\n\n而当这些画面过后，在我脑海里所浮现的，是我远远抛下轮椅，在地上赤脚奔跑的样子。",
-      music = "22_Despair",
-      voice = "est_32185_6.mp3"
+      sentence = "Do memories truly vanish? I once read that our memories don't belong solely to us.\n\nPerhaps everything that happened tonight will live on in another form.\n\nThen, a searing pain tore through me, and a heavy wave of drowsiness overwhelmed my thoughts. Images flickered before my eyes: the argument with Karl earlier today, Kiro's performance, and fragments from The Metamorphosis I had just finished reading.\n\nAs those scenes faded, a final image rose to the surface of my mind—me, casting aside the wheelchair and running barefoot across the ground, free.",
+      music = "22_Despair"
     },
     [7] = {
       uid = 4093,
       next = 0,
       beijing = 1306,
-      sentence = "各种场景在我脑海里不断交织，让一个许久没有出现的声音，重新出现在了我的脑海里。\n\n我要好好地活着，用心地活着，等到有一天，上天把他欠我的全部还给我。\n\n这个声音，传到了很远的地方。",
-      music = "22_Despair",
-      voice = "est_32185_7.mp3"
+      sentence = "Countless scenes wove together in my mind, intertwining until a long-silent voice resurfaced from deep within me.\n\nI will live—fully, deliberately—until the day everything owed to me is returned.\n\nThat voice didn't just echo in my mind; it traveled far, as if carried on the wind, reaching places even I could no longer follow.",
+      music = "22_Despair"
     }
   },
   [32191] = {
@@ -38551,72 +39000,64 @@ Endil laughed too. Just then, a chat window in the lower left corner started fla
       uid = 4094,
       next = 2,
       beijing = 4630,
-      sentence = "后半夜，我几乎没有睡。\n\n不是思虑过度，也没有伤心和难过，我只是想在这样安静的夜里，静静感受一切。\n\n我侧过身，久久望着她。\n\n前半夜里她说的每一个字，我都记得清清楚楚，也记得自己认真地答应了她。\n\n但其实我知道，我不一定能做到。\n\n也许……喜欢一个人，是会偶尔当一个“骗子”的。",
+      sentence = "I was awake long into the night.\n\nNot lost in thought or weighed down by sadness—I just wanted to soak in the silence and the moment.\n\nTurning toward her, I studied her sleeping face, imprinting it in my memory.\n\nI recalled every soft word she'd said and every sincere promise I'd made in return.\n\nBut a part of me already knew I might fail.\n\nMaybe this is what love is... sometimes you become a gentle \"liar\" for the one you cherish.",
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_32191_1.mp3",
       special = 1
     },
     [2] = {
       uid = 4095,
       next = 3,
       beijing = 4630,
-      sentence = "在不让她担心这一点上，我会心甘情愿地骗她，就像超级英雄电影里的那些反派一样，在面对众人审判的时候，他们总是有着一个又一个冠冕堂皇的理由，为了全人类，去牺牲全人类。\n\n而我也会为了她开心，为了她不担心，去骗她，去把不好的自己统统藏起来。\n\n还好……她不会读心术。\n\n不然她肯定又要气得像一只小金鱼，鼓着脸，叉着腰，叫我的名字，说我是个大傻瓜。\n\n傻就傻吧，这也是我心甘情愿的。",
+      sentence = "I'll lie to keep her safe, and I'll do it gladly. I think I understand those movie villains now—standing before the crowd, weaving lofty excuses. \"For the greater good,\" they say, while their hands do the very thing that undoes it.\n\nSo too will I hide my shadow self—lock away every flaw and fear—if it lets her live in the light, untouched.\n\nLuckily... she can't see through me.\n\nIf she could, she'd puff up like a tiny, indignant goldfish, scolding me with my full name and declaring me the biggest fool alive.\n\nA fool I may be—but for her, it's a role I choose with all my heart.",
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_32191_2.mp3",
       special = 1
     },
     [3] = {
       uid = 4096,
       next = 4,
       beijing = 4994,
-      sentence = "我忍不住轻轻抱住她，好像这样，就会少一些胡思乱想。但即便如此，我依然不怎么困，甚至能慢慢地察觉到……感官在越来越清醒的状态下被放大了。\n\n房间里的空气因为还下着大雨又潮又湿，吸进鼻腔里一股凉意。沿着屋檐滴落的雨水也像不变的节拍器，均匀，乏味，没有变化。\n\n怎么办，阿薯，这场雨好像真的停不下来了。\n\n估计是神仙要处理的心愿实在太多，根本顾不上我们，所以哪怕用美食去贿赂也没用……\n\n唉，要是我自己就是神仙就好了。",
+      sentence = "I drew her into my arms, as if her nearness could calm the chaos in my head. Still, sleep wouldn't come. Instead, I found myself growing more awake, every sensation amplified in the rainy night.\n\nThe air in the room was thick with damp chill—I could feel it, cool and heavy, with every breath I drew in. Raindrops pattered from the eaves above in a steady, sleepy rhythm, never speeding up or slowing down.\n\nMiss Chips... I think the rain's here to stay.\n\nThe gods must be too busy to notice us. Guess our bribe wasn't tempting enough...\n\nMan, I wish I were in charge of the weather.",
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_32191_3.mp3",
       special = 1
     },
     [4] = {
       uid = 4097,
       next = 5,
       beijing = 4994,
-      sentence = "……我可以是神仙吗。\n\n我有超能力，也算是半个小神仙了吧？\n\n再说了，即便我的超能力和天气无关，但偶尔的唯心主义或许真的会发生奇迹呢……？\n\n我忽然觉得没那么烦躁了，好像真的找到了一个出口，让我忍不住跃跃欲试起来。\n\n我轻轻握住她的手，闭上眼睛，效仿着我看过的所有电影和电视剧，将意念凝聚成一个点……\n",
+      sentence = "...Can't I be, in a way?\n\nI'm not exactly ordinary. With these powers, I'm at least... supernatural-adjacent.\n\nAnd even if I can't command the skies, maybe believing hard enough can bend reality a little...?\n\nMy earlier irritation melted away, replaced by a sudden, playful determination. It felt like I'd stumbled onto a secret path.\n\nGently squeezing her hand, I closed my eyes and summoned every meditation trope I'd ever seen on screen—channeling all my willpower into a single, hopeful thought...",
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_32191_4.mp3",
       special = 1
     },
     [5] = {
       uid = 4098,
       next = 6,
       beijing = 4994,
-      sentence = "雨停下。\n\n停下来。\n\n立刻放晴。\n\n艳阳高照！\n\n我反复默念着，念着念着又没忍住笑了。难怪阿薯会说我是大傻瓜，怎么病急就乱投医了。\n\n可是……\n\n万一真的实现了呢，毕竟爱就是会让奇迹发生的。",
+      sentence = "Rain, cease.\n\nStop falling.\n\nSky, clear.\n\nSun, blaze!\n\nI focused the words in my mind, repeating them like a mantra until a soft laugh escaped me. She calls me a fool for a reason—here I am, trying to wish away the weather.\n\nBut...\n\nwhat if it did? They say love works miracles. Maybe even this silly wish of mine could be one.",
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_32191_5.mp3",
       special = 1
     },
     [6] = {
       uid = 4099,
       next = 7,
       beijing = 6030,
-      sentence = "不知道过去了多久，周围细微的声响似乎越来越远，直到一声鸟啼划破天际，我突然反应过来什么，睁开了眼睛。\n\n“……雨停了。”\n\n我不知道是不是自己的超能力起了作用，但此时此刻，我看到了微亮的阳光。\n\n甚至前几天还含苞待放的花蕾们，也像烟火一样四处绽放。\n\n天真的晴了，我们的桃花也开了。",
+      sentence = "I'm not sure how long I stayed like that. The subtle sounds around me seemed to recede, until a single chirp cut through the quiet. My eyes opened.\n\n\"...It stopped raining.\"\n\nI'll never know if my ability worked. But right then, I saw it—the pale, promising light of dawn.\n\nEven the buds that had seemed shy and closed were now open wide, blooming like silent fireworks across the trees.\n\nThe sky had cleared. And as if in answer, the peach blossoms had burst into full bloom—just for us.",
       music = "28_Double_Seventh02",
-      voice = "est_32191_6.mp3",
       special = 1
     },
     [7] = {
       uid = 4100,
       next = 8,
       beijing = 6030,
-      sentence = "我看向还在睡梦中的她，那个念头无比清晰地冒了出来。\n\n心跳忽然加快了，像是有什么汹涌的情绪促使着我走下床，向衣柜径直走去。\n\n我越走越快，心里那道强烈的声音在不停地告诉我，必须再快一点。\n\n在她醒来之前，在她找到我之前，我要做好一切的准备。\n\n要和太阳一起出现在她的面前，让她一睁开眼，一抬起头就看到我。",
+      sentence = "I watched her sleeping, and the thought rose in my mind, unmistakable and vivid.\n\nA sudden rush quickened my heartbeat, an urgent pull that sent me out of bed and across the room toward the closet.\n\nMy pace quickened to a near-run, driven by a voice that drummed in my blood: Faster. Now.\n\nI had to be ready before she woke—before she could even think to find me.\n\nI would meet her with the sunrise, so the moment she opened her eyes and looked up, I'd be the very first thing she saw.",
       music = "28_Double_Seventh02",
-      voice = "est_32191_7.mp3",
       special = 1
     },
     [8] = {
       uid = 4101,
       next = 0,
       beijing = 6030,
-      sentence = "假如刚刚的唯心主义真的有用，那我还想再贪心地使用一次“超能力”。\n\n我闭上眼——\n\n我是$u的如意郎君。\n\n生生世世，我都要永远爱她。",
+      sentence = "If wishful thinking really worked just now... then let me borrow that magic again, just once.\n\nI shut my eyes—\n\nLet this be my truth: I am the one meant for $u.\n\nIn this life and every life to come, my love for her will have no end.",
       music = "28_Double_Seventh02",
-      voice = "est_32191_8.mp3",
       special = 1
     }
   },
@@ -51701,73 +52142,105 @@ Only one thought went through Jules' head: So this was true combat.]],
       uid = 3923,
       next = 2,
       beijing = 2060,
-      sentence = "作为一名普通的“桌游店”员工，平常的工作自然也没什么特别。\n\n除了每天在店里扮演“氛围NPC”外，还经常被老板委派去体验别家剧本。美其名曰是考察，实际上就是想办法“借鉴一下”。\n\n虽说累得够呛，但这份工作也算是有份成就感。就算是飘在天上的气球，也总有想踏踏实实落在地面的时候。\n\n“啊，今天的活总算是干完了——”\n\n结束一天工作的平常半躺在床上无聊地拨弄手机，等待着泡面完成。",
-      music = "04_Normal",
-      voice = "est_42171_1.mp3"
+      sentence = "As a regular employee at a tabletop game café, Peyton's daily routine wasn't anything remarkable.\n\nMost of the time, he played the role of a \"background NPC,\" just blending in and helping set the mood. Occasionally, his boss would send him out to play at the other stores—he called it \"field research,\" but let's be honest, it was just a polite way of saying, go find stuff we can copy.\n\nIt was tiring work, but not without a sense of accomplishment. Even a balloon drifting high eventually longs to feel the solid ground of an honest day's work.\n\n\"Ugh, finally done for the day...\"\n\nHe flopped halfway onto his bed, absently swiping through his phone as he waited for his instant noodles to finish cooking.",
+      music = "04_Normal"
     },
     [2] = {
       uid = 3924,
       next = 3,
       beijing = 2060,
-      sentence = "而这份来之不易的宁静，也随着手机提示声响起，荡然无存。\n\n“平常啊，过两天准备提供一份《奥德赛》的游戏体验报告，有关这次狂欢夜的。”\n\n“我好不容易给你的设备申请了内测资格，今晚抓紧搞一下。”\n\n“加油干啊，干好了年底给你算绩效里。”\n\n听着手机的语音，平常感觉嘴里的泡面都不香了。说是算绩效，潜台词就是完不成就扣钱。平常瞅了瞅旁边的时间，狂欢夜活动就要开始了。",
-      music = "04_Normal",
-      voice = "est_42171_2.mp3"
+      sentence = "That rare moment of peace didn't last long. His phone buzzed, and just like that, it was back to work.\n\n\"Hey Peyton, in a couple of days, I need you to put together a player experience report for Odyssey. You know, their Carnival Night event.\"\n\n\"I pulled some strings and got you into the closed beta. Hop on tonight and get it done.\"\n\n\"Do a good job, and I'll count it in your year-end performance review.\"\n\nListening to the voice on his phone, he suddenly wasn't so hungry anymore. Year-end performance review? That was code for: mess this up and I'm docking your pay. Peyton glanced at the clock—Carnival Night was about to start.",
+      music = "04_Normal"
     },
     [3] = {
       uid = 3925,
       next = 4,
       beijing = 3025,
-      sentence = "他匆忙戴起头盔，随着眩目的白光闪过，他已经站在了《奥德赛》的游戏世界内。\n\n“狂欢夜，从哪进来着……”\n\n打开系统界面，他果然发现了“狂欢夜”的标识，而上面显示“吉祥村”的游戏这个时间段还有个空位。\n\n本游戏包含一定恐怖元素，若有不适请参与者及时退出游戏。听到这段提示的平常，心中不自觉地咯噔一下。\n\n因为他，很害怕恐怖题材。",
-      music = "04_Normal",
-      voice = "est_42171_3.mp3"
+      sentence = [[
+In a rush, Peyton put on his VR headset. As the blinding white light flashed, he was transported into the game world of Odyssey.
+
+"All right, where's the entrance for Carnival Night again..."
+
+He opened the system menu and quickly spotted the event icon. There was still one open slot in a game mode labeled Silent Ville.
+
+Warning: This game contains mild horror elements. If you feel unwell, please exit immediately. The system voice triggered a reflexive jolt in his chest.
+
+Peyton was terrible with horror stuff.]],
+      music = "04_Normal"
     },
     [4] = {
       uid = 3926,
       next = 5,
       beijing = 1742,
-      sentence = "可一想起刚才老板的消息，他强撑着让自己打起精神。算了，毕竟和体验恐怖游戏比起来，扣工资听起来更像是恐怖故事。\n\n欢迎玩家“赶鸭子上架”来到吉祥村。\n\n灰蒙蒙的云层将天空遮蔽，透过尘土飞扬的砂石路能隐约望到蜿蜒攀升的炊烟。\n\n上来就把人抛在村子外，这也算增加体验感的方法吗？平常脚下没有半分耽搁，他边走边打开了游戏内的面板，而在上面等待他的赫然是普普通通的“本地村民”，和毫无营养的个人任务。",
-      music = "09_Suspect",
-      voice = "est_42171_4.mp3"
+      sentence = [[
+But with his boss's threat still fresh in his mind, Peyton forced himself to stay calm. When he thought about it, losing part of his paycheck sounded way more terrifying than any ghost.
+
+Welcome, "FlyDuck55," to Silent Ville.
+
+Gray clouds hung low in the sky. Dust blew across the unpaved road, and smoke coiled faintly in the distance beyond the hills.
+
+Being dropped outside the village from the start, was this meant to boost immersion? With no time to spare, Peyton started walking and opened the in-game interface. His assigned role was "Local Villager," and his personal task was as generic as it gets.]],
+      music = "09_Suspect"
     },
     [5] = {
       uid = 3927,
       next = 6,
       beijing = 1742,
-      sentence = "简单总结，除了投票之外，这局游戏的胜负和他没太大关系。他现在只是在心底默默祈祷，这次的游戏千万不要太吓人，让他能赶快体验完出去走人。\n\n可越是走得急，这条小路却显得格外漫长。\n\n干枯的柳树歪斜地立在道路旁，分叉的枝干像是一根根枯槁的手臂。\n\n咔嚓，伴随着脚下一声清脆的断裂声，平常感觉自己瞬间向前倒了过去。尖锐的砂石在他的手臂上划开淡淡血痕，被汗水模糊的视线只能看到身侧堆满的白色物体。",
-      music = "09_Suspect",
-      voice = "est_42171_5.mp3"
+      sentence = [[
+From what he could tell, aside from the vote mechanic, he didn't have much influence over the game's outcome. All he could do was hope the horror elements weren't too intense, so he could get in, complete the experience, and get out.
+
+The more he hurried, though, the longer the narrow path seemed to stretch.
+
+Crooked willow trees lined the roadside, their gnarled branches clawing at the air like brittle arms.
+
+Crack. Something snapped beneath his foot, and Peyton tumbled forward. Sharp gravel scraped his arm, and in his sweat-blurred vision, he caught sight of something pale piled nearby.]],
+      music = "09_Suspect"
     },
     [6] = {
       uid = 3928,
       next = 7,
       beijing = 1742,
-      sentence = "随着视线上移，田地里横七竖八地散落着破旧的墓碑，强烈地刺激着平常的神经。他忙不迭地从地上爬了起来，身后却传来了声响。\n\n“谁？”\n\n烈烈的风声从背后呼啸而过，恍若在山间中游荡的欺凌哀嚎。盲目的恐惧感已经将他此刻的理智吞噬殆尽，直到肩膀上的触感传了过来。\n\n“请问吉祥村是这个方向吗？”\n\n出现在他面前的，是个年轻男人的面容，头顶顶着一个象征玩家的ID，BQ123。",
-      music = "09_Suspect",
-      voice = "est_42171_6.mp3"
+      sentence = "He raised his eyes and saw broken, timeworn gravestones scattered across a patch of barren land. His nerves lit up in alarm, and he scrambled to his feet—just in time to hear a noise behind him.\n\n\"Who's there?!\"\n\nThe wind tore past him in a sharp gust, howling like some tormented soul wandering the mountains. Fear gripped him so tightly he could barely think—until a hand touched his shoulder.\n\n\"Hey, is this the way to Silent Ville?\"\n\nIt was a young man, his face calm, with the player ID GVN123 floating above his head.",
+      music = "09_Suspect"
     },
     [7] = {
       uid = 3929,
       next = 8,
       beijing = 1742,
-      sentence = "太好了，终于看见人了。\n\n平常在心底长舒一口气，煞白的脸恢复了不少血色。\n\n“我是过来旅游的……背包客。你呢？”\n\n“我是本地的。”\n\n他掸了掸膝盖上的尘土，随后定睛一看，才发现刚才误以为的白骨，只是白化了的干枯树枝罢了。\n\n“前面就是吉祥村了。”",
-      music = "19_Daily02",
-      voice = "est_42171_7.mp3"
+      sentence = [[
+Relief washed over Peyton. Finally. A real player.
+
+He exhaled deeply, the blood returning to his face.
+
+"I'm visiting these parts. Backpacking around. You?"
+
+"I'm a local," Peyton replied.
+
+Dusting off his knees, he took another look at the white shapes he'd seen earlier. Turned out, they weren't bones, just sun-bleached, dead branches.
+
+"The village is just up ahead."]],
+      music = "19_Daily02"
     },
     [8] = {
       uid = 3930,
       next = 9,
       beijing = 4973,
-      sentence = "“外地人来我们这边，可不是很常见。”\n\n平常想了想自己的身份设定，朝着面前的男人指了指平房。\n\n“多谢。”\n\n面前的男人抖了抖身后的背包朝着村中走去，而平常此刻也终于在村落的角落里找到了一间低矮的平房。\n\n从设定上来说，这就是他在村子里的家。除了桌子和条凳外，偌大的屋子里只有孤零零的一张床。",
-      music = "19_Daily02",
-      voice = "est_42171_8.mp3"
+      sentence = "\"Not every day we see outsiders around here,\" Peyton said.\n\nStaying in character, he gave a small nod and gestured toward one of the low-roofed houses nearby.\n\n\"Thanks.\"\n\nThe man said simply as he gave his backpack a shake and disappeared down the village path. Peyton, meanwhile, finally located a squat, run-down house tucked away in the far corner of the village.\n\nAccording to his character's backstory, this was his in-game \"home.\" The inside was barebones—just a table, a bench, and a lone creaky bed in the middle of the otherwise empty room.",
+      music = "19_Daily02"
     },
     [9] = {
       uid = 3931,
       next = 0,
       beijing = 4975,
-      sentence = "而此刻被恐怖氛围所折磨的平常已经管不得那么多，毫不犹豫地钻入到了那床被子里。\n\n温暖的感觉，真有安全感啊。\n\n从布满灰尘的窗户望去，只能依稀看到门口摇晃的诡异稻草人。空荡的房间阴冷潮湿，而随着他每次躲在被窝里不安地抖动，身下的床铺都会传来吱呀的声响。对于这种情况，平常此刻，只有一个想法。\n\n长痛不如短痛，快来个人把我刀了吧！",
-      music = "19_Daily02",
-      voice = "est_42171_9.mp3"
+      sentence = [[
+But with the game's eerie mood already gnawing at his nerves, Peyton didn't care about the sparse decor. Without hesitation, he crawled straight under the musty blanket.
+
+It was warm, as if it were a small pocket of safety and comfort.
+
+Outside the cracked, dusty window, a scarecrow swayed unnaturally in the wind, its silhouette twitching at the edge of his vision. The room itself was cold and damp, and every time he flinched under the covers, the old bed let out a high-pitched creak.
+
+Right now, Peyton had one thought and one thought only: Screw this. Someone just kill me already and get it over with!]],
+      music = "19_Daily02"
     }
   },
   [42172] = {
@@ -51775,65 +52248,98 @@ Only one thought went through Jules' head: So this was true combat.]],
       uid = 3932,
       next = 2,
       beijing = 4975,
-      sentence = "等第二天早晨被冻醒时，平常的内心是非常绝望的。本来昨晚睡前还期待有人把他给刀出局，这样他就能在体验报告上光明正大地水一水数字，开开心心地向老板交差了。\n\n不过想想也对，像他这种毫无存在感的村民很少成为被关注的目标，被刀的几率自然也是少之又少。\n\n“请所有人前往村祠堂集合。”\n\n猛然响起的喇叭震耳欲聋，平常把目光从远处收了回来。按照游戏流程来说，接下来应该是游戏的投票环节。昨晚也不知道有没有人先被淘汰？",
-      music = "19_Daily02",
-      voice = "est_42172_1.mp3"
+      sentence = "By the time the morning chill woke him, Peyton was downright miserable. He'd gone to bed half-hoping someone would eliminate him during the night—then he could write a fluff report, call it a day, and hand it off to his boss without guilt.\n\nBut realistically, that wasn't going to happen. A nobody like him was the last person anyone would target. No heat, no votes, no drama.\n\n\"All players, please report to the shrine for the morning gathering.\"\n\nA loudspeaker blared, snapping him out of his haze. He blinked and turned his gaze away from the distant rooftops. If the game followed its usual pattern, it was probably time for the first vote. Had anyone gotten taken out overnight?",
+      music = "19_Daily02"
     },
     [2] = {
       uid = 3933,
       next = 3,
       beijing = 4974,
-      sentence = "他朝着周围看了看，一间间破旧的瓦房拥簇在这里，从外表上几乎分不出什么区别，只是在某间房上，似乎少了那个阴森森的小稻草人。\n\n这就是村民吗？天一黑，眼一闭，从此世界都清净。\n\n他边朝着村公所走去，心里边盘算着待会用什么样的发言，让狼盯上他，把他刀出去。可他昨晚光顾着躲在被窝里担惊受怕了，也没什么值得说的信息。\n\n村公所的大门已经矗立在他的面前。熙熙攘攘的人群拥簇着坐在里面，其中还有昨天吓自己一跳的那位BQ123。",
-      music = "19_Daily02",
-      voice = "est_42172_2.mp3"
+      sentence = "He glanced around at the cluster of aging houses. They all looked the same except for one that was missing its creepy scarecrow.\n\nSo this is the gameplay of a local villager—night comes, close your eyes, sleep, and pray for the best.\n\nAs he headed toward the town hall, he mentally rehearsed what kind of speech might bait the werewolf into voting him out. But the truth was, he'd spent the whole night hiding under a blanket, too freaked out to gather any info.\n\nThe town hall's crooked doors stood ahead. Inside, the other players were already gathered, chatting in groups—among them, the player who'd scared the life out of him yesterday: GVN123.",
+      music = "19_Daily02"
     },
     [3] = {
       uid = 3934,
       next = 4,
       beijing = 4974,
-      sentence = "算了，走一步算一步吧，在迈过破旧的门槛之前，平常的心里闪过一个大胆的想法。\n\n不如假扮狼人？让别人把我给推出去？\n\n事实证明，想法和实践总归是有很多区别的。虽然心里想假装狼结束这场游戏，可实际发言的时候却是支支吾吾，并没引起什么波澜。看着周围已经四散开的人群，平常也开始为自己的报告担忧了。\n\n不过自己身上还有“欺骗外来人，保护秘矿”的任务，总归还是有点事情做的嘛。",
-      music = "19_Daily02",
-      voice = "est_42172_3.mp3"
+      sentence = [[
+Whatever, Peyton thought, I'll just wing it. Before he could put that plan into action, an even riskier idea popped into his head:
+
+What if I pretend to be one of the werewolves and get voted out on purpose?
+
+But ideas were one thing, execution, was another. When it came time to speak, his voice wavered, his story rambled, and it barely made a splash. The crowd broke up soon after, leaving Peyton to worry that his experience report to his boss was going to be a complete flop.
+
+At least he still had one in-game objective: "Deceive the outsider and protect the secret mine." Not much, but it gave him something to focus on.]],
+      music = "19_Daily02"
     },
     [4] = {
       uid = 3935,
       next = 5,
       beijing = 4974,
-      sentence = "稍微定了定心神的平常朝着村落的中央走去，反正其他人总会四处探索的，自己只要“守株待兔”就行了。\n\n可是等了一会，除了偶尔在枯枝上停驻的乌鸦，压根没有别的玩家向他搭话。他拿着路边的铲子在地上胡乱戳着，视线里却突然出现了一个人影。\n\n他扬起头，面前站着的则是昨天进村时见过的那个BQ123。\n\n“是你？”\n\n“你怎么不去找找线索？”",
-      music = "19_Daily02",
-      voice = "est_42172_4.mp3"
+      sentence = "Steeling himself, Peyton made his way toward the village square. The others were probably off exploring. He figured he could just sit tight and wait for someone to talk to him.\n\nBut time passed, and no one approached. Apart from a few crows hopping from tree to tree, the place was dead quiet. Bored, he picked up a nearby shovel and started poking at the dirt. Then, a shadow appeared in the corner of his eye.\n\nHe looked up—and there he was again. GVN123.\n\n\"You again?\"\n\n\"Why aren't you out looking for clues?\"",
+      music = "19_Daily02"
     },
     [5] = {
       uid = 3936,
       next = 6,
       beijing = 4974,
-      sentence = "似乎是对平常在这无聊到锄地的行为感到不解，BQ123的微微扬起的眉头中饱含着一丝疑惑。\n\n“那些都是你们这些外来人做的，我不去。”\n\n“作为一个从小长在村里的人，这里我熟得很。”\n\n不知道是不是职业病附体，凭借着系统给的背景故事，平常很轻松地就带入了普通村民的身份。随意地往路边的石凳一坐，晃腿的样子活像个老大爷。\n\n“是吗？你昨天看起来不像是本地人。”",
-      music = "19_Daily02",
-      voice = "est_42172_5.mp3"
+      sentence = [[
+The guy looked genuinely baffled that Peyton was doing nothing but digging up dirt.
+
+"That's the job for you outsiders."
+
+"I've lived here my whole life. I already know this place inside out."
+
+Maybe it was the roleplay instinct kicking in, but Peyton slipped into the villager persona with uncanny ease. He plopped down on a stone bench nearby, legs swinging like some retired old man watching the world go by.
+
+"Oh yeah? Because yesterday, you didn't really look like a local."]],
+      music = "19_Daily02"
     },
     [6] = {
       uid = 3937,
       next = 7,
       beijing = 4974,
-      sentence = "“我天生胆小，没辙啊。”\n\n“那刚刚村长口中的诅咒，你肯定不清楚了。”\n\n“当然，我躲还来不及呢。”\n\n平常挑了挑眉，视线正对上BQ123。对方眸底的锋锐，让他心底不由得感慨起来。这个玩家，语气这么有模有样，看来也挺入戏的。\n\n他低头咳嗽了两声，摆了摆裤腿上的泥土，随手朝着身后的林子指了过去。\n\n“想调查的话，后山那边全是荒地野坟，阴气重得很。”",
-      music = "19_Daily02",
-      voice = "est_42172_6.mp3"
+      sentence = [[
+"It's not my fault I get scared easily, okay?"
+
+"Well, then I guess you also have no idea about that curse the village chief mentioned."
+
+"Of course. What makes you think I wanted to be any part of it?"
+
+Peyton lifted an eyebrow, locking eyes with GVN123. There was a sharpness there, an alertness that made Peyton pause. This guy's really in character, he thought.
+
+He coughed and casually brushed some dirt from his pants, and then tilted his head toward the woods behind him.
+
+"If you're dead set on poking around, check the back hills. The whole place is littered with graves and abandoned lots. Creepy as hell."]],
+      music = "19_Daily02"
     },
     [7] = {
       uid = 3938,
       next = 8,
       beijing = 4974,
-      sentence = "“你想找点邪门的东西，说不定就在那。”\n\n平常尽量绘声绘色地说着，BQ123只是稍微思考了片刻，随后点了点头。\n\n“好。”\n\n可紧接着BQ123并没朝着后山走去，而是走向了远处的祠堂。眼看自己今天第一次“骗人计划”要失败，平常赶紧喊了喊。\n\n“喂，你不去后山么。”\n\n“不了，谢谢你提供的情报。”",
-      music = "19_Daily02",
-      voice = "est_42172_7.mp3"
+      sentence = [[
+"If you're looking for something weird, it's probably back there."
+
+Peyton tried to put in as much effort as he could to make it sound convincing. GVN123 paused for a second, considering it, and then gave a small nod.
+
+"Alright."
+
+But instead of heading toward the back hills like Peyton had hoped, GVN123 casually turned and started walking toward the shrine. Realizing his first attempt at misleading him was falling apart, Peyton quickly called after him.
+
+"Hey! Aren't you gonna check out the hills?"
+
+"Nah. But thanks for the info."]],
+      music = "19_Daily02"
     },
     [8] = {
       uid = 3939,
       next = 0,
       beijing = 4974,
-      sentence = "看着对方在空中摆了摆手，平常知道自己的“骗人计划”应该是失效了。他默默踩了踩泥地，心底只有一个想法。\n\n做个村民，也挺难的。",
-      music = "19_Daily02",
-      voice = "est_42172_8.mp3"
+      sentence = [[
+Watching GVN123 wave him off and walk away, Peyton knew his trick had flopped. He stomped lightly on the muddy ground, sighing inwardly.
+
+Man... being a villager is tougher than I thought.]],
+      music = "19_Daily02"
     }
   },
   [42173] = {
@@ -51841,49 +52347,61 @@ Only one thought went through Jules' head: So this was true combat.]],
       uid = 3940,
       next = 2,
       beijing = 2261,
-      sentence = "又是一天过去，村里又淘汰了两名玩家，里面并没有平常。\n\n开会时还是一如既往的村民视角，话题在他身上只盘旋了半分钟后，又转移到谁是凶手上了。甚至因为他被确定为好人，大家都不用在他身上“浪费”时间了。\n\n就这样，在徐徐的声势之中，身为好人的他，再次投出了自己“毫无影响”的一票。",
-      music = "04_Normal",
-      voice = "est_42173_1.mp3"
+      sentence = "Another day passed. Two more players were eliminated, but, once again, Peyton remained untouched.\n\nDuring the next meeting, the conversation barely lingered on him for half a minute before quickly shifting back to speculating who the killer might be. People had pretty much cleared him as an innocent at this point—no one bothered to waste time discussing him.\n\nSo, like a good, irrelevant villager, Peyton cast his completely meaningless vote once again.",
+      music = "04_Normal"
     },
     [2] = {
       uid = 3941,
       next = 3,
       beijing = 3030,
-      sentence = "他站在祠堂门口，视线里的广场上全是抱团在相互交流的人。而自己只能感受着袖口拂过的阵阵阴风，当一个称职的局外人。\n\n“赶鸭子上架。”\n\n突然响起的呼喊声惹得平常愣了一下，直到对上对方的视线，才恍然意识到是在喊自己的名字。\n\n又是这个BQ123，他在心底默默想着。这两天别人没怎么接触，怎么倒是和他接触得挺多。\n“喊我干什么？”",
-      music = "04_Normal",
-      voice = "est_42173_2.mp3"
+      sentence = "He stood outside the shrine, watching as small groups gathered across the square, chatting and whispering. The cold wind tugged at his sleeves while he remained standing awkwardly alone—very much playing his role as the outsider.\n\n\"FlyDuck55!\"\n\nThe sudden shout made Peyton blink. When he met the caller's eyes, he realized he was calling out his in-game name.\n\nThis guy again... he thought, recognizing GVN123 walking over. Oddly enough, while the others barely interacted with him, this guy kept approaching.\n\"What's up?\" Peyton asked casually.",
+      music = "04_Normal"
     },
     [3] = {
       uid = 3942,
       next = 4,
       beijing = 3030,
-      sentence = "“这两天诅咒闹得厉害，村长让我们都小心点，发生什么事记得和他报备。”\n\n“嗯，我知道了。”\n\n反正大概率只是给那些有个人任务的人安插的剧情，跟他估计没啥关系，顶多是些跑腿任务罢了。不过BQ123这么积极的样子，倒是让他隐隐有些好奇。\n\n“你一个外来人，倒是对村子里的事儿挺上心。”\n\n“背包客，见多了传闻当然听得也多。”",
-      music = "04_Normal",
-      voice = "est_42173_3.mp3"
+      sentence = "\"The curse is getting worse these days,\" GVN123 said seriously. \"The village chief wants us all to be careful. If anything weird happens, we're supposed to report it right away.\"\n\n\"Got it,\" Peyton replied with a nod.\n\nHe figured this curse thing was probably just some filler plot for players who had personal missions—likely nothing that involved him directly. Still, GVN123's dedication was starting to make him a little curious.\n\n\"You seem really into this whole village thing for an outsider.\"\n\n\"Backpackers hear a lot of rumors. Comes with the territory,\" GVN123 answered easily.",
+      music = "04_Normal"
     },
     [4] = {
       uid = 3943,
       next = 5,
       beijing = 3030,
-      sentence = "“切，还不是为了秘矿来的。”\n\n平常扬起头，踮起脚尖的样子活像个村里嚣张跋扈的土著。\n\n“我告诉你，秘矿终究只是个传闻，你们哪里来的哪里回去吧。”\n\n“空穴来风，总有源头。”\n\n“那我不知道，背景故事里没写。”\n\n突如其来的回答让BQ123明显哽了一下，随后嘴角露出了一抹笑容。",
-      music = "04_Normal",
-      voice = "est_42173_4.mp3"
+      sentence = "\"You're probably just here for the secret mine.\"\n\nPeyton thought to himself, grinning as he stood a little taller, trying his best to look like a cocky local talking to an outsider.\n\n\"I'll tell you straight—the mine's just a rumor. You guys should save yourselves the trouble and head home.\"\n\n\"Rumors always start somewhere,\" GVN123 shot back calmly.\n\n\"Not my problem. I didn't read anything about it in my background story.\"\n\nThe blunt reply made GVN123 pause briefly before breaking into a small, amused smile.",
+      music = "04_Normal"
     },
     [5] = {
       uid = 3944,
       next = 6,
       beijing = 3030,
-      sentence = "“你演村民倒是挺像的。”\n\n“说什么呢，我就是本村的村民。”\n\n无论如何平常决定继续演好一个村里的普通村民，而BQ123似乎也接受了这个设定。\n\n“礼尚往来，你是不是也得告诉我点什么。”\n\n平常装模作样地向着对方招了招手，毕竟难得的本地人优势不用白不用。\n\n“我确实有件事可以提醒你。”\n\nBQ123稍作思索后，凑到了平常身边。",
-      music = "04_Normal",
-      voice = "est_42173_5.mp3"
+      sentence = [[
+"You're really selling this villager act."
+
+"What act? I am a villager,"
+
+Peyton said, fully committing to his role. GVN123 seemed content to play along as well.
+
+"Since we're swapping info, don't you think you owe me something too?"
+
+Peyton added, motioning him over with a playful gesture. He figured he might as well milk this "local advantage" while he could.
+
+"I do have a tip for you."
+
+GVN123 thought for a moment and then leaned in slightly.]],
+      music = "04_Normal"
     },
     [6] = {
       uid = 3945,
       next = 0,
       beijing = 3030,
-      sentence = "“别四处乱跑，会比较安全。”\n\n看着BQ123离开的背影，平常的内心里闪过阵阵悲鸣。\n\n我是村民，我也跑不了啊！",
-      music = "04_Normal",
-      voice = "est_42173_6.mp3"
+      sentence = [[
+"Just stay put, alright? Don't go wandering around. It's safer that way."
+
+As GVN123 walked off, Peyton quietly let out a frustrated groan.
+
+Dude, I'm a villager. Where exactly am I even supposed to go?]],
+      music = "04_Normal"
     }
   },
   [42174] = {
@@ -51891,57 +52409,95 @@ Only one thought went through Jules' head: So this was true combat.]],
       uid = 3946,
       next = 2,
       beijing = 4975,
-      sentence = "又是一个安然无恙的早晨。\n\n当平常舒舒服服地掀开自己那床破棉花被子的时候，差点错以为自己已经在家了。窗外原本聒噪的乌鸦，现在就和闹钟一样“悦耳”，原本阴森森的晨雾，现在反而给整个山村晕染上了一重神秘的色彩。\n\n当然，如果不理睬门口随风摇啊摇的那个稻草娃娃，这样的游戏，好像还没那么糟糕？\n\n他默默打开了自己的系统面板，决定好好做一下自己的个人任务。反正也是打发时间，不如多来点有意义的事。",
-      music = "10_Happy_Family",
-      voice = "est_42174_1.mp3"
+      sentence = [[
+Morning came once again, peaceful and uneventful.
+
+When Peyton threw off his worn-out blanket, he almost felt like he'd woken up back home. The crows that used to sound ominous now chirped like weirdly comforting morning alarms. The heavy fog that once felt eerie now simply made the mountain village look like something out of a painting.
+
+Honestly, if you ignored the creepy little scarecrow swaying at the door, this game wasn't that bad after all.
+
+He opened up his system panel, deciding it was time to finally knock out his personal quest. If nothing else, it was a decent way to kill time.]],
+      music = "10_Happy_Family"
     },
     [2] = {
       uid = 3947,
       next = 3,
       beijing = 4974,
-      sentence = "砍一百根柴，把全村的鸡都喂一遍，随后再把村里年久失修的井修一修。\n\n阳光开朗大男孩的任务，果然名不虚传。\n\n平常默默从屋里拿出砍柴的斧子，一刀刀将门口的木柴分成两半。就这样，他乐得悠闲地在门口砍柴喂鸟，和周围忙着找来找去的人们，全然不是一个画风。\n\n“喂，别翻那块砖了，上午都快被人翻烂了。”\n\n“你你你，别进我家鸡圈啊，那里面能藏东西吗？”",
-      music = "10_Happy_Family",
-      voice = "est_42174_2.mp3"
+      sentence = "Chop 100 logs, feed all the chickens, and fix the old village well—it was basically a cheerful farm sim side quest.\n\nThey were great quests for a happy-go-lucky guy like him.\n\nHe grabbed the axe and started to split wood by his door. He happily chopped logs and fed birds while the other players frantically scoured the village for clues—it was as if he was playing a completely different game from them.\n\n\"Hey! Don't flip that brick over again—it's been searched to death all morning!\"\n\n\"Hey! Stay outta my chicken coop. There's nothing in there, okay?!\"",
+      music = "10_Happy_Family"
     },
     [3] = {
       uid = 3948,
       next = 4,
       beijing = 3031,
-      sentence = "他高高地站在自家门口的土坡上，对着其余玩家大声吆喝着，似乎完全与这个身份合二为一了。\n\n终于在把全村的鸡都喂了一遍后，平常拖着疲惫的身躯坐到了路边的面馆摊上。\n\n“牛肉面来咯~”\n\n“老板，我还没点面呢？”\n\n“这一碗应该是我的。”\n\n等平常抬起头，桌子前面已经坐了一位再熟悉不过的人。",
-      music = "10_Happy_Family",
-      voice = "est_42174_3.mp3"
+      sentence = [[
+Peyton stood tall on the little dirt mound outside his house, shouting to the other players like he was born to play the part. By now, he had fully settled into his villager persona.
+
+After feeding every chicken in the entire village, Peyton finally dragged his exhausted body to a small noodle stand by the roadside and sat down.
+
+"Beef noodles, coming up!"
+
+"Uh... I didn't even order yet."
+
+"That one's probably mine."
+
+When Peyton looked up, sure enough, it was the same person he'd been running into constantly.]],
+      music = "10_Happy_Family"
     },
     [4] = {
       uid = 3949,
       next = 5,
       beijing = 3031,
-      sentence = "“BQ123，我好像总能遇到你？”\n\n“那还挺巧的。”\n\n平常默默把摆在面前的碗朝着对方移了过去，可隐约飘过来的红油，却呛得他咳嗽。\n\n“咳咳咳，没想到你挺能吃辣。”\n\n“还行，外地人是更能吃辣点。”\n\n平常挥了挥手，驱赶了些许空气中的辣味。不知是不是巧合，他总能在各种地方撞到BQ123。在村子里找东找西的时候，对方身边还总是跟着个女孩。",
-      music = "10_Happy_Family",
-      voice = "est_42174_4.mp3"
+      sentence = "\"Man, GVN123, I feel like I see you everywhere.\"\n\n\"Guess we've got some weird timing.\"\n\nPeyton silently slid the bowl across to him, but the spicy aroma rising from the chili oil made him cough.\n\n\"Damn... how many chili peppers did you put in there?\"\n\n\"Eh, this is what I normally eat. Guess we Outsiders just have a higher tolerance for heat.\"\n\nPeyton waved the air to fan away the lingering spice. Strangely enough, no matter where he went in this village, he always seemed to cross paths with GVN123. Whenever he was wandering around, GVN123 was never far away—sometimes even accompanied by a girl.",
+      music = "10_Happy_Family"
     },
     [5] = {
       uid = 3950,
       next = 6,
       beijing = 3031,
-      sentence = "从种种迹象看，他肯定是有阵营的。游戏进行到现在，也不剩几个人了，也不知道他现在想做什么。\n\n平常抬眼瞅了瞅BQ123，漫不经心地摆弄着手里的筷子。\n\n“今天怎么有闲心吃面，不找你要的东西了吗？”\n\n“东西要找，但饿了也要吃饭。”\n\n“要是你想找的东西，从一开始就不存在呢？”\n\n“那就一直找下去。”",
-      music = "10_Happy_Family",
-      voice = "est_42174_5.mp3"
+      sentence = [[
+At this point, Peyton was pretty sure GVN123 belonged to one of the hidden factions. The game was closing in on its final stages, and fewer players remained. He couldn't quite figure out GVN123's angle yet.
+
+Peyton glanced at him while absentmindedly playing with his chopsticks.
+
+"So... no clue hunting today? How come you've got time to sit here and eat today?"
+
+"Still searching, but hey, gotta eat too."
+
+"What if what you're looking for never even existed?"
+
+"Then I'll just keep looking."]],
+      music = "10_Happy_Family"
     },
     [6] = {
       uid = 3951,
       next = 7,
       beijing = 3031,
-      sentence = "沉寂的矮桌旁，回荡着悠长的面条声。BQ123的回答好像是在说秘矿，又好像是在说别的问题。比如，一直困扰在平常内心中的迷茫。\n\n“如果想好人阵营赢，你可以跟着我投。”\n\n这无疑是个好提议，能让平常接下来更轻松地走到最后。可盯着BQ123的眼睛，平常嗫喏了几下唇角，却紧接着露出一副无可奈何的笑容。\n\n“还是算了，虽然跟你比较熟，但我不打算站任何人。”\n\n“那你现在想做什么？”",
-      music = "10_Happy_Family",
-      voice = "est_42174_6.mp3"
+      sentence = [[
+Then, the only sound at their table was the quiet slurping of noodles. GVN123's reply didn't sound like it was just about the secret mine, but more like something within his heart.
+
+"If you want the good guys to win, you can vote with me," GVN123 offered.
+
+It was a tempting proposal that would've made things a lot easier for Peyton. But after a few seconds of hesitation, he simply smiled.
+
+"Nah. I mean, sure, I know you better than most people here, but I don't really wanna pick sides."
+
+"So what are you planning to do?"]],
+      music = "10_Happy_Family"
     },
     [7] = {
       uid = 3952,
       next = 0,
       beijing = 3031,
-      sentence = "“我现在只想去村口修那口老井。”\n\n“听起来也不错。”\n\n想到这，平常直起了身子，嘴角却没有了平日里那副颓丧的模样。或许一直以来的“透明”，反而是自己最大的优点。\n\n毕竟直觉告诉他，阳光开朗大男孩总会莫名其妙地生存到最后。",
-      music = "10_Happy_Family",
-      voice = "est_42174_7.mp3"
+      sentence = [[
+"Me? I'm just gonna fix up that old well at the village entrance."
+
+"Sounds like a solid plan."
+
+Peyton straightened his back, a bit of his usual tiredness fading from his face. Maybe being invisible most of the game wasn't such a bad thing after all.
+
+Sometimes, being the happy-go-lucky guy is what keeps you alive the longest.]],
+      music = "10_Happy_Family"
     }
   },
   [42175] = {
@@ -51949,57 +52505,106 @@ Only one thought went through Jules' head: So this was true combat.]],
       uid = 3953,
       next = 2,
       beijing = 1741,
-      sentence = "虽然剧本对于平常来说有些无聊，但这并不影响他寻找“自我乐趣”之旅。\n\n在结束了没什么营养的修修补补之旅后，他决定锻炼一下自己的“耐受度”。他站在村口的小道上，准备在入夜之前，挑战这条在第一天就把他吓了一跳的小路。来吧小土坡，来吧小枯枝，这次我可已经有心理准备了。\n\n他在原地做了几个高抬腿热热身，如果待会情况不对，开溜也会快点。\n\n“你在这儿干什么？”",
-      music = "30_WarmSnow",
-      voice = "est_42175_1.mp3"
+      sentence = [[
+Even if the story was a bit dull, Peyton still found ways to entertain himself.
+
+After finishing his maintenance tasks, he decided to challenge his nerves a bit. Standing on the village path that had spooked him badly on day one, he stared at the familiar scene. Alright, little hill. Alright, creepy branches. I'm ready for you this time.
+
+He did a few exaggerated high-knee stretches, mentally preparing himself to run if things went sideways.
+
+"What are you doing out here?"]],
+      music = "30_WarmSnow"
     },
     [2] = {
       uid = 3954,
       next = 3,
       beijing = 1741,
-      sentence = "又是熟悉的声音，吓得正在热身的平常差点一踉跄摔倒在地。\n\n“你怎么又神出鬼没在我背后？”\n\n看着背后的BQ123，平常想了想白天发生的事，心里也大概有了个结论。\n\n“怎么，女朋友还没哄好？”\n\n“是，所以出来散散心。”\n\n“来这种地方散心，你也是找对地方了。”\n\n“什么意思？”",
-      music = "30_WarmSnow",
-      voice = "est_42175_2.mp3"
+      sentence = [[
+The familiar voice made him nearly trip mid-stretch.
+
+"Jesus! Why do you always sneak up on me like that?"
+
+There stood GVN123 again. Peyton thought back to everything from earlier that day, and then started to piece everything together.
+
+"Had a fight with your girlfriend, huh?"
+
+"Yeah. I'm out here to clear my head a bit."
+
+"Yeah, nothing like a haunted village to help you relax."
+
+"What's that supposed to mean?"]],
+      music = "30_WarmSnow"
     },
     [3] = {
       uid = 3955,
       next = 4,
       beijing = 1741,
-      sentence = "“鬼有点多。”\n\n不知道是不是熟悉的原因，在看到BQ123的时候，平常的心里总觉得放松很多，也不担心和对方开玩笑。\n\n“抱歉，背包客都是无神论者。”\n\n“没事，其实我也不信。”\n\n“不过那诅咒淘汰了这么多人，我是不是也该信一信了。”\n\n平常随意踢开路边的小石子，在寂静的黄昏里掀开一抹涟漪。",
-      music = "30_WarmSnow",
-      voice = "est_42175_3.mp3"
+      sentence = [[
+"Uhh... Ghosts?"
+
+Maybe because they'd gotten used to each other, Peyton didn't mind joking around whenever GVN123 showed up.
+
+"Backpackers like me don't believe in that stuff."
+
+"Eh, same here."
+
+"But seeing how many people that curse has already taken out... maybe I should start believing."
+
+Peyton kicked a rock, sending it bouncing down the path and echoing slightly in the quiet evening air.]],
+      music = "30_WarmSnow"
     },
     [4] = {
       uid = 3956,
       next = 5,
       beijing = 1741,
-      sentence = "他侧目看了看身旁的BQ123，树杈中落下的阴影，在他额头印下斑驳的痕迹。\n\n“你有怀疑的人？”\n\n“我白天就是个没人找的村民，晚上更是两眼一闭，想怀疑都找不到对象。”\n\n“不过现在也没剩下几个人了，每一票都很重要，不是吗？”\n\n平常将视线直直抛了过去，逐渐落下的夕阳在对方身上遮下一半的光。BQ123的脸色淡然，只是轻轻动了动唇角。",
-      music = "30_WarmSnow",
-      voice = "est_42175_4.mp3"
+      sentence = [[
+He glanced at GVN123, whose face was partially shadowed by the branches overhead.
+
+"Got anyone you're suspicious of?"
+
+"Dude, I'm barely even part of this. Nobody talks to me during the day, and at night I'm passed out. I don't even know who I'd suspect."
+
+"But there aren't many players left. Every vote counts now, right?"
+
+Peyton's gaze fixed on him, the setting sun casting long shadows across GVN123's face. The guy's expression remained calm, his lips moving just slightly.]],
+      music = "30_WarmSnow"
     },
     [5] = {
       uid = 3957,
       next = 6,
       beijing = 1741,
-      sentence = "“之前加入我们的提议，依然生效。”\n\n“诶——刚巧相反，我准备明天投你。”\n\n在出口的瞬间，平常从对方眼中瞧出了一抹惊讶。\n\n“你觉得我是狼？”\n\n“说实话我更相信你不是，所以你就当我是在弃权。反正你也不会被投出去，我可不想最后被狼当枪使。”\n\n平常对着面前的BQ123摊了摊手，毕竟作为一个好人，他只能做到这样了。",
-      music = "30_WarmSnow",
-      voice = "est_42175_5.mp3"
+      sentence = "\"It's not too late to take up my offer.\"\n\n\"Actually,\" Peyton said with a small grin, \"I was thinking of voting you out tomorrow.\"\n\nHe caught a brief flicker of surprise in GVN123's eyes.\n\n\"You think I'm one of the werewolves?\"\n\n\"Honestly? I don't. But think of it as me sitting out. You're not getting voted out anyway, and at least this way, I don't risk getting played by the werewolves.\"\n\nPeyton shrugged with both hands—there wasn't much else he could do as one of the good guys.",
+      music = "30_WarmSnow"
     },
     [6] = {
       uid = 3958,
       next = 7,
       beijing = 2060,
-      sentence = "只见BQ123对他点了点头。\n\n“你这一票投得不错。”\n\n在双方离开小道之后，入夜的钟声也随即响起。\n\n等他再次睁开眼时，自己已经处于“观战”状态了。他不打算多耽误时间，只是默默点击了退出按钮。卧室的窗帘将光线挡在外面，模糊了屋里的时间。他起身打开电脑，在文档上写下了早就想好的标题。\n\n一个小透明的《奥德赛》之旅。",
-      music = "30_WarmSnow",
-      voice = "est_42175_6.mp3"
+      sentence = [[
+GVN123 gave him a small nod.
+
+"Honestly? That's a pretty solid move."
+
+They left the path as the village bell rang, marking the start of another night.
+
+When Peyton opened his eyes again, he was already in spectator mode. Without lingering, he quietly clicked the exit button. The drawn curtains in his bedroom dimmed the sunlight, making it hard to tell what time it was. He got up, opened his computer, and pulled up the draft he'd been preparing.
+
+A Nobody's Journey Through Odyssey.]],
+      music = "30_WarmSnow"
     },
     [7] = {
       uid = 3959,
       next = 0,
       beijing = 2060,
-      sentence = "在一阵奋笔疾书后，他终于放松地伸了个懒腰，不管怎么样，这下总算能够交差了。只不过脑海里回荡的画面让他迟迟不忍关掉文档的界面，只是一遍遍仔细把文章读了下去。他也不知道在确认些什么，只是好像缺了一句话。\n\n他把目光再次放到自己的标题上，答案好像突然不言自明。\n\n随后他默默把写给各位老板的客套话往下挪了两行，在整篇体验报告的末尾附上了一行加粗的黑色字体。\n\n每个剧本里，都得安排一个阳光开朗大男孩。",
-      music = "30_WarmSnow",
-      voice = "est_42175_7.mp3"
+      sentence = [[
+After writing furiously for a while, Peyton finally leaned back and stretched. At least now he had something to turn in. But for some reason, he couldn't bring himself to close the file. He kept reading it over as if something still wasn't quite right.
+
+His eyes drifted back to the title. Then, almost as if the answer had been waiting for him all along, it clicked.
+
+He scrolled down past all the polite company write-up, skipped a few empty lines, and typed one final bolded sentence at the very bottom:
+
+Every story needs a happy-go-lucky guy.]],
+      music = "30_WarmSnow"
     }
   },
   [42181] = {
@@ -52007,57 +52612,74 @@ Only one thought went through Jules' head: So this was true combat.]],
       uid = 4025,
       next = 2,
       beijing = 4482,
-      sentence = "“小聪小聪，我们到地方了，准备好东西下车。”\n\n我听着耳边传来的同事的呼唤，慢慢睁开了眼。刺目的光线从窗口猛地落下，让我也清醒了几分。\n\n任务执行中并不允许打瞌睡的状况发生，刚才只是按例的闭目养神，几乎鉴识科的每个人都会这么做，只为在待会调查中更能打起精神。更别说昨晚上因为看法证相关的电视剧，又熬到了凌晨一点。\n\n为了装得下各种器具，鉴识科的面包车很大，连车窗都比别的公务车要宽上几分。",
-      music = "22_Despair",
-      voice = "est_42181_1.mp3"
+      sentence = [[
+"Chad, Chad, we're here. We're getting off."
+The voice of my coworker stirred me from my light doze. I opened my eyes slowly, blinking against the harsh light pouring through the van's windows. The sharp brightness helped me shake off the last traces of sleep.
+Technically, we weren't supposed to fall asleep during a mission, but getting a quick shut-eye was something practically everyone in the forensics unit did before an investigation. It was the only way to recharge before diving into hours of painstaking work. That, and I'd stayed up until 1 a.m. binge-watching a crime drama.
+The forensics van was huge, big enough to carry all our equipment. Even its windows were wider than the ones in a typical government vehicle.]],
+      music = "22_Despair"
     },
     [2] = {
       uid = 4026,
       next = 3,
       beijing = 4482,
-      sentence = "我看着街景上一闪而过的小学校门和里面跑跑闹闹的稚嫩身影，心头不自觉地产生了一股生理意义上的紧张。\n\n我头一转，用手肘顶了顶坐在隔壁的同事。他被我这突如其来的动作吓了一跳，嘴里叼着的笔都掉了下来，多亏我眼疾手快给接住了。\n\n“你突然戳我干嘛？”\n\n“今天的搜证调查，没选闭校的时间吗？”\n\n“嗯，队长说不是什么太细致的搜证，只是搜罗下失踪对象遗留在学校里的东西。”",
-      music = "22_Despair",
-      voice = "est_42181_2.mp3"
+      sentence = [[
+As the van passed by an elementary school gate, I glimpsed children running and laughing in the courtyard, and an involuntary unease crept into my body.
+I turned and nudged the colleague sitting next to me with my elbow. He jumped in surprise, and the pen in his mouth fell. Luckily, I caught it before it hit the floor.
+"What?"
+"We're gonna do this in front of all these kids?"
+"Yeah. Captain said it wouldn't be a big sweep. We're just collecting any personal items the missing student left behind on campus."]],
+      music = "22_Despair"
     },
     [3] = {
       uid = 4027,
       next = 4,
       beijing = 4482,
-      sentence = "“失踪对象是个小孩子，多日未归，从情况看有可能是离家出走后遭遇了绑架。”\n\n“不过这次倒是挺兴师动众的，还要特遣署来主导，我们就是辅助。”\n\n“特遣署？这次行动还涉及Evolver吗？”\n\n“对啊，不然在学校这种地方取证，两个人还不得累死。”\n\n我听着隔壁传来滔滔不绝的抱怨声，手里却一刻没停地整理着待会要用到的各种器具。",
-      music = "22_Despair",
-      voice = "est_42181_3.mp3"
+      sentence = [[
+"The victim's just a kid, right? Been missing for several days. Probably ran away from home and got abducted afterward."
+"They're really making a big deal of this, eh? They even sent in the Special Task Force."
+"The Task Force? So this case involves an Evolver?"
+"Yeah. Otherwise, can you imagine combing through a whole school with just a two-man team?"
+While my colleague rambled on, I kept sorting through the equipment we'd need for the investigation. I was already organizing the gear we'd need.]],
+      music = "22_Despair"
     },
     [4] = {
       uid = 4028,
       next = 5,
       beijing = 4482,
-      sentence = "面对学校这类复杂环境，不管是指纹粉还是其他痕迹调查手段，勘察箱里的很多东西都没办法有效使用，最后大概率还是四处搜罗证物的体力活。\n\n我活动了下肩颈，伴随着刹车声车辆缓缓停入了学校后门的停车位。\n\n我跨起勘察箱正准备下车，身旁的同事却递给了我一块印着卡通熊的布。我有些不解地抬头看了看他，只见他满脸堆笑地指了指我怀里的勘察箱。\n\n“用这个包一下，不然待会在学校里走，肯定要被一群小孩子围起来问。”",
-      music = "22_Despair",
-      voice = "est_42181_4.mp3"
+      sentence = [[
+For schools, most of the standard fingerprint and trace tools weren't much use. It usually turned into a glorified scavenger hunt for any physical clues.
+I stretched my shoulders as the van pulled into the parking lot behind the school. The brakes hissed, and we came to a stop.
+I grabbed my case and got ready to hop out, but before I could, my colleague handed me a piece of cloth with a cartoon bear print. I raised an eyebrow. He grinned and pointed at my case.
+"Wrap it with this. Trust me, you walk through a school with that thing, and kids are gonna be all over you with questions."]],
+      music = "22_Despair"
     },
     [5] = {
       uid = 4029,
       next = 6,
       beijing = 1321,
-      sentence = "“……包上就有用吗？”\n\n我垂下眼，无奈地瞟了眼我身上的制服。看着对方表情上的笃定，我也只好低头接了下来，用布在勘察箱上面缠了几下。\n\n希望有用。\n\n叔叔，你这个卡通熊的包哪里买的啊~\n\n叔叔，你的警服好帅啊~\n\n当叽叽喳喳的童声在我耳边冒个不停的时候，我就知道完全做了错误的决定。",
-      music = "22_Despair",
-      voice = "est_42181_5.mp3"
+      sentence = [[
+"...You really think that's gonna help?"
+I muttered, glancing down at my very obvious police uniform. But he looked so sure of himself that I sighed and took it, wrapping it around the case a few times.
+Hopefully, this works.
+"Mister, where'd you get that bear bag?"
+"Your uniform's so cool, mister!"
+The moment a chorus of tiny voices started chirping around me, I knew I'd made a terrible mistake.]],
+      music = "22_Despair"
     },
     [6] = {
       uid = 4030,
       next = 7,
       beijing = 1453,
-      sentence = "原本这些孩子们还只是远远地看着我，而当他们发现我手中的卡通布包时，终于忍不住都凑了上来。我只好加快脚步，从这群稚嫩的孩童中脱身，毕竟现在任务第一。\n\n等走到了教学楼下时，我发现这次负责的队长正准备和手下的其他队员们训话。我三步并作两步走到队伍最后，幸好没有迟到。会议的内容并不复杂，还是这次失踪案的陈述。我的任务是将化名为“小贾”学生的相关物品回收，同时整理其在离校前所涉及的相关线索。队长特别指出，这次的行动过程中会配合特遣署人员进行调查，需要大家通力合作。",
-      music = "22_Despair",
-      voice = "est_42181_6.mp3"
+      sentence = "At first, the kids had only been watching from a distance. But once they spotted the cartoon bear cover, they swarmed me like bees to honey. I had to speed-walk just to escape the adorable mob—mission first, entertain the kids later.\nBy the time I reached the base of the main building, the captain was already gathering the others for a quick briefing. I slipped in at the back just in time. The instructions were straightforward: review the disappearance case, recover any personal belongings tied to the missing student codenamed \"George,\" and gather leads related to his exit from campus. We were also told to coordinate closely with the Special Task Force throughout the process.",
+      music = "22_Despair"
     },
     [7] = {
       uid = 4031,
       next = 0,
       beijing = 1511,
-      sentence = "我合上本子，对后续队长那些官场套话没有兴趣。\n\n在他终于结束长篇大论之后，不远处的办公室门口，出现了一个略显熟悉的身影。\n\n“孙老师，我是负责这次失踪案的调查人员，白起。”\n\n“有几个问题要问你。”\n\n特遣署的白起，我认识他。",
-      music = "22_Despair",
-      voice = "est_42181_7.mp3"
+      sentence = "I shut my notebook halfway through. The rest of the captain's speech was standard bureaucratic filler, and I'd heard enough.\nJust as the speech wound down, a familiar figure appeared near the office entrance.\n\"Mr. Blake, I'm Gavin—lead investigator on this case.\"\n\"Got a few questions for you, if you don't mind.\"\nGavin. Special Task Force. I knew that man.",
+      music = "22_Despair"
     }
   },
   [42182] = {
@@ -52065,57 +52687,73 @@ Only one thought went through Jules' head: So this was true combat.]],
       uid = 4032,
       next = 2,
       beijing = 1511,
-      sentence = "上课铃响了，学生们熙熙攘攘地从我身边跑过，直奔教室的座位。我本想等面前的人交谈完再过去，但显然白起已经提前把目光抛向了我这边。\n\n“是市政厅鉴识科的队员吗？”\n\n我看得出原本他的目光还带着几分警惕，可在看到我身上的制服时，我所感受到的那种锐利视线也消散了些许。\n\n“是的，白长官，我是负责这次证物收集的小聪。”",
-      music = "23_Lonely",
-      voice = "est_42182_1.mp3"
+      sentence = [[
+The school bell rang, and a wave of students rushed past me, laughing and shouting as they streamed into their classrooms. I'd planned to wait until Gavin finished his conversation before approaching, but he had already glanced in my direction.
+"You with the forensics team from the City Council?"
+He still looked a bit guarded at first, but once he spotted the insignia on my uniform, that sharp edge in his expression softened.
+"Yes, Captain Gavin. I'm Chad. I'll be handling the evidence collection for this case."]],
+      music = "23_Lonely"
     },
     [2] = {
       uid = 4033,
       next = 3,
       beijing = 1511,
-      sentence = "平日里总是坐在办公室角落的我，没有和这类“大人物”交流的经验，这种难以规避的对话，我只好尽量压低帽檐，不让自己的视线和对方对上为好。\n\n否则，总有种会被对方看出什么的想法滋生出来，这大概是这具身体的本能反应。\n\n白起似乎是看出了我站在原地的不知所措，随后迈出一步朝我指了指站在身旁的人。\n\n“这位是孙老师，失踪孩子的班主任。你有什么需要就询问他。”",
-      music = "23_Lonely",
-      voice = "est_42182_2.mp3"
+      sentence = "I wasn't exactly used to interacting with people like him. Most of the time, I kept to myself in the corner of the office, far away from high-ranking types. Now that I was face-to-face with one, my instinct was to pull my cap lower and avoid direct eye contact.\nIt felt as if I looked him in the eye for too long, he'd see right through me—a gut feeling that I couldn't explain.\nGavin must've picked up on my awkward hesitation, because he stepped forward and gestured toward the man beside him.\n\"This is Mr. Blake. He's the missing kid's homeroom teacher. If you need anything, just ask him.\"",
+      music = "23_Lonely"
     },
     [3] = {
       uid = 4034,
       next = 4,
       beijing = 1511,
-      sentence = "我抬起头，那位孙老师约莫不到40岁，身体已略有发福迹象，银色的镜框上嵌着厚厚的镜片，眼神里透露着标准的老师气。\n\n很显然，孙老师也感受到了我的视线，他圆润的脸上勉强挤出一抹笑容，指了指办公室靠里边的位置。\n\n“这位同志，那里就是我的办公桌。”\n\n“小贾失踪前交上来的作业本、日记本还有考试试卷都放在桌上。”\n\n“不过事发突然我也没来得及整理，恐怕要麻烦你找一找了。”",
-      music = "23_Lonely",
-      voice = "est_42182_3.mp3"
+      sentence = [[
+I looked up. Mr. Blake seemed to be just under forty, with a bit of a belly and thick glasses set in silver frames. His eyes had that worn-out, slightly distracted look you often see in longtime teachers.
+He must've felt me looking, because he gave me a polite smile and pointed toward a desk at the back of the room.
+"Officer, that's my desk over there."
+"George's homework, journal, and test papers are all stacked on it."
+"I didn't really have time to sort through them; sorry about that. You might have to dig a bit."]],
+      music = "23_Lonely"
     },
     [4] = {
       uid = 4035,
       next = 5,
       beijing = 1511,
-      sentence = "“没关系。”\n\n我向老师示意道谢，随后从白起的身边侧身走了过去。\n\n“孙老师，接下来我们继续聊一下成宁和小贾之间的事。”\n\n在进入办公室之前，我听到走廊的白起和孙老师这么说道。\n\n成宁，在我的印象里这个名字在几个月前的一起Evolver案件里出现过。当时科里还有八卦流传，说这只是一个未成年Evolver利用《奥德赛》进行犯罪的案件，但一直都没正式结案。",
-      music = "23_Lonely",
-      voice = "est_42182_4.mp3"
+      sentence = [[
+"It's no trouble."
+I nodded, thanked him, and stepped past Gavin to head toward the desk.
+"Mr. Blake, let's go over what exactly happened between Cody and George."
+Just before I entered the office, I heard Gavin say from behind me.
+Cody? Could it be that Sullivan kid from an Evolver case a few months back? There had been rumors around the office, something about a minor using Odyssey to commit a crime. But nothing had ever been officially wrapped up.]],
+      music = "23_Lonely"
     },
     [5] = {
       uid = 4036,
       next = 6,
       beijing = 1081,
-      sentence = "而至于为何特遣署要介入现在这起看似平常的失踪案，当我在桌面的角落，发现了成宁和小贾的日记本叠在一起时，似乎已经得到了答案。\n\n我仔细地戴上手套，在旁边架设好拍摄的镜头。从这里开始，就进入物证的范围了。\n\n翻阅着手中的日记本，我尽量在凌乱的字迹中搜寻着有效的线索。除了歪七扭八没有填在对应横线上的文字外，我在小贾的作业本上发现了类似涂鸦的小漫画。虽说都是简单勾勒，但仍能看出其中一个孩子面容清秀，而另一个孩子则戴着一副眼镜。",
-      music = "23_Lonely",
-      voice = "est_42182_5.mp3"
+      sentence = [[
+Maybe that's why the Special Task Force was involved in what looked like a pretty standard missing person case. As I spotted the journals of George's stacked together with Cody's on the corner of the desk, I had a feeling I knew exactly why they were here.
+I put on my gloves and set up a small camera beside the desk. From this point on, everything was potential evidence.
+I flipped carefully through George's journal, trying to make sense of the scrawled handwriting. Most of it was messy and half off the lines, but buried in the pages of his workbook, I spotted a few doodles. One sketch showed a child with soft, delicate features, and another with glasses.]],
+      music = "23_Lonely"
     },
     [6] = {
       uid = 4037,
       next = 7,
       beijing = 1081,
-      sentence = "而当我将日记本继续往后翻时，却发现了一排并不整齐的撕扯痕迹。而日记的上一页，说的正是小贾和成宁约好去“干点什么”的随笔。\n\n我对着锯齿状的撕扯痕迹拍了几张，又将日记整齐地合好放入证物袋中。办公室的取证工作告一段落，下一步按照计划应该去教室搜寻。我收拾好准备要走，正撞上白起带着孙老师走回了办公室。\n\n“孙老师，多谢你的配合。”\n\n“这是我应该的，之后要是有什么信息，我们会第一时间联络警方。”",
-      music = "23_Lonely",
-      voice = "est_42182_6.mp3"
+      sentence = "Then, as I turned another page, I found something—a line of torn edges where the page had been ripped out. Before that, George had written about making plans with Cody \"to go do something.\"\nI snapped a few photos of the torn page, then gently closed the journal and slid it into an evidence bag. Wrapping up, I packed everything up and got ready to head to the classroom, only to run into Gavin and Mr. Blake walking back into the room.\n\"Thanks again for all your help, Mr. Blake.\"\n\"Of course. If we hear anything new, we'll reach out to the police right away.\"",
+      music = "23_Lonely"
     },
     [7] = {
       uid = 4038,
       next = 0,
       beijing = 1511,
-      sentence = "“麻烦你了，之后我们还要去教室做一些简单调查，希望你能维持一下同学们的纪律。”\n\n“当然。”\n\n等孙老师答应后，白起也冲着我转过身子。\n\n“你接下来要去教室采集对吧。”\n\n“走吧，一起过去。”\n\n走廊里的穿堂风吹过，树叶止不住地作响。",
-      music = "23_Lonely",
-      voice = "est_42182_7.mp3"
+      sentence = [[
+"Appreciate it. We'll be doing a quick sweep of the classroom next. If you could help keep the students in line, that'd be great."
+"Sure, no problem."
+Once Mr. Blake agreed, Gavin turned to me.
+"You're headed to the classroom too, right?
+"Let's go together."
+A breeze swept through the hallway as we stepped out. The trees rustled overhead, and their leaves whispered quietly in the wind.]],
+      music = "23_Lonely"
     }
   },
   [42183] = {
@@ -52123,73 +52761,93 @@ Only one thought went through Jules' head: So this was true combat.]],
       uid = 4039,
       next = 2,
       beijing = 1511,
-      sentence = "正是上课时间，走廊里格外安静。\n\n我跟在白起和孙老师后面，三个人之间保持着微妙的距离感。我有好几次注意到走在最前面的孙老师转头朝身后看，却在接触到我视线的一刹那又转了回去。\n\n警察的本能告诉我，那是一种充斥着警惕的目光。我只在两种人身上明确见过，一种是审讯室里的犯人，另一种是还未被抓捕的犯人。\n\n很快，走廊到了尽头，我的耳边也听到了明显的吵闹声。从窗口望去，就能看到好几个交头接耳的学生，我知道这是没有老师班级的常态。",
-      music = "48_Quiet_Daily",
-      voice = "est_42183_1.mp3"
+      sentence = "Class was in session, and the hallway was unusually still.\nI trailed behind Gavin and Mr. Blake, keeping a few paces back. There was a strange, quiet tension hanging between the three of us. I noticed Mr. Blake glance over his shoulder a couple of times, but each time our eyes met, he immediately turned away.\nThat kind of look didn't come from nowhere—it was the kind of cautious, guarded gaze I'd seen before. Once, from criminals in interrogation rooms. The other times, from those who are yet to be apprehended.\nWe reached the end of the corridor, and I could already hear a wave of chatter from the classroom ahead. Peeking through the window, I saw clusters of students whispering and leaning across desks—typical of a classroom without a teacher inside.",
+      music = "48_Quiet_Daily"
     },
     [2] = {
       uid = 4040,
       next = 3,
       beijing = 1511,
-      sentence = "“好了二位，这里就是我们班，我先进去说明下情况。”\n\n孙老师的来到显然对班级的喧闹有显而易见的作用，我能看到刚才还分外活跃的学生瞬间坐回了座位，就像是电影里老鼠遇到猫的场景一样。\n\n孙老师的声音很有威严，和刚才他在白起面前时轻声细语的样子有天壤之别。\n\n我朝着白起的身后走了两步，却发现他此刻的目光一直打量着讲台上的孙老师。\n\n“白长官，待会有什么要我注意的吗？”",
-      music = "48_Quiet_Daily",
-      voice = "est_42183_2.mp3"
+      sentence = [[
+"Alright, you two. This is my class. I'll head in first and give them a heads-up."
+The moment Mr. Blake stepped inside, the noise cut off like someone had hit pause. The same kids who were bouncing around seconds ago snapped straight in their seats, all eyes forward.
+Mr. Blake's tone was sharp and commanding. A far cry from the quiet, deferential voice he'd used with Gavin earlier.
+I stepped up beside Gavin, catching the way his eyes were still locked onto the teacher now at the front of the room.
+"Hey, Captain Gavin," I asked under my breath, "anything I should keep an eye out for?"]],
+      music = "48_Quiet_Daily"
     },
     [3] = {
       uid = 4041,
       next = 4,
       beijing = 1511,
-      sentence = "我低声说着，同时小心观察着他的表情。毕竟我们上级老教育我们，在领导身边要学会察言观色。\n\n可他只是撇了下眉梢，语气里夹杂着几分难以捉摸的情绪。\n\n“正常按照现场处理就可以。”\n\n“好的，我刚刚看您的表情，以为是已经发现了什么线索。”\n\n“那倒没有。”\n\n白起摇了摇头，紧凑的眉宇也舒展开来。",
-      music = "48_Quiet_Daily",
-      voice = "est_42183_3.mp3"
+      sentence = "I kept an eye on his face while I spoke. They always taught us in training to read the room when you're around a superior.\nHe gave the slightest shrug, his voice calm but with something unreadable beneath it.\n\"Just handle it like any other scene.\"\n\"Gotcha. It's just—you looked like you noticed something already.\"\n\"Not really.\"\nHe shook his head, and the tension in his brow started to ease.",
+      music = "48_Quiet_Daily"
     },
     [4] = {
       uid = 4042,
       next = 5,
       beijing = 4827,
-      sentence = "“我就是看孙老师站在讲台上，和我以前的老师挺像。”\n\n没过多久，孙老师便邀请我们进了教室。学生们虽然一个个坐得端正，但眼神中的好奇是遮掩不住的。\n\n“好了，下面请这两位警官来讲台。”\n\n在孙老师走下讲台后，白起紧接着就走了上去，整个班级的视线自然而然也被吸引了过去。\n\n“大家不用担心，我只是有几个问题要问，知道的就举手回答。”",
-      music = "48_Quiet_Daily",
-      voice = "est_42183_4.mp3"
+      sentence = [[
+"It's just... seeing Mr. Blake standing up there kinda reminded me of one of my old teachers."
+Soon after, Mr. Blake invited us into the classroom. The students were sitting properly, but their curious stares were impossible to miss.
+"Alright, class," Mr. Blake said, stepping away from the podium. "Please give your attention to the officers."
+Gavin stepped forward and took his place at the front. Naturally, every pair of eyes in the room followed him.
+"Don't worry, this won't take long," he said with a relaxed tone. "I just need to ask a couple of questions. If you know something, raise your hand."]],
+      music = "48_Quiet_Daily"
     },
     [5] = {
       uid = 4043,
       next = 6,
       beijing = 4827,
-      sentence = "“你们认识成宁么。”\n\n“他平时在班里的关系如何，有没有朋友。”\n\n白起的问题很简单，却让刚才还有些活跃的班级瞬间冷却了下来，直到过了一会才有一个皮肤黝黑的男生举手站了起来。\n\n“成宁他平时不爱说话，也不爱和班里的人玩。”\n\n“他一般就一个人在角落玩游戏机。”\n\n“我们都知道他有个酒鬼爸爸，除了小贾之外没人愿意和他玩了。”",
-      music = "48_Quiet_Daily",
-      voice = "est_42183_5.mp3"
+      sentence = [[
+"Anyone here know Cody Sullivan?"
+"What was he like in class? Did he get along with anyone?"
+They were simple questions, but the second he said that name, the energy in the room vanished. It went dead quiet. Only after a moment did a dark-skinned boy slowly stand up.
+"Cody didn't really talk much. He didn't play with anyone either."
+"Usually just sat by himself in the back, messing with his game console."
+"Everybody knew his dad drank a lot. Apart from George, no one really hung out with him."]],
+      music = "48_Quiet_Daily"
     },
     [6] = {
       uid = 4044,
       next = 7,
       beijing = 4827,
-      sentence = "“前段时间《奥德赛》出来后，成宁就没怎么来上学了，后来小贾也没来了……”\n\n“那最后一次见到他们的时候，有什么异常吗？”\n\n“没、没有，还是孙老师后来告诉我们，我们才知道。”\n\n听到这，白起示意我去小贾和成宁的座位上看看，我点点头走了过去。\n\n两个人的座位虽然都是最后一排，可并不挨在一起，唯一的共同点就是桌面上被涂画了很多奇怪的涂鸦，大概率是同伴的恶作剧。",
-      music = "48_Quiet_Daily",
-      voice = "est_42183_6.mp3"
+      sentence = "\"After Odyssey came out, Cody pretty much stopped coming to school. Then George stopped showing up too...\"\n\"Did anything seem... off the last time you saw either of them?\"\n\"N-no, not really... We only found out something had happened when Mr. Blake told us.\"\nGavin looked in my direction, signaling me to check their seats. I nodded and walked over quietly.\nBoth desks were tucked in the back row, but they weren't side-by-side. What they did have in common were the scribbles—weird little drawings covering the surfaces. Probably pranks from their classmates, judging by how chaotic they looked.",
+      music = "48_Quiet_Daily"
     },
     [7] = {
       uid = 4045,
       next = 8,
       beijing = 1511,
-      sentence = "在拍下取证之后，我便跟着白起一起离开了教室，孙老师则继续班级的课程。\n\n白起半靠在走廊的栏杆上，下面就是学校的篮球场。\n\n我把刚才拍下的照片递了过去，白起只是看了两眼，便把照片塞了回来。\n\n“还有什么特别的证物吗？”\n\n“还有日记本上一些小孩子的插图。”\n\n“这个年纪的男生总喜欢到处跑来跑去，这些图画或许有用。”",
-      music = "48_Quiet_Daily",
-      voice = "est_42183_7.mp3"
+      sentence = [[
+Once the evidence photos were taken, I left the classroom with Gavin, and Mr. Blake stayed behind to resume the lesson.
+Gavin leaned against the hallway railing, looking out over the basketball court below.
+I passed him the photos I'd snapped. He gave them a quick glance before handing them back.
+"Anything else worth noting?"
+"A few doodles in the kid's journal. Just stuff a kid would draw."
+"Yeah, boys that age never sit still. Could be something useful in there, though."]],
+      music = "48_Quiet_Daily"
     },
     [8] = {
       uid = 4046,
       next = 9,
       beijing = 1511,
-      sentence = "“我会留意的。”\n\n这时我察觉，白起此刻的目光，一直停在我的身上。\n\n“白长官，我脸上有什么吗？”\n\n“你和孙老师之前认识吗？”\n\n“不认识，今天是第一次见面。”\n\n白起没说话，似乎在确认我说的是不是真话。直到几分钟之后，他才略微笑了笑。\n\n“看你没有什么精神，早点采集完就休息吧。”",
-      music = "48_Quiet_Daily",
-      voice = "est_42183_8.mp3"
+      sentence = [[
+"I'll keep an eye on it."
+That's when I realized that Gavin was staring dead into my face.
+"Uh... is something on my face, sir?"
+"You sure you don't know Mr. Blake from before?"
+"Pretty sure. We just met today."
+Gavin didn't say anything else. He just stared at me for a few more seconds, like he was reading between the lines. Then, at last, he cracked the faintest smile.
+"You look wiped. Finish up what you need to, then call it a day."]],
+      music = "48_Quiet_Daily"
     },
     [9] = {
       uid = 4047,
       next = 0,
       beijing = 1511,
-      sentence = "白起走了，走廊的风也停了，只剩下孙老师讲课的声音。",
-      music = "48_Quiet_Daily",
-      voice = "est_42183_9.mp3"
+      sentence = "He turned and walked off. The wind that had been billowing through the corridor died down with him, and all that remained was the distant sound of Mr. Blake's voice carrying out into the hallway.",
+      music = "48_Quiet_Daily"
     }
   },
   [42184] = {
@@ -52197,49 +52855,55 @@ Only one thought went through Jules' head: So this was true combat.]],
       uid = 4048,
       next = 2,
       beijing = 1081,
-      sentence = "“同学们，下课了，记得今天的作业。”\n\n孙老师再见。\n\n今天风和日丽，同学们下课时的声音依然有气无力。我抖了抖手中的教案，端着茶杯走回了办公室。\n\n窗外的警笛声越来越远，刚才冲我问话的那两个警察应该也已经离开了。我把视线放在马路上，直到看见那个名为白起的人离开，我才重新坐回座位。\n\n杯子里的枸杞浮浮沉沉，水也变成了淡淡的黄色。",
-      music = "18_Sorrow_love",
-      voice = "est_42184_1.mp3"
+      sentence = [[
+"Alright, class dismissed. Don't forget your homework!"
+Goodbye, Mr. Blake.
+It was a clear, sunny day. But even as the students poured out of the classroom, their voices felt tired and flat. I gave my lesson plan a shake, lifted my tea mug, and made my way back to the office.
+Outside the window, the sound of sirens slowly faded. The two officers who'd questioned me were probably gone by now. I kept my eyes on the street below. Only when I saw Gavin's figure disappear from view did I finally sit down.
+In my cup, the tea bag floated quietly, bobbing in water that had turned a pale amber.]],
+      music = "18_Sorrow_love"
     },
     [2] = {
       uid = 4049,
       next = 3,
       beijing = 1081,
-      sentence = "估计是今天来了这么多警察问话的原因，办公室老师们的讨论声比往常更热烈一些。坐在我前桌的女老师更是直接转过身来，问我那个名为白起的警官现在是不是还单身。\n\n我当然是让她不要胡思乱想，并且告知她白警官大概率是有女朋友的，毕竟在问询过程中他曾经接过一个女生的电话，有些事情很明显就能看出来。\n\n正当我拿起水杯时，前面的老师提醒我手机响了。我拿起一看，上面是一条“我晚上想吃烧腊”的短信。很显然，前面的老师看到了这条短信，还笑着问我是不是准备重组家庭了。我摇摇头表示不是，只是有个孩子最近寄宿在我家。",
-      music = "18_Sorrow_love",
-      voice = "est_42184_2.mp3"
+      sentence = "Maybe it was all the police presence, but the office was noticeably livelier than usual. The teachers were chatting more than they normally did. The woman sitting in front of me even turned around and asked whether Officer Gavin was single.\nOf course, I told her to stop daydreaming—and mentioned that Captain Gavin most likely had a girlfriend. I'd seen him take a call earlier from a woman during the questioning. Some things don't need to be spelled out.\nJust as I lifted my cup again, the teacher in front nudged me and pointed toward my phone. I glanced at the screen. A message had popped up: \"Can we have barbecue tonight?\" She must've seen it too, because she gave me a cheeky grin and was filled with an appetite for gossip. I shook my head and told her it was someone's kid staying at my place for a while.",
+      music = "18_Sorrow_love"
     },
     [3] = {
       uid = 4050,
       next = 4,
       beijing = 4832,
-      sentence = "下午六点一刻，是我下班的时间。\n\n也是我赶去墓地，纪念我妻儿的时间。\n\n从学校门口的公交站台一路坐到底，再在路边买上一束祭奠用的花束和糖果。走进墓园大门后走上四十四节台阶，左手第二块就是他们的墓地。\n\n墓碑上写着三个名字，只是我的名字，依然鲜红着，等待着与他们团聚的那一天。\n\n这对我来说是每天的日常，又或者说是永远无法跨越的一天。",
-      music = "18_Sorrow_love",
-      voice = "est_42184_3.mp3"
+      sentence = [[
+6:15 p.m. That's when I clocked out.
+It was also when I made my way to the cemetery.
+From the school gate, I took the bus to the end of the line, then stopped to buy a small bouquet and a few pieces of candy. Walking into the cemetery, I climbed forty-four steps. Second plot on the left. That's where they rested. My wife and child.
+Three names were carved into the stone. Mine was among them, waiting for the day when we would be united on the other side.
+It had become a quiet ritual. Or maybe it was just a day I'd been living on repeat, one I could never quite get past.]],
+      music = "18_Sorrow_love"
     },
     [4] = {
       uid = 4051,
       next = 5,
       beijing = 4966,
-      sentence = "此刻跪坐在墓碑前的我内心毫无情绪，或者说我的心情早已和他们一起埋葬在下面了。\n\n很快祭拜结束了，我也在家门口的烧腊店，买了短信上备注的烧腊。油润润的，提在手上很香，也很沉，是长身体的孩子会喜欢吃的。\n\n等推开家门，我就听到卧室里传来很大的动静，一个戴着眼镜的男生从屋里大脚步跑了出来。\n\n“孙老师，你也太慢了吧，我都快饿死了。”",
-      music = "18_Sorrow_love",
-      voice = "est_42184_4.mp3"
+      sentence = "I knelt in front of the grave, numb and devoid of emotion. Or maybe it was that my emotions had long since been buried down there with them.\nThe visit didn't last long. On my way home, I stopped by the barbecue shop down the block and picked up the exact combo mentioned in the text. It was greasy, aromatic, and heavy in my hand—the kind of thing a hungry kid would devour in seconds.\nAs soon as I opened the front door, I heard a commotion coming from the bedroom. A lanky boy with glasses came stomping out, with footsteps as big as his complaints.\n\"What took you so long? I'm starving!\"",
+      music = "18_Sorrow_love"
     },
     [5] = {
       uid = 4052,
       next = 6,
       beijing = 4966,
-      sentence = "抱怨的声音很大，直到我举起手中的烧腊才消停了下来。他就这样一把拿了过去，随后坐在桌边，用手抓着吃起来。\n\n“对了孙老师，我听说今天警察来了。我有点害怕不敢回去，你能帮我再躲躲吗？”\n\n“我保证再过三天，哦不，一个礼拜，等我联系上成宁我立马就搬走。”\n\n他嘴里塞满了油润的食物，全然没有对我尊敬的样子，可我对此却并不感到生气，反而是一股责任感油然而生。",
-      music = "18_Sorrow_love",
-      voice = "est_42184_5.mp3"
+      sentence = "He didn't stop whining until I held up the takeout bag. That shut him up. He grabbed it from me in one swoop, plopped down at the table, and started tearing into it with his hands like he hadn't eaten in days.\n\"Oh, right, I heard the cops were at school today. Kinda freaked me out, so I didn't go back. Think I could lay low here a little longer?\"\n\"I promise—just three more days. No, wait—give me a week. Once I get in touch with Cody, I'm gone for real.\"\nHis mouth was full, his hands greasy, and there wasn't a shred of formality in his tone. But I didn't mind. Oddly enough, instead of annoyance, I felt something steadier rising inside—responsibility.",
+      music = "18_Sorrow_love"
     },
     [6] = {
       uid = 4053,
       next = 0,
       beijing = 4966,
-      sentence = "“当然，帮助学生是老师的职责。”\n\n“吃完就请你离开这吧，小贾。”",
-      music = "18_Sorrow_love",
-      voice = "est_42184_6.mp3"
+      sentence = [[
+"Of course. Helping students is what teachers are supposed to do."
+"But once you finish eating, it's time to move on, George."]],
+      music = "18_Sorrow_love"
     }
   },
   [42185] = {
@@ -52247,57 +52911,78 @@ Only one thought went through Jules' head: So this was true combat.]],
       uid = 4054,
       next = 2,
       beijing = 4965,
-      sentence = "我常常在夜晚批改教案，除了是长年累月的习惯之外，夜晚的安静也是其中一大要素。我在书本上画着重点，不断修改着笔记本上的题目，直到调整到我觉得合适的范围为止，这是下次考试给同学们的题目。\n\n十点二十分，在试卷最后一题被准备好的时候，门响了。我起身打开了门，手电筒的光却在一瞬间打在了我的脸上，是白天在学校调查的白起警官。他身后还跟着几个人，包括在我办公室找东西的那位警官。而在他们身后，藏着一个稚嫩的面庞。\n\n是刚刚才从我家离开的小贾。",
-      music = "30_WarmSnow",
-      voice = "est_42185_1.mp3"
+      sentence = "Late nights were when I got most of my grading and prep work done. It was part habit, part necessity—the silence made it easier to focus. I was underlining key points in the materials, adjusting questions, and making sure everything on the exam was balanced just right.\nAt 10:20 sharp, I put the final mark on the last page. Then came the knock. I got up and opened the door as a flashlight hit me straight in the face. It was Officer Gavin, the same one from earlier at school. A few others stood behind him—including the young officer who'd been sorting through my office. And behind them, trying to stay hidden in the shadows, was a face I recognized instantly.\nGeorge. The same kid who'd just left this house not long ago.",
+      music = "30_WarmSnow"
     },
     [2] = {
       uid = 4055,
       next = 3,
       beijing = 4965,
-      sentence = "“白警官，请问有事吗？”\n\n我并没有因为眼前的状况而紧张，而是朝屋里指了指，面带微笑地询问着白起。\n\n“孙老师，你涉嫌非法限制未成年人行动。”\n\n“案件目前还在调查阶段，但我们需要请您回去参与调查。”\n\n“明白。”\n\n我在电视剧上看过接下来的流程，就把手向前伸了过去。但很意外的是，白起并没有将手铐给我戴上。",
-      music = "30_WarmSnow",
-      voice = "est_42185_2.mp3"
+      sentence = [[
+"Evening, Officer Gavin. Something I can help you with?"
+I didn't flinch. No panic. I just gestured toward the apartment with a smile, voice even.
+"Mr. Blake, you're being investigated for the unlawful detainment of a minor."
+"The case is ongoing, but we'll need you to come with us for questioning."
+"Of course."
+I'd seen enough TV dramas to know the next step. I calmly extended my hands, ready for the cuffs. But they never came.]],
+      music = "30_WarmSnow"
     },
     [3] = {
       uid = 4056,
       next = 4,
       beijing = 4965,
-      sentence = "他抬起头似乎是看出了我的疑问，随后对我做了个请走的姿势。\n\n“你并非Evolver犯罪者，我们找你也只是配合调查。”\n\n“在询问结束后，我会将你移交给对应的部门。”\n\n我知道白起说的都是实话，作为特遣署的执行人员，他们向来只针对涉及Evolver的犯罪。换句话来说，面前这位白警官，并不是单纯为了小贾失踪的案件所来。",
-      music = "30_WarmSnow",
-      voice = "est_42185_3.mp3"
+      sentence = [[
+He looked up at me, clearly reading the question in my expression, and simply motioned for me to follow.
+"You're not an Evolver suspect. This is just a standard interview for now."
+"Once we're done, we'll hand you off to the appropriate department."
+I knew he meant it. The Special Task Force only stepped in for Evolver-related cases. Which meant Gavin wasn't here just because of George.]],
+      music = "30_WarmSnow"
     },
     [4] = {
       uid = 4057,
       next = 5,
       beijing = 4965,
-      sentence = "“白警官有什么尽管问。只要知道，我自然会回答。”\n\n“看来你很清楚自己做了什么事。”\n\n“清楚。我刚刚祭拜完我的家人，又吃完饭，正在准备学生们的试卷。”\n\n“看来你并不打算承认绑架的事实。”\n\n“我的行为顶多算是知情不报，算不上绑架。”\n\n我知道这在警察眼中只是赤裸裸的狡辩，可我却对这个念头深信不疑。好在白起似乎并没有再追问下去的意思，反而换了个话题。",
-      music = "30_WarmSnow",
-      voice = "est_42185_4.mp3"
+      sentence = [[
+"Ask me anything you need, Officer. I'll answer whatever I can."
+"So you do know what you've done."
+"Yeah. I just got back from the cemetery. Had dinner. Was finishing up the exam paper for my students."
+"So you're not gonna admit to kidnapping?"
+"At most, I simply withheld the truth. That's not kidnapping."
+To a seasoned cop, I knew that probably sounded like a weak excuse built on a small technicality, but I believed it. And for now, Gavin didn't argue. He just shifted gears and moved on.]],
+      music = "30_WarmSnow"
     },
     [5] = {
       uid = 4058,
       next = 6,
       beijing = 4965,
-      sentence = "“在正式移交批捕前，我还有个问题。”\n\n“你想知道什么？”\n\n白起看了眼躲在人群中的小贾，似乎在思考着什么。\n\n“理由。”\n\n我望着白起，他的语气明显停顿了一下。\n\n“根据我们的查证，你和小贾都不是Evolver，也没有被Evol控制的迹象。”",
-      music = "30_WarmSnow",
-      voice = "est_42185_5.mp3"
+      sentence = [[
+"Before we hand you over officially, I've got one last question."
+"Go ahead."
+Gavin glanced toward George, who was half-hiding behind the other officers. He seemed to hesitate, like he was still trying to make sense of something.
+"Why'd you do it?"
+I met his eyes. There was a noticeable pause in his tone.
+"We've looked into everything," he said. "Neither you nor George is an Evolver. There's no sign of any manipulation or external influence."]],
+      music = "30_WarmSnow"
     },
     [6] = {
       uid = 4059,
       next = 7,
       beijing = 4965,
-      sentence = "“而且从小贾的口供看，你更像是主动收留他在这。”\n\n“但我们找不到任何，你需要这么做的理由。”\n\n“老师的职责，不就是帮助学生吗？”\n\n我盯着白起越发凝重的目光，嘴角却不自觉地笑了起来。\n\n“这就是你的理由？”\n\n“难道还需要别的理由吗？”",
-      music = "30_WarmSnow",
-      voice = "est_42185_6.mp3"
+      sentence = [[
+"And from George's own statement, it sounded more like you took him in willingly."
+"But we couldn't find a single reason why you'd do that."
+"Isn't it a teacher's job to help their students?" I said.
+Gavin's expression darkened slightly, but I couldn't stop the faint smile tugging at the corner of my mouth.
+"That's it? That's your reason?"
+"What, am I supposed to need a better one?"]],
+      music = "30_WarmSnow"
     },
     [7] = {
       uid = 4060,
       next = 0,
       beijing = 4966,
-      sentence = "白起的视线在我身上打量了一会，随后冲着身后的警员挥了挥手。\n\n“把他先带回署里，审讯结束前禁止任何人和他交流。”\n\n这样的结果，我在今天白天的时候就想到了。\n\n临走前我回头望了一眼客厅，沙发上摆放的家庭照，每个人笑得都很开心。\n\n我想此刻的我，也是开心的。",
-      music = "30_WarmSnow",
-      voice = "est_42185_7.mp3"
+      sentence = "He stared at me for a long moment, then finally turned to the officers behind him and gave a short nod.\n\"Take him in. No one talks to him until we finish questioning.\"\nHonestly, I'd expected this since the middle of the day.\nAs they led me out, I turned back for a moment and glanced into the living room. The photo on the sofa caught my eye—everyone smiling, frozen in time, happy.\nAnd in that moment, I felt like I was smiling too.",
+      music = "30_WarmSnow"
     }
   },
   [42191] = {
@@ -52305,63 +52990,102 @@ Only one thought went through Jules' head: So this was true combat.]],
       uid = 4109,
       next = 2,
       beijing = 2261,
-      sentence = "明明她已经梳妆打扮好坐在我面前了，明明她早就属于我了，我为什么还要再等一段时间才能牵到她的手。\n\n还好这个时候她盖上了盖头，看不到我回头的样子。\n\n我在门口没忍住站了一会儿。一切都静止了下来，连风也不吹了，和所有的阳光一起停留在她的身上。\n\n所以还有什么好等的，我应该直接把她带走，在最好看的、最好谁也看不到的地方，揭开她的盖头，告诉她我是多么急切地想要拥有所有的你，以及被你拥有。",
+      sentence = [[
+She was already dressed and seated before me. She had long since been mine. Why did I still have to wait before I could take her hand?
+
+Thankfully, she lowered her veil at just that moment and didn't see me turning back.
+
+I lingered at the doorway despite myself. Everything seemed to be still. The wind fell silent, the world held its breath, and even the sunlight paused, resting entirely on her.
+
+So what was there left to wait for? I should have taken her with me right then, brought her somewhere beautiful, somewhere hidden from all eyes, lifted her veil, and told her how urgently I wanted to have all of her, and to be wholly claimed by her in return.]],
       music = "407_BQ_Birthday",
-      voice = "est_42191_1.mp3",
       special = 1
     },
     [2] = {
       uid = 4110,
       next = 3,
       beijing = 2261,
-      sentence = "那一刻我觉得自己好蠢，也没什么长进，像个毛头小子一样，看到了喜欢的女孩儿穿上红妆，就什么都等不及了。\n\n我还以为自己挺擅长憋着心思的。以前只是偷看着她不去上前，只需要一点点想念就能快乐很久。\n\n可能是现在的我心里笃定，所以更贪心了。\n\n这样想着，我的心似乎又安定了些。我知道她喜欢我，会成为只属于我一个人的新娘子。\n\n说不定这种等待也是必要的一环，在特殊的仪式里，每个步骤应该都有意义。",
+      sentence = "The thought made me feel foolish. Have I grown nothing over the years? Why was I still like an impulsive boy who just lost all restraint the moment he saw the girl he loved in a wedding dress?\n\nI used to think I was good at keeping my feelings in check. Back then, I was content just watching her from a distance.\n\nMaybe it was because I was certain about her now. And once you're certain… you start wanting more.\n\nWith that realization, my heart settled again. I knew she loved me. I knew she'd become my bride.\n\nPerhaps this waiting, too, was a necessary part of it all. In a ceremony so solemn, every step must carry its own meaning.",
       music = "407_BQ_Birthday",
-      voice = "est_42191_2.mp3",
       special = 1
     },
     [3] = {
       uid = 4111,
       next = 4,
       beijing = 2261,
-      sentence = "那就遵循一下古人们的安排吧。\n\n而且还有东西没有准备好，既然吉时还没有到，我还有时间再布置一下。\n\n接亲应该要把新娘子接到新的家里，或许可以找个漂亮房子，屋内装扮成喜堂，窗外要能看到最好看的风景。\n\n同时，还有一件很重要的东西要交给她——我想了想路线，决定先去抄纸店。",
+      sentence = [[
+Guess I'd follow the ways of the old traditions.
+
+Besides, there were still things I hadn't prepared. Since the auspicious hour hadn't arrived yet, that meant I still had time to set things up a bit more.
+
+Back in the days, marriages meant bringing the bride to a new family. Perhaps I could find a house somewhere and posh it up? Make it all nice with a great view and stuff.
+
+Aside from that, there was also something very important I needed to give her. After weighing my options, I decided to hit the paper shop first.]],
       music = "407_BQ_Birthday",
-      voice = "est_42191_3.mp3",
       special = 1
     },
     [4] = {
       uid = 4112,
       next = 5,
       beijing = 2255,
-      sentence = "我给她挑东西时，常常会变成一个麻烦的人。对于“最好”，我开始变得挑剔，但如果是一眼就相中的，总会是最好的。\n\n之前进抄纸店，我几乎一眼就看中一款纸。红色的底色鲜艳但不刺眼，零散洒上的金箔贵气又吉利，表面有几分纤维特有的粗粝感，韧性似乎也更好。\n\n字写上去，墨迹清晰又干净，仿佛无论过了多久，心意和文字都不会褪色。\n\n当时为了避免被她发现，顺手折了一个纸飞机，还好这种时候的她都很容易被我的一些小把戏引开注意力。",
+      sentence = [[
+Whenever I was picking out things for her, I had a tendency to become really obsessed with perfection. But, if something captured me at first glance, it was usually the right choice.
+
+The last time I visited the shop, one of the papers there immediately caught my eye. It was vibrant but not overwhelming, scattered with delicate flecks of gold leaf that shimmered with an air of elegance and good fortune. The surface had that faint, fibrous roughness that gave it character, and it felt more resilient than the usual kind.
+
+When I tested it, the ink settled with perfect clarity, like the kind of paper where no matter how many years passed, the words and the sentiment would remain untouched, unfaded.
+
+I casually folded it into a paper airplane to avoid her noticing. Thankfully, in moments like that, she was always easy to distract with one of my little tricks.]],
       music = "407_BQ_Birthday",
-      voice = "est_42191_4.mp3",
       special = 1
     },
     [5] = {
       uid = 4113,
       next = 6,
       beijing = 2255,
-      sentence = "其实这种纸也确实适合给她折个纸飞机。\n\n顺着风，让我所有的心意都飞向她。\n\n看着面前有些折痕的红纸，我决定就是它了。\n\n既然她选了这一张，就让这份选择成为其中的一部分。\n\n不过我始终没有想好写什么。\n\n好像每每到这种时候，我又变成了一个嘴拙又匮乏的人。",
+      sentence = [[
+Truthfully, this paper made the perfect little airplane.
+
+It flew with the wind, carrying all my heartfelt feelings to her.
+
+I stared at the faintly creased paper briefly and suddenly decided that it was going to be the one.
+
+Since she had chosen it, it only made sense for her choice to be a part of it all.
+
+But, no matter how long I sat with it, I still couldn't decide what to write.
+
+It always seemed to happen at moments like this. Just when I most wanted to express myself, I suddenly turned inarticulate, as though every word I knew just slipped out of reach.]],
       music = "407_BQ_Birthday",
-      voice = "est_42191_5.mp3",
       special = 1
     },
     [6] = {
       uid = 4114,
       next = 7,
       beijing = 2255,
-      sentence = "草稿纸上不知被我划了多少字，窗外的叶子也被我吹掉了好几片。后来抄纸店的老板都看不下去了，给了我一本线装书，上面写了各种诗词，表达着古人精简又衷心的祝愿。\n\n我看了很久。以往看这种书时，都会很快犯困，但大概是想要写给她的句子，我又变得麻烦了起来。这一句不错，那一句也好。直到有一行文字出现在细碎的光斑里。\n\n我终于在那张红纸上写下了第一笔。",
+      sentence = [[
+I'd lost count of how many words I'd scrawled across that scrap of paper, or how many leaves I blew off from the tree outside the window. Watching my futile efforts, the shop owner eventually stepped in and handed me a stitched notebook. Inside were lines of classical poetry, elegant verses full of sincere and concise blessings from ancient times.
+
+I sat with it for a long while. Normally, books like that would lull me to sleep in minutes. But this time, with the thought of writing something for her, I grew strangely picky. After flipping, weighing, and hesitating, amidst the dappled light filtering through the window, a single verse finally stood out.
+
+That was the moment I finally picked up my pen and wrote the very first stroke onto the red paper.]],
       music = "407_BQ_Birthday",
-      voice = "est_42191_6.mp3",
       special = 1
     },
     [7] = {
       uid = 4115,
       next = 0,
       beijing = 2255,
-      sentence = "第一个横有些僵硬和用力，墨迹晕开了些。但我没有停下，一笔一划写着。\n\n可能不是那么好看，但这就是我想要写给她的，属于我们的婚书。\n\n“嘉礼初成，良缘遂缔。”\n\n此时墨还未干，在阳光下亮晶晶的。\n\n再等一会儿，我就可以带着这架纸飞机去接她了。",
+      sentence = [[
+The first stroke came out stiff. Think I pressed too hard, and the ink bled slightly. But I didn't stop. I wrote each stroke carefully, one by one.
+
+It might not be beautiful, but it was exactly what I wanted to write for her. It was our marriage vow.
+
+"The ceremony is done; the knot is hence tied."
+
+The ink was still wet, glimmering softly in the sunlight.
+
+In just a little while, I'd be able to take this paper airplane to her. In just a little while, I'd be bringing her home.]],
       music = "407_BQ_Birthday",
-      voice = "est_42191_7.mp3",
       special = 1
     }
   },
@@ -56654,49 +57378,64 @@ Shaw leaned back against his seat, eyes flicking to the window. The world outsid
       uid = 3784,
       next = 2,
       beijing = 4932,
-      sentence = "“打卡成功！开启活力满满的一天吧~”\n\n小艾看着手机上弹出的提示，毫无活力地蠕动到自己工位上。一旁的同事阿北见他过来，神秘兮兮地招了招手：“听说了吗？我们部门好像要来个新人。”\n\n小艾那双在周一早上死气沉沉的眼睛瞬间睁大了，迸射出八卦的亮光：“是吗！什么时候来？”\n\n“明天就能到岗，听说是个实习生。”\n\n“有人和我们一起加班就是大好事！你说我们的工作能分出去多少？”",
-      music = "03_Daily",
-      voice = "est_82101_1.mp3"
+      sentence = [[
+"You are checked in! Let's kick off another productive day!"
+
+The cheery message popped up on Anthony's phone, but he just slithered toward his workstation with the enthusiasm of a slug. Noticing him, his colleague Brandon gave a sly wave and leaned in secretively. "Yo, heard the news? Looks like we're getting a newbie."
+
+Anthony's eyes, dull and dreary just moments ago, snapped open with a flash of gossip-fueled life. "For real? When's this happening?"
+
+"Tomorrow. Word is it's an intern."
+
+"Someone to suffer through the crunch with us? Now that's a blessing. Think we can offload a chunk of our work?"]],
+      music = "03_Daily"
     },
     [2] = {
       uid = 3785,
       next = 3,
       beijing = 4932,
-      sentence = "他们部门负责的《奥德赛》新玩法——“狂欢夜”即将上线，最近忙得昏天暗地。从部门主管到各个策划，全都身兼数职。不仅要着手系统优化、排查BUG，还要根据玩家反馈，继续维护已有的系统。不仅如此，作为最了解规则和玩法的人，他们还得培训一下自己的“业务水平”，之后作为主持人，到游戏里引导内测玩家进行游戏。\n\n大事小事全挤到一起，本就规模不大的部门恨不得把一个人掰成三个用。\n\n这个节骨眼上，只要来人，不论对方什么来头，什么资历，但凡能一起干活一起加班，那就是过命的兄弟了。",
-      music = "03_Daily",
-      voice = "est_82101_2.mp3"
+      sentence = "Their department was knee-deep in chaos, racing against the clock to roll out Odyssey's latest game mode—\"Carnival Night.\" Everyone, from the lead dev to the interns, was juggling three jobs at once. They had to fine-tune the system, hunt down stubborn bugs, and stay on top of player feedback to keep the old features alive and kicking. As if that wasn't enough, those most familiar with the mechanics had to double as in-game hosts, guiding testers through the closed beta experience.\n\nWith so many tasks crammed into so little time, the team often joked they needed to clone themselves just to make it through the day.\n\nSo at this point, they weren't picky—any warm body that could type, stay awake, and endure long nights was basically a battle-brother to the team.",
+      music = "03_Daily"
     },
     [3] = {
       uid = 3786,
       next = 4,
       beijing = 4932,
-      sentence = "第二天，之前空出的工位上，果然多了一个人的身影。\n\n那是个打扮十分张扬的年轻人。一身朋克风格的皮衣，耳朵上好几个耳钉耳环，连头发都是抢眼的蓝紫色，和他们这些饱受加班摧残的人对比鲜明。\n\n主管见大家陆续到位，拉了个会议室，正式介绍起那位和周围环境格格不入的新同事。\n\n“这位是我们部门的新人，叫凌肖。他之后会作为实习生，和大家一起工作一段时间。”\n\n“嗯……凌肖，你有什么想说的吗？”",
-      music = "803_LX_Birthday",
-      voice = "est_82101_3.mp3"
+      sentence = "The next day, as promised, the empty desk had found a new occupant.\n\nA flamboyant young man had arrived, dressed head-to-toe in punk flair: leather jacket, ears bristling with studs and rings, and hair dyed a defiant streak of blue-violet. He looked like he'd just walked out of a nightclub—a living, breathing contrast to the bleary-eyed, caffeine-fueled crew around him.\n\nOnce most of the team had settled in, the department head called everyone to the meeting room, ready to do the formalities.\n\n\"Alright, folks. Meet our new teammate, Shaw. He'll be interning with us for a bit.\"\n\n\"Shaw, anything you wanna say to the team?\"",
+      music = "803_LX_Birthday"
     },
     [4] = {
       uid = 3787,
       next = 5,
       beijing = 4932,
-      sentence = "“没有，大家该干什么干什么吧。”\n\n那人说着，径直拉了个椅子坐下。\n\n主管也没说什么，朝大家点了点头开始例行周会。\n\n等会议一结束，凌肖推了门就走，全然不顾似乎还想再交代几句的主管，一屁股坐到工位上，也不见和谁交接，噼里啪啦敲着键盘忙了起来。\n\n小艾有些摸不着头脑，这实习生的派头是不是有些太大了？",
-      music = "803_LX_Birthday",
-      voice = "est_82101_4.mp3"
+      sentence = "\"Nah. Carry on with whatever you were doing.\"\n\nHe said it as casually as flipping a switch, and then plopped into a chair like he owned the place.\n\nThe supervisor gave a small nod and jumped into the usual team updates.\n\nAs soon as the meeting wrapped up, Shaw was gone—out the door without so much as a glance back, completely ignoring the supervisor who looked like he still had more to say. Back at his desk, he didn't introduce himself or wait for a walkthrough. He just fired up his terminal and started typing at lightning speed, like he'd been on the job for weeks.\n\nAnthony blinked. Was this dude really just an intern? He's acting like he's the boss's relative or something.",
+      music = "803_LX_Birthday"
     },
     [5] = {
       uid = 3788,
       next = 6,
       beijing = 4932,
-      sentence = "自己平时刷手机时，偶尔会看到什么“年轻人整治职场”的小短剧和段子，该不会今天真在现实里遇上了？\n\n但不管怎样，为了迎来有人分担工作、尚且能呼吸的明天，小艾决定主动出击，拉近一点儿自己和这位酷哥之间的同事关系。他正想约新人一起吃个午饭，一转头却发现对方早走了。\n\n不仅如此，打开办公软件一看，那人灰灰的头像旁赫然写了“离线”两个字。",
-      music = "803_LX_Birthday",
-      voice = "est_82101_5.mp3"
+      sentence = [[
+He thought back to those "Gen Z vs. the Workplace" videos and wondered if one had just come to life in front of him.
+
+Still, with the slim hope of having someone split his workload, Anthony decided to break the ice, maybe by grabbing lunch together. But when he turned around and tried to start off on the right foot, Shaw was already gone.
+
+Worse, when he checked the office app, the guy's profile was grayed out with the "Offline" in bold letters right next to it.]],
+      music = "803_LX_Birthday"
     },
     [6] = {
       uid = 3789,
       next = 0,
       beijing = 4932,
-      sentence = "“嘶……难不成这个实习生是Aether总的亲戚？总不能是那种随便找个班上上，来体验生活的富二代吧？”阿北摸着下巴，眯着眼看向凌肖的工位。\n\n一旁的老菜也像是想到了什么一般补了一句：“你这么一说，我总觉得主管对他的态度也不一般，仔细品品还有点小心翼翼的感觉。”\n\n“别瞎想，人家刚来第一天呢。”\n\n话虽然这么说着，但小艾自己心里也有几丝不确定：公司不会真给他们这么一个忙到爆的部门里，塞了一个关系户吧？",
-      music = "803_LX_Birthday",
-      voice = "est_82101_6.mp3"
+      sentence = [[
+"Tch... Maybe he really is the boss's relative, here to get a taste of life as part of the working class?" Brandon muttered, stroking his chin and squinting over at the vacant desk.
+
+Old Carson chimed in, his tone suddenly thoughtful. "Now that you mention it... Notice how our supervisor was acting kinda weird around him? Like he was nervous or something."
+
+"Quit overthinking it. It's literally day one."
+
+Still, Anthony couldn't help but wonder if someone really did throw a big hot potato into their department at a time like this.]],
+      music = "803_LX_Birthday"
     }
   },
   [82102] = {
@@ -56704,81 +57443,98 @@ Shaw leaned back against his seat, eyes flicking to the window. The world outsid
       uid = 3790,
       next = 2,
       beijing = 1101,
-      sentence = "难得来了新同事，小艾本想展示一下自己的友善和热情，不想对方根本没给他这个机会。\n\n凌肖在报道那天露了个脸后，就再没出现过。他的工位干净得出奇，连打扫卫生的阿姨都以为那里没人，差点就让IT把设备收走了。\n\n也行吧，小艾心想，看来对方只是来挂个名，算不上自己多了个同事。\n\n没想到，两天后 “狂欢夜”内部开系统迭代会时，凌肖竟风风火火地走了进来，全程不仅听得认真，还不时敲着键盘，似是在记录着什么。",
-      music = "52_Daily03",
-      voice = "est_82102_1.mp3"
+      sentence = "It was rare to have a new face in the office, and Anthony had fully intended to make a good impression by being extra friendly. Too bad the new guy never even gave him the chance.\n\nAfter reporting in on day one, Shaw vanished. His desk remained spotless, so pristine even the cleaning staff thought it was unoccupied. They nearly had IT reclaim the equipment.\n\n\"Well, whatever,\" Anthony thought. \"Probably just here for show—guess I'm not getting a new colleague after all.\"\n\nBut two days later, at the internal meeting, Shaw showed up out of the blue and strode right into the meeting room. He paid close attention the entire time, fingers flying across his keyboard now and then, as though recording every word.",
+      music = "52_Daily03"
     },
     [2] = {
       uid = 3791,
       next = 3,
       beijing = 1101,
-      sentence = "会议刚结束，一旁的打印机就“唰唰唰”吐出几份文件，他长腿一跨，利落地捞起纸，正反两边磕了磕，“啪嚓”地按下个订书针，头也不回地往电梯的方向去了。\n\n他办公软件上的头像也难得亮起，状态栏甚至是“会议中”三个字。",
-      music = "52_Daily03",
-      voice = "est_82102_2.mp3"
+      sentence = [[
+As soon as the meeting ended, the nearby printer started whirring. In one smooth motion, Shaw stepped over, scooped up the warm stack of documents, tapped the pages straight, stapled them in a crisp snap, and made a beeline for the elevators. No goodbyes, no explanations.
+
+Even his office app icon had come back to life, status updated to the rare sight of "In a meeting."]],
+      music = "52_Daily03"
     },
     [3] = {
       uid = 3792,
       next = 4,
       beijing = 1101,
-      sentence = "“刚刚过去的是不是我们的新实习生？”去茶水间倒水的小迪走了回来，迷茫地望着凌肖消失的方向：“急匆匆就坐电梯上楼去了，这是要去哪呀？”\n\n小艾八卦的心闪过一丝灵光，三两步来到电梯间，眼看着向上的楼层数停在了32层。\n\n“朋友们，他去了老总的楼层！”\n\n大家平时工作中难得有什么新鲜事，遇到这么一位特立独行的实习生，立刻点爆了话题。",
-      music = "52_Daily03",
-      voice = "est_82102_3.mp3"
+      sentence = "\"Wait, wasn't that the new intern just now?\" Dina asked as she came back from the break room, still holding her water bottle. She glanced at the elevator. \"He just zipped upstairs—where's he going?\"\n\nAn idea hit Anthony. He strode quickly to the elevator display and watched it stop at the 32nd floor.\n\n\"Folks... he just went up to the exec floor.\"\n\nBoredom made great fuel for office gossip. And a mysterious, elusive intern was practically a gift from the drama gods.",
+      music = "52_Daily03"
     },
     [4] = {
       uid = 3793,
       next = 5,
       beijing = 1101,
-      sentence = "阿北喝着冰美式，笃定地点头：“我就说吧，他肯定是关系户。”\n\n“别是来监督我们工作的……他刚刚打印的那摞东西，该不会是我们的绩效吧？”\n\n“不不不，我觉得还是更像富二代……”\n\n大家说着说着，猜测也逐渐往更为离谱的方向发散，什么“暗中观察公司情况的下一任总裁”、“竞品公司打入内部的技术骨干”、“职业刷面经一天去四个公司当实习生的超级卖课博主”……一个比一个离谱。",
-      music = "52_Daily03",
-      voice = "est_82102_4.mp3"
+      sentence = "Brandon took a sip of his coffee and nodded like he'd solved a crime. \"Knew it. Definitely the boss's relative.\"\n\n\"You think he's here to spy on us? That thick stack he just printed—what if it's our performance reports?\"\n\n\"Nah, he looks more like a rich kid doing a real-world internship for kicks.\"\n\nSpeculation snowballed into chaos: a secret heir scoping out the company before taking over, a sleeper agent from a rival tech firm, or a full-time \"intern\" jumping between four companies a day and vlogging about it for his online career coaching channel... The theories got progressively more absurd.",
+      music = "52_Daily03"
     },
     [5] = {
       uid = 3794,
       next = 6,
       beijing = 1101,
-      sentence = "“小艾，你说呢？”\n\n小艾故作高深地喝了口水，抬手示意大家稍安勿躁：“我跟他多聊聊，过几天保准给大家伙切一口最新鲜的瓜！”",
-      music = "52_Daily03",
-      voice = "est_82102_5.mp3"
+      sentence = [[
+"Anthony, what do you think?"
+
+Anthony took a deliberately slow sip of water and raised a hand like a professor quieting a rowdy class. "Relax, people. I'll chat him up. Give me a few days, and I'll serve y'all the freshest scoop."]],
+      music = "52_Daily03"
     },
     [6] = {
       uid = 3795,
       next = 7,
       beijing = 4932,
-      sentence = "他留意到，这位实习生虽然行踪不定，但他从来没有缺席过“狂欢夜”的技术性测试，和重要迭代宣讲会。\n\n看起来，他似乎确实对《奥德赛》颇为上心，也难怪会到他们公司当实习生。\n\n有了突破口，就是胜利的第一步！\n\n小艾发挥出自己尝遍公司远近餐馆的硬实力，逮到一个凌肖没有离开的午饭饭点，开始了第一轮“拉近关系作战”。\n\n“嗨，要一起吃饭吗？我之前发现了一家跷脚牛肉，味道很不错哦！”",
-      music = "52_Daily03",
-      voice = "est_82102_6.mp3"
+      sentence = "He had noticed a pattern—Shaw might ghost the office at will, but he never missed a single technical test or major update meeting for Carnival Night.\n\nIt seemed he really cared about Odyssey. Maybe that was why he was here in the first place.\n\nA crack in the mystery. And a crack was all Anthony needed.\n\nHe called on his greatest strength: deep knowledge of every lunch spot within a ten-mile radius. He timed his move carefully, waiting for a rare moment when Shaw hadn't slipped out early.\n\n\"Hey, wanna grab lunch? There's this place with killer beef hotpot—super tender, melts in your mouth.\"",
+      music = "52_Daily03"
     },
     [7] = {
       uid = 3796,
       next = 8,
       beijing = 4932,
-      sentence = "“不了，下午有事，中午约了人。”\n\n正餐不容易逮人，那下午茶总会容易些吧？\n\n一个所有人都昏昏欲睡的午后，小艾再次出击，拿着手机走到凌肖工位旁：“大家打算拼车喝个柠檬茶，你也来一杯？”\n\n凌肖头也不抬地随手指了指电脑旁的可乐罐：“不了。”\n\n“没事，那就当我请你……”",
-      music = "52_Daily03",
-      voice = "est_82102_7.mp3"
+      sentence = "\"Nah, got stuff this afternoon. Already scheduled a meeting with someone.\"\n\nOkay... lunch didn't work. But maybe afternoon tea?\n\nIn the sleepy lull of a late afternoon, Anthony approached again, phone in hand. \"We're putting together a lemon tea run. Want one? My treat.\"\n\nWithout lifting his head, Shaw casually pointed at the Coke can next to his monitor. \"I'm good.\"\n\n\"No worries, consider it a little welcome gift—\"",
+      music = "52_Daily03"
     },
     [8] = {
       uid = 3797,
       next = 9,
       beijing = 4932,
-      sentence = "“有什么话直说，别跟我套近乎。”\n\n对方冷硬地打断了他的话，投来的视线中明明白白地写着不耐烦。\n\n小艾“嗖”地把手机收了回去，干笑两声：“哈哈，其实也不是什么大事儿……你真是Aether总的侄子？”\n\n“谁说的？”\n\n“那你莫非是在监督我们工作进度的HR？”",
-      music = "52_Daily03",
-      voice = "est_82102_8.mp3"
+      sentence = [[
+"Look, if you've got something to say, just say it. Don't play the buddy game."
+
+His cool voice cut through the air. His gaze, when it finally met Anthony's, was so full of irritation that it left no room for ambiguity.
+
+Anthony immediately retracted his phone, letting out a weak laugh. "Haha, nah, it's not a big deal. People were just curious... Are you really the CEO's nephew?"
+
+"Nonsense."
+
+"Then... are you, like, HR's secret agent or something? Here to monitor our performance?"]],
+      music = "52_Daily03"
     },
     [9] = {
       uid = 3798,
       next = 10,
       beijing = 4932,
-      sentence = "“没见我正干活呢？”凌肖戏谑的表情更盛，还伸手敲了敲自己的电脑屏幕。\n\n他这么一说，小艾更疑惑了：“那你这么来一天休三天，到底是做什么的？”\n\n“负责什么工作不是主管说了算吗？你去问他不就好了。”\n\n凌肖像是觉得已经尽到了回答问题的义务般，起身关了电脑，拿起可乐罐，头也不回地走出了办公区。",
-      music = "52_Daily03",
-      voice = "est_82102_9.mp3"
+      sentence = [[
+"Do I look like I have the free time for that?" Shaw quirked a brow, tapping his screen for emphasis.
+
+Anthony frowned, more confused than before. "Then why do you only show up once every few days? What exactly is your job?"
+
+"That's for the manager to answer, isn't it? Go ask him."
+
+As if determined to end the conversation there and then, Shaw shut his laptop, grabbed his soda, and walked out of the office without looking back.]],
+      music = "52_Daily03"
     },
     [10] = {
       uid = 3799,
       next = 0,
       beijing = 4932,
-      sentence = "软件上，他的头像一灰，显示“离线”。\n\n小艾看着他离开的方向，眼睛不由自主地瞪大了。\n\n等等？这个人又下班了？！",
-      music = "52_Daily03",
-      voice = "est_82102_10.mp3"
+      sentence = [[
+On the company app, his portrait grayed out once again.
+
+Anthony stared after him, eyes unconsciously widening.
+
+Wait a sec... did he just leave for the day? Again?!]],
+      music = "52_Daily03"
     }
   },
   [82103] = {
@@ -56786,57 +57542,85 @@ Shaw leaned back against his seat, eyes flicking to the window. The world outsid
       uid = 3800,
       next = 2,
       beijing = 4932,
-      sentence = "那位星驰电掣的实习生还是断断续续在每个开发关键点出现，像一场突如其来的雷暴雨，轰隆隆做些什么，又快速地离开。\n\n日子就这么在偶有雷鸣的忙碌中继续，直到“狂欢夜”系统上线的时间越来越近，“恋语市数字科技峰会”也终于要在《奥德赛》内举办。\n\n漫长的加班加点终于要迎来结果，小艾在工位上连好头盔，准备登入账号。\n\n余光中，凌肖也准时坐到了工位上，亮起的屏幕上，一个滚动着《奥德赛》后台监管程序，另一屏却开了个写得密密麻麻的Excel表，似乎正在筛选什么信息。",
-      music = "48_Quiet_Daily",
-      voice = "est_82103_1.mp3"
+      sentence = [[
+The intern kept coming in and going out like he was a bolt of lightning. Yet, he always showed up at key development points. He'd barrel in like thunder, do who-knew-what with intense focus, and then disappear before anyone could blink.
+
+And so the days went on with his periodic visits as the Carnival Night inched closer to its official launch. The long-awaited Loveland Digital Tech Summit was also finally set to go live inside Odyssey.
+
+After what felt like an eternity of late nights and constant crunch, the moment was nearly here. At his desk, Anthony adjusted his headset and prepared to log in.
+
+From the corner of his eye, he caught sight of Shaw arriving right on cue. His screen lit up with the Odyssey back-end interface, while the other monitor displayed a jam-packed Excel sheet where he appeared to be sorting through lines of dense data.]],
+      music = "48_Quiet_Daily"
     },
     [2] = {
       uid = 3801,
       next = 3,
       beijing = 4932,
-      sentence = "小艾虽然好奇，但现在也不是什么适合八卦的时候，便瘪瘪嘴，转头按下了登录键。\n\n“狂欢夜”，正式开启。",
-      music = "48_Quiet_Daily",
-      voice = "est_82103_2.mp3"
+      sentence = [[
+Anthony itched with curiosity, but now wasn't the time to poke around. He pressed his lips into a tight line and turned back to his screen, hitting the login key.
+
+The Carnival Night was officially underway.]],
+      music = "48_Quiet_Daily"
     },
     [3] = {
       uid = 3802,
       next = 4,
       beijing = 3182,
-      sentence = "残破的古堡异常阴森，只有几道颤颤巍巍的烛光。宾客们穿着欧式古典服装坐在桌旁，每人脸上都是一副惴惴不安的样子。\n\n为首的巡夜人让视线缓缓扫过众人，沙哑地干笑几声：“所有人都在这里……看来昨晚每位宾客都有个好梦啊……”\n\n骇人的雷鸣在窗外响起，似乎整座建筑都为之一颤。\n\n有人尖叫出声，有人面色苍白，只有桌前的巡夜人依旧低低地笑着：“既然人都到了……也该说一说，到底谁是狼人了吧……”",
-      music = "09_Suspect",
-      voice = "est_82103_3.mp3"
+      sentence = [[
+The virtual manor was cloaked in eerie shadows, its ruined castle walls flickering under the dim tremble of candlelight. Guests in baroque finery sat around the long table, each with anxiety etched across their features.
+
+At the head of the table, the Night Watcher scanned the room slowly and then let out a hoarse chuckle. "Well, look at that... everyone made it back. Guess we all slept really well last night, huh?"
+
+Thunder rumbled outside, as if the entire mansion shivered at its roar.
+
+Someone shrieked. Another paled visibly. Only the Night Watcher smiled, low and slow. "Now that we're all here... guess it's time to figure out who the werewolf is."]],
+      music = "09_Suspect"
     },
     [4] = {
       uid = 3803,
       next = 5,
       beijing = 3182,
-      sentence = "见几位玩家试探着开始讨论起来，小艾暗暗点了点头。\n\n看来前几天针对当主持人的自我培训很有效果，自己是有点演绎天赋在身上的！\n\n不过，虽然自己的场次一片岁月静好，耳机里还是时不时会传出其他同事的反馈。\n\n“已经白天了，大宅六号房的光影渲染还是夜晚，看看是什么问题。房间本身不让玩家继续探索，优先级不高。”",
-      music = "03_Daily",
-      voice = "est_82103_4.mp3"
+      sentence = "As a few players cautiously began murmuring theories, Anthony nodded subtly to himself.\n\n\"Not bad. That self-training really paid off. Maybe I've got a flair for acting!\"\n\nHis session was running smoothly, but in his earpiece, the chaos of the larger operation buzzed on.\n\n\"It's supposed to be daytime, but Room 6 is still stuck on night mode. Probably just a trigger error. Doesn't block progression—assign low priority.\"",
+      music = "03_Daily"
     },
     [5] = {
       uid = 3804,
       next = 6,
       beijing = 3182,
-      sentence = "“这里有贴图错误，可能会被玩家看到！先随便空投个什么……不是，我这是中式地图！你给我个罗马立柱也太随便了吧？！”\n\n不时就会冒出的“求救”声让他紧绷着神经，生怕遗漏什么BUG。",
-      music = "03_Daily",
-      voice = "est_82103_5.mp3"
+      sentence = "\"We've got a texture issue over here! It could be visible to players. Just drop a placeholder—wait, what?! This is a Chinese-themed map! Who tossed in a Roman column?!\"\n\nEvery \"cry for help\" tightened Anthony's nerves. He was hyper-aware, desperate not to miss any hidden bug.",
+      music = "03_Daily"
     },
     [6] = {
       uid = 3805,
       next = 7,
       beijing = 3182,
-      sentence = "又一次夜晚降临，“死于”狼人之手的可怜受害者成为“幽灵”回到大厅。小艾尽职尽责地向他说明了观看规则后，正打算继续推进游戏流程，却被玩家出声叫住了。\n\n“请问我可以提前结束游戏，直接下线吗？”\n\n他听到意料之外的回答，下意识问了一句：“嗯？是对这个玩法不感兴趣吗？欢迎您提出相关建议。”\n\n“没有，是我有点头疼。也不知道是不是昨晚熬夜了，我平时打《奥德赛》不会这样的。”\n\n“需要我帮你联络医疗人员吗？”",
-      music = "03_Daily",
-      voice = "est_82103_6.mp3"
+      sentence = [[
+Another night fell in-game. A player, newly "killed" by the werewolf, returned to the hall as a ghost. Anthony stayed in character, calmly walking them through the spectating rules. He was about to continue the scene when a voice called out.
+
+"Hey, can I log out early? Think I'm done here."
+
+It caught him off guard. "Huh? Not feeling the game? We're happy to take feedback if anything's off."
+
+"Nah, not the game. Just got a bit of a headache. Maybe I stayed up too late. Doesn't happen when I'm usually playing."
+
+"Want me to call someone? We've got medical staff on standby if you need them."]],
+      music = "03_Daily"
     },
     [7] = {
       uid = 3806,
       next = 0,
       beijing = 3182,
-      sentence = "“不用麻烦，我都要退出游戏了。嘿嘿，别看你长得阴恻恻的，人还怪好的。”\n\n看着玩家登出游戏的特效，小艾愣了愣，随即心中涌上一股暖意。\n\n多么友善的人啊，甚至还注意到了他精心捏的脸。\n\n他暗暗点点头，专门打开了内部通讯频道。\n\n“这里是‘欧风庄园’场。玩家反馈游戏中有头疼的情况，辛苦QA老师记录一下。”",
-      music = "03_Daily",
-      voice = "est_82103_7.mp3"
+      sentence = [[
+"Nah, don't worry about it. I'm heading out anyway. Heh... you might have a creepy face, but you're actually kinda nice."
+
+Anthony blinked at the screen as the logout animation played out. Then, unexpectedly, a wave of warmth rose in his chest.
+
+"Such a nice person... even noticed the custom face I built for the character."
+
+Quietly, he tapped open the internal communications channel.
+
+"European Manor here. A player reported headache symptoms mid-session. Flagging for QA. Please log and review."]],
+      music = "03_Daily"
     }
   },
   [82104] = {
@@ -56844,57 +57628,77 @@ Shaw leaned back against his seat, eyes flicking to the window. The world outsid
       uid = 3807,
       next = 2,
       beijing = 3182,
-      sentence = "好在，这是小艾遇到的唯一一个特殊情况。\n\n眼看好人阵营就要误打误撞迎来最后的胜利，他正祈祷着这轮游戏能没有BUG，善始善终时，耳机里传来一道有些陌生的声音。\n\n“这里是场外，游戏进程监控的窗口上有个信息一直弹，好像是个什么预警。”\n\n小艾回忆了半晌，才想起这道有些漫不经心的声音，应该是那个叫凌肖的实习生。\n\n“你们分个人看看，别到时候玩家出什么问题。”",
-      music = "04_Normal",
-      voice = "est_82104_1.mp3"
+      sentence = "Fortunately, that turned out to be the only irregularity during his round.\n\nThe humans were on the brink of an accidental win. Anthony clasped his hands in silent hope, praying the game would hold itself together till the end. Then, a new voice crackled into his headset.\n\n\"Hey, this is external ops. There's some alert that keeps popping up on the system monitor. Might be a warning message or something.\"\n\nAnthony frowned. The voice was vaguely familiar. Then it clicked—it was Shaw's voice.\n\n\"Can someone take a look? Let's not wait until it actually causes a problem for someone.\"",
+      music = "04_Normal"
     },
     [2] = {
       uid = 3808,
       next = 3,
       beijing = 3182,
-      sentence = "下一秒，老蔡有些焦躁的声音传了出来。\n\n“坏了，是个恶性BUG，还检测到了玩家脑电波异常！”\n\n小艾一愣，差点把自己要说的台词都给忘了。\n\n怎么会有这样的BUG出现？！\n\n他大半的注意力都放到了耳机里。\n\n虽然系统有报错，但位于报错地点的主持人似乎并没有注意到什么异常。",
-      music = "08_Tension",
-      voice = "est_82104_2.mp3"
+      sentence = [[
+A second later, Carson's urgent voice came through.
+
+"We've got a problem. Critical bug. The system's also picking up abnormal brainwave activity from a player."
+
+Anthony froze, almost making him forget the next line in his script.
+
+A neural spike? From the player?! What kind of bug would do that?!
+
+Most of his attention was diverted immediately to his headset. On-screen, his avatar kept up appearances, but Anthony's focus was no longer in the game.
+
+The system had issued a warning, but the host at the scene didn't seem to notice anything wrong.]],
+      music = "08_Tension"
     },
     [3] = {
       uid = 3809,
       next = 4,
       beijing = 3182,
-      sentence = "测试人员和程序员已经开始了紧急排查，发现这个BUG确实会对玩家的脑神经造成一定影响，程度未知，后果未知。\n\n事情的严重性霎时翻了好几倍不止。\n\n愈发激烈的讨论声源源不断传入耳中，小艾却蓦地想起那个实习生提醒报错时说出的话。\n\n“别到时候玩家出什么问题。”\n\n小艾早在《奥德赛》立项初期就加入了项目，因此，他对Infinite公司的了解比大多数人深，也格外清楚，《奥德赛》所掌握的玩家数据多到异常。",
-      music = "08_Tension",
-      voice = "est_82104_3.mp3"
+      sentence = "The testers and programmers were already scrambling to pinpoint the source. The bug, it turned out, really was interfering with players' neural signals. No one knew how severe it could get—or what might happen next.\n\nIn an instant, the situation snowballed into something much larger, and far more dangerous.\n\nThe rising tide of voices blurred into a background hum, but Anthony couldn't shake the sentence that had been tossed out so casually just earlier.\n\n\"Let's not wait until it actually causes a problem for someone.\"\n\nAnthony had been with Odyssey since the very beginning. He knew Infinite inside and out. He also knew—perhaps more than he wanted to—that the game's data tracking capabilities went far beyond standard.",
+      music = "08_Tension"
     },
     [4] = {
       uid = 3810,
       next = 5,
       beijing = 4932,
-      sentence = "通讯信息、浏览记录、网络活动，甚至生物信息……远远超过了一个游戏应该有的限度。\n\n作为一个什么都不知道的实习生，凌肖是怎么在第一时间想到，报错信息会和玩家的生理情况有所关联呢？\n\n他顺利带完一局游戏，退出登录后径直走到凌肖的工位旁。\n\n两个屏幕上，一边是“狂欢夜”的相关进程，另一边赫然就是玩家的通讯数据。\n\n他心中一紧，皱起眉头单刀直入地开口：“实习生应该没有查看这些数据的权限。”",
-      music = "23_Lonely",
-      voice = "est_82104_4.mp3"
+      sentence = [[
+Text messages, browsing history, online habits... even biometric signals. Information that no entertainment product had any right collecting.
+
+But Shaw? He was supposedly just an intern, so how was he able to immediately identify that an error could pose a risk to the players?
+
+Anthony finished hosting his current match, logged out, and walked straight to Shaw's desk.
+
+Both monitors were still active. One showed system logs for Carnival Night. The other was a log of the players' communication data.
+
+Anthony's stomach dropped. His tone was clipped. "Interns are not supposed to have access to those data."]],
+      music = "23_Lonely"
     },
     [5] = {
       uid = 3811,
       next = 6,
       beijing = 4932,
-      sentence = "凌肖冷冷嗤笑一声，不为所动：“上次就说过了，工作问题直接问你们主管。”\n\n“不过现在才有人注意到权限问题，你们的安保漏洞也太大了。”\n\n一袭理所当然的话，把小艾准备好的所有质问和怀疑全都堵在胸口，他还没来得及反驳，周围掀起一阵骚乱。\n\n最先站起来的是向来消息灵通的小迪。\n\n“听说有BUG的那场游戏刚结束，就有玩家在离开游戏之后晕倒了！”",
-      music = "23_Lonely",
-      voice = "est_82104_5.mp3"
+      sentence = "Shaw let out a soft, scoffing laugh, his eyes still fixed on the screen. \"Told you already. If you've got questions about my work, take it up with your manager.\"\n\nHe leaned back, completely unfazed. \"But if it took you this long to notice the gap in your data security... you guys have bigger issues than me.\"\n\nThe words landed with sharp finality, cutting off every retort Anthony had lined up in his throat. But before he could recover, a commotion flared across the office.\n\nDina, always the first to catch a rumor, jumped to her feet.\n\n\"Just heard—one of the players from that bugged match fainted after logging out!\"",
+      music = "23_Lonely"
     },
     [6] = {
       uid = 3812,
       next = 7,
       beijing = 4932,
-      sentence = "“什么？是查到脑电波异常的那个玩家吗？”\n\n小艾一下子紧张了起来，和权限问题相比，玩家的人身安全显然重要得多。\n\n“是，现场已经在叫救护车了。”\n\n“晕倒是BUG直接引起的吗？会不会是玩家自身的原因？”\n\n“玩家脑电波信息存了吗？所有数据都要留存，一并打包发给相关技术部门！”\n\n接连不断的疑问和忙乱中，一声咋舌在小艾身旁响起。",
-      music = "23_Lonely",
-      voice = "est_82104_6.mp3"
+      sentence = "\"Wait, what? Was it the one with the weird brainwave reading?\"\n\nAnthony's heart seized. Clearance issues could wait—this was a real person in danger.\n\n\"Yeah. They've already called an ambulance.\"\n\n\"Was it the bug that caused it? Or did they already have a condition or something?\"\n\n\"Did we log their neurodata? Someone back that up, fast—get it to tech, now.\"\n\nA chorus of questions and half-panicked orders filled the room, but beside Anthony, there was only a soft click.",
+      music = "23_Lonely"
     },
     [7] = {
       uid = 3813,
       next = 0,
       beijing = 4932,
-      sentence = "凌肖微微皱眉，思考了片刻，拿起椅背上的外套便大步流星地往电梯走。\n\n“你去哪儿？”\n\n“有事，先走了。”\n\n他头也不回地挥了挥手，姑且算打过了招呼。",
-      music = "23_Lonely",
-      voice = "est_82104_7.mp3"
+      sentence = [[
+Shaw stood, frowning slightly. After a brief pause, he grabbed his jacket from the back of the chair and strode toward the elevator.
+
+"Where are you going?" Anthony called after him.
+
+"Got business elsewhere."
+
+Shaw raised a hand without turning, as if giving a vague farewell.]],
+      music = "23_Lonely"
     }
   },
   [82105] = {
@@ -56902,73 +57706,92 @@ Shaw leaned back against his seat, eyes flicking to the window. The world outsid
       uid = 3814,
       next = 2,
       beijing = 4932,
-      sentence = "玩家晕厥事件引起了不少媒体关注，但对于小艾他们这些打工人来说，这只意味着一件事：加班。\n\n阿北长叹了一口气，喝下今天第三杯咖啡：“我们一个游戏公司，到底为什么要收集和处理这么多玩家的通讯和生物信息？现在出了事，要排查的东西真是没完没了……”\n\n“也不知道今天要工作到什么时候。自从毕方老师走了，Aether全权接管项目之后，加班越来越多了……”小艾在工位上伸了个懒腰。",
-      music = "22_Despair",
-      voice = "est_82105_1.mp3"
+      sentence = [[
+The incident exploded online within hours. For Anthony and his colleagues, though, the media buzz meant one thing and one thing only: even longer hours.
+
+Brandon sighed and gulped down his third coffee of the night. "Man, why's a game company even collecting all this biometric and message data anyway? Like, seriously. Now something goes wrong and we've got a mountain of crap to sift through."
+
+Anthony leaned back, stretching out his sore arms. "It's gonna be a long night. Ever since Frank left and Aether took over the whole thing... it's been overtime nonstop."]],
+      music = "22_Despair"
     },
     [2] = {
       uid = 3815,
       next = 3,
       beijing = 4932,
-      sentence = "“A总人是挺好的，就是最近让人摸不着头脑的安排一出接一出的，完全不知道该怎么揣测这位老总的心思。”\n\n“唉……我还是更喜欢最开始跟着老毕的时候。”\n\n听到熟悉的名字，小艾朝阿北递了个眼色，把声音压低了些：“说到老毕……他出国之后，你有再接到过他的消息吗？”\n\n“没有啊，说起这件事，我前几天还在想呢，怎么会有人出国就失联的，还以为大家跟他关系够好了呢……”",
-      music = "22_Despair",
-      voice = "est_82105_2.mp3"
+      sentence = "\"Yeah, I mean, Aether's not a bad guy, but lately? His decisions have been all over the place. Can't figure out what he's thinking.\"\n\n\"I'll be real—I kinda miss when Frank was still calling the shots.\"\n\nAt that, Anthony shot him a look, lowering his voice. \"Speaking of Frank... have you heard anything from him since he went overseas?\"\n\n\"Nothing. Weird, right? I always thought we were close. Then boom—he's gone. Not a single message, like he had just vanished or something.\"",
+      music = "22_Despair"
     },
     [3] = {
       uid = 3816,
       next = 4,
       beijing = 4932,
-      sentence = "“咳咳，你俩说什么呢？手头的事做完了吗？”路过的主管探个头过来，却被阿北瞪了一眼。\n\n“有空抓我们，怎么不让实习生多来上两天班啊？现在紧要关头呢，他倒好，天天自由办公。”\n\n“哦哟，还教训起我来啦？要不我把实习生交给你管？”\n\n提到实习生，小艾几天前沉淀下去些的好奇心又被勾了起来。\n\n上次和凌肖说话后，小艾真的去找了主管，反馈凌肖的权限问题。",
-      music = "22_Despair",
-      voice = "est_82105_3.mp3"
+      sentence = [[
+"You two done? Or are your reports writing themselves now?" Their supervisor leaned in from the hallway, only to be met by Brandon's deadpan glare.
+
+"Plenty of time to check up on us, huh? How about having that intern of yours actually show up for work once in a while?"
+
+"Hey, you want to manage all those interns? Be my guest."
+
+The mention of Shaw stirred Anthony's curiosity that hadn't entirely settled since their last encounter.
+
+He had gone to the supervisor about the access clearance after their last exchange.]],
+      music = "22_Despair"
     },
     [4] = {
       uid = 3817,
       next = 5,
       beijing = 4932,
-      sentence = "当时的主管也是这么飘忽着视线，说着些“特别规定”、“没必要太在意”、“多部门协商”之类云里雾里的话，把小艾挡了回来。\n\n他看着凌肖空荡荡的工位，决定把好奇变成行动力。",
-      music = "22_Despair",
-      voice = "est_82105_4.mp3"
+      sentence = [[
+But all he got in return was a shrug and a string of vague excuses that deflected the issue.
+
+Now, staring at Shaw's empty desk once more, Anthony made up his mind. He wasn't going to let curiosity fester in the back of his mind anymore. He was going to find out what Shaw was really doing here.]],
+      music = "22_Despair"
     },
     [5] = {
       uid = 3818,
       next = 6,
       beijing = 4932,
-      sentence = "凌晨加班后，小艾找了关系不错的程序员，把凌肖当时跑的数据扒了出来。\n\n这一扒，他发现这位实习生竟然还跑了不少其他东西——游戏埋点数据、玩家游戏内外通讯记录、身份信息……甚至许多连他都没有权限查看的信息，凌肖也都能获取。\n\n不仅如此，凌肖还总以某种方式筛选、处理着这些信息，并隔三差五地发送给Aether。\n\n除了信息，电脑里还有不少会议预约信息，与会人全是凌肖和以Aether为首的公司高层。",
-      music = "22_Despair",
-      voice = "est_82105_5.mp3"
+      sentence = "After another grueling late-night shift, Anthony quietly called in a favor from someone in IT. Together, they dug into Shaw's activity logs.\n\nWhat they uncovered wasn't just eyebrow-raising, it was staggering. Shaw hadn't simply been pulling system reports. He'd accessed everything from deep-layer analytics and game behavior triggers to full player communication histories, both in-game and out. He had access to records so restricted that Anthony himself didn't have clearance to view them.\n\nAnd it didn't stop there. Shaw had been compiling, sorting, and sending batches of this information to one person with regularity—Aether.\n\nBeyond data, Anthony also found calendar logs filled with private meetings, and all the attendees were Shaw and a roster of top-tier executives led by Aether.",
+      music = "22_Despair"
     },
     [6] = {
       uid = 3819,
       next = 7,
       beijing = 4932,
-      sentence = "小艾的心跳不由自主地加快——这个实习生究竟是什么人，想在Infinite做什么？\n\n兀地，他眼前一黑，是屏幕熄了。\n\n他吓得几乎要跳起来，转头发现凌肖不知什么时候出现在办公室里，正在不远处低头整理电脑线，大概是动作太随便，有几个插头也被一并扯松了些。\n\n似是察觉到了他的视线，凌肖回头抬了抬眉毛：“这个时间还加班？”\n\n“没……”小艾有些心虚地笑了笑。",
-      music = "22_Despair",
-      voice = "est_82105_6.mp3"
+      sentence = "Anthony's pulse quickened. Who was this guy? And what was he really doing here at Infinite?\n\nSuddenly, his screen flickered and went black.\n\nHis heart leaped. He spun around—only to find Shaw crouched nearby, casually untangling a mess of cables. It looked like Shaw had accidentally yanked loose a few shared power cords.\n\nThen, as if sensing eyes on him, Shaw glanced up. \"Still grinding this late?\"\n\n\"Ah—yeah, just finishing up.\" Anthony tried to smile, but it came out strained.",
+      music = "22_Despair"
     },
     [7] = {
       uid = 3820,
       next = 8,
       beijing = 4932,
-      sentence = "“看着我干什么？你电源线被我拔了？”\n\n“……”\n\n“还真是。不好意思。”\n\n凌肖毫无歉意地朝他挥了挥手，继续低头摆弄那堆电线。\n\n既然本人就在眼前，也不方便继续调查。小艾看着窗外已经有些蒙蒙亮的天色，疲惫地决定下班回家。\n\n第二天上班时，凌肖的工位又是空的。",
-      music = "22_Despair",
-      voice = "est_82105_7.mp3"
+      sentence = [[
+"Why're you looking at me like that? I unplug your stuff or something?"
+
+"..."
+
+"Huh. Guess I did. My bad."
+
+Shaw gave a little shrug. There was not an ounce of guilt in his voice. He gave a lazy wave and then returned to sorting the cables with a casual nonchalance.
+
+With Shaw right there in the room, Anthony had no choice but to abandon his digging. The sky outside was already soft with the early glow of dawn. Sighing in quiet resignation, Anthony decided to head home.
+
+By the next morning, Shaw's desk was empty again.]],
+      music = "22_Despair"
     },
     [8] = {
       uid = 3821,
       next = 9,
       beijing = 4932,
-      sentence = "小艾愣愣地看着那张桌子——显示器关着，桌面上也不见任何私人物品，与周围的其他工位格不相入。\n\n“小艾，别发呆了。我刚刚转给你这几个单子有点急，快处理一下。” \n\n阿北的声音唤回了他的思绪。\n\n“稍等，我刚开机呢。”\n\n“今天的小目标是十二点之前下班，能做到吗？”\n\n“哈哈哈哈，努力一下试试看。”",
-      music = "22_Despair",
-      voice = "est_82105_8.mp3"
+      sentence = "Anthony stared at the empty desk. The monitor was dark, and not a single personal item was on the surface. It looked untouched. Anonymous. Like a placeholder more than a real workspace.\n\n\"Hey! Don't zone out. Just sent you a stack of urgent tickets. You gonna get on those or what?\"\n\nBrandon's voice snapped him back.\n\n\"Yeah, yeah—I'm on it.\"\n\n\"Let's try and clock out before midnight for once, huh? Think we've got a shot?\"\n\n\"Ha, we can dream.\"",
+      music = "22_Despair"
     },
     [9] = {
       uid = 3822,
       next = 0,
       beijing = 4932,
-      sentence = "紧急而繁杂的工作，让他一时没来得及再去探索自己的好奇心。\n\n也没来得及意识，他之前调查凌肖时在电脑中留下的所有痕迹，都已经在悄无声息间，消失得干干净净。",
-      music = "22_Despair",
-      voice = "est_82105_9.mp3"
+      sentence = "Work crashed down on him like a wave, burying thoughts of his curiosity.\n\nWhat he didn't realize, was that everything he'd poked at the night before—every file, every trace—was already gone. It was erased without a sound, as if he'd never touched them at all.",
+      music = "22_Despair"
     }
   },
   [82111] = {
@@ -56976,63 +57799,83 @@ Shaw leaned back against his seat, eyes flicking to the window. The world outsid
       uid = 4116,
       next = 2,
       beijing = 6033,
-      sentence = "我后悔了。\n\n从花园离开的瞬间，我就后悔了。\n\n想要找她的本能冲动让我转身走了两步，但我又强行让自己停下了脚步。\n\n毕竟回去之后我要说什么呢，说我知错了？\n\n可我也不知道这个“错”要从哪里开始说起。\n\n何况如果那是“错”的话，她也有错。\n\n我抬起头，看向她所在的方向。",
+      sentence = [[
+The regret was immediate.
+
+It crashed into me the instant I walked away from her in the garden.
+
+The urge to go find her was so strong I actually turned around and took a couple of steps. But I made myself stop.
+
+What would I do if I went back? Apologize?
+
+For what, exactly? I wasn't even sure what I was apologizing for.
+
+And hey, if anyone should be sorry, she's just as much to blame.
+
+I raised my eyes toward where I'd left her.]],
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_82111_1.mp3",
       special = 1
     },
     [2] = {
       uid = 4117,
       next = 3,
       beijing = 6033,
-      sentence = "从这个角度看去，我只能望见她一小片鸦青色的发髻。她一直待在假山旁，一动不动，倒真像个NPC似的。我定定地看了她很久，直到上空的云层缓慢移开，过于灿烂的阳光落在她发间的珠钗上，反射的光线刺痛了我的眼睛。\n\n……就一点都不想找我吗？连头都不抬一下？\n\n不知道为什么，胸口忽然涌起了一股闷钝的不适感，这种感觉今天已经不是第一次出现了。早上她笑着说要让玩家把鸳鸯香囊交给什么书生的时候，我也产生了同样的感受。\n\n可我要怎么告诉她？",
+      sentence = [[
+I could just make out the dark bun of her hair from here. She hadn't moved from beside the rockery, frozen in place like a literal game character. I stood there, watching, until the clouds parted overhead. The sun glared off the jewels in her hair, sharp and bright enough to make me blink.
+
+...Seriously? Not even going to try to find me? Won't even look up?
+
+This weird, heavy feeling welled up in my chest again. I'd felt it earlier, too, when she was all smiles explaining that "lovesick scholar" quest to the players.
+
+But how do you even say something like that out loud?]],
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_82111_2.mp3",
       special = 1
     },
     [3] = {
       uid = 4118,
       next = 4,
       beijing = 2251,
-      sentence = "“我好难过！我吃醋了！你不准和别人演情侣！”\n\n……想想就好恶心。\n\n如果谈个恋爱就要让自己变成这么俗气的人，我不如死了算了。\n\n想到这里，我干脆转身走向长街，拦住了一个拿着鸳鸯香囊的游客：“你好，请问你知道在哪可以找到相思书生吗？”\n\n我可是凌肖，凌肖当然用凌肖方式来解决问题。早上的那点郁闷已经用她的第一份“相思”弥补过了，但我绝不可能眼睁睁看着她和别人“成亲”。",
+      sentence = "\"Wahhh, I'm sad! I'm jealous! Don't you dare have a pretend boyfriend!\"\n\n...Ugh, disgusting.\n\nIf that's what relationships do to you—turn you into someone this pathetic—I'd rather die.\n\nForget it. I turned and cut through the crowd on the main street. I flagged down a visitor with the sachet. \"Excuse me. Any clue where the 'Lovesick Scholar' NPC is?\"\n\nI'm Shaw. I fix things my way. Grabbing her first \"love token\" this morning had smoothed over my earlier sulk. But sitting back while she acts out a wedding scene with someone else? Not happening.",
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_82111_3.mp3",
       special = 1
     },
     [4] = {
       uid = 4119,
       next = 5,
       beijing = 2251,
-      sentence = "和书生的交涉倒是比我想象中顺利得多，至于婚礼的流程我也一清二楚，但当我换上了婚服，拿起那一张颂词时，我还是有些怔忡——\n\n在我帮他们润色婚礼仪式的时候，我可完全没想到最后会是我自己用上。\n\n“维鹊有巢，维鸠居之。之子于归，百两御之……”我一字一字轻声念着。\n\n——在几千年前，婚礼还被称之为“昏礼”时，新郎就念着这样的词句。想到这里，心跳莫名地有些变快，脑海中原本混沌的那些画面在字句下愈发清晰。",
+      sentence = "The scholar was surprisingly easy to convince. And I knew the wedding routine inside out—I'd proofread the script. But when I actually slipped into the wedding robes and took the vow parchment, I had to pause.\n\nIronic. I'd tweaked these lines for a generic event. Never thought I'd be the lead actor.\n\n\"See the nest prepared, for a pair to call their own; See the bride adorned, to her new life proudly borne.\" I murmured the classical verses slowly.\n\nBack when weddings were \"twilight ceremonies\", grooms pledged with these words. My pulse did a weird little skip at the thought. The vague daydreams swirling in my head suddenly snapped into focus, crystallized by the poetry on the page.",
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_82111_4.mp3",
       special = 1
     },
     [5] = {
       uid = 4120,
       next = 6,
       beijing = 2251,
-      sentence = "暮色下，她穿着婚服在长街尽头亭亭而立，等着我。\n\n我会念着誓词，亲手挑起她的盖头，和她饮下合卺酒，最后握住她的手，接受所有人的祝福。\n\n真有意思，我这种完全不相信婚姻的人，居然也能在扮家家酒一样的畅想里感觉到甜蜜。我看着镜子里的自己扯了扯嘴角。\n\n放下颂词时，我看了一眼自己的手。恍惚间我的掌心似乎出现了另一只手，属于她的。比我小很多，也柔软很多，只要我五指合拢，就能将她的手完全包裹。",
+      sentence = "In the dusky light, she was waiting for me down the street, a picture-perfect bride.\n\nI'd say the words, lift that red veil, drink the wedding wine, and then... just hold her hand while people cheered. Simple.\n\nWeird, right? I'm the last person to buy into the whole marriage fantasy, but even this playful version of it feels... nice. I caught a glimpse of myself smiling in the mirror and almost laughed.\n\nPutting the script aside, I looked at my empty hand. For a second, I could almost feel hers there—smaller, softer. My fingers could curl right around it.",
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_82111_5.mp3",
       special = 1
     },
     [6] = {
       uid = 4121,
       next = 7,
       beijing = 2251,
-      sentence = "……就是打人的时候力气倒是不小。如果没因为一时之气离开的话，我现在应该还扮演着凌公子，握着她的手在花园里玩玩闹闹吧？\n\n当这个念头冒出来的瞬间，那股悔意突然又一次涌上了我的心头。我突然有点怀疑顶替书生来和她结婚，会不会是个馊主意？如果她不喜欢怎么办？\n\n“怎么可能？”\n\n这种完全想不到的惊喜，她绝对会喜欢。绝对。我在心里重复了一遍这个词，起身走向门外。",
+      sentence = [[
+...She packs a punch for someone with such small hands, though. If I hadn't been an idiot and left, I'd probably still be in costume as her "Young Master," holding that very hand and messing around somewhere.
+
+That thought brought the regret back, hot and heavy. A sliver of doubt wedged itself in: was stealing the groom's spot genius or just really, really stupid? What if this wasn't what she wanted?
+
+"No way."
+
+A surprise this over-the-top? She'd eat it up. She would. I told myself that once more for good measure, then got up and headed out.]],
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_82111_6.mp3",
       special = 1
     },
     [7] = {
       uid = 4122,
       next = 0,
       beijing = 2251,
-      sentence = "该去迎亲了。",
+      sentence = "Time to go get my bride.",
       music = "11_Sorrow_LongEnding_Ver",
-      voice = "est_82111_7.mp3",
       special = 1
     }
   },

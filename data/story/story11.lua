@@ -7559,7 +7559,7 @@ story11 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "周棋洛的录制工作差不多要结束了，按日程安排，今天应该在这个影棚里录制最后的部分。",
+      sentence = "By now, Kiro's shoot should be wrapping up. According to the schedule, this was his final session at the studio.",
       next = {2}
     },
     [2] = {
@@ -7567,7 +7567,7 @@ story11 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "手头工作告一段落，我钻进休息室忙里偷闲，翻出手机，给周棋洛发了个短信。",
+      sentence = "With my work nearly done, I slipped into a quiet corner of the break room and sent him a quick text.",
       sfx = "Dia_Phone_MessageRecieve",
       next = {3}
     },
@@ -7584,7 +7584,7 @@ story11 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "我打开工牌的夹子，发现背后夹着一张“工作顺利，天天开心”的纸。",
+      sentence = "When I opened the back of my ID badge, something slipped out—a small note I hadn't noticed before. It read: \"Good luck with work, stay happy every day!\"",
       next = {5}
     },
     [5] = {
@@ -7592,7 +7592,7 @@ story11 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "在最上面还画了一只在桌前敲键盘的小兔子。",
+      sentence = "Above the message was a sketch of a little bunny tapping away at a keyboard.",
       next = {6}
     },
     [6] = {
@@ -7602,7 +7602,7 @@ story11 = {
       music = "04_Normal",
       renming = "$u",
       renwu = "npc",
-      sentence = "他说的护身符原来是这个啊！",
+      sentence = "So this is the good luck charm he was talking about!",
       next = {7}
     },
     [7] = {
@@ -7610,7 +7610,7 @@ story11 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "准备把“护身符”放回时，发现背面还有他画的小涂鸦。",
+      sentence = "I turned the paper over, and there it was—another tiny doodle.",
       next = {8}
     },
     [8] = {
@@ -7618,7 +7618,7 @@ story11 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "看起来好像是……一只小熊用薯片帮助小兔子打起精神的故事……吧。",
+      sentence = "It looked like... a bear using potato chips to cheer up a tired little bunny?",
       next = {9}
     },
     [9] = {
@@ -7628,7 +7628,7 @@ story11 = {
       music = "04_Normal",
       renming = "$u",
       renwu = "npc",
-      sentence = "果然是很有周棋洛风格的画风呢。",
+      sentence = "Yep... definitely Kiro's drawing.",
       next = {10}
     },
     [10] = {
@@ -7636,7 +7636,7 @@ story11 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "虽然画得有些抽象，但我还是忍不住勾起嘴角。",
+      sentence = "The drawing was a bit abstract, but unmistakably his. And I couldn't help but smile.",
       next = {11}
     },
     [11] = {
@@ -7644,7 +7644,7 @@ story11 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "等到见面的时候，一定要给这个“小熊”一个大大的拥抱！",
+      sentence = "Next time I see him, that \"little bear\" is getting the biggest hug I've got!",
       next = {0}
     }
   },
@@ -8264,6 +8264,18 @@ story11 = {
       music = "1003_2023Valentine",
       renwu = "npc",
       sentence = "Somebody I can kiss,I want something just like this……I want something just like this……",
+      next = {0}
+    }
+  },
+  [832400] = {
+    [0] = {
+      beijing = 0,
+      dialog = 6,
+      hide_magnifier = 1,
+      music = "pause",
+      renwu = "npc",
+      sentence = "  ",
+      video = "lzy5_pv_2024",
       next = {0}
     }
   },

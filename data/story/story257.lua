@@ -9163,6 +9163,16 @@ story257 = {
       voice = 1,
       next = {0}
     }
+  },
+  [835005] = {
+    [1] = {
+      beijing = 6061,
+      game_params = 3902,
+      game_type = "AncientWeddingLanternRiddles",
+      music = "pause",
+      renwu = "npc",
+      next = {0}
+    }
   }
 }
 return story257

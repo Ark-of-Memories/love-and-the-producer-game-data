@@ -1960,6 +1960,325 @@ story164 = {
       next = {0}
     }
   },
+  [126201] = {
+    [1] = {
+      beijing = 1101,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "The sun filtered through the tall glass windows of the conference room, casting a warm, golden light over my shoulders.",
+      next = {2}
+    },
+    [2] = {
+      beijing = 1101,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "My phone buzzed twice against the table. I slid it open, only to find a delivery notification staring back at me. A tiny, disappointing sigh slowly escaped from my lips.",
+      sfx = "Dia_Phone_Vibrator",
+      next = {3}
+    },
+    [3] = {
+      beijing = 1101,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "Ever since Kiro had B.S. take Jun away, I hadn't heard a word from him. I could only assume the investigation was hitting a wall.",
+      next = {4}
+    },
+    [4] = {
+      beijing = 1101,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "I'd done some quiet digging of my own. Harborlight was once a research-focused facility. They had only just opened their doors to patients in the last year.",
+      next = {5}
+    },
+    [5] = {
+      beijing = 1101,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "On the surface, everything seemed properly documented—clean, comprehensive, and orderly—but something about it felt... just a little too polished. Too perfect.",
+      next = {6}
+    },
+    [6] = {
+      beijing = 1101,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "My eyes drifted back to the empty chat window on my phone. Another sigh built up in my chest. Resigned, I reluctantly turned my attention back to the presenter in front of me, who was still explaining his product on the screen.",
+      next = {7}
+    },
+    [7] = {
+      beijing = 1101,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "Infinite's new media partner had siphoned off a decent portion of our users and market momentum by riding on Odyssey's hype train.",
+      next = {8}
+    },
+    [8] = {
+      beijing = 1101,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "That's why I'd been slowly shifting our company's business focus to our newer partner: SPARK.",
+      next = {9}
+    },
+    [9] = {
+      beijing = 1101,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "Today's meeting was all about their upcoming lineup of smart home products scheduled for release in Loveland City.",
+      next = {10}
+    },
+    [10] = {
+      beijing = 1101,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "As the session drew to a close, the young man overseeing the partnership pushed his glasses up and looked toward me.",
+      next = {11}
+    },
+    [11] = {
+      beijing = 1101,
+      dialog = 2,
+      idx = 5,
+      music = "03_Daily",
+      renming = "Man",
+      renwu = "npc",
+      sentence = "We're putting this whole campaign in $c's hands. Just let us know what you need, and we'll back you all the way.",
+      next = {12}
+    },
+    [12] = {
+      beijing = 1101,
+      dhead = 301,
+      dialog = 1,
+      music = "03_Daily",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "We won't let you down. I'll have my team look over everything you've sent. We'll be in touch.",
+      next = {13}
+    },
+    [13] = {
+      beijing = 1121,
+      bganim = 0,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "We exchanged polite farewells, and I stepped out of SPARK's headquarters and into the brisk evening air.",
+      next = {14}
+    },
+    [14] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "The setting sun drenched the sky in layered shades of amber and gold, letting billowy white clouds stretch lazily across the horizon, almost like balls of cotton candy steeped in a syrup of citrus.",
+      next = {15}
+    },
+    [15] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "A glint of gold fluttered past my eyes. I instinctively reached out, and a lone ginkgo leaf landed softly in my palm.",
+      next = {16}
+    },
+    [16] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "Tracing its path, my gaze followed the breeze to the park's edge, where the ginkgo trees had already donned their brilliant autumn coats.",
+      next = {17}
+    },
+    [17] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "I paused, letting the breeze tousle my hair as I pulled out my phone. As the shutter captured that fleeting glint of gold, a quiet warmth bloomed in my chest.",
+      next = {18}
+    },
+    [18] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "03_Daily",
+      renwu = "npc",
+      sentence = "As I opened a chat window with Gavin, the golden ginkgo charm on my bracelet seemed as if it were just plucked from the same golden tree.",
+      next = {19}
+    },
+    [19] = {
+      beijing = 1121,
+      dhead = 307,
+      dialog = 1,
+      music = "03_Daily",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 501000,
+      role2 = 502041,
+      sentence = "\"It's gonna be a golden autumn.\"",
+      next = {20}
+    },
+    [20] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "pause",
+      renwu = "npc",
+      sentence = "No sooner had the message been sent than I heard a pair of short, sharp horn beeps behind me.",
+      sfx = "Dia_CarHorn",
+      next = {21}
+    },
+    [21] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "402_BaiQi_MMO",
+      renwu = "npc",
+      sentence = "A tender wind swept up the leaves. I turned around, as if compelled by some gentle intuition.",
+      next = {22}
+    },
+    [22] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "402_BaiQi_MMO",
+      renwu = "npc",
+      role1 = 4150000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4150401,
+      ruchang = -1,
+      sentence = "Through the shower of ginkgo leaves, a familiar figure approached riding a black motorcycle. He pulled to a stop at the curb, bathed in the soft hues of sunset.",
+      next = {23}
+    },
+    [23] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "402_BaiQi_MMO",
+      renwu = "npc",
+      role1 = 4150000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4150401,
+      sentence = "With a casual motion, he removed his helmet, revealing eyes that gleamed like glass under the golden light—surprised, yet warmly delighted.",
+      next = {24}
+    },
+    [24] = {
+      beijing = 1121,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "402_BaiQi_MMO",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4150000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4150401,
+      sentence = "$u? What are you doing here?",
+      next = {25}
+    },
+    [25] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "402_BaiQi_MMO",
+      renwu = "npc",
+      role1 = 4150000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4150401,
+      roleanim = 1.1,
+      sentence = "My quiet thoughts scattered like leaves in the wind. I laughed and jogged up to him.",
+      next = {26}
+    },
+    [26] = {
+      beijing = 1121,
+      dhead = 313,
+      dialog = 1,
+      music = "402_BaiQi_MMO",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4150000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4150401,
+      roleanim = 1.1,
+      sentence = "Came here to meet with a new partner. Just got off work, Officer Gavin?",
+      next = {27}
+    },
+    [27] = {
+      beijing = 1121,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "402_BaiQi_MMO",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4150000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4150401,
+      roleanim = 1.1,
+      sentence = "Yeah. Where are you headed? I'll give you a lift.",
+      next = {28}
+    },
+    [28] = {
+      beijing = 1121,
+      dhead = 312,
+      dialog = 1,
+      music = "402_BaiQi_MMO",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 4150000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4150401,
+      roleanim = 1.1,
+      sentence = "Only a ride? I was hoping for dinner, too.",
+      next = {29}
+    },
+    [29] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "402_BaiQi_MMO",
+      renwu = "npc",
+      role1 = 4150000,
+      role2 = 402104,
+      role3 = 402202,
+      role5 = 4150401,
+      roleanim = 1.2,
+      sentence = "I winked at him. A glimmer of amusement flashed through his eyes as he handed me the helmet.",
+      next = {30}
+    },
+    [30] = {
+      beijing = 1121,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "402_BaiQi_MMO",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 4150000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 4150401,
+      roleanim = 1.2,
+      ruchang = 9,
+      sentence = "Hop on.",
+      next = {31}
+    },
+    [31] = {
+      beijing = 1121,
+      dialog = 3,
+      music = "402_BaiQi_MMO",
+      renwu = "npc",
+      sentence = "His low chuckle carried through the helmet as the engine hummed to life. The tires stirred the fallen leaves, and we vanished into the violet hush of dusk.",
+      sfx = "Dia_Car_Launch",
+      next = {0}
+    }
+  },
   [410292] = {
     [1] = {
       beijing = 2512,

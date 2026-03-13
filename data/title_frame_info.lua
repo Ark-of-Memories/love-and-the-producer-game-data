@@ -73,6 +73,19 @@ data = {
     title_frame_male = 0,
     unlock_time = "2024/4/25 5:00:00"
   },
+  [20009] = {
+    title_frame_name = "Forbidden Number",
+    title_frame_rare = 2,
+    rare_level = 3,
+    title_frame_pic = "back_mainline240926_3_1",
+    title_frame_icon = "icon_mainline240926",
+    title_frame_tpye = 1,
+    title_frame_effect = "frame_20009",
+    get_desc = "Limited-time Main Story Clearance Reward",
+    title_frame_desc = "Limited-time Main Story Clearance Reward",
+    title_frame_male = 0,
+    colour_type = 2
+  },
   [30002] = {
     title_frame_name = "[Victor] Beautiful Date",
     title_frame_rare = 3,
@@ -135,6 +148,19 @@ data = {
     title_frame_desc = "Shaw's Birthday event-exclusive title frame",
     title_frame_male = 8,
     unlock_time = "2023/6/16 5:00:00"
+  },
+  [30009] = {
+    title_frame_name = "[Victor] Undying Love",
+    title_frame_rare = 3,
+    rare_level = 4,
+    title_frame_pic = "back_title2_nothing_1",
+    title_frame_icon = "icon_BirthdayLZY2025",
+    title_frame_tpye = 1,
+    title_frame_effect = "frame_30009",
+    get_desc = "[Corner of Happiness] 2026 Birthday Event",
+    title_frame_desc = "[Corner of Happiness] event-exclusive title frame",
+    title_frame_male = 1,
+    unlock_time = "2026/1/8 5:00:00"
   },
   [40002] = {
     title_frame_name = "[Victor] Rose Within",
@@ -212,6 +238,19 @@ data = {
     title_frame_desc = "Victor's Birthday event-exclusive title frame",
     title_frame_male = 1,
     unlock_time = "2025/1/8 5:00:00"
+  },
+  [50003] = {
+    title_frame_name = "[Lucien] Gifted Creation",
+    title_frame_rare = 3,
+    rare_level = 4,
+    title_frame_pic = "back_title2_nothing_2",
+    title_frame_icon = "icon_BirthdayXM2024",
+    title_frame_tpye = 1,
+    title_frame_effect = "frame_50003",
+    get_desc = "[Golden Ratio] 2025 Birthday Event",
+    title_frame_desc = "Golden Ratio event-exclusive title frame",
+    title_frame_male = 2,
+    unlock_time = "2025/11/10 05:00:00"
   },
   [50004] = {
     title_frame_name = "[Kiro] Daybreak's Coronation",

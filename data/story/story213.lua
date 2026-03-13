@@ -4044,7 +4044,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "……眼下还不知道李泽言的阵营，不能让他察觉我是守卫。",
+      sentence = "...I still didn't know what side Victor was on. I couldn't let him figure out I was the Watcher.",
       next = {2}
     },
     [2] = {
@@ -4052,7 +4052,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我的心跳微微加快，装作还在咀嚼的样子没有马上回答。",
+      sentence = "My heart skipped a beat. I chewed slowly, stalling, eyes fixed ahead as I scrambled for a response.",
       next = {3}
     },
     [3] = {
@@ -4060,7 +4060,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "在脑海里飞速地组织了一遍措辞后，才露出一个想当然的灿烂笑容来。",
+      sentence = "Then, with a carefree nonchalance, I gave him a bright, casual smile.",
       next = {4}
     },
     [4] = {
@@ -4070,7 +4070,7 @@ story213 = {
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "除了狼人，第一晚出局的概率只有八分之一呢，哪里会这么巧就被你撞上了。 ",
+      sentence = "Statistically speaking, aside from Werewolves, first-night eliminations are only one in eight. The odds were in your favor.",
       next = {5}
     },
     [5] = {
@@ -4080,7 +4080,7 @@ story213 = {
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "好了，我们快点进物业办公室吧！",
+      sentence = "Anyway, come on. Let's get to the property office before it fills up!",
       next = {6}
     },
     [6] = {
@@ -4088,7 +4088,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我岔开话题，向不远处人头攒动的物业办公室指了指。李泽言似乎被我的话说服了，没有再追问。",
+      sentence = "I redirected the conversation and pointed toward the growing crowd at the building ahead. Victor seemed to accept my explanation and didn't press further.",
       next = {7}
     },
     [7] = {
@@ -4097,7 +4097,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我不着声色地呼了口气，跟他一前一后地走进了物业办公室中，视线在场上扫了一圈。",
+      sentence = "Silently, I let out a breath and followed him in the office. My eyes scanned the room instinctively.",
       next = {8}
     },
     [8] = {
@@ -4105,7 +4105,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我记得地图介绍里说过，《曙光家园》是11人本。可现在加上我和李泽言，场上只有10个人……",
+      sentence = "If I remembered right, Dawn Haven was an eleven-player map. But counting Victor and me, there were only ten people here...",
       next = {9}
     },
     [9] = {
@@ -4113,7 +4113,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "也就是说，昨晚有玩家出局了。",
+      sentence = "Which meant... someone had been eliminated in the dead of night.",
       next = {10}
     },
     [10] = {
@@ -4121,7 +4121,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我不由抿了抿唇，看到赵坚强顶着强来了的ID走到办公室中央，轻轻咳了一声。",
+      sentence = "I pressed my lips together, unsettled, just as a figure with the ID StrongWill stepped into the center of the room. Willstrong, with a polite cough, drew everyone's attention.",
       next = {11}
     },
     [11] = {
@@ -4129,11 +4129,11 @@ story213 = {
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "赵坚强",
+      renming = "Willstrong",
       renwu = "npc",
       role1 = 610460,
       ruchang = -1,
-      sentence = "时间宝贵，我就先发言了。",
+      sentence = "Let's not waste time. I'll go first.",
       next = {12}
     },
     [12] = {
@@ -4141,11 +4141,11 @@ story213 = {
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "赵坚强",
+      renming = "Willstrong",
       renwu = "npc",
       role1 = 610460,
       ruchang = 9,
-      sentence = "我在这局的身份是预言家，昨天晚上查验了Rehtea。可以肯定，他是一名人类。 ",
+      sentence = "I'm the Seer. As you know, I have the ability to check anyone's identity. Last night, I checked Rehtea, and I can confirm that he's human.",
       next = {13}
     },
     [13] = {
@@ -4153,7 +4153,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "在他的话音中，穿着一身格子衫的瘦高男人点了点头表示赞同，又低头玩起了小灵通。",
+      sentence = "A tall, lanky man in a plaid shirt gave a silent nod and promptly lowered his head to fiddle with the flip phone in his hands.",
       next = {14}
     },
     [14] = {
@@ -4161,7 +4161,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我盯着他看了片刻，却总觉得有丝莫名的熟悉感，靠到李泽言身边小声询问。",
+      sentence = "Something about him made me pause. There was an odd sense of familiarity I couldn't quite place. I leaned closer to Victor and whispered softly:",
       next = {15}
     },
     [15] = {
@@ -4171,7 +4171,7 @@ story213 = {
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "你有没有觉得，这个Rehtea好像在哪里碰到过？ ",
+      sentence = "Hey... don't you think this Rehtea guy looks kinda familiar?",
       next = {16}
     },
     [16] = {
@@ -4183,7 +4183,7 @@ story213 = {
       role2 = 101101,
       role3 = 101201,
       ruchang = -1,
-      sentence = "李泽言顺着我的目光望了一眼，用只有我们两个能听到的声音低声开口。",
+      sentence = "Victor followed my gaze with a glance, then leaned in and murmured just loud enough for me to hear.",
       next = {17}
     },
     [17] = {
@@ -4192,14 +4192,13 @@ story213 = {
       idx = 1,
       male = 1,
       music = "52_Daily03",
-      renming = "李泽言",
+      renming = "Victor",
       renwu = "npc",
       role1 = 1176000,
       role2 = 101101,
       role3 = 101201,
       ruchang = 9,
-      sentence = "是Aether，他把名字倒序拼了一遍。",
-      voice = 1,
+      sentence = "It's Aether. He just wrote his name backward.",
       next = {18}
     },
     [18] = {
@@ -4209,7 +4208,7 @@ story213 = {
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "……",
+      sentence = "...",
       next = {19}
     },
     [19] = {
@@ -4217,7 +4216,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我这才反应过来，有些无语地吸了口气。下一秒，却听到一道锐意的男声响起。",
+      sentence = "It took a moment for me to realize as I let out a slow, exasperated breath. But before I could respond, a sharp voice rang out across the room.",
       next = {20}
     },
     [20] = {
@@ -4225,9 +4224,9 @@ story213 = {
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "？？",
+      renming = "??",
       renwu = "npc",
-      sentence = "老哥还真是艺高人胆大……我才是预言家。",
+      sentence = "Man, you've got guts—posing as the Seer like that. Hate to break it to you, but I'm the real one.",
       next = {21}
     },
     [21] = {
@@ -4235,7 +4234,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "顶着隐锋ID的年轻人从墙边起身，走到了赵坚强的面前。",
+      sentence = "A player with the ID HiddenEdge stood up from where he'd been leaning casually against the wall and strode over to Willstrong.",
       next = {22}
     },
     [22] = {
@@ -4243,7 +4242,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "……大会刚开始，就出现了两个预言家对峙？我惊讶地睁大眼睛，听到一旁的男人疑惑询问。",
+      sentence = "A Seer standoff right at the start? My eyes widened. So much for easing into the round. Just then, another curious voice cut in.",
       next = {23}
     },
     [23] = {
@@ -4251,9 +4250,9 @@ story213 = {
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "谨言慎行",
+      renming = "CarefulWords",
       renwu = "npc",
-      sentence = "所以Rehtea并不一定是好人，也有可能是强来了包庇同伙？ ",
+      sentence = "So what, Rehtea might not be innocent? That means he and StrongWill could be teammates in the werewolf faction!",
       next = {24}
     },
     [24] = {
@@ -4261,10 +4260,10 @@ story213 = {
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "赵坚强",
+      renming = "Willstrong",
       renwu = "npc",
       role1 = 610460,
-      sentence = "什么包庇？我是真的预言家！",
+      sentence = "That's nonsense! I'm telling you, I'm the real Seer!",
       next = {25}
     },
     [25] = {
@@ -4272,7 +4271,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "赵坚强下意识地反驳，隐锋却没有接他的话茬。只是看着办公室里的人，沉稳阐述。",
+      sentence = "Willstrong snapped back without hesitation, but HiddenEdge didn't even bother acknowledging him. He simply looked around and spoke calmly.",
       next = {26}
     },
     [26] = {
@@ -4280,9 +4279,9 @@ story213 = {
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "隐锋",
+      renming = "HiddenEdge",
       renwu = "npc",
-      sentence = "不过很巧，我昨晚的确验的是Rehtea，他的身份没有问题。 ",
+      sentence = "Funny coincidence—I also checked Rehtea last night. He's clean.",
       next = {27}
     },
     [27] = {
@@ -4292,7 +4291,7 @@ story213 = {
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "这么说来，Rehtea是人类应该坐实了。 ",
+      sentence = "So that pretty much locks in Rehtea as a human.",
       next = {28}
     },
     [28] = {
@@ -4300,7 +4299,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我跟李泽言对视了一眼，若有所思地开口。坐在沙发上的一个女生举起了手。",
+      sentence = "I turned to Victor, and our eyes met in quiet understanding. Before either of us could say more, a girl on the couch raised her hand.",
       next = {29}
     },
     [29] = {
@@ -4308,9 +4307,9 @@ story213 = {
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "杀人不眨眼",
+      renming = "L33tKill3r",
       renwu = "npc",
-      sentence = "只靠现在的发言，还挺难判断出你们谁真谁假的，不如先放下。 ",
+      sentence = "This back-and-forth isn't helping. It's still way too early to tell who's lying.",
       next = {30}
     },
     [30] = {
@@ -4318,9 +4317,9 @@ story213 = {
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "杀人不眨眼",
+      renming = "L33tKill3r",
       renwu = "npc",
-      sentence = "我刚刚就在观察啦~拉花大师在隐锋跳出来后就眉头紧锁的，在紧张什么呀？ ",
+      sentence = "I noticed something funny, though. Latte Master105 looked super nervous right after HiddenEdge spoke. You scared of something?",
       next = {31}
     },
     [31] = {
@@ -4328,7 +4327,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "被点到名的中年人愣了片刻，涨红了脸扯开嗓子。",
+      sentence = "Caught off guard, the middle-aged man stiffened, face flushing as he barked back defensively.",
       next = {32}
     },
     [32] = {
@@ -4336,9 +4335,9 @@ story213 = {
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "拉花大师",
+      renming = "Latte Master105",
       renwu = "npc",
-      sentence = "放屁！我刚刚在整理思路呢，怎么他**就把脏水泼我身上了？你这个小妮子——",
+      sentence = "I was just trying to gather my thoughts! Now you're out here throwing shade like I've got something to hide? You little—",
       next = {33}
     },
     [33] = {
@@ -4347,14 +4346,13 @@ story213 = {
       idx = 1,
       male = 1,
       music = "52_Daily03",
-      renming = "李泽言",
+      renming = "Victor",
       renwu = "npc",
       role1 = 1176000,
       role2 = 101101,
       role3 = 101201,
       ruchang = -1,
-      sentence = "有想法直接说，没必要胡搅蛮缠。",
-      voice = 1,
+      sentence = "If you've got something to say, say it. No need to start flinging accusations just to stir the pot.",
       next = {34}
     },
     [34] = {
@@ -4362,7 +4360,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "李泽言说着，冲门口的保安NPC抬了抬下巴。拉花大师动作一顿，还是不满嘟囔着。",
+      sentence = "Victor spoke with the same unhurried calm as always, nodding subtly toward the NPC guard by the door. Latte Master105's rant faltered, though he kept grumbling under his breath.",
       next = {35}
     },
     [35] = {
@@ -4370,9 +4368,9 @@ story213 = {
       dialog = 2,
       idx = 5,
       music = "52_Daily03",
-      renming = "拉花大师",
+      renming = "Latte Master105",
       renwu = "npc",
-      sentence = "我昨天真的一晚都没出去，莫名其妙就被找上了……",
+      sentence = "I didn't even leave my room last night... dumb broad putting me on trial for nothing...",
       next = {36}
     },
     [36] = {
@@ -4382,7 +4380,7 @@ story213 = {
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "杀人不眨眼也只是提出一个猜测。至于投不投，还是看大家自己的想法。",
+      sentence = "She was just pointing out something she noticed. Whether we vote for it or not is up to the group.",
       next = {37}
     },
     [37] = {
@@ -4390,7 +4388,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "杀人不眨眼点点头，也没有多纠缠，然而场上的气氛已经隐约有了倾向。",
+      sentence = "L33tKill3r gave a shrug, not pressing the issue. But the air had shifted—the room had quietly turned against Latte Master105.",
       next = {38}
     },
     [38] = {
@@ -4398,7 +4396,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "果不其然，投票结果公布后，拉花大师被物业经理强行带了出去。",
+      sentence = "And, sure enough, when the votes were revealed, he was dragged out by the property manager, still protesting as he disappeared down the hall.",
       next = {39}
     },
     [39] = {
@@ -4406,7 +4404,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "看着拉花大师挣扎的背影，我的肩膀微微垮下了几分，用胳膊肘戳了戳李泽言。",
+      sentence = "Watching his retreating back, I sighed and slumped slightly, elbowing Victor gently.",
       next = {40}
     },
     [40] = {
@@ -4416,7 +4414,7 @@ story213 = {
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "表现那么激动，你说他会不会是冤死的？",
+      sentence = "He got so worked up... you think he might've been innocent?",
       next = {41}
     },
     [41] = {
@@ -4425,13 +4423,12 @@ story213 = {
       idx = 1,
       male = 1,
       music = "52_Daily03",
-      renming = "李泽言",
+      renming = "Victor",
       renwu = "npc",
       role1 = 1176000,
       role2 = 101101,
       role3 = 101201,
-      sentence = "或许吧。不过以他不提证据，只谈场外因素的言行，被淘汰是早晚的事。",
-      voice = 1,
+      sentence = "Maybe. But he never backed anything up with facts, and he kept talking about irrelevant stuff. Honestly, it was only a matter of time.",
       next = {42}
     },
     [42] = {
@@ -4441,7 +4438,7 @@ story213 = {
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "也是。不过如果他是狼，那接下来同伙就该——",
+      sentence = "Fair. Still, if he were a Werewolf, then next, his teammates should—",
       next = {43}
     },
     [43] = {
@@ -4449,7 +4446,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我下意识地分析着，无意间对上了李泽言的目光。",
+      sentence = "I paused, realizing Victor was watching me closely.",
       next = {44}
     },
     [44] = {
@@ -4458,14 +4455,13 @@ story213 = {
       idx = 1,
       male = 1,
       music = "52_Daily03",
-      renming = "李泽言",
+      renming = "Victor",
       renwu = "npc",
       role1 = 1176000,
       role2 = 101103,
       role3 = 101202,
       ruchang = 9,
-      sentence = "继续，就该怎么样？",
-      voice = 1,
+      sentence = "Go on. Should what?",
       next = {45}
     },
     [45] = {
@@ -4475,7 +4471,7 @@ story213 = {
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "……哼，你跟我又不一定是同个阵营的，说那么多做什么。",
+      sentence = "...Tch. Why would I tell you? We might not even be on the same side.",
       next = {46}
     },
     [46] = {
@@ -4485,7 +4481,7 @@ story213 = {
       music = "52_Daily03",
       renming = "$u",
       renwu = "npc",
-      sentence = "明天早上再见吧，小焦老板~我要去“斩妖除魔”，推进自己的任务了。",
+      sentence = "Anyway, see you in the morning. I've got ghosts to hunt and missions to clear.",
       next = {47}
     },
     [47] = {
@@ -4493,7 +4489,7 @@ story213 = {
       dialog = 3,
       music = "52_Daily03",
       renwu = "npc",
-      sentence = "我冲李泽言挥了挥手，便离开了物业办公室。",
+      sentence = "I flashed him a teasing grin, gave a little wave, and slipped out of the office.",
       next = {48}
     },
     [48] = {
@@ -4502,7 +4498,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我向物业经理确认了最先传出闹鬼传言的住户后，便前往了居民楼顶层尽头的房间。 ",
+      sentence = "After confirming with the property manager which unit had first reported the hauntings, I made my way up to the top floor of the building, stopping at the last room.",
       next = {49}
     },
     [49] = {
@@ -4510,7 +4506,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "木质的门板虚掩着，门口暗红的对联早已模糊成一团。我深吸一口气，小心翼翼地推了推房门。",
+      sentence = "The wooden panel sat slightly ajar. The scrolls beside it had long faded into a muddy blur. I took a breath and then slowly pushed the door open.",
       next = {50}
     },
     [50] = {
@@ -4519,7 +4515,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "伴着一声几不可闻的微响，昏暗的空间缓缓呈现在眼前，我摸索着按下墙上的开关。",
+      sentence = "The hinges creaked in protest, revealing a room swallowed in shadow. I fumbled along the wall until I found the switch.",
       sfx = "WoodDoor_Open",
       next = {51}
     },
@@ -4529,7 +4525,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "一阵明明灭灭的闪烁后，视野终于被照亮。",
+      sentence = "Light flickered overhead—stuttering, reluctant—before finally holding steady.",
       next = {52}
     },
     [52] = {
@@ -4537,7 +4533,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "暗黄花纹的地砖上散落着衣物，家电也十分齐全……这家人似乎是急于搬走，很多东西都没带。",
+      sentence = "The floor was tiled in a mustard-yellow floral pattern, strewn with discarded clothes. Appliances remained untouched in working order. The residents had clearly left in a hurry, abandoning most of their belongings.",
       next = {53}
     },
     [53] = {
@@ -4545,7 +4541,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我踱步到墙边，旋即被大大小小的全家福吸引。相片上人的面容已经模糊不清，却能感到他们的嘴角一致地向上弯起。",
+      sentence = "I wandered to the wall and paused. A cluster of family photos stared back at me. Time had blurred the faces into softness, but every one of them wore a faint, identical smile.",
       next = {54}
     },
     [54] = {
@@ -4553,7 +4549,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "一双双眼睛仿佛通过和睦喜庆的画面，在暗处笑盈盈地看着我。",
+      sentence = "Their eyes were dark and frozen, as if they gazed right through the camera and into the dimness, watching me with a cheer that felt strangely off.",
       next = {55}
     },
     [55] = {
@@ -4561,7 +4557,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "啪嗒。",
+      sentence = "\"Clink\"",
       next = {56}
     },
     [56] = {
@@ -4569,7 +4565,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "似乎有颗玻璃珠掉到了楼上的地板，清晰而细小的弹跳声通过天花板传来，在我的神经末梢上牵拉着。",
+      sentence = "A single marble dropped upstairs, bounced once, then again, each soft impact sharp and precise. The sound traveled through the ceiling like a thread pulled tight across my spine.",
       next = {57}
     },
     [57] = {
@@ -4577,7 +4573,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我莫名战栗了一瞬，脚下倒退了半步，却踢到了什么东西。",
+      sentence = "A shiver ran through me. I stepped back, only to bump into something behind me.",
       next = {58}
     },
     [58] = {
@@ -4585,7 +4581,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我缓缓低头，看到一盘光碟正静静地躺在地板上，封面印着诡异的花纹。 ",
+      sentence = "I looked down slowly. A DVD disc lay silently on the floor. Its cover bore strange, almost hypnotic patterns—twisting in ways that made my eyes ache.",
       next = {59}
     },
     [59] = {
@@ -4595,9 +4591,9 @@ story213 = {
       idx = 5,
       mask = "memory",
       music = "1021_CloseYourEyes",
-      renming = "物业经理",
+      renming = "Property Manager",
       renwu = "npc",
-      sentence = "……可最近三个月，总有些怪事……",
+      sentence = "\"...Things started getting weird ever since three months ago...\"",
       next = {60}
     },
     [60] = {
@@ -4606,9 +4602,9 @@ story213 = {
       idx = 5,
       mask = "memory",
       music = "1021_CloseYourEyes",
-      renming = "物业经理",
+      renming = "Property Manager",
       renwu = "npc",
-      sentence = "……门口经常会出现不知谁送来的光盘，不少人的身体也出了问题……",
+      sentence = "\"Mystery DVDs showing up at people's doors... and several folks have gotten sick...\"",
       next = {61}
     },
     [61] = {
@@ -4617,7 +4613,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "物业经理的话音和僵硬的微笑仿佛信号不良的电视屏幕，在脑海中刺啦作响着闪现。",
+      sentence = "Property Manager's words, paired with that stiff, artificial smile, crackled in my mind like a static-filled TV screen—flickering, fragmented, and hard to look away from.",
       next = {62}
     },
     [62] = {
@@ -4625,7 +4621,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我克制着自己不安的呼吸，缓缓捡起光盘。",
+      sentence = "Suppressing the unease clawing at my chest, I slowly bent down and picked up the disc.",
       next = {63}
     },
     [63] = {
@@ -4635,7 +4631,7 @@ story213 = {
       music = "1021_CloseYourEyes",
       renming = "$u",
       renwu = "npc",
-      sentence = "哈哈，我还真是爱自己吓自己……",
+      sentence = "Relax. I'm probably just scaring myself...",
       next = {64}
     },
     [64] = {
@@ -4643,7 +4639,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我故作轻松地告诉着自己，动作却有些紧绷。僵硬地走到电视柜前按下了DVD的电源键，将光盘缓缓送入。",
+      sentence = "I forced a laugh, trying to play it cool, but my fingers were tense, and my shoulders stiff. Still, I walked over to the TV cabinet, pressed the power button on the DVD player, and carefully slid the disc inside.",
       next = {65}
     },
     [65] = {
@@ -4651,7 +4647,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "咯啦……咯啦……",
+      sentence = "Clack... clack...",
       next = {66}
     },
     [66] = {
@@ -4659,7 +4655,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "一阵若有似无的声响过后，屏幕上缓缓聚拢出一个模糊的图像，冷白的光亮照着屏幕前的地砖。",
+      sentence = "A low, almost imperceptible whir filled the room. The screen flickered to life, a hazy image slowly coming into focus, casting a cold white glow onto the tiled floor below.",
       next = {67}
     },
     [67] = {
@@ -4667,7 +4663,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "想到那些诡异的传闻，我本能地有些恐惧，却又不想错过什么线索。只能强迫自己，目光僵硬地盯着屏幕。",
+      sentence = "Strange stories I had heard came rushing back to mind. Instinctively, fear coiled in my gut. But I couldn't look away. I didn't want to miss a single clue. I forced myself to keep watching, eyes locked in place.",
       next = {68}
     },
     [68] = {
@@ -4676,7 +4672,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "下一秒，整个房间突然黑了下去。",
+      sentence = "And then, the entire room suddenly went black.",
       next = {69}
     },
     [69] = {
@@ -4687,7 +4683,7 @@ story213 = {
       music = "1021_CloseYourEyes",
       renming = "$u",
       renwu = "npc",
-      sentence = "……！",
+      sentence = "...!",
       next = {70}
     },
     [70] = {
@@ -4695,7 +4691,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我惊叫一声，飞快地把头蜷缩进了臂弯里，感到一阵不知从何而来的阴风从后背袭来。",
+      sentence = "A scream escaped before I could stop it. I ducked down, hiding my face in the crook of my arm, as a sudden chill swept across my back like a cold breath from nowhere.",
       next = {71}
     },
     [71] = {
@@ -4703,7 +4699,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我的心几乎跳到了嗓子眼，哆嗦着拿出小灵通想给李泽言发消息，却听到一道不知从何处而来的脚步声响起。",
+      sentence = "My heart thundered against my ribs. With trembling hands, I fumbled for my phone, desperate to message Victor, but then, the sound of footsteps. Slow. Approaching.",
       sfx = "Character_Footstep_02",
       next = {72}
     },
@@ -4712,7 +4708,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "完蛋了，难道真是触发了什么恶灵出动的条件了吗！",
+      sentence = "Oh no. Had I really triggered some cursed event?",
       next = {73}
     },
     [73] = {
@@ -4720,7 +4716,7 @@ story213 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我匆忙熄灭屏幕，苦苦祈祷着不被注意，却绝望地感觉到那道脚步声由远及近，最终停到我身边。",
+      sentence = "Panicked, I shut off the screen and held my breath, silently begging whatever it was to leave me alone. But the footsteps kept getting closer... until they stopped, right next to me.",
       sfx = "Character_Footstep_02",
       next = {74}
     },
@@ -4730,10 +4726,9 @@ story213 = {
       idx = 5,
       male = 1,
       music = "pause",
-      renming = "？？",
+      renming = "??",
       renwu = "npc",
-      sentence = "……怎么被吓成了这个样子？",
-      voice = 1,
+      sentence = "You look like you've just seen a ghost.",
       next = {0}
     }
   },

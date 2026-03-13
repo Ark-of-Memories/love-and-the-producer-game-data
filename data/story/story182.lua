@@ -11796,6 +11796,148 @@ story182 = {
       next = {0}
     }
   },
+  [838300] = {
+    [0] = {
+      beijing = 0,
+      dialog = 6,
+      hide_magnifier = 1,
+      music = "pause",
+      renwu = "npc",
+      video = "lzybirthdaypv_2025",
+      next = {0}
+    }
+  },
+  [840322] = {
+    [1] = {
+      beijing = 4847,
+      dhead = 111,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "……奇怪，这里的背景音乐和你推荐给我的品茶歌单好一致哦。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301104,
+      role3 = 301201,
+      ruchang = -1,
+      sentence = "因为放的就是我给的歌单啊~",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "毕竟之前练习的时候你一直在听，类似的氛围应该能让你放松一点。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "难怪我刚刚的操作这么流畅，感觉有好几个步骤我都跟音乐卡点了~",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "不止哦，里面有好几首曲子的时长都正好是一杯茶的最佳闷泡时间。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "如果能卡上开头，闷泡的时候你就不用盯着计时器了，等待时也不会无聊~",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4847,
+      dhead = 114,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "嘿嘿~好贴心的方法！",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4847,
+      dhead = 113,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "但歌单里是不是又新加了几首流行曲子？旋律和歌词听起来都好可爱。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301107,
+      role3 = 301201,
+      sentence = "没错~中式茶饮只配中式音乐也太无聊了。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4847,
+      dialog = 2,
+      idx = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3139000,
+      role2 = 301103,
+      role3 = 301201,
+      ruchang = 9,
+      sentence = "而且我发现，甜甜的旋律和阿薯泡出来的茶更搭哦~",
+      next = {0}
+    }
+  },
   [903004] = {
     [1] = {
       beijing = 1821,

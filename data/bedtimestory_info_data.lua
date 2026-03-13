@@ -84,6 +84,21 @@ data = {
     preview_start = "00:00",
     preview_end = "02:00"
   },
+  [1011] = {
+    favor_level_need = "1,54,5",
+    goods_unlock = "141011,101,1",
+    npc_id = 1,
+    bedtimestory_unlock_rewards = "140173,251,1",
+    title = "Reliance",
+    desc = "On those exhausted late nights, thankfully I've got him to rely on.",
+    string = "Please download the resources before entering.",
+    vo_string = "Wear in-ear headphones for the best experience.",
+    voice = "1011",
+    time = 820,
+    preview_start = "01:15",
+    preview_end = "02:38",
+    unlock_time = "2026/1/8 5:00:00"
+  },
   [1013] = {
     favor_level_need = "1,54,5",
     goods_unlock = "141013,101,1",
@@ -267,6 +282,21 @@ data = {
     time = 661,
     preview_start = "4:20",
     preview_end = "05:30"
+  },
+  [2014] = {
+    favor_level_need = "2,54,5",
+    goods_unlock = "142014,101,1",
+    npc_id = 2,
+    bedtimestory_unlock_rewards = "140332,251,1",
+    title = "Hypnotism",
+    desc = "Right now, you could do anything you want to him.",
+    string = "Please download the resources before entering.",
+    vo_string = "Wear in-ear headphones for the best experience.",
+    voice = "2014",
+    time = 763,
+    preview_start = "07:58",
+    preview_end = "08:55",
+    unlock_time = "2025/11/10 05:00:00"
   },
   [2017] = {
     favor_level_need = "2,54,5",

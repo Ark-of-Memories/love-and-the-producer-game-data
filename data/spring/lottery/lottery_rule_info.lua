@@ -344,7 +344,7 @@ P.S. If you edit a widget inside the game, it will take some time before the cha
   SmallWidgetsRuleAndroid = {
     [1] = {
       picture_name = "104.png",
-      title = "MLQC Widget",
+      title = "Mr. Love Widget",
       rule_desc = [[
 Add, edit, and save widgets within the game.
 
@@ -352,7 +352,7 @@ Note: Please make sure your phone's operating system supports widgets.]]
     },
     [2] = {
       picture_name = "105.png",
-      title = "MLQC Widget",
+      title = "Mr. Love Widget",
       rule_desc = [[
 Go back to home screen and add the MLQC widget by following the instructions corresponding to your system.
 
@@ -360,7 +360,7 @@ Note: To add MLQC widgets on Andriod, please refer to Andriod widget instruction
     },
     [3] = {
       picture_name = "106.png",
-      title = "MLQC Widget",
+      title = "Mr. Love Widget",
       rule_desc = [[
 Tap or long-press the widget to enter edit mode, then choose the widget saved in the game.
 
@@ -978,6 +978,32 @@ After harvesting twice from any character's field and completing 2 plots, you ca
       picture_name = "104.png",
       title = "制茶奖励",
       rule_desc = "[c][C74848]新芽[-][/c]{#i=400752}可于[c][C74848]奖励一览[-][/c]中兑换限定头像框、星河许愿券等奖励；\n制作完成每个角色所有制茶关卡并且分享后，即可领取该角色的[c][C74848]龙井茶文化典藏R羁绊[-][/c]。"
+    }
+  },
+  [14400101] = {
+    [1] = {
+      picture_name = "101.png",
+      title = "Domain of Sin",
+      rule_desc = [[
+A hidden conspiracy unfolded in the fleeting glances, forming a magnetic yet perilous bond.
+Welcome to the Domain of Sin event. It is the year 2239. Here, you are free to choose an identity and experience prison life from multiple perspectives.
+Your selected identity can be changed at any time during the event.]]
+    },
+    [2] = {
+      picture_name = "102.png",
+      title = "Start Schedule",
+      rule_desc = [[
+Starting daily at 05:00, logging into the [Domain of Sin] event will grant you one [c][ffb658]Access Pass[-][/c] for each of the four identity routes.
+[c][ffb658]Access Passes[-][/c] are used to unlock the day's schedule.
+A total of [c][ffb658]7[-][/c] Access Passes will be distributed for each identity route over the course of the event.
+Completing the daily schedule awards you [c][ffb658]Secret Notes[-][/c], which can be exchanged for various items at the [c][ffb658]Contraband Exchange Depot[-][/c].]]
+    },
+    [3] = {
+      picture_name = "103.png",
+      title = "Secret Chatter",
+      rule_desc = [[
+Each schedule includes an encounter with him living under the same prison roof as you.
+Tap the interaction panel to initiate a Secret Chatter. Avoid the guards' searchlights and keep your exchange hidden. Let the progress reach 100% to complete the challenge.]]
     }
   },
   [15004] = {
@@ -2186,30 +2212,62 @@ After watching the story at the end of a practice, tap the [Practice is over for
   [1505401] = {
     [1] = {
       picture_name = "101.png",
-      title = "风华绝代",
-      rule_desc = "活动期间，钻石许愿树[c][C74848]限时上架全新李泽言SSR羁绊[-][/c]！\n\n许愿树中掉落的SSR/SP必为李泽言羁绊\n李泽言SSR/SP基础概率为[c][C74848]1%[-][/c]，综合概率（含保底）为[c][C74848]1.93%[-][/c]\n\n如果首次获得的SSR/SP羁绊不是【李泽言·共话凡尘】，则下一次获得SSR/SP羁绊[c][C74848]必为【李泽言·共话凡尘】[-][/c]。（在获取【李泽言·共话凡尘】以后，此条规则不再生效）\n\n若前71次许愿未获得李泽言SSR/SP羁绊，则[c][C74848]第72次必定获得[-][/c]1张李泽言SSR/SP羁绊\n若第72次许愿同时满足十连必出SR与72次必出李泽言SSR/SP的条件时，则该次许愿将直接获得李泽言SSR/SP羁绊，不再获得SR羁绊"
+      title = "Unsurpassed Beauty",
+      rule_desc = [[
+Enjoy new [c][C74848]Limited-time Victor SSR Karma[-][/c] at the Gem Wish Tree during the event!
+
+Victor's SSR/SP guaranteed at the Wish Tree.
+The base chance of obtaining Victor's SSR/SP Karma is [c][C74848]1%[-][/c], and the overall chance is [c][C74848]1.93%[-][/c] (guarantee included).
+
+If the first SSR/SP Karma received was not [Victor: This World with You], then the next SSR/SP Karma received [c][C74848]will guaranteed to be [Victor: This World with You][-][/c] (this only applies when you have not yet received [Victor: This World with You]).
+
+If you did not obtain a Victor's SSR/SP in the first 71 Wishes, then [c][C74848]the 72nd Wish[-][/c] is guaranteed to award one.
+If the 72nd wish is both a guaranteed SR and a guaranteed Victor's SSR/SP, then you will receive a Victor's SSR/SP Karma instead of an SR.]]
     },
     [2] = {
       picture_name = "102.png",
-      title = "风华绝代",
-      rule_desc = "单人许愿树活动将可[c][C74848]继承[-][/c]同角色同类型活动的许愿次数与羁绊：\n\n若本次活动期间未获得任何角色SSR/SP，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。\n\n若本次活动期间获得了一张角色SSR/SP但未获得本期活动限定SSR，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，在后续活动中继续许愿获得的[c][C74848]首张SSR必定[-][/c]为当期活动限定羁绊。\n\n若本次活动期间获得了本期活动限定SSR，则将取[c][C74848]最后一次获得角色SSR/SP之后[-][/c]的许愿次数[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。\n\n*本次【风华绝代】活动即可继承【碳素笔与玻璃珠】活动中的许愿次数与羁绊获取规则\n*该继承规则对同角色同类型的复刻活动同样生效"
+      title = "Unsurpassed Beauty",
+      rule_desc = [[
+In Wish Tree events, wishes made and Karmas for a single character can be [c][C74848]carried over[-][/c] to future events of the same type for the same character. The details are as follows:
+
+If you did not receive any SSR/SP Karmas for the event character, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in later events to obtain SSR/SP Karmas or current event exclusive Karmas of that character accordingly.
+
+If you did receive an SSR/SP Karma for the event character but not the current event exclusive Karma, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. The first [c][C74848]SSR Karma you receive[-][/c] for the subsequent event will be a guaranteed current event exclusive Karma.
+
+If you did receive the current event exclusive SSR Karmas during the event period, then the number of wishes you have made after [c][C74848]lastly receiving a character's SSR/SP Karma[-][/c] will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in subsequent events to gain SSR/SP Karmas or current event exclusive Karmas accordingly.
+
+*The Wish counter and rules for acquiring Karma for the [Pens and Marbles] event will carry over to [Unsurpassed Beauty] event.
+*This rule also applies to rerun events featuring the same character and event type.]]
     },
     [3] = {
       picture_name = "103.png",
-      title = "许愿礼单",
-      rule_desc = "活动期间，累计在活动许愿树许愿达到指定次数，可在[c][C74848]许愿礼单[-][/c]中领取奖励！\n累计许愿[c][C74848]72[-][/c]次，可以领取[c][C74848]李泽言专属服装[-][/c]，可在去见他中使用。"
+      title = "Wish List",
+      rule_desc = [[
+During the event, when your wishes reach a certain amount at the Wish Tree, you can claim a corresponding reward in the [c][C74848]Wish List[-][/c]!
+Making [c][C74848]72[-][/c] wishes will unlock a [c][C74848]Victor exclusive outfit[-][/c] that can be used at Go See Him.]]
     }
   },
   [1505402] = {
     [1] = {
       picture_name = "104.png",
-      title = "活跃活动",
-      rule_desc = "活动期间，可以通过许愿树内入口和主界面右侧入口进入[c][C74848]【风华绝代】剧情活动[-][/c]。\n\n活动开启后，每24小时可以解锁[c][C74848]他新一天的练习曲谱[-][/c]，每次陪伴他练习还可获取对应[c][C74848]Q版角色手账贴纸[-][/c]一枚。活动期间共计可获取七枚贴纸。\n\n在许愿树获取全新李泽言SSR活动羁绊后，还可额外获得一张[c][C74848]手账贴纸[-][/c]。"
+      title = "Activeness Event",
+      rule_desc = [[
+During the event, you can enter the [c][C74848][Unsurpassed Beauty][-][/c] event from the Wish Tree or through the portal on the right side of the main screen.
+
+During the event, a new [c][C74848]his daily practice sheet[-][/c] will be unlocked every 24 hours. Practicing with him rewards you with a corresponding [c][C74848]chibi character Journal Sticker[-][/c]. A total of seven stickers can be collected throughout the event.
+
+Obtaining the all-new Victor SSR at the Wish Tree will also award you with a [c][C74848]Journal Sticker[-][/c].]]
     },
     [2] = {
       picture_name = "105.png",
-      title = "活跃活动",
-      rule_desc = "本次活动共拥有两页曲谱，可以通过界面右下角的下一页按钮进行翻页。练习结束后，还有更温馨的练习剧场等着你哦~\n\n点击乐谱旁边的二胡按钮可回顾他的练习曲；点击乐谱即可回顾你们一起练习的点点滴滴~\n*首次播放时，点击乐谱即可播放练习曲，首次播放期间不可打断。\n\n剧场结束后，点击【今日练习结束】按钮即可回到活动界面。"
+      title = "Activeness Event",
+      rule_desc = [[
+This event features two pages of sheet music, which you can navigate using the button [Next Page] located in the bottom right corner of the screen. Once you complete your practice, a heartwarming story will also be unlocked for you to enjoy.
+
+To revisit his practice performance, tap the erhu icon beside the sheet music. To relive the moments you practiced together, simply tap on the sheet itself.
+Note: When playing for the first time, tapping the sheet will start the practice music. It cannot be interrupted the first time it plays.
+
+After watching the story at the end of the practice, tap the [Practice is over for today] button to return to the main event screen.]]
     }
   },
   [15055] = {
@@ -2266,30 +2324,63 @@ With his hand in yours, experience the wonders of the world in each other's inti
   [1505701] = {
     [1] = {
       picture_name = "101.png",
-      title = "拾壹",
-      rule_desc = "活动期间，钻石许愿树[c][C74848]限时上架全新白起SSR羁绊[-][/c]！\n\n许愿树中掉落的SSR/SP必为白起羁绊\n白起SSR/SP基础概率为[c][C74848]1%[-][/c]，综合概率（含保底）为[c][C74848]1.93%[-][/c]\n\n如果首次获得的SSR/SP羁绊不是【白起·霁月清风】，则下一次获得SSR/SP羁绊[c][C74848]必为【白起·霁月清风】[-][/c]。（在获取【白起·霁月清风】以后，此条规则不再生效）\n\n若前71次许愿未获得白起SSR/SP羁绊，则[c][C74848]第72次必定获得[-][/c]1张白起SSR/SP羁绊\n若第72次许愿同时满足十连必出SR与72次必出白起SSR/SP的条件时，则该次许愿将直接获得白起SSR/SP羁绊，不再获得SR羁绊"
+      title = "Eleven",
+      rule_desc = [[
+Enjoy the new [c][C74848]limited-time SSR [Gavin: Moonlit Breeze][-][/c] at the Gem Wish Tree during the event!
+
+Gavin's SSR/SP guaranteed at the Wish Tree.
+The base chance of obtaining Gavin's SSR/SP Karma is [c][C74848]1%[-][/c], and the overall chance is [c][C74848]1.93%[-][/c] (guarantee included).
+
+If the first SSR/SP Karma received was not [Gavin: Moonlit Breeze], then the next SSR/SP Karma received [c][C74848]will guarantee to be [Gavin: Moonlit Breeze][-][/c] (this only applies when you have not yet received [Gavin: Moonlit Breeze]).
+
+If you did not obtain a Gavin's SSR/SP in the first 71 Wishes, then [c][C74848]the 72nd Wish[-][/c] is guaranteed to award one.
+If the 72nd wish is both a guaranteed SR and a guaranteed Gavin's SSR/SP, then you will receive a Gavin's SSR/SP Karma instead of an SR.]]
     },
     [2] = {
       picture_name = "102.png",
-      title = "拾壹",
-      rule_desc = "单人许愿树活动将可[c][C74848]继承[-][/c]同角色同类型活动的许愿次数与羁绊：\n\n若本次活动期间未获得任何角色SSR/SP，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。\n\n若本次活动期间获得了一张角色SSR/SP但未获得本期活动限定SSR，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，在后续活动中继续许愿获得的[c][C74848]首张SSR必定[-][/c]为当期活动限定羁绊。\n\n若本次活动期间获得了本期活动限定SSR，则将取[c][C74848]最后一次获得角色SSR/SP之后[-][/c]的许愿次数[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。\n\n*本次【拾壹】活动即可继承【空无一物的礼物盒】活动中的许愿次数与羁绊获取规则\n*该继承规则对同角色同类型的复刻活动同样生效"
+      title = "Eleven",
+      rule_desc = [[
+In Wish Tree events, wishes made and Karmas for a single character can be [c][C74848]carried over[-][/c] to future events of the same type for the same character. The details are as follows:
+
+If you did not receive any SSR/SP Karmas for the event character, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in later events to obtain SSR/SP Karmas or current event exclusive Karmas of that character accordingly.
+
+If you did receive an SSR/SP Karma for the event character but not the current event exclusive Karma, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. The [c][C74848]first SSR Karma you receive[-][/c] for the subsequent event will be a guaranteed current event exclusive Karma.
+
+If you did receive the current event exclusive SSR Karmas during the event period, then the number of wishes you have made after [c][C74848]lastly receiving a character's SSR/SP Karma[-][/c] will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in subsequent events to gain SSR/SP Karmas or current event exclusive Karmas accordingly.
+
+*The Wish counter and rules for acquiring Karmas for the [Verses in the Breeze]  rerun event will carry over to [Eleven] event.
+*This rule also applies to rerun events featuring the same character and event type.]]
     },
     [3] = {
       picture_name = "103.png",
-      title = "许愿礼单",
-      rule_desc = "活动期间，累计在活动许愿树许愿达到指定次数，可在[c][C74848]许愿礼单[-][/c]中领取奖励！\n累计许愿[c][C74848]72[-][/c]次，可以领取[c][C74848]白起专属服装[-][/c]，可在去见他中使用。"
+      title = "Wish List",
+      rule_desc = [[
+During the event, when your wishes reach a certain amount at the Wish Tree, you can claim a corresponding reward in the [c][C74848]Wish List[-][/c]!
+Making [c][C74848]72[-][/c] wishes will unlock a [c][C74848]Gavin exclusive outfit[-][/c] that can be used at Go See Him.]]
     }
   },
   [1505702] = {
     [1] = {
       picture_name = "104.png",
-      title = "活跃活动",
-      rule_desc = "活动期间，可以通过许愿树内入口和主界面右侧入口进入[c][C74848]【拾壹】剧情活动[-][/c]。\n\n活动开启后，每24小时可以解锁[c][C74848]他新一天的练习曲谱[-][/c]，每次陪伴他练习还可获取对应[c][C74848]Q版角色手账贴纸[-][/c]一枚。活动期间共计可获取七枚贴纸。\n\n在许愿树获取全新白起SSR活动羁绊后，还可额外获得一张[c][C74848]手账贴纸[-][/c]。"
+      title = "Activeness Event",
+      rule_desc = [[
+During the event, you can enter the [c][C74848][Eleven][-][/c] event from the Wish Tree or through the portal on the right side of the main screen.
+
+During the event, a new [c][C74848]his daily practice sheet[-][/c] will be unlocked every 24 hours. Practicing with him rewards you with a corresponding [c][C74848]chibi character Journal Sticker[-][/c]. A total of seven stickers can be collected throughout the event.
+
+Obtaining the all-new Gavin's SSR Karma at the Wish Tree will also award you with a [c][C74848]Journal Sticker[-][/c].]]
     },
     [2] = {
       picture_name = "105.png",
-      title = "活跃活动",
-      rule_desc = "本次活动共拥有三页曲谱，可以通过界面右下角的【上一页】、【下一页】按钮进行翻页。练习结束后，还有更温馨的练习剧场等着你哦~\n\n新的练习曲谱到达解锁时间后，还需要完成前面的曲谱练习才可解锁~\n点击曲谱旁边的大鼓按钮可回顾他的练习曲；点击对应曲谱即可回顾你们一起练习的点点滴滴~\n*首次播放时，点击曲谱即可播放练习曲，首次播放期间不可打断。\n\n剧场结束后，点击【今日练习结束】按钮即可回到活动界面。"
+      title = "Activeness Event",
+      rule_desc = [[
+This event features three pages of sheet music, which you can navigate using the buttons, [Previous] and [Next], located in the bottom right corner of the screen. Once you complete your practice, a heartwarming story will also be unlocked for you to enjoy.
+
+When a new sheet becomes available, you'll need to finish the previous one before it can be unlocked.
+To revisit his practice performance, tap the drum icon beside the sheet music. To relive the moments you practiced together, simply tap on the sheet itself.
+Note: When playing for the first time, tapping the sheet will start the practice music. It cannot be interrupted the first time it plays.
+
+After watching the story at the end of the practice, tap the [Practice is over for today] button to return to the main event screen.]]
     }
   },
   [15058] = {
@@ -2333,30 +2424,63 @@ When the event ends, any remaining Speeding Time Wish Coupons will be kept until
   [1505901] = {
     [1] = {
       picture_name = "101.png",
-      title = "寒山独见卿",
-      rule_desc = "活动期间，钻石许愿树[c][C74848]限时上架全新许墨SSR羁绊[-][/c]！\n\n许愿树中掉落的SSR/SP必为许墨羁绊\n许墨SSR/SP基础概率为[c][C74848]1%[-][/c]，综合概率（含保底）为[c][C74848]1.93%[-][/c]\n\n如果首次获得的SSR/SP羁绊不是【许墨·浮生何如】，则下一次获得SSR/SP羁绊[c][C74848]必为【许墨·浮生何如】[-][/c]。（在获取【许墨·浮生何如】以后，此条规则不再生效）\n\n若前71次许愿未获得许墨SSR/SP羁绊，则[c][C74848]第72次必定获得[-][/c]1张许墨SSR/SP羁绊\n若第72次许愿同时满足十连必出SR与72次必出许墨SSR/SP的条件时，则该次许愿将直接获得许墨SSR/SP羁绊，不再获得SR羁绊"
+      title = "Eyes for You",
+      rule_desc = [[
+Enjoy new [c][C74848]Limited-time Lucien SSR Karma[-][/c] at the Gem Wish Tree during the event!
+
+SSR/SP drops from the Wish Tree will be guaranteed Lucien Karmas.
+The base chance of obtaining Lucien SSR/SP Karmas is [c][C74848]1%[-][/c], and the overall chance is [c][C74848]1.93%[-][/c] (guarantee included).
+
+If the first SSR/SP Karma received was not [Lucien: Fleeting Dreams], then the next SSR/SP Karma received [c][C74848]will guaranteed to be [Lucien: Fleeting Dreams][-][/c] (this only applies when you have not yet received [Lucien: Fleeting Dreams]).
+
+If you did not obtain a Lucien SSR/SP Karma in the first 71 Wishes, then [c][C74848]the 72nd Wish[-][/c] is guaranteed to award one.
+If the 72nd wish is both a guaranteed SR and a guaranteed Lucien SSR/SP, then you will receive a Lucien SSR/SP Karma instead of an SR Karma.]]
     },
     [2] = {
       picture_name = "102.png",
-      title = "寒山独见卿",
-      rule_desc = "单人许愿树活动将可[c][C74848]继承[-][/c]同角色同类型活动的许愿次数与羁绊：\n\n若本次活动期间未获得任何角色SSR/SP，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。\n\n若本次活动期间获得了一张角色SSR/SP但未获得本期活动限定SSR，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，在后续活动中继续许愿获得的[c][C74848]首张SSR必定[-][/c]为当期活动限定羁绊。\n\n若本次活动期间获得了本期活动限定SSR，则将取[c][C74848]最后一次获得角色SSR/SP之后[-][/c]的许愿次数[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。\n\n*本次【寒山独见卿】活动可继承【透过镜像万千】活动中的许愿次数与羁绊获取规则\n*该继承规则对同角色同类型的复刻活动同样生效"
+      title = "Eyes for You",
+      rule_desc = [[
+In Wish Tree events, wishes made and Karmas for a single character can be [c][C74848]carried over[-][/c] to future events of the same type for the same character. The details are as follows:
+
+If you did not receive any SSR/SP Karmas for the event character, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in later events to obtain SSR/SP Karmas or current event exclusive Karmas of that character accordingly.
+
+If you did receive an SSR/SP Karma for the event character but not the current event exclusive Karma, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. The first [c][C74848]SSR Karma you receive[-][/c] for the subsequent event will be a guaranteed current event exclusive Karma.
+
+If you did receive the current event exclusive SSR Karmas during the event period, then the number of wishes you have made after [c][C74848]lastly receiving a character's SSR/SP Karma[-][/c] will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in subsequent events to gain SSR/SP Karmas or current event exclusive Karmas accordingly.
+
+*The Wish counter and rules for acquiring Karma for [Boundless Island]  rerun event will carry over to the [Eyes for You] event.
+*This rule also applies to rerun events featuring the same character and event type.]]
     },
     [3] = {
       picture_name = "103.png",
-      title = "许愿礼单",
-      rule_desc = "活动期间，累计在活动许愿树许愿达到指定次数，可在[c][C74848]许愿礼单[-][/c]中领取奖励！\n累计许愿[c][C74848]72[-][/c]次，可以领取[c][C74848]许墨专属服装[-][/c]，可在去见他中使用。"
+      title = "Wish List",
+      rule_desc = [[
+During the event, when your wishes reach a certain amount at the Wish Tree, you can claim a corresponding reward in the [c][C74848]Wish List[-][/c]!
+Making [c][C74848]72[-][/c] wishes will unlock a [c][C74848]Lucien exclusive outfit[-][/c] that can be used at Go See Him.]]
     }
   },
   [1505902] = {
     [1] = {
       picture_name = "104.png",
-      title = "活跃活动",
-      rule_desc = "活动期间，可以通过许愿树内入口和主界面右侧入口进入[c][C74848]【寒山独见卿】剧情活动[-][/c]。\n\n活动开启后，每24小时可以解锁[c][C74848]他新一天的练习曲谱[-][/c]，每次陪伴他练习还可获取对应[c][C74848]Q版角色手账贴纸[-][/c]一枚。活动期间共计可获取七枚贴纸。\n\n在许愿树获取全新许墨SSR活动羁绊后，还可额外获得一张[c][C74848]手账贴纸[-][/c]。"
+      title = "Activeness Event",
+      rule_desc = [[
+During the event, you can enter the [c][C74848][Eyes for You][-][/c] event from the Wish Tree or through the portal on the right side of the main screen.
+
+During the event, a new [c][C74848]his daily practice sheet[-][/c] will be unlocked every 24 hours. Practicing with him rewards you with a corresponding [c][C74848]chibi character Journal Sticker[-][/c]. A total of seven stickers can be collected throughout the event.
+
+Obtaining the all-new Lucien SSR Karma will also award you with a [c][C74848]Journal Sticker[-][/c].]]
     },
     [2] = {
       picture_name = "105.png",
-      title = "活跃活动",
-      rule_desc = "本次活动共拥有三页曲谱，可以通过界面右下角的【上一页】、【下一页】按钮进行翻页。练习结束后，还有更温馨的练习剧场等着你哦~\n\n新的练习曲谱到达解锁时间后，还需要完成前面的曲谱练习才可解锁~\n点击曲谱旁边的古琴按钮可回顾他的练习曲；点击对应曲谱即可回顾你们一起练习的点点滴滴~\n*首次播放时，点击曲谱即可播放练习曲，首次播放期间不可打断。\n\n剧场结束后，点击【今日练习结束】按钮即可回到活动界面。"
+      title = "Activeness Event",
+      rule_desc = [[
+This event features three pages of sheet music, which you can navigate using the buttons, [Previous Page] and [Next Page], located in the bottom right corner of the screen. Once you complete your practice, a heartwarming story will also be unlocked for you to enjoy.
+
+When a new sheet becomes available, you'll need to finish the previous one before it can be unlocked.
+To revisit his practice performance, tap the guqin icon beside the sheet music. To relive the moments you practiced together, simply tap on the sheet itself.
+Note: When playing for the first time, tapping the sheet will start the practice music. It cannot be interrupted the first time it plays.
+
+After watching the story at the end of the practice, tap the [Practice is over for today] button to return to the main event screen.]]
     }
   },
   [15060] = {
@@ -2573,69 +2697,157 @@ When the event ends, any remaining Heart Wave Wish Coupons will be kept until th
   [1506701] = {
     [1] = {
       picture_name = "15040re_101.png",
-      title = "无尽里的岛",
-      rule_desc = "活动期间，钻石许愿树[c][C74848]许墨SSR羁绊限时复刻[-][/c]！\n\n许愿树中掉落的SSR/SP必为许墨羁绊\n许墨SSR/SP基础概率为[c][C74848]1%[-][/c]，综合概率（含保底）为[c][C74848]1.93%[-][/c]\n\n如果首次获得的SSR/SP羁绊不是【许墨·步步斑斓】，则下一次获得SSR/SP羁绊[c][C74848]必为【许墨·步步斑斓】[-][/c]。（在获取【许墨·步步斑斓】以后，此条规则不再生效）\n\n若前71次许愿未获得许墨SSR/SP羁绊，则[c][C74848]第72次必定获得[-][/c]1张许墨SSR/SP羁绊\n若第72次许愿同时满足十连必出SR与72次必出许墨SSR/SP的条件时，则该次许愿将直接获得许墨SSR/SP羁绊，不再获得SR羁绊"
+      title = "Boundless Island",
+      rule_desc = [[
+[c][C74848]Lucien's limited-time SSR Karma rerun[-][/c] is now available at the Gem Wish Tree!
+
+Lucien's SSR/SP guaranteed at the Wish Tree.
+The base chance of obtaining Lucien's SSR/SP Karmas is [c][C74848]1%[-][/c], and the overall chance is [c][C74848]1.93%[-][/c] (guarantee included).
+
+If the first SSR/SP Karma received was not [Lucien: Colorful Steps], then the next SSR/SP Karma received [c][C74848]will guaranteed to be [Lucien: Colorful Steps][-][/c] (this only applies when you have not yet received [Lucien: Colorful Steps]).
+
+If you did not obtain a Lucien's SSR/SP Karma in the first 71 Wishes, then [c][C74848]the 72nd Wish[-][/c] is guaranteed to award one.
+If the 72nd wish is both a guaranteed SR and a guaranteed Lucien's SSR/SP, then you will receive a Lucien's SSR/SP Karma instead of an SR Karma.]]
     },
     [2] = {
       picture_name = "15040re_102.png",
-      title = "无尽里的岛",
-      rule_desc = "单人许愿树活动将可[c][C74848]继承[-][/c]同角色同类型活动的许愿次数与羁绊：\n\n若本次活动期间未获得任何角色SSR/SP，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。 \n\n若本次活动期间获得了一张角色SSR/SP但未获得本期活动限定SSR，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，在后续活动中继续许愿获得的[c][C74848]首张SSR必定[-][/c]为当期活动限定羁绊。   \n\n若本次活动期间获得了本期活动限定SSR，则将取[c][C74848]最后一次获得角色SSR/SP之后[-][/c]的许愿次数[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。\n\n*本次【无尽里的岛】复刻活动即可继承【半衰期·无人之境篇】活动中的许愿次数与羁绊获取规则\n*该继承规则对同角色同类型的复刻活动同样生效"
+      title = "Boundless Island",
+      rule_desc = [[
+In Wish Tree events, wishes made and Karmas for a single character can be [c][C74848]carried over[-][/c] to future events of the same type for the same character. The details are as follows:
+
+If you did not receive any SSR/SP Karmas for the event character, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in later events to obtain SSR/SP Karmas or current event exclusive Karmas of that character accordingly. 
+
+If you did receive an SSR/SP Karma for the event character but not the current event exclusive Karma, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. The [c][C74848]first SSR Karma you receive[-][/c] for the subsequent event will be a guaranteed current event exclusive Karma.   
+
+If you did receive the current event exclusive SSR Karmas during the event period, then the number of wishes you have made after [c][C74848]lastly receiving a character's SSR/SP Karma[-][/c] will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in subsequent events to gain SSR/SP Karmas or current event exclusive Karmas accordingly.
+
+*The Wish counter and rules for acquiring Karma for the event [Through Thousands of Mirrors] will carry over to this [Boundless Island] rerun event.
+*This rule also applies to rerun events featuring the same character and event type.]]
     },
     [3] = {
       picture_name = "15040re_103.png",
-      title = "许愿礼单",
-      rule_desc = "活动期间，累计在活动许愿树许愿达到指定次数，可在[c][C74848]许愿礼单[-][/c]中领取奖励！\n累计许愿[c][C74848]72[-][/c]次，可以领取[c][C74848]许墨专属配饰[-][/c]，可在去见他中使用。\n活动首开时的累计许愿次数会保留至本次活动，已领取过的配饰不可重复领取。"
+      title = "Wish List",
+      rule_desc = [[
+During the event, when your wishes reach a certain amount, you can claim a corresponding reward in the [c][C74848]Wish List[-][/c]!
+Making [c][C74848]72[-][/c] wishes will unlock a [c][C74848]Lucien exclusive accessory[-][/c] that can be used at Go See Him.
+The Wish count from the event's first run will be carried over to this event. Any claimed accessories cannot be claimed again.]]
     }
   },
   [1506801] = {
     [1] = {
       picture_name = "15041re_101.png",
-      title = "海的圆周",
-      rule_desc = "活动期间，钻石许愿树[c][C74848]李泽言SSR羁绊限时复刻[-][/c]！\n\n许愿树中掉落的SSR/SP必为李泽言羁绊\n李泽言SSR/SP基础概率为[c][C74848]1%[-][/c]，综合概率（含保底）为[c][C74848]1.93%[-][/c]\n\n如果首次获得的SSR/SP羁绊不是【李泽言·不言而喻】，则下一次获得SSR/SP羁绊[c][C74848]必为【李泽言·不言而喻】[-][/c]。（在获取【李泽言·不言而喻】以后，此条规则不再生效）\n\n若前71次许愿未获得李泽言SSR/SP羁绊，则[c][C74848]第72次必定获得[-][/c]1张李泽言SSR/SP羁绊\n若第72次许愿同时满足十连必出SR与72次必出李泽言SSR/SP的条件时，则该次许愿将直接获得李泽言SSR/SP羁绊，不再获得SR羁绊"
+      title = "Breadth of the Sea",
+      rule_desc = [[
+[c][C74848]Victor's limited-time SSR Karma rerun[-][/c] is now available at the Gem Wish Tree!
+
+Victor's SSR/SP guaranteed at the Wish Tree.
+The base chance of obtaining Victor's SSR/SP Karma is [c][C74848]1%[-][/c], and the overall chance is [c][C74848]1.93%[-][/c] (guarantee included).
+
+If the first SSR/SP Karma received was not [Victor: Goes Without Saying], then the next SSR/SP Karma received [c][C74848]will guaranteed to be [Victor: Goes Without Saying][-][/c] (this only applies when you have not yet received [Victor: Goes Without Saying]).
+
+If you did not obtain a Victor's SSR/SP in the first 71 Wishes, then [c][C74848]the 72nd Wish[-][/c] is guaranteed to award one.
+If the 72nd wish is both a guaranteed SR and a guaranteed Victor's SSR/SP, then you will receive a Victor's SSR/SP Karma instead of an SR.]]
     },
     [2] = {
       picture_name = "15041re_102.png",
-      title = "海的圆周",
-      rule_desc = "单人许愿树活动将可[c][C74848]继承[-][/c]同角色同类型活动的许愿次数与羁绊：\n\n若本次活动期间未获得任何角色SSR/SP，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。 \n\n若本次活动期间获得了一张角色SSR/SP但未获得本期活动限定SSR，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，在后续活动中继续许愿获得的[c][C74848]首张SSR必定[-][/c]为当期活动限定羁绊。   \n\n若本次活动期间获得了本期活动限定SSR，则将取[c][C74848]最后一次获得角色SSR/SP之后[-][/c]的许愿次数[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。\n\n*本次【海的圆周】复刻活动即可继承【半衰期·时间迷宫篇】活动中的许愿次数与羁绊获取规则\n*该继承规则对同角色同类型的复刻活动同样生效"
+      title = "Breadth of the Sea",
+      rule_desc = [[
+In Wish Tree events, wishes made and Karmas for a single character can be [c][C74848]carried over[-][/c] to future events of the same type for the same character. The details are as follows:
+
+If you did not receive any SSR/SP Karmas for the event character, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in later events to obtain SSR/SP Karmas or current event exclusive Karmas of that character accordingly. 
+
+If you did receive an SSR/SP Karma for the event character but not the current event exclusive Karma, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. The [c][C74848]first SSR Karma you receive[-][/c] for the subsequent event will be a guaranteed current event exclusive Karma.   
+
+If you did receive the current event exclusive SSR Karmas during the event period, then the number of wishes you have made after [c][C74848]lastly receiving a character's SSR/SP Karma[-][/c] will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in subsequent events to gain SSR/SP Karmas or current event exclusive Karmas accordingly.
+
+*The Wish counter and rules for acquiring Karma for the event [Unsurpassed Beauty] will carry over to this [Breadth of the Sea] rerun event.
+*This rule also applies to rerun events featuring the same character and event type.]]
     },
     [3] = {
       picture_name = "15041re_103.png",
-      title = "许愿礼单",
-      rule_desc = "活动期间，累计在活动许愿树许愿达到指定次数，可在[c][C74848]许愿礼单[-][/c]中领取奖励！\n累计许愿[c][C74848]72[-][/c]次，可以领取[c][C74848]李泽言专属配饰[-][/c]，可在去见他中使用。\n活动首开时的累计许愿次数会保留至本次活动，已领取过的配饰不可重复领取。"
+      title = "Wish List",
+      rule_desc = [[
+During the event, when your wishes reach a certain amount, you can claim a corresponding reward in the [c][C74848]Wish List[-][/c]!
+Making [c][C74848]72[-][/c] wishes will unlock a [c][C74848]Victor exclusive accessory[-][/c] that can be used at Go See Him.
+The Wish count from the event's first run will be carried over to this event. Any claimed accessories cannot be claimed again.]]
     }
   },
   [1506901] = {
     [1] = {
       picture_name = "15042re_101.png",
-      title = "晚风与小诗",
-      rule_desc = "活动期间，钻石许愿树[c][C74848]白起SSR羁绊限时复刻[-][/c]！\n\n许愿树中掉落的SSR/SP必为白起羁绊\n白起SSR/SP基础概率为[c][C74848]1%[-][/c]，综合概率（含保底）为[c][C74848]1.93%[-][/c]\n\n如果首次获得的SSR/SP羁绊不是【白起·风起回声】，则下一次获得SSR/SP羁绊[c][C74848]必为【白起·风起回声】[-][/c]。（在获取【白起·风起回声】以后，此条规则不再生效）\n\n若前71次许愿未获得白起SSR/SP羁绊，则[c][C74848]第72次必定获得[-][/c]1张白起SSR/SP羁绊\n若第72次许愿同时满足十连必出SR与72次必出白起SSR/SP的条件时，则该次许愿将直接获得白起SSR/SP羁绊，不再获得SR羁绊"
+      title = "Verses in the Breeze",
+      rule_desc = [[
+[c][C74848]Gavin's limited-time SSR Karma rerun[-][/c] is now available at the Gem Wish Tree!
+
+Gavin's SSR/SP guaranteed at the Wish Tree.
+The base chance of obtaining Gavin's SSR/SP Karma is [c][C74848]1%[-][/c], and the overall chance is [c][C74848]1.93%[-][/c] (guarantee included).
+
+If the first SSR/SP Karma received was not [Gavin: Wind Echoes], then the next SSR/SP Karma received [c][C74848]will guaranteed to be [Gavin: Wind Echoes][-][/c] (this only applies when you have not yet received [Gavin: Wind Echoes]).
+
+If you did not obtain a Gavin's SSR/SP in the first 71 Wishes, then [c][C74848]the 72nd Wish[-][/c] is guaranteed to award one.
+If the 72nd wish is both a guaranteed SR and a guaranteed Gavin's SSR/SP, then you will receive a Gavin's SSR/SP Karma instead of an SR.]]
     },
     [2] = {
       picture_name = "15042re_102.png",
-      title = "晚风与小诗",
-      rule_desc = "单人许愿树活动将可[c][C74848]继承[-][/c]同角色同类型活动的许愿次数与羁绊：\n\n若本次活动期间未获得任何角色SSR/SP，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。 \n\n若本次活动期间获得了一张角色SSR/SP但未获得本期活动限定SSR，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，在后续活动中继续许愿获得的[c][C74848]首张SSR必定[-][/c]为当期活动限定羁绊。   \n\n若本次活动期间获得了本期活动限定SSR，则将取[c][C74848]最后一次获得角色SSR/SP之后[-][/c]的许愿次数[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。\n\n*本次【晚风与小诗】复刻活动即可继承【晴光小调】活动中的许愿次数与羁绊获取规则\n*该继承规则对同角色同类型的复刻活动同样生效"
+      title = "Verses in the Breeze",
+      rule_desc = [[
+In Wish Tree events, wishes made and Karmas for a single character can be [c][C74848]carried over[-][/c] to future events of the same type for the same character. The details are as follows:
+
+If you did not receive any SSR/SP Karmas for the event character, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in later events to obtain SSR/SP Karmas or current event exclusive Karmas of that character accordingly. 
+
+If you did receive an SSR/SP Karma for the event character but not the current event exclusive Karma, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. The [c][C74848]first SSR Karma you receive[-][/c] for the subsequent event will be a guaranteed current event exclusive Karma.   
+
+If you did receive the current event exclusive SSR Karmas during the event period, then the number of wishes you have made after [c][C74848]lastly receiving a character's SSR/SP Karma[-][/c] will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in subsequent events to gain SSR/SP Karmas or current event exclusive Karmas accordingly.
+
+*The Wish counter and rules for acquiring Karma for the event [Empty Gift Box] will carry over to this [Verses in the Breeze] rerun event.
+*This rule also applies to rerun events featuring the same character and event type.]]
     },
     [3] = {
       picture_name = "15042re_103.png",
-      title = "许愿礼单",
-      rule_desc = "活动期间，累计在活动许愿树许愿达到指定次数，可在[c][C74848]许愿礼单[-][/c]中领取奖励！\n累计许愿[c][C74848]72[-][/c]次，可以领取[c][C74848]白起专属配饰[-][/c]，可在去见他中使用。\n活动首开时的累计许愿次数会保留至本次活动，已领取过的配饰不可重复领取。"
+      title = "Wish List",
+      rule_desc = [[
+During the event, when your wishes reach a certain amount, you can claim a corresponding reward in the [c][C74848]Wish List[-][/c]!
+Making [c][C74848]72[-][/c] wishes will unlock a [c][C74848]Gavin exclusive accessory[-][/c] that can be used at Go See Him.
+The Wish count from the event's first run will be carried over to this event. Any claimed accessories cannot be claimed again.]]
     }
   },
   [1507001] = {
     [1] = {
       picture_name = "15044re_101.png",
-      title = "理想国",
-      rule_desc = "活动期间，钻石许愿树[c][C74848]周棋洛SSR羁绊限时复刻[-][/c]！\n\n许愿树中掉落的SSR/SP必为周棋洛羁绊\n周棋洛SSR/SP基础概率为[c][C74848]1%[-][/c]，综合概率（含保底）为[c][C74848]1.93%[-][/c]\n\n如果首次获得的SSR/SP羁绊不是【周棋洛·糖果盒子】，则下一次获得SSR/SP羁绊[c][C74848]必为【周棋洛·糖果盒子】[-][/c]。（在获取【周棋洛·糖果盒子】以后，此条规则不再生效）\n\n若前71次许愿未获得周棋洛SSR/SP羁绊，则[c][C74848]第72次必定获得[-][/c]1张周棋洛SSR/SP羁绊\n若第72次许愿同时满足十连必出SR与72次必出周棋洛SSR/SP的条件时，则该次许愿将直接获得周棋洛SSR/SP羁绊，不再获得SR羁绊"
+      title = "Dreamland Adventures",
+      rule_desc = [[
+[c][C74848]Kiro's limited-time SSR Karma rerun[-][/c] is now available at the Gem Wish Tree!
+
+Kiro's SSR/SP guaranteed at the Wish Tree.
+The base chance of obtaining Kiro's SSR/SP Karma is [c][C74848]1%[-][/c], and the overall chance is [c][C74848]1.93%[-][/c] (guarantee included).
+
+If the first SSR/SP Karma received was not [Kiro: Candy Box], then the next SSR/SP Karma received [c][C74848]will guaranteed to be [Kiro: Candy Box][-][/c] (this only applies when you have not yet received [Kiro: Candy Box]).
+
+If you did not obtain a Kiro's SSR/SP in the first 71 Wishes, then [c][C74848]the 72nd Wish[-][/c] is guaranteed to award one.
+If the 72nd wish is both a guaranteed SR and a guaranteed Kiro's SSR/SP, then you will receive a Kiro's SSR/SP Karma instead of an SR.]]
     },
     [2] = {
       picture_name = "15044re_102.png",
-      title = "理想国",
-      rule_desc = "单人许愿树活动将可[c][C74848]继承[-][/c]同角色同类型活动的许愿次数与羁绊：\n\n若本次活动期间未获得任何角色SSR/SP，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。 \n\n若本次活动期间获得了一张角色SSR/SP但未获得本期活动限定SSR，则全部许愿次数将[c][C74848]累计至下次[-][/c]同角色同类型活动，在后续活动中继续许愿获得的[c][C74848]首张SSR必定[-][/c]为当期活动限定羁绊。   \n\n若本次活动期间获得了本期活动限定SSR，则将取[c][C74848]最后一次获得角色SSR/SP之后[-][/c]的许愿次数[c][C74848]累计至下次[-][/c]同角色同类型活动，可在后续活动中继续许愿并根据规则获取角色SSR/SP与当期活动限定羁绊。\n\n*本次【理想国】复刻活动即可继承【半衰期·旭日谎言篇】活动中的许愿次数与羁绊获取规则\n*该继承规则对同角色同类型的复刻活动同样生效"
+      title = "Dreamland Adventures",
+      rule_desc = [[
+In Wish Tree events, wishes made and Karmas for a single character can be [c][C74848]carried over[-][/c] to future events of the same type for the same character. The details are as follows:
+
+If you did not receive any SSR/SP Karmas for the event character, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in later events to obtain SSR/SP Karmas or current event exclusive Karmas of that character accordingly. 
+
+If you did receive an SSR/SP Karma for the event character but not the current event exclusive Karma, then the total number of wishes you have made will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. The [c][C74848]first SSR Karma you receive[-][/c] for the subsequent event will be a guaranteed current event exclusive Karma.   
+
+If you did receive the current event exclusive SSR Karmas during the event period, then the number of wishes you have made after [c][C74848]lastly receiving a character's SSR/SP Karma[-][/c] will [c][C74848]be carried over to future events[-][/c] of the same type for the same character. Wishes made will be accumulated in subsequent events to gain SSR/SP Karmas or current event exclusive Karmas accordingly.
+
+*The Wish counter and rules for acquiring Karma for the event [Joy Everlasting] will carry over to this [Dreamland Adventures] rerun event.
+*This rule also applies to rerun events featuring the same character and event type.]]
     },
     [3] = {
       picture_name = "15044re_103.png",
-      title = "许愿礼单",
-      rule_desc = "活动期间，累计在活动许愿树许愿达到指定次数，可在[c][C74848]许愿礼单[-][/c]中领取奖励！\n累计许愿[c][C74848]72[-][/c]次，可以领取[c][C74848]周棋洛专属配饰[-][/c]，可在去见他中使用。\n活动首开时的累计许愿次数会保留至本次活动，已领取过的配饰不可重复领取。"
+      title = "Wish List",
+      rule_desc = [[
+During the event, when your wishes reach a certain amount, you can claim a corresponding reward in the [c][C74848]Wish List[-][/c]!
+Making [c][C74848]72[-][/c] wishes will unlock a [c][C74848]Kiro exclusive accessory[-][/c] that can be used at Go See Him.
+The Wish count from the event's first run will be carried over to this event. Any claimed accessories cannot be claimed again.]]
     }
   },
   [1507101] = {
@@ -2824,24 +3036,41 @@ During the event, [c][C74848]limited-time UR Karmas[-][/c] will be available at 
   [15079] = {
     [1] = {
       picture_name = "101.png",
-      title = "午夜邀请函规则",
-      rule_desc = "午夜钟声响起，\n欲念与欢愉的大门向你敞开；\n尽管把手交给夜色吧，\n一同加入这场永无止境的狂欢。\n\n活动期间，钻石许愿树[c][C74848]限时上架全新SSR羁绊[-][/c]！",
+      title = "Midnight Invitation Rules",
+      rule_desc = [[
+As the midnight bell tolls,
+the gates of desire and ecstasy swing wide.
+Surrender your hand to the waiting night,
+and step into a revelry that knows no end.
+
+Enjoy new [c][C74848]Limited-time SSR Karmas[-][/c] at the Gem Wish Tree during the event!]],
       alignment = 2
     },
     [2] = {
       picture_name = "102.png",
-      title = "限定活动道具",
-      rule_desc = "购买[c][C74848]幽灵摆件[-][/c]许愿送珍贵羁绊，活动羁绊[c][C74848]获取概率UP[-][/c]！\n幽灵摆件可用于在许愿树商店中兑换本期活动UP羁绊；\n活动结束后未消耗的幽灵摆件将按照1:1的比例转换为心绽之花，活动结束后将通过邮件发放。\n\nP.S. 本次活动期间许愿不会获得心绽之花"
+      title = "Event Exclusive Item",
+      rule_desc = [[
+Buy [c][C74848]Spooky Ornaments[-][/c] to make wishes and get precious Karmas. Chances to receive an event Karma have been [c][C74848]increased[-][/c]!
+Spooky Ornaments can be used to redeem the featured Karmas at the Wish Tree Shop.
+Unused Spooky Ornaments will be converted into Heart Flowers at a ratio of 1:1 and sent by email upon the event's conclusion.
+
+Note: Heart Flowers cannot be obtained by making a wish in the event.]]
     },
     [3] = {
       picture_name = "103.png",
-      title = "许愿礼单",
-      rule_desc = "活动期间，累计在钻石许愿树许愿达到指定次数，可在[c][C74848]许愿礼单[-][/c]中领取奖励！\n累计次数达到[c][C74848]72/144/216/288[-][/c]，分别可以领取一套[c][C74848]男主服装[-][/c]，服装可在【去见他】中使用。\nP.S. 未及时领取的服装奖励，将在活动结束后通过邮件形式发放[c][C74848]自选服装礼盒[-][/c]。"
+      title = "Wish List",
+      rule_desc = [[
+During the event, when your wishes at the Gem Wish Tree reach a certain amount, you can claim a corresponding reward in the [c][C74848]Wish List[-][/c]!
+Making [c][C74848]72/144/216/288[-][/c] wishes respectively will unlock a corresponding [c][C74848]male protagonist outfit[-][/c] that can be used at [Go See Him].
+Note: Unclaimed outfit rewards will be converted into an [c][C74848]Outfit Giftbox[-][/c] that will be sent to you via mail after the event.]]
     },
     [4] = {
       picture_name = "104.png",
-      title = "午夜邀请函规则",
-      rule_desc = "制作人还可在同期礼包中获取[c][C74848]迷夜许愿券[-][/c]。\n在【午夜邀请函】许愿树活动中可使用迷夜许愿券或星河许愿券许愿，优先消耗迷夜许愿券；\n本期活动结束后，迷夜许愿券将可保留至【午夜邀请函】活动首次复刻时继续使用，【午夜邀请函】活动进入循环许愿树后将不可再使用该许愿券。"
+      title = "Midnight Invitation Rules",
+      rule_desc = [[
+Gift Packs during the event will also contain [c][C74848]Alluring Night Wish Coupon[-][/c].
+If you own any, these will be used in place of Galaxy Wish Coupons when wishing at the [Midnight Invitation] Wish Tree.
+When the event ends, any remaining Alluring Night Wish Coupons will be kept until the event's first rerun when they can be used again. Alluring Night Wish Coupons cannot be used on any subsequent reruns of the [Midnight Invitation] event.]]
     }
   },
   [1508001] = {
@@ -2881,52 +3110,66 @@ During the event, [c][C74848]limited-time UR Karmas[-][/c] will be available at 
   [15081] = {
     [1] = {
       picture_name = "101.png",
-      title = "权欲消亡史",
-      rule_desc = "                        光辉落入华庭，照亮王权之路\n                          王座之上的博弈，等你入局\n                                  那些褪色的诺言\n                             是终末时刻最后的告白\n\n             活动期间，钻石许愿树[c][C74848]限时上架SSR羁绊[-][/c]！"
+      title = "Romance of Thrones",
+      rule_desc = [[
+       Golden light illuminates the hall, guiding the path to the throne's call.
+           Prepare yourself, the clash is near, an epic conflict drawing clear.
+                                      In shadows cast, these faded oaths,
+                                     Are love's last words in final breaths.
+
+Enjoy new [c][C74848]limited-time SSR Karmas[-][/c] at the Gem Wish Tree during the event!]]
     }
   },
   [15082] = {
     [1] = {
       picture_name = "101.png",
-      title = "摩登狂想曲",
-      rule_desc = "                           在名为世界的舞台上\n                            他将你的掌心紧握\n                          这场名为时代的爱情剧\n                          终成为永恒经典的传唱\n\n            活动期间，钻石许愿树[c][C74848]限时上架全新SSR羁绊[-][/c]！"
-    },
-    [2] = {
-      picture_name = "102.png",
-      title = "限定活动道具",
-      rule_desc = "购买[c][C74848]金箔扑克[-][/c]许愿送珍贵羁绊，活动羁绊[c][C74848]获取概率UP[-][/c]！\n金箔扑克可用于在许愿树商店中兑换本期活动UP羁绊；\n活动结束后未消耗的金箔扑克将按照1:1的比例转换为心绽之花，活动结束后将通过邮件发放。\n\nP.S. 本次活动期间许愿不会获得心绽之花"
-    },
-    [3] = {
-      picture_name = "103.png",
-      title = "许愿礼单",
-      rule_desc = "活动期间，累计在钻石许愿树许愿达到指定次数，可在[c][C74848]许愿礼单[-][/c]中领取奖励！\n累计次数达到[c][C74848]36/72/108/144[-][/c]，分别可以领取一个[c][C74848]通用背景[-][/c]，背景可在【去见他】中使用。\nP.S. 未及时领取的背景奖励，将在活动结束后通过邮件形式发放[c][C74848]自选背景礼盒[-][/c]。"
-    },
-    [4] = {
-      picture_name = "104.png",
-      title = "摩登狂想曲",
-      rule_desc = "制作人可在本次【摩登狂想曲】许愿树复刻活动中继续使用摩登许愿券。\n在本次许愿树活动中可使用摩登许愿券或星河许愿券许愿，优先消耗摩登许愿券；\n本期活动结束后，摩登许愿券将不会继续保留，【摩登狂想曲】活动进入循环许愿树后将不可再使用该许愿券。"
+      title = "Modern Rhapsody",
+      rule_desc = [[
+                           Upon the world's vast stage,
+                           he clasps your palm with steadfast grace.
+                          Let this performance of time and love,
+                          become a timeless and eternal masterpiece.
+
+Enjoy 4 new [c][C74848]limited-time SSR Karmas[-][/c] at the Gem Wish Tree during the event!]]
     }
   },
   [15083] = {
     [1] = {
       picture_name = "101.png",
-      title = "不归者的燎原",
-      rule_desc = "硝烟漫起，险情迷局；\n天色黄昏如血，映出相依而行的剪影，\n交握的双手传递着安心的温度，\n走过纷扰，走过迷雾，走向新生的黎明。\n\n活动期间，钻石许愿树[c][ff7878]限时上架全新UR羁绊[-][/c]！"
+      title = "Wildfire of the Forsaken",
+      rule_desc = [[
+Amidst the smoke and lurking danger,
+A blood-red sunset frames our intertwined silhouettes.
+The solace found in our joined hands
+Guides us through discord and haze, toward a new dawn.
+
+During the event, [c][ff7878]new UR Karmas are available for a limited time[-][/c] at the Gem Wish Tree!]]
     },
     [2] = {
       picture_name = "102.png",
-      title = "不归者的燎原",
-      rule_desc = "购买[c][ff7878]隐蔽消音器[-][/c]许愿送珍贵羁绊，活动羁绊[c][ff7878]获取概率UP[-][/c]！\n隐蔽消音器可用于在许愿树商店中兑换本期活动UP羁绊；\n活动结束后未消耗的隐蔽消音器将按照1:1的比例转换为心绽之花，活动结束后将通过邮件发放。\n\nP.S. 本次活动期间许愿不会获得心绽之花"
+      title = "Wildfire of the Forsaken",
+      rule_desc = [[
+Use [c][ff7878]Covert Silencers[-][/c] for wishes to earn valuable Karma, with [c][ff7878]increased drop rates[-][/c] for event Karma!
+Covert Silencers can be exchanged for the rate-up Karma in the Wish Tree Shop.
+Any unused Covert Silencers after the event will be converted to Heart Flowers at a 1:1 ratio and sent via mail.
+
+Please note: Heart Flowers cannot be obtained from wishes made during this event.]]
     },
     [3] = {
       picture_name = "103.png",
-      title = "不归者的燎原",
-      rule_desc = "活动期间，累计在钻石许愿树许愿达到指定次数，可在[c][ff7878]许愿礼单[-][/c]中领取奖励！\n累计次数达到[c][ff7878]72/144/216/288[-][/c]，分别可以领取一套[c][ff7878]男主服装[-][/c]，服装可在【去见他】中使用。\nP.S. 未及时领取的服装奖励，将在活动结束后通过邮件形式发放[c][ff7878]自选服装礼盒[-][/c]。"
+      title = "Wildfire of the Forsaken",
+      rule_desc = [[
+Make a total number of wishes at the Gem Wish Tree during the event to claim rewards from the [c][ff7878]Wish List[-][/c]!
+Reach [c][ff7878]72, 144, 216, and 288[-][/c] total wishes to receive a [c][ff7878]Male Lead's Outfit[-][/c] for each milestone. These outfits can be used in the [Go See Him] feature.
+Please note: Any unclaimed outfit rewards will be sent via mail after the event ends as an [c][ff7878]Outfit Giftbox[-][/c].]]
     },
     [4] = {
       picture_name = "104.png",
-      title = "不归者的燎原",
-      rule_desc = "制作人还可在同期礼包中获取[c][ff7878]硝烟许愿券[-][/c]。\n在【不归者的燎原】许愿树活动中可使用硝烟许愿券或星河许愿券许愿，优先消耗硝烟许愿券；\n本期活动结束后，硝烟许愿券将可保留至【不归者的燎原】活动首次复刻时继续使用，【不归者的燎原】活动进入循环许愿树后将不可再使用该许愿券。"
+      title = "Wildfire of the Forsaken",
+      rule_desc = [[
+[c][ff7878]Ember Wish Coupons[-][/c] are also available in special packs!
+You can use either Ember Wish Coupons or Galaxy Wish Coupons for wishes at the [Wildfire of the Forsaken] Wish Tree, with Ember Wish Coupons taking priority.
+After the event concludes, Ember Wish Coupons will be saved for the first rerun of [Wildfire of the Forsaken] and will expire once the event enters the standard Wish Tree cycle.]]
     }
   },
   [1508401] = {
@@ -3000,23 +3243,117 @@ During the event, [c][C74848]limited-time UR Karmas[-][/c] will be available at 
   [15086] = {
     [1] = {
       picture_name = "101.png",
-      title = "当我驶向你",
-      rule_desc = "城市绚烂，霓虹闪耀；\n夜与灯的华盖下，两颗心相交同频，\n机械的嗡鸣盖过午夜喧嚣，\n自耳畔落下甜蜜呢喃与喟叹。\n\n活动期间，钻石许愿树[c][C74848]限时上架全新UR羁绊[-][/c]！"
+      title = "Driven to You",
+      rule_desc = [[
+The city shimmers with neon hues, casting a brilliant kaleidoscope. Under the night's luminous glow, two hearts unite in perfect harmony.
+The hum of machinery rises, muffling midnight's restless whispers.
+In its wake, tender murmurs and wistful sighs settle gently by the ear.
+
+Enjoy new [c][C74848]Limited-time UR Karmas[-][/c] at the Gem Wish Tree during the event!]]
     },
     [2] = {
       picture_name = "102.png",
-      title = "当我驶向你",
-      rule_desc = "购买[c][C74848]午夜香氛[-][/c]许愿送珍贵羁绊，活动羁绊[c][C74848]获取概率UP[-][/c]！\n午夜香氛可用于在许愿树商店中兑换本期活动UP羁绊；\n活动结束后未消耗的午夜香氛将按照1:1的比例转换为心绽之花，活动结束后将通过邮件发放。\n\nP.S. 本次活动期间许愿不会获得心绽之花"
+      title = "Driven to You",
+      rule_desc = [[
+Buy [c][C74848]Midnight Fragrance[-][/c] to make wishes and get precious Karmas. Chances to receive an event Karma has been [c][C74848]increased[-][/c]!
+Midnight Fragrance can be used to redeem the featured Karmas at the Wish Tree Shop.
+Unused Midnight Fragrance will be converted into Heart Flowers at a ratio of 1:1 and sent by email upon the event's conclusion.
+
+Note: Heart Flowers cannot be obtained by making a wish in the event.]]
     },
     [3] = {
       picture_name = "103.png",
-      title = "当我驶向你",
-      rule_desc = "活动期间，累计在钻石许愿树许愿达到指定次数，可在[c][C74848]许愿礼单[-][/c]中领取奖励！\n累计次数达到[c][C74848]72/144/216/288[-][/c]，分别可以领取一套[c][C74848]男主服装[-][/c]，服装可在【去见他】中使用。\nP.S. 未及时领取的服装奖励，将在活动结束后通过邮件形式发放[c][C74848]自选服装礼盒[-][/c]。"
+      title = "Driven to You",
+      rule_desc = [[
+During the event, when your wishes at the Gem Wish Tree reach a certain amount, you can claim a corresponding reward in the [c][C74848]Wish List[-][/c]!
+Making [c][C74848]72/144/216/288[-][/c] wishes respectively will unlock a corresponding [c][C74848]outfit for him[-][/c] that can be used at [Go See Him].
+Note: Unclaimed outfit rewards will be converted into an [c][C74848]Outfit Giftbox[-][/c] that will be sent to you via mail after the event.]]
     },
     [4] = {
       picture_name = "104.png",
-      title = "当我驶向你",
-      rule_desc = "制作人可在本次【当我驶向你】许愿树复刻活动中继续使用超速许愿券。\n在本次许愿树活动中可使用超速许愿券或星河许愿券许愿，优先消耗超速许愿券；\n本期活动结束后，超速许愿券将不会继续保留，【当我驶向你】活动进入循环许愿树后将不可再使用该许愿券。"
+      title = "Driven to You",
+      rule_desc = [[
+If you own any, these will be used in place of Galaxy Wish Coupons when wishing at the [Driven to You] Wish Tree.
+When the event ends, any remaining Speeding Time Wish Coupons will be kept until the event's first rerun when they can be used again. Speeding Wish Coupons cannot be used on any subsequent reruns of the [Driven to You] event.]]
+    }
+  },
+  [15088] = {
+    [1] = {
+      picture_name = "101.png",
+      title = "Original Sin",
+      rule_desc = [[
+                      The iron gates slam shut, reducing freedom to ashes.
+                       From this moment on, the stage belongs to those who defy the line.
+                       Temptation, resistance, and whispers of rebellion.
+           Two souls drawn to each other, wandering together in the shadow of rules.
+
+Enjoy new [c][ffb658]Limited-time SSR Karmas[-][/c] at the Gem Wish Tree during the event!]]
+    },
+    [2] = {
+      picture_name = "102.png",
+      title = "Event Exclusive Item",
+      rule_desc = [[
+Buy [c][ffb658]Special Chokers[-][/c] to make wishes and get precious Karmas. Chances to receive an event Karma have been [c][ffb658]increased[-][/c]!
+Special Chokers can be used to redeem the featured Karmas at the Wish Tree Shop.
+Unused Special Chokers will be converted into Heart Flowers at a ratio of 1:1 and sent by email upon the event's conclusion.
+
+Note: Heart Flowers cannot be obtained by making a wish in the event.]]
+    },
+    [3] = {
+      picture_name = "103.png",
+      title = "Wish List",
+      rule_desc = [[
+During the event, when your wishes at the Gem Wish Tree reach a certain amount, you can claim a corresponding reward in the [c][ffb658]Wish List[-][/c]!
+Making [c][ffb658]72/144/216/288[-][/c] wishes respectively will unlock a corresponding [c][ffb658]male protagonist outfit[-][/c] that can be used at [Go See Him].
+Note: Unclaimed outfit rewards will be converted into an [c][ffb658]Outfit Giftbox[-][/c] that will be sent to you via mail after the event.]]
+    },
+    [4] = {
+      picture_name = "104.png",
+      title = "Original Sin",
+      rule_desc = [[
+Gift Packs during the event will also contain [c][ffb658]Restricted Zone Wish Coupons[-][/c].
+If you own any, these will be used in place of Galaxy Wish Coupons when wishing at the [Original Sin] Wish Tree.
+When the event ends, any remaining Restricted Zone Wish Coupons will be kept.]]
+    }
+  },
+  [15100] = {
+    [1] = {
+      picture_name = "101.png",
+      title = "Across the Sea",
+      rule_desc = [[
+The tide breathes in hushed ripples, beneath the tender shimmer of summer's glow.
+Sunlight scatters across the sea, surrounding you in its golden embrace.
+The heartbeat is a note in the symphony of love, with the kiss as its crescendo.
+Fiercer than the crashing surf, sweeter than the fevered longing of a midsummer dream.
+
+Enjoy new [c][C74848]Limited-time SP Karmas[-][/c] at the Gem Wish Tree during the event!]],
+      alignment = 2
+    },
+    [2] = {
+      picture_name = "102.png",
+      title = "Event Exclusive Item",
+      rule_desc = [[
+Buy [c][C74848]Seaside Polaroids[-][/c] to make wishes and get precious Karmas. Chances to receive an event Karma has been [c][C74848]increased[-][/c]!
+Seaside Polaroids can be used to redeem the featured Karmas at the Wish Tree Shop.
+Unused Seaside Polaroids will be converted into Heart Flowers at a ratio of 1:1 and sent by email upon the event's conclusion.
+
+Note: Heart Flowers cannot be obtained by making a wish in the event.]]
+    },
+    [3] = {
+      picture_name = "103.png",
+      title = "Wish List",
+      rule_desc = [[
+During the event, when your wishes at the Gem Wish Tree reach a certain amount, you can claim a corresponding reward in the [c][C74848]Wish List[-][/c]!
+Making [c][C74848]72/144/216/288[-][/c] wishes respectively will unlock a corresponding [c][C74848]male protagonist outfit[-][/c] that can be used at [Go See Him].
+Note: Unclaimed outfit rewards will be converted into an [c][C74848]Outfit Giftbox[-][/c] that will be sent to you via mail after the event.]]
+    },
+    [4] = {
+      picture_name = "104.png",
+      title = "Heart Wave Wish Coupon",
+      rule_desc = [[
+Gift Packs during the event will also contain [c][C74848]Heart Wave Wish Coupons[-][/c] that be used in place of Galaxy Wish Coupons.
+When you make a wish during the [Across the Sea] event, Heart Wave Wish Coupons will be used up first.
+When the event ends, any remaining Heart Wave Wish Coupons will be kept until the event's first rerun when they can be used again. Heart Wave Wish Coupons cannot be used on any subsequent reruns of the [Across the Sea] event.]]
     }
   },
   [30601] = {
@@ -3767,20 +4104,38 @@ Plays already collected can be replayed by tapping the Play button under the com
   [9202001] = {
     [1] = {
       picture_name = "101.png",
-      title = "组合剧目",
-      rule_desc = "       活动期间，可在梦剧场中[c][C74848]组合搭配[-][/c]流光碎片，触发小剧场，观看剧情。\n\n       一个类别下只能选择一个碎片，部分碎片需要通过触发[c][C74848]特定组合[-][/c]，观看完剧情后获得。\n\n       当选中碎片时，与此碎片有剧情组合关联的所有碎片将会亮起，帮助搭配出正确的组合。\n\n       一共有[c][C74848]15个剧目[-][/c]和[c][C74848]1段童年往事[-][/c]来等你来探索，除了小剧场以外，一些搭配可能还会有[c][C74848]小絮语[-][/c]出现哦，请多多尝试吧~\n"
+      title = "Combination Plays",
+      rule_desc = [[
+During the event, you can [c][C74848]combine and match[-][/c] Radiant Props in the Dream Theater to trigger short plays and watch the story unfold.
+
+You can only select one prop per category. Some props require [c][C74848]specific combinations[-][/c] and the completion of watching its plot to obtain.
+
+When you select a Prop, all Props with story connections to it will light up, helping you find the correct combination.
+
+There are [c][C74848]15 plays[-][/c] and [c][C74848]1 childhood event[-][/c] waiting for you to explore. In addition to the short plays, some combinations may also trigger [c][C74848]Secret Whisper[-][/c], so be sure to experiment!
+]]
     },
     [2] = {
       picture_name = "102.png",
-      title = "解锁图鉴",
-      rule_desc = "       在图鉴中，当收集齐剧目所需碎片后，可直接点击播放按钮快速组装； \n  \n       小剧场闭幕后，图鉴中对应剧目会被显示；\n\n       已经收集到的剧目，点击组合图标下的播放按钮即可回看小剧场。"
+      title = "Unlock Collection",
+      rule_desc = [[
+Inside the collection log, once you've collected all the props required for the play, you can quickly combine them by tapping on the Play button. 
+  
+After a play ends, its title will be displayed in the collection log.
+
+Plays already collected can be replayed by tapping the Play button under the combination icon.]]
     }
   },
   [9202101] = {
     [1] = {
       picture_name = "101.png",
-      title = "纸条问答",
-      rule_desc = "       活动期间，可在纸条问答界面中[c][C74848]抽取[-][/c]问答纸条，和他一起讨论。\n\n       在送出立体书之前，部分问答会给你带来[c][C74848]装饰立体书[-][/c]的灵感，获得后将直接出现在立体书中；[c][C74848]一旦送出[-][/c]立体书，立体书的内容就[c][C74848]不会再变化[-][/c]了。\n\n       问答纸条按天解锁，每天解锁5个，共计25个问题。全部抽取并阅读完毕后，还可以从[c][C74848]他的视角[-][/c]阅读一段故事。"
+      title = "Note Q&A",
+      rule_desc = [[
+During the event, you can [c][C74848]draw[-][/c] Q&A notes and share adorable conversations with him.
+
+Before giving him the pop-up book, some notes will give you inspiration for new [c][C74848]pop-up book decorations[-][/c]. Once obtained, these will immediately appear in the pop-up book. Please note that [c][C74848]once you give him[-][/c] the pop-up book, the content of it will [c][C74848]no longer change[-][/c].
+
+5 notes will unlock every day, including a total of 25 questions. Once all of them have been read, you also get to enjoy a story from [c][C74848]his perspective[-][/c].]]
     }
   },
   [96001] = {

@@ -12663,57 +12663,84 @@ He chewed thoughtfully on a sweet bite of cake, then looked up, face solemn with
   [92020] = {
     [4201] = {
       [1] = {
-        extrastory_title = "初雪之愿",
+        extrastory_title = "First Snow Wish",
         beijing = "Bg/1713.png",
-        sentence = "恋语市已至深秋，初雪还尚未到来。\n\n坐在书桌前的小男孩正翻看着一本厚厚的科学杂志，偶尔抬头望向窗外的寒冷天色。这个时间，爸爸妈妈应该快要回来了吧。\n\n似乎是印证着他的直觉，他很快就听到楼下传来了门锁转动的声音。男孩的眼睛一下子亮了起来，冲出房间，从楼梯上蹦跳着跑下来，看到爸爸和妈妈正在玄关脱下外套。爸爸手里拿着一盒录像带，妈妈则提着一个蛋糕盒。",
+        sentence = [[
+It was late autumn in Loveland City, but this year, it hadn't snowed yet.
+The boy sitting in front of a desk was flipping through a large science magazine and looking up at the sky outside from time to time. Mom and Dad should be home soon.
+As if answering to his thought, a click of the door lock came from downstairs. The boy's eyes lit up. He darted out of the room and bounced down the stairs to see his mom and dad taking off their coats by the door. His dad had a videotape in his hand while his mom was holding a birthday cake box.]],
         music = "30_WarmSnow"
       },
       [2] = {
-        extrastory_title = "初雪之愿",
+        extrastory_title = "First Snow Wish",
         beijing = "Bg/1673.png",
-        sentence = "“宝贝，生日快乐！我和爸爸带了一部电影录像带，感觉你肯定会喜欢！要不要一起看？”妈妈一边将外套挂好，一边笑着牵过男孩的手。\n\n“除了蛋糕——”爸爸神秘地眨了眨眼睛：“我今天还准备露一手，给你和妈妈做一顿大餐。”\n\n客厅里，电视机发出轻微的嗡嗡声。妈妈仔细调整着录像机，确保画面清晰。爸爸则把男孩抱到沙发上，细心地为他盖上一条毛毯。\n\n录像带转动着，屏幕上出现了一座被白雪覆盖的古堡。男孩坐在父母中间，小手捧着热气腾腾的饺子，全神贯注地看着银幕上的故事。",
+        sentence = "\"Honey, happy birthday! Dad and I brought you a movie. We think you'd like it. Should we watch it together?\" Mom hung up her coat and took the boy's hand with a smile.\n\"Besides the cake—\" Dad winked mysteriously, \"I'm going to make a big dinner for you and Mom tonight.\"\nIn the living room, the television buzzed as the boy's mom carefully adjusted the videotape player to make sure the footage was clear. His dad carried him to the sofa and wrapped a blanket around him.\nAs the videotape ran, a snow-covered castle appeared on screen. The boy sat between his parents and held a bowl of dumplings with his eyes fixed on the screen.",
         music = "30_WarmSnow"
       },
       [3] = {
-        extrastory_title = "初雪之愿",
+        extrastory_title = "First Snow Wish",
         beijing = "Bg/1673.png",
-        sentence = "发明家在他的城堡里创造着各种奇妙的机器，有会飞的自行车，会说话的茶壶，还有一台可以制造彩虹的机器。男孩看着这些千奇百怪的发明，眼睛睁得大大的。\n\n“爸爸妈妈，你们的实验室在将来也能做出这样神奇的东西吗？”\n\n爸爸开朗地笑了起来，“科学的魅力就在于，它能让看似不可能的事情变成可能。就像电影里的发明家一样，我们也在追寻着新的发现。”\n“但更神奇的地方在于……儿子你喜欢什么，爸爸妈妈就会努力把它变成现实。”",
+        sentence = [[
+An inventor created all kinds of magical machines in his castle, from flying bicycles, a talking teapot, to a machine that made rainbows. The boy stared at these curious inventions with his eyes wide open.
+"Dad, Mom, will you be making things like these at your lab one day?"
+His dad laughed out loud, "The beauty of science is that it makes the impossible possible. Like the inventor in the movie, we are also looking for new discoveries."
+"But tell you what, son... whatever you like, Mom and Dad will try our best to make it a reality."]],
         music = "30_WarmSnow"
       },
       [4] = {
-        extrastory_title = "初雪之愿",
+        extrastory_title = "First Snow Wish",
         beijing = "Bg/1673.png",
-        sentence = "男孩有些怀疑地挑了挑眉，却并没有急着提出心里的疑问，然而他的神情却被妈妈敏锐地捕捉到，头发上传来了妈妈手掌带来的轻柔触感。\n“宝贝，不论科学还是生活，一切的源动力都是最朴素的‘爱’。”\n\n不知不觉中，画面中的小镇下起了雪，电影也迎来了尾声。男孩心满意足地看向爸爸妈妈，眼角却瞥见了窗外一片片飞落的新白。\n是今年的第一场雪。\n\n“我们出去看看吧，正好可以堆个雪人~”男孩还没有开口，妈妈就看穿了他的心思，冲爸爸使了个眼色。",
+        sentence = [[
+The boy raised his eyebrows skeptically but didn't voice his question. Still, his mom caught the fleeting look of doubt and gently patted him on the head.
+"Honey, whether in science or life, it's always love that drives us forward."
+Soon, snow was falling in the little town on screen as the movie neared its end. The boy looked happily at his mom and dad and caught a glimpse of the whiteness outside the window.
+It was the first snow of the year.
+"Let's go out! We can build a snowman together." Before the boy could speak, his mom saw him through and winked at his dad.]],
         music = "30_WarmSnow"
       },
       [5] = {
-        extrastory_title = "初雪之愿",
+        extrastory_title = "First Snow Wish",
         beijing = "Bg/1723.png",
-        sentence = "于是爸爸立刻起身找出了三个人的围巾手套，先是仔细地给男孩戴好帽子，系好围巾，又替妈妈围上她最爱的那条暖色围巾。三人穿戴整齐后，兴致勃勃地走出家门。\n\n庭院里已经积了薄薄的一层白雪，在路灯的照耀下闪着微光。男孩迫不及待地跑到院子里，伸出小手接住飘落的雪花，看着它们在掌心悄悄融化，发出惊喜的笑声。\n\n爸爸蹲下身，开始堆起一个小小的雪人。“来，我们一起给它堆个大肚子。”男孩和妈妈也加入进来，三人配合默契：爸爸负责堆主体，妈妈负责修整形状，男孩则专门负责给雪人“打扮”。",
+        sentence = [[
+The boy's dad gathered scarves and gloves for the three of them. First, he put a warm hat on the boy's head and tied a scarf around his neck, before helping the mom with her favorite warm-colored scarf. All geared up, the family stepped into the snow with excitement.
+A thin layer of snow had blanketed the front yard, glistening in the street lights. The boy darted to the yard, reached out to catch the snowflakes, watched, and chuckled cheerfully as they melted in his palms.
+His dad crouched down and started building a small snowman. "Let's build a big belly for it." Then, the boy and his mom joined him: As his dad piled up snow for the body, his mom sculpted the shape, and the boy adorned the snowman.]],
         music = "30_WarmSnow"
       },
       [6] = {
-        extrastory_title = "初雪之愿",
+        extrastory_title = "First Snow Wish",
         beijing = "Bg/1723.png",
-        sentence = "“它的眼睛要用这个！”男孩捡起两颗小石子，郑重其事地按在雪人脸上。\n\n“那鼻子呢？”妈妈问道。\n\n“胡萝卜怎么样？就像电影里那样。”\n\n爸爸立刻跑回家拿来一根胡萝卜，还顺手带出了一顶自己的旧帽子。似乎只要是男孩的设想，他们就会努力帮他在现实中实现。\n\n“嗯……它还需要一个实验室外套，这样看起来就像那个电影里的发明家了。”男孩颇为认真地打量着雪人，就看见妈妈忍俊不禁地解下自己的围巾，细心地围在雪人脖子上。",
+        sentence = [[
+"Let's use these for its eyes!" The boy picked up two pebbles and carefully pushed them onto the snowman's face.
+"What about its nose?" His mom asked.
+"A carrot? Like in the movie."
+His dad ran back home and fetched a carrot and an old hat for himself. It seemed that whatever idea the boy came up with, they'd do anything to make it a reality.
+"Hmm, it needs a lab coat, too, to look like the inventor from the movie." Amused by the boy studying the snowman with such seriousness, his mom took off her scarf and wrapped it around the snowman's shoulders.]],
         music = "30_WarmSnow"
       },
       [7] = {
-        extrastory_title = "初雪之愿",
+        extrastory_title = "First Snow Wish",
         beijing = "Bg/1723.png",
-        sentence = "夜幕低垂，雪花依然在静静飘落。雪人戴着爸爸的帽子，围着妈妈的围巾，孤独地伫立在雪地里。男孩想起电影里那座偌大的城堡，想起发明家独自一人在实验室中忙碌的身影。\n\n他的心底忽然涌现出了一个小小的希望。如果自己长大后也许能住进那样的地方，四周都是奇妙的发明，窗外总能看到雪，该有多好。当然，也要让爸爸妈妈住进来，把最大最漂亮的研发室留给他们，这样爸爸妈妈就可以不用去实验室了。",
+        sentence = [[
+As the night darkened, snow continued to drift down in silence. Seeing the snowman standing alone in the snow with his dad's hat and his mom's scarf, the boy thought of the huge castle in the movie and the inventor busy working in his lab alone.
+A little dream suddenly came to him. It would be nice if he could one day live in a castle like that, surrounded by magical inventions, where he could always see snow. Of course, his mom and dad would move in with him and take the biggest and most beautiful room for their research, so they wouldn't have to go to the lab again.]],
         music = "30_WarmSnow"
       },
       [8] = {
-        extrastory_title = "初雪之愿",
+        extrastory_title = "First Snow Wish",
         beijing = "Bg/1723.png",
-        sentence = "男孩想着，眼神慢慢亮了起来。到时候，他要发明一台能让爸爸妈妈轻松的机器，让他们不要那么忙，可以有更多的时间和他一起。\n\n不过，如果和爸爸妈妈一样，当一名科学家，不仅能去探索这个世界上的更多未知，还能成为像他们那样厉害的人，帮他们解决工作上的难题。",
+        sentence = [[
+The boy thought as his eyes lit up. Then, he would invent a machine to assist his parents in their work, so they would have more time to be with him.
+But, if he became a scientist like his parents, he could not only explore more mysteries in the world, but also help them solve problems at work.]],
         music = "30_WarmSnow"
       },
       [9] = {
-        extrastory_title = "初雪之愿",
+        extrastory_title = "First Snow Wish",
         beijing = "Bg/1723.png",
-        sentence = "皎洁的月光映照着庭院里的积雪，雪人的影子在雪地上拉得很长很长。男孩仰头看着纷纷扬扬的雪花，觉得它们像是天上洒落的糖霜。\n\n于是他用手套接住一些糖霜，向爸爸妈妈跑去。虽然还没有决定好自己的梦想，但这一刻的感觉，他想要永远留在心里。\n\n因为比所有梦想都更珍贵的，是这个飘雪的夜晚，是爸爸妈妈的笑容，是属于他们三个人的小小世界。",
+        sentence = [[
+The clear moon shone on the front yard and cast a long shadow of the snowman. The boy looked up at the snow drifting from the sky like the icing on a cake.
+So, he reached out to catch some of the icing with his gloves and ran toward his parents. He hadn't made up his mind about his dream, but this moment would forever be treasured in his heart.
+Because what was more precious than any dreams were the snowy night, the smiles on his parents' faces, and a world that belonged to the three of them.]],
         music = "30_WarmSnow"
       }
     }
@@ -12721,51 +12748,74 @@ He chewed thoughtfully on a sweet bite of cake, then looked up, face solemn with
   [92021] = {
     [4301] = {
       [1] = {
-        extrastory_title = "今天过得好吗",
+        extrastory_title = "How Was Your Day?",
         beijing = "Bg/4969.png",
-        sentence = "入夜的时候，李泽言收到了一封久违的邮件。盯着发件人的那一栏看了良久，他弯了弯唇角。对于母亲不定期的来信，李泽言一向等得很心安。能收到问候的生日自然很好，但其他的日子，他也从没有一瞬觉得她的祝福缺席。\n\n不过从今天下午开始，他便冥冥中有种强烈的感觉，她的问候会如期抵达。\n\n李泽言打开了邮件，映入眼帘的果然是熟悉的祝福“言言，生日快乐！”\n\n他继续往下看。比起以往，这封信不太一样，她说起写信的那日她是如何度过的——",
+        sentence = [[
+As night fell, Victor received a long-awaited email. His gaze lingered on the sender's name for a while, and a faint smile curled on his lips. His mother's letters come once in a while. It was nice to receive birthday greetings from her, but even on ordinary days, he never once felt that her blessings were missing.
+Still, from earlier that afternoon, he'd been overcome with a quiet certainty: her message would arrive right on time.
+When he opened the email, it began, as expected, with a familiar line: "Happy birthday, Vic!"
+He continued reading. This letter felt different from her usual ones. It was about the day she penned the letter.]],
         music = "111_LZY_Birthday_2025"
       },
       [2] = {
-        extrastory_title = "今天过得好吗",
+        extrastory_title = "How Was Your Day?",
         beijing = "Bg/4969.png",
-        sentence = "火车罢工了，妈妈此刻正暂时滞留在……说实话，我也不知道这是哪里。\n\n列车里有点冷，很多人都在抱怨这里是Nowhere，但边上的一位奶奶悄悄和我说，Nowhere是now here的意思。我觉得很有意思。\n\n窗外的金合欢开了大片，手里的热可可很香甜，当下的这个时刻，明明一切都很好。\n\n但我还想更快乐一点，于是拿出笔给你写信。\n\n毕竟，只要一想到世界上有你的存在，妈妈就觉得一切都再美好不过。\n\n你呢，今天过得怎么样？",
+        sentence = [[
+The train broke down, and now I'm temporarily stranded at... Honestly, I don't even know where I am.
+It's a bit cold in the carriage. Many passengers are complaining that we're in the middle of nowhere, but the elderly lady beside me said that "nowhere" is just another way of saying "now here." I thought that was quite clever.
+Outside the window, the acacias are in full bloom. The hot cocoa in my hands is sweet and fragrant. In this moment, everything feels just right.
+But I wanted to feel a little more joyful, so I picked up my pen and began writing to you.
+After all, just the thought of your presence in this world makes everything feel more beautiful.
+And you? How was your day?]],
         music = "111_LZY_Birthday_2025"
       },
       [3] = {
-        extrastory_title = "今天过得好吗",
+        extrastory_title = "How Was Your Day?",
         beijing = "Bg/4969.png",
-        sentence = "看着最后那一行字，有些不曾走远的记忆慢慢浮现在李泽言的脑海。\n\n幼时放学时，等在校门口的母亲也用这样的问候迎他回家。\n\n但大多数时候的生活总是平静，他的回答也总是简短。\n\n明明当时只觉得是每日都会发生的、再寻常不过的事，现在回想起来多少有些慨然。",
+        sentence = [[
+That last line stirred a memory in Victor, gently letting it surface in his mind.
+When he was a boy, his mother would pick him up at the school gate and ask him the same question.
+Most days, life was quiet and unremarkable, and his replies were always short and simple.
+Back then, it felt like nothing more than a part of the daily routine. But now, looking back, those moments carried a quiet weight, a tenderness he hadn't noticed before.]],
         music = "111_LZY_Birthday_2025"
       },
       [4] = {
-        extrastory_title = "今天过得好吗",
+        extrastory_title = "How Was Your Day?",
         beijing = "Bg/4601.png",
-        sentence = "李泽言走向了阳台。\n\n绵绵的海风和无尽的夜色笼住了他，像是世界送来的拥抱，而以万物为名的那份牵挂，也在这个拥抱里如期抵达。\n\n今夜的夜空格外低，低到像是可以听清人间的所有呢喃。\n\n这么想着，李泽言格外认真地望向天际。",
+        sentence = "Victor stepped onto the balcony.\nThe sea breeze wrapped softly around him, the vast night sky stretching endlessly ahead—like an embrace offered by the world itself.\nTonight, the sky felt as if it were hanging lower, as if it were leaning in to listen to every hushed whisper.\nWith that thought, Victor looked out toward the horizon with a rare seriousness.",
         music = "111_LZY_Birthday_2025"
       },
       [5] = {
-        extrastory_title = "今天过得好吗",
+        extrastory_title = "How Was Your Day?",
         beijing = "Bg/4601.png",
-        sentence = "我和$u正在欧洲旅行。\n\n今天明明才是当地时间的12号，但托她的福，我的生日已经提前开始了。\n\n也不知道她是什么时候和爸还有姑姑串通好的，让他们在恋语市的13日零点拨来了一通视频电话，又是唱生日歌，又是隔空吹蜡烛……\n\n你知道的，她一向招人喜欢。有她在的地方，大家总是很高兴，也总有很多话说。\n\n爸和姑姑兴致很好地陪她一起闹了很久。",
+        sentence = [[
+$u and I are traveling through Europe.
+It's only the 12th here, but thanks to her, we're already celebrating my birthday.
+I don't know when she plotted this with Dad and Aunt, but they called me in Loveland City at midnight on the 13th. They sang happy birthday, pretended to blow out candles through the screen...
+You know how she's a doll. Wherever she goes, people are drawn to her. Joy follows her like a shadow, and conversations never seem to end.
+Dad and Aunt were happy to join in her antics. They stayed up laughing and playing along for quite a while.]],
         music = "111_LZY_Birthday_2025"
       },
       [6] = {
-        extrastory_title = "今天过得好吗",
+        extrastory_title = "How Was Your Day?",
         beijing = "Bg/4601.png",
-        sentence = "现在想想，应该就是在那个时候，我隐约预感到今年会收到你的邮件。\n\n毕竟像这样，所有祝福都来到我身边的时刻，你一定不会缺席。\n\n我今天过得很好。\n收到了你和爸的问候，所以更好了。",
+        sentence = [[
+Thinking back, it was probably in that moment that I had a hunch you'd send a letter this year.
+Whenever it felt like the whole world came together for me, you'd always be there too.
+Today was a good day.
+And because I received greetings from you and Dad, it became even better.]],
         music = "111_LZY_Birthday_2025"
       },
       [7] = {
-        extrastory_title = "今天过得好吗",
+        extrastory_title = "How Was Your Day?",
         beijing = "Bg/4601.png",
-        sentence = "李泽言望着天际良久，夜色也愈发深了。\n\n这时，房间里的窸窣响动让他收回了思绪。\n\n看着女孩蹑手蹑脚地起了床，又喊醒了猫窝里的布丁，再从行李箱里拿出了两支礼花棒的时候，他几乎下意识就知道了她的意图，看来在当地时间的生日零点，他又会接受到一波来自她的祝福。\n\n这么想着，他又忍不住笑了。",
+        sentence = "Victor stood in silence, gazing into the deepening night.\nBut a soft rustling sound from the room pulled him back to the present.\nHe turned and saw the girl tiptoeing out of bed. She gently woke Pudding, who was curled up in the cat bed, then rummaged through her suitcase to pull out two party poppers. In that moment, he instinctively understood her plan—at the stroke of midnight, local time, she would shower him with another round of birthday surprises.\nThe thought made him smile again.",
         music = "111_LZY_Birthday_2025"
       },
       [8] = {
-        extrastory_title = "今天过得好吗",
+        extrastory_title = "How Was Your Day?",
         beijing = "Bg/4601.png",
-        sentence = "果然，女孩看着已经走到了23时55分的挂钟，开始满屋子寻找自己的身影。\n\n他正打算往房间里迈步，却忽而想到方才给母亲的回答并不完整——\n\n只要有女孩在，他就确信，自己的每一个今天都会比前一天更好。\n\n不过他知道，即便什么都不说，女孩的爱也早已昭然到世间万物都知晓。",
+        sentence = "Sure enough, she glanced at the clock—11:55 PM—and began searching around the room for him.\nJust as he was about to step inside, he paused. He realized he hadn't finished his reply to his mother.\nAs long as this girl was by his side, he knew, with absolute certainty, that every day would be better than the last.\nAnd even if he never said a word, her love was already so apparent that it seemed the whole world had long since taken notice.",
         music = "111_LZY_Birthday_2025"
       }
     }

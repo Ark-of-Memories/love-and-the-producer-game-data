@@ -352,5 +352,133 @@ data = {
       dialog_Y = 214,
       guide_content = "活动开始后，[c][ee9eb3]历史最高[-][/c]的觅宝成果会被记录在活动主界面，和他一起收集更多稀有贝壳吧~"
     }
+  },
+  [142003] = {
+    [1] = {
+      guide_type = 2,
+      condition = "ClickPlayGameGuide",
+      target = "content/views/normalView/bottom/btnPlayGame/goGuide",
+      tap_condition = "tap",
+      dialog_X = -268,
+      dialog_Y = 231,
+      guide_content = "点击按钮开始[觅宝]，每日5:00会刷新一次有[c][ee9eb3]浩海珍藏[-][/c]的地图。"
+    },
+    [2] = {
+      guide_type = 4,
+      condition = "FingerMoveTipGuide",
+      target = "content/gameMapView/goGuides/fingerMoveGuide",
+      tap_condition = "tap",
+      dialog_X = 0,
+      dialog_Y = 630,
+      guide_content = "[c][ee9eb3]左右滑动[-][/c]控制和他所在的海路。"
+    },
+    [3] = {
+      guide_type = 5,
+      condition = "JewelCollectPicTipGuide",
+      pre_guide_tag = "FingerMoveTipGuide",
+      target = "content/gameMapView/goGuides/jewelCollectPicTipGuide",
+      tap_condition = "tap",
+      dialog_X = 0,
+      dialog_Y = 214,
+      guide_sprite_name = "item_jewel",
+      guide_content = "每天收集完[c][ee9eb3]3颗浩海珍藏[-][/c]，即可解锁当天的观察手册和每日随记。"
+    },
+    [4] = {
+      guide_type = 5,
+      condition = "VortexPicTipGuide",
+      pre_guide_tag = "JewelCollectPicTipGuide",
+      target = "content/gameMapView/goGuides/vortexPicTipGuide",
+      tap_condition = "tap",
+      dialog_X = 0,
+      dialog_Y = 214,
+      tip_bg_style = 2,
+      guide_sprite_name = "item_vortex",
+      guide_content = "碰到[c][ee9eb3]漩涡[-][/c]会被视作陷落1次，陷落次数达到3次时，当前觅宝会自动结束。"
+    },
+    [5] = {
+      guide_type = 5,
+      condition = "StartGameTipGuide",
+      pre_guide_tag = "VortexPicTipGuide",
+      target = "content/gameMapView/goGuides/vortexPicTipGuide",
+      tap_condition = "tap",
+      dialog_X = 0,
+      dialog_Y = 214,
+      guide_content = "活动开始后，[c][ee9eb3]历史最高[-][/c]的觅宝成果会被记录在活动主界面，和他一起收集更多稀有贝壳吧~"
+    }
+  },
+  [144001] = {
+    [1] = {
+      guide_type = 2,
+      condition = "CheckIn",
+      target = "center/guideRoot",
+      tap_condition = "tap",
+      dialog_X = -268,
+      dialog_Y = 231,
+      guide_content = [[
+Tap [Check In] to unlock the day's schedule.
+At 05:00 each day, you will receive 1 [c][ffb658]Access Pass[-][/c].]]
+    },
+    [2] = {
+      guide_type = 2,
+      condition = "IdentityVerfication",
+      target = "center/guideRoot",
+      tap_condition = "tap",
+      dialog_X = 0,
+      dialog_Y = 630,
+      guide_content = "Press and hold to complete the [c][ffb658][Identity Verification][-][/c]."
+    },
+    [3] = {
+      guide_type = 2,
+      condition = "SchedulePrompt",
+      target = "center/guideRoot",
+      tap_condition = "tap",
+      dialog_X = 0,
+      dialog_Y = 214,
+      guide_content = "Tap on [c][ffb658][Start Schedule][-][/c]."
+    },
+    [4] = {
+      guide_type = 2,
+      condition = "StartAction",
+      target = "content/bottom/guideRoot",
+      tap_condition = "tap",
+      dialog_X = 0,
+      dialog_Y = 214,
+      guide_content = [[
+Tap [c][ffb658][Proceed][-][/c]
+to travel to the location indicated by the terminal.]]
+    },
+    [5] = {
+      guide_type = 2,
+      condition = "EndDay",
+      target = "content/center/guideRoot",
+      tap_condition = "tap",
+      dialog_X = 0,
+      dialog_Y = 630,
+      guide_content = [[
+Tap [End Schedule] to collect a [c][ffb658]Secret Note[-][/c].
+Secret Notes can be exchanged for rewards.]]
+    },
+    [6] = {
+      guide_type = 2,
+      condition = "FastFinish",
+      target = "center/guideRoot1",
+      tap_condition = "tap",
+      dialog_X = 0,
+      dialog_Y = 214,
+      guide_content = [[
+Tap [Quick Move]
+to trade Stamina for [c][ffb658]Secret Notes[-][/c].]]
+    },
+    [7] = {
+      guide_type = 2,
+      condition = "ExchangeShop",
+      target = "center/guideRoot2",
+      tap_condition = "tap",
+      dialog_X = 0,
+      dialog_Y = 214,
+      guide_content = [[
+Tap to visit the [c][ffb658][Contraband Exchange Depot][-][/c]
+to redeem Secret Notes for rewards.]]
+    }
   }
 }

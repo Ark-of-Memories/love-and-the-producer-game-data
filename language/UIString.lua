@@ -2859,10 +2859,12 @@ Evolve materials will be obtained first]]
   SeaSideMalePanel = {
     ["rank/1/spgray/Label"] = "Not available",
     ["rank/2/spgray/Label"] = "Not available",
-    ["rank/3/spgray/Label"] = "Not available"
+    ["rank/3/spgray/Label"] = "Not available",
+    ["prefab/got/Label"] = "Claimed"
   },
   SeaSideAlbumPanel = {
-    ["panel/prefab/Label"] = "Review"
+    ["panel/prefab/Label"] = "Review",
+    ["panel/prefab/button/Label"] = "Review"
   },
   SeaSideBuffPanel = {
     ["BG/title_01"] = "My Secret Weapon"
@@ -5197,7 +5199,9 @@ Dear customer:
     ["content/downAnchor/ten/numDesc"] = "5 Shots",
     ["content/downAnchor/opport/non/desc"] = "No opportunities for now.",
     ["content/downAnchor/opport/non/proptDesc"] = "Revel      more time(s) to trigger an event.",
-    ["content/downAnchor/opport/own/desc"] = "Current Opportunity"
+    ["content/downAnchor/opport/own/desc"] = "Current Opportunity",
+    ["content/center/one/numDesc"] = "Extract 1 time",
+    ["content/center/ten/numDesc"] = "Extract 5 times"
   },
   ChineseQixiFestivalMainPanel = {
     ["content/bottomAnchor/opport/opprtunity/opprtitle"] = "Current Opportunity:",
@@ -5237,7 +5241,8 @@ Dear customer:
     ["btnBuyConfirm/lblConfirm"] = "Confirm",
     ["NumBuy/countNode/lbl"] = "Buy",
     ["btnCancle/lblConfirm"] = "Cancel",
-    tips = "*Tap anywhere in the blank area to close"
+    tips = "*Tap anywhere in the blank area to close",
+    title = "Purchase"
   },
   ChineseQixiFestivalSpecialEventPanel = {
     lblToggleTitle1 = "Special Event"
@@ -5276,7 +5281,11 @@ Dear customer:
     ["goTop/btnShop/desc"] = "Redeem",
     ["goTop/btnFirstShare/desc"] = "Share",
     ["goTop/btnFirstShare/spr/desc"] = "send",
-    ["goTop/btnShare/desc"] = "Share"
+    ["goTop/btnShare/desc"] = "Share",
+    ["draw/bottom/content/btnOnce/price/lblStatic"] = "Cost:",
+    ["draw/bottom/content/btnOnce/free/lblStatic"] = "Free Time:",
+    ["draw/bottom/content/btnTen/price/lblStatic"] = "Cost:",
+    ["goBottom/activityTime/lblTime2"] = "5:00"
   },
   LzyXm2SRPublishPanel = {
     ["goContent/texBg/desc"] = "Share Romance",
@@ -5481,6 +5490,16 @@ Event]]
     lblTips = "*Can be opened later at [Custom Pack] on the main screen"
   },
   MainlineCardSelectPanel = {
+    ["btnGroup/node1/lblTitle"] = "Vol.2",
+    ["btnGroup/node1/lblTitle2"] = "The Dark Forest",
+    ["btnGroup/node2/lblTitle"] = "Vol.3",
+    ["btnGroup/node2/lblTitle2"] = "Hunting Zone",
+    ["btnGroup/node3/lblTitle"] = "Vol.5",
+    ["btnGroup/node3/lblTitle2"] = "Isolated City",
+    ["btnGroup/node4/lblTitle"] = "Vol.7",
+    ["btnGroup/node4/lblTitle2"] = "Life After Life"
+  },
+  MainlineCardSelectPanel110002 = {
     ["btnGroup/node1/lblTitle"] = "Vol.2",
     ["btnGroup/node1/lblTitle2"] = "The Dark Forest",
     ["btnGroup/node2/lblTitle"] = "Vol.3",
@@ -5995,7 +6014,10 @@ Customized Bracelet]]
   YearEndBackFeedExchangetemPanel = {
     ["btnBuyConfirm/lblConfirm"] = "Redeem",
     ["NumBuy/countNode/lblBuy"] = "Redeem",
-    ["NumBuy/use/lblUse"] = "Cost"
+    ["NumBuy/use/lblUse"] = "Cost",
+    ["NumBuy/use/lblName"] = "Gems",
+    ["NumBuy/lblGot/lbl"] = "Owned:",
+    ["rewardRoot/spr_desc/desc"] = "Cumulative Sign-In Rewards"
   },
   YearEndBackFeedFitRoomPanel = {
     ["goContent/sprTitle/lblTitle"] = "Outfit Giftbox"
@@ -6009,6 +6031,7 @@ Customized Bracelet]]
     ["goContent/goItemTemplate/sprCanGot/Label"] = "Claimable",
     ["goContent/goItemTemplate/lblCount/lblTitle"] = "Spend Luck Coins and reach",
     ["goContent/goItemTemplate/lblCount/lblTitle1"] = "to claim",
+    ["goContent/goItemTemplate/lblTitle1"] = "to claim",
     ["goContent/goItemTemplate/sprNotFinished/Label"] = "Not attained",
     ["goContent/goItemTemplate/sprGot/Label"] = "Claimed"
   },
@@ -6311,6 +6334,22 @@ Customized Bracelet]]
     ["goContent/goCost/lblUse"] = "Cost"
   },
   ItemSourceMsgBox = {
+    ["goContent/component/MsgBoxTitle/lblTitle"] = "Tip",
+    ["goContent/component/ContentItem/lblGot/lbl"] = "Owned:",
+    ["goContent/component/ContentItem/btnPreview/lblPreview"] = "Preview",
+    ["goContent/component/NumSetting/goCost/lblUse"] = "Use",
+    ["goContent/component/ConfirmCancel/btnCancel/lblCancel"] = "Cancel",
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = "Confirm"
+  },
+  ItemSourceMsgBox1 = {
+    ["goContent/component/MsgBoxTitle/lblTitle"] = "Tip",
+    ["goContent/component/ContentItem/lblGot/lbl"] = "Owned:",
+    ["goContent/component/ContentItem/btnPreview/lblPreview"] = "Preview",
+    ["goContent/component/NumSetting/goCost/lblUse"] = "Use",
+    ["goContent/component/ConfirmCancel/btnCancel/lblCancel"] = "Cancel",
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = "Confirm"
+  },
+  ItemSourceMsgBox2 = {
     ["goContent/component/MsgBoxTitle/lblTitle"] = "Tip",
     ["goContent/component/ContentItem/lblGot/lbl"] = "Owned:",
     ["goContent/component/ContentItem/btnPreview/lblPreview"] = "Preview",
@@ -7526,8 +7565,8 @@ Each code can only be used once.]],
     ["Container/TOP/btnSelectAct/Label"] = [[
 Switch
 Event]],
-    ["Container/Bottom/one/lblCount"] = "Consume:",
-    ["Container/Bottom/ten/lblCount"] = "Consume:"
+    ["Container/Bottom/one/lblCount"] = "Cost:",
+    ["Container/Bottom/ten/lblCount"] = "Cost:"
   },
   MainlineCardShopItemPanel68024 = {
     ["btnBuyConfirm/lblConfirm"] = "Confirm",
@@ -8143,8 +8182,8 @@ to prevent resource issues.]],
     ["Container/TOP/btnSelectAct/Label"] = [[
 Switch
 Event]],
-    ["Container/Bottom/one/lblCount"] = "Consume:",
-    ["Container/Bottom/ten/lblCount"] = "Consume:"
+    ["Container/Bottom/one/lblCount"] = "Cost:",
+    ["Container/Bottom/ten/lblCount"] = "Cost:"
   },
   MainlineCardShopPanel68027 = {
     ["prefab/lblOwn"] = "Owned:"
@@ -8364,6 +8403,7 @@ Event]],
     ["Content/RecordItem/Container/spUnlocked/lbUnlocked"] = "Unlocked"
   },
   Summer2024SPExtraRewardPanel = {
+    ["goContent/lblDesc"] = "During the event, spending Galaxy Wish Coupons and Ltd-Time Wish Coupons counts toward the total attempts.",
     ["goContent/goItemTemplate/lblCount/lblTitle"] = "Make",
     ["goContent/goItemTemplate/lblCount/lblTitle1"] = "wishes",
     ["goContent/goItemTemplate/sprCanGot/Label"] = "Claim",
@@ -8457,5 +8497,649 @@ Event]],
   BirthdaysongBQ2024 = {
     ["spBg/lbTips"] = "Hold and sing a birthday song for him",
     ["dialog/name/lblName"] = "Gavin"
+  },
+  MainlineCardLotteryPanel68028 = {
+    ["Container/Top/nextScore/lblNextScoreTitle"] = "Until the next reward:",
+    ["Container/Top/nextScore/lblAllRewardGet"] = "All rewards have been claimed.",
+    ["Container/Top/curScore/lblCurScoreTitle"] = "Current Progress:",
+    ["Container/Bottom/right/itemChest/Label"] = "Owned:",
+    ["Container/Bottom/right/itemKey/Label"] = "Owned:",
+    ["LotteryCountPanel/Container/lblTitle"] = "Please select the number of votes",
+    ["LotteryCountPanel/Container/btnConfirm/Label"] = "Confirm",
+    ["LotteryCountPanel/Container/lblConsumeTitle"] = "Consume",
+    ["LotteryCountWarningPanel/lblDesc1"] = "Forge [c][a77874]%d[-][c] more times to collect all progress rewards.",
+    ["LotteryCountWarningPanel/lblDesc2"] = "Further Forging will only grant Forge rewards",
+    ["LotteryCountWarningPanel/btnCancel/lblCancel"] = "Cancel",
+    ["LotteryCountWarningPanel/btnConfirm/lblConfirm"] = "Confirm"
+  },
+  MainlineCardLotteryResultPanel68028 = {
+    ["Container/sprTitle/Label"] = "Voted"
+  },
+  MainlineCardPackageConfirmPanel68028 = {
+    ["Content/lblTitle"] = "SSR Giftbox",
+    ["Content/lblMessage"] = "Open it now?",
+    ["Content/lblTips"] = "Can be opened later at [Custom Box] on the main screen.",
+    ["Content/btnCancel/lblCancel"] = "Cancel",
+    ["Content/btnOK/lblOK"] = "Confirm"
+  },
+  MainlineCardRewardPanel68028 = {
+    ["Toggle1/Toggle/Label"] = "Progress",
+    ["Toggle1/Toggle1Title"] = "Progress",
+    ["Toggle2/Toggle/Label"] = "Forge Reward",
+    ["Toggle2/Toggle2Title"] = "Forge Reward",
+    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/lblTitle"] = "Event score reaches [c][cf6c83]2000[-][c] to claim",
+    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab1/lblTitle"] = "Event score reaches [c][cf6c83]2000[-][c] to claim"
+  },
+  MaleLottery2023M1V3EventMainPanel = {
+    ["Dialogs/RewardDialog/Content/Group1/lblCondition"] = "Complete schedule of the day to unlock"
+  },
+  MaleLottery2023M1V3ExtraRewardPanel = {
+    ["goContent/goItemTemplate/sprDot1/Label"] = "Get",
+    ["goContent/goItemTemplate/sprCanGot/Label"] = "to claim",
+    ["goContent/goItemTemplate/lblCount/lblTitle"] = "Make",
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = "wishes",
+    ["goContent/goSelectItems/lblTitle"] = "Reach the following tiers to select any \"Go See Him\" outfit.",
+    ["goContent/lblSelectDesc"] = "Reach the following tiers to select any \"Go See Him\" outfit."
+  },
+  MaleLottery2023M1V3UpViewPanel = {
+    ["goContainer/texBg/lblTitle"] = "Preview",
+    ["goContainer/goCardFilter/btns/btn_limitup/Sprite"] = "Limited",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace1/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/lblClickTip"] = "Tap to toggle between images"
+  },
+  MaleLottery2024M2V3EventMainPanel = {
+    ["Dialogs/RewardDialog/Content/Group1/lblCondition"] = "Complete schedule of the day to unlock"
+  },
+  MaleLottery2024M2V3ExtraRewardPanel = {
+    ["goContent/goItemTemplate/sprDot1/Label"] = "Get",
+    ["goContent/goItemTemplate/sprCanGot/Label"] = "to claim",
+    ["goContent/goItemTemplate/lblCount/lblTitle"] = "Make",
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = "wishes",
+    ["goContent/goSelectItems/lblTitle"] = "Reach the following tiers to select any \"Go See Him\" outfit.",
+    ["goContent/lblSelectDesc"] = "Reach the following tiers to select any \"Go See Him\" outfit."
+  },
+  MaleLottery2024M2V3UpViewPanel = {
+    ["goContainer/texBg/lblTitle"] = "Preview",
+    ["goContainer/goCardFilter/btns/btn_limitup/Sprite"] = "Limited",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace1/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/lblClickTip"] = "Tap to toggle between images"
+  },
+  ReProduceActVotePanel = {
+    ["goViews/goCount/lbCountDesc"] = "Owned",
+    ["goViews/goVote/goContent/itemParent/item1/btnVote/Label"] = "Vote",
+    ["goViews/goVote/goContent/itemParent/item1/lbCount"] = "Vote Percentage:",
+    ["goViews/goVote/goContent/itemParent/item2/btnVote/Label"] = "Vote",
+    ["goViews/goVote/goContent/itemParent/item2/lbCount"] = "Vote Percentage:",
+    ["goViews/goVote/goContent/itemParent/item3/btnVote/Label"] = "Vote",
+    ["goViews/goVote/goContent/itemParent/item3/lbCount"] = "Vote Percentage:",
+    ["goViews/goVote/goContent/itemParent/item4/btnVote/Label"] = "Vote",
+    ["goViews/goVote/goContent/itemParent/item4/lbCount"] = "Vote Percentage:",
+    ["goViews/goVote/goContent/itemParent/item5/btnVote/Label"] = "Vote",
+    ["goViews/goVote/goContent/itemParent/item5/lbCount"] = "Vote Percentage:",
+    ["goViews/goVote/goContent/itemParent/item6/btnVote/Label"] = "Vote",
+    ["goViews/goVote/goContent/itemParent/item6/lbCount"] = "Vote Percentage:",
+    ["goViews/goVote/goContent/itemParent/item7/btnVote/Label"] = "Vote",
+    ["goViews/goVote/goContent/itemParent/item7/lbCount"] = "Vote Percentage:"
+  },
+  S2ChooseBranchCH59Panel = {
+    ["btnClose2/remainder_label"] = "Tap to Exit",
+    ["goContent/lblChooseDesc"] = "Select an independent path to enter. Switching to another story branch isn't allowed until you finish it."
+  },
+  bq2023_list_clickgive = {
+    ["Grid/1/lblContent"] = "1. Share my day",
+    ["Grid/2/lblContent"] = "2. Take good care of my body",
+    ["Grid/3/lblContent"] = "3. Don't get hurt during training",
+    ["Grid/4/lblContent"] = "4. Try extreme sports on the snow with $u",
+    ["Grid/5/lblContent"] = "5. Get ready to enjoy the holiday with $u",
+    ["goChooseAll/lblChooseAll"] = "Select All",
+    ["btnContinue/lblContinue"] = "Confirm"
+  },
+  MayDay2025SSRExtraRewardPanel = {
+    ["content/goItemTemplate/lblCount/lblTitle"] = "Make",
+    ["content/goItemTemplate/lblCount/lblTitle1"] = "wishes",
+    ["content/goItemTemplate/sprBg/sprCanGot/Label"] = "to claim",
+    ["content/goItemTemplate/sprDot1/Label"] = "Get",
+    ["content/goSelectItems/lblTitle"] = "Reach the following tiers to select any \"Go See Him\" outfit."
+  },
+  MayDay2025SSRGiftPackPurchasePanel = {
+    ["content/packs/pack1/goSoldOut/lblPrice"] = "Sold Out",
+    ["content/packs/pack2/goSoldOut/lblPrice"] = "Sold Out",
+    ["content/packs/pack3/goSoldOut/lblPrice"] = "Sold Out",
+    ["content/packs/pack4/goSoldOut/lblPrice"] = "Sold Out",
+    ["content/rewards/reward1/sprItemBg/sprCanGet/Label"] = "Claim",
+    ["content/rewards/reward1/spr_get/lbl_prompt"] = "for Extra",
+    ["content/rewards/reward2/sprItemBg/sprCanGet/Label"] = "Claim",
+    ["content/rewards/reward2/spr_get/lbl_prompt"] = "for Extra",
+    ["content/rewards/reward3/sprItemBg/sprCanGet/Label"] = "Claim",
+    ["content/rewards/reward3/spr_get/lbl_prompt"] = "for Extra",
+    ["content/packs/pack1/btnBuy/lbl_money"] = "$",
+    ["content/packs/pack2/btnBuy/lbl_money"] = "$",
+    ["content/packs/pack3/btnBuy/lbl_money"] = "$",
+    ["content/packs/pack4/btnBuy/lbl_money"] = "$"
+  },
+  MayDay2025SSRPublishPanel = {
+    ["content/texBg/goNoCard/lbl_prompt"] = "Nothing to announce for now."
+  },
+  MayDay2025SSRUpViewPanel = {
+    ["goContainer/lblTitle"] = "Limited UP",
+    ["goContainer/goCardFilter/btns/btn_limitup/Sprite"] = "Limited UP",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace1/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace2/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace3/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace4/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/lblClickTip"] = "Tap to view the effect after Evolution",
+    ["goSingleContainer/CardCommonFace/lblTip"] = "Final Effects"
+  },
+  PrisonLifeGamePanel = {
+    ["content/center/prision_areas/area1/btn/name"] = "Detention Area",
+    ["content/center/prision_areas/area2/btn/name"] = "Injection Room",
+    ["content/center/prision_areas/area3/btn/name"] = "Infirmary",
+    ["content/center/prision_areas/area4/btn/name"] = "Cafeteria",
+    ["content/center/prision_areas/area5/btn/name"] = "Visitation Room",
+    ["content/center/prision_areas/area6/btn/name"] = "Monitoring Hall",
+    ["content/center/prision_areas/area7/btn/name"] = "Exercise Yard",
+    ["content/center/prision_areas/area8/btn/name"] = "Administration Wing",
+    ["content/center/prision_areas/area9/btn/name"] = "Work/Study Area",
+    ["content/bottom/triminalPanel/game/btn_play/prompt"] = "Hold to Talk",
+    ["content/bottom/triminalPanel/game/complete/label1"] = "-Communication",
+    ["content/bottom/triminalPanel/game/complete/label2"] = "Complete-",
+    ["content/bottom/triminalPanel/game/complete/label_close_prompt"] = "Tap to proceed",
+    ["content/bottom/triminalPanel/triminal/prompt1"] = ">>   Head to [Detention Area]",
+    ["content/bottom/triminalPanel/triminal/btnGo/prompt"] = "Proceed",
+    ["content/bottom/triminalPanel/triminal/style1/btnCommunication/prompt"] = "Talk",
+    ["content/bottom/triminalPanel/triminal/style2/btnCommunication/prompt"] = "Talk",
+    ["content/bottom/triminalPanel/triminal/style2/btnFinish/prompt"] = "Communication Complete",
+    ["content/bottom/triminalPanel/triminal/style2/lbl_skip"] = "*Tap to skip Communication"
+  },
+  PrisonLifeIdentityVerificationPanel = {
+    ["center/goVerification3/lbl_close_prompt"] = "Tap to proceed"
+  },
+  PrisonLifeMainPanel = {
+    ["center/scene/informationBoard/screenPrompts/scrollView/grid/goTemplate/lbl_title"] = "[c][e7d172][0416][-][/c]Current multidimensional score:",
+    ["center/inProgress/btnCheckIn/label"] = "Check In",
+    ["center/inProgress/btnContinue/label"] = "Continue Schedule",
+    ["center/btnContent1/btnItemExchange/label"] = "Redeem",
+    ["purchasePanel/goContent/component/MsgBoxTitle/lblTitle"] = "Buy Access Pass",
+    ["purchasePanel/goContent/component/NumSetting/goCost/name"] = "Cost",
+    ["purchasePanel/goContent/component/NumSetting/goGet/name"] = "Get:",
+    ["purchasePanel/goContent/component/ConfirmCancel/btnCancel/lblCancel"] = "Cancel",
+    ["purchasePanel/goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = "Confirm",
+    ["dailyRewardPanel/content/MsgBoxTitle/lblTitle"] = "Access Passes distributed.",
+    ["center/inProgress/identity_card_count"] = ""
+  },
+  PrisonLifeRewardPanel = {
+    ["content/center/btn_complete/dayLabel"] = "End Schedule"
+  },
+  PrisonLifeSchedulePromptPanel = {
+    ["center/btnStartDay/label"] = "Start Schedule"
+  },
+  PrisonLifeSelectMalePanel = {
+    ["content/btn_confirm/label"] = "Confirm",
+    ["content/spr_confirm_g/label"] = "Confirm"
+  },
+  PrisonLifeSweepPanel = {
+    ["goContent/component/MsgBoxTitle/lblTitle"] = "Quick Move ",
+    ["goContent/component/NumSetting/goCost/lblUse"] = "Cost",
+    ["goContent/component/NumSetting/goGet/lblUse"] = "Get:",
+    ["goContent/component/ConfirmCancel/btnCancel/lblCancel"] = "Cancel",
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = "Confirm"
+  },
+  MaleLottery2024M4V3EventMainPanel = {
+    ["Dialogs/RewardDialog/Content/Group1/lblCondition"] = "Complete schedule of the day to unlock"
+  },
+  MaleLottery2024M4V3ExtraRewardPanel = {
+    ["goContent/goItemTemplate/sprDot1/Label"] = "Get",
+    ["goContent/goItemTemplate/sprCanGot/Label"] = "Claim",
+    ["goContent/goItemTemplate/lblCount/lblTitle"] = "Make",
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = "wishes",
+    ["goContent/goSelectItems/lblTitle"] = "Reach the following tiers to select any \"Go See Him\" outfit.",
+    ["goContent/lblSelectDesc"] = "Reach the following tiers to select any \"Go See Him\" outfit."
+  },
+  MaleLottery2024M4V3UpViewPanel = {
+    ["goContainer/texBg/lblTitle"] = "Preview",
+    ["goContainer/goCardFilter/btns/btn_limitup/Sprite"] = "Limited",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace1/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/lblClickTip"] = "Tap to toggle between images"
+  },
+  Halloween2023ExtraRewardPanel = {
+    ["goContent/goItemTemplate/lblCount/lblTitle"] = "Make",
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = "wishes",
+    ["goContent/goItemTemplate/sprCanGot/Label"] = "Claim",
+    ["goContent/goItemTemplate/sprDot1/Label"] = "Get",
+    ["goContent/goSelectItems/lblTitle"] = "Reach the following tiers to select any \"Go See Him\" outfit."
+  },
+  Halloween2023PublishPanel = {
+    ["goContent/texBg/lblNoCard"] = "Nothing to announce for now.",
+    ["goContent/cards/card1/lblName"] = "Victor",
+    ["goContent/cards/card2/lblName"] = "Lucien",
+    ["goContent/cards/card3/lblName"] = "Kiro",
+    ["goContent/cards/card4/lblName"] = "Gavin"
+  },
+  Halloween2023UpViewPanel = {
+    ["goContainer/lblTitle"] = "Limited UP",
+    ["goContainer/goCardFilter/btns/btn_limitup/Sprite"] = "Limited UP",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace1/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace2/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace3/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace4/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/lblClickTip"] = "Tap to view the effect after Evolution",
+    ["goSingleContainer/CardCommonFace/lblTip"] = "Final Effects"
+  },
+  DesenoRechargePanel9069 = {
+    ["uiPanel/lbl_prompt"] = [[
+All in-game purchases will be counted toward this event based on their amounts.
+During the event, total top-up reaches]]
+  },
+  zql2022_list_clickgive = {
+    ["Grid/1/lblContent"] = "1. Send me messages when you're free",
+    ["Grid/2/lblContent"] = "2.Take care of yourself",
+    ["Grid/3/lblContent"] = "3. Bring back some cute little gifts",
+    ["Grid/4/lblContent"] = "4. Come find me right after work for fun times!",
+    ["Grid/5/lblContent"] = "5. Pick a place for celebratory dinner after work",
+    ["goChooseAll/lblChooseAll"] = "Select All",
+    ["btnContinue/lblContinue"] = "Confirm"
+  },
+  PrisonLifeManyForOneMsgBox = {
+    ["goContent/component/NumSetting/goCost/lblUse"] = "Use",
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = "Buy"
+  },
+  TheBubbleStoryPlayerPanel2025MayDay = {
+    ["bottom/sprCloseTip"] = "*Tap to proceed*"
+  },
+  DailyTopUpRewardPanel = {
+    ["rewarditem/prefab/lblDesc"] = "$",
+    ["rewarditem/prefab/lblDesc2"] = "Daily Total Top-up",
+    ["back/top/spr/lblExp"] = "Daily Total Top-up"
+  },
+  BirthdaycakeXM2024 = {
+    ["spBg/lbTips"] = "Tap to blow out candles with him"
+  },
+  BirthdaysongXM2024 = {
+    ["spBg/lbTips"] = "Hold and sing a birthday song for him",
+    ["dialog/name/lblName"] = "Lucien"
+  },
+  Halloween2024ExtraRewardPanel = {
+    ["goContent/goItemTemplate/lblCount/lblTitle"] = "Make",
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = "wishes",
+    ["goContent/goItemTemplate/sprCanGot/Label"] = "to claim",
+    ["goContent/goItemTemplate/sprDot1/Label"] = "Get",
+    ["goContent/goSelectItems/lblTitle"] = "Reach the following tiers to select any \"Go See Him\" outfit."
+  },
+  Halloween2024FitRoomPanel = {
+    ["goContent/roleNameBg/lblRoleName1"] = "Victor",
+    ["goContent/roleNameBg/lblRoleName2"] = "Lucien",
+    ["goContent/roleNameBg/lblRoleName3"] = "Kiro",
+    ["goContent/roleNameBg/lblRoleName4"] = "Gavin"
+  },
+  Halloween2024PublishPanel = {
+    ["goContent/cards/card1/lblName"] = "Victor",
+    ["goContent/cards/card2/lblName"] = "Lucien",
+    ["goContent/cards/card3/lblName"] = "Kiro",
+    ["goContent/cards/card4/lblName"] = "Gavin"
+  },
+  Halloween2024UpViewPanel = {
+    ["goContainer/lblTitle"] = "Limited UP",
+    ["goContainer/goCardFilter/btns/btn_limitup/Sprite"] = "Limited UP",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace1/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace2/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace3/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace4/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/lblClickTip"] = "Tap to view the effect after Evolution",
+    ["goSingleContainer/CardCommonFace/lblTip"] = "Final Effects"
+  },
+  DesenoRechargePanel9070 = {
+    ["uiPanel/lbl_prompt"] = [[
+All in-game purchases will be counted toward this event based on their amounts.
+During the event, total top-up reaches]],
+    ["uiPanel/btnChange/lbChange"] = "Name Card Preview",
+    ["rewardCards/rewardPanel/nameCardRoot/btnChangePanel/btnChange/lbChange"] = "Name Card Preview"
+  },
+  Christmas2024ExtraRewardPanel = {
+    ["goContent/goItemTemplate/lblCount/lblTitle"] = "Make",
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = "wishes",
+    ["goContent/goItemTemplate/sprCanGot/Label"] = "to claim",
+    ["goContent/goItemTemplate/sprDot1/Label"] = "Get",
+    ["goContent/goSelectItems/lblTitle"] = "Reach the following tiers to select any \"Go See Him\" outfit."
+  },
+  Christmas2024PublishPanel = {
+    ["goContent/texBg/lblNoCard"] = "Nothing to announce for now.",
+    ["goContent/cards/card1/lblName"] = "Victor",
+    ["goContent/cards/card2/lblName"] = "Lucien",
+    ["goContent/cards/card3/lblName"] = "Kiro",
+    ["goContent/cards/card4/lblName"] = "Gavin"
+  },
+  Christmas2024UpViewPanel = {
+    ["goContainer/lblTitle"] = "Ltd-Time UP",
+    ["goContainer/goCardFilter/btns/btn_limitup/Sprite"] = "Limited UP",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace1/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace2/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace3/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace4/frontPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/lblClickTip"] = "Tap to view the effect after Evolution",
+    ["goSingleContainer/CardCommonFace/lblTip"] = "Final Effects"
+  },
+  HundredDiaryCalendarPanel = {
+    ["Container/TotalSign/TotalSignYear"] = "2025",
+    ["Container/Calendar/MonthSpr/MonthPostfix"] = "",
+    ["Container/Calendar/WeekTitle/Weekdays"] = "Mon            Tue               Wed             Thu                 Fri                Sat              Sun",
+    ["Container/ResignBtn/ResignLbl"] = "Recover"
+  },
+  HundredDiaryCalendarSharePanel = {
+    ["Container/TotalSign/TotalSignYear"] = "2025",
+    ["Container/Calendar/MonthSpr/MonthPostfix"] = "",
+    ["Container/Calendar/WeekTitle/Weekdays"] = "Mon            Tue               Wed             Thu                 Fri                Sat              Sun"
+  },
+  HundredDiaryChangeDiaryMsgBox = {
+    ["btnConfirm/lblConfirm"] = "Save Diary",
+    ["btnCancel/lblCancel"] = "Cancel"
+  },
+  HundredDiaryChangeSummaryDiaryMsgBox = {
+    GameObject = "100-Day Diary",
+    ["btnConfirm/lblConfirm"] = "Save Diary",
+    ["btnCancel/lblCancel"] = "Cancel"
+  },
+  HundredDiaryConfirmResignMsgBox = {
+    Tips = "*Recovering a stamp gives you the reward and adds to your total stamps.\nHowever, you can’t record your feelings or affect the weekly message he has written.",
+    ["CancelBtn/lbl"] = "Cancel",
+    ["ConfirmBtn/lbl"] = "Confirm"
+  },
+  HundredDiaryMainPanel = {
+    ["anim/Container/Date/DateYear"] = "2025",
+    ["anim/Container/Date/DayLbl/DayCover"] = "Day                ",
+    ["anim/Container/Date/Month"] = "/",
+    ["anim/Container/Date/Day"] = "",
+    ["anim/Container/MyResign/ResignBtn/ResignLbl"] = "Recover"
+  },
+  HundredDiaryRecordMoodMsgBox = {
+    ["Date/month"] = "/",
+    ["Date/day"] = "’s Diary",
+    title = "Today I feel...",
+    ["Tabs/HappyTabBtn/SelectedBg/lbl"] = "Happy",
+    ["Tabs/HappyTabBtn/NormalLbl"] = "Happy",
+    ["Tabs/CommonTabBtn/SelectedBg/lbl"] = "Normal",
+    ["Tabs/CommonTabBtn/NormalLbl"] = "Normal",
+    ["Tabs/SadTabBtn/SelectedBg/lbl"] = "Sad",
+    ["Tabs/SadTabBtn/NormalLbl"] = "Sad"
+  },
+  HundredDiaryRewardListMsgBox = {
+    ["Tab/DailyRewardNormalTitle"] = "Daily Random Reward",
+    ["Tab/DailyRewardSelectedTitle/title"] = "Daily Random Reward",
+    ["Tab/SignInRewardNormalTitle"] = "Cumulative Stamp Rewards",
+    ["Tab/SignInRewardSelectedTitle/title"] = "Cumulative Stamp Rewards",
+    ["SignInRewardPage/SignInTotalCount/prefix"] = "Stamped for           day(s)"
+  },
+  HundredDiarySelectRoleMsgBox = {
+    title = "Who would you like to write your diary with?"
+  },
+  MainlineCardChoosePanel68029 = {
+    ["roles/1/spcarded/lbprogress"] = "Owned",
+    ["roles/2/spcarded/lbprogress"] = "Owned",
+    ["roles/3/spcarded/lbprogress"] = "Owned",
+    ["roles/4/spcarded/lbprogress"] = "Owned"
+  },
+  MainlineCardLotteryPanel68029 = {
+    ["Container/TOP/btnPushPack/lblPushPack"] = "Special Offer",
+    ["Container/TOP/btnSelectAct/Label"] = [[
+Change
+Event]],
+    ["Container/Bottom/one/lblCount"] = "Cost:",
+    ["Container/Bottom/ten/lblCount"] = "Cost:"
+  },
+  MainlineCardSweepPanel68029 = {
+    ["goContent/goRewards/goItemTemplate/sprExtra/lblExtra"] = "Extra Reward"
+  },
+  LimitTimeTaskPanel = {
+    ["taskTemplate/style2/lblTitle1"] = "Spend"
+  },
+  BirthdaycakeLZY2025 = {
+    ["spBg/lbTips"] = "Tap to blow out candles with him"
+  },
+  BirthdaysongLZY2025 = {
+    ["spBg/lbTips"] = "Hold and sing a birthday song for him",
+    ["dialog/name/lblName"] = "Victor"
+  },
+  Spring2025URExtraRewardPanel = {
+    ["goContent/lblDesc"] = "During the event, spend Galaxy Wish Coupon or free wish attempts to accumulate wishes.",
+    ["goContent/goItemTemplate/lblCount/lblTitle"] = "Make",
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = "wishes",
+    ["goContent/goItemTemplate/sprDot1/Label"] = "Get",
+    ["goContent/goItemTemplate/rewardTemp/sprCanGot/Label"] = "Claimable",
+    ["goContent/goSelectItems/lblTitle"] = "Reach the following tiers to select any \"Go See Him\" outfit."
+  },
+  Spring2025URPublishPanel = {
+    ["goContent/cards/card2/lblName"] = "Lucien",
+    ["goContent/cards/card4/lblName"] = "Gavin",
+    ["goContent/cards/card1/lblName"] = "Victor",
+    ["goContent/cards/card3/lblName"] = "Kiro"
+  },
+  Spring2025URUpViewPanel = {
+    ["goContainer/lblTitle"] = "Limited-Time UP",
+    ["goContainer/goCardFilter/btns/btn_limitup/Sprite"] = "Limited UP",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace4/HightDepthPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace3/HightDepthPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace2/HightDepthPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace1/HightDepthPanel/btnTryDate/sprTryDate/lbTryDate"] = "Preview Date",
+    ["goContainer/cardContainer/goLotteryUp/lblClickTip"] = "Tap to view the effect after Evolution.",
+    ["goSingleContainer/CardCommonFace/lblTip"] = "Final Effects"
+  },
+  DesenoRechargePanel9072 = {
+    ["uiPanel/lbl_prompt"] = [[
+All in-game purchases will be counted toward this event based on their amounts.
+During the event, once your total top-up reaches]],
+    ["uiPanel/btnChange/lbChange"] = "Personal Profile Card Preview",
+    ["rewardCards/rewardPanel/nameCardRoot/btnChangePanel/btnChange/lbChange"] = "Personal Profile Card Preview",
+    ["rewardCards/rewardPanel/nameCardRoot/itemTips1"] = "Reach the required top-up tier",
+    ["rewardCards/rewardPanel/nameCardRoot/itemTips2"] = "to claim the limited",
+    ["rewardCards/rewardPanel/headFrameRoot/itemTips1"] = "Reach the required top-up tier",
+    ["rewardCards/rewardPanel/headFrameRoot/itemTips2"] = "to claim the limited"
+  },
+  Birth25ConfirmCelebrateMsgBox = {
+    ["goContent/lbContent"] = "Today is his birthday. Celebrate with him now?",
+    ["goContent/lbTip"] = "*Some Q&A stories are unread.",
+    ["goContent/btnCancel/lblCancel"] = "Not ready yet",
+    ["goContent/btnConfirm/lblConfirm"] = "Start celebrating"
+  },
+  Birth25ConfirmMsgBox = {
+    ["goContent/btnCancel/lblCancel"] = "Cancel",
+    ["goContent/btnConfirm/lblConfirm"] = "Confirm"
+  },
+  Birth25CountDownPanel = {
+    ["goContent/goTime/goDay/lbDesc"] = "d",
+    ["goContent/lbTip"] = "Tap anywhere to close."
+  },
+  Birth25GlobalRewardPanel = {
+    ["goProgress/goNodes/goNode1/lblWorldScore/lblTitle"] = "Server Score:",
+    ["goProgress/goNodes/goNode2/lblWorldScore/lblTitle"] = "Server Score:",
+    ["goProgress/goNodes/goNode3/lblWorldScore/lblTitle"] = "Server Score:",
+    ["goProgress/goNodes/goNode4/lblWorldScore/lblTitle"] = "Server Score:",
+    ["goProgress/goNodes/goNode5/lblWorldScore/lblTitle"] = "Server Score:",
+    ["goWorldScoreCount/lblTitle"] = "Current Server Score:"
+  },
+  Birth25ItemMakePanel = {
+    ["itemPanel/bottom/btnPreview/Label"] = "Preview"
+  },
+  Birth25MainPanel = {
+    ["Content/bottomAnchor/normalLblRoot/nodeBirthTime/lblTitle"] = "Until his birthday",
+    ["Content/bottomAnchor/normalLblRoot/nodeBirthTime/lbl1"] = "d",
+    ["Content/bottomAnchor/normalLblRoot/nodeBirthTime/lbl2"] = "h",
+    ["Content/bottomAnchor/consumeRoot/spConsumeA/lbShow"] = "Owned:",
+    ["Content/bottomAnchor/consumeRoot/spConsumeB/lbShow"] = "Owned:"
+  },
+  Birth25NoteDetailPanel = {
+    ["goContent/Bottom/goFinish/lbTip"] = "Tap to close the dialogue.",
+    ["goContent/Bottom/goVoice/sprTip/Label"] = "Press and hold to speak your answer."
+  },
+  Birth25Phase1AwardPanel = {
+    ["goContent/lblTitle"] = "Congratulations! You've received",
+    ["goContent/ItemReward/sv/grid/keyItem/lblKeyItem"] = "Memory Item",
+    ["goContent/ItemReward/sv/grid/normalItem/goTitle/lbTitle"] = "Regular Item"
+  },
+  Birth25PreviewPanel = {
+    ["goContent/lbTitle"] = "Score Reward"
+  },
+  Birth25RankPanel = {
+    ["goContent/goHead/Sprite/Label"] = "Ranking",
+    ["goContent/goHead/Sprite (1)/Label"] = "Nickname",
+    ["goContent/goHead/Sprite (2)/Label"] = "Points"
+  },
+  Birth25RelatedLotteryPanel = {
+    ["goContent/goCountDownView/goReward/lbOwnDesc"] = "Currently owned:",
+    ["goContent/goResultView/lbEnd"] = "Ended",
+    ["goContent/goResultView/btnGo/lbGo"] = "Go to Claim"
+  },
+  Birth25SendGiftPanel = {
+    ["goContent/Bottom/goDialogView/goMan/goDialog/goName/lbName"] = "Victor"
+  },
+  Birth25ShopPanel = {
+    ["goBlockMask/lblBlock"] = "Unlock after getting the birthday SR Karma."
+  },
+  Birth25TheStoryPlayerPanel = {
+    ["foot/nextPage/Label"] = "Next Page",
+    ["foot/nextChapter/Label"] = "Next Chapter",
+    ["foot/prevPage/Label"] = "Previous Page",
+    ["foot/prevChapter/Label"] = "Previous Chapter"
+  },
+  Birth25WishConsumePanel = {
+    ["btnBuyConfirm/lblConfirm"] = "Confirm",
+    ["NumBuy/gridUse2_b1/lblUse"] = "Cost",
+    ["NumBuy/gridUse2_b2/lblUse"] = "Cost",
+    ["NumBuy/gridUse3/lblUse"] = "Cost"
+  },
+  FirstDayConsumeReturnPanel = {
+    ["goTabs/tab1/lblTab1"] = "New Year Bonus Ⅰ",
+    ["goTabs/tab2/lblTab2"] = "New Year Bonus Ⅱ"
+  },
+  MainlineCardLotteryPanel68032 = {
+    ["Container/Top/nextScore/lblNextScoreTitle"] = "Progress needed for next reward:",
+    ["Container/Top/curScore/lblCurScoreTitle"] = "Current Progress:",
+    ["Container/Bottom/right/itemChest/Label"] = "Owned:",
+    ["Container/Bottom/right/itemKey/Label"] = "Owned:",
+    ["LotteryCountPanel/Container/lblTitle"] = "Set Amount",
+    ["LotteryCountPanel/Container/btnConfirm/Label"] = "Confirm",
+    ["LotteryCountPanel/Container/lblConsumeTitle"] = "Use",
+    ["LotteryCountWarningPanel/btnCancel/lblCancel"] = "Cancel",
+    ["LotteryCountWarningPanel/btnConfirm/lblConfirm"] = "Confirm"
+  },
+  MainlineCardLotteryResultPanel68032 = {
+    ["Container/sprTitle/Label"] = "Search Successful"
+  },
+  MainlineCardPackageConfirmPanel68032 = {
+    ["Content/lblMessage"] = "Open it now?",
+    ["Content/btnCancel/lblCancel"] = "Cancel",
+    ["Content/btnOK/lblOK"] = "Confirm"
+  },
+  MainlineCardRewardPanel68032 = {
+    ["Toggle1/Toggle/Label"] = "Progress Reward",
+    ["Toggle2/Toggle/Label"] = "Choice Reward",
+    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/lblTitle"] = "Reach  [c][cf6c83]2000[-][/c] Event Pts to claim."
+  },
+  Giftoption2025 = {
+    ["spBtn/Label"] = "Send Pop-Up Book"
+  },
+  BirthDayExit = {
+    ["spBtn/Label"] = "End Celebration"
+  },
+  Birth25DiyItemGetMsgBox = {
+    ["goContent/lblTitle"] = "Congratulations!",
+    ["goContent/lblDes"] = "*The Pop-Up Book ornament cannot be modified.",
+    ["goContent/1/lblTypeName"] = "Journal Ornament ×1",
+    ["goContent/2/lblTypeName"] = "Exclusive Background ×1"
+  },
+  CustomizableClothingGiftBox = {
+    ["goContent/component/ContentItem/lblGot/lbl"] = "Owned:",
+    ["goContent/component/ContentItem/btnPreview/lblPreview"] = "Preview",
+    ["goContent/component/NumSetting/goCost/lblUse"] = "Use",
+    ["goContent/component/ScrollItemBar/ItemBar/lblDesc"] = "to Ascend Karma",
+    ["goContent/component/ConfirmCancel/btnCancel/lblCancel"] = "Cancel",
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = "Confirm"
+  },
+  CustomizableGiftBoxConfirmPanel = {
+    ["content/spr_reminder/lbl_reminder"] = "Open it now?",
+    ["content/lbl_reminder2"] = "Can be opened later at [Custom Box] on the main screen.",
+    ["content/btnConfirm/lblConfirm"] = "Confirm",
+    ["content/btnCancel/lblCancel"] = "Cancel"
+  },
+  purchaseItemMsgBox = {
+    ["goContent/component/ContentItem/lblGot/lbl"] = "Owned:",
+    ["goContent/component/ContentItem/btnPreview/lblPreview"] = "Preview",
+    ["goContent/component/NumSetting/goCost/lblUse"] = "Use",
+    ["goContent/component/ConfirmCancel/btnCancel/lblCancel"] = "Cancel",
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = "Confirm"
+  },
+  RuleMsgBox = {
+    ["goContent/component/MsgBoxTitle/lblTitle"] = "Rules"
+  },
+  zql2023_list_clickgive = {
+    ["Grid/1/lblContent"] = "1. Don't forget to take the mints $u prepared.",
+    ["Grid/2/lblContent"] = "2. Try not to stay up late.",
+    ["Grid/3/lblContent"] = "3. Be mindful of temperature changes between day and night.",
+    ["Grid/4/lblContent"] = "4. Share the fun moments.",
+    ["Grid/5/lblContent"] = "5. Plan a special route for the trip",
+    ["goChooseAll/lblChooseAll"] = "Select All",
+    ["btnContinue/lblContinue"] = "Confirm"
+  },
+  lzy2023_list_clickgive = {
+    ["Grid/1/lblContent"] = "1. Keep a good work-life balance.",
+    ["Grid/2/lblContent"] = "2. Remember to bring $u's special insect repellent pack.",
+    ["Grid/3/lblContent"] = "3. Take good photos whenever the chance arises.",
+    ["Grid/4/lblContent"] = "4. Find some nice restaurants.",
+    ["Grid/5/lblContent"] = "5. Make a simple plan for the upcoming wetland trip.",
+    ["goChooseAll/lblChooseAll"] = "Select All",
+    ["btnContinue/lblContinue"] = "Confirm"
+  },
+  BuyPackMsgBox = {
+    ["goContent/component/ContentItem/lblGot/lbl"] = "Owned:",
+    ["goContent/component/ContentItem/btnPreview/lblPreview"] = "Preview",
+    ["goContent/component/NumSetting/goCost/lblUse"] = "Use",
+    ["goContent/component/ScrollItemBar/ItemBar/lblDesc"] = "to Ascend Karma",
+    ["goContent/component/ConfirmCancel/btnCancel/lblCancel"] = "Cancel",
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = "Confirm",
+    ["goContent/component/ScrollGroupItemGrid/groupTemplate/goTitle/lblTitle"] = "A chance to get"
+  },
+  MainlineCardLotteryPanel68030 = {
+    ["Container/Bottom/right/itemKey/Label"] = "Owned:",
+    ["Container/Bottom/nextScore/lblNextScoreTitle"] = "Pts needed for the next reward:",
+    ["Container/Bottom/curScore/lblCurScoreTitle"] = "Current Pts:",
+    ["LotteryCountPanel/Container/lblTitle"] = "Set Amount",
+    ["LotteryCountPanel/Container/btnConfirm/Label"] = "Confirm",
+    ["LotteryCountPanel/Container/lblConsumeTitle"] = "Use",
+    ["LotteryCountWarningPanel/btnCancel/lblCancel"] = "Cancel",
+    ["LotteryCountWarningPanel/btnConfirm/lblConfirm"] = "Confirm"
+  },
+  MainlineCardLotteryResultPanel68030 = {
+    ["Container/sprTitle/Label"] = "Entwine successful!"
+  },
+  MainlineCardPackageConfirmPanel68030 = {
+    ["Content/messageBg/lblMessage"] = "Open it now?",
+    ["Content/btnCancel/lblCancel"] = "Cancel",
+    ["Content/btnOK/lblOK"] = "Confirm"
+  },
+  MainlineCardRewardPanel68030 = {
+    ["Toggle1/Toggle/Label"] = "Progress Reward",
+    ["Toggle1/Toggle1Title"] = "Progress Reward",
+    ["Toggle2/Toggle/Label"] = "Choice Reward",
+    ["Toggle2/Toggle2Title"] = "Choice Reward"
+  },
+  MainlineCardViewPanel68008 = {
+    ["Container/lblTitle"] = "Preview Karma",
+    ["Container/cardContainer/lblClickTip"] = "Tap to switch"
+  },
+  MainlineCardRewardDialog68008 = {
+    ["BG/Label"] = "Check Rewards"
+  },
+  MainlineCardLotteryPanel68008 = {
+    ["LotteryDialog/BG/lblTitle"] = "Set Amount",
+    ["LotteryDialog/lblConsumeTitle"] = "Cost",
+    ["LotteryDialog/btnConfirm/Label"] = "Confirm"
+  },
+  MobileEditFriendCoverPanel = {
+    ["Editor/ConfirmBtn/lbl"] = "Set as Cover"
+  },
+  MobilePreviewFriendCoverPanel = {
+    ["UpPanel/ConfirmBtn/lbl"] = "Confirm"
+  },
+  CardFriendCoverHDMsgBox = {
+    ["goContent/component/ConfirmCancel/btnCancel/lblCancel"] = "Use standard resources",
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = "Use HD resources"
   }
 }

@@ -16467,7 +16467,7 @@ data = {
     aniamtion_list = "bhappy_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "看来我身边的监督员多了一位。",
+    dialog_text = "Guess I'll have a new supervisor.",
     dialog_size = 22,
     next_bubble = "39002"
   },
@@ -16477,7 +16477,7 @@ data = {
     gift_behave_step = 2,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "放心吧，我会认真听取它的建议的。",
+    dialog_text = "Don't worry, I'll listen to its advice.",
     dialog_size = 22,
     next_bubble = "39003"
   },
@@ -16489,7 +16489,7 @@ data = {
     aniamtion_list = "bhappy_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "好让我的正牌监督员小姐少担心一些。",
+    dialog_text = "So, my official supervisor will have less to worry about.",
     dialog_size = 22,
     next_bubble = "39004"
   },
@@ -16499,7 +16499,7 @@ data = {
     gift_behave_step = 4,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "不过我想……",
+    dialog_text = "But, I think...",
     dialog_size = 22,
     next_bubble = "39005"
   },
@@ -16509,7 +16509,7 @@ data = {
     gift_behave_step = 5,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "有的事还是由你亲自提醒，效果会更好。",
+    dialog_text = "Some things will work better if you remind me in person.",
     dialog_size = 22,
     next_bubble = "39006"
   },
@@ -16521,7 +16521,7 @@ data = {
     aniamtion_list = "kiss_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "毕竟你说出的话，总能让我心甘情愿听从。",
+    dialog_text = "After all, I'll always listen to whatever you say.",
     dialog_size = 22,
     next_bubble = "#"
   },
@@ -16531,7 +16531,7 @@ data = {
     gift_behave_step = 1,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "确实很可爱。",
+    dialog_text = "Yeah... it's cute.",
     dialog_size = 22,
     next_bubble = "39102"
   },
@@ -16541,7 +16541,7 @@ data = {
     gift_behave_step = 2,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "不过它更适合出现在你桌上。",
+    dialog_text = "But it'd look even cuter on your desk.",
     dialog_size = 22,
     next_bubble = "39103"
   },
@@ -16553,7 +16553,7 @@ data = {
     aniamtion_list = "sigh_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "把厂商的联系方式发给我吧。",
+    dialog_text = "Send me the seller's info.",
     dialog_size = 22,
     next_bubble = "39104"
   },
@@ -16563,7 +16563,7 @@ data = {
     gift_behave_step = 4,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "比起自己，我更想看到布丁和你叠在一起。",
+    dialog_text = "I'd rather see you and Pudding stacked together.",
     dialog_size = 22,
     next_bubble = "39105"
   },
@@ -16573,7 +16573,7 @@ data = {
     gift_behave_step = 5,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "对了，还有一件事。",
+    dialog_text = "Oh, right. One more thing.",
     dialog_size = 22,
     next_bubble = "39106"
   },
@@ -16585,7 +16585,7 @@ data = {
     aniamtion_list = "sigh_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "为什么布丁压在我头上？",
+    dialog_text = "Why is Pudding sitting on my head?",
     dialog_size = 22,
     next_bubble = "#"
   },
@@ -16597,7 +16597,7 @@ data = {
     aniamtion_list = "shakehead_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "你想看我用这个东西给你做饭？",
+    dialog_text = "You want to see me cook with this?",
     dialog_size = 22,
     next_bubble = "39202"
   },
@@ -16607,7 +16607,7 @@ data = {
     gift_behave_step = 2,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "……先不论菜品，这个厨房倒是越来越有“奇幻色彩”了。",
+    dialog_text = "...Cooking aside, the kitchen's starting to look straight out of a fantasy novel.",
     dialog_size = 22,
     next_bubble = "39203"
   },
@@ -16619,7 +16619,7 @@ data = {
     aniamtion_list = "think_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "调味罐的形状和菜品的味道没有直接关系。",
+    dialog_text = "You know the shape of the spice dispenser doesn't magically affect the flavor, right?",
     dialog_size = 22,
     next_bubble = "39204"
   },
@@ -16629,7 +16629,7 @@ data = {
     gift_behave_step = 4,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "就算真有让菜品变美味的魔法，也不是这个。",
+    dialog_text = "Even if there was a magic trick to make food better, this wouldn't be it.",
     dialog_size = 22,
     next_bubble = "39205"
   },
@@ -16641,7 +16641,7 @@ data = {
     aniamtion_list = "langry_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "非要说的话……",
+    dialog_text = "If I have to name something that does, however...",
     dialog_size = 22,
     next_bubble = "39206"
   },
@@ -16653,7 +16653,7 @@ data = {
     aniamtion_list = "langry_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "大概是笨蛋对每一餐的期待吧。",
+    dialog_text = "It's probably a certain dummy's anticipation for everything I cook.",
     dialog_size = 22,
     next_bubble = "#"
   },
@@ -16663,7 +16663,7 @@ data = {
     gift_behave_step = 1,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "没想到我的相机上开出了一朵小花。",
+    dialog_text = "Didn't expect a flower to bloom on my camera.",
     dialog_size = 22,
     next_bubble = "39302"
   },
@@ -16673,7 +16673,7 @@ data = {
     gift_behave_step = 2,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "好像之后拍的每一张照片，都会更加美好。",
+    dialog_text = "Feels like every photo I take now has a little more magic.",
     dialog_size = 22,
     next_bubble = "39303"
   },
@@ -16683,7 +16683,7 @@ data = {
     gift_behave_step = 3,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "我也替相机谢谢你。",
+    dialog_text = "Allow me to thank you on behalf of the camera.",
     dialog_size = 22,
     next_bubble = "39304"
   },
@@ -16693,7 +16693,7 @@ data = {
     gift_behave_step = 4,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "那么，为了报答这份可爱的礼物。",
+    dialog_text = "So, to return the favor for such a cute gift...",
     dialog_size = 22,
     next_bubble = "39305"
   },
@@ -16705,7 +16705,7 @@ data = {
     aniamtion_list = "xhappy_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "不知道这位小姐有没有时间和我一起出门。",
+    dialog_text = "Wonder if the lady who gave it to me has time for a walk?",
     dialog_size = 22,
     next_bubble = "39306"
   },
@@ -16717,7 +16717,7 @@ data = {
     aniamtion_list = "xhappy_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "让小花为你拍几张照片呢？",
+    dialog_text = "The little flower and I would be honored to take a few photos for you.",
     dialog_size = 22,
     next_bubble = "#"
   },
@@ -16727,7 +16727,7 @@ data = {
     gift_behave_step = 1,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "每个方块都是诗里的一个词语吗？",
+    dialog_text = "Every square is a word from a poem?",
     dialog_size = 22,
     next_bubble = "39402"
   },
@@ -16737,7 +16737,7 @@ data = {
     gift_behave_step = 2,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "这么看来……",
+    dialog_text = "In that case...",
     dialog_size = 22,
     next_bubble = "39403"
   },
@@ -16749,7 +16749,7 @@ data = {
     aniamtion_list = "think_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "我似乎不应该试着把它还原回去了。",
+    dialog_text = "Maybe I shouldn't try solving it.",
     dialog_size = 22,
     next_bubble = "39404"
   },
@@ -16761,7 +16761,7 @@ data = {
     aniamtion_list = "think_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "毕竟每一次随机选择，都在与浪漫不期而遇。",
+    dialog_text = "Because every random combination feels like a romantic surprise waiting to happen.",
     dialog_size = 22,
     next_bubble = "39405"
   },
@@ -16773,7 +16773,7 @@ data = {
     aniamtion_list = "think_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "也总让人期待下一次会见到怎样的惊喜。",
+    dialog_text = "Makes me wonder what the next roll will bring.",
     dialog_size = 22,
     next_bubble = "39406"
   },
@@ -16785,7 +16785,7 @@ data = {
     aniamtion_list = "xhappy_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "就像你一样。",
+    dialog_text = "Kind of like you, always full of unexpected charm.",
     dialog_size = 22,
     next_bubble = "#"
   },
@@ -16797,7 +16797,7 @@ data = {
     aniamtion_list = "zhappy_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "看着这座流沙塔，总会想和你一起去野餐。",
+    dialog_text = "Looking at this thing makes me wanna grab a picnic blanket and drag you outside.",
     dialog_size = 22,
     next_bubble = "39502"
   },
@@ -16809,7 +16809,7 @@ data = {
     aniamtion_list = "zhappy_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "我们要和小熊一样，找到阳光明媚的小房子。",
+    dialog_text = "We'll be like the little bear. We'll find a sunny, cozy cabin.",
     dialog_size = 22,
     next_bubble = "39503"
   },
@@ -16819,7 +16819,7 @@ data = {
     gift_behave_step = 3,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "靠在一起，一起看着远处的花草和树林。",
+    dialog_text = "We'll sit close and watch the trees and flowers sway in the distance.",
     dialog_size = 22,
     next_bubble = "39504"
   },
@@ -16829,7 +16829,7 @@ data = {
     gift_behave_step = 4,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "然后等待甜甜的蜂蜜从天空降落。",
+    dialog_text = "Then we'll wait for some sweet honey to drip from the sky.",
     dialog_size = 22,
     next_bubble = "39505"
   },
@@ -16839,7 +16839,7 @@ data = {
     gift_behave_step = 5,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "从最温暖的黎明到最璀璨的夜晚……",
+    dialog_text = "From sunrise to starry skies...",
     dialog_size = 22,
     next_bubble = "39506"
   },
@@ -16849,7 +16849,7 @@ data = {
     gift_behave_step = 6,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "享受我们最最美好的一天。",
+    dialog_text = "It'll be the best day ever.",
     dialog_size = 22,
     next_bubble = "#"
   },
@@ -16861,7 +16861,7 @@ data = {
     aniamtion_list = "zhappy_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "谢谢你送给我的“升级装备”！",
+    dialog_text = "Whoa, thanks for the \"power-up\"!",
     dialog_size = 22,
     next_bubble = "39602"
   },
@@ -16873,7 +16873,7 @@ data = {
     aniamtion_list = "zhappy_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "这样一来，超级黑客的算力就再上一层楼了。",
+    dialog_text = "This'll totally boost my hacker energy!",
     dialog_size = 22,
     next_bubble = "39603"
   },
@@ -16885,7 +16885,7 @@ data = {
     aniamtion_list = "akimbo_f_02",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "如果给每个按键都配上这样的礼物……",
+    dialog_text = "Now imagine if every key got a keycap like this...",
     dialog_size = 22,
     next_bubble = "39604"
   },
@@ -16897,7 +16897,7 @@ data = {
     aniamtion_list = "akimbo_f_02",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "那我一定能天下无敌！",
+    dialog_text = "I'd be unstoppable!",
     dialog_size = 22,
     next_bubble = "39605"
   },
@@ -16907,7 +16907,7 @@ data = {
     gift_behave_step = 5,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "嗯？你说这样就看不到每个键的字母了？",
+    dialog_text = "Huh? You're worried I won't be able to see the letters anymore?",
     dialog_size = 22,
     next_bubble = "39606"
   },
@@ -16917,7 +16917,7 @@ data = {
     gift_behave_step = 6,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "放心吧，在盲打这件事上，我也所向披靡！",
+    dialog_text = "Don't worry. I'm the king of blind typing!",
     dialog_size = 22,
     next_bubble = "#"
   },
@@ -16929,7 +16929,7 @@ data = {
     aniamtion_list = "akimbo_f_02",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "这只螃蟹的两只钳子怎么不对称……",
+    dialog_text = "Why are the crab's claws uneven...?",
     dialog_size = 22,
     next_bubble = "39702"
   },
@@ -16939,7 +16939,7 @@ data = {
     gift_behave_step = 2,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "咳，我的意思是，这把多功能刀挺好的。",
+    dialog_text = "Ahem, I meant, yeah, this tool looks pretty handy.",
     dialog_size = 22,
     next_bubble = "39703"
   },
@@ -16949,7 +16949,7 @@ data = {
     gift_behave_step = 3,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "感觉只要有它，就足够应对很多情况了。",
+    dialog_text = "Feels like I could handle anything with this.",
     dialog_size = 22,
     next_bubble = "39704"
   },
@@ -16959,7 +16959,7 @@ data = {
     gift_behave_step = 4,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "能我自己动手，把钳子换成一样的工具吗？",
+    dialog_text = "Although, you think I can mod it so it has matching claws?",
     dialog_size = 22,
     next_bubble = "39705"
   },
@@ -16971,7 +16971,7 @@ data = {
     aniamtion_list = "bspeechless_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "好像拆开就拼不回去了？",
+    dialog_text = "I won't be able to put it back together if I take it apart?",
     dialog_size = 22,
     next_bubble = "39706"
   },
@@ -16981,7 +16981,7 @@ data = {
     gift_behave_step = 6,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "……好吧。",
+    dialog_text = "...Aww.",
     dialog_size = 22,
     next_bubble = "#"
   },
@@ -16993,7 +16993,7 @@ data = {
     aniamtion_list = "akimbo_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "家里的解压工具好像越来越多了。",
+    dialog_text = "We're kinda stockpiling stress toys at this point, huh?",
     dialog_size = 22,
     next_bubble = "39802"
   },
@@ -17005,7 +17005,7 @@ data = {
     aniamtion_list = "akimbo_f_02",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "不过其实有你在身边……",
+    dialog_text = "But honestly, with you here...",
     dialog_size = 22,
     next_bubble = "39803"
   },
@@ -17015,7 +17015,7 @@ data = {
     gift_behave_step = 3,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "我们总会有很多其他的解压方式。",
+    dialog_text = "We've got plenty of better ways to unwind.",
     dialog_size = 22,
     next_bubble = "39804"
   },
@@ -17025,7 +17025,7 @@ data = {
     gift_behave_step = 4,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "一起运动、享受这些工具，发发呆也很好。",
+    dialog_text = "Work out, enjoy these toys, or just space out and chillax.",
     dialog_size = 22,
     next_bubble = "39805"
   },
@@ -17037,7 +17037,7 @@ data = {
     aniamtion_list = "bspeechless_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "所以，压力大的时候，到我身边来。",
+    dialog_text = "So if things get heavy, come find me.",
     dialog_size = 22,
     next_bubble = "39806"
   },
@@ -17048,7 +17048,7 @@ data = {
     gift_behave_step_type = "dialog",
     aniamtion_list = "bspeechless_f_02",
     dialog_base = "normal",
-    dialog_text = "我会和你一起清空它们。",
+    dialog_text = "I'll help you shake it off.",
     dialog_size = 22,
     next_bubble = "#"
   },
@@ -17060,7 +17060,7 @@ data = {
     aniamtion_list = "think_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "看到了，重要日期都被笨蛋圈起来了。",
+    dialog_text = "I see a certain dummy has circled every important date.",
     dialog_size = 22,
     next_bubble = "39902"
   },
@@ -17070,7 +17070,7 @@ data = {
     gift_behave_step = 2,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "也看到了希望新一年增加旅行频率的提议。",
+    dialog_text = "I also caught that little note about wanting to travel more this year.",
     dialog_size = 22,
     next_bubble = "39903"
   },
@@ -17082,7 +17082,7 @@ data = {
     aniamtion_list = "bhappy_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "比起日程本，这倒更像你的心愿本。",
+    dialog_text = "Honestly? This feels more like a wish list than a planner.",
     dialog_size = 22,
     next_bubble = "39904"
   },
@@ -17092,7 +17092,7 @@ data = {
     gift_behave_step = 4,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "没说不行。至于地点和时间，我酌情参考。",
+    dialog_text = "I never said no. I'll figure out an appropriate time and place.",
     dialog_size = 22,
     next_bubble = "39905"
   },
@@ -17102,7 +17102,7 @@ data = {
     gift_behave_step = 5,
     gift_behave_step_type = "dialog",
     dialog_base = "normal",
-    dialog_text = "只是觉得某个热衷制造惊喜的笨蛋",
+    dialog_text = "I simply think someone who's always so into planning surprises...",
     dialog_size = 22,
     next_bubble = "39906"
   },
@@ -17114,7 +17114,7 @@ data = {
     aniamtion_list = "kiss_f_01",
     aniamtion_time_list = -1,
     dialog_base = "normal",
-    dialog_text = "理应收到别人准备的惊喜。",
+    dialog_text = "Really ought to get one of their own for a change.",
     dialog_size = 22,
     next_bubble = "#"
   }

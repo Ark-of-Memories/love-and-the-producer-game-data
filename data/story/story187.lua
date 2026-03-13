@@ -12016,6 +12016,216 @@ story187 = {
       next = {0}
     }
   },
+  [841001] = {
+    [1] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "海风习习，拂过这片宁静祥和的海。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "我轻轻吸了口气，看向身侧的周棋洛。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "那头灿耀的金发在余晖里添了暖意，让人看了心情不自觉地放松。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "虽然我知道我们之间仍然隔了一层透明的薄膜，但还是想多了解他那么一点。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "毕竟无论他是人鱼还是人，都需要时间来相处。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "注意到我的视线，他望了过来，淡漠的眸子里多了几分疑惑。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "像是在问我……“为什么看他？”。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "我想了想，才扬起笑容回应。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4982,
+      dhead = 107,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "周棋洛，我想再多了解这片大海。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4982,
+      dhead = 105,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "你……愿意帮我吗？",
+      next = {11}
+    },
+    [11] = {
+      beijing = 4982,
+      dialog = 2,
+      idx = 3,
+      music = "07_Romantic",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3190000,
+      role2 = 3190101,
+      role3 = 302203,
+      ruchang = -1,
+      sentence = "……",
+      next = {12}
+    },
+    [12] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      role1 = 3190000,
+      role2 = 3190108,
+      role3 = 302203,
+      sentence = "他没有立刻答复，沉默了一会儿，才轻声开口。",
+      next = {13}
+    },
+    [13] = {
+      beijing = 4982,
+      dialog = 2,
+      idx = 3,
+      music = "07_Romantic",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3190000,
+      role2 = 3190101,
+      role3 = 302203,
+      sentence = "好。",
+      next = {14}
+    },
+    [14] = {
+      beijing = 4982,
+      dialog = 2,
+      idx = 3,
+      music = "07_Romantic",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3190000,
+      role2 = 3190101,
+      role3 = 302203,
+      ruchang = 9,
+      sentence = "不过这片海几乎没有尽头，可能需要花很长的时间去了解。",
+      next = {15}
+    },
+    [15] = {
+      beijing = 4982,
+      dhead = 107,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "没关系，我现在最不缺的就是时间。",
+      next = {16}
+    },
+    [16] = {
+      beijing = 4982,
+      dhead = 107,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "而且作为交换，我也可以帮助你了解陆地上的生活。",
+      next = {17}
+    },
+    [17] = {
+      beijing = 4982,
+      dhead = 113,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "总有一天，我们都会对彼此生活的地方十分熟悉。",
+      next = {18}
+    },
+    [18] = {
+      beijing = 4982,
+      dhead = 113,
+      dialog = 1,
+      music = "07_Romantic",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "这样不仅生活丰富多彩，我们也会有说不完的话题。",
+      next = {19}
+    },
+    [19] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "不知道是我哪句话逗笑了他，那双好看的眼睛微微弯了起来。",
+      next = {20}
+    },
+    [20] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "周棋洛虽然不再开口，但根据这些天对他的了解……",
+      next = {21}
+    },
+    [21] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "我知道，他并不抵触这样做。",
+      next = {22}
+    },
+    [22] = {
+      beijing = 4982,
+      dialog = 3,
+      music = "07_Romantic",
+      renwu = "npc",
+      sentence = "甚至，和我一样在期待着那天的到来。",
+      next = {0}
+    }
+  },
   [903009] = {
     [1] = {
       beijing = 3752,

@@ -10361,6 +10361,113 @@ data = {
     engagement_type = 1,
     drop_year = "2023"
   },
+  [10991] = {
+    date_title = "Spring Date",
+    engagement_rank = 99,
+    male_role_id = 1,
+    engagement_time = "2026/2/28 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        51700,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Victor has started.",
+    date_desc = "Victor attended an environmental protection conference that lasted nearly half a month. We agreed that after the conference ended, we would go on a nostalgic trip together at Greenwood Park. During this special journey, as Victor and I retraced the paths of the past, we found something even more precious than the memories...",
+    date_story = 410991,
+    date_diary = "-1,109911",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [10992] = {
+    date_title = "Spring Date",
+    engagement_rank = 99,
+    male_role_id = 1,
+    engagement_time = "2026/2/28 05:00:00",
+    engagement_unlock_id = 10991,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        51700,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "Victor attended an environmental protection conference that lasted nearly half a month. We agreed that after the conference ended, we would go on a nostalgic trip together at Greenwood Park. During this special journey, as Victor and I retraced the paths of the past, we found something even more precious than the memories...",
+    date_story = 410992,
+    date_diary = "-1,109921",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [10993] = {
+    date_title = "Spring Date",
+    engagement_rank = 99,
+    male_role_id = 1,
+    engagement_time = "2026/2/28 05:00:00",
+    engagement_unlock_id = 10992,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        51700,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "Victor attended an environmental protection conference that lasted nearly half a month. We agreed that after the conference ended, we would go on a nostalgic trip together at Greenwood Park. During this special journey, as Victor and I retraced the paths of the past, we found something even more precious than the memories...",
+    date_story = 410993,
+    date_diary = "-1,109931",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [10994] = {
+    date_title = "Spring Date",
+    engagement_rank = 99,
+    male_role_id = 1,
+    engagement_time = "2026/2/28 05:00:00",
+    engagement_unlock_id = 10993,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        51700,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "Victor attended an environmental protection conference that lasted nearly half a month. We agreed that after the conference ended, we would go on a nostalgic trip together at Greenwood Park. During this special journey, as Victor and I retraced the paths of the past, we found something even more precious than the memories...",
+    date_story = 410994,
+    date_diary = "-1,109941",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
   [11001] = {
     date_title = "Adorable Date",
     engagement_rank = 100,
@@ -11587,6 +11694,113 @@ data = {
     engagement_type = 1,
     drop_year = "2023"
   },
+  [11121] = {
+    date_title = "Erhu Date",
+    engagement_rank = 112,
+    male_role_id = 1,
+    engagement_time = "2023/11/26 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        51800,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Victor has started.",
+    date_desc = "I invited Victor to serve as the event ambassador for a Chinese culture event, so I tried to get him to learn the erhu. What I didn't expect was how fully he'd commit to it. His quiet cooperation made me realize that, in his heart, I had already become someone he deeply trusted.",
+    date_story = 411121,
+    date_diary = "-1,111211",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
+  [11122] = {
+    date_title = "Erhu Date",
+    engagement_rank = 112,
+    male_role_id = 1,
+    engagement_time = "2023/11/26 05:00:00",
+    engagement_unlock_id = 11121,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        51800,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "I invited Victor to serve as the event ambassador for a Chinese culture event, so I tried to get him to learn the erhu. What I didn't expect was how fully he'd commit to it. His quiet cooperation made me realize that, in his heart, I had already become someone he deeply trusted.",
+    date_story = 411122,
+    date_diary = "-1,111221",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
+  [11123] = {
+    date_title = "Erhu Date",
+    engagement_rank = 112,
+    male_role_id = 1,
+    engagement_time = "2023/11/26 05:00:00",
+    engagement_unlock_id = 11122,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        51800,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "I invited Victor to serve as the event ambassador for a Chinese culture event, so I tried to get him to learn the erhu. What I didn't expect was how fully he'd commit to it. His quiet cooperation made me realize that, in his heart, I had already become someone he deeply trusted.",
+    date_story = 411123,
+    date_diary = "-1,111231",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
+  [11124] = {
+    date_title = "Erhu Date",
+    engagement_rank = 112,
+    male_role_id = 1,
+    engagement_time = "2023/11/26 05:00:00",
+    engagement_unlock_id = 11123,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        51800,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "I invited Victor to serve as the event ambassador for a Chinese culture event, so I tried to get him to learn the erhu. What I didn't expect was how fully he'd commit to it. His quiet cooperation made me realize that, in his heart, I had already become someone he deeply trusted.",
+    date_story = 411124,
+    date_diary = "-1,111241",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
   [11131] = {
     date_title = "Metropolis Date",
     engagement_rank = 113,
@@ -12191,6 +12405,113 @@ data = {
     engagement_type = 1,
     drop_year = "2024"
   },
+  [11191] = {
+    date_title = "Night Ride Date",
+    engagement_rank = 119,
+    male_role_id = 1,
+    engagement_time = "2025/11/1 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        71360,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Victor has started.",
+    date_desc = "To rule out every cause of the mall's underperformance, Victor and I set out at night to find the missing fengshui orb from the bronze lions. When we found the \"sky full of red light\" phenomenon that we were looking for, something unexpected happened...",
+    date_story = 411191,
+    date_diary = "-1,111911",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [11192] = {
+    date_title = "Night Ride Date",
+    engagement_rank = 119,
+    male_role_id = 1,
+    engagement_time = "2025/11/1 05:00:00",
+    engagement_unlock_id = 11191,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        71360,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "To rule out every cause of the mall's underperformance, Victor and I set out at night to find the missing fengshui orb from the bronze lions. When we found the \"sky full of red light\" phenomenon that we were looking for, something unexpected happened...",
+    date_story = 411192,
+    date_diary = "-1,111921",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [11193] = {
+    date_title = "Night Ride Date",
+    engagement_rank = 119,
+    male_role_id = 1,
+    engagement_time = "2025/11/1 05:00:00",
+    engagement_unlock_id = 11192,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        71360,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "To rule out every cause of the mall's underperformance, Victor and I set out at night to find the missing fengshui orb from the bronze lions. When we found the \"sky full of red light\" phenomenon that we were looking for, something unexpected happened...",
+    date_story = 411193,
+    date_diary = "-1,111931",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [11194] = {
+    date_title = "Night Ride Date",
+    engagement_rank = 119,
+    male_role_id = 1,
+    engagement_time = "2025/11/1 05:00:00",
+    engagement_unlock_id = 11193,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        71360,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "To rule out every cause of the mall's underperformance, Victor and I set out at night to find the missing fengshui orb from the bronze lions. When we found the \"sky full of red light\" phenomenon that we were looking for, something unexpected happened...",
+    date_story = 411194,
+    date_diary = "-1,111941",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
   [11201] = {
     date_title = "Date of Longing",
     engagement_rank = 120,
@@ -12297,6 +12618,590 @@ data = {
     datepos = 207,
     engagement_type = 1,
     drop_year = "2024"
+  },
+  [11221] = {
+    date_title = "Bridal Sedan Date",
+    engagement_rank = 122,
+    male_role_id = 1,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "1,54,6",
+    engagement_unlock_card = {
+      {
+        51920,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Victor has started.",
+    date_desc = "Just before leaving the Ruyi Town, Victor and I were surprised to discover that the lottery ticket we'd grabbed on a whim had actually won the grand prize—an exclusive spot in the town's traditional wedding ceremony held during the closing festivities. We thought it would be the perfect way to end our journey. But just when everything seemed to fall into place, the unexpected happened...",
+    date_story = 411221,
+    date_diary = "-1,112211",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [11222] = {
+    date_title = "Bridal Sedan Date",
+    engagement_rank = 122,
+    male_role_id = 1,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 11221,
+    engagement_unlock_need = "1,54,6",
+    engagement_unlock_card = {
+      {
+        51920,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "Just before leaving the Ruyi Town, Victor and I were surprised to discover that the lottery ticket we'd grabbed on a whim had actually won the grand prize—an exclusive spot in the town's traditional wedding ceremony held during the closing festivities. We thought it would be the perfect way to end our journey. But just when everything seemed to fall into place, the unexpected happened...",
+    date_story = 411222,
+    date_diary = "-1,112221",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [11223] = {
+    date_title = "Bridal Sedan Date",
+    engagement_rank = 122,
+    male_role_id = 1,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 11222,
+    engagement_unlock_need = "1,54,6",
+    engagement_unlock_card = {
+      {
+        51920,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "Just before leaving the Ruyi Town, Victor and I were surprised to discover that the lottery ticket we'd grabbed on a whim had actually won the grand prize—an exclusive spot in the town's traditional wedding ceremony held during the closing festivities. We thought it would be the perfect way to end our journey. But just when everything seemed to fall into place, the unexpected happened...",
+    date_story = 411223,
+    date_diary = "-1,112231",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [11224] = {
+    date_title = "Bridal Sedan Date",
+    engagement_rank = 122,
+    male_role_id = 1,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 11223,
+    engagement_unlock_need = "1,54,6",
+    engagement_unlock_card = {
+      {
+        51920,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "Just before leaving the Ruyi Town, Victor and I were surprised to discover that the lottery ticket we'd grabbed on a whim had actually won the grand prize—an exclusive spot in the town's traditional wedding ceremony held during the closing festivities. We thought it would be the perfect way to end our journey. But just when everything seemed to fall into place, the unexpected happened...",
+    date_story = 411224,
+    date_diary = "-1,112241",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [11225] = {
+    date_title = "Bridal Sedan Date",
+    engagement_rank = 122,
+    male_role_id = 1,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 11224,
+    engagement_unlock_need = "1,54,6",
+    engagement_unlock_card = {
+      {
+        51920,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "100062,101,3",
+    index = 5,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "Just before leaving the Ruyi Town, Victor and I were surprised to discover that the lottery ticket we'd grabbed on a whim had actually won the grand prize—an exclusive spot in the town's traditional wedding ceremony held during the closing festivities. We thought it would be the perfect way to end our journey. But just when everything seemed to fall into place, the unexpected happened...",
+    date_diary = "-999",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    extra_engagement_type = 1,
+    extra_engagement_title = "Close at Heart",
+    extra_engagement_id = 12191,
+    drop_year = "2024"
+  },
+  [11231] = {
+    date_title = "Fireworks Date",
+    engagement_rank = 123,
+    male_role_id = 1,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "1,54,6",
+    engagement_unlock_card = {
+      {
+        71440,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Victor has started.",
+    date_desc = "As the year drew to a close, I suggested to Victor that we celebrate our exhibition with a spectacular fireworks display. However, fate had other plans, and a sudden downpour on the day of the event threw my plans into chaos.",
+    date_story = 411231,
+    date_diary = "-1,112311",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [11232] = {
+    date_title = "Fireworks Date",
+    engagement_rank = 123,
+    male_role_id = 1,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 11231,
+    engagement_unlock_need = "1,54,6",
+    engagement_unlock_card = {
+      {
+        71440,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "As the year drew to a close, I suggested to Victor that we celebrate our exhibition with a spectacular fireworks display. However, fate had other plans, and a sudden downpour on the day of the event threw my plans into chaos.",
+    date_story = 411232,
+    date_diary = "-1,112321",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [11233] = {
+    date_title = "Fireworks Date",
+    engagement_rank = 123,
+    male_role_id = 1,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 11232,
+    engagement_unlock_need = "1,54,6",
+    engagement_unlock_card = {
+      {
+        71440,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "As the year drew to a close, I suggested to Victor that we celebrate our exhibition with a spectacular fireworks display. However, fate had other plans, and a sudden downpour on the day of the event threw my plans into chaos.",
+    date_story = 411233,
+    date_diary = "-1,112331",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [11234] = {
+    date_title = "Fireworks Date",
+    engagement_rank = 123,
+    male_role_id = 1,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 11233,
+    engagement_unlock_need = "1,54,6",
+    engagement_unlock_card = {
+      {
+        71440,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "As the year drew to a close, I suggested to Victor that we celebrate our exhibition with a spectacular fireworks display. However, fate had other plans, and a sudden downpour on the day of the event threw my plans into chaos.",
+    date_story = 411234,
+    date_diary = "-1,112341",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [11241] = {
+    date_title = "Celebration Date",
+    engagement_rank = 124,
+    male_role_id = 1,
+    engagement_time = "2026/1/8 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "1,54,4",
+    engagement_unlock_card = {
+      {
+        531230,
+        81,
+        1
+      },
+      {
+        41480,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Victor has started.",
+    date_desc = "On the morning of Victor's birthday, I arrived at the cruise ship's control room to finalize the details of his surprise. But an unexpected mishap occurred, one that ended up revealing his birthday to every LFG employee on board...",
+    date_story = 411241,
+    date_diary = "-1,112411",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [11242] = {
+    date_title = "Celebration Date",
+    engagement_rank = 124,
+    male_role_id = 1,
+    engagement_time = "2026/1/8 05:00:00",
+    engagement_unlock_id = 11241,
+    engagement_unlock_need = "1,54,4",
+    engagement_unlock_card = {
+      {
+        531230,
+        81,
+        1
+      },
+      {
+        41480,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "On the morning of Victor's birthday, I arrived at the cruise ship's control room to finalize the details of his surprise. But an unexpected mishap occurred, one that ended up revealing his birthday to every LFG employee on board...",
+    date_story = 411242,
+    date_diary = "-1,112421",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [11243] = {
+    date_title = "Celebration Date",
+    engagement_rank = 124,
+    male_role_id = 1,
+    engagement_time = "2026/1/8 05:00:00",
+    engagement_unlock_id = 11242,
+    engagement_unlock_need = "1,54,4",
+    engagement_unlock_card = {
+      {
+        531230,
+        81,
+        1
+      },
+      {
+        41480,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "On the morning of Victor's birthday, I arrived at the cruise ship's control room to finalize the details of his surprise. But an unexpected mishap occurred, one that ended up revealing his birthday to every LFG employee on board...",
+    date_story = 411243,
+    date_diary = "-1,112431",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [11244] = {
+    date_title = "Celebration Date",
+    engagement_rank = 124,
+    male_role_id = 1,
+    engagement_time = "2026/1/8 05:00:00",
+    engagement_unlock_id = 11243,
+    engagement_unlock_need = "1,54,4",
+    engagement_unlock_card = {
+      {
+        531230,
+        81,
+        1
+      },
+      {
+        41480,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "On the morning of Victor's birthday, I arrived at the cruise ship's control room to finalize the details of his surprise. But an unexpected mishap occurred, one that ended up revealing his birthday to every LFG employee on board...",
+    date_story = 411244,
+    date_diary = "-1,112441",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [11251] = {
+    date_title = "True Feeling Date",
+    engagement_rank = 125,
+    male_role_id = 1,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        41490,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Victor has started.",
+    date_desc = "After wrapping up a board meeting, Victor stayed out late to attend a business dinner. Worried about him, I went to pick him up. I couldn't quite tell if he was drunk, but something about him felt different—he actually seemed to be in a surprisingly good mood...",
+    date_story = 411251,
+    date_diary = "-1,112511",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [11252] = {
+    date_title = "True Feeling Date",
+    engagement_rank = 125,
+    male_role_id = 1,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 11251,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        41490,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "After wrapping up a board meeting, Victor stayed out late to attend a business dinner. Worried about him, I went to pick him up. I couldn't quite tell if he was drunk, but something about him felt different—he actually seemed to be in a surprisingly good mood...",
+    date_story = 411252,
+    date_diary = "-1,112521",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [11253] = {
+    date_title = "True Feeling Date",
+    engagement_rank = 125,
+    male_role_id = 1,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 11252,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        41490,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "After wrapping up a board meeting, Victor stayed out late to attend a business dinner. Worried about him, I went to pick him up. I couldn't quite tell if he was drunk, but something about him felt different—he actually seemed to be in a surprisingly good mood...",
+    date_story = 411253,
+    date_diary = "-1,112531",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [11254] = {
+    date_title = "True Feeling Date",
+    engagement_rank = 125,
+    male_role_id = 1,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 11253,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        41490,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "After wrapping up a board meeting, Victor stayed out late to attend a business dinner. Worried about him, I went to pick him up. I couldn't quite tell if he was drunk, but something about him felt different—he actually seemed to be in a surprisingly good mood...",
+    date_story = 411254,
+    date_diary = "-1,112541",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [11311] = {
+    date_title = "Astute Date",
+    engagement_rank = 131,
+    male_role_id = 1,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "1,54,7",
+    engagement_unlock_card = {
+      {
+        51980,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Victor has started.",
+    date_desc = "In a society ruled by a rating system that controlled our fates, I once believed that simply following the rules would lead to my promotion. But everything changed the day I met Victor. That was when I realized that behind the order, there were hidden forces beyond my comprehension...",
+    date_story = 411311,
+    date_diary = "-1,113111",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [11312] = {
+    date_title = "Astute Date",
+    engagement_rank = 131,
+    male_role_id = 1,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 11311,
+    engagement_unlock_need = "1,54,7",
+    engagement_unlock_card = {
+      {
+        51980,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "In a society ruled by a rating system that controlled our fates, I once believed that simply following the rules would lead to my promotion. But everything changed the day I met Victor. That was when I realized that behind the order, there were hidden forces beyond my comprehension...",
+    date_story = 411312,
+    date_diary = "-1,113121",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [11313] = {
+    date_title = "Astute Date",
+    engagement_rank = 131,
+    male_role_id = 1,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 11312,
+    engagement_unlock_need = "1,54,7",
+    engagement_unlock_card = {
+      {
+        51980,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "In a society ruled by a rating system that controlled our fates, I once believed that simply following the rules would lead to my promotion. But everything changed the day I met Victor. That was when I realized that behind the order, there were hidden forces beyond my comprehension...",
+    date_story = 411313,
+    date_diary = "-1,113131",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [11314] = {
+    date_title = "Astute Date",
+    engagement_rank = 131,
+    male_role_id = 1,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 11313,
+    engagement_unlock_need = "1,54,7",
+    engagement_unlock_card = {
+      {
+        51980,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "In a society ruled by a rating system that controlled our fates, I once believed that simply following the rules would lead to my promotion. But everything changed the day I met Victor. That was when I realized that behind the order, there were hidden forces beyond my comprehension...",
+    date_story = 411314,
+    date_diary = "-1,113141",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
   },
   [11501] = {
     date_title = "Candlelight Date",
@@ -12770,6 +13675,220 @@ data = {
     initpos = 204,
     datepos = 207,
     engagement_type = 2,
+    drop_year = "2024"
+  },
+  [12021] = {
+    date_title = "Polo Date",
+    engagement_rank = 202,
+    male_role_id = 1,
+    engagement_time = "2025/11/26 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        71420,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Victor has started.",
+    date_desc = "Under an unexpected circumstance, I agreed to join Victor in a special polo-themed luncheon. That day, I saw Victor effortlessly navigate through social occasions and show a special side only to me...",
+    date_story = 412021,
+    date_diary = "-1,120211",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [12022] = {
+    date_title = "Polo Date",
+    engagement_rank = 202,
+    male_role_id = 1,
+    engagement_time = "2025/11/26 05:00:00",
+    engagement_unlock_id = 12021,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        71420,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "Under an unexpected circumstance, I agreed to join Victor in a special polo-themed luncheon. That day, I saw Victor effortlessly navigate through social occasions and show a special side only to me...",
+    date_story = 412022,
+    date_diary = "-1,120221",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [12023] = {
+    date_title = "Polo Date",
+    engagement_rank = 202,
+    male_role_id = 1,
+    engagement_time = "2025/11/26 05:00:00",
+    engagement_unlock_id = 12022,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        71420,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "Under an unexpected circumstance, I agreed to join Victor in a special polo-themed luncheon. That day, I saw Victor effortlessly navigate through social occasions and show a special side only to me...",
+    date_story = 412023,
+    date_diary = "-1,120231",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [12024] = {
+    date_title = "Polo Date",
+    engagement_rank = 202,
+    male_role_id = 1,
+    engagement_time = "2025/11/26 05:00:00",
+    engagement_unlock_id = 12023,
+    engagement_unlock_need = "1,54,5",
+    engagement_unlock_card = {
+      {
+        71420,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "Under an unexpected circumstance, I agreed to join Victor in a special polo-themed luncheon. That day, I saw Victor effortlessly navigate through social occasions and show a special side only to me...",
+    date_story = 412024,
+    date_diary = "-1,120241",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [12031] = {
+    date_title = "Eldritch Date",
+    engagement_rank = 203,
+    male_role_id = 1,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "1,54,7",
+    engagement_unlock_card = {
+      {
+        51910,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Victor has started.",
+    date_desc = "This Halloween, Victor and I joined a role-playing exploration game. While abiding by the character rules of the Corpse Bride and Scissorhands, we set out to search for the contamination source within the streets. However, as the game went out, we stumbled into something unexpected...",
+    date_story = 412031,
+    date_diary = "-1,120311",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [12032] = {
+    date_title = "Eldritch Date",
+    engagement_rank = 203,
+    male_role_id = 1,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 12031,
+    engagement_unlock_need = "1,54,7",
+    engagement_unlock_card = {
+      {
+        51910,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "This Halloween, Victor and I joined a role-playing exploration game. While abiding by the character rules of the Corpse Bride and Scissorhands, we set out to search for the contamination source within the streets. However, as the game went out, we stumbled into something unexpected...",
+    date_story = 412032,
+    date_diary = "-1,120321",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [12033] = {
+    date_title = "Eldritch Date",
+    engagement_rank = 203,
+    male_role_id = 1,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 12032,
+    engagement_unlock_need = "1,54,7",
+    engagement_unlock_card = {
+      {
+        51910,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "This Halloween, Victor and I joined a role-playing exploration game. While abiding by the character rules of the Corpse Bride and Scissorhands, we set out to search for the contamination source within the streets. However, as the game went out, we stumbled into something unexpected...",
+    date_story = 412033,
+    date_diary = "-1,120331",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [12034] = {
+    date_title = "Eldritch Date",
+    engagement_rank = 203,
+    male_role_id = 1,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 12033,
+    engagement_unlock_need = "1,54,7",
+    engagement_unlock_card = {
+      {
+        51910,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Victor.",
+    date_desc = "This Halloween, Victor and I joined a role-playing exploration game. While abiding by the character rules of the Corpse Bride and Scissorhands, we set out to search for the contamination source within the streets. However, as the game went out, we stumbled into something unexpected...",
+    date_story = 412034,
+    date_diary = "-1,120341",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
     drop_year = "2024"
   },
   [15011] = {
@@ -13801,6 +14920,162 @@ data = {
     datepos = 207,
     engagement_type = 2,
     drop_year = "2023"
+  },
+  [16001] = {
+    date_title = "Realm of the Divine",
+    engagement_rank = 600,
+    male_role_id = 1,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "91030,1431,0",
+    engagement_unlock_card = {
+      {
+        91030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new story with Victor has started.",
+    date_desc = "To gather material for a charity documentary at the beginning of the year, I visited a place called Harmony Village on the recommendation of a classmate, only to discover that this \"Shangri-La\" seemed to be hiding a dark side. Just as the situation was getting sticky, Victor suddenly showed up...",
+    date_story = 416001,
+    date_diary = "-1,160011",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [16002] = {
+    date_title = "Realm of the Divine",
+    engagement_rank = 600,
+    male_role_id = 1,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 16001,
+    engagement_unlock_need = "91030,1431,0",
+    engagement_unlock_card = {
+      {
+        91030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the story with Victor.",
+    date_desc = "To gather material for a charity documentary at the beginning of the year, I visited a place called Harmony Village on the recommendation of a classmate, only to discover that this \"Shangri-La\" seemed to be hiding a dark side. Just as the situation was getting sticky, Victor suddenly showed up...",
+    date_story = 416002,
+    date_diary = "-1,160021",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [16003] = {
+    date_title = "Realm of the Divine",
+    engagement_rank = 600,
+    male_role_id = 1,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 16002,
+    engagement_unlock_need = "91030,1431,1",
+    engagement_unlock_card = {
+      {
+        91030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the story with Victor.",
+    date_desc = "To gather material for a charity documentary at the beginning of the year, I visited a place called Harmony Village on the recommendation of a classmate, only to discover that this \"Shangri-La\" seemed to be hiding a dark side. Just as the situation was getting sticky, Victor suddenly showed up...",
+    date_story = 416003,
+    date_diary = "-1,160031",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [16004] = {
+    date_title = "Realm of the Divine",
+    engagement_rank = 600,
+    male_role_id = 1,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 16003,
+    engagement_unlock_need = "91030,1431,2",
+    engagement_unlock_card = {
+      {
+        91030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the story with Victor.",
+    date_desc = "To gather material for a charity documentary at the beginning of the year, I visited a place called Harmony Village on the recommendation of a classmate, only to discover that this \"Shangri-La\" seemed to be hiding a dark side. Just as the situation was getting sticky, Victor suddenly showed up...",
+    date_story = 416004,
+    date_diary = "-1,160041",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [16005] = {
+    date_title = "Realm of the Divine",
+    engagement_rank = 600,
+    male_role_id = 1,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 16004,
+    engagement_unlock_need = "91030,1431,3",
+    engagement_unlock_card = {
+      {
+        91030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,41,100",
+    index = 5,
+    date_guide = "There's a new development in the story with Victor.",
+    date_desc = "To gather material for a charity documentary at the beginning of the year, I visited a place called Harmony Village on the recommendation of a classmate, only to discover that this \"Shangri-La\" seemed to be hiding a dark side. Just as the situation was getting sticky, Victor suddenly showed up...",
+    date_story = 416005,
+    date_diary = "-1,160051",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [16006] = {
+    date_title = "Realm of the Divine",
+    engagement_rank = 600,
+    male_role_id = 1,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 16005,
+    engagement_unlock_need = "91030,1431,4",
+    engagement_unlock_card = {
+      {
+        91030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "100061,101,1",
+    index = 6,
+    date_guide = "There's a new development in the story with Victor.",
+    date_desc = "To gather material for a charity documentary at the beginning of the year, I visited a place called Harmony Village on the recommendation of a classmate, only to discover that this \"Shangri-La\" seemed to be hiding a dark side. Just as the situation was getting sticky, Victor suddenly showed up...",
+    date_story = 416006,
+    date_diary = "-1,160061",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
   },
   [19021] = {
     date_title = "Light Shadow Date",
@@ -25788,6 +27063,113 @@ data = {
     engagement_type = 1,
     drop_year = "2023"
   },
+  [21121] = {
+    date_title = "Twisted Date",
+    engagement_rank = 112,
+    male_role_id = 2,
+    engagement_time = "2026/1/1 5:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        72340,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Lucien has started.",
+    date_desc = "I took my team to a building in another city for research on a shoot. As we rode down in the elevator, I learned that this place was famous not just for its diverse visitors but also for its strange urban legends.",
+    date_story = 421121,
+    date_diary = "-1,211211",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21122] = {
+    date_title = "Twisted Date",
+    engagement_rank = 112,
+    male_role_id = 2,
+    engagement_time = "2026/1/1 5:00:00",
+    engagement_unlock_id = 21121,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        72340,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "I took my team to a building in another city for research on a shoot. As we rode down in the elevator, I learned that this place was famous not just for its diverse visitors but also for its strange urban legends.",
+    date_story = 421122,
+    date_diary = "-1,211221",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21123] = {
+    date_title = "Twisted Date",
+    engagement_rank = 112,
+    male_role_id = 2,
+    engagement_time = "2026/1/1 5:00:00",
+    engagement_unlock_id = 21122,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        72340,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "I took my team to a building in another city for research on a shoot. As we rode down in the elevator, I learned that this place was famous not just for its diverse visitors but also for its strange urban legends.",
+    date_story = 421123,
+    date_diary = "-1,211231",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21124] = {
+    date_title = "Twisted Date",
+    engagement_rank = 112,
+    male_role_id = 2,
+    engagement_time = "2026/1/1 5:00:00",
+    engagement_unlock_id = 21123,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        72340,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "I took my team to a building in another city for research on a shoot. As we rode down in the elevator, I learned that this place was famous not just for its diverse visitors but also for its strange urban legends.",
+    date_story = 421124,
+    date_diary = "-1,211241",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
   [21131] = {
     date_title = "Wild Fire",
     engagement_rank = 113,
@@ -26158,6 +27540,220 @@ data = {
     engagement_type = 1,
     drop_year = "2024"
   },
+  [21171] = {
+    date_title = "Chance Date",
+    engagement_rank = 117,
+    male_role_id = 2,
+    engagement_time = "2024/2/22 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        52810,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Lucien has started.",
+    date_desc = "I accepted Lucien's invitation to film a special documentary on a late neuroscience expert. While I focused on capturing footage of Professor Young's studio, Lucien, staying true to a promise he'd once made, began organizing the research materials left behind. Within the quiet of the old residence, the soft strains of ancient music began to fill the air...",
+    date_story = 421171,
+    date_diary = "-1,211711",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21172] = {
+    date_title = "Chance Date",
+    engagement_rank = 117,
+    male_role_id = 2,
+    engagement_time = "2024/2/22 05:00:00",
+    engagement_unlock_id = 21171,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        52810,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "I accepted Lucien's invitation to film a special documentary on a late neuroscience expert. While I focused on capturing footage of Professor Young's studio, Lucien, staying true to a promise he'd once made, began organizing the research materials left behind. Within the quiet of the old residence, the soft strains of ancient music began to fill the air...",
+    date_story = 421172,
+    date_diary = "-1,211721",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21173] = {
+    date_title = "Chance Date",
+    engagement_rank = 117,
+    male_role_id = 2,
+    engagement_time = "2024/2/22 05:00:00",
+    engagement_unlock_id = 21172,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        52810,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "I accepted Lucien's invitation to film a special documentary on a late neuroscience expert. While I focused on capturing footage of Professor Young's studio, Lucien, staying true to a promise he'd once made, began organizing the research materials left behind. Within the quiet of the old residence, the soft strains of ancient music began to fill the air...",
+    date_story = 421173,
+    date_diary = "-1,211731",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21174] = {
+    date_title = "Chance Date",
+    engagement_rank = 117,
+    male_role_id = 2,
+    engagement_time = "2024/2/22 05:00:00",
+    engagement_unlock_id = 21173,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        52810,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "I accepted Lucien's invitation to film a special documentary on a late neuroscience expert. While I focused on capturing footage of Professor Young's studio, Lucien, staying true to a promise he'd once made, began organizing the research materials left behind. Within the quiet of the old residence, the soft strains of ancient music began to fill the air...",
+    date_story = 421174,
+    date_diary = "-1,211741",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21211] = {
+    date_title = "Pottery Date",
+    engagement_rank = 121,
+    male_role_id = 2,
+    engagement_time = "2024/6/3 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        72390,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Lucien has started.",
+    date_desc = "After learning that the pottery handicraft parlor we frequented had moved elsewhere, Lucien and I decided to pay the new store a visit over the weekend. Unexpectedly, the owner fell ill and entrusted us with the task of watching his parlor for him as clerks for a day, during which we gained a very different pottery experience.",
+    date_story = 421211,
+    date_diary = "-1,212111",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21212] = {
+    date_title = "Pottery Date",
+    engagement_rank = 121,
+    male_role_id = 2,
+    engagement_time = "2024/6/3 05:00:00",
+    engagement_unlock_id = 21211,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        72390,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "After learning that the pottery handicraft parlor we frequented had moved elsewhere, Lucien and I decided to pay the new store a visit over the weekend. Unexpectedly, the owner fell ill and entrusted us with the task of watching his parlor for him as clerks for a day, during which we gained a very different pottery experience.",
+    date_story = 421212,
+    date_diary = "-1,212121",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21213] = {
+    date_title = "Pottery Date",
+    engagement_rank = 121,
+    male_role_id = 2,
+    engagement_time = "2024/6/3 05:00:00",
+    engagement_unlock_id = 21212,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        72390,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "After learning that the pottery handicraft parlor we frequented had moved elsewhere, Lucien and I decided to pay the new store a visit over the weekend. Unexpectedly, the owner fell ill and entrusted us with the task of watching his parlor for him as clerks for a day, during which we gained a very different pottery experience.",
+    date_story = 421213,
+    date_diary = "-1,212131",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21214] = {
+    date_title = "Pottery Date",
+    engagement_rank = 121,
+    male_role_id = 2,
+    engagement_time = "2024/6/3 05:00:00",
+    engagement_unlock_id = 21213,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        72390,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "After learning that the pottery handicraft parlor we frequented had moved elsewhere, Lucien and I decided to pay the new store a visit over the weekend. Unexpectedly, the owner fell ill and entrusted us with the task of watching his parlor for him as clerks for a day, during which we gained a very different pottery experience.",
+    date_story = 421214,
+    date_diary = "-1,212141",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
   [21231] = {
     date_title = "Seaside At Last",
     engagement_rank = 123,
@@ -26501,6 +28097,911 @@ data = {
     datepos = 207,
     engagement_type = 1,
     drop_year = "2024"
+  },
+  [21271] = {
+    date_title = "Date of Memory Shards",
+    engagement_rank = 127,
+    male_role_id = 2,
+    engagement_time = "2025/9/25 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        52860,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Lucien has started.",
+    date_desc = "Lucien planned to attend a work conference in the States, so I volunteered to travel with him and visit the lab he worked at in grad school...",
+    date_story = 421271,
+    date_diary = "-1,212711",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21272] = {
+    date_title = "Date of Memory Shards",
+    engagement_rank = 127,
+    male_role_id = 2,
+    engagement_time = "2025/9/25 05:00:00",
+    engagement_unlock_id = 21271,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        52860,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "Lucien planned to attend a work conference in the States, so I volunteered to travel with him and visit the lab he worked at in grad school...",
+    date_story = 421272,
+    date_diary = "-1,212721",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21273] = {
+    date_title = "Date of Memory Shards",
+    engagement_rank = 127,
+    male_role_id = 2,
+    engagement_time = "2025/9/25 05:00:00",
+    engagement_unlock_id = 21272,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        52860,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "Lucien planned to attend a work conference in the States, so I volunteered to travel with him and visit the lab he worked at in grad school...",
+    date_story = 421273,
+    date_diary = "-1,212731",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21274] = {
+    date_title = "Date of Memory Shards",
+    engagement_rank = 127,
+    male_role_id = 2,
+    engagement_time = "2025/9/25 05:00:00",
+    engagement_unlock_id = 21273,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        52860,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "Lucien planned to attend a work conference in the States, so I volunteered to travel with him and visit the lab he worked at in grad school...",
+    date_story = 421274,
+    date_diary = "-1,212741",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21301] = {
+    date_title = "Castle Escape Date",
+    engagement_rank = 130,
+    male_role_id = 2,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "2,54,7",
+    engagement_unlock_card = {
+      {
+        52900,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Lucien has started.",
+    date_desc = "This Halloween, Lucien and I stepped into an immersive escape room experience, each playing the role of one of the queen's toys. Our task was to search the castle for a specific item tied to our character. But as the game progressed, I began to realize—this story wasn't unfolding the way I thought it would...",
+    date_story = 421301,
+    date_diary = "-1,213011",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21302] = {
+    date_title = "Castle Escape Date",
+    engagement_rank = 130,
+    male_role_id = 2,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 21301,
+    engagement_unlock_need = "2,54,7",
+    engagement_unlock_card = {
+      {
+        52900,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "This Halloween, Lucien and I stepped into an immersive escape room experience, each playing the role of one of the queen's toys. Our task was to search the castle for a specific item tied to our character. But as the game progressed, I began to realize—this story wasn't unfolding the way I thought it would...",
+    date_story = 421302,
+    date_diary = "-1,213021",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21303] = {
+    date_title = "Castle Escape Date",
+    engagement_rank = 130,
+    male_role_id = 2,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 21302,
+    engagement_unlock_need = "2,54,7",
+    engagement_unlock_card = {
+      {
+        52900,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "This Halloween, Lucien and I stepped into an immersive escape room experience, each playing the role of one of the queen's toys. Our task was to search the castle for a specific item tied to our character. But as the game progressed, I began to realize—this story wasn't unfolding the way I thought it would...",
+    date_story = 421303,
+    date_diary = "-1,213031",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21304] = {
+    date_title = "Castle Escape Date",
+    engagement_rank = 130,
+    male_role_id = 2,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 21303,
+    engagement_unlock_need = "2,54,7",
+    engagement_unlock_card = {
+      {
+        52900,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "This Halloween, Lucien and I stepped into an immersive escape room experience, each playing the role of one of the queen's toys. Our task was to search the castle for a specific item tied to our character. But as the game progressed, I began to realize—this story wasn't unfolding the way I thought it would...",
+    date_story = 421304,
+    date_diary = "-1,213041",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21311] = {
+    date_title = "First Snow Date",
+    engagement_rank = 131,
+    male_role_id = 2,
+    engagement_time = "2025/11/10 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        532200,
+        81,
+        1
+      },
+      {
+        42460,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Lucien has started.",
+    date_desc = "To celebrate Lucien's birthday, we traveled to a castle with an autumn atmosphere. Here, I saw a rare, childlike side of Lucien...",
+    date_story = 421311,
+    date_diary = "-1,213111",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21312] = {
+    date_title = "First Snow Date",
+    engagement_rank = 131,
+    male_role_id = 2,
+    engagement_time = "2025/11/10 05:00:00",
+    engagement_unlock_id = 21311,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        532200,
+        81,
+        1
+      },
+      {
+        42460,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "To celebrate Lucien's birthday, we traveled to a castle with an autumn atmosphere. Here, I saw a rare, childlike side of Lucien...",
+    date_story = 421312,
+    date_diary = "-1,213121",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21313] = {
+    date_title = "First Snow Date",
+    engagement_rank = 131,
+    male_role_id = 2,
+    engagement_time = "2025/11/10 05:00:00",
+    engagement_unlock_id = 21312,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        532200,
+        81,
+        1
+      },
+      {
+        42460,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "To celebrate Lucien's birthday, we traveled to a castle with an autumn atmosphere. Here, I saw a rare, childlike side of Lucien...",
+    date_story = 421313,
+    date_diary = "-1,213131",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21314] = {
+    date_title = "First Snow Date",
+    engagement_rank = 131,
+    male_role_id = 2,
+    engagement_time = "2025/11/10 05:00:00",
+    engagement_unlock_id = 21313,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        532200,
+        81,
+        1
+      },
+      {
+        42460,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "To celebrate Lucien's birthday, we traveled to a castle with an autumn atmosphere. Here, I saw a rare, childlike side of Lucien...",
+    date_story = 421314,
+    date_diary = "-1,213141",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21321] = {
+    date_title = "Reed Date",
+    engagement_rank = 132,
+    male_role_id = 2,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        42450,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Lucien has started.",
+    date_desc = "To prepare for the opening of an important event, I had to attend a closed-door meeting in a small town abroad, while Lucien was busy with his project in Loveland City. For half a month, we only talked over the phone, but when I was stuck in my work, he gave me new strength in a most unexpected way...",
+    date_story = 421321,
+    date_diary = "-1,213211",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21322] = {
+    date_title = "Reed Date",
+    engagement_rank = 132,
+    male_role_id = 2,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 21321,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        42450,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "To prepare for the opening of an important event, I had to attend a closed-door meeting in a small town abroad, while Lucien was busy with his project in Loveland City. For half a month, we only talked over the phone, but when I was stuck in my work, he gave me new strength in a most unexpected way...",
+    date_story = 421322,
+    date_diary = "-1,213221",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21323] = {
+    date_title = "Reed Date",
+    engagement_rank = 132,
+    male_role_id = 2,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 21322,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        42450,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "To prepare for the opening of an important event, I had to attend a closed-door meeting in a small town abroad, while Lucien was busy with his project in Loveland City. For half a month, we only talked over the phone, but when I was stuck in my work, he gave me new strength in a most unexpected way...",
+    date_story = 421323,
+    date_diary = "-1,213231",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21324] = {
+    date_title = "Reed Date",
+    engagement_rank = 132,
+    male_role_id = 2,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 21323,
+    engagement_unlock_need = "2,54,5",
+    engagement_unlock_card = {
+      {
+        42450,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "To prepare for the opening of an important event, I had to attend a closed-door meeting in a small town abroad, while Lucien was busy with his project in Loveland City. For half a month, we only talked over the phone, but when I was stuck in my work, he gave me new strength in a most unexpected way...",
+    date_story = 421324,
+    date_diary = "-1,213241",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21331] = {
+    date_title = "Red Thread Date",
+    engagement_rank = 133,
+    male_role_id = 2,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        52910,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Lucien has started.",
+    date_desc = "Lucien and I signed up for a themed role-play adventure in Ruyi Town, where fate would assign us our parts by lot. I drew the headstrong daughter of a martial arts clan, desperate to flee an arranged marriage; Lucien, the refined young master from a family of scholars. It wasn't the wedding storyline we'd envisioned, but we chose to walk this path of unexpected romance—together.",
+    date_story = 421331,
+    date_diary = "-1,213311",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21332] = {
+    date_title = "Red Thread Date",
+    engagement_rank = 133,
+    male_role_id = 2,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 21331,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        52910,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "Lucien and I signed up for a themed role-play adventure in Ruyi Town, where fate would assign us our parts by lot. I drew the headstrong daughter of a martial arts clan, desperate to flee an arranged marriage; Lucien, the refined young master from a family of scholars. It wasn't the wedding storyline we'd envisioned, but we chose to walk this path of unexpected romance—together.",
+    date_story = 421332,
+    date_diary = "-1,213321",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21333] = {
+    date_title = "Red Thread Date",
+    engagement_rank = 133,
+    male_role_id = 2,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 21332,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        52910,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "Lucien and I signed up for a themed role-play adventure in Ruyi Town, where fate would assign us our parts by lot. I drew the headstrong daughter of a martial arts clan, desperate to flee an arranged marriage; Lucien, the refined young master from a family of scholars. It wasn't the wedding storyline we'd envisioned, but we chose to walk this path of unexpected romance—together.",
+    date_story = 421333,
+    date_diary = "-1,213331",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21334] = {
+    date_title = "Red Thread Date",
+    engagement_rank = 133,
+    male_role_id = 2,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 21333,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        52910,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "Lucien and I signed up for a themed role-play adventure in Ruyi Town, where fate would assign us our parts by lot. I drew the headstrong daughter of a martial arts clan, desperate to flee an arranged marriage; Lucien, the refined young master from a family of scholars. It wasn't the wedding storyline we'd envisioned, but we chose to walk this path of unexpected romance—together.",
+    date_story = 421334,
+    date_diary = "-1,213341",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [21335] = {
+    date_title = "Red Thread Date",
+    engagement_rank = 133,
+    male_role_id = 2,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 21334,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        52910,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "100062,101,3",
+    index = 5,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "Lucien and I signed up for a themed role-play adventure in Ruyi Town, where fate would assign us our parts by lot. I drew the headstrong daughter of a martial arts clan, desperate to flee an arranged marriage; Lucien, the refined young master from a family of scholars. It wasn't the wedding storyline we'd envisioned, but we chose to walk this path of unexpected romance—together.",
+    date_diary = "-999",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    extra_engagement_type = 1,
+    extra_engagement_title = "Close at Heart",
+    extra_engagement_id = 22191,
+    drop_year = "2024"
+  },
+  [21341] = {
+    date_title = "Film Date",
+    engagement_rank = 134,
+    male_role_id = 2,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        72430,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Lucien has started.",
+    date_desc = "As New Year's Eve approached, the shared photo album I had with Lucien was completely full. Even after some decluttering, we hadn't made much space. So, when we headed to the Promenade Fireworks Art Festival to celebrate, we decided to try something different—a \"pact of restraint\" using a film camera.",
+    date_story = 421341,
+    date_diary = "-1,213411",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [21342] = {
+    date_title = "Film Date",
+    engagement_rank = 134,
+    male_role_id = 2,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 21341,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        72430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "As New Year's Eve approached, the shared photo album I had with Lucien was completely full. Even after some decluttering, we hadn't made much space. So, when we headed to the Promenade Fireworks Art Festival to celebrate, we decided to try something different—a \"pact of restraint\" using a film camera.",
+    date_story = 421342,
+    date_diary = "-1,213421",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [21343] = {
+    date_title = "Film Date",
+    engagement_rank = 134,
+    male_role_id = 2,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 21342,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        72430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "As New Year's Eve approached, the shared photo album I had with Lucien was completely full. Even after some decluttering, we hadn't made much space. So, when we headed to the Promenade Fireworks Art Festival to celebrate, we decided to try something different—a \"pact of restraint\" using a film camera.",
+    date_story = 421343,
+    date_diary = "-1,213431",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [21344] = {
+    date_title = "Film Date",
+    engagement_rank = 134,
+    male_role_id = 2,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 21343,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        72430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "As New Year's Eve approached, the shared photo album I had with Lucien was completely full. Even after some decluttering, we hadn't made much space. So, when we headed to the Promenade Fireworks Art Festival to celebrate, we decided to try something different—a \"pact of restraint\" using a film camera.",
+    date_story = 421344,
+    date_diary = "-1,213441",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [21351] = {
+    date_title = "Dance Date",
+    engagement_rank = 135,
+    male_role_id = 2,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        52930,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Lucien has started.",
+    date_desc = "A long-term project at Lucien's Research Center has finally yielded great results. I decided to surprise him with a short vacation to celebrate. Of course, Lucien managed to \"figure out\" my surprise once again...",
+    date_story = 421351,
+    date_diary = "-1,213511",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [21352] = {
+    date_title = "Dance Date",
+    engagement_rank = 135,
+    male_role_id = 2,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 21351,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        52930,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "A long-term project at Lucien's Research Center has finally yielded great results. I decided to surprise him with a short vacation to celebrate. Of course, Lucien managed to \"figure out\" my surprise once again...",
+    date_story = 421352,
+    date_diary = "-1,213521",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [21353] = {
+    date_title = "Dance Date",
+    engagement_rank = 135,
+    male_role_id = 2,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 21352,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        52930,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "A long-term project at Lucien's Research Center has finally yielded great results. I decided to surprise him with a short vacation to celebrate. Of course, Lucien managed to \"figure out\" my surprise once again...",
+    date_story = 421353,
+    date_diary = "-1,213531",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [21354] = {
+    date_title = "Dance Date",
+    engagement_rank = 135,
+    male_role_id = 2,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 21353,
+    engagement_unlock_need = "2,54,6",
+    engagement_unlock_card = {
+      {
+        52930,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "A long-term project at Lucien's Research Center has finally yielded great results. I decided to surprise him with a short vacation to celebrate. Of course, Lucien managed to \"figure out\" my surprise once again...",
+    date_story = 421354,
+    date_diary = "-1,213541",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [21401] = {
+    date_title = "Ruse Date",
+    engagement_rank = 140,
+    male_role_id = 2,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "2,54,7",
+    engagement_unlock_card = {
+      {
+        52960,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Lucien has started.",
+    date_desc = "Though I had grown accustomed to working on the prison medical team, I was still caught off guard when I realized that the subject of this memory wipe was Lucien. As he faced me, his words seemed laced with a dangerous, almost deliberate undertone...",
+    date_story = 421401,
+    date_diary = "-1,214011",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [21402] = {
+    date_title = "Ruse Date",
+    engagement_rank = 140,
+    male_role_id = 2,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 21401,
+    engagement_unlock_need = "2,54,7",
+    engagement_unlock_card = {
+      {
+        52960,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "Though I had grown accustomed to working on the prison medical team, I was still caught off guard when I realized that the subject of this memory wipe was Lucien. As he faced me, his words seemed laced with a dangerous, almost deliberate undertone...",
+    date_story = 421402,
+    date_diary = "-1,214021",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [21403] = {
+    date_title = "Ruse Date",
+    engagement_rank = 140,
+    male_role_id = 2,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 21402,
+    engagement_unlock_need = "2,54,7",
+    engagement_unlock_card = {
+      {
+        52960,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "Though I had grown accustomed to working on the prison medical team, I was still caught off guard when I realized that the subject of this memory wipe was Lucien. As he faced me, his words seemed laced with a dangerous, almost deliberate undertone...",
+    date_story = 421403,
+    date_diary = "-1,214031",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [21404] = {
+    date_title = "Ruse Date",
+    engagement_rank = 140,
+    male_role_id = 2,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 21403,
+    engagement_unlock_need = "2,54,7",
+    engagement_unlock_card = {
+      {
+        52960,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Lucien.",
+    date_desc = "Though I had grown accustomed to working on the prison medical team, I was still caught off guard when I realized that the subject of this memory wipe was Lucien. As he faced me, his words seemed laced with a dangerous, almost deliberate undertone...",
+    date_story = 421404,
+    date_diary = "-1,214041",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
   },
   [25011] = {
     date_title = "Law of Gravity",
@@ -27541,6 +30042,162 @@ data = {
     datepos = 207,
     engagement_type = 2,
     drop_year = "2023"
+  },
+  [26001] = {
+    date_title = "In The Ocean of Desire",
+    engagement_rank = 600,
+    male_role_id = 2,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "92030,1431,0",
+    engagement_unlock_card = {
+      {
+        92030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new story with Lucien has started.",
+    date_desc = "I miraculously survived a plane crash, only to find myself stranded in a war zone. Just as despair began to take hold, Lucien—who was working at a local research facility—appeared before me...",
+    date_story = 426001,
+    date_diary = "-1,260011",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [26002] = {
+    date_title = "In The Ocean of Desire",
+    engagement_rank = 600,
+    male_role_id = 2,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 26001,
+    engagement_unlock_need = "92030,1431,0",
+    engagement_unlock_card = {
+      {
+        92030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the story with Lucien.",
+    date_desc = "I miraculously survived a plane crash, only to find myself stranded in a war zone. Just as despair began to take hold, Lucien—who was working at a local research facility—appeared before me...",
+    date_story = 426002,
+    date_diary = "-1,260021",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [26003] = {
+    date_title = "In The Ocean of Desire",
+    engagement_rank = 600,
+    male_role_id = 2,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 26002,
+    engagement_unlock_need = "92030,1431,1",
+    engagement_unlock_card = {
+      {
+        92030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the story with Lucien.",
+    date_desc = "I miraculously survived a plane crash, only to find myself stranded in a war zone. Just as despair began to take hold, Lucien—who was working at a local research facility—appeared before me...",
+    date_story = 426003,
+    date_diary = "-1,260031",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [26004] = {
+    date_title = "In The Ocean of Desire",
+    engagement_rank = 600,
+    male_role_id = 2,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 26003,
+    engagement_unlock_need = "92030,1431,2",
+    engagement_unlock_card = {
+      {
+        92030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the story with Lucien.",
+    date_desc = "I miraculously survived a plane crash, only to find myself stranded in a war zone. Just as despair began to take hold, Lucien—who was working at a local research facility—appeared before me...",
+    date_story = 426004,
+    date_diary = "-1,260041",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [26005] = {
+    date_title = "In The Ocean of Desire",
+    engagement_rank = 600,
+    male_role_id = 2,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 26004,
+    engagement_unlock_need = "92030,1431,3",
+    engagement_unlock_card = {
+      {
+        92030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,41,100",
+    index = 5,
+    date_guide = "There's a new development in the story with Lucien.",
+    date_desc = "I miraculously survived a plane crash, only to find myself stranded in a war zone. Just as despair began to take hold, Lucien—who was working at a local research facility—appeared before me...",
+    date_story = 426005,
+    date_diary = "-1,260051",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [26006] = {
+    date_title = "In The Ocean of Desire",
+    engagement_rank = 600,
+    male_role_id = 2,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 26005,
+    engagement_unlock_need = "92030,1431,4",
+    engagement_unlock_card = {
+      {
+        92030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "100061,101,1",
+    index = 6,
+    date_guide = "There's a new development in the story with Lucien.",
+    date_desc = "I miraculously survived a plane crash, only to find myself stranded in a war zone. Just as despair began to take hold, Lucien—who was working at a local research facility—appeared before me...",
+    date_story = 426006,
+    date_diary = "-1,260061",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
   },
   [29021] = {
     date_title = "Bamboo Forest Date",
@@ -37566,6 +40223,113 @@ data = {
     engagement_type = 1,
     drop_year = "2022"
   },
+  [30921] = {
+    date_title = "Board Game Date",
+    engagement_rank = 92,
+    male_role_id = 3,
+    engagement_time = "2025/10/7 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        43380,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Kiro has started.",
+    date_desc = "As agreed, I headed to Kiro's filming set for a visit. But just as I arrived, an unexpected power outage plunged the entire venue into darkness. In that unfamiliar, shadowy silence, someone quietly appeared by my side...",
+    date_story = 430921,
+    date_diary = "-1,309211",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
+  [30922] = {
+    date_title = "Board Game Date",
+    engagement_rank = 92,
+    male_role_id = 3,
+    engagement_time = "2025/10/7 05:00:00",
+    engagement_unlock_id = 30921,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        43380,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "As agreed, I headed to Kiro's filming set for a visit. But just as I arrived, an unexpected power outage plunged the entire venue into darkness. In that unfamiliar, shadowy silence, someone quietly appeared by my side...",
+    date_story = 430922,
+    date_diary = "-1,309221",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
+  [30923] = {
+    date_title = "Board Game Date",
+    engagement_rank = 92,
+    male_role_id = 3,
+    engagement_time = "2025/10/7 05:00:00",
+    engagement_unlock_id = 30922,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        43380,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "As agreed, I headed to Kiro's filming set for a visit. But just as I arrived, an unexpected power outage plunged the entire venue into darkness. In that unfamiliar, shadowy silence, someone quietly appeared by my side...",
+    date_story = 430923,
+    date_diary = "-1,309231",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
+  [30924] = {
+    date_title = "Board Game Date",
+    engagement_rank = 92,
+    male_role_id = 3,
+    engagement_time = "2025/10/7 05:00:00",
+    engagement_unlock_id = 30923,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        43380,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "As agreed, I headed to Kiro's filming set for a visit. But just as I arrived, an unexpected power outage plunged the entire venue into darkness. In that unfamiliar, shadowy silence, someone quietly appeared by my side...",
+    date_story = 430924,
+    date_diary = "-1,309241",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
   [30941] = {
     date_title = "Date of Eternity",
     engagement_rank = 94,
@@ -38919,6 +41683,113 @@ data = {
     engagement_type = 1,
     drop_year = "2023"
   },
+  [31071] = {
+    date_title = "Open-Hearted Date",
+    engagement_rank = 107,
+    male_role_id = 3,
+    engagement_time = "2026/1/28 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        53760,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Kiro has started.",
+    date_desc = "Kiro's show in France wrapped up beautifully, and we were excited to unwind there for a few days. Unfortunately, the paparazzi tracked us down, turning our peaceful moments into frantic escapes. During this chaos, we realized that we both had a tendency to hide our true feelings to protect each other. After an honest conversation, we finally let those guarded emotions flow amidst a breathtaking field of flowers that stretched to the horizon.",
+    date_story = 431071,
+    date_diary = "-1,310711",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [31072] = {
+    date_title = "Open-Hearted Date",
+    engagement_rank = 107,
+    male_role_id = 3,
+    engagement_time = "2026/1/28 05:00:00",
+    engagement_unlock_id = 31071,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        53760,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Kiro's show in France wrapped up beautifully, and we were excited to unwind there for a few days. Unfortunately, the paparazzi tracked us down, turning our peaceful moments into frantic escapes. During this chaos, we realized that we both had a tendency to hide our true feelings to protect each other. After an honest conversation, we finally let those guarded emotions flow amidst a breathtaking field of flowers that stretched to the horizon.",
+    date_story = 431072,
+    date_diary = "-1,310721",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [31073] = {
+    date_title = "Open-Hearted Date",
+    engagement_rank = 107,
+    male_role_id = 3,
+    engagement_time = "2026/1/28 05:00:00",
+    engagement_unlock_id = 31072,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        53760,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Kiro's show in France wrapped up beautifully, and we were excited to unwind there for a few days. Unfortunately, the paparazzi tracked us down, turning our peaceful moments into frantic escapes. During this chaos, we realized that we both had a tendency to hide our true feelings to protect each other. After an honest conversation, we finally let those guarded emotions flow amidst a breathtaking field of flowers that stretched to the horizon.",
+    date_story = 431073,
+    date_diary = "-1,310731",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [31074] = {
+    date_title = "Open-Hearted Date",
+    engagement_rank = 107,
+    male_role_id = 3,
+    engagement_time = "2026/1/28 05:00:00",
+    engagement_unlock_id = 31073,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        53760,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Kiro's show in France wrapped up beautifully, and we were excited to unwind there for a few days. Unfortunately, the paparazzi tracked us down, turning our peaceful moments into frantic escapes. During this chaos, we realized that we both had a tendency to hide our true feelings to protect each other. After an honest conversation, we finally let those guarded emotions flow amidst a breathtaking field of flowers that stretched to the horizon.",
+    date_story = 431074,
+    date_diary = "-1,310741",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
   [31081] = {
     date_title = "Free Range Date",
     engagement_rank = 108,
@@ -39234,6 +42105,113 @@ data = {
     date_desc = "Lately, Kiro accepted an invitation from the organizer of a pro bono activity to write a love-themed children's play for a kindergarten, but things were not going very well during his creative process, so I asked him out for a walk, hoping that inspiration would spontaneously come to him...",
     date_story = 431104,
     date_diary = "-1,311041",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
+  [31111] = {
+    date_title = "Partner Date",
+    engagement_rank = 111,
+    male_role_id = 3,
+    engagement_time = "2023/11/1 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73340,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Kiro has started.",
+    date_desc = "Savin suddenly fell ill, so I stepped in once again as Kiro's manager for the day. Accompanying him to the set of Stellar's Valentine's Day commercial, I never expected that I'd end up in front of the camera with him...",
+    date_story = 431111,
+    date_diary = "-1,311111",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
+  [31112] = {
+    date_title = "Partner Date",
+    engagement_rank = 111,
+    male_role_id = 3,
+    engagement_time = "2023/11/1 05:00:00",
+    engagement_unlock_id = 31111,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73340,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Savin suddenly fell ill, so I stepped in once again as Kiro's manager for the day. Accompanying him to the set of Stellar's Valentine's Day commercial, I never expected that I'd end up in front of the camera with him...",
+    date_story = 431112,
+    date_diary = "-1,311121",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
+  [31113] = {
+    date_title = "Partner Date",
+    engagement_rank = 111,
+    male_role_id = 3,
+    engagement_time = "2023/11/1 05:00:00",
+    engagement_unlock_id = 31112,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73340,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Savin suddenly fell ill, so I stepped in once again as Kiro's manager for the day. Accompanying him to the set of Stellar's Valentine's Day commercial, I never expected that I'd end up in front of the camera with him...",
+    date_story = 431113,
+    date_diary = "-1,311131",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2023"
+  },
+  [31114] = {
+    date_title = "Partner Date",
+    engagement_rank = 111,
+    male_role_id = 3,
+    engagement_time = "2023/11/1 05:00:00",
+    engagement_unlock_id = 31113,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73340,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Savin suddenly fell ill, so I stepped in once again as Kiro's manager for the day. Accompanying him to the set of Stellar's Valentine's Day commercial, I never expected that I'd end up in front of the camera with him...",
+    date_story = 431114,
+    date_diary = "-1,311141",
     date_background = 1001,
     initpos = 204,
     datepos = 207,
@@ -40532,6 +43510,677 @@ data = {
     engagement_type = 1,
     drop_year = "2024"
   },
+  [31291] = {
+    date_title = "Climbing Date",
+    engagement_rank = 129,
+    male_role_id = 3,
+    engagement_time = "2025/11/26 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73420,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Kiro has started.",
+    date_desc = "I made a to-do list for my long-awaited vacation, but a few days passed, and I hadn't completed any plans. Seeing me frustrated with myself, Kiro shared with me a secret about how to get started on a plan.",
+    date_story = 431291,
+    date_diary = "-1,312911",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [31292] = {
+    date_title = "Climbing Date",
+    engagement_rank = 129,
+    male_role_id = 3,
+    engagement_time = "2025/11/26 05:00:00",
+    engagement_unlock_id = 31291,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73420,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "I made a to-do list for my long-awaited vacation, but a few days passed, and I hadn't completed any plans. Seeing me frustrated with myself, Kiro shared with me a secret about how to get started on a plan.",
+    date_story = 431292,
+    date_diary = "-1,312921",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [31293] = {
+    date_title = "Climbing Date",
+    engagement_rank = 129,
+    male_role_id = 3,
+    engagement_time = "2025/11/26 05:00:00",
+    engagement_unlock_id = 31292,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73420,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "I made a to-do list for my long-awaited vacation, but a few days passed, and I hadn't completed any plans. Seeing me frustrated with myself, Kiro shared with me a secret about how to get started on a plan.",
+    date_story = 431293,
+    date_diary = "-1,312931",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [31294] = {
+    date_title = "Climbing Date",
+    engagement_rank = 129,
+    male_role_id = 3,
+    engagement_time = "2025/11/26 05:00:00",
+    engagement_unlock_id = 31293,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73420,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "I made a to-do list for my long-awaited vacation, but a few days passed, and I hadn't completed any plans. Seeing me frustrated with myself, Kiro shared with me a secret about how to get started on a plan.",
+    date_story = 431294,
+    date_diary = "-1,312941",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [31301] = {
+    date_title = "Role-playing Date",
+    engagement_rank = 130,
+    male_role_id = 3,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "3,54,7",
+    engagement_unlock_card = {
+      {
+        53910,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Kiro has started.",
+    date_desc = "Kiro and I signed up for a live-action RPG. What he didn't know was that my character had a hidden objective: to tempt him into saying the words \"I'm already satisfied\". If I succeeded, it would mean his early elimination from the game...",
+    date_story = 431301,
+    date_diary = "-1,313011",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [31302] = {
+    date_title = "Role-playing Date",
+    engagement_rank = 130,
+    male_role_id = 3,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 31301,
+    engagement_unlock_need = "3,54,7",
+    engagement_unlock_card = {
+      {
+        53910,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Kiro and I signed up for a live-action RPG. What he didn't know was that my character had a hidden objective: to tempt him into saying the words \"I'm already satisfied\". If I succeeded, it would mean his early elimination from the game...",
+    date_story = 431302,
+    date_diary = "-1,313021",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [31303] = {
+    date_title = "Role-playing Date",
+    engagement_rank = 130,
+    male_role_id = 3,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 31302,
+    engagement_unlock_need = "3,54,7",
+    engagement_unlock_card = {
+      {
+        53910,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Kiro and I signed up for a live-action RPG. What he didn't know was that my character had a hidden objective: to tempt him into saying the words \"I'm already satisfied\". If I succeeded, it would mean his early elimination from the game...",
+    date_story = 431303,
+    date_diary = "-1,313031",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [31304] = {
+    date_title = "Role-playing Date",
+    engagement_rank = 130,
+    male_role_id = 3,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 31303,
+    engagement_unlock_need = "3,54,7",
+    engagement_unlock_card = {
+      {
+        53910,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Kiro and I signed up for a live-action RPG. What he didn't know was that my character had a hidden objective: to tempt him into saying the words \"I'm already satisfied\". If I succeeded, it would mean his early elimination from the game...",
+    date_story = 431304,
+    date_diary = "-1,313041",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [31331] = {
+    date_title = "Fated Blossom Date",
+    engagement_rank = 133,
+    male_role_id = 3,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "3,54,6",
+    engagement_unlock_card = {
+      {
+        53930,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Kiro has started.",
+    date_desc = "The full online promo campaign for Kiro's new movie went live last night. While much of the reaction was glowing, a wave of malicious gossip and planted rumors also spread. It frustrated me to no end, but I didn't want to let it cloud our time off. We had something much brighter to look forward to: the town's traditional Hundred-Couple Wedding event...",
+    date_story = 431331,
+    date_diary = "-1,313311",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [31332] = {
+    date_title = "Fated Blossom Date",
+    engagement_rank = 133,
+    male_role_id = 3,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 31331,
+    engagement_unlock_need = "3,54,6",
+    engagement_unlock_card = {
+      {
+        53930,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "The full online promo campaign for Kiro's new movie went live last night. While much of the reaction was glowing, a wave of malicious gossip and planted rumors also spread. It frustrated me to no end, but I didn't want to let it cloud our time off. We had something much brighter to look forward to: the town's traditional Hundred-Couple Wedding event...",
+    date_story = 431332,
+    date_diary = "-1,313321",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [31333] = {
+    date_title = "Fated Blossom Date",
+    engagement_rank = 133,
+    male_role_id = 3,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 31332,
+    engagement_unlock_need = "3,54,6",
+    engagement_unlock_card = {
+      {
+        53930,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "The full online promo campaign for Kiro's new movie went live last night. While much of the reaction was glowing, a wave of malicious gossip and planted rumors also spread. It frustrated me to no end, but I didn't want to let it cloud our time off. We had something much brighter to look forward to: the town's traditional Hundred-Couple Wedding event...",
+    date_story = 431333,
+    date_diary = "-1,313331",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [31334] = {
+    date_title = "Fated Blossom Date",
+    engagement_rank = 133,
+    male_role_id = 3,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 31333,
+    engagement_unlock_need = "3,54,6",
+    engagement_unlock_card = {
+      {
+        53930,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "The full online promo campaign for Kiro's new movie went live last night. While much of the reaction was glowing, a wave of malicious gossip and planted rumors also spread. It frustrated me to no end, but I didn't want to let it cloud our time off. We had something much brighter to look forward to: the town's traditional Hundred-Couple Wedding event...",
+    date_story = 431334,
+    date_diary = "-1,313341",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [31335] = {
+    date_title = "Fated Blossom Date",
+    engagement_rank = 133,
+    male_role_id = 3,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 31334,
+    engagement_unlock_need = "3,54,6",
+    engagement_unlock_card = {
+      {
+        53930,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "100062,101,3",
+    index = 5,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "The full online promo campaign for Kiro's new movie went live last night. While much of the reaction was glowing, a wave of malicious gossip and planted rumors also spread. It frustrated me to no end, but I didn't want to let it cloud our time off. We had something much brighter to look forward to: the town's traditional Hundred-Couple Wedding event...",
+    date_diary = "-999",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    extra_engagement_type = 1,
+    extra_engagement_title = "Close at Heart",
+    extra_engagement_id = 32191,
+    drop_year = "2024"
+  },
+  [31341] = {
+    date_title = "Blind Box Date",
+    engagement_rank = 134,
+    male_role_id = 3,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "3,54,6",
+    engagement_unlock_card = {
+      {
+        73430,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Kiro has started.",
+    date_desc = "Kiro noticed that I was completely hooked on a live-stream blind box game. So, he decided to outdo the internet and promised to create a real-life unboxing experience I'd never forget. On New Year's Eve, he fulfilled that promise by secretly chartering a plane and whisking me away to a surprise destination in a foreign country.",
+    date_story = 431341,
+    date_diary = "-1,313411",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [31342] = {
+    date_title = "Blind Box Date",
+    engagement_rank = 134,
+    male_role_id = 3,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 31341,
+    engagement_unlock_need = "3,54,6",
+    engagement_unlock_card = {
+      {
+        73430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Kiro noticed that I was completely hooked on a live-stream blind box game. So, he decided to outdo the internet and promised to create a real-life unboxing experience I'd never forget. On New Year's Eve, he fulfilled that promise by secretly chartering a plane and whisking me away to a surprise destination in a foreign country.",
+    date_story = 431342,
+    date_diary = "-1,313421",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [31343] = {
+    date_title = "Blind Box Date",
+    engagement_rank = 134,
+    male_role_id = 3,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 31342,
+    engagement_unlock_need = "3,54,6",
+    engagement_unlock_card = {
+      {
+        73430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Kiro noticed that I was completely hooked on a live-stream blind box game. So, he decided to outdo the internet and promised to create a real-life unboxing experience I'd never forget. On New Year's Eve, he fulfilled that promise by secretly chartering a plane and whisking me away to a surprise destination in a foreign country.",
+    date_story = 431343,
+    date_diary = "-1,313431",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [31344] = {
+    date_title = "Blind Box Date",
+    engagement_rank = 134,
+    male_role_id = 3,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 31343,
+    engagement_unlock_need = "3,54,6",
+    engagement_unlock_card = {
+      {
+        73430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Kiro noticed that I was completely hooked on a live-stream blind box game. So, he decided to outdo the internet and promised to create a real-life unboxing experience I'd never forget. On New Year's Eve, he fulfilled that promise by secretly chartering a plane and whisking me away to a surprise destination in a foreign country.",
+    date_story = 431344,
+    date_diary = "-1,313441",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [31361] = {
+    date_title = "\"No-Kissing\" Date",
+    engagement_rank = 136,
+    male_role_id = 3,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73440,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Kiro has started.",
+    date_desc = "Our vacation hit a snag before it even began—Kiro suddenly came down with acute cheilitis! The doctor was very clear: he needed to be careful with his diet, and we had to put kissing on hold. Any contact would just irritate his lips further. So, for the next few days, our romance would be kiss-free!",
+    date_story = 431361,
+    date_diary = "-1,313611",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [31362] = {
+    date_title = "\"No-Kissing\" Date",
+    engagement_rank = 136,
+    male_role_id = 3,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 31361,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73440,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Our vacation hit a snag before it even began—Kiro suddenly came down with acute cheilitis! The doctor was very clear: he needed to be careful with his diet, and we had to put kissing on hold. Any contact would just irritate his lips further. So, for the next few days, our romance would be kiss-free!",
+    date_story = 431362,
+    date_diary = "-1,313621",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [31363] = {
+    date_title = "\"No-Kissing\" Date",
+    engagement_rank = 136,
+    male_role_id = 3,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 31362,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73440,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Our vacation hit a snag before it even began—Kiro suddenly came down with acute cheilitis! The doctor was very clear: he needed to be careful with his diet, and we had to put kissing on hold. Any contact would just irritate his lips further. So, for the next few days, our romance would be kiss-free!",
+    date_story = 431363,
+    date_diary = "-1,313631",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [31364] = {
+    date_title = "\"No-Kissing\" Date",
+    engagement_rank = 136,
+    male_role_id = 3,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 31363,
+    engagement_unlock_need = "3,54,5",
+    engagement_unlock_card = {
+      {
+        73440,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "Our vacation hit a snag before it even began—Kiro suddenly came down with acute cheilitis! The doctor was very clear: he needed to be careful with his diet, and we had to put kissing on hold. Any contact would just irritate his lips further. So, for the next few days, our romance would be kiss-free!",
+    date_story = 431364,
+    date_diary = "-1,313641",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [31421] = {
+    date_title = "System Date",
+    engagement_rank = 142,
+    male_role_id = 3,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "3,54,7",
+    engagement_unlock_card = {
+      {
+        53980,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Kiro has started.",
+    date_desc = "To uncover the truth behind the \"System\", I used a journalist persona to gain access to the Prison Island under the pretense of an interview. However, Kiro, the person I was supposed to interview, saw right through my disguise...!",
+    date_story = 431421,
+    date_diary = "-1,314211",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [31422] = {
+    date_title = "System Date",
+    engagement_rank = 142,
+    male_role_id = 3,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 31421,
+    engagement_unlock_need = "3,54,7",
+    engagement_unlock_card = {
+      {
+        53980,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "To uncover the truth behind the \"System\", I used a journalist persona to gain access to the Prison Island under the pretense of an interview. However, Kiro, the person I was supposed to interview, saw right through my disguise...!",
+    date_story = 431422,
+    date_diary = "-1,314221",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [31423] = {
+    date_title = "System Date",
+    engagement_rank = 142,
+    male_role_id = 3,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 31422,
+    engagement_unlock_need = "3,54,7",
+    engagement_unlock_card = {
+      {
+        53980,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "To uncover the truth behind the \"System\", I used a journalist persona to gain access to the Prison Island under the pretense of an interview. However, Kiro, the person I was supposed to interview, saw right through my disguise...!",
+    date_story = 431423,
+    date_diary = "-1,314231",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [31424] = {
+    date_title = "System Date",
+    engagement_rank = 142,
+    male_role_id = 3,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 31423,
+    engagement_unlock_need = "3,54,7",
+    engagement_unlock_card = {
+      {
+        53980,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Kiro.",
+    date_desc = "To uncover the truth behind the \"System\", I used a journalist persona to gain access to the Prison Island under the pretense of an interview. However, Kiro, the person I was supposed to interview, saw right through my disguise...!",
+    date_story = 431424,
+    date_diary = "-1,314241",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
   [35011] = {
     date_title = "Gorgeous Lights",
     engagement_rank = 1,
@@ -41441,6 +45090,162 @@ data = {
     datepos = 207,
     engagement_type = 2,
     drop_year = "2023"
+  },
+  [36001] = {
+    date_title = "The Crossroad to You",
+    engagement_rank = 600,
+    male_role_id = 3,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "93030,1431,0",
+    engagement_unlock_card = {
+      {
+        93030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new story with Kiro has started.",
+    date_desc = "I was invited by the renowned novelist Ms. Sarah Pellegrini to the island of Pandora to discuss the film adaptation of her work. What I expected to be a simple, laid-back business trip soon took a drastic turn—before I knew it, Kiro and I were swept into a dangerous and unforeseen crisis...",
+    date_story = 436001,
+    date_diary = "-1,360011",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [36002] = {
+    date_title = "The Crossroad to You",
+    engagement_rank = 600,
+    male_role_id = 3,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 36001,
+    engagement_unlock_need = "93030,1431,0",
+    engagement_unlock_card = {
+      {
+        93030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the story with Kiro.",
+    date_desc = "I was invited by the renowned novelist Ms. Sarah Pellegrini to the island of Pandora to discuss the film adaptation of her work. What I expected to be a simple, laid-back business trip soon took a drastic turn—before I knew it, Kiro and I were swept into a dangerous and unforeseen crisis...",
+    date_story = 436002,
+    date_diary = "-1,360021",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [36003] = {
+    date_title = "The Crossroad to You",
+    engagement_rank = 600,
+    male_role_id = 3,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 36002,
+    engagement_unlock_need = "93030,1431,1",
+    engagement_unlock_card = {
+      {
+        93030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the story with Kiro.",
+    date_desc = "I was invited by the renowned novelist Ms. Sarah Pellegrini to the island of Pandora to discuss the film adaptation of her work. What I expected to be a simple, laid-back business trip soon took a drastic turn—before I knew it, Kiro and I were swept into a dangerous and unforeseen crisis...",
+    date_story = 436003,
+    date_diary = "-1,360031",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [36004] = {
+    date_title = "The Crossroad to You",
+    engagement_rank = 600,
+    male_role_id = 3,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 36003,
+    engagement_unlock_need = "93030,1431,2",
+    engagement_unlock_card = {
+      {
+        93030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the story with Kiro.",
+    date_desc = "I was invited by the renowned novelist Ms. Sarah Pellegrini to the island of Pandora to discuss the film adaptation of her work. What I expected to be a simple, laid-back business trip soon took a drastic turn—before I knew it, Kiro and I were swept into a dangerous and unforeseen crisis...",
+    date_story = 436004,
+    date_diary = "-1,360041",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [36005] = {
+    date_title = "The Crossroad to You",
+    engagement_rank = 600,
+    male_role_id = 3,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 36004,
+    engagement_unlock_need = "93030,1431,3",
+    engagement_unlock_card = {
+      {
+        93030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,41,100",
+    index = 5,
+    date_guide = "There's a new development in the story with Kiro.",
+    date_desc = "I was invited by the renowned novelist Ms. Sarah Pellegrini to the island of Pandora to discuss the film adaptation of her work. What I expected to be a simple, laid-back business trip soon took a drastic turn—before I knew it, Kiro and I were swept into a dangerous and unforeseen crisis...",
+    date_story = 436005,
+    date_diary = "-1,360051",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [36006] = {
+    date_title = "The Crossroad to You",
+    engagement_rank = 600,
+    male_role_id = 3,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 36005,
+    engagement_unlock_need = "93030,1431,4",
+    engagement_unlock_card = {
+      {
+        93030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "100061,101,1",
+    index = 6,
+    date_guide = "There's a new development in the story with Kiro.",
+    date_desc = "I was invited by the renowned novelist Ms. Sarah Pellegrini to the island of Pandora to discuss the film adaptation of her work. What I expected to be a simple, laid-back business trip soon took a drastic turn—before I knew it, Kiro and I were swept into a dangerous and unforeseen crisis...",
+    date_story = 436006,
+    date_diary = "-1,360061",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
   },
   [39021] = {
     date_title = "Fiery Date",
@@ -53463,6 +57268,113 @@ data = {
     engagement_type = 1,
     drop_year = "2023"
   },
+  [41131] = {
+    date_title = "Aroma Date",
+    engagement_rank = 113,
+    male_role_id = 4,
+    engagement_time = "2024/1/17 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        44430,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Gavin has started.",
+    date_desc = "Gavin and I traveled together to a snow-covered northern town, where we had agreed to meet at an aromatherapy shop on the final day of his training. Under his thoughtful planning, we began a brief but intimate vacation. As the journey drew closer to its end, we found the happiness that only belonged to us amid the endless white snow.",
+    date_story = 441131,
+    date_diary = "-1,411311",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41132] = {
+    date_title = "Aroma Date",
+    engagement_rank = 113,
+    male_role_id = 4,
+    engagement_time = "2024/1/17 05:00:00",
+    engagement_unlock_id = 41131,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        44430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "Gavin and I traveled together to a snow-covered northern town, where we had agreed to meet at an aromatherapy shop on the final day of his training. Under his thoughtful planning, we began a brief but intimate vacation. As the journey drew closer to its end, we found the happiness that only belonged to us amid the endless white snow.",
+    date_story = 441132,
+    date_diary = "-1,411321",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41133] = {
+    date_title = "Aroma Date",
+    engagement_rank = 113,
+    male_role_id = 4,
+    engagement_time = "2024/1/17 05:00:00",
+    engagement_unlock_id = 41132,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        44430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "Gavin and I traveled together to a snow-covered northern town, where we had agreed to meet at an aromatherapy shop on the final day of his training. Under his thoughtful planning, we began a brief but intimate vacation. As the journey drew closer to its end, we found the happiness that only belonged to us amid the endless white snow.",
+    date_story = 441133,
+    date_diary = "-1,411331",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41134] = {
+    date_title = "Aroma Date",
+    engagement_rank = 113,
+    male_role_id = 4,
+    engagement_time = "2024/1/17 05:00:00",
+    engagement_unlock_id = 41133,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        44430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "Gavin and I traveled together to a snow-covered northern town, where we had agreed to meet at an aromatherapy shop on the final day of his training. Under his thoughtful planning, we began a brief but intimate vacation. As the journey drew closer to its end, we found the happiness that only belonged to us amid the endless white snow.",
+    date_story = 441134,
+    date_diary = "-1,411341",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
   [41141] = {
     date_title = "Inseparable",
     engagement_rank = 114,
@@ -53833,6 +57745,220 @@ data = {
     engagement_type = 1,
     drop_year = "2024"
   },
+  [41181] = {
+    date_title = "Swearing-in Date",
+    engagement_rank = 118,
+    male_role_id = 4,
+    engagement_time = "2025/10/19 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        54810,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Gavin has started.",
+    date_desc = "This year, the Special Task Force invited me to help with a special shoot for their annual swearing-in ceremony. Everyone had poured a great deal of effort into making the event a success. And amid all the preparation, Gavin was quietly orchestrating a grand and deliberate plan of his own...",
+    date_story = 441181,
+    date_diary = "-1,411811",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41182] = {
+    date_title = "Swearing-in Date",
+    engagement_rank = 118,
+    male_role_id = 4,
+    engagement_time = "2025/10/19 05:00:00",
+    engagement_unlock_id = 41181,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        54810,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "This year, the Special Task Force invited me to help with a special shoot for their annual swearing-in ceremony. Everyone had poured a great deal of effort into making the event a success. And amid all the preparation, Gavin was quietly orchestrating a grand and deliberate plan of his own...",
+    date_story = 441182,
+    date_diary = "-1,411821",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41183] = {
+    date_title = "Swearing-in Date",
+    engagement_rank = 118,
+    male_role_id = 4,
+    engagement_time = "2025/10/19 05:00:00",
+    engagement_unlock_id = 41182,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        54810,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "This year, the Special Task Force invited me to help with a special shoot for their annual swearing-in ceremony. Everyone had poured a great deal of effort into making the event a success. And amid all the preparation, Gavin was quietly orchestrating a grand and deliberate plan of his own...",
+    date_story = 441183,
+    date_diary = "-1,411831",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41184] = {
+    date_title = "Swearing-in Date",
+    engagement_rank = 118,
+    male_role_id = 4,
+    engagement_time = "2025/10/19 05:00:00",
+    engagement_unlock_id = 41183,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        54810,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "This year, the Special Task Force invited me to help with a special shoot for their annual swearing-in ceremony. Everyone had poured a great deal of effort into making the event a success. And amid all the preparation, Gavin was quietly orchestrating a grand and deliberate plan of his own...",
+    date_story = 441184,
+    date_diary = "-1,411841",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41231] = {
+    date_title = "Night Patrol Date",
+    engagement_rank = 123,
+    male_role_id = 4,
+    engagement_time = "2024/6/3 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        74390,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Gavin has started.",
+    date_desc = "It vexed me that all proposals for the summer special were well-worn. Just then, Gavin suggested that I should go with him to visit the rescue team in the mountain. The journey turned out to be laden with exciting surprises, and an unfading miracle of the fated meeting was in the making in that rainforest…",
+    date_story = 441231,
+    date_diary = "-1,412311",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41232] = {
+    date_title = "Night Patrol Date",
+    engagement_rank = 123,
+    male_role_id = 4,
+    engagement_time = "2024/6/3 05:00:00",
+    engagement_unlock_id = 41231,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        74390,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "It vexed me that all proposals for the summer special were well-worn. Just then, Gavin suggested that I should go with him to visit the rescue team in the mountain. The journey turned out to be laden with exciting surprises, and an unfading miracle of the fated meeting was in the making in that rainforest…",
+    date_story = 441232,
+    date_diary = "-1,412321",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41233] = {
+    date_title = "Night Patrol Date",
+    engagement_rank = 123,
+    male_role_id = 4,
+    engagement_time = "2024/6/3 05:00:00",
+    engagement_unlock_id = 41232,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        74390,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "It vexed me that all proposals for the summer special were well-worn. Just then, Gavin suggested that I should go with him to visit the rescue team in the mountain. The journey turned out to be laden with exciting surprises, and an unfading miracle of the fated meeting was in the making in that rainforest…",
+    date_story = 441233,
+    date_diary = "-1,412331",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41234] = {
+    date_title = "Night Patrol Date",
+    engagement_rank = 123,
+    male_role_id = 4,
+    engagement_time = "2024/6/3 05:00:00",
+    engagement_unlock_id = 41233,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        74390,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "It vexed me that all proposals for the summer special were well-worn. Just then, Gavin suggested that I should go with him to visit the rescue team in the mountain. The journey turned out to be laden with exciting surprises, and an unfading miracle of the fated meeting was in the making in that rainforest…",
+    date_story = 441234,
+    date_diary = "-1,412341",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
   [41241] = {
     date_title = "Eternal Dawn Date",
     engagement_rank = 124,
@@ -54197,6 +58323,113 @@ data = {
     engagement_type = 1,
     drop_year = "2024"
   },
+  [41271] = {
+    date_title = "Sweet Treat Date",
+    engagement_rank = 127,
+    male_role_id = 4,
+    engagement_time = "2025/9/25 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        44460,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Gavin has started.",
+    date_desc = "To try out a highly-rated dessert shop, Gavin and I met up in an old neighborhood in Loveland City. However, the shop had moved away when we arrived. To not waste our precious time together on the weekend, Gavin and I decided to walk around the neighborhood and snap some pictures to preserve these moments...",
+    date_story = 441271,
+    date_diary = "-1,412711",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41272] = {
+    date_title = "Sweet Treat Date",
+    engagement_rank = 127,
+    male_role_id = 4,
+    engagement_time = "2025/9/25 05:00:00",
+    engagement_unlock_id = 41271,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        44460,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "To try out a highly-rated dessert shop, Gavin and I met up in an old neighborhood in Loveland City. However, the shop had moved away when we arrived. To not waste our precious time together on the weekend, Gavin and I decided to walk around the neighborhood and snap some pictures to preserve these moments...",
+    date_story = 441272,
+    date_diary = "-1,412721",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41273] = {
+    date_title = "Sweet Treat Date",
+    engagement_rank = 127,
+    male_role_id = 4,
+    engagement_time = "2025/9/25 05:00:00",
+    engagement_unlock_id = 41272,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        44460,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "To try out a highly-rated dessert shop, Gavin and I met up in an old neighborhood in Loveland City. However, the shop had moved away when we arrived. To not waste our precious time together on the weekend, Gavin and I decided to walk around the neighborhood and snap some pictures to preserve these moments...",
+    date_story = 441273,
+    date_diary = "-1,412731",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41274] = {
+    date_title = "Sweet Treat Date",
+    engagement_rank = 127,
+    male_role_id = 4,
+    engagement_time = "2025/9/25 05:00:00",
+    engagement_unlock_id = 41273,
+    engagement_unlock_need = "4,54,5",
+    engagement_unlock_card = {
+      {
+        44460,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "To try out a highly-rated dessert shop, Gavin and I met up in an old neighborhood in Loveland City. However, the shop had moved away when we arrived. To not waste our precious time together on the weekend, Gavin and I decided to walk around the neighborhood and snap some pictures to preserve these moments...",
+    date_story = 441274,
+    date_diary = "-1,412741",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
   [41311] = {
     date_title = "Date of Wraiths",
     engagement_rank = 131,
@@ -54303,6 +58536,570 @@ data = {
     datepos = 207,
     engagement_type = 1,
     drop_year = "2024"
+  },
+  [41321] = {
+    date_title = "Carnival Date",
+    engagement_rank = 132,
+    male_role_id = 4,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "4,54,7",
+    engagement_unlock_card = {
+      {
+        54920,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Gavin has started.",
+    date_desc = "To celebrate Halloween, Gavin and I joined an immersive survival-themed game. We raced through the entire challenge with surprising speed and efficiency. Just as we were starting to feel it had ended too quickly, a staff member approached us with a twist—there was still a secret waiting for us...",
+    date_story = 441321,
+    date_diary = "-1,413211",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41322] = {
+    date_title = "Carnival Date",
+    engagement_rank = 132,
+    male_role_id = 4,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 41321,
+    engagement_unlock_need = "4,54,7",
+    engagement_unlock_card = {
+      {
+        54920,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "To celebrate Halloween, Gavin and I joined an immersive survival-themed game. We raced through the entire challenge with surprising speed and efficiency. Just as we were starting to feel it had ended too quickly, a staff member approached us with a twist—there was still a secret waiting for us...",
+    date_story = 441322,
+    date_diary = "-1,413221",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41323] = {
+    date_title = "Carnival Date",
+    engagement_rank = 132,
+    male_role_id = 4,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 41322,
+    engagement_unlock_need = "4,54,7",
+    engagement_unlock_card = {
+      {
+        54920,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "To celebrate Halloween, Gavin and I joined an immersive survival-themed game. We raced through the entire challenge with surprising speed and efficiency. Just as we were starting to feel it had ended too quickly, a staff member approached us with a twist—there was still a secret waiting for us...",
+    date_story = 441323,
+    date_diary = "-1,413231",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41324] = {
+    date_title = "Carnival Date",
+    engagement_rank = 132,
+    male_role_id = 4,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 41323,
+    engagement_unlock_need = "4,54,7",
+    engagement_unlock_card = {
+      {
+        54920,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "To celebrate Halloween, Gavin and I joined an immersive survival-themed game. We raced through the entire challenge with surprising speed and efficiency. Just as we were starting to feel it had ended too quickly, a staff member approached us with a twist—there was still a secret waiting for us...",
+    date_story = 441324,
+    date_diary = "-1,413241",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41331] = {
+    date_title = "Reindeer Date",
+    engagement_rank = 133,
+    male_role_id = 4,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        54930,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Gavin has started.",
+    date_desc = "Invited by a friend, Gavin and I traveled to Northern Europe again for our vacation. Together, we herded reindeer, rode snowmobiles, and enjoyed the slow-paced life in a reindeer tribe. However, a sudden blizzard brought an unexpected thrill to our journey.",
+    date_story = 441331,
+    date_diary = "-1,413311",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41332] = {
+    date_title = "Reindeer Date",
+    engagement_rank = 133,
+    male_role_id = 4,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 41331,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        54930,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "Invited by a friend, Gavin and I traveled to Northern Europe again for our vacation. Together, we herded reindeer, rode snowmobiles, and enjoyed the slow-paced life in a reindeer tribe. However, a sudden blizzard brought an unexpected thrill to our journey.",
+    date_story = 441332,
+    date_diary = "-1,413321",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41333] = {
+    date_title = "Reindeer Date",
+    engagement_rank = 133,
+    male_role_id = 4,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 41332,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        54930,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "Invited by a friend, Gavin and I traveled to Northern Europe again for our vacation. Together, we herded reindeer, rode snowmobiles, and enjoyed the slow-paced life in a reindeer tribe. However, a sudden blizzard brought an unexpected thrill to our journey.",
+    date_story = 441333,
+    date_diary = "-1,413331",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41334] = {
+    date_title = "Reindeer Date",
+    engagement_rank = 133,
+    male_role_id = 4,
+    engagement_time = "2025/10/28 05:00:00",
+    engagement_unlock_id = 41333,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        54930,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "Invited by a friend, Gavin and I traveled to Northern Europe again for our vacation. Together, we herded reindeer, rode snowmobiles, and enjoyed the slow-paced life in a reindeer tribe. However, a sudden blizzard brought an unexpected thrill to our journey.",
+    date_story = 441334,
+    date_diary = "-1,413341",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41341] = {
+    date_title = "Joy-Seeking Date",
+    engagement_rank = 134,
+    male_role_id = 4,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        54940,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Gavin has started.",
+    date_desc = "While touring around Ruyi Town with Gavin, we were drawn to a local contest called \"Treasure Hunt,\" where the participants would each draw a theme, and then roam from shop to shop using specially provided tokens to hunt for any fitting items. The theme we drew was the \"four greatest joys of life,\" and thus began a shopping adventure...",
+    date_story = 441341,
+    date_diary = "-1,413411",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41342] = {
+    date_title = "Joy-Seeking Date",
+    engagement_rank = 134,
+    male_role_id = 4,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 41341,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        54940,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "While touring around Ruyi Town with Gavin, we were drawn to a local contest called \"Treasure Hunt,\" where the participants would each draw a theme, and then roam from shop to shop using specially provided tokens to hunt for any fitting items. The theme we drew was the \"four greatest joys of life,\" and thus began a shopping adventure...",
+    date_story = 441342,
+    date_diary = "-1,413421",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41343] = {
+    date_title = "Joy-Seeking Date",
+    engagement_rank = 134,
+    male_role_id = 4,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 41342,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        54940,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "While touring around Ruyi Town with Gavin, we were drawn to a local contest called \"Treasure Hunt,\" where the participants would each draw a theme, and then roam from shop to shop using specially provided tokens to hunt for any fitting items. The theme we drew was the \"four greatest joys of life,\" and thus began a shopping adventure...",
+    date_story = 441343,
+    date_diary = "-1,413431",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41344] = {
+    date_title = "Joy-Seeking Date",
+    engagement_rank = 134,
+    male_role_id = 4,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 41343,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        54940,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "While touring around Ruyi Town with Gavin, we were drawn to a local contest called \"Treasure Hunt,\" where the participants would each draw a theme, and then roam from shop to shop using specially provided tokens to hunt for any fitting items. The theme we drew was the \"four greatest joys of life,\" and thus began a shopping adventure...",
+    date_story = 441344,
+    date_diary = "-1,413441",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [41345] = {
+    date_title = "Joy-Seeking Date",
+    engagement_rank = 134,
+    male_role_id = 4,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 41344,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        54940,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "100062,101,3",
+    index = 5,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "While touring around Ruyi Town with Gavin, we were drawn to a local contest called \"Treasure Hunt,\" where the participants would each draw a theme, and then roam from shop to shop using specially provided tokens to hunt for any fitting items. The theme we drew was the \"four greatest joys of life,\" and thus began a shopping adventure...",
+    date_diary = "-999",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    extra_engagement_type = 1,
+    extra_engagement_title = "Close at Heart",
+    extra_engagement_id = 42191,
+    drop_year = "2024"
+  },
+  [41351] = {
+    date_title = "Small Town Date",
+    engagement_rank = 135,
+    male_role_id = 4,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        74430,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Gavin has started.",
+    date_desc = "As the New Year approached, Gavin and I decided to celebrate together in a quaint, unassuming town. It felt like a place frozen in time, where I gradually realized that some things remain untouched by the passage of years.",
+    date_story = 441351,
+    date_diary = "-1,413511",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [41352] = {
+    date_title = "Small Town Date",
+    engagement_rank = 135,
+    male_role_id = 4,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 41351,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        74430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "As the New Year approached, Gavin and I decided to celebrate together in a quaint, unassuming town. It felt like a place frozen in time, where I gradually realized that some things remain untouched by the passage of years.",
+    date_story = 441352,
+    date_diary = "-1,413521",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [41353] = {
+    date_title = "Small Town Date",
+    engagement_rank = 135,
+    male_role_id = 4,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 41352,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        74430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "As the New Year approached, Gavin and I decided to celebrate together in a quaint, unassuming town. It felt like a place frozen in time, where I gradually realized that some things remain untouched by the passage of years.",
+    date_story = 441353,
+    date_diary = "-1,413531",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [41354] = {
+    date_title = "Small Town Date",
+    engagement_rank = 135,
+    male_role_id = 4,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 41353,
+    engagement_unlock_need = "4,54,6",
+    engagement_unlock_card = {
+      {
+        74430,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "As the New Year approached, Gavin and I decided to celebrate together in a quaint, unassuming town. It felt like a place frozen in time, where I gradually realized that some things remain untouched by the passage of years.",
+    date_story = 441354,
+    date_diary = "-1,413541",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [41401] = {
+    date_title = "Gazing Date",
+    engagement_rank = 140,
+    male_role_id = 4,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "4,54,7",
+    engagement_unlock_card = {
+      {
+        54970,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Gavin has started.",
+    date_desc = "As the inevitable moment of another personality reshaping procedure approached, my curiosity became too strong to ignore. Gathering my courage, I made my way to the \"cellmate\" next door. After a few conversations, I discovered something special about him. I couldn't help but hope that, at the very least, I could help him achieve his freedom...",
+    date_story = 441401,
+    date_diary = "-1,414011",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [41402] = {
+    date_title = "Gazing Date",
+    engagement_rank = 140,
+    male_role_id = 4,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 41401,
+    engagement_unlock_need = "4,54,7",
+    engagement_unlock_card = {
+      {
+        54970,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "As the inevitable moment of another personality reshaping procedure approached, my curiosity became too strong to ignore. Gathering my courage, I made my way to the \"cellmate\" next door. After a few conversations, I discovered something special about him. I couldn't help but hope that, at the very least, I could help him achieve his freedom...",
+    date_story = 441402,
+    date_diary = "-1,414021",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [41403] = {
+    date_title = "Gazing Date",
+    engagement_rank = 140,
+    male_role_id = 4,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 41402,
+    engagement_unlock_need = "4,54,7",
+    engagement_unlock_card = {
+      {
+        54970,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "As the inevitable moment of another personality reshaping procedure approached, my curiosity became too strong to ignore. Gathering my courage, I made my way to the \"cellmate\" next door. After a few conversations, I discovered something special about him. I couldn't help but hope that, at the very least, I could help him achieve his freedom...",
+    date_story = 441403,
+    date_diary = "-1,414031",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
+  },
+  [41404] = {
+    date_title = "Gazing Date",
+    engagement_rank = 140,
+    male_role_id = 4,
+    engagement_time = "2025/9/25  05:00:00",
+    engagement_unlock_id = 41403,
+    engagement_unlock_need = "4,54,7",
+    engagement_unlock_card = {
+      {
+        54970,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Gavin.",
+    date_desc = "As the inevitable moment of another personality reshaping procedure approached, my curiosity became too strong to ignore. Gathering my courage, I made my way to the \"cellmate\" next door. After a few conversations, I discovered something special about him. I couldn't help but hope that, at the very least, I could help him achieve his freedom...",
+    date_story = 441404,
+    date_diary = "-1,414041",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2025"
   },
   [45011] = {
     date_title = "Dream Traveler",
@@ -55333,6 +60130,292 @@ data = {
     datepos = 207,
     engagement_type = 2,
     drop_year = "2023"
+  },
+  [45091] = {
+    date_title = "Major General",
+    engagement_rank = 9,
+    male_role_id = 4,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "64100,1431,0",
+    engagement_unlock_card = {
+      {
+        64100,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new story with Gavin has started.",
+    date_desc = "An unexpected \"setup banquet\" turned my calm life upside down. It all started when an officer I didn't know pressured me to attend a party. And there, seated prominently among the other guests, was someone I recognized all too well—Gavin.",
+    date_story = 445091,
+    date_diary = "-1,450911",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [45092] = {
+    date_title = "Major General",
+    engagement_rank = 9,
+    male_role_id = 4,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 45091,
+    engagement_unlock_need = "64100,1431,0",
+    engagement_unlock_card = {
+      {
+        64100,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the story with Gavin.",
+    date_desc = "An unexpected \"setup banquet\" turned my calm life upside down. It all started when an officer I didn't know pressured me to attend a party. And there, seated prominently among the other guests, was someone I recognized all too well—Gavin.",
+    date_story = 445092,
+    date_diary = "-1,450921",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [45093] = {
+    date_title = "Major General",
+    engagement_rank = 9,
+    male_role_id = 4,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 45092,
+    engagement_unlock_need = "64100,1431,1",
+    engagement_unlock_card = {
+      {
+        64100,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the story with Gavin.",
+    date_desc = "An unexpected \"setup banquet\" turned my calm life upside down. It all started when an officer I didn't know pressured me to attend a party. And there, seated prominently among the other guests, was someone I recognized all too well—Gavin.",
+    date_story = 445093,
+    date_diary = "-1,450931",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [45094] = {
+    date_title = "Major General",
+    engagement_rank = 9,
+    male_role_id = 4,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 45093,
+    engagement_unlock_need = "64100,1431,2",
+    engagement_unlock_card = {
+      {
+        64100,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the story with Gavin.",
+    date_desc = "An unexpected \"setup banquet\" turned my calm life upside down. It all started when an officer I didn't know pressured me to attend a party. And there, seated prominently among the other guests, was someone I recognized all too well—Gavin.",
+    date_story = 445094,
+    date_diary = "-1,450941",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [45095] = {
+    date_title = "Major General",
+    engagement_rank = 9,
+    male_role_id = 4,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 45094,
+    engagement_unlock_need = "64100,1431,3",
+    engagement_unlock_card = {
+      {
+        64100,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "100061,101,1",
+    index = 5,
+    date_guide = "There's a new development in the story with Gavin.",
+    date_desc = "An unexpected \"setup banquet\" turned my calm life upside down. It all started when an officer I didn't know pressured me to attend a party. And there, seated prominently among the other guests, was someone I recognized all too well—Gavin.",
+    date_story = 445095,
+    date_diary = "-1,450951",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [46001] = {
+    date_title = "Now or Forever",
+    engagement_rank = 600,
+    male_role_id = 4,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "94030,1431,0",
+    engagement_unlock_card = {
+      {
+        94030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new story with Gavin has started.",
+    date_desc = "During his leadership of a crucial year-end mission to evacuate the peacekeeping force from a war zone, danger lurked around every corner. When he found himself trapped in a desperate fight for his life, I knew I had to reach him. Nothing would stop me from going to him, again and again...",
+    date_story = 446001,
+    date_diary = "-1,460011",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [46002] = {
+    date_title = "Now or Forever",
+    engagement_rank = 600,
+    male_role_id = 4,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 46001,
+    engagement_unlock_need = "94030,1431,0",
+    engagement_unlock_card = {
+      {
+        94030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the story with Gavin.",
+    date_desc = "During his leadership of a crucial year-end mission to evacuate the peacekeeping force from a war zone, danger lurked around every corner. When he found himself trapped in a desperate fight for his life, I knew I had to reach him. Nothing would stop me from going to him, again and again...",
+    date_story = 446002,
+    date_diary = "-1,460021",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [46003] = {
+    date_title = "Now or Forever",
+    engagement_rank = 600,
+    male_role_id = 4,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 46002,
+    engagement_unlock_need = "94030,1431,1",
+    engagement_unlock_card = {
+      {
+        94030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the story with Gavin.",
+    date_desc = "During his leadership of a crucial year-end mission to evacuate the peacekeeping force from a war zone, danger lurked around every corner. When he found himself trapped in a desperate fight for his life, I knew I had to reach him. Nothing would stop me from going to him, again and again...",
+    date_story = 446003,
+    date_diary = "-1,460031",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [46004] = {
+    date_title = "Now or Forever",
+    engagement_rank = 600,
+    male_role_id = 4,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 46003,
+    engagement_unlock_need = "94030,1431,2",
+    engagement_unlock_card = {
+      {
+        94030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the story with Gavin.",
+    date_desc = "During his leadership of a crucial year-end mission to evacuate the peacekeeping force from a war zone, danger lurked around every corner. When he found himself trapped in a desperate fight for his life, I knew I had to reach him. Nothing would stop me from going to him, again and again...",
+    date_story = 446004,
+    date_diary = "-1,460041",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [46005] = {
+    date_title = "Now or Forever",
+    engagement_rank = 600,
+    male_role_id = 4,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 46004,
+    engagement_unlock_need = "94030,1431,3",
+    engagement_unlock_card = {
+      {
+        94030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "0,41,100",
+    index = 5,
+    date_guide = "There's a new development in the story with Gavin.",
+    date_desc = "During his leadership of a crucial year-end mission to evacuate the peacekeeping force from a war zone, danger lurked around every corner. When he found himself trapped in a desperate fight for his life, I knew I had to reach him. Nothing would stop me from going to him, again and again...",
+    date_story = 446005,
+    date_diary = "-1,460051",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
+  },
+  [46006] = {
+    date_title = "Now or Forever",
+    engagement_rank = 600,
+    male_role_id = 4,
+    engagement_time = "2025/12/23 5:00:00",
+    engagement_unlock_id = 46005,
+    engagement_unlock_need = "94030,1431,4",
+    engagement_unlock_card = {
+      {
+        94030,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "100061,101,1",
+    index = 6,
+    date_guide = "There's a new development in the story with Gavin.",
+    date_desc = "During his leadership of a crucial year-end mission to evacuate the peacekeeping force from a war zone, danger lurked around every corner. When he found himself trapped in a desperate fight for his life, I knew I had to reach him. Nothing would stop me from going to him, again and again...",
+    date_story = 446006,
+    date_diary = "-1,460061",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 2,
+    drop_year = "2025"
   },
   [49021] = {
     date_title = "Partner Date",
@@ -58635,6 +63718,249 @@ data = {
     datepos = 207,
     engagement_type = 1,
     drop_year = "2024"
+  },
+  [80341] = {
+    date_title = "Bittersweet Date",
+    engagement_rank = 34,
+    male_role_id = 8,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "8,54,6",
+    engagement_unlock_card = {
+      {
+        58230,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Shaw has started.",
+    date_desc = "Ruyi Town was alive with the vibrant energy of its traditional festival. So when the actress playing \"Lady Lovelorn\" fell ill, I was the one she asked—and I agreed—to take her place for the day. Shaw, however, was far from amused by my impromptu gig.",
+    date_story = 480341,
+    date_diary = "-1,803411",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [80342] = {
+    date_title = "Bittersweet Date",
+    engagement_rank = 34,
+    male_role_id = 8,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 80341,
+    engagement_unlock_need = "8,54,6",
+    engagement_unlock_card = {
+      {
+        58230,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Shaw.",
+    date_desc = "Ruyi Town was alive with the vibrant energy of its traditional festival. So when the actress playing \"Lady Lovelorn\" fell ill, I was the one she asked—and I agreed—to take her place for the day. Shaw, however, was far from amused by my impromptu gig.",
+    date_story = 480342,
+    date_diary = "-1,803421",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [80343] = {
+    date_title = "Bittersweet Date",
+    engagement_rank = 34,
+    male_role_id = 8,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 80342,
+    engagement_unlock_need = "8,54,6",
+    engagement_unlock_card = {
+      {
+        58230,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Shaw.",
+    date_desc = "Ruyi Town was alive with the vibrant energy of its traditional festival. So when the actress playing \"Lady Lovelorn\" fell ill, I was the one she asked—and I agreed—to take her place for the day. Shaw, however, was far from amused by my impromptu gig.",
+    date_story = 480343,
+    date_diary = "-1,803431",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [80344] = {
+    date_title = "Bittersweet Date",
+    engagement_rank = 34,
+    male_role_id = 8,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 80343,
+    engagement_unlock_need = "8,54,6",
+    engagement_unlock_card = {
+      {
+        58230,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Shaw.",
+    date_desc = "Ruyi Town was alive with the vibrant energy of its traditional festival. So when the actress playing \"Lady Lovelorn\" fell ill, I was the one she asked—and I agreed—to take her place for the day. Shaw, however, was far from amused by my impromptu gig.",
+    date_story = 480344,
+    date_diary = "-1,803441",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2024"
+  },
+  [80345] = {
+    date_title = "Bittersweet Date",
+    engagement_rank = 34,
+    male_role_id = 8,
+    engagement_time = "2026/3/10 05:00:00",
+    engagement_unlock_id = 80344,
+    engagement_unlock_need = "8,54,6",
+    engagement_unlock_card = {
+      {
+        58230,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "100062,101,3",
+    index = 5,
+    date_guide = "There's a new development in the date with Shaw.",
+    date_desc = "Ruyi Town was alive with the vibrant energy of its traditional festival. So when the actress playing \"Lady Lovelorn\" fell ill, I was the one she asked—and I agreed—to take her place for the day. Shaw, however, was far from amused by my impromptu gig.",
+    date_diary = "-999",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    extra_engagement_type = 1,
+    extra_engagement_title = "Close at Heart",
+    extra_engagement_id = 82111,
+    drop_year = "2024"
+  },
+  [80351] = {
+    date_title = "Ghost Market Date",
+    engagement_rank = 35,
+    male_role_id = 8,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = -1,
+    engagement_unlock_need = "8,54,6",
+    engagement_unlock_card = {
+      {
+        78230,
+        81,
+        1
+      }
+    },
+    engagement_item_rewards = "120002,101,2",
+    index = 1,
+    date_guide = "A new date with Shaw has started.",
+    date_desc = "With New Year's approaching, Shaw—who was supposedly busy with fieldwork in a southern town—urged me to come visit. However, a small mishap on the very night led us to the town's mysterious \"ghost market\"...",
+    date_story = 480351,
+    date_diary = "-1,803511",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [80352] = {
+    date_title = "Ghost Market Date",
+    engagement_rank = 35,
+    male_role_id = 8,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 80351,
+    engagement_unlock_need = "8,54,6",
+    engagement_unlock_card = {
+      {
+        78230,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,12",
+    engagement_item_rewards = "0,1,4000",
+    index = 2,
+    date_guide = "There's a new development in the date with Shaw.",
+    date_desc = "With New Year's approaching, Shaw—who was supposedly busy with fieldwork in a southern town—urged me to come visit. However, a small mishap on the very night led us to the town's mysterious \"ghost market\"...",
+    date_story = 480352,
+    date_diary = "-1,803521",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [80353] = {
+    date_title = "Ghost Market Date",
+    engagement_rank = 35,
+    male_role_id = 8,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 80352,
+    engagement_unlock_need = "8,54,6",
+    engagement_unlock_card = {
+      {
+        78230,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,24",
+    engagement_item_rewards = "100028,28,5",
+    index = 3,
+    date_guide = "There's a new development in the date with Shaw.",
+    date_desc = "With New Year's approaching, Shaw—who was supposedly busy with fieldwork in a southern town—urged me to come visit. However, a small mishap on the very night led us to the town's mysterious \"ghost market\"...",
+    date_story = 480353,
+    date_diary = "-1,803531",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
+  },
+  [80354] = {
+    date_title = "Ghost Market Date",
+    engagement_rank = 35,
+    male_role_id = 8,
+    engagement_time = "2026/2/5 05:00:00",
+    engagement_unlock_id = 80353,
+    engagement_unlock_need = "8,54,6",
+    engagement_unlock_card = {
+      {
+        78230,
+        81,
+        1
+      }
+    },
+    engagement_unlock_price = "100030,101,36",
+    engagement_item_rewards = "0,2,30",
+    index = 4,
+    date_guide = "There's a new development in the date with Shaw.",
+    date_desc = "With New Year's approaching, Shaw—who was supposedly busy with fieldwork in a southern town—urged me to come visit. However, a small mishap on the very night led us to the town's mysterious \"ghost market\"...",
+    date_story = 480354,
+    date_diary = "-1,803541",
+    date_background = 1001,
+    initpos = 204,
+    datepos = 207,
+    engagement_type = 1,
+    drop_year = "2026"
   },
   [85011] = {
     date_title = "Summer Syndrome",

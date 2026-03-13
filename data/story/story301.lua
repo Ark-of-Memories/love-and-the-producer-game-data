@@ -2464,9 +2464,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "03_Daily",
-      renming = "主持人",
+      renming = "Host",
       renwu = "npc",
-      sentence = "……本届恋语市数字科技峰会圆满落幕，再次感谢各位领导和嘉宾的莅临。",
+      sentence = "...And that brings this year's Loveland City Digital Tech Summit to a successful close. Huge thanks to all our guests and partners for joining us today.",
       next = {2}
     },
     [2] = {
@@ -2474,7 +2474,7 @@ story301 = {
       dialog = 3,
       music = "03_Daily",
       renwu = "npc",
-      sentence = "掌声雷动，直播画面被切走后，我在线上和负责人员简单道别，便点击了下线。",
+      sentence = "Applause burst through the livestream. As the broadcast faded to black, I wrapped up a quick thank-you with the event staff and clicked the logout button.",
       next = {3}
     },
     [3] = {
@@ -2483,7 +2483,7 @@ story301 = {
       dialog = 3,
       music = "03_Daily",
       renwu = "npc",
-      sentence = "我摘下了头盔，睁开眼睛，无数光晕映入眼眸，让我有一瞬间的恍惚。",
+      sentence = "The moment I removed the headset, my eyes blinked into a haze of light.",
       next = {4}
     },
     [4] = {
@@ -2491,7 +2491,7 @@ story301 = {
       dialog = 3,
       music = "03_Daily",
       renwu = "npc",
-      sentence = "仿佛这边更像是喧闹梦境，而狂欢夜那边才是现实。",
+      sentence = "For a heartbeat, reality was the one that felt more like a dream.",
       next = {5}
     },
     [5] = {
@@ -2499,7 +2499,7 @@ story301 = {
       dialog = 3,
       music = "03_Daily",
       renwu = "npc",
-      sentence = "耳畔传来一阵喧闹，我用力闭了闭眼让自己重回现实，这才看向一边。",
+      sentence = "Noise swelled around me. I shut my eyes briefly, steadying myself, and finally turned to the side.",
       next = {6}
     },
     [6] = {
@@ -2510,7 +2510,7 @@ story301 = {
       role1 = 610460,
       role2 = 610462,
       ruchang = -1,
-      sentence = "身旁，比我更早下线的赵坚强已经被取下了头盔，但依旧双眼紧闭。",
+      sentence = "Willstrong, who had logged out before me, was seated beside me. His helmet was removed, but his eyes were still shut.",
       next = {7}
     },
     [7] = {
@@ -2521,7 +2521,7 @@ story301 = {
       role1 = 610460,
       role2 = 610462,
       ruchang = 9,
-      sentence = "几名Infinite的员工正轻轻拍着他的肩膀，试图唤醒他。",
+      sentence = "A few Infinite staff members hovered near him, gently tapping his shoulder in concern.",
       next = {8}
     },
     [8] = {
@@ -2529,9 +2529,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "员工",
+      renming = "Staff",
       renwu = "npc",
-      sentence = "赵先生，赵先生……",
+      sentence = "Sir, can you hear me?",
       next = {9}
     },
     [9] = {
@@ -2539,7 +2539,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "我心里下意识“咯噔”一声，连忙起身走过去。",
+      sentence = "My chest tightened. A cold jolt shot through me as I stood up and hurried over.",
       next = {10}
     },
     [10] = {
@@ -2549,7 +2549,7 @@ story301 = {
       music = "09_Suspect",
       renming = "$u",
       renwu = "npc",
-      sentence = "发生什么了？",
+      sentence = "What happened?",
       next = {11}
     },
     [11] = {
@@ -2557,9 +2557,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "员工",
+      renming = "Staff",
       renwu = "npc",
-      sentence = "游戏结束后，您公司的这位员工就一直没有醒过来……",
+      sentence = "Your colleague won't wake up for some reason. We've been trying everything...",
       next = {12}
     },
     [12] = {
@@ -2567,7 +2567,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "一旁的员工调试着赵坚强手腕上腕表模样的心率血压监测仪，有些焦急地向我解释。",
+      sentence = "Beside me, a staff member fiddled with the sleek, watch-like monitor on Willstrong's wrist that tracked his heart rate and blood pressure. His movements were tense, and worry edged his voice as he turned to me.",
       next = {13}
     },
     [13] = {
@@ -2575,9 +2575,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "员工",
+      renming = "Staff",
       renwu = "npc",
-      sentence = "他的生理监测仪数据都正常，甚至没有刚才游戏的时候波动大，但……这样的情况我们也还是第一次遇到。",
+      sentence = "His vitals are completely normal. Actually, they are even more stable than when he was playing... I've never seen anything like this before.",
       next = {14}
     },
     [14] = {
@@ -2585,7 +2585,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "赵坚强没有反应，偶尔会皱一下眉，没过一会儿又舒展开，就像睡熟了似的。",
+      sentence = "Willstrong lay motionless, his expression calm, the occasional furrow in his brow softening just as quickly as it came. He looked like he was simply lost in a deep sleep.",
       next = {15}
     },
     [15] = {
@@ -2593,7 +2593,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "他这副样子，似乎在玩“狂欢夜”的时候也出现过…… ",
+      sentence = "He looked exactly like he did back in Carnival Night...",
       next = {16}
     },
     [16] = {
@@ -2604,7 +2604,7 @@ story301 = {
       music = "09_Suspect",
       renming = "$u",
       renwu = "npc",
-      sentence = "你怎么样，要不要休息一下？",
+      sentence = "Hey... you okay? You look kinda rough. Want to take a break?",
       next = {17}
     },
     [17] = {
@@ -2612,9 +2612,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "赵坚强",
+      renming = "Willstrong",
       renwu = "npc",
-      sentence = "我没事老板，就是有些头疼……",
+      sentence = "I'm good, boss. Just a headache, that's all...",
       next = {18}
     },
     [18] = {
@@ -2623,7 +2623,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "脑中闪过他在“狂欢夜”时提到头痛的画面，我心底涌起一股莫名的不妙预感。",
+      sentence = "The image of him clutching his head mid-game flashed through my mind, and a chill rippled down my spine. Something was wrong—I could feel it.",
       next = {19}
     },
     [19] = {
@@ -2631,7 +2631,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "我深深吸了一口气，强迫自己冷静下来，正要从兜里摸出手机，一旁的工作人员显然察觉到了，连忙开口。",
+      sentence = "I took a deep breath, trying to stay calm, and reached into my pocket for my phone. But before I could pull it out, a staff member noticed and quickly cut in.",
       next = {20}
     },
     [20] = {
@@ -2639,9 +2639,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "员工",
+      renming = "Staff",
       renwu = "npc",
-      sentence = "您别急，我们打过急救电话了，救护车这会已经到了。",
+      sentence = "It's alright; we've already called emergency services. The ambulance just arrived.",
       next = {21}
     },
     [21] = {
@@ -2649,7 +2649,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "话音刚落，医护人员带着担架匆匆来到了会场，并对赵坚强进行了一系列的应急检查和处理。",
+      sentence = "No sooner had he said it than the medics burst into the hall, stretcher in tow. Swift and practiced, they knelt beside Willstrong as they ran through a series of checks.",
       next = {22}
     },
     [22] = {
@@ -2657,9 +2657,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "医生",
+      renming = "Doctor",
       renwu = "npc",
-      sentence = "瞳孔反射、心电图、血压都正常，患者有什么基础病吗？",
+      sentence = "Pupils respond normally. ECG and blood pressure look good. Does he have any preexisting conditions?",
       next = {23}
     },
     [23] = {
@@ -2669,7 +2669,7 @@ story301 = {
       music = "09_Suspect",
       renming = "$u",
       renwu = "npc",
-      sentence = "没有，游戏试运行前我们进行了体检，他的数据没有异常。",
+      sentence = "No, we did full physicals before the beta started. Everything was fine.",
       next = {24}
     },
     [24] = {
@@ -2677,7 +2677,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "正在监测赵坚强数值的员工连忙跟着开口。",
+      sentence = "The staff member monitoring his data quickly added:",
       next = {25}
     },
     [25] = {
@@ -2685,9 +2685,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "员工",
+      renming = "Staff",
       renwu = "npc",
-      sentence = "这位先生在游戏中途，脑电波产生过较高波动，但持续时间很短，除此之外一切正常。",
+      sentence = "There was a spike in his brainwaves during gameplay, but it only lasted a second. Everything else was stable.",
       next = {26}
     },
     [26] = {
@@ -2695,7 +2695,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "医生翻看着基础检查数据，点点头。",
+      sentence = "The doctor scanned through the results, nodding as he reviewed them.",
       next = {27}
     },
     [27] = {
@@ -2703,9 +2703,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "医生",
+      renming = "Doctor",
       renwu = "npc",
-      sentence = "先送去医院吧，再做一些生化和影像的项目。",
+      sentence = "We'll take him to the hospital for further testing.",
       next = {28}
     },
     [28] = {
@@ -2713,9 +2713,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "医生",
+      renming = "Doctor",
       renwu = "npc",
-      sentence = "过度疲劳的可能性很大，当然，也不能完全排除其他疾病。",
+      sentence = "It's probably exhaustion, but we can't rule out other causes yet.",
       next = {29}
     },
     [29] = {
@@ -2723,7 +2723,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "赵坚强被抬上了担架，我跟着救护人员的队伍，迅速走出了Infinite大楼。",
+      sentence = "Willstrong was lifted onto the stretcher. I followed closely behind as the team moved quickly out of the Infinite building.",
       next = {30}
     },
     [30] = {
@@ -2732,7 +2732,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "一出门，此起彼伏的“喀嚓”声和劈天盖地的闪光灯猛地将我们笼罩起来。",
+      sentence = "The moment we stepped outside, we were hit with a barrage of camera flashes and the rapid clatter of shutters.",
       next = {31}
     },
     [31] = {
@@ -2740,7 +2740,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "我下意识地抬手遮住刺眼的光线，指缝中，我看见那些原本来拍摄峰会的媒体，此刻蜂拥而来。",
+      sentence = "I instinctively raised my arm to block the glare. Between my fingers, I caught sight of reporters, originally here to cover the summit, now surging forward like a wave.",
       next = {32}
     },
     [32] = {
@@ -2748,7 +2748,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "不少镜头伸到了在担架上的赵坚强面前，毫无顾忌地拍着他没有血色的面容。",
+      sentence = "Cameras were shoved inches from Willstrong's face, capturing his pale, unconscious expression without the slightest regard.",
       next = {33}
     },
     [33] = {
@@ -2758,7 +2758,7 @@ story301 = {
       music = "09_Suspect",
       renming = "$u",
       renwu = "npc",
-      sentence = "……让一让，都不要拍了！",
+      sentence = "Back up! Stop taking pictures!",
       next = {34}
     },
     [34] = {
@@ -2766,7 +2766,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "我和工作人员们努力保护着医务人员和担架上的赵坚强，有记者见难以插入，便将镜头转向了我。",
+      sentence = "Together with a few staff members, I tried to shield Willstrong and the medics from the mob. But when some reporters couldn't get closer, they turned their lenses to me instead.",
       next = {35}
     },
     [35] = {
@@ -2774,9 +2774,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "记者",
+      renming = "Reporter",
       renwu = "npc",
-      sentence = "您是$u小姐是吗，这位是贵司的员工吗？",
+      sentence = "Are you Ms. $u? Is he an employee of your company?\"",
       next = {36}
     },
     [36] = {
@@ -2784,9 +2784,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "记者",
+      renming = "Reporter",
       renwu = "npc",
-      sentence = "听说《奥德赛》的“狂欢夜”内测出了意外，是因为《奥德赛》技术导致的吗？",
+      sentence = "We've heard something went wrong during the Carnival Night beta. Is this an issue with the technology of Odyssey?",
       next = {37}
     },
     [37] = {
@@ -2794,7 +2794,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "这些记者似乎并不打算轻易放我们离开，我深吸了一口气，冷着脸没有作声。",
+      sentence = "They clearly weren't going to let us pass. I held my breath and kept my face neutral, saying nothing.",
       next = {38}
     },
     [38] = {
@@ -2802,7 +2802,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "我知道，我的回答并不能解决问题，只会引来更加狂热的追问。",
+      sentence = "I knew that anything I said would only spark more questions.",
       next = {39}
     },
     [39] = {
@@ -2810,9 +2810,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "09_Suspect",
-      renming = "医护人员",
+      renming = "Medic",
       renwu = "npc",
-      sentence = "不要挤，让患者先通过，不要影响医疗流程！",
+      sentence = "Please step aside! Let us through! Move!",
       next = {40}
     },
     [40] = {
@@ -2820,7 +2820,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "看着担架上的赵坚强，我心里正盘算着怎么引走记者的注意力，手腕却被人一把握住。",
+      sentence = "As I watched them load Willstrong into the ambulance, I started mentally running through ways to divert the media's attention. But before I could act, someone suddenly grabbed my wrist.",
       next = {41}
     },
     [41] = {
@@ -2828,7 +2828,7 @@ story301 = {
       dialog = 3,
       music = "09_Suspect",
       renwu = "npc",
-      sentence = "一道不由抗拒的力量拉扯着我往外走去，一直挤到了外圈。",
+      sentence = "A firm grip pulled me swiftly through the crowd and straight toward the outer edge.",
       next = {42}
     },
     [42] = {
@@ -2839,7 +2839,7 @@ story301 = {
       music = "09_Suspect",
       renming = "$u",
       renwu = "npc",
-      sentence = "……！！",
+      sentence = "...!!",
       next = {43}
     },
     [43] = {
@@ -2853,7 +2853,7 @@ story301 = {
       role3 = 703202,
       role6 = 7855005,
       ruchang = -1,
-      sentence = "我艰难地偏过头去，看见了笔挺的灰黑色西装，黑白的Infinite工牌，张扬的蓝紫色发丝在闪光灯下熠熠发光。 ",
+      sentence = "I turned my head and caught a flash of a dark gray suit, the familiar Infinite employee badge, and a shock of striking blue-purple hair gleaming under the press lights.",
       next = {44}
     },
     [44] = {
@@ -2867,7 +2867,7 @@ story301 = {
       role2 = 703101,
       role3 = 703202,
       role6 = 7855005,
-      sentence = "凌肖？！",
+      sentence = "Shaw?!",
       next = {45}
     },
     [45] = {
@@ -2880,7 +2880,7 @@ story301 = {
       role3 = 703202,
       role6 = 7855005,
       ruchang = 9,
-      sentence = "心不自觉地跳漏了一拍，我下意识地将手握紧，生怕这个天降的救兵消失不见。",
+      sentence = "My heart skipped. Instinctively, I tightened my grip on his hand, as if afraid my savior would vanish the very next second.",
       next = {46}
     },
     [46] = {
@@ -2888,7 +2888,7 @@ story301 = {
       dialog = 3,
       music = "41_Thunder_And_Bass",
       renwu = "npc",
-      sentence = "然而还没等我跟他说上话，那些记者就包抄了过来，将我和凌肖围了个水泄不通。",
+      sentence = "But before I could say anything, the reporters had already swarmed in again, encircling both of us completely.",
       sfx = "Noisy_crowd",
       next = {47}
     },
@@ -2897,7 +2897,7 @@ story301 = {
       dialog = 3,
       music = "41_Thunder_And_Bass",
       renwu = "npc",
-      sentence = "我见状踮起脚向后望去，医护人员和赵坚强已经成功上了车，救护车很快驱动着离开了。",
+      sentence = "I stood on my toes, glancing over the crowd, just in time to see the ambulance doors shut and the vehicle drive away.",
       next = {48}
     },
     [48] = {
@@ -2905,7 +2905,7 @@ story301 = {
       dialog = 3,
       music = "41_Thunder_And_Bass",
       renwu = "npc",
-      sentence = "还好，凌肖默契地会意了我的心思，成功转移了记者们的视线。",
+      sentence = "Shaw gave me a subtle nod—he had understood my silent plea and successfully drawn away the reporters' attention.",
       next = {49}
     },
     [49] = {
@@ -2913,7 +2913,7 @@ story301 = {
       dialog = 3,
       music = "41_Thunder_And_Bass",
       renwu = "npc",
-      sentence = "我这才松了口气，做了个深呼吸，看向记者们。",
+      sentence = "I finally exhaled, then turned back toward the reporters.",
       next = {50}
     },
     [50] = {
@@ -2923,7 +2923,7 @@ story301 = {
       music = "41_Thunder_And_Bass",
       renming = "$u",
       renwu = "npc",
-      sentence = "抱歉，我无法回答。",
+      sentence = "Sorry. No comment.",
       next = {51}
     },
     [51] = {
@@ -2931,9 +2931,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "41_Thunder_And_Bass",
-      renming = "记者",
+      renming = "Reporter",
       renwu = "npc",
-      sentence = "不回答是因为Infinite和$c的合作关系吗？",
+      sentence = "Is that because of Infinite's partnership with $c?",
       next = {52}
     },
     [52] = {
@@ -2941,9 +2941,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "41_Thunder_And_Bass",
-      renming = "记者",
+      renming = "Reporter",
       renwu = "npc",
-      sentence = "作为《奥德赛》的宣发方，你是否认为Infinite的技术安全性有待商榷？",
+      sentence = "As someone involved in Odyssey's marketing, do you believe the technology is truly safe?",
       next = {53}
     },
     [53] = {
@@ -2951,9 +2951,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "41_Thunder_And_Bass",
-      renming = "记者",
+      renming = "Reporter",
       renwu = "npc",
-      sentence = "另外坊间传闻最近$c的工作强度很大，身为公司的负责人，你认为你司员工的昏迷是否与劳累过度有关？",
+      sentence = "There are rumors that $c's team has been under intense pressure lately. As the owner, do you think this incident was caused by overwork?",
       next = {54}
     },
     [54] = {
@@ -2961,7 +2961,7 @@ story301 = {
       dialog = 3,
       music = "41_Thunder_And_Bass",
       renwu = "npc",
-      sentence = "面对着他们接二连三的问题，我耳边嗡嗡直响，根本无法听清。",
+      sentence = "Their questions kept coming, fast and loud. I couldn't make out most of what they were saying, the noise blurring into a wall of static.",
       next = {55}
     },
     [55] = {
@@ -2969,7 +2969,7 @@ story301 = {
       dialog = 3,
       music = "41_Thunder_And_Bass",
       renwu = "npc",
-      sentence = "而他们似乎把我的沉默当做了继续攻击的信号，话筒几乎要戳到我的脸上。",
+      sentence = "But to them, my silence was fuel. They were practically shoving their microphones into my face.",
       next = {56}
     },
     [56] = {
@@ -2977,9 +2977,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "pause",
-      renming = "记者",
+      renming = "Reporter",
       renwu = "npc",
-      sentence = "您之所以沉默，是默认我们的推测是事实吗？",
+      sentence = "So you're not denying it. Does that mean what we've heard is true?",
       next = {57}
     },
     [57] = {
@@ -2990,10 +2990,9 @@ story301 = {
       idx = 8,
       male = 8,
       music = "1016_Dash",
-      renming = "凌肖",
+      renming = "Shaw",
       renwu = "npc",
-      sentence = "有完没完了。",
-      voice = 1,
+      sentence = "You people make me sick.",
       next = {58}
     },
     [58] = {
@@ -3002,7 +3001,7 @@ story301 = {
       dialog = 3,
       music = "1016_Dash",
       renwu = "npc",
-      sentence = "一道明显不耐烦的锐利声线在耳畔响起。",
+      sentence = "His voice cut through the chaos like a blade—sharp and edged with unmistakable irritation.",
       next = {59}
     },
     [59] = {
@@ -3011,7 +3010,7 @@ story301 = {
       dialog = 3,
       music = "1016_Dash",
       renwu = "npc",
-      sentence = "修长的手越过我的肩头，一把拦开了几乎逼到我身前的记者们。",
+      sentence = "His long, slender arm reached past my shoulder and shoved back the reporters who'd nearly cornered me.",
       next = {60}
     },
     [60] = {
@@ -3020,9 +3019,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "1016_Dash",
-      renming = "记者",
+      renming = "Reporter",
       renwu = "npc",
-      sentence = "不好意思，请您不要妨碍采访！我们没有非法取材……",
+      sentence = "Excuse me, please don't interfere. This is a public interview. We're not doing anything illegal...",
       next = {61}
     },
     [61] = {
@@ -3032,10 +3031,9 @@ story301 = {
       idx = 8,
       male = 8,
       music = "1016_Dash",
-      renming = "凌肖",
+      renming = "Shaw",
       renwu = "npc",
-      sentence = "“采访？”",
-      voice = 1,
+      sentence = "Interview?",
       next = {62}
     },
     [62] = {
@@ -3044,7 +3042,7 @@ story301 = {
       dialog = 3,
       music = "1016_Dash",
       renwu = "npc",
-      sentence = "凌肖嘴角勾起一个不屑的弧度，语气也变得更加冰冷和危险。",
+      sentence = "He gave a scoff, lips twitching into a smirk. His voice turned cold, dangerous—like ice snapping underfoot.",
       next = {63}
     },
     [63] = {
@@ -3054,10 +3052,9 @@ story301 = {
       idx = 8,
       male = 8,
       music = "1016_Dash",
-      renming = "凌肖",
+      renming = "Shaw",
       renwu = "npc",
-      sentence = "这事跟她有关系吗？",
-      voice = 1,
+      sentence = "What's she got to do with any of this?",
       next = {64}
     },
     [64] = {
@@ -3066,9 +3063,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "1016_Dash",
-      renming = "记者",
+      renming = "Reporter",
       renwu = "npc",
-      sentence = "我们只是想知道真相，而不是避重就轻的说辞，身为Infinite的宣发方，她有理由……",
+      sentence = "We're just trying to get the facts. As Infinite's promotional rep, she has a duty—",
       next = {65}
     },
     [65] = {
@@ -3078,10 +3075,9 @@ story301 = {
       idx = 8,
       male = 8,
       music = "1016_Dash",
-      renming = "凌肖",
+      renming = "Shaw",
       renwu = "npc",
-      sentence = "有理由什么？听你们在这里胡扯？还是任凭你们去侵犯人权？",
-      voice = 1,
+      sentence = "A duty to what? Stand here and let you spit nonsense? Or let you trample over basic human rights?",
       next = {66}
     },
     [66] = {
@@ -3090,7 +3086,7 @@ story301 = {
       dialog = 3,
       music = "1016_Dash",
       renwu = "npc",
-      sentence = "凌肖的呛声让那名记者皱紧了眉头，他转了转眼珠，目光锁定在了凌肖的工牌上。",
+      sentence = "His retort made the reporter stiffen. His eyes flicked to Shaw's ID badge, narrowing slightly.",
       next = {67}
     },
     [67] = {
@@ -3099,9 +3095,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "1016_Dash",
-      renming = "记者",
+      renming = "Reporter",
       renwu = "npc",
-      sentence = "你是Infinite的员工？你的回答是不是在回避《奥德赛》存在的风险？",
+      sentence = "You're from Infinite? Is this you dodging questions about Odyssey's safety risks?",
       next = {68}
     },
     [68] = {
@@ -3110,7 +3106,7 @@ story301 = {
       dialog = 3,
       music = "1016_Dash",
       renwu = "npc",
-      sentence = "凌肖微微眯起双眼，碎金色的眼瞳流露出一丝戏谑，语气也变得更加肆意。",
+      sentence = "Shaw's gold-flecked eyes narrowed, amusement playing in their depths. His tone was filled with disdain.",
       next = {69}
     },
     [69] = {
@@ -3120,10 +3116,9 @@ story301 = {
       idx = 8,
       male = 8,
       music = "1016_Dash",
-      renming = "凌肖",
+      renming = "Shaw",
       renwu = "npc",
-      sentence = "我就是个实习生，《奥德赛》的风险我怎么知道？",
-      voice = 1,
+      sentence = "I'm just an intern. How am I supposed to know the risks involved in Odyssey?",
       next = {70}
     },
     [70] = {
@@ -3133,10 +3128,9 @@ story301 = {
       idx = 8,
       male = 8,
       music = "1016_Dash",
-      renming = "凌肖",
+      renming = "Shaw",
       renwu = "npc",
-      sentence = "我领导下达指令，要我送$u小姐回公司，你要问这些去问我们老总去。",
-      voice = 1,
+      sentence = "My boss told me to get Ms. $u back to the office. You've got questions? Go ask someone in charge.",
       next = {71}
     },
     [71] = {
@@ -3145,9 +3139,9 @@ story301 = {
       dialog = 2,
       idx = 5,
       music = "1016_Dash",
-      renming = "记者",
+      renming = "Reporter",
       renwu = "npc",
-      sentence = "这是贵司交代给员工的统一话术吗？你能代表Infinite发言吗？那你们打算什么时候发布事件相关公告？",
+      sentence = "Is that Infinite's official statement? Can you speak for the company? When will you release a public response?",
       next = {72}
     },
     [72] = {
@@ -3157,10 +3151,9 @@ story301 = {
       idx = 8,
       male = 8,
       music = "1016_Dash",
-      renming = "凌肖",
+      renming = "Shaw",
       renwu = "npc",
-      sentence = "少来你们我们的，别什么帽子都往实习生脑袋上戴。",
-      voice = 1,
+      sentence = "Why don't you take a hint and sod off with your nonsense?",
       next = {73}
     },
     [73] = {
@@ -3170,10 +3163,9 @@ story301 = {
       idx = 8,
       male = 8,
       music = "1016_Dash",
-      renming = "凌肖",
+      renming = "Shaw",
       renwu = "npc",
-      sentence = "我只说一次，让开。",
-      voice = 1,
+      sentence = "I'll only say this once—get out of the way.",
       next = {74}
     },
     [74] = {
@@ -3182,7 +3174,7 @@ story301 = {
       dialog = 3,
       music = "1016_Dash",
       renwu = "npc",
-      sentence = "凌肖面无表情地推开他，拉着我向外走去，外层乌泱泱围着的记者显然都有些松动，但仍在观望。",
+      sentence = "Expressionless, he shoved the reporter aside and pulled me with him. The outer circle of press began to budge, finally showing signs of retreat—but some still lingered hesitantly.",
       next = {75}
     },
     [75] = {
@@ -3191,7 +3183,7 @@ story301 = {
       dialog = 3,
       music = "1016_Dash",
       renwu = "npc",
-      sentence = "凌肖只是扬起下巴看着他们，神情淡漠地又重复了一遍。",
+      sentence = "Shaw simply lifted his chin, eyes cool and indifferent, and repeated himself.",
       next = {76}
     },
     [76] = {
@@ -3201,10 +3193,9 @@ story301 = {
       idx = 8,
       male = 8,
       music = "1016_Dash",
-      renming = "凌肖",
+      renming = "Shaw",
       renwu = "npc",
-      sentence = "让开。",
-      voice = 1,
+      sentence = "Move.",
       next = {77}
     },
     [77] = {
@@ -3213,7 +3204,7 @@ story301 = {
       dialog = 3,
       music = "1016_Dash",
       renwu = "npc",
-      sentence = "午后的盛阳下，如有一道惊雷在乌合之众中炸开。",
+      sentence = "He was like deafening thunder had just struck on a clear, cloudless sky.",
       next = {0}
     }
   },
@@ -5254,7 +5245,7 @@ story301 = {
       dialog = 3,
       music = "24_Romantic_Quiet",
       renwu = "npc",
-      sentence = "等送走所有客人，夕阳下的手工坊恢复了安静，我们终于开始做自己的陶杯。",
+      sentence = "When all the customers had left, the handicraft studio became quiet again, and we finally started making clay cups of our own.",
       next = {2}
     },
     [2] = {
@@ -5262,7 +5253,7 @@ story301 = {
       dialog = 3,
       music = "24_Romantic_Quiet",
       renwu = "npc",
-      sentence = "陶盘缓缓转动起来，我坐在拉坯机前，游戏似地将泥拉长，又压回原位。",
+      sentence = "The pottery tray began to rotate slowly. Sitting in front of the lathe, I stretched and restored the clay again and again, as if playing a game.",
       next = {3}
     },
     [3] = {
@@ -5270,7 +5261,7 @@ story301 = {
       dialog = 3,
       music = "24_Romantic_Quiet",
       renwu = "npc",
-      sentence = "许墨换上了新的围裙，又打来一桶水放在拉坯机旁，在我身后落座。",
+      sentence = "Lucien put on a clean apron, placed a bucket of water beside the lathe, and sat behind me.",
       next = {4}
     },
     [4] = {
@@ -5278,7 +5269,7 @@ story301 = {
       dialog = 3,
       music = "24_Romantic_Quiet",
       renwu = "npc",
-      sentence = "我往他的怀里蹭了蹭，一天的疲惫也随即烟消云散。",
+      sentence = "I rubbed my head against his chest a little, and my tiredness from the hectic day disappeared without a trace.",
       next = {5}
     },
     [5] = {
@@ -5286,7 +5277,7 @@ story301 = {
       dialog = 3,
       music = "24_Romantic_Quiet",
       renwu = "npc",
-      sentence = "许墨温热的手带着湿润的水汽，覆上我的手背，与我一同将泥捏圆搓扁。",
+      sentence = "Lucien held my hand with his warm, damp one and started forming the clay into different shapes with me.",
       next = {6}
     },
     [6] = {
@@ -5295,13 +5286,13 @@ story301 = {
       idx = 2,
       male = 2,
       music = "24_Romantic_Quiet",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 234000,
       role2 = 202101,
       role3 = 202201,
       ruchang = -1,
-      sentence = "虽然今天做了许多预计之外的工作，但现在看来，$u似乎很开心？",
+      sentence = "We had to do a lot of unscheduled work today, but it appears that $u is pretty happy about it.",
       voice = 2,
       next = {7}
     },
@@ -5316,7 +5307,7 @@ story301 = {
       role2 = 202101,
       role3 = 202201,
       ruchang = 9,
-      sentence = "因为看到了很多有趣的客人和陶器，这些都是自己制作的过程中不会感受到的~",
+      sentence = "Because I saw a lot of interesting customers and pottery, which I wouldn't get to see when making pottery on my own~",
       next = {8}
     },
     [8] = {
@@ -5324,7 +5315,7 @@ story301 = {
       dialog = 3,
       music = "24_Romantic_Quiet",
       renwu = "npc",
-      sentence = "我忍不住笑了笑，将目光投向不远处充盈了许多的木架。",
+      sentence = "I smiled despite myself, and my eyes traveled to the wooden shelves a short distance away, which were now much more occupied than they had been.",
       next = {9}
     },
     [9] = {
@@ -5334,7 +5325,7 @@ story301 = {
       music = "24_Romantic_Quiet",
       renming = "$u",
       renwu = "npc",
-      sentence = "你看木架第二排那个杯子，是不是比一般的陶杯要鼓很多？",
+      sentence = "Look at the cup in the second row on that shelf. It's much plumper than usual, right?",
       next = {10}
     },
     [10] = {
@@ -5344,7 +5335,7 @@ story301 = {
       music = "24_Romantic_Quiet",
       renming = "$u",
       renwu = "npc",
-      sentence = "它的主人知道有烧裂的风险，但还是用两块陶泥做了这个双层隔热陶杯。",
+      sentence = "Its maker knew there was a risk of it cracking in the kiln, but he still used two lumps of clay to make this double-insulation cup.",
       next = {11}
     },
     [11] = {
@@ -5354,7 +5345,7 @@ story301 = {
       music = "24_Romantic_Quiet",
       renming = "$u",
       renwu = "npc",
-      sentence = "而且一边做还一边说，“不冒点险，怎么算人生嘛！”",
+      sentence = "And while making it, he said, \"What is life without a little bit of risk?\"",
       next = {12}
     },
     [12] = {
@@ -5364,7 +5355,7 @@ story301 = {
       music = "24_Romantic_Quiet",
       renming = "$u",
       renwu = "npc",
-      sentence = "难怪你说“陶器是制作者内心世界的记录册”，果然是“陶如其人”呢！",
+      sentence = "No wonder you said that pottery reflects the potter's inner world. It's true what they say—\"Pottery is a mirror of its maker!\"",
       next = {13}
     },
     [13] = {
@@ -5373,14 +5364,14 @@ story301 = {
       idx = 2,
       male = 2,
       music = "24_Romantic_Quiet",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
       ruchang = -1,
-      sentence = "看来你已经熟练掌握了这个知识点。",
+      sentence = "Looks like you've fully mastered it.",
       voice = 2,
       next = {14}
     },
@@ -5395,7 +5386,7 @@ story301 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "我只是刚刚理解，还算不上熟练掌握。",
+      sentence = "Not even close. I've only just scratched the surface of it.",
       next = {15}
     },
     [15] = {
@@ -5409,7 +5400,7 @@ story301 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "除非，许教授再教教我~",
+      sentence = "I'm hoping Professor Lucien would offer me some more guidance~",
       next = {16}
     },
     [16] = {
@@ -5423,7 +5414,7 @@ story301 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "不知道一个量身定制的陶杯，够不够换一节许教授的加时课呢？",
+      sentence = "May I ask if a customized clay cup is enough to get me an extra class from Professor Lucien?",
       next = {17}
     },
     [17] = {
@@ -5432,13 +5423,13 @@ story301 = {
       idx = 2,
       male = 2,
       music = "24_Romantic_Quiet",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "当然没问题，这位同学想听什么？",
+      sentence = "Certainly. What would you like to learn?",
       voice = 2,
       next = {18}
     },
@@ -5453,7 +5444,7 @@ story301 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "我想知道，从许教授的角度，这些陶器制作者的心理是什么？",
+      sentence = "I'd like to hear Professor Lucien's opinion of these pottery makers' mindset.",
       next = {19}
     },
     [19] = {
@@ -5467,7 +5458,7 @@ story301 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "比如……你能从木架中间的盘子看出什么？",
+      sentence = "For instance… What can you tell from the tray in the middle of the shelf?",
       next = {20}
     },
     [20] = {
@@ -5476,13 +5467,13 @@ story301 = {
       idx = 2,
       male = 2,
       music = "24_Romantic_Quiet",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201106,
       role3 = 201201,
       role5 = 233404,
-      sentence = "这个盘子的器壁薄厚均匀，高度一致，捏它的人性格应该比较沉稳。",
+      sentence = "Given how evenly shaped its wall is in terms of thickness and height, I believe its maker is a fairly poised person.",
       voice = 2,
       next = {21}
     },
@@ -5492,13 +5483,13 @@ story301 = {
       idx = 2,
       male = 2,
       music = "24_Romantic_Quiet",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201106,
       role3 = 201201,
       role5 = 233404,
-      sentence = "盘子内放置了数根泥条，其中左侧的部分东倒西歪，证明放置者颇为急躁。",
+      sentence = "The tray has some clay bars in it, and those on the left are disorderly, which means the one who put them there is rather impatient.",
       voice = 2,
       next = {22}
     },
@@ -5508,13 +5499,13 @@ story301 = {
       idx = 2,
       male = 2,
       music = "24_Romantic_Quiet",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201106,
       role3 = 201201,
       role5 = 233404,
-      sentence = "再结合这个外形……这应该是一个两人合做的宠物慢食盘？",
+      sentence = "That, coupled with the shape of the tray… I think this is a pet food tray made by two people. Am I right?",
       voice = 2,
       next = {23}
     },
@@ -5529,7 +5520,7 @@ story301 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "好厉害，你全都说对了！",
+      sentence = "Impressive. You got it all right.",
       next = {24}
     },
     [24] = {
@@ -5543,7 +5534,7 @@ story301 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "这是一对夫妻合做的，丈夫总是毛手毛脚的，一直叫唤着“泥跑了”！",
+      sentence = "It was made by a married couple. The husband was clumsy and kept exclaiming, \"The clay's slipping away!\"",
       next = {25}
     },
     [25] = {
@@ -5552,13 +5543,13 @@ story301 = {
       idx = 2,
       male = 2,
       music = "24_Romantic_Quiet",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201103,
       role3 = 201201,
       role5 = 233404,
-      sentence = "原来是他们，我记得在他们拉坯的15分钟内，一共把你叫走了5次。",
+      sentence = "So it was them. I remember them calling you away 5 times in 15 minutes while they were shaping the clay.",
       voice = 2,
       next = {26}
     },
@@ -5568,13 +5559,13 @@ story301 = {
       idx = 2,
       male = 2,
       music = "24_Romantic_Quiet",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "这个盘子右侧的泥条变得十分规整，应该是妻子接手了丈夫的工作？",
+      sentence = "The clay bars on the right in the tray are in orderly rows. The wife took over from the husband, I presume?",
       voice = 2,
       next = {27}
     },
@@ -5589,7 +5580,7 @@ story301 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "对对，妻子非常不满意丈夫的手工，决定自己接手。",
+      sentence = "Yeah, yeah. She was quite displeased with her husband's work and decided to take over.",
       next = {28}
     },
     [28] = {
@@ -5603,7 +5594,7 @@ story301 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
-      sentence = "最后妻子放泥条，丈夫在一旁递工具，也算是顺利合作完成了陶盘。",
+      sentence = "Eventually, she placed the clay bars while her husband passed her the tools, and they kind of finished the tray together.",
       next = {29}
     },
     [29] = {
@@ -5613,7 +5604,7 @@ story301 = {
       music = "24_Romantic_Quiet",
       renming = "$u",
       renwu = "npc",
-      sentence = "当时我就在想，如果是我们的话会怎么样呢？",
+      sentence = "When I saw that, I wondered what would happen if we were the ones making that tray.",
       next = {30}
     },
     [30] = {
@@ -5621,7 +5612,7 @@ story301 = {
       dialog = 3,
       music = "24_Romantic_Quiet",
       renwu = "npc",
-      sentence = "许墨没有立刻回答，他沉思片刻，声音中忽然带了几分笑意。",
+      sentence = "Lucien made no immediate reply. After a moment's thinking, he suddenly spoke in a faintly amused voice.",
       next = {31}
     },
     [31] = {
@@ -5630,14 +5621,14 @@ story301 = {
       idx = 2,
       male = 2,
       music = "24_Romantic_Quiet",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 233000,
       role2 = 201105,
       role3 = 201201,
       role5 = 233404,
       ruchang = 9,
-      sentence = "这个问题仅凭假设，得出的答案似乎不够有说服力，不如……实际体验一下。",
+      sentence = "It strikes me that an answer to this question acquired through assumption might not be convincing enough. Maybe we should… put it into action to find out.",
       voice = 2,
       next = {32}
     },
@@ -5648,7 +5639,7 @@ story301 = {
       music = "pause",
       renming = "$u",
       renwu = "npc",
-      sentence = "嗯？",
+      sentence = "Huh?",
       next = {33}
     },
     [33] = {
@@ -5657,7 +5648,7 @@ story301 = {
       dialog = 3,
       music = "1003_2023Valentine",
       renwu = "npc",
-      sentence = "还没等我领会他的话，许墨握住我的手离开拉坯机，随即故意在泥坯上一按。",
+      sentence = "Before I could grasp what he meant, Lucien let go of my hand and deliberately pressed down on the clay.",
       next = {34}
     },
     [34] = {
@@ -5665,7 +5656,7 @@ story301 = {
       dialog = 3,
       music = "1003_2023Valentine",
       renwu = "npc",
-      sentence = "几乎成型陶杯瞬间凹陷，旋转着扭曲变形起来。",
+      sentence = "The clay cup that had almost fully taken shape was instantly dented and, spinning, became twisted and deformed.",
       next = {35}
     },
     [35] = {
@@ -5675,7 +5666,7 @@ story301 = {
       music = "1003_2023Valentine",
       renming = "$u",
       renwu = "npc",
-      sentence = "糟糕！",
+      sentence = "Oh no!",
       next = {36}
     },
     [36] = {
@@ -5683,7 +5674,7 @@ story301 = {
       dialog = 3,
       music = "1003_2023Valentine",
       renwu = "npc",
-      sentence = "我瞪大眼睛，下意识地扑向拉坯机，然而陶杯已然像是地震之后倒塌的危房，几乎看不出原来的形状。",
+      sentence = "My eyes widened, and I subconsciously hastened to the pottery lathe, but the clay cup was as beyond repair as a house torn by an earthquake.",
       next = {37}
     },
     [37] = {
@@ -5691,7 +5682,7 @@ story301 = {
       dialog = 3,
       music = "1003_2023Valentine",
       renwu = "npc",
-      sentence = "许墨停下了转动的拉坯机，微笑地注视着我，目光温柔而和煦。",
+      sentence = "Lucien stopped the lathe and smiled at me, his eyes gentle and mild.",
       next = {38}
     },
     [38] = {
@@ -5700,9 +5691,9 @@ story301 = {
       idx = 2,
       male = 2,
       music = "1003_2023Valentine",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
-      sentence = "抱歉，是我笨手笨脚，把陶杯弄坏了。",
+      sentence = "Sorry. I was clumsy and ruined the clay cup.",
       voice = 2,
       next = {39}
     },
@@ -5711,7 +5702,7 @@ story301 = {
       dialog = 3,
       music = "1003_2023Valentine",
       renwu = "npc",
-      sentence = "看着躺倒的泥坯和许墨状似无辜的眼神，我不由笑了出来。",
+      sentence = "Looking from the collapsed clay cup to Lucien's innocent eyes, I chuckled despite myself.",
       next = {40}
     },
     [40] = {
@@ -5721,7 +5712,7 @@ story301 = {
       music = "1003_2023Valentine",
       renming = "$u",
       renwu = "npc",
-      sentence = "我看许教授明明是故意捣乱的~",
+      sentence = "I think Professor Lucien did it on purpose to make trouble~",
       next = {41}
     },
     [41] = {
@@ -5730,9 +5721,9 @@ story301 = {
       idx = 2,
       male = 2,
       music = "1003_2023Valentine",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
-      sentence = "我只是觉得$u的问题很有探索的价值，想要在实践中得出更加准确的答案。",
+      sentence = "I just found $u's question quite worth exploring and tried to get a more accurate answer through action.",
       voice = 2,
       next = {42}
     },
@@ -5741,7 +5732,7 @@ story301 = {
       dialog = 3,
       music = "1003_2023Valentine",
       renwu = "npc",
-      sentence = "他说得一本正经，温热的吐息喷洒在我的耳际。",
+      sentence = "He said that primly, his warm breath fanning my ear.",
       next = {43}
     },
     [43] = {
@@ -5750,9 +5741,9 @@ story301 = {
       idx = 2,
       male = 2,
       music = "1003_2023Valentine",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
-      sentence = "所以对于刚刚的问题，你现在可以告诉我答案了吗？",
+      sentence = "So, may I hear your answer to the question you asked a minute ago?",
       voice = 2,
       next = {0}
     }
@@ -6434,6 +6425,563 @@ story301 = {
       renwu = "npc",
       ruchang = 0,
       sentence = "Imagining Kiro's expression later, I couldn't help but hastened my steps even though it was only a short distance.",
+      next = {0}
+    }
+  },
+  [431323] = {
+    [1] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "90_childrenday",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302107,
+      role3 = 302202,
+      role6 = 31795001,
+      ruchang = -1,
+      sentence = "左边左边！",
+      voice = 2,
+      next = {2}
+    },
+    [2] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "90_childrenday",
+      renwu = "npc",
+      sentence = "我猛地握紧把手，向左急速漂移，车轮随之传来强烈的震颤。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "90_childrenday",
+      renwu = "npc",
+      sentence = "同时，周棋洛探出大半个身子，将落在空中的兔子玩偶一把捞进怀里。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4798,
+      dhead = 114,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "耶，要是没你这长胳膊，恐怕又要错过了！",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "90_childrenday",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "还想要什么？",
+      voice = 2,
+      next = {6}
+    },
+    [6] = {
+      beijing = 4798,
+      dhead = 113,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "要……那个小粉猪！",
+      next = {7}
+    },
+    [7] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "90_childrenday",
+      renwu = "npc",
+      sentence = "我眼尖地看见一只圆滚滚的小猪挂件正从机械爪里滑落，连忙踮脚指去。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "90_childrenday",
+      renwu = "npc",
+      sentence = "周棋洛意会地朝我敬了个礼，便用手扣紧一旁的货架边缘——",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "90_childrenday",
+      renwu = "npc",
+      sentence = "他借力向后一推，身下的购物车便跟安装了推进器一样，咻地朝目标飞驰而去。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4798,
+      dhead = 110,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "……！",
+      next = {11}
+    },
+    [11] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "90_childrenday",
+      renwu = "npc",
+      sentence = "借着惯性，我也跑了起来，只是当靠近小粉猪时，发现它的位置有偏差，即便伸胳膊也不一定能抓到。",
+      next = {12}
+    },
+    [12] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "90_childrenday",
+      renwu = "npc",
+      sentence = "但周棋洛反应更快，他立刻单手撑车，双腿顺势抬起在空中——",
+      next = {13}
+    },
+    [13] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "90_childrenday",
+      renwu = "npc",
+      sentence = "而后像电影里的特技演员一样用脚一勾，那只小猪便听话地滚进购物车。",
+      next = {14}
+    },
+    [14] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "90_childrenday",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "搞定！",
+      voice = 2,
+      next = {15}
+    },
+    [15] = {
+      beijing = 4798,
+      dhead = 103,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "哇，你这真的不算作弊吗？",
+      next = {16}
+    },
+    [16] = {
+      beijing = 4798,
+      dhead = 103,
+      dialog = 1,
+      music = "90_childrenday",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "就算改了规则，让家属来帮忙，但也不是所有的家属都能做到你这样的吧！",
+      next = {17}
+    },
+    [17] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "90_childrenday",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302104,
+      role3 = 302205,
+      role6 = 31795001,
+      sentence = "唔……那这就是那些家属的“问题”啦。",
+      voice = 2,
+      next = {18}
+    },
+    [18] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "90_childrenday",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3180000,
+      role2 = 302101,
+      role3 = 302205,
+      role6 = 31795001,
+      ruchang = 9,
+      sentence = "反正对我来说，哪怕你要月亮要星星要太阳，我肯定都要摘给你。",
+      voice = 2,
+      next = {19}
+    },
+    [19] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "90_childrenday",
+      renwu = "npc",
+      sentence = "谈笑间，他又伸手接来各种糖果和零食。",
+      next = {20}
+    },
+    [20] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "90_childrenday",
+      renwu = "npc",
+      sentence = "但由于周棋洛本身就占了不少空间，所以他又拽来几个购物袋，把胜利品统统装进去。",
+      next = {21}
+    },
+    [21] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "pause",
+      renwu = "npc",
+      sentence = "直到轻快的音乐旋律消失，接物游戏也便宣告结束。",
+      next = {22}
+    },
+    [22] = {
+      beijing = 4798,
+      dhead = 113,
+      dialog = 1,
+      music = "24_Romantic_Quiet",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "快让我看看都接了多少好东西~",
+      next = {23}
+    },
+    [23] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "24_Romantic_Quiet",
+      renwu = "npc",
+      sentence = "我兴奋地停下购物车，来到他面前，目光搜寻着车里的商品。",
+      next = {24}
+    },
+    [24] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "24_Romantic_Quiet",
+      renwu = "npc",
+      sentence = "但看着看着，我突然意识到什么瞪大眼睛。",
+      next = {25}
+    },
+    [25] = {
+      beijing = 4798,
+      dhead = 112,
+      dialog = 1,
+      music = "24_Romantic_Quiet",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "等等，我们的薯片呢！不是说在主角登场之前会有很醒目的提示……啊！",
+      next = {26}
+    },
+    [26] = {
+      beijing = 4798,
+      dhead = 105,
+      dialog = 1,
+      music = "24_Romantic_Quiet",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "是不是系统又出了什么Bug？",
+      next = {27}
+    },
+    [27] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "24_Romantic_Quiet",
+      renwu = "npc",
+      sentence = "见我有些小着急，周棋洛反而笑了起来。",
+      next = {28}
+    },
+    [28] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "24_Romantic_Quiet",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301107,
+      role3 = 301201,
+      role6 = 31795001,
+      ruchang = -1,
+      sentence = "准确来说这不是Bug……",
+      voice = 2,
+      next = {29}
+    },
+    [29] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "24_Romantic_Quiet",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301107,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "你忘啦？我们的薯片根本还没有做出来呢，怎么会有呢？",
+      voice = 2,
+      next = {30}
+    },
+    [30] = {
+      beijing = 4798,
+      dialog = 3,
+      music = "24_Romantic_Quiet",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301103,
+      role3 = 301204,
+      role6 = 31795001,
+      sentence = "他越说越觉得有趣，前仰后合地笑着，留我一人在阳光里凌乱。",
+      next = {31}
+    },
+    [31] = {
+      beijing = 4798,
+      dhead = 105,
+      dialog = 1,
+      music = "24_Romantic_Quiet",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301103,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "……",
+      next = {32}
+    },
+    [32] = {
+      beijing = 4798,
+      dhead = 112,
+      dialog = 1,
+      music = "24_Romantic_Quiet",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301106,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "不不，我当然知道我们的薯片还没有成品，可不应该有个样品吗？",
+      next = {33}
+    },
+    [33] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "24_Romantic_Quiet",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "有啊。",
+      voice = 2,
+      next = {34}
+    },
+    [34] = {
+      beijing = 4798,
+      dhead = 111,
+      dialog = 1,
+      music = "24_Romantic_Quiet",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      sentence = "嗯？",
+      next = {35}
+    },
+    [35] = {
+      beijing = 4798,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "pause",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3179000,
+      role2 = 301101,
+      role3 = 301201,
+      role6 = 31795001,
+      ruchang = 9,
+      sentence = "不就在这里吗？",
+      voice = 2,
+      next = {36}
+    },
+    [36] = {
+      beijing = 53920,
+      bganim = 0,
+      card_cg_anim = "CG_431323_36",
+      dialog = 3,
+      music = "zql_15049_voice",
+      renwu = "npc",
+      sentence = "见我还没反应过来，周棋洛歪了歪脑袋，双腿也更放松地搭在购物车边缘。",
+      next = {37}
+    },
+    [37] = {
+      beijing = 53920,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "zql_15049_voice",
+      renwu = "npc",
+      sentence = "四周的霓虹也仿佛找到最该被簇拥聚焦的人，灵动地在他身上跳跃。",
+      next = {38}
+    },
+    [38] = {
+      beijing = 53920,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "zql_15049_voice",
+      renming = "周棋洛",
+      renwu = "npc",
+      sentence = "$u，你看。",
+      voice = 2,
+      next = {39}
+    },
+    [39] = {
+      beijing = 53920,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "zql_15049_voice",
+      renming = "周棋洛",
+      renwu = "npc",
+      sentence = "世界上最最帅气的薯片大亨，不是已经被你“抓到”了吗？",
+      voice = 2,
+      next = {40}
+    },
+    [40] = {
+      beijing = 53920,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "zql_15049_voice",
+      renwu = "npc",
+      sentence = "这人说得理所当然，轻快的语调里也毫不遮掩地淌出几分小骄傲和自豪。",
+      next = {41}
+    },
+    [41] = {
+      beijing = 53920,
+      card_cg_anim = "CG_431323_41",
+      dialog = 3,
+      music = "zql_15049_voice",
+      renwu = "npc",
+      sentence = "我一下就被逗笑了。",
+      next = {42}
+    },
+    [42] = {
+      beijing = 53920,
+      card_cg_anim = "none",
+      dhead = 114,
+      dialog = 1,
+      music = "zql_15049_voice",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "是啊，我怎么就没想到呢。",
+      next = {43}
+    },
+    [43] = {
+      beijing = 53920,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "zql_15049_voice",
+      renwu = "npc",
+      sentence = "我勾住购物车的边缘轻轻一拽，拉近了彼此间的距离。",
+      next = {44}
+    },
+    [44] = {
+      beijing = 53920,
+      card_cg_anim = "none",
+      dhead = 107,
+      dialog = 1,
+      music = "zql_15049_voice",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "既然我拥有了最帅气的薯片大亨，之前说的“额外惊喜”是不是也该兑现了？",
+      next = {45}
+    },
+    [45] = {
+      beijing = 53920,
+      card_cg_anim = "CG_431323_45_4",
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "zql_15049_voice",
+      renming = "周棋洛",
+      renwu = "npc",
+      sentence = "你都有了我，还要别的？",
+      voice = 2,
+      next = {46}
+    },
+    [46] = {
+      beijing = 53920,
+      card_cg_anim = "none",
+      dhead = 112,
+      dialog = 1,
+      music = "zql_15049_voice",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "多多益善嘛，你不会临时反悔吧？",
+      next = {47}
+    },
+    [47] = {
+      beijing = 53920,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "zql_15049_voice",
+      renming = "周棋洛",
+      renwu = "npc",
+      sentence = "大亨一言，驷马难追。",
+      voice = 2,
+      next = {48}
+    },
+    [48] = {
+      beijing = 53920,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "zql_15049_voice",
+      renwu = "npc",
+      sentence = "他坐直身子，亲昵地点了点我的鼻尖。",
+      next = {49}
+    },
+    [49] = {
+      beijing = 53920,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "zql_15049_voice",
+      renming = "周棋洛",
+      renwu = "npc",
+      sentence = "但在揭晓之前，让我卖卖关子吧~",
+      voice = 2,
       next = {0}
     }
   },
@@ -9610,6 +10158,44 @@ story301 = {
       ruchang = 9,
       sentence = "这样才是标记。",
       voice = 1,
+      next = {0}
+    }
+  },
+  [842800] = {
+    [1] = {
+      beijing = 0,
+      dialog = 6,
+      music = "1036_2025Prison_Pure",
+      renwu = "npc",
+      sentence = [[
+Prison Administration Notice
+
+
+To maintain order and discipline, all individuals entering the prison must observe the following regulations. (Visitors and staff are especially advised to review Item 8.)
+
+
+1. Prisoners must wear restraints, including shackles and chains. Communication between inmates is forbidden unless explicitly authorized.
+
+2. Prisoners are required to watch videos generated by the System daily. These are tailored to their profiles as part of their ideological reformation.
+
+3. Regular injections will be administered to suppress physical strength and reduce the risk of violent incidents.]],
+      next = {2}
+    },
+    [2] = {
+      beijing = 0,
+      dialog = 6,
+      music = "1036_2025Prison_Pure",
+      renwu = "npc",
+      sentence = [[
+4. All prisoners are housed in solitary cells, with locations reassigned periodically.
+
+5. Every two months, inmates will undergo a performance evaluation. Failure to improve scores for three consecutive cycles will result in memory erasure and personality reconstruction.
+
+6. Meals are uniformly prepared by the logistics unit and overseen by the medical team. Special dietary requests must be submitted for approval.
+
+7. Prisoners may be granted outdoor activity time in the aboveground section of the facility, under staff supervision, for no more than 30 minutes per day.
+
+8. Any violation of the above rules must be reported to the guard unit immediately.]],
       next = {0}
     }
   },

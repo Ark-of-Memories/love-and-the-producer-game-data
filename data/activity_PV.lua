@@ -203,7 +203,7 @@ data = {
   [27] = {
     id = 68018,
     order = 9941,
-    name = "Abyss of the Ending Moon",
+    name = "终月之渊",
     source_list = "zhongyuezhiyuan",
     dec = "观测之下，疑云众生。",
     img = "zhongyuezhiyuan"
@@ -211,7 +211,7 @@ data = {
   [28] = {
     id = 15036,
     order = 9940,
-    name = "Tales of Haunted Romance",
+    name = "风月怪谈",
     source_list = "2022halloween",
     dec = "幽夜中灯火明灭，他的身影斜倚在轻纱之后\n妖诡背后的秘恋，等你寻觅——",
     img = "2022halloween"
@@ -251,7 +251,7 @@ data = {
   [33] = {
     id = 15045,
     order = 9934,
-    name = "Flowering Time",
+    name = "秘爱花期",
     source_list = "mayday2023",
     dec = "含苞待放的花朵弥漫诱人馨香，等待声声爱语浇灌酝酿",
     img = "mayday2023"
@@ -259,7 +259,7 @@ data = {
   [34] = {
     id = 15043,
     order = 9933,
-    name = "Unbridled Desire",
+    name = "恣色正浓",
     source_list = "bathwuyi2022",
     dec = "水汽旋绕此间，心潮复而席卷",
     img = "bathwuyi2022"
@@ -367,17 +367,19 @@ Prepare yourself, the clash is near, an epic conflict drawing clear.]],
   [48] = {
     id = 15079,
     order = 9919,
-    name = "午夜邀请函",
+    name = "Midnight Invitation",
     source_list = "2024halloween",
-    dec = "尽管把手交给夜色吧，一同加入这场永无止境的狂欢。",
+    dec = "Surrender your hand to the waiting night, and step into a revelry that knows no end.",
     img = "2024halloween"
   },
   [49] = {
     id = 68030,
     order = 9918,
-    name = "地久天长",
+    name = "Forevermore",
     source_list = "ancientWedding_2024",
-    dec = "此生唯愿，\n朝朝不分离，岁岁长相见。",
+    dec = [[
+In this life or the next,
+I want to spend every moment with you.]],
     img = "ancientWedding2024"
   },
   [50] = {
@@ -399,9 +401,11 @@ Prepare yourself, the clash is near, an epic conflict drawing clear.]],
   [52] = {
     id = 15083,
     order = 9915,
-    name = "不归者的燎原",
+    name = "Wildfire of the Forsaken",
     source_list = "springfestival_ur_2025",
-    dec = "心跳肆意，与远处的枪声同频，\n我们越过无序的废墟，直至硝烟散尽。",
+    dec = [[
+To the rhythm of distant guns, our hearts beat as one.
+Our path winds through a broken land, and it ends only when the haze of war dissipates.]],
     img = "springfestival_ur_2025"
   },
   [53] = {
@@ -411,5 +415,13 @@ Prepare yourself, the clash is near, an epic conflict drawing clear.]],
     source_list = "valentine_2025",
     dec = "爱是创造一切的魔法。",
     img = "valentine_2025"
+  },
+  [54] = {
+    id = 15088,
+    order = 9913,
+    name = "Original Sin",
+    source_list = "2025Prison",
+    dec = "Two souls drawn to each other, wandering together in the shadow of rules.",
+    img = "2025Prison"
   }
 }

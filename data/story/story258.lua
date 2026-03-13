@@ -8554,6 +8554,16 @@ story258 = {
       voice = 1,
       next = {0}
     }
+  },
+  [835006] = {
+    [1] = {
+      beijing = 6061,
+      game_params = 3903,
+      game_type = "AncientWeddingLanternRiddles",
+      music = "pause",
+      renwu = "npc",
+      next = {0}
+    }
   }
 }
 return story258

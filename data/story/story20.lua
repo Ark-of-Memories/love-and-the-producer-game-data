@@ -11389,7 +11389,7 @@ story20 = {
       dialog = 3,
       music = "71_Festival",
       renwu = "npc",
-      sentence = "转眼手办店门口的队伍已经排到了商场外。",
+      sentence = "To my disbelief, the line for the collectible store had already spilled out of the mall.",
       next = {2}
     },
     [2] = {
@@ -11397,7 +11397,7 @@ story20 = {
       dialog = 3,
       music = "71_Festival",
       renwu = "npc",
-      sentence = "一边庆幸自己来得早的同时，一边垫着脚数前面排队的人数。",
+      sentence = "Grateful I'd come early, I rose onto my toes, trying to gauge how many people were still between me and the door.",
       next = {3}
     },
     [3] = {
@@ -11405,7 +11405,7 @@ story20 = {
       dialog = 3,
       music = "71_Festival",
       renwu = "npc",
-      sentence = "毕竟这次发售，一部分款式没有限制每个人最高的购买数量。",
+      sentence = "Since some figures in this release didn't have purchase limits, I still had hope.",
       next = {4}
     },
     [4] = {
@@ -11415,7 +11415,7 @@ story20 = {
       music = "71_Festival",
       renming = "$u",
       renwu = "npc",
-      sentence = "希望排到的时候款式齐全，不要售罄……让我买到全套！",
+      sentence = "Please let there be a full set left... I need the complete collection!",
       next = {5}
     },
     [5] = {
@@ -11423,7 +11423,7 @@ story20 = {
       dialog = 3,
       music = "71_Festival",
       renwu = "npc",
-      sentence = "队伍缓慢地移动着，终于轮到我时，货架的手办上虽然所剩不多，但好在款式齐全。",
+      sentence = "The queue moved painfully slowly. When I finally reached the front, the shelves were picked nearly clean—but against all odds, one of each style remained.",
       next = {6}
     },
     [6] = {
@@ -11433,7 +11433,7 @@ story20 = {
       music = "71_Festival",
       renming = "$u",
       renwu = "npc",
-      sentence = "每样都帮我包一个，礼盒就选这个黄色的吧~",
+      sentence = "One of each, please! And could you use the yellow gift box?",
       next = {0}
     }
   }

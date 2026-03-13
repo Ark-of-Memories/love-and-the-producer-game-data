@@ -2376,56 +2376,56 @@ data = {
   [340] = {
     buff_start_time = "2025/8/31 05:00:00",
     buff_end_time = "2025/9/7 4:59:59",
-    card_id = "51460:43280",
+    card_id = "61090:53880",
     card_buff = "25:25",
     basic_buff = 5
   },
   [341] = {
     buff_start_time = "2025/9/7 05:00:00",
     buff_end_time = "2025/9/14 4:59:59",
-    card_id = "53300:34530",
+    card_id = "63090:61100",
     card_buff = "25:25",
     basic_buff = 5
   },
   [342] = {
     buff_start_time = "2025/9/14 05:00:00",
     buff_end_time = "2025/9/21 4:59:59",
-    card_id = "54450:42190",
+    card_id = "64090:53800",
     card_buff = "25:25",
     basic_buff = 5
   },
   [343] = {
     buff_start_time = "2025/9/21 05:00:00",
     buff_end_time = "2025/9/28 4:59:59",
-    card_id = "52450:44160",
+    card_id = "62090:44160",
     card_buff = "25:25",
     basic_buff = 5
   },
   [344] = {
     buff_start_time = "2025/9/28 05:00:00",
     buff_end_time = "2025/10/5 4:59:59",
-    card_id = "53020:43320",
+    card_id = "51870:43320",
     card_buff = "25:25",
     basic_buff = 5
   },
   [345] = {
     buff_start_time = "2025/10/5 05:00:00",
     buff_end_time = "2025/10/12 4:59:59",
-    card_id = "53460:41120",
+    card_id = "53870:41120",
     card_buff = "25:25",
     basic_buff = 5
   },
   [346] = {
     buff_start_time = "2025/10/12 05:00:00",
     buff_end_time = "2025/10/19 4:59:59",
-    card_id = "52020:33420",
+    card_id = "52840:51800",
     card_buff = "25:25",
     basic_buff = 5
   },
   [347] = {
     buff_start_time = "2025/10/19 05:00:00",
     buff_end_time = "2025/10/26 4:59:59",
-    card_id = "54240:33420",
+    card_id = "54850:52810",
     card_buff = "25:25",
     basic_buff = 5
   },
@@ -2439,56 +2439,154 @@ data = {
   [349] = {
     buff_start_time = "2025/11/2 05:00:00",
     buff_end_time = "2025/11/9 4:59:59",
-    card_id = "54490:32350",
+    card_id = "54970:32350",
     card_buff = "25:25",
     basic_buff = 5
   },
   [350] = {
     buff_start_time = "2025/11/9 05:00:00",
     buff_end_time = "2025/11/16 4:59:59",
-    card_id = "51500:44300",
+    card_id = "53980:54810",
     card_buff = "25:25",
     basic_buff = 5
   },
   [351] = {
     buff_start_time = "2025/11/16 05:00:00",
     buff_end_time = "2025/11/23 4:59:59",
-    card_id = "52480:44160",
+    card_id = "52860:44160",
     card_buff = "25:25",
     basic_buff = 5
   },
   [352] = {
     buff_start_time = "2025/11/23 05:00:00",
     buff_end_time = "2025/11/30 4:59:59",
-    card_id = "51220:42340",
+    card_id = "51980:52960",
     card_buff = "25:25",
     basic_buff = 5
   },
   [353] = {
     buff_start_time = "2025/11/30 05:00:00",
     buff_end_time = "2025/12/7 4:59:59",
-    card_id = "53500:32320",
+    card_id = "53910:51910",
     card_buff = "25:25",
     basic_buff = 5
   },
   [354] = {
     buff_start_time = "2025/12/7 05:00:00",
     buff_end_time = "2025/12/14 4:59:59",
-    card_id = "54180:33470",
+    card_id = "54920:33470",
     card_buff = "25:25",
     basic_buff = 5
   },
   [355] = {
     buff_start_time = "2025/12/14 05:00:00",
     buff_end_time = "2025/12/21 4:59:59",
-    card_id = "54120:43200",
+    card_id = "54930:43200",
     card_buff = "25:25",
     basic_buff = 5
   },
   [356] = {
     buff_start_time = "2025/12/21 05:00:00",
     buff_end_time = "2025/12/28 4:59:59",
-    card_id = "62020:32360",
+    card_id = "52900:32360",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [357] = {
+    buff_start_time = "2025/12/28 05:00:00",
+    buff_end_time = "2026/1/4 04:59:59",
+    card_id = "51900:54400",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [358] = {
+    buff_start_time = "2026/1/4 05:00:00",
+    buff_end_time = "2026/1/11 04:59:59",
+    card_id = "61030:53900",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [359] = {
+    buff_start_time = "2026/1/11 05:00:00",
+    buff_end_time = "2026/1/18 04:59:59",
+    card_id = "52880:42290",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [360] = {
+    buff_start_time = "2026/1/18 05:00:00",
+    buff_end_time = "2026/1/25 04:59:59",
+    card_id = "51830:54910",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [361] = {
+    buff_start_time = "2026/1/25 05:00:00",
+    buff_end_time = "2026/2/1 04:59:59",
+    card_id = "42310:52400",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [362] = {
+    buff_start_time = "2026/2/1 05:00:00",
+    buff_end_time = "2026/2/8 04:59:59",
+    card_id = "53810:54790",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [363] = {
+    buff_start_time = "2026/2/8 05:00:00",
+    buff_end_time = "2026/2/15 04:59:59",
+    card_id = "54780:44260",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [364] = {
+    buff_start_time = "2026/2/15 05:00:00",
+    buff_end_time = "2026/2/22 04:59:59",
+    card_id = "51810:43030",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [365] = {
+    buff_start_time = "2026/2/22 05:00:00",
+    buff_end_time = "2026/3/1 04:59:59",
+    card_id = "52780:43220",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [366] = {
+    buff_start_time = "2026/3/1 05:00:00",
+    buff_end_time = "2026/3/8 04:59:59",
+    card_id = "54860:34470",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [367] = {
+    buff_start_time = "2026/3/8 05:00:00",
+    buff_end_time = "2026/3/15 04:59:59",
+    card_id = "42320:51880",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [368] = {
+    buff_start_time = "2026/3/15 05:00:00",
+    buff_end_time = "2026/3/22 04:59:59",
+    card_id = "53850:44350",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [369] = {
+    buff_start_time = "2026/3/22 05:00:00",
+    buff_end_time = "2026/3/29 04:59:59",
+    card_id = "52870:41350",
+    card_buff = "25:25",
+    basic_buff = 5
+  },
+  [370] = {
+    buff_start_time = "2026/3/29 05:00:00",
+    buff_end_time = "2026/4/5 04:59:59",
+    card_id = "51750:53890",
     card_buff = "25:25",
     basic_buff = 5
   }

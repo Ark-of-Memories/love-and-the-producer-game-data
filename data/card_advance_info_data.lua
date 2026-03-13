@@ -25573,6 +25573,50 @@ data = {
       card_advance_goods_rewards = "100036,101,12"
     }
   },
+  [51980] = {
+    [1] = {
+      uid = 519800,
+      card_advance_level = 10,
+      card_advance_price = "100001,1,2000:111001,101,3:111007,101,1:111013,101,5",
+      card_advance_goods_rewards = "100030,101,0"
+    },
+    [2] = {
+      uid = 519801,
+      card_advance_level = 20,
+      card_advance_price = "100001,1,5000:111019,101,4:111025,101,5:111031,101,6",
+      card_advance_goods_rewards = "100030,101,2"
+    },
+    [3] = {
+      uid = 519802,
+      card_advance_level = 30,
+      card_advance_price = "100001,1,15000:111037,101,8:111043,101,7:111049,101,9",
+      card_advance_rewards = "1797,253,1",
+      card_advance_goods_rewards = "100030,101,4"
+    },
+    [4] = {
+      uid = 519803,
+      card_advance_level = 40,
+      card_advance_price = "100001,1,30000:111055,101,11:111061,101,10:111067,101,15",
+      card_advance_goods_rewards = "100030,101,6"
+    },
+    [5] = {
+      uid = 519804,
+      card_advance_level = 50,
+      card_advance_price = "100001,1,60000:111073,101,16:111079,101,16:111085,101,16",
+      card_advance_goods_rewards = "100030,101,8"
+    },
+    [6] = {
+      uid = 519805,
+      card_advance_level = 60,
+      card_advance_price = "100001,1,90000:111091,101,19:111097,101,19:111503,101,22",
+      card_advance_goods_rewards = "100030,101,12"
+    },
+    [7] = {
+      uid = 519806,
+      card_advance_level = 0,
+      card_advance_goods_rewards = "100030,101,15"
+    }
+  },
   [52010] = {
     [1] = {
       uid = 2099,
@@ -29571,6 +29615,50 @@ data = {
       uid = 529406,
       card_advance_level = 0,
       card_advance_goods_rewards = "100036,101,12"
+    }
+  },
+  [52960] = {
+    [1] = {
+      uid = 529600,
+      card_advance_level = 10,
+      card_advance_price = "100001,1,2000:111006,101,3:111012,101,2:111018,101,4",
+      card_advance_goods_rewards = "100030,101,0"
+    },
+    [2] = {
+      uid = 529601,
+      card_advance_level = 20,
+      card_advance_price = "100001,1,5000:111024,101,4:111030,101,3:111036,101,8",
+      card_advance_goods_rewards = "100030,101,2"
+    },
+    [3] = {
+      uid = 529602,
+      card_advance_level = 30,
+      card_advance_price = "100001,1,15000:111042,101,8:111048,101,8:111054,101,8",
+      card_advance_rewards = "2798,253,1",
+      card_advance_goods_rewards = "100030,101,4"
+    },
+    [4] = {
+      uid = 529603,
+      card_advance_level = 40,
+      card_advance_price = "100001,1,30000:111060,101,11:111066,101,11:111072,101,14",
+      card_advance_goods_rewards = "100030,101,6"
+    },
+    [5] = {
+      uid = 529604,
+      card_advance_level = 50,
+      card_advance_price = "100001,1,60000:111078,101,16:111084,101,14:111090,101,18",
+      card_advance_goods_rewards = "100030,101,8"
+    },
+    [6] = {
+      uid = 529605,
+      card_advance_level = 60,
+      card_advance_price = "100001,1,90000:111096,101,19:111502,101,20:111505,101,21",
+      card_advance_goods_rewards = "100030,101,12"
+    },
+    [7] = {
+      uid = 529606,
+      card_advance_level = 0,
+      card_advance_goods_rewards = "100030,101,15"
     }
   },
   [53010] = {
@@ -33661,6 +33749,50 @@ data = {
       card_advance_goods_rewards = "100036,101,12"
     }
   },
+  [53980] = {
+    [1] = {
+      uid = 539800,
+      card_advance_level = 10,
+      card_advance_price = "100001,1,2000:111021,101,3:111025,101,2:111029,101,4",
+      card_advance_goods_rewards = "100030,101,0"
+    },
+    [2] = {
+      uid = 539801,
+      card_advance_level = 20,
+      card_advance_price = "100001,1,5000:111043,101,4:111047,101,3:111051,101,8",
+      card_advance_goods_rewards = "100030,101,2"
+    },
+    [3] = {
+      uid = 539802,
+      card_advance_level = 30,
+      card_advance_price = "100001,1,15000:111065,101,8:111069,101,8:111073,101,8",
+      card_advance_rewards = "3806,253,1",
+      card_advance_goods_rewards = "100030,101,4"
+    },
+    [4] = {
+      uid = 539803,
+      card_advance_level = 40,
+      card_advance_price = "100001,1,30000:111087,101,11:111091,101,11:111095,101,14",
+      card_advance_goods_rewards = "100030,101,6"
+    },
+    [5] = {
+      uid = 539804,
+      card_advance_level = 50,
+      card_advance_price = "100001,1,60000:111109,101,16:111113,101,14:111117,101,18",
+      card_advance_goods_rewards = "100030,101,8"
+    },
+    [6] = {
+      uid = 539805,
+      card_advance_level = 60,
+      card_advance_price = "100001,1,90000:111131,101,19:111135,101,20:111139,101,21",
+      card_advance_goods_rewards = "100030,101,12"
+    },
+    [7] = {
+      uid = 539806,
+      card_advance_level = 0,
+      card_advance_goods_rewards = "100030,101,15"
+    }
+  },
   [54010] = {
     [1] = {
       uid = 2596,
@@ -37745,6 +37877,50 @@ data = {
       uid = 549606,
       card_advance_level = 0,
       card_advance_goods_rewards = "100036,101,12"
+    }
+  },
+  [54970] = {
+    [1] = {
+      uid = 549700,
+      card_advance_level = 10,
+      card_advance_price = "100001,1,2000:111013,101,2:111018,101,2:111023,101,5",
+      card_advance_goods_rewards = "100030,101,0"
+    },
+    [2] = {
+      uid = 549701,
+      card_advance_level = 20,
+      card_advance_price = "100001,1,5000:111032,101,5:111037,101,3:111042,101,7",
+      card_advance_goods_rewards = "100030,101,2"
+    },
+    [3] = {
+      uid = 549702,
+      card_advance_level = 30,
+      card_advance_price = "100001,1,15000:111051,101,7:111056,101,8:111061,101,9",
+      card_advance_rewards = "4801,253,1",
+      card_advance_goods_rewards = "100030,101,4"
+    },
+    [4] = {
+      uid = 549703,
+      card_advance_level = 40,
+      card_advance_price = "100001,1,30000:111070,101,12:111075,101,11:111080,101,13",
+      card_advance_goods_rewards = "100030,101,6"
+    },
+    [5] = {
+      uid = 549704,
+      card_advance_level = 50,
+      card_advance_price = "100001,1,60000:111089,101,15:111094,101,14:111099,101,19",
+      card_advance_goods_rewards = "100030,101,8"
+    },
+    [6] = {
+      uid = 549705,
+      card_advance_level = 60,
+      card_advance_price = "100001,1,90000:111508,101,20:111510,101,20:111512,101,20",
+      card_advance_goods_rewards = "100030,101,12"
+    },
+    [7] = {
+      uid = 549706,
+      card_advance_level = 0,
+      card_advance_goods_rewards = "100030,101,15"
     }
   },
   [58010] = {

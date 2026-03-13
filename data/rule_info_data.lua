@@ -1470,7 +1470,8 @@ Daily Stamina Free Reclaim
 Enjoy VIP privilege packs and weekly discounted packs
 -
 Save unused Footage, Enchantment, City News, and Box Office Contest attempts.
-Custom Login Screen]]
+Custom Login Screen
+Custom Karma Display on Widget]]
   },
   [89] = {
     rule_type = "tournament",
@@ -3439,7 +3440,20 @@ Collect Star Badges and experience a fateful encounter with Kiro on the set.
   [254] = {
     rule_type = "MainlineCards_68013",
     rule_title = "Rules",
-    rule_desc = "[c][C74848]Memory Corridor[-][/c]\n\nSeal the happy moments with a warm touch.\nTime flies, but memories last forever.\nThey will always stay where they are, deep in the heart.\n\n[c][C74848]Rules[-][/c]\n\n1. Tap [Stamp] to spend [[c][C74848]Lingering Echoes[-][/c] and [c][C74848]Dream Handbells[-][/c] to get 9-12 [c][C74848]Stamp Points[-][/c] and random rewards.\n\n2. Accumulate Stamp Points and reach specific progress tiers to obtain Season 2 limited [c][C74848]SSR Giftboxes[-][/c] and matching [c][C74848]Outfit Giftboxes[-][/c].\n\n3. [c][C74848]Dream Handbells[-][/c] can be obtained from [c][C74848]Evol Supply[-][/c] or [c][C74848]purchased with Gems[-][/c]; Lingering Echoes can be obtained by [c][C74848]clearing main story stages[-][/c]."
+    rule_desc = [[
+[c][C74848]Memory Corridor[-][/c]
+
+Seal the happy moments with a warm touch.
+Time flies, but memories last forever.
+They will always stay where they are, deep in the heart.
+
+[c][C74848]Rules[-][/c]
+
+1. Tap [Stamp] to spend [c][C74848]Lingering Echoes[-][/c] and [c][C74848]Dream Handbells[-][/c] to get 9-12 [c][C74848]Stamp Points[-][/c] and random rewards.
+
+2. Accumulate Stamp Points and reach specific progress tiers to obtain Season 2 limited [c][C74848]SSR Giftboxes[-][/c] and matching [c][C74848]Outfit Giftboxes[-][/c].
+
+3. [c][C74848]Dream Handbells[-][/c] can be obtained from [c][C74848]Evol Supply[-][/c] or [c][C74848]purchased with Gems[-][/c]; Lingering Echoes can be obtained by [c][C74848]clearing main story stages[-][/c].]]
   },
   [255] = {
     rule_type = "Anniv4Preheat",
@@ -4324,7 +4338,7 @@ Shimmering candlelight of memories, slicing through the endless night. Let the l
 
 [c][C74848]Rules[-][/c]
 
-1. Tap [light up] to consume [c][C74848]Trailing Light[-][/c] and [c][C74848]Star Candle[-][/c], and in return you get 9-12 [c][C74848]Light-up Progress[-][/c] and other random rewards.
+1. Tap [light up] to consume  [c][C74848]Dream Handbell[-][/c] and [c][C74848]Lingering Echo[-][/c], and in return you get 9-12 [c][C74848]Light-up Progress[-][/c] and other random rewards.
 
 2. Reach certain progress tiers to get Season 2 main story limited [c][C74848]SSR Giftboxes[-][/c] and their related [c][C74848]Outfit Giftboxes[-][/c].
 
@@ -4332,8 +4346,33 @@ Shimmering candlelight of memories, slicing through the endless night. Let the l
   },
   [342] = {
     rule_type = "ZQLVlog33018",
-    rule_title = "规则",
-    rule_desc = "前行路上的每一步，自有他和阳光同行。\n活动时间：2023/1/1 5:00 -2023/1/20 23:59\n\n[c][C74848] 规则说明：[-][/c]\n\n1.同周棋洛短暂分开的日子里，互相完成对方布置的小任务吧！\n\n-行动并完成事件后，可以解锁对应事件的[c][C74848]纪念日记[-][/c]，记录分开日的点点滴滴。\n\n-行动并完成事件后，可以获得[c][C74848]行动进展[-][/c]，获得9次行动进展后，即可领取[c][C74848]SR羁绊[周棋洛·人生一掷][-][/c]！\n\n-行动过程中，除了专注自己的工作，他也有在好好完成你留下的小任务~\n\n2.点击[c][C74848]行动[-][/c]，可以前往完成1个新事件，并记录进纪念日记中。\n\n-每天可获得1次[c][C74848]行动[-][/c]次数，每天5:00刷新，次数不累计。完成全部事件后，将不再获得行动次数。\n\n3.点击[c][C74848]再次行动[-][/c]，可以再次完成已经完成过的事件。\n-每天可获得6次免费[c][C74848]再次行动[-][/c]次数，每天5:00刷新，次数不累计；使用完后可以消耗钻石购买，购买不限次数。\n\n4.使用[c][C74848]快速行动[-][/c]功能，可以一次性消耗多次再次行动次数并获得积分。\n\n5.行动可获得[c][C74848]牵挂值[-][/c]。牵挂值累计达到档位要求后，即可领取[c][C74848]道具奖励[-][/c]。\n\n-每次行动可获得10点牵挂值；每次再次行动可获得5点牵挂值。"
+    rule_title = "Rules",
+    rule_desc = [[
+Every step you take, he is right there beside you, walking along in the radiant sun.
+Event period: 2025/10/7 5:00 -2025/10/26 23:59
+
+[c][C74848]Rules:[-][/c]
+
+1. Spend the time away from Kiro's company by completing each other's small tasks!
+
+-After completing an event, you will unlock that event's [c][C74848]Diary[-][/c]. Keeping track of the happenings while you are apart.
+
+-Completing the event will award [c][C74848]progress[-][/c]. After obtaining 9 progresses, you'll be eligible to receive the [c][C74848]SR Karma [Kiro: Toss of Fate][-][/c]!
+
+-During the event, other than his own work, he's also completing all the little tasks you have left him.
+
+2. Tap on the [c][C74848]Move[-][/c] button to begin completing a new event to be recorded in the Diary.
+
+-You get 1 [c][C74848]Move[-][/c] every day, resetting at 5 AM of the next day. Moves don't accumulate. You will not get any more moves once all events are complete.
+
+3. Tapping on [c][C74848]Move Again[-][/c] will let you complete an event you have already completed.
+-You get 6 free [c][C74848]Move Again[-][/c] chances per day that refresh each day at 5 AM and do not accumulate to the next day. These can also be purchased with Gems without limit.
+
+4. You can use the [c][C74848]Quick Move[-][/c] feature to quickly use all the Move Again chances and gain points.
+
+5. Using Moves will award [c][C74848]Caring Pts[-][/c]. Reaching Caring Pts milestones will unlock [c][C74848]item rewards[-][/c].
+
+-Each Move awards 10 Caring Pts. Each Move Again awards 5 Caring Pts.]]
   },
   [343] = {
     rule_type = "newBattlepass_86015",
@@ -4488,8 +4527,33 @@ Shimmering candlelight of memories, slicing through the endless night. Let the l
   },
   [367] = {
     rule_type = "LZYVlog33019",
-    rule_title = "规则",
-    rule_desc = "故地重游，于满山青绿中分享彼此的回忆，共度悠悠好春光。\n活动时间：2023/2/22 更新后 - 2023/3/20 23:59\n\n[c][C74848] 规则说明：[-][/c]\n\n1.同李泽言短暂分开的日子里，互相完成对方布置的小任务吧！\n\n-行动并完成事件后，可以解锁对应事件的[c][C74848]纪念日记[-][/c]，记录分开日的点点滴滴。\n\n-行动并完成事件后，可以获得[c][C74848]行动进展[-][/c]，获得12次行动进展后，即可领取[c][C74848]SSR羁绊[李泽言·我心盎然][-][/c]！\n\n-行动过程中，除了专注自己的工作，他也有在好好完成你留下的小任务~\n\n2.点击[c][C74848]行动[-][/c]，可以前往完成1个新事件，并记录进纪念日记中。\n\n-每天可获得1次[c][C74848]行动[-][/c]次数，每天5:00刷新，次数不累计。完成全部事件后，将不再获得行动次数。\n\n3.点击[c][C74848]再次行动[-][/c]，可以再次完成已经完成过的事件。\n-每天可获得6次免费[c][C74848]再次行动[-][/c]次数，每天5:00刷新，次数不累计；使用完后可以消耗钻石购买，购买不限次数。\n\n4.使用[c][C74848]快速行动[-][/c]功能，可以一次性消耗多次再次行动次数并获得积分。\n\n5.行动可获得[c][C74848]牵挂值[-][/c]。牵挂值累计达到档位要求后，即可领取[c][C74848]道具奖励[-][/c]。\n\n-每次行动可获得10点牵挂值；每次再次行动可获得5点牵挂值。"
+    rule_title = "Rules",
+    rule_desc = [[
+Through a journey to the past, memories bloom anew, and spring lingers gently over the verdant hills.
+Event Period: 2026/2/28 5:00 - 2026/3/26 23:59
+
+[c][C74848]Rules:[-][/c]
+
+1. Spend the time away from Victor's company by completing each other's small tasks!
+
+-After completing an event, you will unlock that event's [c][C74848]Diary[-][/c] to keep track of the happenings while you are apart.
+
+-Completing the event will award [c][C74848]Progress[-][/c]. Reach 12 Progress to claim the [c][C74848]SSR Karma [Victor: A Heart in Bloom][-][/c]!
+
+-During the event, in addition to his own work, he'll also take care of the little tasks you've left for him.
+
+2. Tap on the [c][C74848]Move[-][/c] button to begin completing a new event to be recorded in the Diary.
+
+-You get 1 [c][C74848]Move[-][/c] every day, resetting at 5 AM of the next day. Moves don't accumulate. You will not get any more moves once all events are complete.
+
+3. Tapping on [c][C74848]Move Again[-][/c] will let you complete an event you have already completed.
+-You get 6 free [c][C74848]Move Again[-][/c] chances per day that refresh each day at 5 AM and do not accumulate to the next day. These can also be purchased with Gems without limit.
+
+4. You can use the [c][C74848]Quick Move[-][/c] feature to quickly use all the Move Again chances and gain points.
+
+5. Using Moves will award [c][C74848]Caring Pts[-][/c]. Reaching Caring Pts milestones will unlock [c][C74848]item rewards[-][/c].
+
+-Each Move awards 10 Caring Pts. Each Move Again awards 5 Caring Pts.]]
   },
   [368] = {
     rule_type = "62013",
@@ -4798,8 +4862,33 @@ Event time: 2025/4/26 5:00 - 2025/5/15 23:59
   },
   [401] = {
     rule_type = "ZQLVlog33021",
-    rule_title = "规则",
-    rule_desc = "如约而至，把你的每一句眷念都记在心底。\n活动时间：2023/8/28 5:00 -2023/9/23 23:59\n\n[c][C74848] 规则说明：[-][/c]\n\n1.同周棋洛短暂分开的日子里，互相完成对方布置的小任务吧！\n\n-行动并完成事件后，可以解锁对应事件的[c][C74848]纪念日记[-][/c]，记录分开日的点点滴滴。\n\n-行动并完成事件后，可以获得[c][C74848]行动进展[-][/c]，获得12次行动进展后，即可领取[c][C74848]SSR羁绊[周棋洛·心间遐迩][-][/c]！\n\n-行动过程中，除了专注自己的工作，他也有在好好完成你留下的小任务~\n\n2.点击[c][C74848]行动[-][/c]，可以前往完成1个新事件，并记录进纪念日记中。\n\n-每天可获得1次[c][C74848]行动[-][/c]次数，每天5:00刷新，次数不累计。完成全部事件后，将不再获得行动次数。\n\n3.点击[c][C74848]再次行动[-][/c]，可以再次完成已经完成过的事件。\n-每天可获得6次免费[c][C74848]再次行动[-][/c]次数，每天5:00刷新，次数不累计；使用完后可以消耗钻石购买，购买不限次数。\n\n4.使用[c][C74848]快速行动[-][/c]功能，可以一次性消耗多次再次行动次数并获得积分。\n\n5.行动可获得[c][C74848]牵挂值[-][/c]。牵挂值累计达到档位要求后，即可领取[c][C74848]道具奖励[-][/c]。\n\n-每次行动可获得10点牵挂值；每次再次行动可获得5点牵挂值。"
+    rule_title = "Rules",
+    rule_desc = [[
+A promised reunion. He remembers each one of your words to heart.
+Event Period: 2026/01/28 05:00 - 2026/02/23 23:59
+
+[c][C74848]Rules:[-][/c]
+
+1. Spend the time away from Kiro's company by completing each other's small tasks!
+
+-After completing an event, you will unlock that event's [c][C74848]Diary[-][/c] to keep track of the happenings while you are apart.
+
+-Completing the event will award [c][C74848]Progress[-][/c]. Reach 12 Progress to claim the [c][C74848]SSR Karma [Kiro: Closer Than Close][-][/c]!
+
+-During the event, in addition to his own work, he'll also take care of the little tasks you've left for him.
+
+2. Tap on the [c][C74848]Move[-][/c] button to begin completing a new event to be recorded in the Diary.
+
+-You get 1 [c][C74848]Move[-][/c] every day, resetting at 5 AM of the next day. Moves don't accumulate. You will not get any more moves once all events are complete.
+
+3. Tapping on [c][C74848]Move Again[-][/c] will let you complete an event you have already completed.
+-You get 6 free [c][C74848]Move Again[-][/c] chances per day that refresh each day at 5 AM and do not accumulate to the next day. These can also be purchased with Gems without limit.
+
+4. You can use the [c][C74848]Quick Move[-][/c] feature to quickly use all the Move Again chances and gain points.
+
+5. Using Moves will award [c][C74848]Caring Pts[-][/c]. Reaching Caring Pts milestones will unlock [c][C74848]item rewards[-][/c].
+
+-Each [Move] awards 10 Caring Pts. Each [Move Again] awards 5 Caring Pts.]]
   },
   [402] = {
     rule_type = "newBattlepass_86019",
@@ -4838,13 +4927,20 @@ and flows day and night.
   },
   [406] = {
     rule_type = "newBattlepass_86020",
-    rule_title = "规则",
-    rule_desc = "※照进屋里的每缕阳光，都因他变得馥郁馨香※\n\n活动时间：11月1日5:00-12月30日23:59\n\n[c][C74848] ◆规则说明：[-][/c]\n\n1. 活动期间，完成每日任务后，每获得1点活跃度的同时可以获得1点[c][C74848]光照值[-][/c]，每日任务所得光照值[c][C74848]每周上限1000点[-][/c]，每周一早上5：00重置。每增加100点光照值可以提升1级。\n\n2. 等级提升后，可以领取等级对应的[c][C74848]基础奖励[-][/c]；购买[c][C74848]日光特权[-][/c]后，可以额外领取等级对应的[c][C74848]特权奖励[-][/c]。\n\n3. 日光特权分为45元和88元两个档位，仅可选择其一购买，购买后未购档位及其奖励将无法购买和获得。为保证所有时间参与馥郁日光活动的制作人收益一致，日光特权的购买将不会计入任何[c][C74848]限时累计充值[-][/c]活动中；[c][C74848]长期充值活动[-][/c]不受影响，充值金额将照常计入。\n\n4. 玩家每周也可通过[c][C74848]活动限定【相伴任务】[-][/c]获取额外光照值。相伴任务每周仅可完成一次，每周一早上5:00重置。其中，持有日光特权的玩家可完成特权限定任务，获取额外光照值福利。\n\n5. 在某些等级玩家可获得[c][C74848]日光币[-][/c]，日光币可以在[c][C74848]日光小铺[-][/c]中换取[c][C74848]星缘石·头像框，星缘石·云朵泡泡，星缘石·岁初景明，星缘石·新岁寄语，星缘石·古韵绘卷，星缘石·煦春祝语，两个免费SR自选礼盒，五个角色服装自选礼盒及养成资源[-][/c]等缤纷好礼。\n\n6.达到62级时玩家还可获得[c][C74848]四时纪语复刻礼盒[-][/c]，使用[c][C74848]银翼之匙[-][/c]或[c][C74848]金璃之匙[-][/c]开启礼盒，即可获得对应的不同道具奖励，包括往期[c][C74848]馥郁日光ER羁绊、去见他背景与限定头像框[-][/c]。两种钥匙可在EVOL商城购买获得。\n\n-星缘石·云朵泡泡：包含2021年云朵泡泡活动R羁绊【李泽言·无措风范】，【许墨·完美演绎】，【周棋洛·心球大战】，【白起·加急特训】，【凌肖·高手就位】， 金币*20000，体力*150，告白心愿*5\n\n-星缘石·岁初景明：包含2022年岁初景明活动R羁绊【李泽言·虎运满堂】，【许墨·虎福盈门】，【周棋洛·虎送佳音】，【白起·虎啸风生】，【凌肖·虎跃凌云】， 金币*20000，体力*150，告白心愿*5\n\n-星缘石·新岁寄语：包含2021年新岁寄语活动R羁绊【李泽言·金桔报喜】，【许墨·年岁生花】，【周棋洛·甜源广进】，【白起·瑞舞生风】，【凌肖·爆竹声辉】， 金币*20000，体力*150，告白心愿*5\n\n-星缘石·古韵绘卷：包含2020年古韵绘卷活动R羁绊【李泽言·酌古斟今】，【许墨·墨趣添色】，【周棋洛·灯河耿耿】，【白起·塑意写心】，【凌肖·吹影镂尘】，金币*20000，体力*150，告白心愿*5\n\n-星缘石·煦春祝语：包含2020年煦春祝语活动R羁绊【李泽言·团团圆圆】，【许墨·顺遂如意】，【周棋洛·五谷丰登】，【白起·喜气盈门】，【凌肖·笑口常开】， 金币*20000，体力*150，告白心愿*5     \n\n-星缘石·头像框：包含七款复刻头像框【冬日恋语】，【蔚蓝梦想】，【绚烂时刻】，【春之声】，【盛夏星语】，【逢考必过】，【晨间新光】，金币*10000，体力*100，告白心愿*3 \n\n-活动星缘石每次唤醒必定掉落星辰碎片一个，并从对应上述奖励中随机抽取一个。已有头像框/羁绊不会重复获得，但头像框/羁绊在全部获得前，总体掉落概率不会改变。\n\n-许墨服装礼盒：可从【许墨·暮秋深黛毛线衣】【许墨·卡其色绅士两件套】【许墨·黑蚕丝混纺衬衫】中任选一套获得 \n\n-李泽言服装礼盒：可从【李泽言·藏青色休闲夹克】【李泽言·银线暗纹西装】【李泽言·格纹斯诺克马甲套装】中任选一套获得 \n\n-白起服装礼盒：可从【白起·浅灰休闲西装】【白起·青空之下短套装】【白起·米白长风衣套装】中任选一套获得 \n\n-周棋洛服装礼盒：可从【周棋洛·绿野踪迹休闲服】【周棋洛·心动粉白套装】【周棋洛·春日贵族制服】中任选一套获得\n\n-凌肖服装礼盒：可从【凌肖·黑夜之旅夹克】【凌肖·黑白兜帽套装】【凌肖·细纹衬衫外套】中任选一套获得\n     \n*日光币将在本期活动结束后清空，不能在后续同类活动中使用，请各位制作人提前兑换使用。\n\n6. 活动开启30天后活动将开放[c][C74848]等级快速提升[-][/c]功能。开放后，玩家可通过该功能消耗钻石直升等级\n  *购买时钻石消耗数量将按照光照值单价计算，玩家仅需支付直升所选等级所需的最少光照值对应的钻石数量"
+    rule_title = "Rules",
+    rule_desc = "※Each ray of the sun carries the mesmerizing scent of him.※\n\nEvent period: 9/1 05:00 to 10/30 23:59\n\n[c][C74848]◆Rules:[-][/c]\n\n1. During the event, after completing the Daily Quests, you get 1 [c][C74848]Sunlight Point[-][/c] for every 1 Activeness you receive. You can receive up to [c][C74848]1,000 Sunlight Points per week[-][/c] from Daily Quests, resetting each Monday at 5 AM. 1 level is gained for every 100 Sunlight Points.\n\n2. Leveling up will award you a corresponding [c][C74848]basic reward[-][/c]. After purchasing the [c][C74848]Sunshine Privilege[-][/c], you will also be awarded an extra [c][C74848]privilege reward[-][/c] for that level.\n\n3. Sunshine Privilege has two tiers: $6.99 and $12.99. Purchasing one will lock you out of the other, whose rewards cannot be obtained even by purchasing. To ensure all Producers receive the same reward in the Fragrant Sunshine event, Sunshine Privilege will not be counted toward any [c][C74848]ltd-time cumulative top-up[-][/c] events. Any top-up in the[c][C74848]long-term cumulative top-up events[-][/c] will be counted as usual.\n\n4. Players will also be able to obtain extra Sunlight Points by completing the [c][C74848]event-limited [Company Quests][-][/c]. Each Company Quest can only be completed once and resets every Monday at 5 AM. Players with Sunshine Privilege can complete these limited quests for extra Sunlight Points.\n\n5. Some level rewards will contain [c][C74848]Sunlight Tokens[-][/c]. Sunlight Tokens can be redeemed at the [c][C74848]Sunshine Shop[-][/c] for Crystal: Avatar Frame, Crystal: Bubble Cloud, Crystal: Fun at Zoo, Crystal: Colorful Comedies, two free SR Custom Giftboxes, five Outfit Giftboxes, progression materials,[-][/c] and other fabulous rewards.\n\n6. Players will also be able to obtain [c][C74848]Seasonal Memorial Giftboxes[-][/c] upon reaching Lv. 62. [c][C74848]Silvery Wing Keys[-][/c] or [c][C74848]Golden Glass Keys[-][/c] can be used to open the giftboxes to obtain corresponding rewards, including the rerunning [c][C74848]Fragrant Sunshine ER Karma, Go See Him Background and Exclusive Avatar Frame[-][/c]. The two keys can be purchased from Evol Supply.\n\n- Crystal: Bubble Cloud includes the Bubble Cloud event R Karmas: [Victor: Flustered], [Lucien: Perfect Reenactment], [Kiro: Battle of Hearts], [Gavin: Urgent Training], [Shaw: Like a Pro], Gold x20,000, Stamina x150, and Confess Wish x5.\n\n-Crystal: Fortune's Leap includes the R Karmas from the Fortune's Leap event: [Victor: Tiger of Prosperity], [Lucien: Tiger of Fortune], [Kiro: Tiger of Benediction], [Gavin: Tiger of Gumption], [Shaw: Tiger of Aspiration], Gold x20,000, Stamina x150, and Confess Wish x5.\n\n-Crystal: Fun at Zoo includes the Fun at Zoo event R Karmas: [Victor: Striped Style], [Lucien: Woolly Warmth], [Kiro: Colorful Image], [Gavin: Spotted Delight], [Shaw: Grey Rhapsody], Gold x20,000, Stamina x150, and Confess Wish x5.\n\n-Crystal: Colorful Comedies includes the Colorful Comedies event R Karmas: [Victor: No Escaping], [Lucien: Cute Flowers], [Kiro: Cute Bear], [Gavin: Sound of Wonder], [Shaw: Pixel Style], Gold x20,000, Stamina x150, and Confess Wish x5. \n\n-Crystal: Avatar Frame includes 7 rerunning avatar frames: [Loveland in Winter], [Azure Dream], [Wondrous Moment], [Voice of Spring], [Midsummer Star], [Getting Lucky], [Light of Dawn], Gold x10,000, Stamina x100, and Confess Wish x3. \n\n-Each Crystal Awakening will drop one Star Shard and one of the above-mentioned rewards at random. Players will not receive duplicate avatar frames/Karmas, but the overall drop rate will not change until all the avatar frames/Karmas are acquired.\n\n-Lucien Outfit Giftbox: Choose one of the following: [Lucien: Autumn Dark Blue Sweater], [Lucien: Khaki Men's Two-Piece Set], or [Lucien: Black Silk Blend Shirt]. \n\n-Victor Outfit Giftbox: Choose one of the following: [Victor: Navy Casual Jacket], [Victor: Silver Striped Suit], or [Victor: Plaid Snooker Vest Set]. \n\n-Gavin Outfit Giftbox: Choose one of the following: [Gavin: Light Gray Casual Suit], [Gavin: Under the Blue Sky Short Set], or [Gavin: Beige Long Trench Coat Set]. \n\n-Kiro Outfit Giftbox: Choose one of the following: [Kiro: Green Trail Casual Wear], [Kiro: Heartbeat Pink and White Set], or [Kiro: Spring School Uniform].\n\n-Shaw Outfit Giftbox: Choose one of the following: [Shaw: Night Journey Jacket], [Shaw: Black and White Hooded Set], or [Shaw: Fine Striped Shirt Jacket].\n     \n*Sunlight Tokens will be removed after the event ends and cannot be used in subsequent events. Please use them in a timely manner.\n\n6. 30 days after the event begins, you'll gain the ability to [c][C74848]Instantly Lv. Up[-][/c], through which you'll be able to spend Gems to quickly level up.\n  *The Gems cost will be directly proportionate to the amount of required Sunlight Points. Gems will be spent based on the least number of Sunlight Points required to level up."
   },
   [407] = {
     rule_type = "newBattlepass_86020_rule",
-    rule_title = "规则",
-    rule_desc = "[c][C74848]「相伴任务」规则说明：[-][/c]\n\n1. 完成活动限定相伴任务，可以获得额外光照值，且此处所获光照值不受周获取上限限制\n\n2.相伴任务每周只可完成一次，每周一早上5:00重置\n\n3. 【每周登录礼】仅限日光特权用户，购买特权后每周可于此领取每周福利光照值"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848][Company Quest] Rules:[-][/c]
+
+1. Complete the event-limited Company Quests to gain extra Sunlight Points that are unaffected by your weekly limit.
+
+2. Company Quest can only be completed once per week, resetting every Monday at 5 AM.
+
+3. [Weekly Login Gift] is exclusive to the players with Sunshine Privilege. Buying the Privilege will grant you bonus weekly Sunlight Points.]]
   },
   [408] = {
     rule_type = "Birth92015_1",
@@ -4933,17 +5029,16 @@ With each step into the future, you shape the endless possibilities that unfold 
     rule_desc = [[
 [c][C74848]Memory Corridor[-][/c]
 
-With each step into the future,
-you shape the endless possibilities that unfold beneath your feet.
+Every choice you make, the world will answer.
+Every step you take shapes countless futures.
 
 [c][C74848]Rules[-][/c]
 
-1. Tap [Forge Ahead] and use [c][C74848]Destiny's Threads[-][/c] and [c][C74848]Unfurled Tomorrow[-][/c]. In return, you'll get 9-12 [c][C74848]Forge Progress[-][/c] and other random rewards.
+1. Tap [Forge Ahead], spend [c][C74848]Dream Handbell[-][/c] and [c][C74848]Lingering Echo[-][/c] to get 9-12 [c][C74848]Choice Progress[-][/c] and random item rewards.
 
-2. Reach certain progress tiers to get a Season 2 main story limited [c][C74848]SSR Karma Custom Giftbox[-][/c] and its related [c][C74848]Outfit Giftbox[-][/c].
+2. Reach specific progress tiers to claim a Main Story Season 2 limited [c][C74848]SSR Karma Custom Giftbox[-][/c] and its related [c][C74848]Outfit Giftbox[-][/c].
 
-3. Unfurled Tomorrow can be purchased through [c][C74848]packs in the Evol Supply[-][/c], or [c][C74848]bought with Gems[-][/c]. Destiny's Threads can be obtained by clearing [c][C74848]main story stages[-][/c].
-*When the event ends on 2025/4/1, any unspent Destiny's Threads will be converted into Gold and mailed to you.]]
+3. Dream Handbell can be obtained from [c][C74848]packs in Evol Supply[-][/c] or [c][C74848]bought with Gems[-][/c]. Lingering Echo can be obtained by [c][C74848]clearing Main Story Stages[-][/c].]]
   },
   [416] = {
     rule_type = "69006",
@@ -4962,13 +5057,20 @@ you shape the endless possibilities that unfold beneath your feet.
   },
   [419] = {
     rule_type = "newBattlepass_86021",
-    rule_title = "规则",
-    rule_desc = "※照进屋里的每缕阳光，都因他变得馥郁馨香※\n\n活动时间：1月1日5:00-2月29日23:59\n\n[c][C74848] ◆规则说明：[-][/c]\n\n1. 活动期间，完成每日任务后，每获得1点活跃度的同时可以获得1点[c][C74848]光照值[-][/c]，每日任务所得光照值[c][C74848]每周上限1000点[-][/c]，每周一早上5：00重置。每增加100点光照值可以提升1级。\n\n2. 等级提升后，可以领取等级对应的[c][C74848]基础奖励[-][/c]；购买[c][C74848]日光特权[-][/c]后，可以额外领取等级对应的[c][C74848]特权奖励[-][/c]。\n\n3. 日光特权分为45元和88元两个档位，仅可选择其一购买，购买后未购档位及其奖励将无法购买和获得。为保证所有时间参与馥郁日光活动的制作人收益一致，日光特权的购买将不会计入任何[c][C74848]限时累计充值[-][/c]活动中；[c][C74848]长期充值活动[-][/c]不受影响，充值金额将照常计入。\n\n4. 玩家每周也可通过[c][C74848]活动限定【相伴任务】[-][/c]获取额外光照值。相伴任务每周仅可完成一次，每周一早上5:00重置。其中，持有日光特权的玩家可完成特权限定任务，获取额外光照值福利。\n\n5. 在某些等级玩家可获得[c][C74848]日光币[-][/c]，日光币可以在[c][C74848]日光小铺[-][/c]中换取[c][C74848]星缘石·头像框，星缘石·夏日水世界，星缘石·晨梦轻盈，星缘石·花中情缘，星缘石·月升情起，星缘石·盒装酥甜，星缘石·夏日花火，两个免费SR自选礼盒，五个角色服装自选礼盒及养成资源[-][/c]等缤纷好礼。\n\n6.达到62级时玩家还可获得[c][C74848]四时纪语复刻礼盒[-][/c]，使用[c][C74848]银翼之匙[-][/c]或[c][C74848]金璃之匙[-][/c]开启礼盒，即可获得对应的不同道具奖励，包括往期[c][C74848]馥郁日光ER羁绊、去见他背景与限定头像框[-][/c]。两种钥匙可在EVOL商城购买获得。\n\n-星缘石·夏日水世界：包含2021年夏日水世界活动R羁绊【李泽言·降温密语】，【许墨·消夏之趣】，【周棋洛·桃气遐想】，【白起·甜意双拼】，【凌肖·炫彩清凉】， 金币*20000，体力*150，告白心愿*5\n\n-星缘石·晨梦轻盈：包含2022年晨梦轻盈活动R羁绊【李泽言·静夜秘蜜】，【许墨·限售童话】，【周棋洛·今日好梦】，【白起·绻意余香】，【凌肖·无心入眠】， 金币*20000，体力*150，告白心愿*5\n\n-星缘石·花中情缘：包含2021年花中情缘活动R羁绊【李泽言·幽香沁情】，【许墨·馥乐入心】，【周棋洛·心韵寄音】，【白起·晚花欲绽】，【凌肖·交沁烙印】， 金币*20000，体力*150，告白心愿*5\n\n-星缘石·月升情起：包含2020年月升情起活动R羁绊【李泽言·蜜意留情】，【许墨·皎皎澄光】，【周棋洛·秋意藏谜】，【白起·烛光暗香】，【凌肖·守月待兔】，金币*20000，体力*150，告白心愿*5\n\n-星缘石·盒装酥甜：包含2020年盒装酥甜活动R羁绊【李泽言·七分甜度】，【许墨·纸间记忆】，【周棋洛·遇见告白】，【白起·掌间萦绕】，【凌肖·魔术心意】， 金币*20000，体力*150，告白心愿*5     \n\n-星缘石·夏日花火：包含2020年夏日花火活动R羁绊【李泽言·章鱼烧】，【许墨·红蝶尾】，【周棋洛·苹果糖】，【白起·碎碎冰】， 金币*20000，体力*150，告白心愿*5         \n\n-星缘石·头像框：包含七款复刻头像框【冬日恋语】，【蔚蓝梦想】，【绚烂时刻】，【春之声】，【盛夏星语】，【逢考必过】，【晨间新光】，金币*10000，体力*100，告白心愿*3 \n\n-活动星缘石每次唤醒必定掉落星辰碎片一个，并从对应上述奖励中随机抽取一个。已有头像框/羁绊不会重复获得，但头像框/羁绊在全部获得前，总体掉落概率不会改变。\n\n-许墨服装礼盒：可从【许墨·暮秋深黛毛线衣】【许墨·卡其色绅士两件套】【许墨·黑蚕丝混纺衬衫】中任选一套获得 \n\n-李泽言服装礼盒：可从【李泽言·藏青色休闲夹克】【李泽言·银线暗纹西装】【李泽言·格纹斯诺克马甲套装】中任选一套获得 \n\n-白起服装礼盒：可从【白起·浅灰休闲西装】【白起·青空之下短套装】【白起·米白长风衣套装】中任选一套获得 \n\n-周棋洛服装礼盒：可从【周棋洛·绿野踪迹休闲服】【周棋洛·心动粉白套装】【周棋洛·春日贵族制服】中任选一套获得\n\n-凌肖服装礼盒：可从【凌肖·黑夜之旅夹克】【凌肖·黑白兜帽套装】【凌肖·细纹衬衫外套】中任选一套获得\n     \n*日光币将在本期活动结束后清空，不能在后续同类活动中使用，请各位制作人提前兑换使用。\n\n6. 活动开启30天后活动将开放[c][C74848]等级快速提升[-][/c]功能。开放后，玩家可通过该功能消耗钻石直升等级\n  *购买时钻石消耗数量将按照光照值单价计算，玩家仅需支付直升所选等级所需的最少光照值对应的钻石数量"
+    rule_title = "Rules",
+    rule_desc = "※Each ray of the sun carries the mesmerizing scent of him.※\n\nEvent Duration: 01/01 05:00 - 03/01 23:59\n\n[c][C74848] ◆Rules: [-][/c]\n\n1. During the event, you'll earn 1 [c][C74848]Sunlight Point[-][/c] for every point of Activeness you gain by completing daily quests. You can earn [c][C74848]a maximum of 1,000 Sunlight Points per week[-][/c], which resets every Monday at 05:00. For every 100 Sunlight Points you collect, you'll level up by 1.\n\n2. When you level up, you can claim the [c][C74848]Basic Rewards[-][/c] for that level. If you purchase the [c][C74848]Sunshine Privilege[-][/c], you'll also be eligible for exclusive [c][C74848]Privilege Rewards[-][/c] at each level.\n\n3. The Sunshine Privilege is available in two tiers: $6.99 and $12.99. You can only purchase one tier at a time, and once you buy one, the other tier and its rewards will no longer be available. To ensure consistent benefits for all producers participating in the Fragrant Sunshine event, Sunshine Privilege purchases will not count toward any [c][C74848]Limited-Time Cumulative Top-up[-][/c] events. However, they will still contribute to [c][C74848]Long-term Top-up events[-][/c] as usual.\n\n4. You can earn additional Sunlight Points each week by completing the [c][C74848]Event-exclusive [Company Quests][-][/c]. Each Company Quest can only be completed once and resets every Monday at 5 AM. Players with Sunshine Privilege can complete limited quests for extra Sunlight Points.\n\n5. At certain levels, you'll earn [c][C74848]Sunlight Tokens[-][/c]. Spend these tokens in the [c][C74848]Sunshine Shop[-][/c] to redeem fantastic prizes, including: [c][C74848]Crystal: Avatar Frame, Crystal: Summer Waterpark, Crystal: Morning Dream, Crystal: Blooming Affection, Crystal: Moonrise Event, Crystal: Boxed Sweetness, Crystal: Summer Fireworks, two free SR Custom Giftboxes, five Outfit Giftboxes, and development materials[-][/c].\n\n6. You will also be able to obtain [c][C74848]Seasonal Memorial Giftboxes[-][/c] upon reaching Lv. 62. [c][C74848]Silvery Wing Keys[-][/c] or [c][C74848]Golden Glass Keys[-][/c] can be used to open the giftboxes to obtain corresponding rewards, including the rerunning [c][C74848]Fragrant Sunshine ER Karma, Go See Him Background and Limited Avatar Frame[-][/c]. Both keys are available for purchase in the Evol Supply.\n\n-Crystal: Summer Waterpark: Contains R Karma from the Summer Waterpark event: [Victor: Cooling Whispers], [Lucien: Summer Refreshing], [Kiro: Peach Reverie], [Gavin: Sweet Duet], [Shaw: Summer Style], plus Gold x20,000, Stamina x150, and Confess Wish x5.\n\n-Crystal: Morning Dream: Contains R Karma from the Morning Dream event: [Victor: Nightly Affection], [Lucien: Ltd-Ed Fairy Tale], [Kiro: Perfect Dream], [Gavin: Lingering Aroma], [Shaw: Sleepless Night], plus Gold x20,000, Stamina x150, and Confess Wish x5.\n\n-Crystal: Blooming Affection: Contains R Karma from the Blooming Affection event: [Victor: Fragrant Feelings], [Lucien: Sweet Melody], [Kiro: Song of the Heart], [Gavin: Night Blossom], [Shaw: Scorching Passion], plus Gold x20,000, Stamina x150, and Confess Wish x5.\n\n-Crystal: Moonrise Event: Contains R Karma from the Moonrise Event: [Victor: Sweet Emotions], [Lucien: Pale Moonbeams], [Kiro: Autumn Mysteries], [Gavin: Fragrant Candles], [Shaw: Moonwatch], plus Gold x20,000, Stamina x150, and Confess Wish x5.\n\n-Crystal: Boxed Sweetness: Contains R Karma from the Boxed Sweetness event: [Victor: 70% Sweetness], [Lucien: Memory Between Pages], [Kiro: Love Confession], [Gavin: Breeze in Hands], [Shaw: Magic Heart], plus Gold x20,000, Stamina x150, and Confess Wish x5.     \n\n-Crystal: Summer Fireworks: Contains R Karma from the Summer Fireworks event: [Victor: Takoyaki], [Lucien: Red Butterfly], [Kiro: Apple Candy], [Gavin: Smashed Ice], plus Gold x20,000, Stamina x150, and Confess Wish x5.         \n\n-Crystal: Avatar Frame: Contains a collection of seven rerun Avatar Frames: [Loveland in Winter], [Azure Dream], [Wondrous Moment], [Voice of Spring], [Midsummer Star], [Getting Lucky], [Light of Dawn], plus Gold x10,000, Stamina x100, and Confess Wish x3. \n\n-Every time you activate an event Crystal, you're guaranteed to receive one Star Shard and will randomly receive an item from the corresponding reward pool listed above. You won't receive duplicate Avatar Frames or Karma that you already own. However, the overall probability of obtaining any Avatar Frame or Karma remains unchanged until you have collected the entire set.\n\n-Lucien's Outfit Giftbox: Choose one of the following outfits: [Lucien: Autumn Dark Blue Sweater], [Lucien: Khaki Men's Two-Piece Set], [Lucien: Black Silk Blend Shirt]. \n\n-Victor's Outfit Giftbox: Choose one of the following outfits: [Victor: Navy Casual Jacket], [Victor: Silver Striped Suit], [Victor: Plaid Snooker Vest Set]. \n\n-Gavin's Outfit Giftbox: Choose one of the following outfits: [Gavin: Light Gray Casual Suit], [Gavin: Blue Sky Short Set], [Gavin: Beige Long Trench Coat Set]. \n\n-Kiro's Outfit Giftbox: Choose one of the following outfits: [Kiro: Green Trail Casual Wear], [Kiro: Heartbeat Pink and White Set], [Kiro: Spring School Uniform].\n\n-Shaw's Outfit Giftbox: Choose one of the following outfits: [Shaw: Night Journey Jacket], [Shaw: Black and White Hooded Set], [Shaw: Fine Striped Shirt Jacket].\n     \nPlease note: Sunlight Tokens will expire at the end of this event and cannot be carried over to future events. Please use them in a timely manner.\n\n6. The [c][C74848]Instant Lv. Up[-][/c] feature will be available 30 days after the event starts. Once it's unlocked, players can level up instantly by spending gems.\nPlease note: The gem cost for this upgrade is based on the standard rate for Sunlight Points. Players will only pay the exact amount of gems needed to reach their desired level."
   },
   [420] = {
     rule_type = "newBattlepass_86021_rule",
-    rule_title = "规则",
-    rule_desc = "[c][C74848]「相伴任务」规则说明：[-][/c]\n\n1. 完成活动限定相伴任务，可以获得额外光照值，且此处所获光照值不受周获取上限限制\n\n2.相伴任务每周只可完成一次，每周一早上5:00重置\n\n3. 【每周登录礼】仅限日光特权用户，购买特权后每周可于此领取每周福利光照值"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848][Company Quest] Rules:[-][/c]
+
+1. Complete the event-exclusive [Company Quests] to earn extra Sunlight Points that are unaffected by your weekly limit.
+
+2. Company Quest can only be completed once per week, resetting every Monday at 5 AM.
+
+3. [Weekly Login Gift] is exclusive to players with Sunshine Privilege. Buying the Privilege will grant you bonus weekly Sunlight Points.]]
   },
   [421] = {
     rule_type = "AP_Spring&SpringBingoSelectPanel39019",
@@ -5011,8 +5113,33 @@ you shape the endless possibilities that unfold beneath your feet.
   },
   [427] = {
     rule_type = "BQVlog33022",
-    rule_title = "规则",
-    rule_desc = "离你再近一点，就是我最熟悉的味道。\n活动时间：2024/1/17 更新后 - 2024/2/5 23:59\n\n[c][C74848] 规则说明：[-][/c]\n\n1.同白起短暂分开的日子里，互相完成对方布置的小任务吧！\n\n-行动并完成事件后，可以解锁对应事件的[c][C74848]纪念日记[-][/c]，记录分开日的点点滴滴。\n\n-行动并完成事件后，可以获得[c][C74848]行动进展[-][/c]，获得9次行动进展后，即可领取[c][C74848]SR羁绊[白起·觅冬][-][/c]！\n\n-行动过程中，除了专注自己的工作，他也有在好好完成你留下的小任务~\n\n2.点击[c][C74848]行动[-][/c]，可以前往完成1个新事件，并记录进纪念日记中。\n\n-每天可获得1次[c][C74848]行动[-][/c]次数，每天5:00刷新，次数不累计。完成全部事件后，将不再获得行动次数。\n\n3.点击[c][C74848]再次行动[-][/c]，可以再次完成已经完成过的事件。\n-每天可获得6次免费[c][C74848]再次行动[-][/c]次数，每天5:00刷新，次数不累计；使用完后可以消耗钻石购买，购买不限次数。\n\n4.使用[c][C74848]快速行动[-][/c]功能，可以一次性消耗多次再次行动次数并获得积分。\n\n5.行动可获得[c][C74848]牵挂值[-][/c]。牵挂值累计达到档位要求后，即可领取[c][C74848]道具奖励[-][/c]。\n\n-每次行动可获得10点牵挂值；每次再次行动可获得5点牵挂值。"
+    rule_title = "Rules",
+    rule_desc = [[
+A little closer to you, and I can smell the most familiar scent in this world.
+Event time: 2025/9/3 5:00 - 2025/9/22 23:59
+
+[c][C74848]Rules:[-][/c]
+
+1. Spend the time away from Gavin's company by completing each other's small tasks!
+
+-After completing an event, you will unlock that event's [c][C74848]Diary[-][/c]. Keeping track of the happenings while you are apart.
+
+-Completing the event will award [c][C74848]progress[-][/c]. After obtaining 9 progresses, you'll be eligible to receive the [c][C74848]SR Karma [Gavin: Winter's Trace][-][/c]!
+
+-During the event, other than his own work, he's also completing all the little tasks you have left him.
+
+2. Tap on the [c][C74848]Move[-][/c] button to begin completing a new event to be recorded in the Diary.
+
+-You get 1 [c][C74848]Move[-][/c] every day, resetting at 5 AM of the next day. Moves don't accumulate. You will not get any more moves once all events are complete.
+
+3. Tapping on [c][C74848]Move Again[-][/c] will let you complete an event you have already completed.
+-You get 6 free [c][C74848]Move Again[-][/c] chances per day that refresh each day at 5 AM and do not accumulate to the next day. These can also be purchased with Gems without limit.
+
+4. You can use the [c][C74848]Quick Move[-][/c] feature to quickly use all the Move Again chances and gain points.
+
+5. Using Moves will award [c][C74848]Caring Pts[-][/c]. Reaching Caring Pts milestones will unlock [c][C74848]item rewards[-][/c].
+
+-Each Move awards 10 Caring Pts. Each Move Again awards 5 Caring Pts.]]
   },
   [428] = {
     rule_type = "107003",
@@ -5069,8 +5196,8 @@ Tinge him with the color that only belongs to you.
   },
   [433] = {
     rule_type = "newBattlepass_86022",
-    rule_title = "规则",
-    rule_desc = "※照进屋里的每缕阳光，都因他变得馥郁馨香※\n\n活动时间：3月1日5:00-4月29日23:59\n\n[c][C74848] ◆规则说明：[-][/c]\n\n1. 活动期间，完成每日任务后，每获得1点活跃度的同时可以获得1点[c][C74848]光照值[-][/c]，每日任务所得光照值[c][C74848]每周上限1000点[-][/c]，每周一早上5：00重置。每增加100点光照值可以提升1级。\n\n2. 等级提升后，可以领取等级对应的[c][C74848]基础奖励[-][/c]；购买[c][C74848]日光特权[-][/c]后，可以额外领取等级对应的[c][C74848]特权奖励[-][/c]。\n\n3. 日光特权分为45元和88元两个档位，仅可选择其一购买，购买后未购档位及其奖励将无法购买和获得。为保证所有时间参与馥郁日光活动的制作人收益一致，日光特权的购买将不会计入任何[c][C74848]限时累计充值[-][/c]活动中；[c][C74848]长期充值活动[-][/c]不受影响，充值金额将照常计入。\n\n4. 玩家每周也可通过[c][C74848]活动限定【相伴任务】[-][/c]获取额外光照值。相伴任务每周仅可完成一次，每周一早上5:00重置。其中，持有日光特权的玩家可完成特权限定任务，获取额外光照值福利。\n\n5. 在某些等级玩家可获得[c][C74848]日光币[-][/c]，日光币可以在[c][C74848]日光小铺[-][/c]中换取[c][C74848]星缘石·头像框，星缘石·月映良宵，星缘石·心动圈套，星缘石·糖色闹剧，星缘石·萌动拾趣，星缘石·弦外之音，星缘石·朝暮心语，两个免费SR自选礼盒，五个角色服装自选礼盒及养成资源[-][/c]等缤纷好礼。\n\n6.达到62级时玩家还可获得[c][C74848]四时纪语复刻礼盒[-][/c]，使用[c][C74848]银翼之匙[-][/c]或[c][C74848]金璃之匙[-][/c]开启礼盒，即可获得对应的不同道具奖励，包括往期[c][C74848]馥郁日光ER羁绊、去见他背景与限定头像框[-][/c]。两种钥匙可在EVOL商城购买获得。\n\n-星缘石·月映良宵：包含2021年月映良宵活动R羁绊【李泽言·降温密语】，【许墨·灯寄人间】，【周棋洛·星落满天】，【白起·秋夜灯火】，【凌肖·荷香映月】， 金币*20000，体力*150，告白心愿*5\n\n-星缘石·心动圈套：包含2022年心动圈套活动R羁绊【李泽言·难舍难分】，【许墨·顽心突袭】，【周棋洛·愚乐娃娃】，【白起·化敌为友】，【凌肖·会心一击】， 金币*20000，体力*150，告白心愿*5\n\n-星缘石·糖色闹剧：包含2021年糖色闹剧活动R羁绊【李泽言·在口难逃】，【许墨·可爱花招】，【周棋洛·萌熊来袭】，【白起·惊奇分贝】，【凌肖·像素奇趣】， 金币*20000，体力*150，告白心愿*5\n\n-星缘石·萌动拾趣：包含2021年萌动拾趣活动R羁绊【李泽言·条纹格调】，【许墨·绵白温度】，【周棋洛·绘彩映像】，【白起·斑点意趣】，【凌肖·灰色狂想】， 金币*20000，体力*150，告白心愿*5\n\n-星缘石·弦外之音：包含2021年弦外之音活动R羁绊【李泽言·知心知味】，【许墨·应许之心】，【周棋洛·甜入心扉】，【白起·倾心为你】，【凌肖·攻心游戏】， 金币*20000，体力*150，告白心愿*5\n\n-星缘石·朝暮心语：包含2021年朝暮心语活动R羁绊【李泽言·喵趣横生】，【许墨·奇思喵想】，【周棋洛·福至所汪】，【白起·汪而可及】， 金币*20000，体力*150，告白心愿*5     \n\n-星缘石·头像框：包含七款复刻头像框【冬日恋语】，【蔚蓝梦想】，【绚烂时刻】，【春之声】，【盛夏星语】，【逢考必过】，【晨间新光】，金币*10000，体力*100，告白心愿*3 \n\n-活动星缘石每次唤醒必定掉落星辰碎片一个，并从对应上述奖励中随机抽取一个。已有头像框/羁绊不会重复获得，但头像框/羁绊在全部获得前，总体掉落概率不会改变。\n\n-许墨服装礼盒：可从【许墨·暮秋深黛毛线衣】【许墨·卡其色绅士两件套】【许墨·黑蚕丝混纺衬衫】中任选一套获得 \n\n-李泽言服装礼盒：可从【李泽言·藏青色休闲夹克】【李泽言·银线暗纹西装】【李泽言·格纹斯诺克马甲套装】中任选一套获得 \n\n-白起服装礼盒：可从【白起·浅灰休闲西装】【白起·青空之下短套装】【白起·米白长风衣套装】中任选一套获得 \n\n-周棋洛服装礼盒：可从【周棋洛·绿野踪迹休闲服】【周棋洛·心动粉白套装】【周棋洛·春日贵族制服】中任选一套获得\n\n-凌肖服装礼盒：可从【凌肖·黑夜之旅夹克】【凌肖·黑白兜帽套装】【凌肖·细纹衬衫外套】中任选一套获得\n     \n*日光币将在本期活动结束后清空，不能在后续同类活动中使用，请各位制作人提前兑换使用。\n\n6. 活动开启30天后活动将开放[c][C74848]等级快速提升[-][/c]功能。开放后，玩家可通过该功能消耗钻石直升等级\n  *购买时钻石消耗数量将按照光照值单价计算，玩家仅需支付直升所选等级所需的最少光照值对应的钻石数量"
+    rule_title = "Rules",
+    rule_desc = "※Each ray of the sun carries the mesmerizing scent of him.※\n\nEvent period: 2025/11/1 05:00 to 2025/12/30 23:59\n\n[c][C74848] ◆Rules:[-][/c]\n\n1. During the event, after completing the Daily Quests, you get 1 [c][C74848]Sunlight Point[-][/c] for every 1 Activeness you receive. You can receive up to [c][C74848]1,000 Sunlight Points per week[-][/c] from Daily Quests, resetting each Monday at 5 AM. 1 level is gained for every 100 Sunlight Points.\n\n2. Leveling up will award you a corresponding [c][C74848]basic reward[-][/c]. After purchasing the [c][C74848]Sunshine Privilege[-][/c], you will also be awarded an extra [c][C74848]privilege reward[-][/c] for that level.\n\n3. Sunshine Privilege has two tiers: $6.99 and $12.99. Purchasing one will lock you out of the other, whose rewards cannot be obtained even by purchasing. To ensure all Producers receive the same reward in the Fragrant Sunshine event, Sunshine Privilege will not be counted toward any [c][C74848]ltd-time cumulative top-up[-][/c] events. Any top-up in the[c][C74848]long-term cumulative top-up events[-][/c] will be counted as usual.\n\n4. Players will also be able to obtain extra Sunlight Points by completing the [c][C74848]event-limited [Company Quests][-][/c]. Each Company Quest can only be completed once and resets every Monday at 5 AM. Players with Sunshine Privilege can complete these limited quests for extra Sunlight Points.\n\n5. Some level rewards will contain [c][C74848]Sunlight Tokens[-][/c]. Sunlight Tokens can be redeemed at the [c][C74848]Sunshine Shop[-][/c] for [c][C74848]Crystal: Avatar Frame, Crystal: Bubble Cloud, Crystal: Tempting Heart, Crystal: Colorful Comedies, Crystal: Fun at Zoo, Crystal: Between the Lines, Crystal: Heart Whispers, two free SR Custom Giftboxes, five Outfit Giftboxes, progression materials,[-][/c] and other fabulous rewards.\n\n6. Players will also be able to obtain [c][C74848]Seasonal Memorial Giftboxes[-][/c] upon reaching Lv. 62. [c][C74848]Silvery Wing Keys[-][/c] or [c][C74848]Golden Glass Keys[-][/c] can be used to open the giftboxes to obtain corresponding rewards, including the rerunning [c][C74848]Fragrant Sunshine ER Karma, Go See Him Background and Exclusive Avatar Frame[-][/c]. The two keys can be purchased from Evol Supply.\n\n- Crystal: Bubble Cloud includes the Bubble Cloud event R Karmas: [Victor: Flustered], [Lucien: Perfect Reenactment], [Kiro: Battle of Hearts], [Gavin: Urgent Training], [Shaw: Like a Pro], Gold x20,000, Stamina x150, and Confess Wish x5.\n\n- Crystal: Tempting Heart includes the Tempting Heart event R Karmas: [Victor: Inseparable Bond], [Lucien: Relentless Surprise], [Kiro: Fool's Ghost], [Gavin: Enemies No More], [Shaw: Strike of Love], Gold x20000, Stamina x150, and Confess Wish x5.\n\n-Crystal: Colorful Comedies includes the Colorful Comedies event R Karmas: [Victor: No Escaping], [Lucien: Cute Flowers], [Kiro: Cute Bear], [Gavin: Sound of Wonder], [Shaw: Pixel Style], Gold x20,000, Stamina x150, and Confess Wish x5.\n\n-Crystal: Fun at Zoo includes the Fun at Zoo event R Karmas: [Victor: Striped Style], [Lucien: Woolly Warmth], [Kiro: Colorful Image], [Gavin: Spotted Delight], [Shaw: Grey Rhapsody], Gold x20,000, Stamina x150, and Confess Wish x5.\n\n-Crystal: Between the Lines includes the Between the Lines event R Karmas: [Victor: Hearts & Tastes], [Lucien: Heart's Promise], [Kiro: Sweet Thoughts], [Gavin: Falling for You], [Shaw: Heart Games], Gold x20,000, Stamina x150, and Confess Wish x5.\n\n-Crystal: Heart Whispers includes the Heart Whispers event R Karmas: [Victor: Ameowsing], [Lucien: Meowvelous], [Kiro: Woofderland], [Gavin: Woofulous], Gold x20,000, Stamina x150, and Confess Wish x5.     \n\n-Crystal: Avatar Frame includes 7 rerunning avatar frames: [Loveland in Winter], [Azure Dream], [Wondrous Moment], [Voice of Spring], [Midsummer Star], [Getting Lucky], [Light of Dawn], Gold x10,000, Stamina x100, and Confess Wish x3. \n\n-Each Crystal Awakening will drop one Star Shard and one of the above-mentioned rewards at random. Players will not receive duplicate avatar frames/Karmas, but the overall drop rate will not change until all the avatar frames/Karmas are acquired.\n\n-Lucien Outfit Giftbox: Choose one of the following: [Lucien: Autumn Dark Blue Sweater], [Lucien: Khaki Men's Two-Piece Set], or [Lucien: Black Silk Blend Shirt]. \n\n-Victor Outfit Giftbox: Choose one of the following: [Victor: Navy Casual Jacket], [Victor: Silver Striped Suit], or [Victor: Plaid Snooker Vest Set]. \n\n-Gavin Outfit Giftbox: Choose one of the following: [Gavin: Light Gray Casual Suit], [Gavin: Under the Blue Sky Short Set], or [Gavin: Beige Long Trench Coat Set]. \n\n-Kiro Outfit Giftbox: Choose one of the following: [Kiro: Green Trail Casual Wear], [Kiro: Heartbeat Pink and White Set], or [Kiro: Spring School Uniform].\n\n-Shaw Outfit Giftbox: Choose one of the following: [Shaw: Night Journey Jacket], [Shaw: Black and White Hooded Set], or [Shaw: Fine Striped Shirt Jacket].\n     \n*Sunlight Tokens will be removed after the event ends and cannot be used in subsequent events. Please use them in a timely manner.\n\n6. 30 days after the event begins, you'll gain the ability to [c][C74848]Instantly Lv. Up[-][/c], through which you'll be able to spend Gems to quickly level up.\n  *The Gems cost will be directly proportionate to the amount of required Sunlight Points. Gems will be spent based on the least number of Sunlight Points required to level up."
   },
   [435] = {
     rule_type = "62014",
@@ -5098,28 +5225,87 @@ If you've obtained a Karma before the 36th box opening, the count will be [c][C7
   },
   [436] = {
     rule_type = "98006",
-    rule_title = "规则",
-    rule_desc = "限定羁绊复刻票选限时开启。\n\n活动时间：3月11日更新后-3月17日23:59\n\n[c][C74848]规则说明：[-][/c]\n\n1. 活动期间，通过每日活跃度达指定档位即可\\n获得【拾光车票】，为喜欢的活动进行投票！\n\n2.每投票一次，即可获得一份随机道具奖励。\n\n3.活动结束后，获得票数最高的活动将在后续版本中进行复刻。\n\n4.3月18日0:00~3月19日23:59为票选展示期，期间不可进行投票，仅可查看各项票选结果。\n\n*活动结束后，未使用的【拾光车票】将自动转换为金币，通过邮件发送至制作人的邮箱中。"
+    rule_title = "Rules",
+    rule_desc = [[
+Limited Karma rerun voting is now live!
+
+Event period: 9/9 5:00 to 9/15 23:59
+
+[c][C74848]Rules:[-][/c]
+
+1. During the event, reach the specified daily Activeness tiers to obtain\n[Train Tickets], which can be used to vote for your favorite event!
+
+2. You'll receive a random item reward for every vote you cast.
+
+3. When the event ends, the most-voted event will make a return in a future update.
+
+4. You will be able to view the results of the vote from 9/16 0:00 to 9/17 23:59. No votes can be cast during that period.
+
+*When the event ends, any unused [Train Tickets] will be converted to Gold and sent to your mailbox.]]
   },
   [437] = {
     rule_type = "extra_drop_reopen_45005",
-    rule_title = "规则",
-    rule_desc = "[c][C74848] 规则说明：[-][/c]\n\n1.活动期间[c][C74848]购买心绽之花许愿[-][/c]，有概率额外获得[c][C74848]【白起·夏悸】羁绊碎片[-][/c]！\n\n2.活动期间[c][C74848]登录[-][/c]，还可领取[c][C74848]【白起·夏悸】羁绊碎片[-][/c]奖励！\n-登录奖励每日5:00刷新，当日未领取的奖励将会过期，请及时领取哦~\n\n3.活动期间[c][C74848]通关主线关卡[-][/c]有概率获得[c][C74848]【白起·夏悸】羁绊碎片[-][/c]，活动期间最多可获取15个。\n\n4. 登录奖励、主线拍摄掉落的碎片获取进度[c][C74848]与活动首开时共享[-][/c]，如果活动首开时已获得了对应活动日期的登录赠礼，或者拍摄掉落的碎片已达上限，则[c][C74848]无法[-][/c]再重复获得对应奖励。\n"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848]Rules:[-][/c]
+
+1. During the event, [c][C74848]use Heart Flowers to make wishes[-][/c], with a chance to receive extra [c][C74848]Karma Shards [Gavin: Summer Fervor][-][/c]!
+
+2. During the event, [c][C74848]log in to the game[-][/c] to claim [c][C74848]Karma Shards [Gavin: Summer Fervor][-][/c] as rewards!
+-Login rewards reset daily at 05:00. Unclaimed rewards for the day will expire after the reset, so please be sure to claim them in time.
+
+3. During the event, [c][C74848]clear Main Story stages[-][/c] for a chance to get [c][C74848]Karma Shards [Gavin: Summer Fervor][-][/c]. A maximum of 15 Karma Shards can be obtained during the event.
+
+4. Your progress in earning Karma Shards from login rewards and Main Story drops will [c][C74848]carry over from the event's initial run and will not reset[-][/c]. If you have already claimed the login rewards for certain dates during the event's initial run, or have reached the shard drop limit from Main Story stages, you will [c][C74848]not be able to[-][/c] obtain the corresponding rewards again.
+]]
   },
   [438] = {
     rule_type = "extra_drop_reopen_45006",
-    rule_title = "规则",
-    rule_desc = "[c][C74848] 规则说明：[-][/c]\n\n1.活动期间[c][C74848]购买心绽之花许愿[-][/c]，有概率额外获得[c][C74848]【许墨·檐下心律】羁绊碎片[-][/c]！\n\n2.活动期间[c][C74848]登录[-][/c]，还可领取[c][C74848]【许墨·檐下心律】羁绊碎片[-][/c]奖励！\n-登录奖励每日5:00刷新，当日未领取的奖励将会过期，请及时领取哦~\n\n3.活动期间[c][C74848]通关主线关卡[-][/c]有概率获得[c][C74848]【许墨·檐下心律】羁绊碎片[-][/c]，活动期间最多可获取15个。\n\n4. 登录奖励、主线拍摄掉落的碎片获取进度[c][C74848]与活动首开时共享[-][/c]，如果活动首开时已获得了对应活动日期的登录赠礼，或者拍摄掉落的碎片已达上限，则[c][C74848]无法[-][/c]再重复获得对应奖励。\n"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848]Rules:[-][/c]
+
+1. During the event, [c][C74848]use Heart Flowers to make wishes[-][/c], with a chance to receive extra [c][C74848]Karma Shards [Lucien: Sheltered Heartbeats][-][/c]!
+
+2. During the event, [c][C74848]log in to the game[-][/c] to claim [c][C74848]Karma Shards [Lucien: Sheltered Heartbeats][-][/c] as rewards!
+-Login rewards reset daily at 05:00. Unclaimed rewards for the day will expire after the reset, so please be sure to claim them in time.
+
+3. During the event, [c][C74848]clear Main Story stages[-][/c] for a chance to get [c][C74848]Karma Shards [Lucien: Sheltered Heartbeats][-][/c]. A maximum of 15 Karma Shards can be obtained during the event.
+
+4. Your progress in earning Karma Shards from login rewards and Main Story drops will [c][C74848]carry over from the event's initial run and will not reset[-][/c]. If you have already claimed the login rewards for certain dates during the event's initial run, or have reached the shard drop limit from Main Story stages, you will [c][C74848]not be able to[-][/c] obtain the corresponding rewards again.
+]]
   },
   [439] = {
     rule_type = "extra_drop_reopen_45007",
-    rule_title = "规则",
-    rule_desc = "[c][C74848] 规则说明：[-][/c]\n\n1.活动期间[c][C74848]购买心绽之花许愿[-][/c]，有概率额外获得[c][C74848]【李泽言·归港】羁绊碎片[-][/c]！\n\n2.活动期间[c][C74848]登录[-][/c]，还可领取[c][C74848]【李泽言·归港】羁绊碎片[-][/c]奖励！\n-登录奖励每日5:00刷新，当日未领取的奖励将会过期，请及时领取哦~\n\n3.活动期间[c][C74848]通关主线关卡[-][/c]有概率获得[c][C74848]【李泽言·归港】羁绊碎片[-][/c]，活动期间最多可获取15个。\n\n4. 登录奖励、主线拍摄掉落的碎片获取进度[c][C74848]与活动首开时共享[-][/c]，如果活动首开时已获得了对应活动日期的登录赠礼，或者拍摄掉落的碎片已达上限，则[c][C74848]无法[-][/c]再重复获得对应奖励。\n"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848]Rules:[-][/c]
+
+1. During the event, [c][C74848]use Heart Flowers to make wishes[-][/c], with a chance to receive extra [c][C74848]Karma Shards [Victor: Voyage Home][-][/c]!
+
+2. During the event, [c][C74848]log in to the game[-][/c] to claim [c][C74848]Karma Shards [Victor: Voyage Home][-][/c] as rewards!
+-Login rewards reset daily at 05:00. Unclaimed rewards for the day will expire after the reset, so please be sure to claim them in time.
+
+3. During the event, [c][C74848]clear Main Story stages[-][/c] for a chance to get [c][C74848]Karma Shards [Victor: Voyage Home][-][/c]. A maximum of 15 Karma Shards can be obtained during the event.
+
+4. Your progress in earning Karma Shards from login rewards and Main Story drops will [c][C74848]carry over from the event's initial run and will not reset[-][/c]. If you have already claimed the login rewards for certain dates during the event's initial run, or have reached the shard drop limit from Main Story stages, you will [c][C74848]not be able to[-][/c] obtain the corresponding rewards again.
+]]
   },
   [440] = {
     rule_type = "extra_drop_reopen_45008",
-    rule_title = "规则",
-    rule_desc = "[c][C74848] 规则说明：[-][/c]\n\n1.活动期间[c][C74848]购买心绽之花许愿[-][/c]，有概率额外获得[c][C74848]【周棋洛·绵眠】羁绊碎片[-][/c]！\n\n2.活动期间[c][C74848]登录[-][/c]，还可领取[c][C74848]【周棋洛·绵眠】羁绊碎片[-][/c]奖励！\n-登录奖励每日5:00刷新，当日未领取的奖励将会过期，请及时领取哦~\n\n3.活动期间[c][C74848]通关主线关卡[-][/c]有概率获得[c][C74848]【周棋洛·绵眠】羁绊碎片[-][/c]，活动期间最多可获取15个。\n\n4. 登录奖励、主线拍摄掉落的碎片获取进度[c][C74848]与活动首开时共享[-][/c]，如果活动首开时已获得了对应活动日期的登录赠礼，或者拍摄掉落的碎片已达上限，则[c][C74848]无法[-][/c]再重复获得对应奖励。\n"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848]Rules:[-][/c]
+
+1. During the event, [c][C74848]use Heart Flowers to make wishes[-][/c], with a chance to receive extra [c][C74848]Karma Shards [Kiro: Soft Slumber][-][/c]!
+
+2. During the event, [c][C74848]log in to the game[-][/c] to claim [c][C74848]Karma Shards [Kiro: Soft Slumber][-][/c] as rewards!
+-Login rewards reset daily at 05:00. Unclaimed rewards for the day will expire after the reset, so please be sure to claim them in time.
+
+3. During the event, [c][C74848]clear Main Story stages[-][/c] for a chance to get [c][C74848]Karma Shards [Kiro: Soft Slumber][-][/c]. A maximum of 15 Karma Shards can be obtained during the event.
+
+4. Your progress in earning Karma Shards from login rewards and Main Story drops will [c][C74848]carry over from the event's initial run and will not reset[-][/c]. If you have already claimed the login rewards for certain dates during the event's initial run, or have reached the shard drop limit from Main Story stages, you will [c][C74848]not be able to[-][/c] obtain the corresponding rewards again.
+]]
   },
   [441] = {
     rule_type = "AP_Spring&SpringBingoSelectPanel39020",
@@ -5149,8 +5335,15 @@ There's no prank you can pull that can hide your feelings for him.
   },
   [444] = {
     rule_type = "newBattlepass_86022_rule",
-    rule_title = "规则",
-    rule_desc = "[c][C74848]「相伴任务」规则说明：[-][/c]\n\n1. 完成活动限定相伴任务，可以获得额外光照值，且此处所获光照值不受周获取上限限制\n\n2.相伴任务每周只可完成一次，每周一早上5:00重置\n\n3. 【每周登录礼】仅限日光特权用户，购买特权后每周可于此领取每周福利光照值"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848][Company Quest] Rules:[-][/c]
+
+1. Complete the event-limited Company Quests to gain extra Sunlight Points that are unaffected by your weekly limit.
+
+2. Company Quest can only be completed once per week, resetting every Monday at 5 AM.
+
+3. [Weekly Login Gift] is exclusive to players with Sunshine Privilege. Buying the Privilege will grant you bonus weekly Sunlight Points.]]
   },
   [445] = {
     rule_type = "Birth92017_1",
@@ -5301,8 +5494,23 @@ The best playmate, the love of a lifetime.
   },
   [460] = {
     rule_type = "98007",
-    rule_title = "规则",
-    rule_desc = "限定羁绊复刻票选限时开启。\n\n活动时间：6月3日更新后-6月9日23:59\n\n[c][C74848] ◆规则说明：[-][/c]\n\n1. 活动期间，通过每日活跃度到达指定档位，即可获得{#i=119585}[c][C74848]拾光车票[-][/c]，为喜欢的活动进行投票！\n\n2.每投票一次，即可获得一份随机道具奖励。\n\n3.活动结束后，获得票数最高的活动将在后续版本中进行复刻。\n\n4.6月10日0:00~6月11日23:59为票选展示期，期间不可进行投票，仅可查看各项票选结果。\n\n*活动结束后，未使用的{#i=119585}[c][C74848]拾光车票[-][/c]将自动转换为金币，通过邮件发送至制作人的邮箱中。"
+    rule_title = "Rules",
+    rule_desc = [[
+Limited Karma rerun voting is now live!
+
+Event period: 1/28 5:00 to 2/3 23:59
+
+[c][C74848]Rules:[-][/c]
+
+1. During the event, reach the specified daily Activeness tiers to obtain\n[Train Tickets], which can be used to vote for your favorite event!
+
+2. You'll receive a random item reward for every vote you cast.
+
+3. When the event ends, the most-voted event will make a return in a future update.
+
+4. You will be able to view the results of the vote from 2/4 0:00 to 2/5 23:59. No votes can be cast during that period.
+
+*When the event ends, any unused [Train Tickets] will be converted to Gold and sent to your mailbox.]]
   },
   [461] = {
     rule_type = "Birth92019_1",
@@ -5341,7 +5549,19 @@ The best playmate, the love of a lifetime.
   [466] = {
     rule_type = "MainlineCards_68028",
     rule_title = "规则",
-    rule_desc = "[c][C74848]记忆回廊[-][/c]\n\n你是野兽，还是羔羊？\n\n[c][C74848]规则说明[-][/c]\n\n1.点击【投票】，消耗[c][C74848]身份牌[-][/c]和[c][C74848]金铃[-][/c]，即可获得9~12[c][C74848]投票进度[-][/c]和随机道具奖励。\n\n2.积累进度达到指定档位，可领取第二季主线限定[c][C74848]SSR羁绊自选礼盒[-][/c]和同款[c][C74848]自选服装礼盒[-][/c]。\n\n3.金铃可通过[c][C74848]商城礼包[-][/c]或[c][C74848]钻石购买[-][/c]获取；身份牌可通过[c][C74848]通关主线关卡[-][/c]获取。\n*活动结束后，未使用的身份牌将于2024年6月13日以邮件的形式转化为金币"
+    rule_desc = [[
+[c][C74848]Memory Corridor[-][/c]
+
+Are you the beast, or the lamb?
+
+[c][C74848]Rules[-][/c]
+
+1. Tap [Vote] and use [c][C74848]Role Cards[-][/c] and [c][C74848]Golden Bells[-][/c]. In return, you'll get 9-12 [c][C74848]Vote Progress[-][/c] and other random rewards.
+
+2. Reach certain progress tiers to get a Season 2 main story limited [c][C74848]SSR Karma Custom Giftbox[-][/c] and its related [c][C74848]Outfit Giftbox[-][/c].
+
+3. Golden Bells can be purchased through [c][C74848]packs in the Evol Supply[-][/c], or [c][C74848]bought with Gems[-][/c]. Role Cards can be obtained by clearing [c][C74848]main story stages[-][/c].
+*When the event ends on 2025/8/31, any unspent Role Cards will be converted into Gold and mailed to you.]]
   },
   [467] = {
     rule_type = "zoo_business_rule",
@@ -5446,8 +5666,8 @@ After the event ends, you can still redeem rewards at this page until 2025/7/23 
   },
   [484] = {
     rule_type = "135001",
-    rule_title = "规则",
-    rule_desc = "每天的心情，都想和最爱的你分享。\n\n恋语市政府百日相伴活动再度开启！现邀你携手身边的他一起记录生活，分享每一天或开心或难过的每一件小事和心情。\n\n每日坚持盖心情戳，领取超值道具奖励！累计盖戳达到一定天数后，还可获得[c][C74848]专属纪念桌面摆件、贴纸和限定称号[-][/c]等奖励~\n\n[c][C74848] 规则说明：[-][/c]\n\n1. 8月26日5:00至12月3日23:59，将开启为期100天的百日心记活动。\n\n2. 活动期间，每日初次选择心情戳，将获取[c][C74848]每日盖戳奖励[-][/c]。每日盖戳奖励总计一百份，累计可获得[c][C74848]{#i=3}星河许愿券×50[-][/c]、[c][C74848]{#i=2}钻石×2888[-][/c]和[c][C74848]{#i=119576}倾色涂抹券[-][/c]等丰厚奖励。\n\n3. 活动期间，记录心情的机会将在每日5:00刷新，当日可无限次修改心情内容，次日刷新后将无法再修改心情戳和文本。\n\n4. 累计盖戳30天即可在日记界面领取[c][C74848]专属纪念桌面摆件[-][/c]。累计盖戳数达到30/60/90/100时可以在“奖励一览”中领取对应的贴纸和称号奖励。\n\n5. 每累计盖戳[c][c26a6a]7[-][/c]天，将获取1次补戳机会，补戳计入累计盖戳次数。补戳可获取[c][C74848]每日盖戳奖励[-][/c]，但不能编辑对应日期的心情戳和文本。\n\n6.每周他首次写下日记时，还会根据你上周的心情，在上周日的日记界面进行留言，记得查看哦~\n\n"
+    rule_title = "Rules",
+    rule_desc = "I want to share my feelings with the one I love—every single day.\n\nWelcome to another iteration of the Hundred Days Together event! Invite that special someone to share life's every little moment, one day at a time.\n\nStamping every day to earn valuable in-game rewards! Once you've done it enough times, you can unlock [c][C74848]exclusive memento ornaments, stickers, and event-limited titles[-][/c]!\n\n[c][C74848]Rules:[-][/c]\n\n1. The 100 Days of Memories event will begin at 05:00 on 12/10 and will last 100 days until 23:59 on 03/19.\n\n2. During the event, selecting a Mood Stamp for the first time each day will award you a [c][C74848]daily stamp reward[-][/c]. You can earn up to 100 daily stamp rewards in total, including [c][C74848]{#i=3}Galaxy Wish Coupon ×50[-][/c], [c][C74848]{#i=2}Gems ×2888[-][/c], [c][C74848]{#i=119576}Makeup Application Roll[-][/c], and many other awesome prizes.\n\n3. Daily rewards for the Mood Stamps refresh every day at 5:00 AM. You may edit your mood and journal entry as many times as you like on the same day, but after the refresh, further edits will no longer be allowed.\n\n4. After stamping for 30 days, you can claim an [c][C74848]exclusive memento ornament[-][/c] from the journal page. You'll also receive themed stickers and exclusive titles when you reach 30/60/90/100 days of stamping. These can be claimed in the \"Check Rewards\" section.\n\n5. For every [c][c26a6a]7[-][/c] days of stamping, you'll earn one make-up stamp. Make-up stamps count toward your total stamp days and allow you to receive the [c][C74848]daily stamp reward[-][/c] for a missed day. However, you won't be able to edit the mood stamp or journal text for the missed day.\n\n6. Each week, the first time he writes in the journal, he'll leave a special message based on your moods from the past week. Check your last Sunday's journal entry to see what he has to say!\n"
   },
   [485] = {
     rule_type = "SevenDays61002",
@@ -5466,8 +5686,31 @@ After the event ends, you can still redeem rewards at this page until 2025/7/23 
   },
   [488] = {
     rule_type = "62016",
-    rule_title = "规则",
-    rule_desc = "[c][C74848]惊奇刹那[-][/c]规则说明\n\n1.活动期间，点击打开[c][C74848]扭蛋{#i=200059}[-][/c]，即可获取丰富奖励，点击【奖励一览】可查看。\n\n2.打开扭蛋{#i=200059}有概率随机获取惊奇刹那R品质羁绊。\n\n[c][C74848]连续35次[-][/c]打开扭蛋{#i=200059}未获得羁绊时，[c][C74848]第36次[-][/c]打开[c][C74848]必定[-][/c]获取一张[c][C74848]未获取[-][/c]羁绊；\n\n如果在此期间获得了羁绊，次数会[c][C74848]重置[-][/c]。\n\n3.点击扭蛋{#i=200059}数量右侧的加号可以查看扭蛋{#i=200059}的获取途径：\n\n- [c][C74848]每日任务[-][/c]：在完成每日任务领取活跃奖励时，会同时获得扭蛋{#i=200059}奖励；\n\n- [c][C74848]关卡掉落[-][/c]：通关和扫荡普通或精英关卡，有概率掉落扭蛋{#i=200059}，每日最多可通过体力掉落20个；\n\n- [c][C74848]Evol商城[-][/c]：推荐礼包中可以花费金币购买扭蛋{#i=200059}，每日最多可购买10个。\n\n4.打开扭蛋{#i=200059}获得的[c][C74848]兑奖券{#i=111190}[-][/c]可以在【兑换点】中换取游戏的指定道具。\n\n\n\n"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848]Surprise Moment[-][/c] Rules
+
+1. During the event, tap to open [c][C74848]Gacha Eggs{#i=200059}[-][/c] and receive rewards. Tap [Check Rewards] to view all possible rewards.
+
+2. Opening Gacha Eggs{#i=200059} has a chance to award a random R-quality Surprise Moment Karma.
+
+After opening [c][C74848]35[-][/c] Gacha Eggs{#i=200059} without receiving a Karma, the [c][C74848]next one[-][/c] opened is [c][C74848]guaranteed[-][/c] to award an [c][C74848]unowned[-][/c] Karma.
+
+If you've obtained a Karma before the 36th attempt, the count will be [c][C74848]reset[-][/c].
+
+3. Tap on the plus icon beside the Gacha Egg{#i=200059} to learn more about ways of obtaining:
+
+-[c][C74848]Daily Quests[-][/c]: Completing daily quests will award you Gacha Eggs{#i=200059} when claiming the Active Reward.
+
+-[c][C74848]Stage Drops[-][/c]: Clearing or Sweeping Normal or Elite stages has a chance to drop Gacha Eggs{#i=200059}, up to 20 times through Stamina per day.
+
+-[c][C74848]Evol Supply[-][/c]: You can purchase up to 10 Gacha Eggs{#i=200059} per day with Gold.
+
+4. [c][C74848]Exchange Vouchers{#i=111190}[-][/c] obtained by opening Gacha Eggs{#i=200059} can be used to trade for items inside the [Exchange Point].
+
+
+
+]]
   },
   [489] = {
     rule_type = "newBattlepass_86026",
@@ -5481,28 +5724,37 @@ After the event ends, you can still redeem rewards at this page until 2025/7/23 
   },
   [491] = {
     rule_type = "Birth92020_1",
-    rule_title = "规则",
-    rule_desc = "轻曼遐想，于流年里求解心动；心能守恒，在求索中编织浪漫。\n携手并肩于无路之路，让每一刻都映照爱的光辉。\n\n获得生日羁绊【黄金恋比】并为他准备生日礼物和布置房间后，[c][C74848]生日当天[-][/c]进入活动界面，还可开启生日专属祝愿。最特别的这一天，他只想与你共度。\n\n◆ 爱语轻诉，收获羁绊。\n\n1.使用[c][C74848]祝福礼帽{#i=400643}[-][/c]和[c][C74848]心愿装点{#i=400644}[-][/c]在爱语轻诉中组合或联结后，即可获取许墨生日专属小屋礼物[c][C74848]花漾小宠{#i=300239}[-][/c]和[c][C74848]惊喜筹备[-][/c]。（心愿装点不足时，可消耗20钻石/个抵扣）\n\n2.在爱语轻诉中组合或联结后，还将随机获得[c][C74848]流光碎片[-][/c]、[c][C74848]背景饰品[-][/c]或初识心愿{#i=120001}、金币{#i=1}、体力{#i=41}等奖励中的一种。\n\n3.流光碎片可用来解锁许墨的[c][C74848]童年小小梦想剧场[-][/c]。\n\n4.抽取全部[c][C74848]流光碎片[-][/c]后，即可领取许墨[c][C74848]生日纪念羁绊【许墨·黄金恋比】[-][/c]。\n\n◆ 组合碎片，观看剧目。\n\n前往梦剧场，使用抽取到的[c][C74848]流光碎片[-][/c]进行组合搭配，特定组合将会触发他的童年小小梦想剧目。\n\n◆ 累计筹备，获取多重奖励。\n\n累计[c][C74848]惊喜筹备[-][/c]达到指定数量，可领取[c][C74848]生日纪念R羁绊[-][/c]、体力{#i=41}、[c][C74848]蝶梦积分{#i=400642}[-][/c]等个人进度奖励。\n\n*[c][C74848]蝶梦积分[-][/c]为个人排行榜积分，获得后同时自动转换为对应数量的全服积分。\n\n◆ 惊喜准备，为他庆生。\n\n获得生日羁绊【黄金恋比】并为他制作生日立牌和布置场景后，将解锁[c][C74848]【心意融汇】阶段[-][/c]。点击屏幕右侧的箭头，即可与他面对面，心意融汇还可获得[c][C74848]蝶梦积分{#i=400642}[-][/c]、[c][C74848]相印值{#i=400646}[-][/c]，解锁多重奖励。\n\n"
+    rule_title = "Rules",
+    rule_desc = "Daydreams in time unravel the mystery of love; Constant passion weaves a tale of romance.\nBlaze a path together and let every moment shine with love.\n\nAfter getting the Birthday Karma [Golden Ratio], preparing the gifts, and decorating the room for him, you may join the event [c][C74848]on his birthday[-][/c] to unlock exclusive birthday wishes. He chooses you to spend this special day with.\n\n◆ Obtain Karma in each other's loving whispers.\n\n1. After using the [c][C74848]Party Hats{#i=400643}[-][/c] and [c][C74848]Wish Decoration{#i=400644}[-][/c] to combine or connect in Loving Whisper, you'll receive Lucien's birthday exclusive Mini House Gifts, [c][C74848]Blooming Pet{#i=300239}[-][/c] and [c][C74848]Surprise Preparation[-][/c] (20 Gems can be used in place of each missing Wish Decoration).\n\n2. After combining or connecting in Loving Whisper, you'll also randomly receive one of the following rewards: [c][C74848]Radiant Prop[-][/c], [c][C74848]background decor[-][/c], Encounter Wishes{#i=120001}, Gold{#i=1}, Stamina{#i=41}, etc.\n\n3. Radiant Props can be used to unlock Lucien's [c][C74848]Childhood Dream Theater[-][/c].\n\n4. Obtaining all [c][C74848]Radiant Props[-][/c] will grant you Lucien's [c][C74848]special birthday Karma [Lucien: Golden Ratio][-][/c].\n\n◆ Combine props and enjoy the show.\n\nHead to the Dream Theater and use the obtained [c][C74848]Radiant Props[-][/c] to combine and match. Some specific combinations will unlock plays in his Childhood Dream Theater.\n\n◆ Accumulate preparations to unlock multiple rewards.\n\nAccumulate [c][C74848]Surprise Preparation[-][/c] for a certain amount to get personal progress rewards, including [c][C74848]birthday Commemorative R Karmas[-][/c], Stamina{#i=41}, [c][C74848]Butterfly Points{#i=400642}[-][/c], and more.\n\n*[c][C74848][Butterfly Points][-][/c] will be counted towards Personal Ranking Scores and will be automatically converted into the corresponding number of Server Scores when obtained.\n\n◆ Prepare Surprise to celebrate his birthday.\n\nAfter getting the Birthday Karma [Golden Ratio], preparing the birthday standee, and decorating the stage for him, you will enter the [c][C74848][Joining Hearts] stage[-][/c]. Tap the arrow on the right side of the screen to face him and let him know your affection. You will receive multiple rewards including [c][C74848]Butterfly Points{#i=400642}[-][/c] and [c][C74848]Adoration Points{#i=400646}[-][/c].\n\n"
   },
   [492] = {
     rule_type = "Birth92020_2",
-    rule_title = "规则",
-    rule_desc = "在温柔的日子里，为他筑造浪漫，前往幻梦世界的城堡。\n\n[c][C74848]生日当天[-][/c]进入活动界面，还可开启生日专属祝愿。最特别的这一天，他只想与你共度。\n\n◆ 心意融汇，兑换多重奖励。\n\n1.使用[c][C74848]心愿装点{#i=400644}[-][/c]和[c][C74848]祝福礼帽{#i=400643}[-][/c]心意融汇，即可获取[c][C74848]蝶梦积分{#i=400642}[-][/c]与[c][C74848]相印值{#i=400646}[-][/c]（心愿装点不足时，可消耗20钻石/个抵扣）。\n\n*蝶梦积分为个人排行榜积分\n\n2.除蝶梦积分外，还将额外获得[c][C74848]心意礼花{#i=400641}[-][/c]，可在商店中兑换往年生日羁绊、服装、在你身边和多种道具奖励。\n\n*获得的[c][C74848]蝶梦积分[-][/c]将自动转换成对应数量的全服积分\n\n◆ 累计融汇，领取个人奖励。\n\n累计[c][C74848]心意融汇[-][/c]达指定次数，可领取[c][C74848]【生日服装、在你身边道具、生日限定称号框和生日限定头像框】[-][/c]等奖励。\n\n◆ 为他庆生，获得限定道具。\n\n生日当天，在精心布置的场景送上亲手制作的立牌后，将可获得[c][C74848]生日限定动态背景{#i=92020001}[-][/c]和[c][C74848]立牌手账摆件{#i=400648}[-][/c]，将这一刻永久保存。\n\n*若获得羁绊但没有制作立牌，则活动结束后回顾羁绊中的庆生剧情，可获得一份默认搭配模式的立牌摆件。\n"
+    rule_title = "Rules",
+    rule_desc = "Create a romantic, tender day for him and travel to the dream castle.\n\nJoin the event [c][C74848]on his birthday[-][/c] to unlock exclusive birthday wishes. He chooses you to spend this special day with.\n\n◆ Join your hearts to unlock multiple rewards.\n\n1. Use [c][C74848]Wish Decoration{#i=400644}[-][/c] and [c][C74848]Party Hats{#i=400643}[-][/c] to join your hearts and get [c][C74848]Butterfly Points{#i=400642}[-][/c] and [c][C74848]Adoration Points{#i=400646}[-][/c] (20 Gems can be used in place of each missing Wish Decoration).\n\n*Butterfly Points will be counted toward Personal Ranking Scores.\n\n2. In addition to Butterfly Points, you will also receive [c][C74848]Lover's Glow Fireworks{#i=400641}[-][/c], which can be redeemed in the shop for various rewards, including previous Birthday Karmas, Outfits, Right Beside You, and various reward items.\n\n*[c][C74848]Butterfly Points[-][/c] will be automatically converted into the corresponding Server Scores when obtained.\n\n◆ Continue joining your hearts together to obtain personal rewards.\n\n[c][C74848]Join Hearts[-][/c] for a certain number of times to earn rewards, including [c][C74848][Birthday Outfits], [Right Beside You Accessories], [Birthday-limited Title Frames], and [Birthday-limited Avatar Frames][-][/c].\n\n◆ Celebrate his birthday and get limited items.\n\nOn his birthday, send him a handmade standee in your carefully-arranged scene to get [c][C74848]Birthday-Limited Live2D Background{#i=92020001}[-][/c] and [c][C74848]Journal Ornament: Birthday Standee{#i=400648}[-][/c] to preserve this moment forever.\n\n*For Producers who have obtained the Karma without making a standee, a default-style standee ornament will be granted when rewatching the birthday celebration plot after the event concludes.\n"
   },
   [493] = {
     rule_type = "Birth92020_3",
-    rule_title = "规则",
-    rule_desc = "[c][C74848] 排行榜规则说明：[-][/c]\n\n1.根据个人积分排名所在的百分比区间，将获得不同的排名奖励。\n\n*奖励将在活动结束后1-2个工作日内通过邮件发放。\n\n2.排行前100名的制作人，将额外获得特别纪念称号[c][C74848]心间许可{#i=92020002}[-][/c]。若最终全服积分进度达成，排行前三位的制作人还将获得[c][C74848]专属刻字版生日纪念周边（定制升级版）{#i=119763}[-][/c]和[c][C74848]手写回信[-][/c]，排行前4-50位的制作人将获得[c][C74848]专属刻字版生日纪念周边{#i=119763}[-][/c]。\n\n*特别纪念称号将在活动结束后3个工作日内通过邮件发送，生日周边的制作周期还请制作人留意后续公告。"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848]Ranking Rules:[-][/c]
+
+1. Ranking rewards will be awarded based on players' Personal Scores.
+
+*Rewards will be sent by mail within 1-2 working days after the event.
+
+2. The top 100 producers will also receive a limited title [c][C74848]Heart Permission{#i=92020002}[-][/c]. If the Server Score goal is reached after the event, the top 3 Producers will also receive [c][CE9198]Memory Starburst*2[-][/c] and [c][CE9198]Time Coupon*788[-][/c]. The top 4-50 Producers will receive [c][CE9198]Time Coupon*788[-][/c].
+
+*The limited title will be sent by mail within 3 working days after the event. Refer to follow-up announcements to stay updated as we produce these rewards.]]
   },
   [494] = {
     rule_type = "Birth92020_4",
-    rule_title = "规则",
-    rule_desc = "为他精心布置场景~\n\n◆按住喜欢的装饰物[c][C74848]拖动到场景上[-][/c]即可完成搭配。\n\n◆点击场景上的装饰物，将其[c][C74848]拖动到空白处松手，即可将其卸下[-][/c]。\n\n◆布置后，记得保存所布置的场景哦~"
+    rule_title = "Rules",
+    rule_desc = "Decorate the room for him!\n\n◆ Tap and hold the decors of your choice and [c][C74848]drag them onto the scene[-][/c].\n\n◆ Tap on the decors in the scene and drag them [c][C74848]to a blank space to remove them[-][/c].\n\n◆ Remember to save the changes after decoration!"
   },
   [495] = {
     rule_type = "Birth92020_5",
-    rule_title = "规则",
-    rule_desc = "制作立牌摆件送给他~\n\n◆按住喜欢的组件[c][C74848]拖动到立牌摆件上[-][/c]即可完成制作。\n\n◆点击立牌的组件，将其[c][C74848]拖动到空白处松手，即可将其卸下[-][/c]。\n\n◆制作完立牌摆件后，记得保存所制作的立牌摆件哦~\n\n*你送给他的立牌摆件会在生日后在专属纪念中永久留存，无法修改。"
+    rule_title = "Rules",
+    rule_desc = "Build a standee ornament and gift it to him.\n\n◆ Tap and hold the components of your choice and [c][C74848]drag them onto the standee ornament[-][/c].\n\n◆ Tap on the components on the standee and drag them [c][C74848]to a blank space to remove them[-][/c].\n\n◆ Remember to save the standee ornament you just made!\n\n*The standee ornament you give him will be turned into a permanent Momento after his birthday and will not be available for modification."
   },
   [496] = {
     rule_type = "MainlinePresaleRule_40013",
@@ -5511,8 +5763,20 @@ After the event ends, you can still redeem rewards at this page until 2025/7/23 
   },
   [498] = {
     rule_type = "MainlineCards_68030",
-    rule_title = "规则",
-    rule_desc = "[c][C74848]地久天长[-][/c]\n\n此生唯愿，\n朝朝不分离，岁岁长相见。\n\n[c][C74848]规则说明[-][/c]\n\n1.点击【缔合】，消耗[c][C74848]鸳鸯玉佩[-][/c]，即可获得9~12[c][C74848]千千结[-][/c]和随机道具奖励。\n\n2.积累千千结达到指定档位，可领取地久天长限定[c][C74848]SSR羁绊自选礼盒[-][/c]和同款[c][C74848]自选服装礼盒[-][/c]。\n\n3.鸳鸯玉佩可通过[c][C74848]商城礼包[-][/c]或[c][C74848]钻石购买[-][/c]获取。"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848]Forevermore[-][/c]
+
+In this life or the next,
+I want to spend every moment with you.
+
+[c][C74848]Rules[-][/c]
+
+1. Tap [Entwine] to spend a [c][C74848]Everlasting Pendant[-][/c] to receive 9-12 [c][C74848]Millennium Knots[-][/c] and other random rewards.
+
+2. Obtain enough Millennium Knots to get a Forevermore-limited [c][C74848]SSR Karma Custom Giftbox[-][/c] and its related [c][C74848]Outfit Giftbox[-][/c].
+
+3. Everlasting Pendants can be [c][C74848]purchased with Gems[-][/c].]]
   },
   [499] = {
     rule_type = "bedroom_rule",
@@ -5551,33 +5815,51 @@ After the event ends, you can still redeem rewards at this page until 2025/7/23 
   },
   [506] = {
     rule_type = "yearEndSales2024",
-    rule_title = "规则",
-    rule_desc = "[c][C74848]规则说明[-][/c]\n\n1. 活动期间，风尚年历特别回馈商店限时开启，可使用[c][C74848]复古纽扣[-][/c]兑换超值折扣道具。累计消耗一定数量的复古纽扣之后，还可以领取[c][C74848]【Fall in Night】自选ER礼盒、【Fall in Night】自选服装礼盒、动态称号·时尚大咖[-][/c]等丰厚奖励！\n*活动结束后，处于可领取状态但尚未领取的累计消耗奖励，将通过邮件进行补发。\n\n2.[c][C74848]复古纽扣[-][/c]可以使用钻石兑换。此外，活动期间累计登录达到指定天数，可以领取对应的复古纽扣登录奖励。\n*活动结束后，未使用的复古纽扣将被保留至后续活动中使用。"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848]Event Rules[-][/c]
+
+1. For a limited time during the event, the exclusive Style Calendar Shop will be open! Use your [c][C74848]Retro Buttons[-][/c] to redeem deeply discounted items. Reach cumulative spending milestones with Retro Buttons to earn incredible rewards, including the [c][C74848][Fall in Night] ER Giftbox, [Fall in Night] Outfit Giftbox, and the exclusive animated title "Fashion Icon"[-][/c]!
+*Any unclaimed milestone rewards at the event's conclusion will be distributed via in-game mail.
+
+2. [c][C74848]Retro Buttons[-][/c] can be purchased with Gems. You can also earn them as log-in bonuses by reaching specific cumulative login days during the event.
+]]
   },
   [507] = {
     rule_type = "Birth92021_1",
-    rule_title = "规则",
-    rule_desc = "世界无垠，祝福比天地辽阔；时光无尽，爱意与岁月恒长。\n携手相伴的每一瞬，无数次抵达超越永恒的奇境。\n\n\n获得生日羁绊【幸福折角】并为他准备生日礼物和布置房间后，[c][C74848]生日当天[-][/c]进入活动界面，还可开启生日专属祝愿。最特别的这一天，他只想与你共度。\n\n◆ 倾心纪念，收获羁绊。\n\n1.使用[c][C74848]贴贴气球{#i=400721}[-][/c]和[c][C74848]庆贺礼花{#i=400722}[-][/c]在倾心纪念中缀饰或装裱后，即可获取李泽言生日专属小屋礼物[c][C74848]新年日程{#i=300240}[-][/c]和[c][C74848]萦心积分[-][/c]。（庆贺礼花不足时，可消耗20钻石/个抵扣）\n\n2.在倾心纪念中缀饰或装裱后，还将随机获得[c][C74848]立体书装饰[-][/c]、[c][C74848]背景饰品[-][/c]或初识心愿{#i=120001}、金币{#i=1}、体力{#i=41}等奖励中的一种。\n\n3.立体书装饰可用来制作送给李泽言的生日礼物。\n\n4.抽取全部[c][C74848]立体书装饰[-][/c]后，即可领取李泽言[c][C74848]生日纪念羁绊【李泽言·幸福折角】[-][/c]。\n\n◆ 纸条问答，获取灵感。\n\n前往纸条问答界面，抽取[c][C74848]问答纸条[-][/c]和他一起讨论，部分问答将会解锁装饰立体书的新灵感，记得及时查看哦~。\n\n◆ 累计积分，获取多重奖励。\n\n累计[c][C74848]萦心积分[-][/c]达到指定数量，可领取[c][C74848]生日纪念R羁绊[-][/c]、体力{#i=41}、[c][C74848]时光积分{#i=400720}[-][/c]等个人进度奖励。\n\n*[c][C74848]时光积分[-][/c]为个人排行榜积分，获得后同时自动转换为对应数量的全服积分。\n\n◆ 惊喜准备，为他庆生。\n\n获得生日羁绊【幸福折角】并为他制作生日立体书和布置场景后，将解锁[c][C74848]【寄予祝福】阶段[-][/c]。点击屏幕右侧的箭头，即可与他面对面，寄予祝福还可获得[c][C74848]时光积分{#i=400720}[-][/c]、[c][C74848]心契值{#i=400724}[-][/c]，解锁多重奖励。\n\n"
+    rule_title = "Rules",
+    rule_desc = "The world is vast, yet your wishes reach its every corner. Time is endless, but your love endures just as long.\nEvery moment spent hand in hand becomes a journey that leads you and him, again and again, to a realm beyond eternity.\n\n\nAfter getting the Birthday Karma [Corner of Happiness], preparing the gifts, and decorating the room for him, you may join the event [c][C74848]on his birthday[-][/c] to unlock exclusive birthday wishes. All he wants is to spend this most special day with you.\n\n◆ Enjoy a Heartfelt Celebration and Get Birthday Karma.\n\n1. After using the [c][C74848][Sticky Balloons]{#i=400721}[-][/c] and [c][C74848][Celebration Fireworks]{#i=400722}[-][/c] to decorate or frame in [Heartfelt Celebration], you'll receive Victor's birthday-exclusive Mini House Gift [c][C74848][New Year Plan]{#i=300240}[-][/c] and [c][C74848]Heartbound Points[-][/c] (20 Gems may be used in place of each missing Celebration Firework.)\n\n2. After decorating or framing in [Heartfelt Celebration], you'll also randomly receive one of the following rewards: [c][C74848]Pop-Up Book Decoration[-][/c], [c][C74848]Background Decor[-][/c], Encounter Wishes{#i=120001}, Gold{#i=1}, Stamina{#i=41}, and more.\n\n3. Pop-Up Book Decorations can be used to make birthday gifts for Victor.\n\n4. Obtaining all [c][C74848]Pop-Up Book Decorations[-][/c] will grant you Victor's [c][C74848]birthday commemorative Karma [Victor: Corner of Happiness][-][/c].\n\n◆ Let the Notes Give You Inspiration.\n\nHead to the Heartbeat Game to draw [c][C74848]notes[-][/c] and discuss them with him. Some of them will unlock new ideas for the pop-up book. Don't forget to check them out!\n\n◆ Rack Up Points for Fabulous Rewards.\n\nAccumulating enough [c][C74848]Heartbound Points[-][/c] will award you with personal progress rewards, including [c][C74848]birthday commemorative R Karma[-][/c], Stamina{#i=41}, [c][C74848]Time Points{#i=400720}[-][/c], and more.\n\n*[c][C74848][Time Points][-][/c] will be counted toward Personal Ranking Scores and will be automatically converted into the corresponding number of Server Scores when obtained.\n\n◆ Prepare a Surprise to Celebrate His Birthday.\n\nAfter getting the Birthday Karma [Corner of Happiness], preparing the birthday pop-up book, and decorating the stage for him, you will enter the [c][C74848][Send Blessings] stage[-][/c]. Tap the arrow on the right side of the screen to face him and let him know your affection. You will receive multiple rewards including [c][C74848]Time Points{#i=400720}[-][/c] and [c][C74848]Soulink Points{#i=400724}[-][/c].\n"
   },
   [508] = {
     rule_type = "Birth92021_2",
-    rule_title = "规则",
-    rule_desc = "每一句祝福，每一份心意，都会如期抵达他的心底。\n\n[c][C74848]生日当天[-][/c]进入活动界面，还可开启生日专属祝愿。最特别的这一天，他只想与你共度。\n\n◆ 寄予祝福，兑换多重奖励。\n\n1.使用[c][C74848]庆贺礼花{#i=400722}[-][/c]和[c][C74848]贴贴气球{#i=400721}[-][/c]寄予祝福，即可获取[c][C74848]时光积分{#i=400720}[-][/c]与[c][C74848]心契值{#i=400724}[-][/c]（庆贺礼花不足时，可消耗20钻石/个抵扣）。\n\n*时光积分为个人排行榜积分\n\n2.除时光积分外，还将额外获得[c][C74848]祝福心愿{#i=400719}[-][/c]，可在商店中兑换往年生日羁绊、服装、在你身边、点击特效和多种道具奖励。\n\n*获得的[c][C74848]时光积分[-][/c]将自动转换成对应数量的全服积分\n\n◆ 累计祝福，领取个人奖励。\n\n累计[c][C74848]寄予祝福[-][/c]达指定次数，可领取[c][C74848]【生日服装、在你身边道具、生日限定称号框、生日限定头像框、点击特效和个人名片】[-][/c]等奖励。\n\n◆ 为他庆生，获得限定道具。\n\n生日当天，在精心布置的场景送上亲手制作的立牌后，将可获得[c][C74848]生日限定动态背景{#i=92021001}[-][/c]和[c][C74848]立体书手账摆件{#i=400726}[-][/c]，将这一刻永久保存。\n\n*若获得羁绊但没有制作立体书，则活动结束后回顾羁绊中的庆生剧情，可获得一份默认搭配模式的立体书摆件。\n\n"
+    rule_title = "Rules",
+    rule_desc = "Every wish and every heartfelt thought will reach the bottom of his heart.\n\nJoin the event [c][C74848]on his birthday[-][/c] to unlock exclusive birthday wishes. All he wants is to spend this most special day with you.\n\n◆ Send Blessings to Unlock Multiple Rewards.\n\n1. Use [c][C74848]Celebration Fireworks{#i=400722}[-][/c] and [c][C74848]Sticky Balloons{#i=400721}[-][/c] to send blessings and receive [c][C74848]Time Points{#i=400724}[-][/c] and [c][C74848]Soulink Points{#i=400720}[-][/c] (20 Gems may be used in place of each missing Celebration Firework.)\n\n*Time Points count toward your Personal Ranking Score.\n\n2. In addition to Time Points, you will also receive [c][C74848]Wishful Blessing{#i=400719}[-][/c], which can be redeemed in the shop for previous Birthday Karmas, Outfits, Right Beside You, Touch Effects, and various rewards.\n\n*[c][C74848]Time Points[-][/c] will be automatically converted into the corresponding Server Score when obtained.\n\n◆ Accumulate Blessings to Obtain Personal Rewards.\n\n[c][C74848]Send blessings[-][/c] for a certain number of times to earn rewards, including [c][C74848][Birthday Outfits], [Birthday-exclusive Title Frame], [Birthday-exclusive Avatar Frame], [Touch Effect], [Profile][-][/c], and more.\n\n◆ Celebrate His Birthday and Get Limited Items.\n\nOn his birthday, send him a handmade pop-up book in your carefully-arranged scene to get [c][C74848]Birthday-exclusive Live2D Background{#i=92021001}[-][/c] and [c][C74848]Journal Ornament: Pop-Up Book{#i=400726}[-][/c] to preserve this moment forever.\n\n*For Producers who have obtained the Karma without making a pop-up book, a default-style pop-up book ornament will be granted when rewatching the birthday celebration plot after the event ends.\n\n"
   },
   [509] = {
     rule_type = "Birth92021_3",
-    rule_title = "规则",
-    rule_desc = "[c][C74848] 排行榜规则说明：[-][/c]\n\n1.根据个人积分排名所在的百分比区间，将获得不同的排名奖励。\n\n*奖励将在活动结束后1-2个工作日内通过邮件发放。\n\n2.排行前100名的制作人，将额外获得特别纪念称号[c][C74848]人间好景{#i=92021002}[-][/c]。若最终全服积分进度达成，排行前三位的制作人还将获得[c][C74848]专属定制刻字版生日纪念耳饰（特别升级版）{#i=119763}[-][/c]和[c][C74848]手写回信[-][/c]，排行前4-50位的制作人将获得[c][C74848]专属定制刻字版生日纪念耳饰{#i=119763}[-][/c]。\n\n*特别纪念称号将在活动结束后3个工作日内通过邮件发送，生日周边的制作周期还请制作人留意后续公告。\n\n"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848]Ranking Rules:[-][/c]
+
+1. Ranking rewards are based on your Personal Score percentile bracket.
+
+*Rewards will be sent by mail within 1-2 working days after the event.
+
+2. The top 100 producers will also receive a commemorative title [c][C74848]A Beautiful World{#i=92021002}[-][/c]. If the Server Score goal is reached, the top 3 Producers will also receive [c][CE9198]Memory Starburst*2[-][/c] and [c][CE9198]Time Coupons*788[-][/c]. The top 4-50 Producers will receive [c][CE9198]Time Coupons*788[-][/c].
+
+*The commemorative title will be sent by mail within 3 working days after the event. Please keep an eye on future announcements for updates.
+
+]]
   },
   [510] = {
     rule_type = "Birth92021_4",
-    rule_title = "规则",
-    rule_desc = "为他精心布置场景~\n\n◆按住喜欢的装饰物[c][C74848]拖动到场景上[-][/c]即可完成搭配。\n\n◆点击场景上的装饰物，将其[c][C74848]拖动到空白处松手，即可将其卸下[-][/c]。\n\n◆布置后，记得保存所布置的场景哦~\n\n"
+    rule_title = "Rules",
+    rule_desc = "Decorate the room for him!\n\n◆ Tap and hold the decors of your choice and [c][C74848]drag them onto the scene[-][/c].\n\n◆ Tap on the decors in the scene and drag them [c][C74848]to a blank space to remove them[-][/c].\n\n◆ Remember to save the changes after decoration!\n\n"
   },
   [511] = {
     rule_type = "Birth92021_5",
-    rule_title = "规则",
-    rule_desc = "制作生日立体书送给他~\n\n◆按住喜欢的立体书组件[c][C74848]拖动到立体书上[-][/c]即可完成制作。\n\n◆点击立体书的组件，将其[c][C74848]拖动到空白处松手，即可将其卸下[-][/c]。\n\n◆制作完立体书后，记得保存所制作的立体书摆件哦~\n\n*你送给他的立体书摆件会在生日后在专属纪念中永久留存，无法修改。\n\n"
+    rule_title = "Rules",
+    rule_desc = "Make a birthday pop-up book for him!\n\n◆ Tap and hold the components of your choice and [c][C74848]drag them onto the pop-up book[-][/c].\n\n◆ Tap on the components on the pop-up book and [c][C74848]drag them to a blank space to remove them[-][/c].\n\n◆ Remember to save the pop-up book you just made!\n\n*The pop-up book you give him will be permanently kept in Momentos after his birthday and cannot be edited.”\n\n"
   },
   [512] = {
     rule_type = "MainlineCards_68031",
@@ -5586,8 +5868,8 @@ After the event ends, you can still redeem rewards at this page until 2025/7/23 
   },
   [513] = {
     rule_type = "107005",
-    rule_title = "规则",
-    rule_desc = "喜迎新岁，爱与幸福常伴身边。\n\n活动时间：1月17日5:00-1月26日23:59\n\n[c][C74848] 规则说明：[-][/c]\n\n1.活动期间，累计登录达指定天数，即可[c][C74848]免费领取[-][/c]丰厚【添福赠礼】道具奖励。\n\n2.若花费6元解锁【添福锦盒】，完成累计登录任务后即可获得总计超16倍价值奖励。"
+    rule_title = "Rules",
+    rule_desc = "As the new year arrives, may your days be filled with love and happiness.\n\nEvent Period: 01/01 05:00-01/10 23:59\n\n[c][C74848]Rules:[-][/c]\n\n1. During the event, log in for the required number of days to claim generous [Blessing Gifts] [c][C74848]for free[-][/c].\n\n2. Unlock the [Blessing Box] for $0.99 and complete the login tasks to get over 16× total value in rewards."
   },
   [514] = {
     rule_type = "2025SpringRebate2",
@@ -5601,8 +5883,13 @@ After the event ends, you can still redeem rewards at this page until 2025/7/23 
   },
   [516] = {
     rule_type = "Love_93007",
-    rule_title = "规则",
-    rule_desc = "[c][C74848]血色浪漫[-][/c]规则说明\n\n1.活动期间，前往对应活动获得并养成指定羁绊，即可完成血色浪漫任务，获得丰厚奖励！\n\n2.制作人们可在活动界面查看详细的任务内容和对应奖励。"
+    rule_title = "Rules",
+    rule_desc = [[
+About [c][C74848]Crimson Romance[-][/c]
+
+1. During the event, obtain and level up the specified Karma from the corresponding event to complete the Crimson Romance tasks and earn generous rewards!
+
+2. You can find all the mission details and rewards on the event screen.]]
   },
   [517] = {
     rule_type = "98009",
@@ -5611,13 +5898,29 @@ After the event ends, you can still redeem rewards at this page until 2025/7/23 
   },
   [518] = {
     rule_type = "123002",
-    rule_title = "规则",
-    rule_desc = "1.活动期间内，选择任一期返场活动参与，累计充值达到指定档位，即可领取往期活动奖励限定羁绊、在你身边道具和头像框奖励！\n\n2.未领取充值奖励时，可以自由切换查看每一期返场活动及奖励内容，领取充值奖励将锁定您的选择为当前活动，在本次活动期间内不可再切换，往期活动已领取过的在你身边道具和头像框奖励无法重复获得，请谨慎选择。\n\n3.若您选择了某一期活动并累计充值达到指定档位，但未领取充值奖励进行锁定，活动结束后将按您最后选择的活动补发奖励。"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848]Rules:[-][/c]
+
+1. During the event, you'll be able to select any rerun event to participate in. Once your cumulative top-up reaches the required amount, you can claim the corresponding limited Karmas, items for Right Beside You, and Avatar Frames as a reward.
+
+2. You can freely switch to each rerun event and view its corresponding rewards any time before you claim the top-up reward. However, once you have claimed the reward, you will no longer be able to change to other rerun events. Please make your selection carefully.
+
+3. If you've chosen an event and reached the top-up milestone, but haven't claimed the reward to lock in your selection, you will be awarded according to your last choice when the event concludes.]]
   },
   [519] = {
     rule_type = "2025SpringRebate1",
-    rule_title = "规则",
-    rule_desc = "[c][C74848]双节回馈-新春回馈[-][/c]\n\n1.仅限2025年1月20日更新当日，截至23:59，前往许愿树于【不归者的燎原】活动中消耗星河许愿券或硝烟许愿券，将返还累计首日消耗许愿券数量[c][C74848]20%[-][/c]的[c][C74848]硝烟许愿券[-][/c]。\n\n2.硝烟许愿券仅限1月20日更新后至2月4日04:59使用，未领取的硝烟许愿券将在活动后通过邮件返还。\n\n3.返还分3次，分别于1月24日、1月28日、2月1日的5:00发放，每次返还总返还量1/3的硝烟许愿券。\n\n4.若首日消耗许愿券数量不足以返还3张，可能出现返还日无奖励的情况。"
+    rule_title = "Rules",
+    rule_desc = [[
+[c][C74848]Spring Giveaway[-][/c]
+
+1. Limited-time offer on 2025/12/23 only: Spend Galaxy Wish Coupons or limited Wish Coupons on Feb, 7th at the Wish Tree, and get [c][C74848]20%[-][/c] back in form of [C74848]Limited Wish Coupons[-][/c].
+
+2. Time-ltd Wish Coupons are only effective from 2025/12/23 5:00 to 2026/01/06 23:59 and will be removed after that.
+
+3. The return of limited Wish Coupons will occur on three separate dates at 5:00: Dec, 24th, Dec, 31st, and Jan, 4th. One-third of the total amount will be delivered on each date.
+
+4. Please be aware that if the number of returned limited Wish Coupons is less than three, there may be certain dates when no coupons are available.]]
   },
   [520] = {
     rule_type = "LZYVlog33027",

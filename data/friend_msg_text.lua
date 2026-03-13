@@ -7996,7 +7996,7 @@ data = {
     "Someone's having a problem with me commenting on her WiFi hotspot name. How ridiculous."
   },
   [139030] = {
-    "'Cause it's fun!"
+    "Cause it's fun!"
   },
   [139031] = {
     "A certain dummy has a way of getting fun out of boring stuff."
@@ -11530,25 +11530,25 @@ data = {
     "...No one should be so adept at snagging candid photos all the time."
   },
   [156100] = {
-    "故地重游，颇有“欲买桂花同载酒”的感悟。"
+    "Revisiting an old place makes me miss the osmanthus in full bloom."
   },
   [156110] = {
-    "桂花现在还没开呢。"
+    "Osmanthus doesn't bloom for another while."
   },
   [156111] = {
-    "……笨蛋有时确实会不解风情。"
+    "...Dummy, you really are a buzzkill sometimes."
   },
   [156120] = {
-    "想念和你一起享用桂花糕的时候了！"
+    "I know something even better: osmanthus cake!"
   },
   [156121] = {
-    "“想”还是“馋”，分清这一点很重要。"
+    "Never could say no to food, could you?"
   },
   [156130] = {
-    "行李已经都收拾好了，怎么还没有收到李总的“邀请函”？"
+    "I'm all packed and ready to go. When are you gonna invite me, Mr. Victor?"
   },
   [156131] = {
-    "这份邀请要亲口对你说，才比较正式。"
+    "Waiting until I see you so I can do it in person."
   },
   [156200] = {
     "A canceled flight isn't all bad; at least it means getting to rest a bit longer."
@@ -12746,46 +12746,46 @@ data = {
     "The love story wasn't bad, and if you hadn't wiped your snot and tears on my pajamas, it would've been even better."
   },
   [161900] = {
-    "某人新买的折叠跑步机已然沦为布丁的健身器材。"
+    "The new foldable treadmill a certain someone has become Pudding's personal gym."
   },
   [161910] = {
-    "真不错啊！家里吃灰的东西又-1啦！！"
+    "That's one less thing collecting dust in this house!"
   },
   [161911] = {
-    "不吃灰已经成为你购物的最低标准了吗？"
+    "So \"not collecting dust\" is your benchmark for a good purchase now?"
   },
   [161920] = {
-    "它是该锻炼一下了，最近吃的比我都多。"
+    "He's been eating more than I have recently. Definitely needs the exercise."
   },
   [161921] = {
-    "被布丁抢走的食材，不是每次都会被某人耍赖双倍“补”回来？"
+    "Isn't it always you who ends up \"making it up\" by having double portions after Pudding raids the fridge?"
   },
   [161930] = {
-    "你也可以和布丁一起跑啊，那个跑步机可好用了。"
+    "You could exercise with Pudding too. That treadmill is amazing!"
   },
   [161931] = {
-    "我来重述一下某人买时的豪言壮语——每天两公里，不跑不吃饭。"
+    "Should I remind you what you said when you bought it? \"I'll run two kilometers every day—no run, no food.\" Remember that?"
   },
   [162000] = {
-    "戴着睁眼图案的眼罩睡觉究竟有什么意义？"
+    "What's the point of an eye mask with wide-open eyes drawn on it?"
   },
   [162010] = {
-    "这可是我用你睁眼的照片专门定制的呢，不喜欢吗？"
+    "I had it custom-made from a photo of your eyes. You don't like it?"
   },
   [162011] = {
-    "某人为了给我从头到脚都添上搞怪装备，可谓煞费苦心。"
+    "Someone really went all out just to cover me head to toe in ridiculous accessories."
   },
   [162020] = {
-    "意义难道不是让人觉得你没有睡觉吗？"
+    "Isn't it supposed to make you look awake when you're actually sleeping?"
   },
   [162021] = {
-    "这个意义本身就没有意义。"
+    "That \"purpose\" is about as pointless as it gets."
   },
   [162030] = {
-    "说实话我进门的时候真的被骗到……你还偷偷笑了！"
+    "I'll admit, you fooled me for a second when I walked in... I totally caught you smirking!"
   },
   [162031] = {
-    "我只是没想到，笨蛋会被自己买的东西忽悠到。"
+    "I just didn't think you'd get tricked by something you bought yourself."
   },
   [162100] = {
     "看到这幅天马行空的刺绣，就知道某人忘了要先勾稿。"
@@ -12956,46 +12956,46 @@ data = {
     "Alright. Then I trust that you'll work for me your whole life."
   },
   [162900] = {
-    "比起锻炼，某人似乎更热衷选购健身器材。"
+    "Someone's more into buying gym equipment than actually working out."
   },
   [162910] = {
-    "当加入购物车的时候，锻炼就已经开始了！"
+    "Workout already began when I added gym equipment to my shopping list!"
   },
   [162911] = {
-    "如果健身器材下面不是一大堆零食，你的借口会更有说服力。"
+    "Your excuse would sound more convincing if there weren't so many snacks in that list."
   },
   [162920] = {
-    "我没说不锻炼，要是李大厨能给点小小的动力就更好了~"
+    "I'm going to work out, if only Chef Victor could give me some incentives."
   },
   [162921] = {
-    "Souvenir正研发新的素食菜单，刚好当做你今晚的健身餐。"
+    "Souvenir is working on a new vegan menu—perfect choice for your workout dinner."
   },
   [162930] = {
-    "我是准备默默努力，用行动惊艳所有人。"
+    "I'm planning to work out in secret and surprise everyone with the result."
   },
   [162931] = {
-    "既然这么有决心，明天四点我等你一起晨跑。"
+    "If you're so determined, you can join my routine morning run at 4:00 tomorrow."
   },
   [163000] = {
-    "看来今晚的灯光秀很精彩，不然我身边的笨蛋也不会一直笑个不停。"
+    "Tonight's light show must be amazing—someone next to me hasn't stopped smiling."
   },
   [163010] = {
-    "当然了！我还是第一次看到天上出现大熊猫！"
+    "Of course! It was my first time seeing a panda in the sky!"
   },
   [163011] = {
-    "这就是你散场后直奔礼品店，买了那么一大堆熊猫摆件的原因？"
+    "That's why you went straight to the souvenir shop after the show and got all those panda figurines?"
   },
   [163020] = {
-    "Everybody跟我一起跳，做全场最佳的气氛组。"
+    "Everybody, jump with me! Let's vibe together!"
   },
   [163021] = {
-    "这句话我已经从会场一直听到回家了。"
+    "I've been listening to that since we left the show."
   },
   [163030] = {
-    "比起灯光秀，我更喜欢看挥着荧光棒的李总~"
+    "I'm more interested in Mr. Victor waving glow sticks than watching the show."
   },
   [163031] = {
-    "专心看演出，你的注意力怎么老放在些奇奇怪怪的地方。"
+    "Focus on the show. Why are you always distracted by something else?"
   },
   [163100] = {
     "某人看了巧克力的热量表后，坚定地表示今天是“热量超标日”。"
@@ -13103,25 +13103,25 @@ data = {
     "More like your drunk antics are so wild that even Pudding wanted to stop you."
   },
   [163600] = {
-    "生活的乐趣不乏一些特殊的挑战。"
+    "Life's true enjoyment often lies in its unusual challenges."
   },
   [163610] = {
-    "这一切尽在掌握的语气，不愧是李。"
+    "Sounds like someone who's got life under control, just like Mr. Victor."
   },
   [163611] = {
-    "这面不改色心不跳的马屁，也不愧是某人。"
+    "I can see your flattery mastery is as accomplished as ever."
   },
   [163620] = {
-    "虽然这份乐趣是我带来的，但你放心，我不会骄傲的。"
+    "As the one often bringing you those challenges, I'll keep up the good work."
   },
   [163621] = {
-    "那就把翘上天的嘴角压下去。"
+    "I can already see your smug smile even through the phone."
   },
   [163630] = {
-    "我会负责陪你一起完成这份乐趣的！"
+    "I'll be there to enjoy them with you!"
   },
   [163631] = {
-    "你为我找来的乐趣，自然由你负责。"
+    "You're the one that brought them to me in the first place, dummy."
   },
   [163700] = {
     "Someone rode the kiddie train three times just to get the perfect photo."
@@ -13681,25 +13681,25 @@ data = {
     "Indeed you have. Now you've got your exclusive cabinet at LFG."
   },
   [166400] = {
-    "还没进公司，就在门口看到了几十株发财树。"
+    "Saw some money trees before I even stepped into the building."
   },
   [166410] = {
-    "够不够显眼！够不够气派！够不够点缀华锐的门面！"
+    "Pretty eye-catching, huh? Don't they make LFG's front entrance look totally amazing?"
   },
   [166411] = {
-    "何止点缀。花市送货时一字排开的架势，都足以挡住华锐的门面了。"
+    "Indeed. When the flower market delivered them all in a row, they practically blocked the whole entrance."
   },
   [166420] = {
-    "嘿嘿，就算玄学不一定灵验，也可以分去各楼层净化空气~"
+    "Hehe, even if the whole fengshui thing's hit or miss, they can still make the air smell fresher on every floor."
   },
   [166421] = {
-    "嗯，不过你贴了爱心便签的那株，被我拿到办公室了。"
+    "True. But I took the one with your little heart-shaped sticky note for myself."
   },
   [166430] = {
-    "毕竟华锐和$c一荣俱荣嘛，我可比你更希望华锐发大财哦~"
+    "LFG's success is $c's success! Here's to you always striking gold!"
   },
   [166431] = {
-    "这个道理反过来也成立，明天我会把回礼送到$c。"
+    "The reverse is true as well. I'll send something to $c tomorrow."
   },
   [166500] = {
     "新做法加了双倍的糖，也算是新年新气象。"
@@ -13870,25 +13870,25 @@ data = {
     "That explains why Pudding's been picky with his food lately."
   },
   [167300] = {
-    "车后座起雾的玻璃窗成了某个笨蛋的画板。"
+    "The fogged-up backseat window became a drawing board for a certain dummy."
   },
   [167310] = {
-    "咦？是谁在上面写了我的名字啊？"
+    "Hey! Who wrote my name all over this?"
   },
   [167311] = {
-    "我以为某人在“李泽言”旁边空了那么大位置，就是等我去补上的。"
+    "I assumed that gap next to \"Victor\" was an invitation."
   },
   [167320] = {
-    "我太无聊了嘛，你要不要加入我？"
+    "I was bored! Care to contribute, Mr. Victor?"
   },
   [167321] = {
-    "在旁边看笨蛋傻笑更有意思。"
+    "I'm perfectly entertained just watching you."
   },
   [167330] = {
-    "评价一下我的大作吧～"
+    "Well? What does the esteemed critic think of my work?"
   },
   [167331] = {
-    "右下角贴在一起的两个小人虽然简陋，但是点睛之笔。"
+    "Those two crude little figures in the corner are... charming. A surprisingly fitting touch."
   },
   [167400] = {
     "某人新买的早餐机已经落了两周的灰了。"
@@ -14500,26 +14500,24 @@ data = {
     "I feel like someone's just gonna complain that Pudding stole her pudding."
   },
   [170300] = {
-    "某人出来玩，也不忘盯着家里的宠物摄像头。"
+    "Even while hanging out, someone still keeps staring at the pet camera."
   },
   [170310] = {
-    "我得看看布丁有没有吃好睡好玩好。"
+    "Just curious if Pudding is eating and sleeping on time."
   },
   [170311] = {
-    "它这点和某个笨蛋一样，不用人担心。"
+    "He's just like a certain dummy when it comes to that. No need to worry."
   },
   [170320] = {
-    "毕竟一天不看猫猫，总感觉差点什么。"
+    "I can't spend a single day without that looking at him."
   },
   [170321] = {
-    "我倒觉得你口中的“一天”，更像是每个小时。"
+    "More like a single hour."
   },
   [170330] = {
-    "我刚刚才和布丁打了招呼，你要不要也来一起~"
+    "I just said hi to Pudding. You wanna say hi too?"
   },
-  [170331] = {
-    "勉强同意。"
-  },
+  [170331] = {"I suppose."},
   [170400] = {
     "The beluga looking for food at dinner time in the oceanarium looked a bit familiar."
   },
@@ -14584,46 +14582,46 @@ data = {
     "Compared with this kind of \"compendium\", someone's company is much more effective."
   },
   [170700] = {
-    "什么时候颂钵成了书房桌上的必备品了？"
+    "…The ginger and Szechuan pepper in the kitchen have been depleted for the third time this week."
   },
   [170710] = {
-    "这可是音疗的必备品，在被工作摧残头晕脑胀的时候拿出来敲一敲，疗愈一下。"
+    "A herbal bath before meals can boost your appetite. Would you like to try it? I remember there are still some of them left!"
   },
   [170711] = {
-    "某人“头晕脑胀”一整天了，累就休息，别用它玩打击乐。"
+    "If you don't stop trying it right now, your dinner will be ruined completely."
   },
   [170720] = {
-    "嘴上这么嫌弃，某人还不是偷偷敲了几下~怎么样？有用吧。"
+    "I got nothing to do with it! I swear I didn't use them to have a medicinal bath!"
   },
   [170721] = {
-    "功效主要来源于放它在这的人。"
+    "Before denying it, you should've gotten rid of the smell of ginger you're giving off. I smelled it the moment you hugged me."
   },
   [170730] = {
-    "我还买了小香炉，借了一下你的文房四宝，陶冶一下情操。"
+    "I used them to have a herbal bath! But it made me feel like I was a food ingredient in soup…"
   },
   [170731] = {
-    "不知道情操有没有被陶冶，但纸上李泽言三个字写得不错。"
+    "The plastic piglet floating on the water surface—was it a decoration or a side dish?"
   },
   [170800] = {
-    "家里的奇奇怪怪的书可以在书柜里开设专栏了。"
+    "Someone reveals one number each time before she finishes a passage of her proposal. Even the scratchcards probably never thought they could be used like that."
   },
   [170810] = {
-    "这本《答案之书》可以在困惑的时候翻开，就能得到心里的答案了。"
+    "I needed to find some motivation before writing a proposal!"
   },
   [170811] = {
-    "有人皱着眉翻了一晚上，看来是没翻到喜欢的答案。"
+    "If you're so motivated, how come you've only written two lines of words yet?"
   },
   [170820] = {
-    "有困难的时候当然要交给玄学！"
+    "Given how often I write proposals, it's only a matter of time before I win a grand prize!"
   },
   [170821] = {
-    "根据我的观察，某人把困惑交给玄学，最后收获的还是困惑。"
+    "I hope not to see your pipe dream in the text."
   },
   [170830] = {
-    "《答案之书》无所不能！李总有没有想知道的答案？"
+    "I failed to forbear from scratching them all… None of the five cards contained a winning number. I'm so not in the mood for working tonight anymore."
   },
   [170831] = {
-    "关于我自己的不需要，关于你的我会直接问。"
+    "You should feel lucky. If you'd won a prize, you wouldn't feel like working for the next week."
   },
   [170900] = {
     "是时候换新家里的电器了。"
@@ -14668,46 +14666,46 @@ data = {
     "那就放下宵夜，冲几袋感冒冲剂。"
   },
   [171100] = {
-    "花果齐全。"
+    "The fruits are all set."
   },
   [171110] = {
-    "只差一个欣赏它们的人！"
+    "Now we just need someone to admire them!"
   },
   [171111] = {
-    "只是“欣赏”的话，没必要把桃子的皮也扒了。"
+    "How is peeling the peach's skin part of admiring them?"
   },
   [171120] = {
-    "香香软软，又大又甜——我说的是李总挑的桃子！"
+    "Fragrant, soft, big, and sweet—don't get the wrong idea. I'm talking about the peaches you picked, Mr. Victor!"
   },
   [171121] = {
-    "蹦蹦跳跳，又笨又馋——我说的是笨蛋脚边的布丁。"
+    "Bouncy, clumsy, and greedy—don't get the wrong idea. I'm talking about Pudding at some dummy's feet."
   },
   [171130] = {
-    "不知道这一次，李总会用它们创造出怎样的美食？"
+    "Wonder what kind of delicious dish you'll whip up with these this time?"
   },
   [171131] = {
-    "想提前剧透就来厨房帮忙，有概率掉落试吃名额。"
+    "If you want a sneak peek, come help in the kitchen. You might even score a taste-tester spot."
   },
   [171200] = {
-    "领略了某人的特技表演——每一口雪糕都精准咬到果肉。"
+    "Saw someone's \"special talent\"—biting into the fruit bits in every ice cream bar with perfect precision."
   },
   [171210] = {
-    "这也是很难的，不信你试试。"
+    "Hey, that's no easy feat! Try it if you don't believe me."
   },
   [171211] = {
-    "幼稚笨蛋的激将法对我无效。"
+    "Your childish taunts don't work on me, dummy."
   },
   [171220] = {
-    "台上一分钟，台下一天功！"
+    "You know what they say, practice makes perfect!"
   },
   [171221] = {
-    "装了半个垃圾桶的雪糕纸，确实足够证明你的“刻苦”。"
+    "Judging by the half-full trash can of wrappers, you definitely got tons of \"practice.\""
   },
   [171230] = {
-    "谢谢李总捧场，我会继续努力的。"
+    "Thanks for the support, Mr. Victor. I'll keep working hard!"
   },
   [171231] = {
-    "努力之前建议某人先缓缓冻倒的牙，温牛奶放在桌上了。"
+    "Before that, you should warm up those poor teeth of yours. There's warm milk on the table."
   },
   [171300] = {
     "布丁守卫不当，让某位“大盗”趁虚而入了。"
@@ -14752,10 +14750,10 @@ data = {
     "Bring it on. I've already got 10,000 photos of you looking hyped like a child about to eat a piece of cake."
   },
   [171500] = {
-    "博弈场上，人心是最重要而不可测的因素。"
+    "Life is a game, and the human heart has always been its wild card."
   },
   [171510] = {
-    "但可以确定，它不会偏向欺瞒的一方~"
+    "Not for someone with a pure heart!"
   },
   [171600] = {
     "A certain \"clean freak\" has to wash her hands after every step when cooking cat food."
@@ -14863,46 +14861,46 @@ data = {
     "……来了。"
   },
   [172100] = {
-    "最近有人爱上了用小推车拿快递，一个快递也推着。"
+    "Someone's really in love with picking up deliveries in her little cart, even when she's got only one parcel."
   },
   [172110] = {
-    "这叫做最大限度节省体力，利用资源。"
+    "It's called maximizing efficiency and utilizing all resources!"
   },
   [172111] = {
-    "简而言之，笨蛋爱玩。"
+    "In other words, a little dummy was amusing herself."
   },
   [172120] = {
-    "无论几个，我们应该平等赋予每个快递最隆重的仪式感。"
+    "Regardless of how many there are, every delivery deserves the same sense of occasion."
   },
   [172121] = {
-    "某人在这方面的精神，确实值得称赞。"
+    "I must say, your devotion to being ceremonial is oddly commendable."
   },
   [172130] = {
-    "是的，没人能够拒绝小推车的魅力，除非是大推车！"
+    "No one can say no to a pulley cart! Unless there's an even bigger cart!"
   },
   [172131] = {
-    "听起来你不像是拿快递，更像是去超市采购。"
+    "At this rate, it sounds less like a delivery run and more like a full-scale grocery run."
   },
   [172200] = {
-    "如果有人一直想从你身后偷袭你，会是因为什么？"
+    "If someone were to persistently attempt to ambush you from behind, what reason might they have?"
   },
   [172210] = {
-    "最近很喜欢一部老电影~所以想模仿一下里面的桥段。"
+    "I saw something in an old film that I really wanted to recreate."
   },
   [172211] = {
-    "我知道，是你看到一半睡着的那部。"
+    "I know. It's the one where you fell asleep halfway through."
   },
   [172220] = {
-    "李泽言，你的宿命是成为王！"
+    "Victor, your destiny is to become the king!"
   },
   [172221] = {
-    "我的宿命是什么不知道，但下班前你有份策划案要改。"
+    "I don't care. Your proposal is still due by the end of the day."
   },
   [172230] = {
-    "我那不叫偷袭，我叫光明正大！"
+    "What do you mean by \"ambush\"? It was an open and righteous advance."
   },
   [172231] = {
-    "光明正大的偷袭，也算偷袭。"
+    "Now you're just sugar-coating things."
   },
   [172300] = {
     "Whether the blessing tree works or not, who knows, but after a certain someone has eaten the feast she's been pining for, the object of her gratitude ought to be someone else."
@@ -15010,67 +15008,67 @@ data = {
     "看来某人特立独行的选品终于要改变风格了。"
   },
   [172800] = {
-    "最近家里的咖啡和茶，把储物柜都塞满了。"
+    "Lately, my cupboard has been filled with coffee and tea."
   },
   [172810] = {
-    "那可是季节限定的茶叶！上官网都要掐着表抢的！现在二手可贵了！"
+    "That's seasonal limited tea—you have to beat the clock to get it online! Even those second-hand packets are insanely expensive!"
   },
   [172811] = {
-    "？是准备开始用茶叶炒期货了？"
+    "Hmm? You plan to deal in tea leaf futures?"
   },
   [172820] = {
-    "有一说一，咖啡豆有一半是你的。"
+    "To be honest, half of those coffee beans are yours."
   },
   [172821] = {
-    "准确说我只是“购买者”，所有权在你身上。"
+    "Technically, I'm just their \"buyer\". Their owner is you."
   },
   [172830] = {
-    "我算过了，都是一个月就能消耗完的！"
+    "I did some calculations. They will last us for only a month!"
   },
   [172831] = {
-    "就怕你每天摄入太多，到时候晚上缠得人睡不着觉。"
+    "I'm just worried that you might take in too much of them and end up having trouble sleeping, giving me sleepless nights."
   },
   [172900] = {
-    "出去吃饭，某人抬着一个空盘子却和我反馈说这道菜很难吃。"
+    "In the restaurant, a certain someone told me the food was awful with an empty plate in her hands."
   },
   [172910] = {
-    "毕竟节约粮食的传统美德，要比控制饮食的重要性高那么一点点。"
+    "Well, the virtue of not wasting food is a little bit more important than dieting."
   },
   [172911] = {
-    "确实是言出必行第一人。"
+    "You do keep your word like nobody else can."
   },
   [172920] = {
-    "又不是我一人吃的，你不也吃了一半？"
+    "I didn't finish the food alone. Don't you deserve half of the credit?"
   },
   [172921] = {
-    "某人每吃一口也让我吃一口，还美其名曰是“爱的共享”。"
+    "Someone had me take a bite of it every time she took one herself, calling it an act of \"shared love\"."
   },
   [172930] = {
-    "我就是突然想看看，如果我们对于美食意见相左会是怎么样。"
+    "I just suddenly felt like finding out what would happen if we were at odds with each other over food."
   },
   [172931] = {
-    "那在发表看法前，我会陪你一起吃完。"
+    "Well then, I'd finish the food with you before stating my opinions."
   },
   [173000] = {
-    "旅行买的纪念冰箱贴加上播放功能后，偶尔会误触。"
+    "Added a video-playing feature to the fridge magnet we bought as a trip memento. Since then it gets triggered by mistake from time to time."
   },
   [173010] = {
-    "然后你就能看到我们的旅行vlog。"
+    "And then it shows you the vlogs of our trip."
   },
   [173011] = {
-    "我刚刚整理了一下，把它们按照时间线重新组合个位置，过来看看。"
+    "I just sorted them into chronological order. Come and check it out."
   },
   [173020] = {
-    "那不如再换回普通的冰箱贴？"
+    "Maybe try replace it with a regular one?"
   },
   [173021] = {
-    "不用，已经习惯开门时触发某人笨蛋的傻笑声了。"
+    "No need. I've gotten used to hearing a certain someone's giggles when I open the fridge."
   },
   [173030] = {
-    "那要不要给它换个位置，比如床头柜？"
+    "Well, should we put it elsewhere? Like on the nightstand?"
   },
   [173031] = {
-    "……有你在身边吵吵闹闹就够了，不需要再多一个播放器。"
+    "…With you here chatting away, there's no need for another video player."
   },
   [173100] = {
     "美味的食物来自优秀的食材，和食材间最完美的搭配。"
@@ -15136,235 +15134,235 @@ data = {
     "天上月、杯中月、心上月，想要多少个都可以。"
   },
   [173400] = {
-    "某人一天不仅能拍很多照片，还很能写照片描述。"
+    "Someone's not just taking a ton of photos, but also writing a ton of captions."
   },
   [173410] = {
-    "你既然看了，为什么不回复我的照片描述→_→"
+    "You saw them? Why didn't you comment on them then?"
   },
   [173411] = {
-    "每条都回复的话，今天下班能晚一个小时。"
+    "If I commented to every single one, I'd be stuck at work for an extra hour."
   },
   [173420] = {
-    "嘿嘿，因为我有时候会在照片里许愿，很灵的！"
+    "Hehe, sometimes I make a wish in the caption. It actually works, you know!"
   },
   [173421] = {
-    "笨蛋的愿望总是会写在各种让人意想不到的地方。"
+    "Only you would go around hiding wishes in random places like that."
   },
   [173430] = {
-    "希望李总向我学习，多多充实我们的共享相册。"
+    "You should learn from me and help fill up our shared album together, Mr. Victor!"
   },
   [173431] = {
-    "刚刚增加了张某人在办公室打瞌睡的照片，这样的我还有很多。"
+    "I just added a shot of someone dozing off in the office. Trust me, I've got a whole collection."
   },
   [173500] = {
-    "骑马时，掌控速度比全力冲刺更考验心性。"
+    "It's a test to one's temperament to control speed on horseback."
   },
   [173510] = {
-    "确实。慢悠悠的，感觉心境都开阔了。"
+    "So true. Riding slowly makes you see and feel more."
   },
   [173511] = {
-    "某人总能找到第三种答案。"
+    "Someone always has a different answer."
   },
   [173520] = {
-    "哼哼，我更喜欢潇潇洒洒。"
+    "Hmph, but I prefer just letting it go."
   },
   [173521] = {
-    "潇洒的代价就是冲过头，还要我去把你带回来。"
+    "So you rode offtrack, and I had to guide you back."
   },
   [173530] = {
-    "虽然明天策划案就要交了，但是我先决定听李总的。"
+    "I have a proposal due tomorrow, but like Mr. Victor says, I'm controlling my speed now."
   },
   [173531] = {
-    "现在还有空评论，果然某人更考验我的心性。"
+    "And you have time to comment here. Guess a certain someone is a bigger test to my temperament."
   },
   [173600] = {
-    "某人最近似乎热衷摆盘艺术，连布丁的罐头都没能幸免。"
+    "Someone seems to have developed an interest in the art of plating lately. Even the canned food for Pudding fell victim."
   },
   [173610] = {
-    "哼哼，摆盘以后，布丁吃得更香了！"
+    "Humph! Pudding finished his food faster when it was plated!"
   },
   [173611] = {
-    "它明明就是在等你精心摆盘的时间里等饿了。"
+    "That's because he became hungrier while waiting for you to finish the plating."
   },
   [173620] = {
-    "本来想用猫条在上面画个小鸟的，结果大失败……呜呜……"
+    "I tried to draw a bird with a cat treat stick, but it was a disaster… Boohoo…"
   },
   [173621] = {
-    "在我们的晚餐还没变凉之前，某个大艺术家还有过来创作的机会。"
+    "A certain artist still has time to give it another try before our dinner gets cold."
   },
   [173630] = {
-    "如果能再在盘子里点缀一朵小花就更完美了！"
+    "It'll be perfect if you adorn the plate with a little flower!"
   },
   [173631] = {
-    "比起小花，木鱼花应该更合它的心意。"
+    "Compared with a little flower, bonito flakes should be more to his liking."
   },
   [173700] = {
-    "……厨房里的生姜和花椒又消失了，本周第三次。"
+    "…The ginger and Szechuan pepper in the kitchen have been depleted for the third time this week."
   },
   [173710] = {
-    "餐前泡个药浴澡，等下胃口会更好~你要不要也来试试，我记得还有一些剩下的！"
+    "A herbal bath before meals can boost your appetite. Would you like to try it? I remember there are still some of them left!"
   },
   [173711] = {
-    "再试下去，你的晚餐就要彻底泡汤了。"
+    "If you don't stop trying it right now, your dinner will be ruined completely."
   },
   [173720] = {
-    "不是我干的！我绝对没有用它们泡药浴澡！"
+    "I got nothing to do with it! I swear I didn't use them to have a medicinal bath!"
   },
   [173721] = {
-    "比起抵赖，不如先把身上的姜味洗干净，别让人一抱就闻出来。"
+    "Before denying it, you should've gotten rid of the smell of ginger you're giving off. I smelled it the moment you hugged me."
   },
   [173730] = {
-    "我用它们泡药浴澡了！不过就是有种变成汤里食材的感觉……"
+    "I used them to have a herbal bath! But it made me feel like I was a food ingredient in soup…"
   },
   [173731] = {
-    "那浮在水面的塑料小猪，算是装饰还是配菜？"
+    "The plastic piglet floating on the water surface—was it a decoration or a side dish?"
   },
   [173800] = {
-    "写一段策划案就刮开一个数字，刮刮乐大概也想不到自己还有这种妙用。"
+    "Someone reveals one number each time before she finishes a passage of her proposal. Even the scratchcards probably never thought they could be used like that."
   },
   [173810] = {
-    "写策划案之前总要找点动力嘛！"
+    "I needed to find some motivation before writing a proposal!"
   },
   [173811] = {
-    "既然这么有动力，文档怎么还只有两行字？"
+    "If you're so motivated, how come you've only written two lines of words yet?"
   },
   [173820] = {
-    "按照我写策划案的频率，总有中大奖的一天！"
+    "Given how often I write proposals, it's only a matter of time before I win a grand prize!"
   },
   [173821] = {
-    "希望不会在文档里看到你的白日梦。"
+    "I hope not to see your pipe dream in the text."
   },
   [173830] = {
-    "没忍住全刮了……五张都没中，我今晚彻底没有工作的心情了。"
+    "I failed to forbear from scratching them all… None of the five cards contained a winning number. I'm so not in the mood for working tonight anymore."
   },
   [173831] = {
-    "幸好，要是中了奖你一周都不会想工作。"
+    "You should feel lucky. If you'd won a prize, you wouldn't feel like working for the next week."
   },
   [173900] = {
-    "说是捡几片叶子珍藏秋天，结果某些人差不多把整条街都打扫干净了。"
+    "Went out for a few autumn leaves. Came back with someone's entire leaf collection."
   },
   [173910] = {
-    "你就说带回家的叶子丰富不丰富，好看不好看吧！"
+    "But you have to admit, my haul is pretty impressive, right?"
   },
   [173911] = {
-    "确实好看。需要我找个地方把它们裱起来吗？。"
+    "Not gonna lie, they're great. Want me to get them framed?"
   },
   [173920] = {
-    "其实街旁边的草坪我也筛了一遍……"
+    "I might have given the neighbor's lawn a once-over too."
   },
   [173921] = {
-    "除了审美，我对你的精力也有了全新的认知。"
+    "I'm just as impressed by your energy as I am by your taste."
   },
   [173930] = {
-    "所以我现在累了，需要李总给我按摩一下~"
+    "Now I'm wiped out. I think I've earned a massage, don't you?"
   },
   [173931] = {
-    "除了很会捡漂亮的叶子，你也更擅长使唤人了。"
+    "You're a pro at leaf hunting, and an even bigger pro at bossing me around."
   },
   [174000] = {
-    "让时间凝固的方式有很多种。"
+    "There are many ways to make a moment last forever."
   },
   [174010] = {
-    "嗯……所以你觉得家里冰箱两个月前冻上的肉还能吃吗？"
+    "Does that include the 2-month-old chicken in my freezer?"
   },
   [174011] = {
-    "……切成小块，然后带去喂流浪猫吧。"
+    "...Let's just chop it up for the strays."
   },
   [174020] = {
-    "这次捕捉了秋天，下次就该抓住冬天了吧！"
+    "Captured fall vibes! Going for winter next?"
   },
   [174021] = {
-    "我会在冬天提醒你，到时候记得跟我一起出门。"
+    "I'll remind you when it's time. Don't bail on me."
   },
   [174030] = {
-    "要是布丁和美食的香气也能被凝固下来就好了。"
+    "If only we could bottle up smells. I'd keep the scent of fresh pudding forever!"
   },
   [174031] = {
-    "随时都能吃到新鲜的美食，也算某种程度的固定了。"
+    "You can always have fresh pudding. That's the best way to make it last."
   },
   [174100] = {
-    "笨蛋的韧性总体现在意想不到的地方，比如和硬邦邦的冰淇淋一较高下。"
+    "A certain dummy always shows her determination in unexpected ways, like trying to win a fight against solid ice cream."
   },
   [174110] = {
-    "冰淇淋，我恨你像块石头！"
+    "Ice cream, why are you like a solid rock!?"
   },
   [174111] = {
-    "精诚所至，金石为开。"
+    "It'll crack if you're determined enough."
   },
   [174120] = {
-    "其实我也还是会放弃的，毕竟勺子刚刚断了……"
+    "I know when to give up. My scoop broke, after all..."
   },
   [174121] = {
-    "……我订购了几个自发热冰淇淋勺。希望它们能在家里留久一点。"
+    "...I ordered a few heating scoops. Hope they'll last longer at home."
   },
   [174130] = {
-    "要不，你跟这桶冰淇淋聊一聊，温暖一下它？"
+    "Maybe you can talk to the ice cream and warm it up?"
   },
   [174131] = {
-    "让它自己在常温静置半小时，等它自己想开吧。"
+    "Just let it sit at room temperature for half an hour and melt on its own."
   },
   [174200] = {
-    "手机里不知不觉存了不少很有某人风格的表情。"
+    "I just noticed I'd saved quite a lot of emotes that only a certain someone would use."
   },
   [174210] = {
-    "那你倒是多用一用嘛！"
+    "Put them to use, plz."
   },
   [174211] = {
-    "……那只粉色的兔子有一个人用就足够了。"
+    "...That pink bunny doesn't have to be used by more people."
   },
   [174220] = {
-    "你会在工作群发它们吗？"
+    "Will you send them to your work group chat?"
   },
   [174221] = {
-    "你希望我顶着这些表情去和别人说话？"
+    "You expect me to use these emotes at work?"
   },
   [174230] = {
-    "嘿嘿，我会在拓展李总表情包这件事情上再接再厉的！"
+    "I'll work even harder on expanding Mr. Victor's emote collection!"
   },
   [174231] = {
-    "如果你的精力和创造力无处释放，不如今天来给我帮厨，做点有意义的事。"
+    "If you have too much energy and creativity, why not help me in the kitchen today and do something meaningful?"
   },
   [174300] = {
-    "挑椅子时只顾着外观的结果，就是“主动置身逆境，去坐难坐的椅子。”"
+    "If you only care about its looks when buying a chair, you're volunteering to sit uncomfortably and make your life harder."
   },
   [174310] = {
-    "……谢谢你给我的失败做总结。"
+    "...Thank you for summarizing my failure."
   },
   [174311] = {
-    "你或许更应该谢谢我给你的失败做补救。配套的软垫后天送到。"
+    "Perhaps you should thank me for fixing your failure instead. The matching cushions I ordered will arrive in two days."
   },
   [174320] = {
-    "所以，不如我们这周再去逛一次家居博览会？"
+    "Should we go shopping at the home decor expo again this week?"
   },
   [174321] = {
-    "可以，不过我需要拥有一票否决权。"
+    "We can, but I need the right to veto your decisions."
   },
   [174330] = {
-    "这就是拥抱美丽的代价吧！我能承受！"
+    "This is the price to pay for embracing beauty! I can take it!"
   },
   [174331] = {
-    "好的，你还可以独享这份美丽。"
+    "Sure thing, and you can have the beauty all to yourself."
   },
   [174400] = {
-    "……从某人的梦话推断，大概经历了一场相当激烈的“战斗”。"
+    "...Based on what someone was muttering in her sleep, it sounds like she went through a full-on \"battle\" in her dream."
   },
   [174410] = {
-    "你有没有录下来？我有点好奇自己说了什么。"
+    "Wait, did you record it? Now I'm kind of curious about what I said..."
   },
   [174411] = {
-    "没有，不过每一句我都可以复述给你。"
+    "No, but I remember every line. I can give you a full replay if you want."
   },
   [174420] = {
-    "呜呜，一觉醒来腰酸背痛的……"
+    "Ughh... no wonder I woke up sore all over..."
   },
   [174421] = {
-    "毕竟从后半夜起，你的腿就搭在了我的身上。"
+    "Well, starting halfway through the night, your leg was draped right over me."
   },
   [174430] = {
-    "被我抓住了，你大晚上怎么不好好睡觉！"
+    "Aha, caught you! What were you doing up in the middle of the night?"
   },
   [174431] = {
-    "我本来睡得很好，直到有人一巴掌拍在我的胸上。"
+    "I was sleeping just fine, until someone smacked me right in the chest."
   },
   [174500] = {
     "Someone's excuses for asking for candy every Halloween are getting more and more over the top."
@@ -15409,67 +15407,67 @@ data = {
     "我会见证笨蛋的“战况”，顺便打扫战场。"
   },
   [174700] = {
-    "不是每一个抱枕都值得摆出来展示，尤其是得不到布丁认可的。"
+    "Not every plushie deserves to be put on display, especially not the ones without Pudding's approval."
   },
   [174710] = {
-    "我定制的布丁无边抱枕它不喜欢吗？"
+    "Doesn't Pudding like my custom-made Pudding-shaped plushie?"
   },
   [174711] = {
-    "谈不上喜不喜欢，毕竟就抱枕的变型程度来看，我很难承认那是布丁。"
+    "It's hard to say. After all, I can hardly tell it's Pudding with its deformed body."
   },
   [174720] = {
-    "我也没想过卖家会把布丁的抱枕做得这么丑！！"
+    "I didn't know the plushie would turn out so ugly!"
   },
   [174721] = {
-    "布丁也没想到。"
+    "Neither did Pudding."
   },
   [174730] = {
-    "可是抱枕上布丁的脸真的很好笑！！"
+    "But Pudding's face print on the plushie is so funny!"
   },
   [174731] = {
-    "你不如先看看布丁现在的表情。"
+    "You should look at Pudding's face now."
   },
   [174800] = {
-    "只有笨蛋才会相信漫画里出现的夸张料理是可以复刻的。"
+    "Only dummies believe they can replicate the crazy cuisine that only exists in manga."
   },
   [174810] = {
-    "我这不就复刻出来了嘛！"
+    "It worked! I replicated it!"
   },
   [174811] = {
-    "是“你”还是“我”？"
+    "Did you or did I?"
   },
   [174820] = {
-    "虽然造型没有完全复刻，但味道还是不错的！"
+    "It doesn't look 100% like the original, but it tastes good enough!"
   },
   [174821] = {
-    "这就是你做了10人份的理由？"
+    "Is that your excuse for making enough for 10 people?"
   },
   [174830] = {
-    "有的人嘴里抱怨，最后还不是参与了全程……"
+    "A certain someone complains a lot, but still helped the whole way through..."
   },
   [174831] = {
-    "我只是担心某个笨蛋会连漫画里油锅冒火的部分也一起复刻。"
+    "I was just worried a certain dummy would replicate even the pan-on-fire part in the manga."
   },
   [174900] = {
-    "比人力新增更重要的是人才的留存。"
+    "What's more important than expanding the workforce is talent retention."
   },
   [174910] = {
-    "那李总可一定要好好留住我！"
+    "Mr. Victor, you'll have to work hard to retain me."
   },
   [174911] = {
-    "这种时候倒很会对号入座。把你想要的待遇方案列出来，我酌情考虑。"
+    "You just assume this is about you, huh? Just list your demands, and I'll think about it."
   },
   [174920] = {
-    "所以华锐的食堂也是人才留存计划的一部分吗？"
+    "So, the cafeteria at LFG is also a part of the talent retention plan?"
   },
   [174921] = {
-    "华锐的食堂能不能留住人才我不清楚，但一定能留住某只馋猫。"
+    "I don't know how much talent the cafeteria can retain, but definitely a certain gourmet."
   },
   [174930] = {
-    "想要进华锐工作的人看到这条朋友圈会不会很惶恐啊？"
+    "Wouldn't those who want to work at LFG be intimidated when they see this post?"
   },
   [174931] = {
-    "他们看不到。"
+    "They won't see it."
   },
   [175000] = {
     "在送洗的大衣口袋里翻出了零钱，某人笑得比年终奖到账还开心。"
@@ -15514,67 +15512,67 @@ data = {
     "可以帮你报销下午茶请客账单。"
   },
   [175200] = {
-    "……我对偷看没写完的策划案没兴趣，没必要在文档里设下诅咒。"
+    "...I have no intention of peeking at an unfinished proposal. There was no need to place a curse on it."
   },
   [175210] = {
-    "我只是想把最好、最完美的策划案呈现给你看嘛！"
+    "I just wanted to give you the most perfect proposal ever!"
   },
   [175211] = {
-    "看起来很有信心，我会酌情提高审核标准。"
+    "You sound confident. I will be judging it with a raised bar."
   },
   [175220] = {
-    "哼！如果是写给你的告白呢，你也会忍住不偷看吗？"
+    "What if it were a letter confessing my love for you? I bet you'd totally peek!"
   },
   [175221] = {
-    "在我偷看之前，某人会忍不住全都告诉我。"
+    "No need. You'd probably tell me everything in it before I get a chance."
   },
   [175230] = {
-    "……你没偷看，怎么会知道我设下了神秘的诅咒？"
+    "...How would you know I placed a curse on it if you didn't peek?"
   },
   [175231] = {
-    "会被嘟嘟囔囔念出声来的诅咒，怎么都算不上神秘。"
+    "Because you mumbled it out under your breath."
   },
   [175300] = {
-    "以后每个节日都可以称之为“礼物创意节”。"
+    "From now on, every holiday can be \"Creative Gift Day.\""
   },
   [175310] = {
-    "我可以给这次的礼物打满分！"
+    "I'm giving this gift a solid 10 outta 10!"
   },
   [175311] = {
-    "是礼物满分，还是戴上礼物的人满分？"
+    "Is that a 10 for the gift... or for the person wearing it?"
   },
   [175320] = {
-    "这一切都离不开李总的积极配合啦~"
+    "Well, it wouldn't have worked without your full cooperation, Mr. Victor!"
   },
   [175321] = {
-    "配合与否，可以先看看你这次给出的价码。"
+    "Don't be so sure yet. Let's hear your offer first."
   },
   [175330] = {
-    "嘿嘿，你一定也乐在其中吧~"
+    "Hehe, bet you had fun too, didn't you?"
   },
   [175331] = {
-    "还不是笨蛋玩尾巴的样子太傻。"
+    "Only because someone looked ridiculous chasing the tail."
   },
   [175400] = {
-    "比起固守着自己的财宝，我更倾向于思考怎么用它们创造财富。"
+    "Instead of guarding my treasure, I'd rather figure out how to make it grow."
   },
   [175410] = {
-    "恶龙先生您好，我只有一个小小的请求——可以摸摸你的尾巴吗？"
+    "Hey, Mr. Dragon, can I pleeease touch your tail? Just once?"
   },
   [175411] = {
-    "一次20，五次90。你也可以用其他让我满意的方式支付。"
+    "One touch is 20 bucks. Five for 90. Or... pay me another way that makes me smile."
   },
   [175420] = {
-    "那么，你会创造什么财富呢？"
+    "What did you have in mind?"
   },
   [175421] = {
-    "比如用部分财宝换取鸡蛋、牛奶和糖，然后等待一个笨蛋自投罗网。"
+    "Maybe trade some gold for eggs, milk, and sugar... then sit back and wait for a certain someone to walk right into my trap."
   },
   [175430] = {
-    "送给我就是最好的投资！"
+    "C'mon, giving it to me is the best investment!"
   },
   [175431] = {
-    "先写一份《恶龙财宝投资动向分析》，我酌情考虑。"
+    "Sure. Submit a report titled \"Why I Deserve the Dragon's Hoard,\" and I'll think about it."
   },
   [175500] = {
     "有的人自从学了舞，就很少有保持全身静止的时候。"
@@ -15598,235 +15596,235 @@ data = {
     "那某人现在太年轻了，我跟她有代沟，恕难从命。"
   },
   [175600] = {
-    "打开门看到布丁的表情，就知道情况不妙。"
+    "I knew something was wrong the moment I saw Pudding's face."
   },
   [175610] = {
-    "看起来所有东西都是完好的，难道我们错怪布丁了？"
+    "Everything looks untouched. Maybe Pudding didn't do anything?"
   },
   [175611] = {
-    "它咬破猫条的包装，又把它们放了回去。已经没收它接下来一周的零食，以示惩戒。"
+    "He tore open some cat treats and put them back. I've put away his snacks for the week as punishment."
   },
   [175620] = {
-    "是什么表情啊？"
+    "What was his face like?"
   },
   [175621] = {
-    "目光躲闪，满脸心虚，跟某人从冰箱偷拿夜宵的表情一样。"
+    "Looking guilty with shifty eyes, just like when someone sneaks a late-night snack from the fridge."
   },
   [175630] = {
-    "布丁最近总是干坏事，需要好好教育一下！"
+    "Pudding has been up to no good lately. Time to teach him a lesson!"
   },
   [175631] = {
-    "可以，不过鉴于布丁时常有笨蛋做“帮凶”，今天晚上我们的休闲时间改为家庭课堂。"
+    "Good idea. But since a certain dummy helps him sometimes, I'm changing our leisure time tonight to a family lecture."
   },
   [175700] = {
-    "以某人“不小心下单”的五盒羽衣甘蓝粉为原料，研发出了味道尚可的健康饮品。"
+    "I used the five boxes of kale powder that someone \"accidentally\" ordered and developed a tasty health drink."
   },
   [175710] = {
-    "嘿嘿本“试喝员”保证，这款饮品在Souvenir上架一定好评如潮！"
+    "This sampler guarantees that it will be a great hit in Souvenir!"
   },
   [175711] = {
-    "它只针对笨蛋的口味研发，不对外销售。"
+    "It's only developed for a certain dummy's taste and not for sale."
   },
   [175720] = {
-    "我们简直就是最好的研发团队！你说是吧，研发员小李？"
+    "We're the best development team! Am I right, Researcher Victor?"
   },
   [175721] = {
-    "既然研发成果超额完成，$u总打算什么时候兑现答应我的报酬？"
+    "Since we exceeded our goal, when am I receiving the payment you promised, Ms. $u?"
   },
   [175730] = {
-    "不愧是李大厨，连羽衣甘蓝粉都可以妙手回春~"
+    "I knew Chef Victor could even make the best use out of kale powder!"
   },
   [175731] = {
-    "……拍马屁前，先把那几盒青草汁从你的购物车里删除掉。"
+    "...Before you sweet-talk me, remove those boxes of green juice from your shopping list first."
   },
   [175800] = {
-    "早睡的办法有很多，但不包括熬夜阅读《早睡的奇迹》。"
+    "There are a lot of ways to sleep early, but staying up late to read Miracles of Early Sleep isn't one of them."
   },
   [175810] = {
-    "熬夜是为了更好地早睡，等着瞧吧！"
+    "Staying up late is for a better early sleep. Just wait and see!"
   },
   [175811] = {
-    "我只看到了某人的黑眼圈，和开会时的哈欠。"
+    "I only see the dark circles under someone's eyes and her yawning at the meeting."
   },
   [175820] = {
-    "不光是为了早睡，我更好奇的是这本书的副标题——“有钱人的睡前清单”！"
+    "I'm not just reading it for an early sleep. I'm more curious about its subtitle—What Rich People Do Before Sleep!"
   },
   [175821] = {
-    "清单就是：喂布丁、看报表、满足笨蛋的好奇心。"
+    "I can answer that—feeding Pudding, reading reports, and satisfying a certain dummy's curiosity."
   },
   [175830] = {
-    "书上说早睡最重要的是保持心情愉悦，不能收到反对意见哦～"
+    "The book says the key to sleeping early is a good mood, so no objections!"
   },
   [175831] = {
-    "……现在拿着书到卧室，热牛奶和陪睡的布丁都在等你。"
+    "...Take the book to the bedroom now. Warm milk and Pudding are waiting for you."
   },
   [175900] = {
-    "就这样一直走下去。"
+    "We'll walk together forever, hand in hand."
   },
   [175910] = {
-    "走呀走呀，直到山和海的尽头～"
+    "Hand in hand until the end of the world!"
   },
   [175911] = {
-    "只要你想，也可以是更远的地方。"
+    "Even further than that, if you so desire."
   },
   [175920] = {
-    "好浪漫的画面哦，像是电影海报一样！"
+    "That's so romantic! It's like a poster for a movie!"
   },
   [175921] = {
-    "不得不说，某人这次没有夸大其词。"
+    "Someone's actually on point for once."
   },
   [175930] = {
-    "下次互换位置，我来牵着你走。"
+    "Let's switch places next time. I'll be the one holding your hand."
   },
   [175931] = {
-    "那你的手恐怕要举过头顶了。"
+    "Hope you're ready to stretch your hand over your head."
   },
   [176000] = {
-    "以梳为礼，结发同心。"
+    "Let this comb \"tie the knot\" between us."
   },
   [176010] = {
-    "那我明天的发型也可以交给你吗~"
+    "Ooh, does that mean I can trust you with my hairstyle tomorrow?"
   },
   [176011] = {
-    "可以试试，今晚把教程发给我。"
+    "We can give it a shot. Send me the tutorial tonight."
   },
   [176020] = {
-    "我已经剪好一撮头发了，等你加完班回家结发哦！"
+    "I already cut off a little piece of my hair. Once you're done working late, I'll be waiting to tie it with yours!"
   },
   [176021] = {
-    "……所以某人才大半夜不睡觉在家门口举着把剪刀等我？"
+    "...So that's why someone was standing at the door in the middle of the night holding a pair of scissors?"
   },
   [176030] = {
-    "你一半，我一半，你是我的另一半~"
+    "Half for me, half for you. I guess that's why they call you my other half."
   },
   [176031] = {
-    "现在说得好听，希望你晚上抢被子的时候会记得给我留一半。"
+    "You say that now. Just don't forget to leave me half the blanket tonight."
   },
   [176100] = {
-    "今天去品尝热气球料理，某人却激动的饭都没吃几口。"
+    "Dinner in a hot air balloon today, and a certain someone was too excited to actually eat."
   },
   [176110] = {
-    "用热气球火焰加热食材的方式太厉害了，李大厨快复刻下吧~"
+    "I can't believe they cook with the balloon's flame! You should totally try to make this, Chef!"
   },
   [176111] = {
-    "确实不难，只需要承包一个热气球就可以。"
+    "The cooking part is easy. All you need is your own hot air balloon."
   },
   [176120] = {
-    "毕竟在这上面吃饭，不好好欣赏下城市美景不是很浪费嘛。"
+    "Well, when you're dining up that high, it'd be a crime not to take in the view!"
   },
   [176121] = {
-    "是吗？比起欣赏景色，我倒觉得你一直在看我。"
+    "Is that so? Could've sworn you were looking at me more than the skyline."
   },
   [176130] = {
-    "所以我一落地回家，就直奔冰箱找甜品吃了。"
+    "Okay, you got me. I made a beeline for the dessert the second I got home."
   },
   [176131] = {
-    "不用这个借口，甜品也逃不出你的手心。"
+    "Please. I know you'd find your way to the sweets no matter what."
   },
   [176200] = {
-    "某人说要教我领略“独门腌制技术”，然后掏出了一堆护肤品。"
+    "A certain someone promised me a \"masterclass in curation,\" and pulled out enough lotion to preserve a museum."
   },
   [176210] = {
-    "女孩子周围的一切都可以被“腌制”成香香的状态，男朋友自然也不能例外~"
+    "A girl's divine right is to make everything in her life smell amazing. And you, my boyfriend, are not exempt."
   },
   [176211] = {
-    "……笨蛋想“折腾”我可以直说，不必努力让它听起来合情理。"
+    "Just admit you wanted a guinea pig. Your excuses are adorable, but unnecessary."
   },
   [176220] = {
-    "情侣之间有时需要保持一致的调性，比如统一成富有层次感的体香~"
+    "It's called \"couple's scent synergy!\" We're building a unified, sophisticated aura."
   },
   [176221] = {
-    "这也不是你用五种身体乳涂抹在我身上不同部位的理由。"
+    "Your \"sophisticated aura\" involved using me as a human lotion tester."
   },
   [176230] = {
-    "怎么样，我在“腌制”过程中施展的按摩手法是不是还不错？"
+    "You have to admit, my \"curating\" massage skills were on point."
   },
   [176231] = {
-    "的确，不过与之相比，你用身体乳在我背上作画的行为更令我印象深刻。"
+    "Uh-huh. The modern art you drew on my back with the body lotion was what really stood out."
   },
   [176300] = {
-    "……洗完澡出来，撞见某个笨蛋正和布丁相互用“猫语”拌嘴。"
+    "...Just got out of the shower to find a certain dummy having a heated argument with Pudding—entirely in meows."
   },
   [176310] = {
-    "这招“镜像呈现”好像效果还不错，成功制服了我们家的顽皮小猫~"
+    "My \"mirroring\" technique worked! Successfully confused our little troublemaker."
   },
   [176311] = {
-    "与其说是制服，不如说是被你的反常行为搞懵了。"
+    "\"Confused\" is an understatement. I think you just weirded it out."
   },
   [176320] = {
-    "虽然我对它的语言一窍不通，但在气势上必不能输！"
+    "I don't speak a word of \"cat,\" but I refuse to be defeated in a battle of wills!"
   },
   [176321] = {
-    "下次某人接到临时演讲任务的时候，希望也能保持这个心态。"
+    "I'll remind you of that fearless energy next time you have to give a last-minute speech."
   },
   [176330] = {
-    "喵——呜！喵喵喵喵喵！"
+    "Meeeee-ow! Mrow mrow mrow!"
   },
   [176331] = {
-    "既然入戏这么深，那不如晚餐给你也换成猫粮？"
+    "Since you're so committed to the role, should I swap your dinner for cat food?"
   },
   [176400] = {
-    "只有某人才会相信，抬头向上看这个动作能让情绪稳定下来。"
+    "Only a certain someone would believe that simply looking up calms you down."
   },
   [176410] = {
-    "你试试看嘛！是真的有效果！"
+    "Just try it! It really works!"
   },
   [176411] = {
-    "不用，摆在桌上的合照已经兼备这个功能。"
+    "I don't need to try it. Our photo on my desk already has that function."
   },
   [176420] = {
-    "说是人在向上看的时候大脑无法处理有效的信息，从而达到平静的效果。"
+    "They say that your brain can't process information effectively when you look up. That's how it calms you down."
   },
   [176421] = {
-    "所以每次你抬头听我说话的时候，大脑都是静止的状态？"
+    "So, your brain is still whenever you look up and listen to me talk?"
   },
   [176430] = {
-    "可是我每次抬头看你的时候都觉得有稳定下来啊？"
+    "But, I always feel calmer when I look up at you. How do you explain that?"
   },
   [176431] = {
-    "……笨蛋。"
+    "...You dummy."
   },
   [176500] = {
-    "某个不熟悉专业术语却自告奋勇的笨蛋，在入住网站一通操作后，成功注册了一家酒店。"
+    "A certain dummy volunteered without knowing the terms and successfully registered a new hotel at the hotel booking site."
   },
   [176510] = {
-    "可怜的$u酒店，只存在了十分钟就被注销了。"
+    "Poor $u's Hotel only existed for ten minutes before it was terminated."
   },
   [176511] = {
-    "短暂拥有过一家自己的酒店，不算太亏。"
+    "I had a hotel business for a short while. Not a bad deal."
   },
   [176520] = {
-    "都怪这个小程序的操作流程太繁琐了，一点都不人性化！"
+    "The app design is so complicated and not user-friendly at all!"
   },
   [176521] = {
-    "事实证明，再繁琐的流程也没能阻止你找到送餐服务界面。"
+    "It's been proven that the most complicated design can't stop you from locating the food delivery service."
   },
   [176530] = {
-    "我们需要住酒店，所以我注册了一家酒店，这很合理。"
+    "We needed to book a hotel, so I registered one. Makes perfect sense."
   },
   [176531] = {
-    "这就是传说中的“无中生有”？"
+    "Guess that's how businesses are started?"
   },
   [176600] = {
-    "被超市导购推荐了一瓶名字古怪的酒。"
+    "Got recommended a wine brand with a weird name by the salesperson."
   },
   [176610] = {
-    "超市导购怎么会想到给你推荐古怪的酒？"
+    "Why would the salesperson recommend a weirdly named wine to you?"
   },
   [176611] = {
-    "某人每次被这些酒名吸引的时候我都在身边，导购自然以为我也有同样的喜好。"
+    "I'm always with a certain someone whose eyes light up when she sees these weird names, so the salesperson assumed I had the same preference."
   },
   [176620] = {
-    "叫什么啊？有我上周买的“冒险酒农嘭叽嘭叽葡萄酒”古怪吗？"
+    "What's its name? Is it weirder than the \"Adventurous Winegrower Pom-Pom Wine\" I bought last week?"
   },
   [176621] = {
-    "羊咩……算了，一会儿回家你自己看。"
+    "It's Sheep Sleep—forget it. You can see it when you get home."
   },
   [176630] = {
-    "答应我，一定要把它买下来！"
+    "Promise me that you'll buy it!"
   },
   [176631] = {
-    "知道你会感兴趣，已经买下了。至于味道如何，晚餐就知道了。"
+    "I knew you'd be interested, so I already bought it. As for the taste, we'll find out at dinner."
   },
   [176700] = {
     "某人非说富贵选的果子会更甜，结果却被事实酸得睁不开眼。"
@@ -15934,112 +15932,112 @@ data = {
     "我不记得布丁有过这种社交，倒是某人在遛弯和邻居们的宠物都混熟了。"
   },
   [177200] = {
-    "有的人想象力已经丰富到可以戴着耳机凭空“练琴”。"
+    "Someone's imagination is so wild that she can \"practice piano\" just by wearing headphones and playing in mid-air."
   },
   [177210] = {
-    "这样不打扰你工作，我们就可以在一个屋子里各忙各的！"
+    "This way I won't disturb you while you work, and we can each do our own thing in the same room!"
   },
   [177211] = {
-    "的确算不上打扰，但观赏性太强，让人总想分心。"
+    "It's not really distracting in the regular sense. More like it's too entertaining not to watch."
   },
   [177220] = {
-    "虽然知道你是在吐槽，但意象训练的确可以锻炼想象力~"
+    "I know you're making fun of me, but imagery training really does help build imagination!"
   },
   [177221] = {
-    "锻炼得差不多了，就来客厅钢琴上落实一下。"
+    "Once your imagination is well-trained, come to the living room and put it to use on the real piano."
   },
   [177230] = {
-    "嘿嘿，知道你好奇了，但是你先别急~"
+    "Hehe, I know you're curious, but you'll have to wait!"
   },
   [177231] = {
-    "想要吊人胃口，下次“练习”的时候记得别自己哼出声。"
+    "If you want to build suspense, remember not to hum out loud during your next \"practice\" session."
   },
   [177300] = {
-    "某人开会的时候突然开始奋笔疾书，多半是困了。"
+    "When someone suddenly starts scribbling furiously during a meeting, it's usually a sign she's sleepy."
   },
   [177310] = {
-    "……某人开会间休的时候突然发朋友圈，多半是想引起我的注意！"
+    "...When someone suddenly posts to his Moments during a meeting break, it's usually because he wants my attention!"
   },
   [177311] = {
-    "嗯，让你清醒一点，别在那些没营养的话上浪费墨水。"
+    "Yeah, just trying to remind you not to waste your ink on meaningless words."
   },
   [177320] = {
-    "我怎么就不能是吸收了会议的精华，突然文思泉涌了呢！"
+    "Why can't it be that I absorbed the essence of the meeting and got a sudden burst of inspiration?"
   },
   [177321] = {
-    "那你不会刚休会就跑去茶水间接咖啡。"
+    "Then why did you run straight to the break room for coffee the moment it ended?"
   },
   [177330] = {
-    "脑子累了就让手代劳一下，这样等李总发言的时候才能更清醒～"
+    "When the brain's tired, I let my hand do the work. That way, I'm more alert when Mr. Victor gives his speech."
   },
   [177331] = {
-    "……明明发言提纲都给你看过好几遍了，怎么感觉你像在期待汇报演出？"
+    "...I've shown you the speech outline several times. Why do you sound like you're expecting a performance?"
   },
   [177400] = {
-    "它看起来不太高兴。"
+    "It looks kind of grumpy."
   },
   [177410] = {
-    "为什么呀，该不会因为旁边少了谁吧~？"
+    "I wonder why? Is it because someone's missing from its side?"
   },
   [177411] = {
-    "……难道不是因为某个买家特别备注了——“请一定要做成臭脸版本，拜托拜托。”"
+    "...Or maybe it's because someone specifically wrote in the order, \"Please make it look super grumpy—pretty please!!\""
   },
   [177420] = {
-    "呜呜，早知道把它定制成笑脸的样子了，毕竟你今天好像一直在笑。"
+    "Ugh, I should've ordered the smiley face version. You've been all smiles today anyway!"
   },
   [177421] = {
-    "那还不够你看？"
+    "Still not enough for you?"
   },
   [177430] = {
-    "不能光看表面，其实它的心里比谁都甜呢~"
+    "Looks can be deceiving. Deep down, it's probably sweeter than anyone else!"
   },
   [177431] = {
-    "……说它就说它，冲着我眨眼做什么。"
+    "...You sure you're talking about it? Why are you winking at me?"
   },
   [177500] = {
-    "某人颁的奖还真是千奇百怪。"
+    "Someone really does come up with the weirdest award."
   },
   [177510] = {
-    "嘿嘿，你好像还有半句话没说完哦~"
+    "Hehe, and? Go on."
   },
   [177511] = {
-    "……你的心意都收到了，值得珍藏。"
+    "...Thank you for the sincere gift. I will cherish it."
   },
   [177520] = {
-    "有请这位嘉宾发表获奖感言——"
+    "Okay, speech time! Let's hear a few words from the winner!"
   },
   [177521] = {
-    "获奖算是意料之中，毕竟主办方是我的人。"
+    "Totally expected this win. I mean, the judge is on my side."
   },
   [177530] = {
-    "哼哼，我打赌你以后会时不时拿出来偷偷看~"
+    "Bet you're gonna sneak a look at it every now and then when I'm not around!"
   },
   [177531] = {
-    "那你输了。因为我会把它挂在书房，每天正大光明地看。"
+    "No need to sneak. I'm putting it up in my study. I'll admire it every day, loud and proud."
   },
   [177600] = {
-    "恭喜某人如愿以偿，参与了华锐游轮的首航。"
+    "Congratulations to a certain someone. She made it on LFG's maiden voyage."
   },
   [177610] = {
-    "这么大的事，你竟然只发了十八个字。"
+    "That's all you've got to say? Just one line for something this huge?"
   },
   [177611] = {
-    "一艘游轮对华锐来说，还算不上那么大的事。"
+    "For LFG, launching a cruise ship isn't exactly earth-shattering."
   },
   [177620] = {
-    "恭喜李总喜提新游轮，恭喜华锐再创新高峰！"
+    "Congrats on the shiny new cruise ship, Mr. Victor! Here's to LFG smashing more records in the future!"
   },
   [177621] = {
-    "谢谢大制作人的祝贺。作为多年合作伙伴，提醒你再不回房间，你的布丁就归我了。"
+    "Appreciate it, big producer. And as your long-time partner, I am obligated to tell you: if you don't get back to your room soon, I'm eating your pudding."
   },
   [177630] = {
-    "哇，这是谁家的大游轮呀！"
+    "Whoa! Whose giant cruise ship is that?"
   },
   [177631] = {
-    "笨蛋家的。"
+    "A certain dummy's."
   },
   [177640] = {
-    "身为华锐人，我感到骄傲！",
+    "Man, being part of LFG really makes me proud!",
     5
   },
   [177700] = {
@@ -16127,46 +16125,46 @@ data = {
     "放心，我可没打算错过最合适的温度。"
   },
   [178100] = {
-    "从“彩椒便当盒”到“烤秋葵吸管”，某人在缺少餐具时对于食材的大胆利用真是令人叹为观止。"
+    "Documenting another case of culinary improvisation: the bell pepper bento box, succeeded by the okra drinking straw. A study in... creativity."
   },
   [178110] = {
-    "不觉得很完美吗？吃完不用洗餐具欸！"
+    "The ultimate lazy (and eco-friendly!) hack. No dishes!"
   },
   [178111] = {
-    "……你对“完美”的判断标准也总在我的想象之外。"
+    "Your personal dictionary continues to be... unconventional."
   },
   [178120] = {
-    "李大厨做的彩椒虾仁炒饭味道超棒！吃了都说好！"
+    "That shrimp fried rice you cooked in the pepper was magic! You're a kitchen genius!"
   },
   [178121] = {
-    "这也要归功于你挑选到了爽脆多汁的“懂事”彩椒。"
+    "Even a genius requires adequate tools. The... vessel... was acceptable."
   },
   [178130] = {
-    "也有被超辣彩椒背刺的时候，刚刚我就中招了！"
+    "Spoke too soon. One of those peppers just declared war on my mouth."
   },
   [178131] = {
-    "这时候与其给我发“李泽言我不行了银行卡密码是……”，不如去冰箱里取一瓶豆奶。"
+    "Instead of texting me \"Victor, I'm done for—my bank card PIN is…,\" you'd be better off grabbing a bottle of milk from the fridge."
   },
   [178200] = {
-    "事实证明，所谓的“早春穿搭技巧”观赏性有余，保暖性不足。"
+    "Conclusion of today's field study: so-called \"spring fashion\" prioritizes aesthetics over thermal efficiency."
   },
   [178210] = {
-    "呜呜呜幸好你未卜先知，带了一保温杯特制热巧克力，喝完就不冷了(＾－＾)V"
+    "All hail the foresight of the hot chocolate bearer! I am revived! (＾－＾)V"
   },
   [178211] = {
-    "那不是未卜先知，是我会看天气预报。"
+    "The \"prophet\" consulted a meteorological app."
   },
   [178220] = {
-    "我才不像你这么怕冷呢，把最厚的一条羊毛围巾都围上了！"
+    "I'm way tougher than you! You even brought your giant blanket-scarf!"
   },
   [178221] = {
-    "最后这条围巾围在谁的脖子上，看来你已经忘得一干二净了。"
+    "An interesting development, then, that it's currently around your neck."
   },
   [178230] = {
-    "我也发现了，真不知道这些华而不实的“早春穿搭”到底是给谁准备的！"
+    "Who is this fashion for, exactly? Explorers on a heated expedition?"
   },
   [178231] = {
-    "很明显，给某个一出门就要往别人大衣里钻的笨蛋。"
+    "Obviously, a certain dummy with a portable heat source on retainer."
   },
   [178300] = {
     "旁观了一场美食球玩具交流会，参会人：一群幼儿园小朋友和某个笨蛋。"
@@ -16232,67 +16230,67 @@ data = {
     "加上桶里的鱼，你列的全鱼海鲜盛宴菜单基本能完成七七八八。"
   },
   [178600] = {
-    "……享受到了昨晚某人说的“动感唤醒服务”。"
+    "...Well, I just got someone's promised \"vibe wake-up service.\""
   },
   [178610] = {
-    "怎么样，李总对我定制的这款音乐牙刷还满意吗？"
+    "So... Mr. Victor. Enjoy the custom music toothbrush?"
   },
   [178611] = {
-    "谈不上不满意，但注意力全被某人的对口型表演吸引跑了。"
+    "The brush is fine. Couldn't take my eyes off the accompanying lip-sync show, though."
   },
   [178620] = {
-    "为了录制牙刷里的说唱串烧，我可是练习了好久呢~包动感的~"
+    "The rap mix? Took me forever to get it right. Pretty hype, huh?"
   },
   [178621] = {
-    "的确“动感”，醒觉的效果有些过于猛烈了。"
+    "\"Hyped\" is one way to put it. I'm definitely awake now."
   },
   [178630] = {
-    "嘿嘿，是不是很神奇！我就知道你会喜欢！"
+    "Hehe, it's fun, yeah? Told you you'd love it!"
   },
   [178631] = {
-    "我喜欢的是某个总能为生活增添乐趣的笨蛋。"
+    "The only thing I love more is how a certain dummy manages to make even a toothbrush ridiculous."
   },
   [178700] = {
-    "剧中角色为打破尴尬没话找话的模样，倒是与记忆中的某个笨蛋有些重叠。"
+    "That character fumbling to break the ice... it really took me back. Reminded me of a certain dummy."
   },
   [178710] = {
-    "……好吧，我承认自己之前的确不太擅长处理半生不熟阶段的关系QAQ"
+    "Ugh, fine! I admit I was super awkward back then. That whole \"what are we?\" phase was rough. QAQ"
   },
   [178711] = {
-    "有的事要允许自己不擅长，况且在我看来，真诚和勇敢胜过所有技巧。"
+    "You didn't have to be smooth. What mattered—what still matters—is how real you were. You never backed down, and that meant everything."
   },
   [178720] = {
-    "你这么一说我才想起来，原来我也有过这么一段患得患失的时期啊……"
+    "Oh man, memory lane. Yeah, I was really overthinking everything back in the day."
   },
   [178721] = {
-    "那看来我平时给某人补充的安全感还算充足。"
+    "Well, I'm glad to hear I make you feel secure now."
   },
   [178730] = {
-    "感觉我当时面对李总这个“大冰块”，总能“没话找话”也挺不可思议的~"
+    "Haha, looking back, it's a miracle I ever got a conversation out of the resident ice king!"
   },
   [178731] = {
-    "这点我倒不意外，毕竟笨蛋面对自己认定的事，总是能迎面而上。"
+    "Not a miracle. Just you being stubbornly, relentlessly warm—even to an expert at giving the cold shoulder."
   },
   [178800] = {
-    "午觉醒来，发现某人的睡姿和身旁的布丁出奇的一致。"
+    "Woke up from a nap to find two little clones sleeping next to me—a certain someone and Pudding, perfectly in sync."
   },
   [178810] = {
-    "申请扣它一个罐头，以表对本人“姿势产权”的维护！"
+    "That's copyright infringement! Pudding owes me a tuna can for stealing my signature nap pose!"
   },
   [178811] = {
-    "一边说着扣罐头，一边又开始喂冻干，我看你的“维权”怕是又要无果了。"
+    "And yet you're already handing out treats. Not a very convincing \"crackdown,\" is it?"
   },
   [178820] = {
-    "噗……不过你有没有发现，布丁最近好像越来越喜欢模仿家里的人类了！"
+    "Okay, but seriously, isn't it cute how Pudding's started copying us lately?"
   },
   [178821] = {
-    "它喜欢模仿的，有且仅有一个行为经常出其不意的笨蛋。"
+    "\"Us\"? I think it's just copying the one who's a magnet for... interesting situations."
   },
   [178830] = {
-    "可是我醒来的时候，好像隐约看到李总的姿势也跟我们一样诶~"
+    "Uh-huh, and what's your excuse? I'm pretty sure I saw you doing it too~"
   },
   [178831] = {
-    "只是偶尔也想要体验一下和笨蛋们“合群”的感觉。"
+    "What can I say? I want to fit in with the cozy crowd sometimes."
   },
   [178900] = {
     "说是来公园喂鸟，有人却先把“诱饵”品鉴了一番。"
@@ -16461,6 +16459,48 @@ data = {
   },
   [179631] = {
     "时间还早，足够某个笨蛋头上也多几个“小揪揪”陪他。"
+  },
+  [179700] = {
+    "Felt like another day of being restrained."
+  },
+  [179710] = {
+    "No way! Even the almighty Mr. Victor has those days?"
+  },
+  [179711] = {
+    "If I knew this dinner was gonna be so awkward, I would've brought a certain dummy along."
+  },
+  [179720] = {
+    "What happened! I want to know!"
+  },
+  [179721] = {
+    "I'm being swarmed by Pudding's buddies."
+  },
+  [179730] = {
+    "Sorry... I really thought that I can untie that knot in no time..."
+  },
+  [179731] = {
+    "Next time you experiment with weird ideas, I'm making you try it on yourself first."
+  },
+  [186400] = {
+    "I'd recommend a quick courage check before you face this enhanced haunted house."
+  },
+  [186410] = {
+    "I'll be fine as long as you're with me!"
+  },
+  [186411] = {
+    "My poor, sacrificed button would tell a different story."
+  },
+  [186420] = {
+    "But that character with the fluffy tail at the entrance was so welcoming!"
+  },
+  [186421] = {
+    "I'm afraid his job is just to bait the trap, not to be your escort the whole time."
+  },
+  [186430] = {
+    "Your grip on my hand was pretty telling during that last jump scare."
+  },
+  [186431] = {
+    "I had to. Your screaming was about to make the ghosts run away in terror."
   },
   [200100] = {
     "Found this lil guy getting cozy under the car. Check before you drive and you might save a life."
@@ -29129,46 +29169,46 @@ data = {
     "I think, even if the world isn't always unfolding as we'd like, I'll always remember your words and face every setback with equanimity."
   },
   [262000] = {
-    "在小区院子里捕捉到一位小蜗牛观察者。"
+    "Found a tiny snail watcher in the neighborhood garden."
   },
   [262010] = {
-    "急死了，好想人为助力它跨过那条大缝隙。"
+    "I was this close to helping it across that giant \"crack\" between the paving tiles. Poor thing was struggling."
   },
   [262011] = {
-    "地砖上的缝隙太多，我们不能一一帮助，还是让它自己选择前进的方向吧。"
+    "There are too many cracks to help with them all. We should let it figure out its own way."
   },
   [262020] = {
-    "我第一次知道蜗牛的身体原来可以拉到那——么长。"
+    "I didn't know snails could stretch that long!"
   },
   [262021] = {
-    "从你比划的动作里，我充分感受到这个小生命的柔韧性。"
+    "Judging by your wild hand gestures, I can already picture its stretchy little body."
   },
   [262030] = {
-    "那你就是我的观察者了？有什么发现吗？"
+    "So... are you observing me now? Notice anything interesting?"
   },
   [262031] = {
-    "嗯，这位小朋友观察地很投入，连我在你附近站了好一会儿都没发现。"
+    "Yes. A young lady were so focused on that snail that she didn't even notice me standing behind you for a while."
   },
   [262100] = {
-    "掌握了一门新的技巧。"
+    "Learned a useful new trick."
   },
   [262110] = {
-    "下次贴膜就找许教授了！"
+    "Guess I know who to call next time I need to put on a screen protector—Professor Lucien!"
   },
   [262111] = {
-    "当然乐意为你服务，希望这门手艺以后不会生疏。"
+    "Always happy to help. Let's hope I don't lose what I've learned today."
   },
   [262120] = {
-    "都怪我不小心摔了你的屏幕……"
+    "My bad. I shouldn't have dropped your phone..."
   },
   [262121] = {
-    "碎碎平安，而且在它碎了之后的一天，我都过得非常顺心。"
+    "After you broke it, I had great luck for the rest of my day. I'd say that's all thanks to you."
   },
   [262130] = {
-    "幸亏原本有贴保护膜呜呜。"
+    "Luckily, it already had a screen protector on."
   },
   [262131] = {
-    "原本也是多亏你帮我贴的膜，才让它免于碎屏的灾难。"
+    "And that's thanks to you. Without it, the screen would've been in pieces."
   },
   [262200] = {
     "每一颗被挑选出的乌橄榄，都有最适合它的雕刻方式。"
@@ -29360,46 +29400,46 @@ data = {
     "To reciprocate, I can send you the academic journal I've been reading lately. According to colleagues at the research center, it's very useful."
   },
   [263100] = {
-    "等待消息本身就是一个很有趣的过程。"
+    "The anticipation of waiting for someone's reply can be oddly entertaining."
   },
   [263110] = {
-    "就比如现在的我就在想许教授会怎么回复我~"
+    "Like me, right now, wondering how Professor Lucien would reply to this message."
   },
   [263111] = {
-    "我现在正在回家的路上。这样的回复不知道你满不满意？"
+    "I'm on my way home. How do you like this response?"
   },
   [263120] = {
-    "但要是自己偷偷胡思乱想的话怎么办？"
+    "But, what if I can't stop imagining what the reply would be like?"
   },
   [263121] = {
-    "这样的话，我建议是去到你想见的那个人身边。"
+    "In that case, my suggestion is to be with the person you want to see."
   },
   [263130] = {
-    "所以你在等别人回复的时候都会想什么？"
+    "So, what do you think about when you wait for someone's reply?"
   },
   [263131] = {
-    "比起去想象，我会更期待对方带来怎么样的回应。"
+    "Rather than guessing what they might say, I simply look forward to their response."
   },
   [263200] = {
-    "被人推荐了一本科学悬疑小说，内容意外的很有趣。"
+    "Got recommended a sci-fi suspense novel—surprisingly interesting."
   },
   [263210] = {
-    "那本书里也有很多堪称“离谱”的科学常识。"
+    "The book also has a lot of outlandish \"scientific\" knowledge."
   },
   [263211] = {
-    "书里的手法的确不够严谨，但足够有趣不是吗？"
+    "The methods aren't exactly accurate, but at least they are fun, right?"
   },
   [263220] = {
-    "我甚至看到作者脑洞大开用离子对撞机犯罪，太恐怖了！"
+    "The author even came up with an imaginative mystery involving an ion collider. So terrifying!"
   },
   [263221] = {
-    "下次如果太害怕，可以来敲敲我的门。"
+    "Next time you're scared, you can come knocking on my door."
   },
   [263230] = {
-    "许教授用科学的眼光评价，这本小说怎么样？"
+    "I want to hear a scientist's take on the book, Professor Lucien."
   },
   [263231] = {
-    "文笔不错，但似乎需要一个更专业的科学顾问。"
+    "The book is well-written, but maybe it needs someone professional to fact-check the science."
   },
   [263300] = {
     "给看过巧克力电影后嘴馋的小朋友，准备了一个小礼物。"
@@ -29633,25 +29673,25 @@ data = {
     "I myself think that a large part of my powers of imagination come from you."
   },
   [264400] = {
-    "观察不同地方服务员的习惯和态度，也是了解当地人文历史的途径之一。"
+    "You can learn a lot about a city's character just by watching how its servers interact with customers."
   },
   [264410] = {
-    "店员细心帮我们拌煲仔饭的时候，总觉得感受到了“反差萌”！"
+    "It was oddly cute how the server took charge and mixed our rice so thoroughly!"
   },
   [264411] = {
-    "这样外冷内热的服务态度，似乎不知不觉间也成为餐厅的特色之一了。"
+    "Right? That gruff yet attentive style has become part of the dining experience here."
   },
   [264420] = {
-    "但我还是希望店员姐姐能更温柔一点~"
+    "I just wish the server had been a little gentler, though~"
   },
   [264421] = {
-    "虽然店员各有自己的性格，不过如果我对你更温柔一些，会让你开心吗？"
+    "Everyone has their own style, of course... but if I treated you more tenderly, would that make you happy?"
   },
   [264430] = {
-    "这也应该是源于过大的客流量和对自己餐厅、食物质量的坚持吧！"
+    "I guess it really reflects both the constant crowds and the staff's genuine dedication to their craft!"
   },
   [264431] = {
-    "看来这位小姐也加入了我的“观察人类”活动中。"
+    "Looks like I've found a new partner for my \"people-watching\" adventures."
   },
   [264500] = {
     "Came across a surprisingly weird student interview today."
@@ -29927,46 +29967,46 @@ data = {
     "Because all the candies I've prepared are reserved especially for you."
   },
   [265800] = {
-    "收到了一副小兔花纹在同一面的特殊手套。"
+    "I got a pair of gloves with bunny patterns... but both are on the same side."
   },
   [265810] = {
-    "呜呜，织手套的时候忘记左右手的花纹应该换面了……"
+    "Ahhh, I messed up when knitting! The patterns should've been on opposite sides!"
   },
   [265811] = {
-    "我很喜欢这个“设计”，这样既可以牵住我的小兔子，又能用另一只手将它捧在手心。"
+    "I actually love this design. Now I can hold my little bunny and cradle it in my other hand."
   },
   [265820] = {
-    "它们能让许教授的手暖和起来就好~"
+    "As long as they keep Professor Lucien's hands warm, that's all that matters!"
   },
   [265821] = {
-    "很暖和。因为你的关照，每一年的冬天都变得越来越温暖了。"
+    "Very warm. Thanks to you, every winter feels warmer."
   },
   [265830] = {
-    "嘘——我都装没看见了，不要说出来QAQ"
+    "Shhh—pretend not to notice! Don't say anything, QAQ."
   },
   [265831] = {
-    "可是我很难装作没看见$u窘迫又可爱的表情。"
+    "But it's hard for me to pretend I didn't notice $u's flustered and adorable expression."
   },
   [265900] = {
-    "今日收获了一则关于“戴上手套”的比喻——人造肉垫。"
+    "A little Miss compared wearing gloves to having \"artificial paw pads\" today."
   },
   [265910] = {
-    "（装作不经意地经过，突袭许教授的肉垫！）"
+    "(Casually sneaks up and attacks Professor Lucien's paw pads!)"
   },
   [265911] = {
-    "突袭成功了，要再多摸一会吗？"
+    "Attack successful. Do you want to hold on a bit longer?"
   },
   [265920] = {
-    "戴上手套后软乎乎又毛茸茸的，真的很像肉垫~"
+    "With the gloves on, they feel so soft and fluffy—totally like paw pads!"
   },
   [265921] = {
-    "那……今天我就扮演一位，给你带来温暖的“毛茸茸”先生吧。"
+    "Then today, I'll be your warm and fluffy Mr. Paw Pad."
   },
   [265930] = {
-    "为我的天才比喻自豪一秒钟~"
+    "I'm kinda proud of my genius metaphor right now!"
   },
   [265931] = {
-    "能给我讲讲，在你眼中，组成我的“比喻”有哪些吗？"
+    "Tell me, what other metaphors would you use to describe me?"
   },
   [266000] = {
     "This celebration of the future and new beginnings has brought me a fresh new perspective."
@@ -30085,25 +30125,25 @@ data = {
     "I see. Now I look forward to the sound even more."
   },
   [266600] = {
-    "表达的方式有许多种，即使无关言语，声音也依然会被准确传达。"
+    "There are plenty of ways to communicate. Even without words, a message can come through loud and clear."
   },
   [266610] = {
-    "提问，这位同学从我早上弹的旋律中听出什么了？"
+    "Pop quiz: what did you pick up from the tune I played this morning?"
   },
   [266611] = {
-    "“早上好”，以及这位老师说，她昨晚睡得很好。"
+    "It said good morning, and you slept really well last night."
   },
   [266620] = {
-    "我从今天开始就要用言语之外的方式向许教授表达爱意。"
+    "Starting today, I'm going to show my love for Professor Lucien in ways other than just saying it out loud."
   },
   [266621] = {
-    "如果是更为直接的行动的话，我会期待的。"
+    "Oh? If you mean showing it through actions... now that's something I can look forward to."
   },
   [266630] = {
-    "嗯~准确接收到了有人通过心跳声想告诉我的话。"
+    "Mhm. I definitely caught someone trying to say something to me through his heartbeat."
   },
   [266631] = {
-    "它说得不够准确，所以我有义务让你知道得更清楚些。"
+    "I don't believe it was clear enough. So I guess it's my job to make sure you hear it loud and clear next time."
   },
   [266700] = {
     "还是第一次见某位同学在尝了一口奶茶后，露出如此为难的表情。"
@@ -30295,25 +30335,25 @@ data = {
     "Of course, like how do I make up to my \"sleep monitor\" who caught me staying up too late last night?"
   },
   [267600] = {
-    "在路边等某位小朋友的时候，突然下雪了。"
+    "It suddenly started snowing while I waited for a Little Miss."
   },
   [267610] = {
-    "雪花和路灯的光一起落在你头顶，画面美得简直像一部电影。"
+    "You look so peaceful standing there in the snow and the streetlight. It's like a scene from a movie."
   },
   [267611] = {
-    "$u小姐一定是这部电影的女主角。"
+    "Then Miss $u must be the heroine of that movie."
   },
   [267620] = {
-    "下雪了诶！在这样的氛围里跳舞一定很浪漫～"
+    "A snowfall like this feels like it's asking for a dance."
   },
   [267621] = {
-    "我相信。那么，把手交给我吧。"
+    "Then let's not keep it waiting. Your hand, please."
   },
   [267630] = {
-    "我看到你啦！我马上就来！"
+    "Almost there! Don't move!"
   },
   [267631] = {
-    "我等待着$u的出现让这幅雪景更为完整。"
+    "I've been waiting. The scene wasn't complete without $u."
   },
   [267700] = {
     "收到了蝴蝶形状的纽扣。"
@@ -30883,46 +30923,46 @@ data = {
     "If I get to see your smile every time a wish comes true, then I'd say it's a big win for me too."
   },
   [270400] = {
-    "制作人小姐的想象力每次都比原本谜题的逻辑，要更有趣。"
+    "Your imagination is always more fun than the puzzles themselves, Miss Producer."
   },
   [270410] = {
-    "所以……其实我比许教授要更擅长海龟汤？！"
+    "So... I guess I'm better at minute mysteries than you, Professor Lucien?!"
   },
   [270411] = {
-    "应该说我更喜欢你脑海里的故事，远胜于所谓的“真相答案”。"
+    "More like the stories in your head are way more fascinating than the actual real answer."
   },
   [270420] = {
-    "许教授耍赖问一些无关的问题，我要申诉！"
+    "Professor Lucien, you were asking all sorts of random questions! I demand a redo!"
   },
   [270421] = {
-    "你只能回答“是”与“不是”，这个前提对我而言，很像个诱惑。"
+    "The fact that you can only answer yes or no sounds strangely tempting to me."
   },
   [270430] = {
-    "我打算原创一个超难“海龟汤”，请许教授做好准备。"
+    "Alright, Professor Lucien, I'm cooking up a riddle that's gonna be impossible to crack. Brace yourself!"
   },
   [270431] = {
-    "你出的任何难题，我都十分愿意探索到底。"
+    "Any puzzle you create... I'm more than willing to chase it all the way to the end."
   },
   [270500] = {
-    "工业产品虽然精致，却不及手作有温度。"
+    "Exquisite as industrial products are, they don't carry as much sentimental value as handicrafts do."
   },
   [270510] = {
-    "手作也很容易翻车，我昨天做的手工芋圆好像一碗绿油油的女巫汤QAQ"
+    "Handicrafts can be easily botched. The taro ball milk tea I made yesterday looked like a bowl of green poison concocted by a witch…QAQ"
   },
   [270511] = {
-    "我认为这不算翻车，毕竟虽然颜色稍显独特，但它们的甜度刚刚好。"
+    "I wouldn't say so. Despite its slightly distinctive color, it's got a perfect level of sweetness."
   },
   [270520] = {
-    "我懂！许教授出品的手冲咖啡比买的好喝一百倍~"
+    "I get it! Professor Lucien's pour-over coffee is a hundred times yummier than what you can buy in a coffee shop!"
   },
   [270521] = {
-    "或许是因为在调配它时，我一直在想着$u喜欢的味道。"
+    "Maybe it's because I keep reminding myself of $u's preferences when I make it."
   },
   [270530] = {
-    "赞同，在巷子里买的手作野花耳钉上还有香气！"
+    "Totally! I could smell the fragrance coming off the handmade wild-flower stud earrings I bought in the alley!"
   },
   [270531] = {
-    "怪不得今天拥抱$u时，好像闻到了花香。"
+    "No wonder I seemed to smell flowers when I hugged $u earlier today."
   },
   [270600] = {
     "The lamp-lit ships are reflected on the river surface, and a certain young lady has a sea of flowers pinned among her hair."
@@ -31093,10 +31133,10 @@ data = {
     "Does your thank you also include that time I blocked that water jet for you, Miss $u? ^_^"
   },
   [271400] = {
-    "分不清是一瓢汪洋中的水，抑或是一场喧嚣的海市蜃楼。"
+    "A cup of the ocean, or a clamorous mirage?"
   },
   [271410] = {
-    "这样开心的“海市蜃楼”，我们还可以一起体验很多很多！"
+    "If all \"mirages\" were this fun, I can't wait to see more together!"
   },
   [271500] = {
     "A certain lady described the fox's facial expression in the documentary with (*￣︶￣), which was quite vivid."
@@ -31246,46 +31286,46 @@ data = {
     "院子里的猫咪们已经聚集在生科所大堂门口吹空调了，请这位小姐放心。"
   },
   [272200] = {
-    "打水回来后，桶边围满了好奇的“小朋友”。"
+    "Got back with a bucket of water, only to find it surrounded by curious \"friends\"."
   },
   [272210] = {
-    "下一秒水桶就被小动物打翻，只能让许教授重新提一桶了QAQ"
+    "And Professor Lucien, you had to go back because they knocked over your bucket the very next second. QAQ"
   },
   [272211] = {
-    "有$u在旁边陪伴，打水的过程很轻松。"
+    "With $u around, it's nothing but a pleasant little walk."
   },
   [272220] = {
-    "水桶里倒映着蓝天白云，好像进入了一个颠倒的世界。"
+    "The sky and clouds reflected in the water make it like some kind of upside-down world."
   },
   [272221] = {
-    "你眼中的世界，总有着无穷的想象力。"
+    "You always see things in such a magical way, don't you?"
   },
   [272230] = {
-    "明明后来许教授也加入我们的围观队伍了～"
+    "Didn't you end up joining in on the crowd too, Professor Lucien?"
   },
   [272231] = {
-    "因为某个小姑娘望向水面的眼睛闪闪发亮，让我忍不住也好奇起来。"
+    "That's because a certain young lady's eyes were sparkling when she looked into the bucket. I got curious too."
   },
   [272300] = {
-    "繁忙的工作间隙，不妨和小狐狸一起坐下闻闻花香。"
+    "If work gets hectic, consider taking a little break and sitting with a little fox to smell the flowers."
   },
   [272310] = {
-    "引诱我忘记工作的“魅惑狐”又增加了！"
+    "Great, another \"charming fox\" trying to distract me from working!"
   },
   [272311] = {
-    "哦？我对“又”字很感兴趣，或许我们可以详细讨论一下。"
+    "Oh? I'm very interested in that word \"another\". Sounds like there's a story there."
   },
   [272320] = {
-    "凑近时看到有不少蜜蜂停在花上，说明它的花蜜也很香甜（暗示）"
+    "I saw bees all over the flowers—must be some seriously good nectar. (hint hint)"
   },
   [272321] = {
-    "我已经下单了同款花蜜，明天早上就可以享受这份香甜了。"
+    "Already ordered a jar of that exact nectar. We'll be tasting it together tomorrow morning."
   },
   [272330] = {
-    "偷偷告诉你，小狐狸的尾巴超级柔软好摸。"
+    "Tell you a secret: the fox's tail is super soft."
   },
   [272331] = {
-    "我倒是认为，还是它身旁的小兔子的耳朵更柔软一点。"
+    "I'd argue the bunny next to it has even softer ears."
   },
   [272400] = {
     "The different styles and methods animals employ to catch their prey always make for a fun spectacle."
@@ -31351,25 +31391,25 @@ data = {
     "For me, time feels slower—long enough to memorize all your expressions."
   },
   [272700] = {
-    "苹果的诱人之处，也在于它暗含的各类隐喻和典故。"
+    "The charm of apples lies in all the metaphors and stories about them."
   },
   [272710] = {
-    "比如落在牛顿头上的那一颗？"
+    "Like the one that fell on Isaac Newton's head?"
   },
   [272711] = {
-    "又比如我们带回家的那一颗。"
+    "Or the one that we brought home."
   },
   [272720] = {
-    "作为一种水果本身，苹果也很好吃呢！"
+    "Apples are delicious in themselves!"
   },
   [272721] = {
-    "好像某位小姐对苹果的喜好还延伸到了苹果酒、苹果派、苹果果酱……"
+    "It seems that a certain lady's interest in apples also applies to cider, apple pies, apple jam..."
   },
   [272730] = {
-    "其实我一直很好奇，为什么偏偏是苹果呢？"
+    "I've always been curious—why apples?"
   },
   [272731] = {
-    "虽然没法准确回答，但看到你在苹果园开心的样子，好像有些理解了。"
+    "I don't have the exact answer, but I understand their appeal now after I saw you smile in the apple orchard."
   },
   [272800] = {
     "原来，没整理好的绒线还能叫做“烦恼丝”。"
@@ -31456,67 +31496,67 @@ data = {
     "我倒觉得，有点褶皱反而让服装显得更加真实。"
   },
   [273200] = {
-    "放在桌上的眼镜被贴上了小小的窗帘，是某位小姐的恶作剧吗。"
+    "Someone stuck small curtains to the spectacles on my desk. Was it a certain lady's prank?"
   },
   [273210] = {
-    "不是说眼睛是心灵的窗户吗，那为什么不能有窗帘？"
+    "It's said eyes are the window to the soul? What's wrong with windows having curtains?"
   },
   [273211] = {
-    "那在心灵关窗休息前，能不能请$u讲一则睡前故事呢？"
+    "Well, may I ask if $u is okay with telling a bedtime story before I close the windows of my soul?"
   },
   [273220] = {
-    "当你感觉眼睛累了的时候，就可以放下窗帘休息一会儿哦。"
+    "When your eyes are tired, you may let down the curtains to have some rest."
   },
   [273221] = {
-    "如果我好好休息的话，再次打开窗帘时，就可以见到$u了吗。"
+    "If I take a good rest, will I see $u when I open the curtains again?"
   },
   [273230] = {
-    "看到这个设计觉得很有趣就买回来了，想看看许教授的反应！"
+    "I found their design pretty interesting when I saw them, so I bought them to see Professor Lucien's reaction!"
   },
   [273231] = {
-    "看你这么喜欢，下周会展中心会举办一场设计展会，要一起去看看吗。"
+    "Since you're so into such things, would you like to join me to see a design exhibition at the Expo Center next week?"
   },
   [273300] = {
-    "最近小姑娘的日常拍摄工具从DV机换成了复古相机。"
+    "Lately, a certain young lady has changed her daily filming device from a DV cam to a retro camera."
   },
   [273310] = {
-    "我的胶卷马上就到了，快来给我当模特！"
+    "My film rolls will soon be delivered here. Come and model for me!"
   },
   [273311] = {
-    "好，不过摄影师可以也一起入镜吗？"
+    "Okay, but will the camerawoman be joining me?"
   },
   [273320] = {
-    "DV也会接着用，这样我就可以用不同方式记录生活了~"
+    "My DV cam will stay in service, so I'll get to record my life in different ways."
   },
   [273321] = {
-    "我很期待接下来家里会出现什么样的作品。"
+    "I look forward to seeing your subsequent works."
   },
   [273330] = {
-    "店家说我买的胶卷安装后必须一个月内拍完，否则会曝光，可我担心拍不好。"
+    "The vendor said the film rolls must be used up in a month after being loaded, otherwise they'll be exposed, but I fear I might be short of time."
   },
   [273331] = {
-    "关于这点不用担心，最近我安排了不少出行计划，足够当做拍摄的素材。"
+    "You don't have to worry about that. I've made a lot of travel plans lately. You'll have more than enough to film."
   },
   [273400] = {
-    "去体验了手工蕾丝，比想象中的要有趣很多。"
+    "I gave handmade lace a try. It was more fun than I imagined."
   },
   [273410] = {
-    "花纹太多，我甚至已经开始感到迷糊了T T"
+    "There were so many patterns my brain seemed to jam. T T"
   },
   [273411] = {
-    "有个简单的方法，把它们看做一个个独立的几何线条，就很容易记住。"
+    "There's a simple way. See them as independent geometric lines and you'll find them easy to memorize."
   },
   [273420] = {
-    "我觉得你的课更难一点，从大家挠头的频率就能看出来。"
+    "I think your classes are more difficult. Your students were all scratching their heads."
   },
   [273421] = {
-    "这倒是个挺新鲜的角度，我想下次可以试着当做调整课程难度的依据。"
+    "That's actually a pretty novel perspective. Maybe I can try using it as a yardstick the next time I adjust the difficulty of my classes."
   },
   [273430] = {
-    "当我做完一个花边的时候，你的袖口都要做完了。"
+    "You had almost finished a sleeve when I finished my lace."
   },
   [273431] = {
-    "借鉴了一些之前和你一起做手工的经验，现在看来效果还不错。"
+    "I learned from my past experiences of making handicrafts with you, which proved to be pretty helpful."
   },
   [273500] = {
     "甜蜜既是一种快乐，也是一种隐痛。"
@@ -31582,88 +31622,88 @@ data = {
     "看来今年又是一个月满人圆的美好之夜了。"
   },
   [273800] = {
-    "移栽了一株植物到家里，没想到长势还不错。"
+    "Moved a plant into the apartment. Surprisingly, it's doing pretty well."
   },
   [273810] = {
-    "是什么值得研究的对象吗？"
+    "Oh? Is it something you're studying?"
   },
   [273811] = {
-    "植物本身很常见，不过它的成长过程的确很值得观察。"
+    "No, it's a pretty common plant. But the way it's been growing is interesting to watch."
   },
   [273820] = {
-    "一定是许教授用心呵护的结果~"
+    "Bet it's all thanks to Professor Lucien's expert care."
   },
   [273821] = {
-    "也少不了某位同学时不时发来“该浇水了”的提醒。"
+    "That, and someone who keeps texting me, \"Don't forget to water it.\""
   },
   [273830] = {
-    "如果开花了，记得喊我过去看！"
+    "If it blooms, you'd better let me come see it!"
   },
   [273831] = {
-    "花期就是这两三天，我想你很快就能看到了。"
+    "It's about to. Should be within the next couple of days. I think you'll catch it just in time."
   },
   [273900] = {
-    "原来毛绒小动物创口贴，还有让疼痛减轻的作用。"
+    "It turns out fluffy animal Band-Aids can ease pain too."
   },
   [273910] = {
-    "或许是注意力被可爱的东西转移，就不觉得痛了？"
+    "Maybe it's because lovely things distract you from your pain?"
   },
   [273911] = {
-    "嗯，看到因为我的小伤口忙前忙后的可爱小姑娘，的确是开心更多一点。"
+    "Yes. It does gladden my heart to see the lovely young lady bustling around because of my small wound."
   },
   [273920] = {
-    "不光是创口贴，我的“吹吹止痛魔法”也起效果了~"
+    "Not only the Band-Aid but also my \"Blow-off-the-pain Magic\" worked~"
   },
   [273921] = {
-    "不知道这项魔法的有效时间是多久，回家后可以再巩固一次吗？"
+    "I wonder how long this spell will last. Can you strengthen it when we get home?"
   },
   [273930] = {
-    "希望毛绒小动物能帮我提醒许教授，不要再把手指割伤啦！"
+    "I hope the fluffy animal will remind Professor Lucien not to cut his finger again!"
   },
   [273931] = {
-    "比起小动物，我认为还是$u的亲自提醒更有效。"
+    "Compared with a reminder from the animal, I believe one from $u will be more effective."
   },
   [274000] = {
-    "预测兔子障碍赛冠军这件事，远比想象中复杂。"
+    "Predicting the champion of an obstacle course was much more complicated than I imagined."
   },
   [274010] = {
-    "我支持的兔子选手是冠军哦，想知道我的预测秘籍吗？"
+    "I backed the winner. Wanna know my secret of accurate prediction?"
   },
   [274011] = {
-    "当然，不知道一束鲜花，够不够请$u老师晚上传授秘籍给我呢？"
+    "Of course. May I ask if a bouquet of flowers is enough to get Instructor $u to impart her secret skill to me tonight?"
   },
   [274020] = {
-    "你一直在场边笑眯着眼睛看，原来是在预测冠军啊！"
+    "So you were predicting the champion when you were smilingly watching from the sidelines with squinted eyes?"
   },
   [274021] = {
-    "那倒没有，我是在看这位给兔子选手做啦啦队的小朋友。"
+    "Not exactly. I was looking at the young lady cheering a bunny player on."
   },
   [274030] = {
-    "嘿嘿，许教授竟然也有预测失误的时候~"
+    "Tee-hee, it surprises me that sometimes even Professor Lucien makes wrong predictions."
   },
   [274031] = {
-    "我倒不觉得惊讶，毕竟我一直知道，兔子总是会给人惊喜。"
+    "Well, I'm not surprised, because I always knew that bunnies never ceased to surprise people."
   },
   [274100] = {
-    "课间看到一只抱着橡子的松鼠，想起了某个把橡子藏进抽屉的小姑娘。"
+    "At break time I saw a squirrel carrying an acorn, which reminded me of a young lady hiding an acorn in a drawer."
   },
   [274110] = {
-    "我今天打开抽屉才发现，那颗橡子的“帽子”掉下来了！"
+    "I opened the drawer today and found that its \"cap\" had dropped!"
   },
   [274111] = {
-    "没关系，我记下了松鼠“粮仓”的位置，晚上给你带一颗新的。"
+    "It's okay. I remember where the squirrel's \"storeroom\" is. I'll get you a new one tonight."
   },
   [274120] = {
-    "我的橡子就是跟在松鼠后面捡的，说不定我们看到的是同一只呢~"
+    "I found my acorn by following a squirrel too. Maybe the squirrels we saw were the same one."
   },
   [274121] = {
-    "这点我也不能确认，或许你今天下班的时候，可以来亲自辨认一下？"
+    "I'm not sure. Maybe you can come and verify it after work?"
   },
   [274130] = {
-    "没办法，橡子尝起来好苦，只能雪藏起来了QAQ"
+    "There's nothing I could do. Acorns taste really bitter. I could only hide it. QAQ"
   },
   [274131] = {
-    "橡子生食确实比较苦，但听说小吃街上的橡子豆腐味道不错，我们可以去试试。"
+    "Raw acorns are indeed bitter, but it's said the acorn tofu in the food court is pretty good. We can go try it."
   },
   [274200] = {
     "有时候，表露出孩子气或许可以视作一种情感表达的方式。"
@@ -31687,88 +31727,88 @@ data = {
     "你一直都是我的小朋友。"
   },
   [274300] = {
-    "被她带去“魔杖店”，挑选了一些新“魔杖”。"
+    "She took me to a \"magic wand shop\", and we picked up some new \"magic wands\"."
   },
   [274310] = {
-    "这根“魔杖”是全针管黑色墨水芯，0.5mm，13.5公分长，一定很适合你~"
+    "This \"wand\" is a 13.5cm long black ink refill with a 0.5mm needle tip. It'll suit you perfectly."
   },
   [274311] = {
-    "嗯，你推荐的“魔杖”用起来“墨力”顺畅，确实非常顺手。"
+    "The \"magic wand\" you recommended sure is smooth and magical to use."
   },
   [274320] = {
-    "这些笔芯都是我常用的牌子，是不是很好用！"
+    "This is my favorite refill brand. It's good quality, isn't it?"
   },
   [274321] = {
-    "是的，听说这个品牌还在举办文具展，周末要一起去看看吗？"
+    "Yes, I heard the brand is doing a stationery exhibition. Should we check it out this weekend?"
   },
   [274330] = {
-    "每次进文具店，都觉得进入了一个魔法世界~"
+    "Whenever I'm at a stationery shop, I feel as if I've entered a world of magic."
   },
   [274331] = {
-    "我想，是你的想象力赋予了它魔法。"
+    "It's your imagination that gives it magic."
   },
   [274400] = {
-    "研究所全员忙碌了一个下午，终于跟着教程拍出了一张满意的流浪猫托脸照。"
+    "It took a whole afternoon and the joint effort of the research center to finally take a proper photo of the stray cat resting his chin on arms, albeit following tutorials."
   },
   [274410] = {
-    "好可爱，想给小区的流浪猫也拍几张！"
+    "This is adorable. I want to take some pictures of the strays in our neighborhood, too!"
   },
   [274411] = {
-    "那晚上我们一起去找模特们吧，只要有罐头做报酬，它们应该会很积极。"
+    "Let's go look for the models tonight. They'll happily volunteer as long as there's canned food."
   },
   [274420] = {
-    "除了小猫的托脸照，我还想看别人的~"
+    "Now that I've seen the kitten's photo, I'd like to see someone else's, too."
   },
   [274421] = {
     "(┓￣︶￣┏)"
   },
   [274430] = {
-    "许教授负责拍摄的哪个部分？"
+    "Which part of the photoshoot is Professor Lucien in charge of?"
   },
   [274431] = {
-    "我负责安抚流浪猫，它似乎很喜欢你买的香水，一闻到就会乖乖趴好。"
+    "I helped to calm the cat down. He seemed to love your perfume and would lie down whenever he smelled it."
   },
   [274500] = {
-    "和“马路观察家”一起散步，路边微小的细节也变得绚丽起来。"
+    "Taking a walk with the city observer. Even the tiniest details on the streets become curious and colorful."
   },
   [274510] = {
-    "沿路的晾衣绳上挂满了五颜六色的床单，确实让秋天绚丽不少。"
+    "The autumn season does look more vibrant and alive with all the colorful bedsheets hanging by the roads to dry."
   },
   [274511] = {
-    "在我看来，让秋天绚丽的并不只是床单，还有身边的你。"
+    "To me, the season is more alive not only because of the bedsheets, but also because of you by my side."
   },
   [274520] = {
-    "今天有什么让你印象最深的细节吗？"
+    "Any detail today that is most memorable to you?"
   },
   [274521] = {
-    "有很多，比如欣赏树洞里的儿童画时，我们紧握的双手。"
+    "There are a lot. For example, our held hands when we looked at the children's drawings in the tree hollow."
   },
   [274530] = {
-    "和“人类观察家”一起散步，擦肩而过的人也充满了故事。"
+    "When I'm taking a walk with the human observer, every passerby has a story to tell."
   },
   [274531] = {
-    "那我们两人同行，就不会错过任何风景了。"
+    "As long as we walk together, we'll never miss anything interesting."
   },
   [274600] = {
-    "请其他实验室帮忙跑了几组数据，没想到送回的文件中还附赠上了几篇质量很高的相关文献。"
+    "Asked another lab to help run a few sets of data. Didn't expect them to throw in a couple of high-quality related papers along with the results."
   },
   [274610] = {
-    "这就是科研学者们的“买一送一”吗？"
+    "Whoa, is this like the academic version of \"buy one, get one free\"?"
   },
   [274611] = {
-    "下次和他们一起举办一场研讨会，当做回礼吧。"
+    "Might have to host a joint seminar with them next time as a thank you."
   },
   [274620] = {
-    "噗……想起来曾经和出版公司合作时，那边帮我们改了两处不规范用语。"
+    "Haha... reminds me of that time we worked with that publisher and they randomly fixed two of our typos."
   },
   [274621] = {
-    "看来，我们都受到了不少合作伙伴的关照。"
+    "Looks like we've both been lucky with our collaborators."
   },
   [274630] = {
-    "希望世上能多一些这样突如其来的好事~"
+    "I wish more nice surprises like that would just show up out of nowhere."
   },
   [274631] = {
-    "也希望这些事情都能来到你的身边。"
+    "I hope little surprises like that start showing up around you, too."
   },
   [274700] = {
     "Just used a \"magic hand sanitizer\" that a certain little witch cooked up, and my hands are pink for now."
@@ -31792,130 +31832,130 @@ data = {
     "Did it cast a love spell on me? Miss $u suddenly seems even cuter than before after I used it."
   },
   [274800] = {
-    "我好像遇到了一个格外粘人的小可爱。"
+    "Looks like I found a clingy little critter today."
   },
   [274810] = {
-    "嘿嘿，不知道和我本人比，谁更粘人？"
+    "Haha, who's more clingy, me or that little thing?"
   },
   [274811] = {
-    "它已经足够粘人了，但你在我面前，似乎怎么粘人都不“足够”。"
+    "It's certainly very clingy. But when it comes to you, there's no such thing as \"too clingy.\""
   },
   [274820] = {
-    "有这个“我”在，许教授就不会“一个人不可以”啦~"
+    "With that mini \"me\" around, you'll have no reason to say \"I can't do this on my own\" anymore, Professor Lucien~"
   },
   [274821] = {
-    "原来是这样的吗？看来为了达成目的，我得时不时刻意“冷落”它一下了。"
+    "Oh? Is that how it works? Guess I'll have to give it the \"cold shoulder\" from time to time to keep my attention focused on you."
   },
   [274830] = {
-    "做完就很心动，我也想要一个粘人的许教授小趴趴QAQ"
+    "It's so cute. Now I want a clingy mini-Professor Lucien plushie too! QAQ"
   },
   [274831] = {
-    "我在计划表里插入了一个“缝纫学习”的小计划，相信你可以很快见到它。"
+    "Already added sewing lessons to my schedule. Your wish will be granted real soon."
   },
   [274900] = {
-    "你的每一个梦里，都会有温柔的荧光。"
+    "Every dream of yours deserves to glow with the firefly's soft light."
   },
   [274910] = {
-    "怎么样，这个内置的萤火投影灯是不是很天才！"
+    "How genius is that built-in firefly lamp, huh?"
   },
   [274911] = {
-    "确实，小姑娘在给我制造惊喜这一点上，总是很有天赋。"
+    "Indeed. You really have a talent for surprising me, young miss."
   },
   [274920] = {
-    "你居然这么快就发现了它背后的隐藏拉链！"
+    "Can't believe you found the hidden zipper that fast!"
   },
   [274921] = {
-    "坦白讲，我刚刚拉开它的“身体”的时候，有一种虽不意外、却十分奇异的感觉。"
+    "Honestly, I wasn't surprised when I found out it could be opened, but it was certainly an interesting experience."
   },
   [274930] = {
-    "那我想要许教授和我在一个梦里，这样我们就都有萤火虫守护啦。"
+    "Then I want you in the same dream, Professor Lucien. That way, we can both be protected by the fireflies."
   },
   [274931] = {
-    "我很心动这个提议，不知道这位小姐的梦境入场券，可以在哪里购买到呢？"
+    "I love that idea. So tell me, my lovely miss, where can I buy a ticket into your dreams?"
   },
   [275000] = {
-    "那场来自过去的雪，不知不觉中已经抵达了未来。"
+    "It was a snow from the past that somehow reached the future."
   },
   [275010] = {
-    "那是一场很美的雪。"
+    "It was such beautiful snow."
   },
   [275011] = {
-    "尤其是当它们落在你发梢上的时候。"
+    "Especially when the snowflakes landed on your hair."
   },
   [275020] = {
-    "我会和你一起看未来的每一场雪~"
+    "I'll watch every snow in the future with you."
   },
   [275021] = {
-    "不论风雨雪落，我都在你身边，不会缺席。"
+    "I'll always be by your side, come rain or shine."
   },
   [275030] = {
-    "走在外面的时候，竟然感觉比城堡里暖和！"
+    "I felt warmer walking outside than staying in the castle!"
   },
   [275031] = {
-    "或许是因为，街道上的灯光暖洋洋的，你的笑容也很温柔。"
+    "Perhaps it was because the city lights were so warm, and your smiles matched them."
   },
   [275100] = {
-    "没想到小姑娘上周告诉我的秋天美食“六件套”，到了这周就变成“九件套”了。"
+    "The six autumn must-haves that my girl told me about last week have already become nine this week."
   },
   [275110] = {
-    "但我新加的火锅、烧烤和关东煮其实有点凑数，因为在别的季节我们也没少吃。"
+    "But the hotpot, barbecue and oden hotpot that I added are not technically for autumn, because we also have them in the other seasons."
   },
   [275111] = {
-    "季节性的食物总是有限，但我想最重要的还是一起品尝的人。"
+    "Seasonal foods are rare treats, but I think what's more important is whom we eat them with."
   },
   [275120] = {
-    "嘿嘿，就是全部吃完可能得长不少秋膘~"
+    "The downside is all the weight we'll put on if we finish them all."
   },
   [275121] = {
-    "或许我们可以增加散步的次数，因为除了美食，我还想和$u体验更多的秋意。"
+    "We'll take more walks together then, because I want to enjoy everything about the season with $u, not just the food."
   },
   [275130] = {
-    "可是秋天快要结束了，我们好像没有时间把它们都品尝一遍了！"
+    "But, the season is almost over. We might not have enough time to try them all!"
   },
   [275131] = {
-    "那或许我们可以早些制定冬天的美食套件，把来不及品尝的留给下一个秋天的我们。"
+    "Maybe we can draw up a plan for winter cuisine early. We can save the ones that we missed this year for next autumn."
   },
   [275200] = {
-    "今天发现办公室桌的工牌被$u小小“修改”过，让每个进来的同事都笑了。"
+    "I noticed that $u tweaked the nameplate in my office. Every colleague who saw it laughed."
   },
   [275210] = {
-    "你好啊，可爱的小松“许”教授~"
+    "Hi there, adorable Professor Lulucien."
   },
   [275211] = {
-    "^^看到之后我也给这位小姐想了几个称呼，希望它们也能被你采用。"
+    "^^ I also came up with a few nicknames for this lady. Hope you'd use them, too."
   },
   [275220] = {
-    "是不是有些太不严肃了……"
+    "Is it a bit too much..."
   },
   [275221] = {
-    "不会，来汇报的人都因为你的工牌放松了不少。"
+    "No, everyone who came in for work loosened up because of the nameplate."
   },
   [275230] = {
-    "你就这么确定是我改的工牌吗？"
+    "How can you be so sure I did that?"
   },
   [275231] = {
-    "毕竟我身边能想出“小松‘许’教授”这种可爱称呼的人，只有你了。"
+    "After all, you are the only one I know who would come up with adorable nicknames like Lulucien."
   },
   [275300] = {
-    "在整理一位老教授的手札时，翻到了当年他给教授夫人做雪花膏的配方。"
+    "I was sorting out an old professor's notebook when I found a recipe he used to make facial cream for his wife."
   },
   [275310] = {
-    "哇~亲手给夫人做的雪花膏，老教授好浪漫~"
+    "Wow, homemade facial cream for his wife. He must be a romantic!"
   },
   [275311] = {
-    "看来我在这方面也要继续努力，毕竟我也想听到这样的称赞。"
+    "I'll work harder on that, then. I want to hear you call me romantic, too."
   },
   [275320] = {
-    "自制雪花膏？听起来很有趣！"
+    "Homemade facial cream? Sounds fun!"
   },
   [275321] = {
-    "配方我已经记下了，不如周末我们一起制作看看？"
+    "I've noted down the recipe. Should we try it this weekend?"
   },
   [275330] = {
-    "感觉可以跟我们之前的调香体验课联动！做出最独一无二的雪花膏~"
+    "It'll work well with the perfume-making class! Customize your one-and-only facial cream."
   },
   [275331] = {
-    "这样每次用雪花膏的时候，$u是不是都会想到我呢？"
+    "Will $u think of me whenever she uses facial cream?"
   },
   [275400] = {
     "一则失物招领，有位冒失的小姐把她的解压捏捏仓鼠忘在我的口袋里了。"
@@ -31960,214 +32000,214 @@ data = {
     "如果是“珍贵的人生片段”我有很多，但这些，还是在只有我们两个人的地方分享吧。"
   },
   [275600] = {
-    "为了更好地匹配某位小姐挑选的这身万圣装扮，我也额外准备了一些道具。"
+    "To match the costume a certain young lady picked, I prepared a few extra props of my own."
   },
   [275610] = {
-    "确实有了犄角和眼镜更加锦上添花了。"
+    "The horns and glasses really pull it all together."
   },
   [275611] = {
-    "那$u想检查一下，我对这个角色的其他研究吗？"
+    "Wanna take a closer look, $u? I've done thorough research on this character."
   },
   [275620] = {
-    "果然不管什么样的look，只要在许教授身上都很浑然天成。"
+    "You really can pull off any look, huh, Professor Lucien?"
   },
   [275621] = {
-    "可是我总觉得还缺点什么，我想有你在身边它才算完整。"
+    "Still feels like something's missing... probably because you're not standing next to me yet."
   },
   [275630] = {
-    "承认吧，许老师，其实你也很期待吧！"
+    "Come on, admit it, Professor Lucien. You were hyped for this, too!"
   },
   [275631] = {
-    "我从不否认。何况看到这样的我时，你的反应会带给我更多的惊喜。"
+    "I won't deny it. Especially not when your reaction is the best part of the whole outfit."
   },
   [275700] = {
-    "传说中拥有这张金色礼券的人，只要念出恶魔的名字，就可以召唤他。"
+    "Legend says, whoever holds this golden voucher just has to say the devil's name, and he'll appear."
   },
   [275710] = {
-    "那岂不是我可以随时把“恶魔教授”召唤到身边？"
+    "Wait, that means I can summon the \"Demon Professor\" anytime I want?"
   },
   [275711] = {
-    "当然，希望这位小姐已经做好接受他所有恶魔心思的准备了。"
+    "Sure, just make sure you're ready for everything that comes with him."
   },
   [275720] = {
-    "恶魔先生的礼物听起来有些小小的危险呢。"
+    "Hmm... your gift sounds a little dangerous, Mr. Devil."
   },
   [275721] = {
-    "可是看这位小姐玩着我尾巴的样子，似乎也没有打算逃跑的意图。"
+    "Well, judging by how you're playing with my tail, you're clearly not planning to run away."
   },
   [275730] = {
-    "我还没有想好要送你什么礼物好呢！"
+    "I still haven't figured out what to get you yet!"
   },
   [275731] = {
-    "接受它，就是$u送给我最好不过的礼物了。毕竟恶魔自然不会空手而归。"
+    "Just accepting my gift is more than enough, $u. Demons never leave empty-handed, after all."
   },
   [275800] = {
-    "跑团是一门兼具想象力和严谨的学问。"
+    "A great game balances creative freedom with solid logic."
   },
   [275810] = {
-    "如意镇的体验太好了，回来就忍不住约了好多场次的跑团！"
+    "Ruyi Town was SO much fun. I've already booked us for like three more games!"
   },
   [275811] = {
-    "可惜如意镇的人物卡被收回了，不过这也意味着，我们可以开启新的旅程。"
+    "Gonna miss those characters... but it also means we can start a new journey."
   },
   [275820] = {
-    "这就是NPC家里没人的时候，你不建议我直接踹门的原因吗QAQ"
+    "OHHHH. So THAT's why you stopped me from kicking the door down! QAQ"
   },
   [275821] = {
-    "其实是因为，主持人问的那句“你确定吗？”听起来实在是有些不妙(°ー°〃)"
+    "Let's just say... when the GM hits you with that \"Are you really sure?\" in that tone, it's a major red flag. (°ー°〃)"
   },
   [275830] = {
-    "可能是我的想法太天马行空了，我能看得出来主持人很明显在临时编剧情！"
+    "Okay, I might have gone off the rails a bit. Pretty sure the GM was totally winging it to keep up!"
   },
   [275831] = {
-    "“条条大路通罗马”，恭喜小姑娘找到了跑团最有趣的环节。"
+    "\"The fun is in the detours.\" Congratulations, my little miss—you've unlocked the best part of RPGs."
   },
   [275900] = {
-    "从今天开始，和小姑娘一起学习一门新语言。"
+    "From now on, I'm learning a new language with a young miss."
   },
   [275910] = {
-    "学习进度差点死在了识字母这一步，这一家子看起来长得也太像了！"
+    "I almost couldn't get past the alphabet. The letters all look the same!"
   },
   [275911] = {
-    "但你给字母涂鸦的方式很有效，一下就让枯燥的记忆过程变得鲜活起来。"
+    "But your idea to scribble on the letters works wonders. It makes memorizing them less boring."
   },
   [275920] = {
-    "我们互相提醒，不要忘记每天在学习app上打卡哦。"
+    "Let's remind each other, and don't forget the daily tasks on the learning app."
   },
   [275921] = {
-    "好，我看到app上还有组队任务，这位同学愿意带我一起试试吗？"
+    "No problem. I also saw team tasks on the app. Will you team up with me?"
   },
   [275930] = {
-    "说是新语言，可我怎么觉得你好像有基础呢0.0"
+    "You say it's a new language, but why do I feel like you know the basics? 0.0"
   },
   [275931] = {
-    "只是曾经读到一首诗说“爱情只有一只眼”，好奇地去了解了一下原文。"
+    "I read a poem once that says \"Love only has one eye,\" so I got curious and studied the original text."
   },
   [276000] = {
-    "午后路过旧书店收获了一本小书，书名叫做《今天买什么菜》。"
+    "Came across a book at an old bookstore this afternoon. It's titled What We Buy for Dinner Today."
   },
   [276010] = {
-    "我上次去找你时也看到了，店里的大胖猫一直压着它不让我拿QAQ"
+    "I saw it last time I went to your place, but the chubby cat at the store kept it all to himself. QAQ"
   },
   [276011] = {
-    "今天它也趴在上面，一直对着书里的“香煎肥鱼”流口水。"
+    "He was still lying on it today and drooling over the Fried Fish pic in the book."
   },
   [276020] = {
-    "封面上的简笔画也很可爱，一对情侣边买菜边聊天，超级有生活感～"
+    "The doodles on the cover are adorable—like a slice of life of a couple chatting while shopping."
   },
   [276021] = {
-    "嗯，就跟生活中的我们一样。"
+    "Yes, like us in our day-to-day life."
   },
   [276030] = {
-    "所以书里说今天要买什么菜呢？"
+    "So, what does the book suggest we buy for dinner today?"
   },
   [276031] = {
-    "是冬荷炒鸭片的食材，看起来很有难度，恐怕要你和我一起才能实现了。"
+    "Stir-fried duck slices with winter melon and lotus leaves. Looks challenging. I'm afraid we'll have to make it together."
   },
   [276100] = {
-    "整理抽屉时翻出一套旧版的外国纸币，让人回忆起细雨绵绵的旧时光。"
+    "Found a set of old foreign banknotes while sorting the drawers. It brought back memories of those rainy days."
   },
   [276110] = {
-    "我也想看着纸币，听许教授展开讲讲旧时光的故事~"
+    "I want to see them and listen to Professor Lucien talking about those rainy days."
   },
   [276111] = {
-    "好，我已经准备好了奶茶和茶点，等你回来慢慢说。"
+    "Okay. Bubble tea and desserts are ready. I'll tell you all about it when you come home."
   },
   [276120] = {
-    "旧版纸币和新版有什么不同啊？"
+    "What's the difference between the old and new banknotes?"
   },
   [276121] = {
-    "旧版更有那个国家文化的特色，下次我们去那里旅行的时候，可以亲眼对比一下。"
+    "The old ones are more culturally distinct. You can compare them in person next time we visit the country."
   },
   [276130] = {
-    "除了纸币，这次整理还发现了好多过去的纪念品，有点沉浸在回忆里了。"
+    "Not only the banknotes, but we also found a lot of old souvenirs this time. It brought back so many memories."
   },
   [276131] = {
-    "重温过去的时光固然温馨，看到小姑娘发现它们时露出的笑容，更让人心情愉悦。"
+    "Memories of the past are heart-warming, but I'm more pleased to see your smile when you found those souvenirs."
   },
   [276200] = {
-    "当个体感到休息也无法修复疲惫时，更多是因为心理上的“过劳”。"
+    "When an individual still feels tired after rest, they are probably psychologically burned out."
   },
   [276210] = {
-    "那该怎么“治”啊？许教授QAQ"
+    "How do we fix that, Professor Lucien? QAQ"
   },
   [276211] = {
-    "书上推荐的办法是“从心所欲”，不如我们一起慢慢实践？"
+    "\"Follow your heart,\" according to the books. We can learn to do that together."
   },
   [276220] = {
-    "可我还是感觉，什么都还没做就累了。"
+    "But why do I still feel tired even when I haven't done anything?"
   },
   [276221] = {
-    "这反而说明制作人小姐每天都做了足够丰富的事情，只是你很少刻意记得而已。"
+    "It's because you have a full schedule every day, Miss Producer. You just rarely recount what you do."
   },
   [276230] = {
-    "难怪我越来越容易困，有时还不记得本来要去干什么了……"
+    "No wonder I get tired so easily. Sometimes I even forget what I set out to do..."
   },
   [276231] = {
-    "我好像也明白了——为什么某位小姑娘经常会突然就靠到我身边来了。"
+    "Now I understand why this girl often appears by my side for no reason."
   },
   [276300] = {
-    "被某位小姐随手从荻花丛里解救的雀鸟有了新名字——潦草小黄。"
+    "The bird that you saved from the reeds has a new name—Scruffy."
   },
   [276310] = {
-    "虽然它被荻花弄得发型潦草了，但依然是一只不失时尚的精神小鸟!"
+    "The reed may have tousled its hair, but it's still fashionable and charming!"
   },
   [276311] = {
-    "仔细看看也很像你最近给床边玩偶做的新造型，都有几分令人心动的可爱。"
+    "Now I've taken a closer look, it also matches the new look you gave your bedside toys. They're all adorable."
   },
   [276320] = {
-    "荻花松松软软，如果我是小鸟，也会忍不住凑上去蹭蹭的。 "
+    "Reed is so fluffy. I'd rub against it if I were a bird myself."
   },
   [276321] = {
-    "看来我应该带一束荻花回去，这样家里或许会多出一角可爱的图景。"
+    "I should've brought a bouquet home. It'll be so adorable seeing you do that."
   },
   [276330] = {
-    "小黄该不会要一辈子顶着这个发型了吧？ "
+    "Will the hairstyle stay with Scruffy for the rest of its life?"
   },
   [276331] = {
-    "我相信它会遇到一只和这位小姐同样好心的小鸟，为它梳理好羽毛的。"
+    "I'm sure it'll meet another bird as kind-hearted as you who'll brush its feathers for it."
   },
   [276400] = {
-    "我被世界拥抱。"
+    "I am embraced by the world."
   },
   [276410] = {
-    "嘿嘿，世界哪有这么小啦！"
+    "Heh, the world ain't that small, you know!"
   },
   [276411] = {
-    "你出现的时候，便已经框定了世界的大小。"
+    "When you appeared in my life, you became the definition of its size."
   },
   [276420] = {
-    "那我就是——即将被世界拥抱~"
+    "Then that means the world is about to embrace me, too!"
   },
   [276421] = {
-    "从下一秒开始，就永远都不要松手了。"
+    "From the very next second, don't ever let go."
   },
   [276430] = {
-    "那我要把所有的幸福和真理都送给你！"
+    "Then I'm giving you all the joy and truth in the world!"
   },
   [276431] = {
-    "作为回报，我只好永远对你保持热诚和探究了。"
+    "In that case... I'll have to remain endlessly curious about you, forever."
   },
   [276500] = {
-    "调制的时候，不小心把心也融了进去，能帮我找找吗？"
+    "Oops, I think I mixed a bit of my heart into this. Care to find it?"
   },
   [276510] = {
-    "找到了找到了！给你~ヽ(✿ ﾟ▽ﾟ)ノ❤"
+    "Found it! Sending it right back to you!ヽ(✿ ﾟ▽ﾟ)ノ❤"
   },
   [276511] = {
-    "我接住了，珍藏起来^_^ノ❤"
+    "Caught it. It's in good hands. ^_^ノ❤"
   },
   [276520] = {
-    "报告许老师，我好像只找到了很香的香膏！"
+    "Mission report: the only evidence found is an incredibly fragrant balsam, sir."
   },
   [276521] = {
-    "那就让心意化作香气，偷偷靠近你吧。"
+    "Then let the fragrance carry my heart... and find its way to you."
   },
   [276530] = {
-    "我把你的心私藏下来啦，不知道可不可以把我的心交换给你？"
+    "I might have to keep your heart for myself. Can I give you mine in return?"
   },
   [276531] = {
-    "好。那以后，就让我们一起调制彼此的心意吧。"
+    "More than okay. Then from now on, let our hearts be blended as one."
   },
   [276600] = {
     "世间的坚硬，总有巧妙之道可解。"
@@ -32212,130 +32252,130 @@ data = {
     "是说那些芥末味的夏威夷果吗？小姑娘的嘴还好吗？(°ー°〃)"
   },
   [276800] = {
-    "在她的口中，一切美景都被赋予了别样的甜蜜。"
+    "She turns every beautiful thing into something even sweeter."
   },
   [276810] = {
-    "你说的是橘子果汁海滩和芋泥紫薯天空吗？"
+    "You mean the Orange Splash Beach and Purple Sweet Potato Sky?"
   },
   [276811] = {
-    "嗯，当你不在时，它们只是海滩和天空。"
+    "Exactly. But when you're not around, they're just a beach and a sky."
   },
   [276820] = {
-    "其实我只是想吃点热乎乎甜蜜蜜的东西，海边实在太冷了QAQ"
+    "Okay, but I really wanted something warm and sweet—it's freezing out here! QAQ"
   },
   [276821] = {
-    "那么牵着我的手，一起去咖啡馆里坐一会儿吧。"
+    "How about my hand and a hot drink? There's a coffee shop nearby."
   },
   [276830] = {
-    "你不是也立马举一反三，指出了布朗尼礁石嘛~"
+    "You caught on quickly—you even added \"Brownie Rocks\" to the map!"
   },
   [276831] = {
-    "因为我有一个好老师，自然很快就能学到要领。"
+    "That's because you're such an inspiring teacher."
   },
   [276900] = {
-    "某位小朋友一鼓作气爬到山顶的计划，就这么措手不及地被半路出现的趣味冬瓜墙打乱了。"
+    "Well, there went our direct route to the top. We've been completely sidetracked by a rather artistic wall of gourds."
   },
   [276910] = {
-    "太可爱了！为什么冬瓜会被打扮得漂漂亮亮地出现在半山腰的岩壁上啊啊啊！"
+    "HOW are those melons so adorable?! Who puts art on a cliff?!"
   },
   [276911] = {
-    "这附近有个采摘园，园主把沿途的蔬果装饰起来作为路标，要一起去逛逛吗？"
+    "There's a pick-your-own farm nearby—the owner decorated them as trail markers. Wanna check it out together?"
   },
   [276920] = {
-    "定计划的时候只在憧憬登顶之后的场景，没料到路上会有这么多有意思的偶遇~"
+    "I was so focused on the view from the top, I never expected such fun surprises along the way!"
   },
   [276921] = {
-    "或许随机性也是旅途重要的魅力之一。"
+    "Maybe that's the best part of a journey—you never know what you'll find."
   },
   [276930] = {
-    "本想在山顶歇息，但现在又有点被冬瓜墙上贴的夜间寻宝活动吸引了……"
+    "I was ready to rest at the peak, but now this melon wall's \"night treasure hunt\" is calling my name..."
   },
   [276931] = {
-    "既然如此，那我们今晚的帐篷就搭在附近吧。"
+    "How about we camp nearby tonight? Wouldn't want to miss out."
   },
   [277000] = {
-    "以清水为墨、茶匙为笔，在茶汤上静心描画。"
+    "A moment of calm, painting on tea. My medium is water; my brush, a spoon."
   },
   [277010] = {
-    "许教授的作品细节饱满，很难让人相信也是第一次体验茶百戏……"
+    "The detail is incredible! It's hard to believe this is your first time."
   },
   [277011] = {
-    "毕竟描摹的是我最熟悉的$u，再加上有点绘画基础，所以能完成得还不错^ ^"
+    "It helps that I was picturing someone very familiar. And let's just say my sketching skills came in handy.^ ^"
   },
   [277020] = {
-    "为什么看你画感觉轻轻松松，我自己上手却四处碰壁呢QAQ"
+    "This is way harder than you make it look! Teach me your ways!"
   },
   [277021] = {
-    "看来今天，我又可以获得一次向$u教学的机会。"
+    "It would be my pleasure. Shall we begin your lesson now?"
   },
   [277030] = {
-    "模特本人表示画得很生动，好喜欢~"
+    "As the model, I give it my highest praise!"
   },
   [277031] = {
-    "是因为$u本身足够美好，所以我呈现出来的画面才能如此富有生机。"
+    "Any beauty in this art is merely a reflection of its muse."
   },
   [277100] = {
-    "那包不见的糖炒栗子，原来一直藏在她的帽兜里。"
+    "The missing bag of sugar roasted chestnuts had been hiding in her hood the whole time."
   },
   [277110] = {
-    "因为我腾不出手拿它嘛……没想到最后自己都忘记了。"
+    "I had no hand for it... I didn't think I'd forget completely about it."
   },
   [277111] = {
-    "下次要去超市大量采购的时候也叫上我吧，那边还有一家烤红薯的味道也很不错。"
+    "I'm joining you next time you're going grocery shopping. I know a place with good roasted sweet potatoes."
   },
   [277120] = {
-    "但因为一直在帽兜里捂着，所以吃的时候还是暖暖的哦~"
+    "It was still warm because it had been in my hood."
   },
   [277121] = {
-    "嗯，还很香甜。"
+    "Yes, sweet and warm."
   },
   [277130] = {
-    "太丢人了……请你把最后的画面忘掉……"
+    "I'm so embarrassed... Please forget what you saw in the end..."
   },
   [277131] = {
-    "我可能无法答应，因为蹦蹦跳跳后从背后蹦出几颗栗子的$u实在很可爱。"
+    "Sorry, but I can't. $u was too adorable when chestnuts bounced out of her hood."
   },
   [277200] = {
-    "树上掉落的梅花枝条，正好是一只发簪的形状。"
+    "The plum bloom branch that fell from the tree is shaped like a traditional hairpin."
   },
   [277210] = {
-    "然后正好可以簪在我的头上~"
+    "And it fits perfectly in my hair!"
   },
   [277211] = {
-    "虽然我只是“借花献$u”,但它的确和你今天的装扮很搭配。"
+    "It was a coincidence that I found it, but it did match your outfit today, $u."
   },
   [277220] = {
-    "上面的梅花还被冰冻住了，看起来好像冰糖葫芦！"
+    "The plum blooms were frozen, too. Looks a lot like sugar-coated haws."
   },
   [277221] = {
-    "虽然这串冰糖“梅花”不能食用，但我曾经在书上看到过梅花齑的做法，今晚要一起尝试看看吗？"
+    "These sugar-coated plum blooms aren't edible, but I've read about making pickled plum blooms. Are we trying it tonight?"
   },
   [277230] = {
-    "我也要找一朵最好看的梅花别在你的耳朵上，让你喜上“梅”梢！"
+    "I'll find the prettiest plum bloom and tuck it behind your ear, too. It'll be a good wish!"
   },
   [277231] = {
-    "能在这样的日子里和你赏梅，就已经足够让我喜悦了^^。"
+    "I'm happy enough to enjoy plum blossoms with you on a day like this ^ ^."
   },
   [277300] = {
-    "在“看礼物盒猜礼物”的游戏中大获全败，归功于某位努力把礼物包成“四不像”的小姑娘。"
+    "I lost the \"Guess the Gift\" game thanks to a certain girl who wrapped it in the weirdest package."
   },
   [277310] = {
-    "只是对礼物盒的形状进行了一些创意性的改造~许教授再接再厉！"
+    "I just made some creative changes to the shape of the box. Better luck next time, Professor Lucien!"
   },
   [277311] = {
-    "已经从这次失败中吸取到了经验，下次我会尝试在送礼物的人身上寻找突破口。"
+    "I've learned from my mistakes. Next time, I'll try to get my hints from whoever packaged the gift."
   },
   [277320] = {
-    "过程不重要，重要的是这份礼物你喜欢吗？"
+    "The process doesn't matter—the point is if you like the gift. So, do you like it?"
   },
   [277321] = {
-    "承载了我们共同回忆的礼物，得到的过程也很有趣，我找不到不喜欢的理由。"
+    "It's a symbol of our shared memories, and I had fun opening it. I have no reason not to like it."
   },
   [277330] = {
-    "一下子就能被猜到的礼物就没有这么惊喜了！"
+    "A gift that you can guess right away wouldn't be a surprise!"
   },
   [277331] = {
-    "但今天最大的惊喜，还是这位小姑娘得逞的表情。"
+    "The greatest surprise I got today was the smug look on the young lady's face."
   },
   [277400] = {
     "跋山涉水之后看到的风景，总是第一眼就惊艳。"
@@ -32443,25 +32483,25 @@ data = {
     "那一定会成为这个新年最可爱的风景线。我现在就有些迫不及待，想等到明天的来临了。"
   },
   [277900] = {
-    "家里的盆栽家族，加入了一位色泽明艳的“新同学”。"
+    "Look, our little plant family has a vibrant new member."
   },
   [277910] = {
-    "花菱草！是新买到的吗？"
+    "Oh, a golden poppy! Did you get it today?"
   },
   [277911] = {
-    "对，可能因为有些像你开心时明媚的笑脸，让我在花店里一眼就看中了。"
+    "Yes. The moment I saw it, it reminded me of your smile, and I just had to bring it home."
   },
   [277920] = {
-    "为了欢迎新同学，今晚开个“迎新会”吧！"
+    "We should throw a \"welcome party\" for our new friend tonight!"
   },
   [277921] = {
-    "是个不错的主意，正好课间听同学们推荐了一家你可能会喜欢的餐馆。"
+    "Great idea! A few of my students mentioned a place earlier, and it sounds like the perfect spot for you."
   },
   [277930] = {
-    "本周末的绘画素材有了，就差一名抱着花的模特啦~"
+    "Perfect! That takes care of my weekend painting. Now, if only I had a model to hold these flowers..."
   },
   [277931] = {
-    "当然没问题，我永远都很乐意成为你画布中的主角。"
+    "I'd be delighted to help! I'm always happy to be the star of your canvas."
   },
   [278000] = {
     "原来在她眼里，投茶可以被视作一场茶叶与水的相遇。"
@@ -32506,46 +32546,46 @@ data = {
     "这位同学过来吧，我很愿意慢慢教你。"
   },
   [278200] = {
-    "发现了某位小姑娘的画作——《在雨中凌乱的小狗》，原来简单的线条也可以很传神。"
+    "Found a charming sketch titled \"Puppy in the Rain.\" Remarkably expressive for such simple lines."
   },
   [278210] = {
-    "如果小狗会说话，它一定在说：雨——好——大——"
+    "That puppy's inner dialogue is just, \"Rain. Why. So. Much. Rain.\""
   },
   [278211] = {
-    "看着画面里的小狗，耳畔却仿佛回响起$u的声音，的确是一种奇妙的感受。"
+    "It's funny—I can perfectly imagine your voice saying that. It made my day."
   },
   [278220] = {
-    "凌乱的不止小狗，还有没带伞的我QAQ"
+    "I felt a spiritual connection with that puppy. Also got caught in the rain today. QAQ"
   },
   [278221] = {
-    "这位凌乱的小姑娘现在在哪里？我带上了伞，来接你回家。"
+    "Where are you? I'm coming to you."
   },
   [278230] = {
-    "雨中的小狗提醒许教授，下雨天好冷，记得多穿点哦！"
+    "Consider this puppy your daily reminder: wrap up warm, Professor!"
   },
   [278231] = {
-    "有了$u同学亲自为我挑选的风衣，应该足够抵御寒冷了。"
+    "Not to worry. I'm wearing the coat my favorite consultant chose for me. It's like having you here."
   },
   [278300] = {
-    "和$u一起尝试了北非家庭餐馆，最受欢迎的一道菜名叫做“家的味道”。"
+    "Tried a North African family restaurant with $u. Their signature dish? Called \"Homestyle.\""
   },
   [278310] = {
-    "好像在恋语市街头菜馆也看过不少类似的标语呢，这就叫“世界通用话术”？"
+    "That name is everywhere here too. Kinda charming how universal it is."
   },
   [278311] = {
-    "或许这也说明，身处不同地方的人们都会对记忆深处的口味念念不忘。"
+    "It really is. \"Homestyle\" might be the most universal menu item. We're all just searching for that feeling."
   },
   [278320] = {
-    "对餐厅食物的最高评价——有家的味道！"
+    "When food makes you feel at home, that's the highest compliment."
   },
   [278321] = {
-    "那么对我来说，对于食物的最高评价大概就是……会想和$u一起品尝的味道。"
+    "For me, the highest compliment a dish can get is that it makes me want to share it with you."
   },
   [278330] = {
-    "不止味道，连餐厅的布置都很有家庭的氛围！"
+    "They really captured the feeling. Everything felt so lived-in and cozy."
   },
   [278331] = {
-    "我也很喜欢这场炉火前的“家庭聚餐”，还有喝完热汤后小姑娘满足的笑脸。"
+    "Sitting with you by the fire, seeing how happy the soup made you... that was the real homestyle."
   },
   [278400] = {
     "由于不少研究员报名了“为企鹅织毛衣”活动，大家打算组织一次针织技巧研讨会。"
@@ -32611,67 +32651,67 @@ data = {
     "说明你以后想要买喜欢的东西时，不需要有“家里放不下”的后顾之忧了。"
   },
   [278700] = {
-    "和$u闲逛度假地街头，意外被当地居民邀请，打了一场排球比赛。"
+    "We were just wandering around town and got roped into a pick-up volleyball game by some locals."
   },
   [278710] = {
-    "这座南方小城冬阳灿烂，人也同样热情！"
+    "You can't beat this winter sunshine or the friendly vibes here!"
   },
   [278711] = {
-    "看来这位小姐以后的“故地重游”名单上，又可以增加一个新选项了。"
+    "I guess your list of \"Places to Go Back To\" just got a new entry."
   },
   [278720] = {
-    "好奇他们是怎么看出我们不会抗拒上场一起玩耍的……"
+    "Wonder what gave them the idea that we'd be up for a random game?"
   },
   [278721] = {
-    "毕竟某位驻足观赛的小姑娘已经在场边兴奋得手舞足蹈了^ ^"
+    "Maybe the fact that a little miss was already cheering and doing little dances on the sidelines. ^ ^"
   },
   [278730] = {
-    "今天我们好几个球的传递都行云流水，有种合二为一的感觉~"
+    "We were so in sync today with our passes! Felt like we had a real mind-meld going."
   },
   [278731] = {
-    "我也感觉，和某位同学的配合好像越来越默契了。"
+    "We really were. It's nice to feel that connection growing so naturally."
   },
   [278800] = {
-    "面对孤独和虚无的迷雾，或许最好的对策不是执着于消解，而是尝试与之和平共处。"
+    "Maybe the trick to dealing with loneliness isn't fighting it, but learning to live with it."
   },
   [278810] = {
-    "怎么了，是突然觉得心情不好吗？"
+    "You okay? That was a heavy thought."
   },
   [278811] = {
-    "不用担心，只是刚看完一篇随笔，所以有感而发。"
+    "I'm good—just something that hit me after finishing an essay."
   },
   [278820] = {
-    "可是应该如何“和平共处”呢，如果内核不够强大，似乎很容易被它吞噬……"
+    "But how do you actually live with it? Without a solid foundation, it feels like it'd just consume you."
   },
   [278821] = {
-    "大概类似于，真正探入自己的内里，去拥抱那份脆弱。"
+    "For me, it's about looking inward and learning to embrace vulnerability."
   },
   [278830] = {
-    "要是许教授身陷这团迷雾，我会帮你和它“谈判”的~"
+    "Well, if you ever get lost in that fog, I'll be your guide."
   },
   [278831] = {
-    "好。不过自从有了$u的爱与陪伴，我就几乎已经与这团迷雾达成了平衡状态。"
+    "Aww, thanks. Honestly? Since $u came into my life, that fog has mostly lifted. Your love filled a space I didn't even know was empty."
   },
   [278900] = {
-    "在水族馆里过夜，是一次如同太空漫游般的特别经历。"
+    "Spent the night in the aquarium tunnel. It felt like drifting through space."
   },
   [278910] = {
-    "感觉玻璃后面的鱼群就像是漂浮在水里的星星~"
+    "The fish behind the glass looked just like stars floating in water."
   },
   [278911] = {
-    "当鱼群向你游过来时，仿佛所有星光都在为你绽放。"
+    "And for a moment, when they all swam toward you, it was like all those stars bloomed just for you."
   },
   [278920] = {
-    "但我睡着得太快了呜呜呜，实际体验感只有两小时……"
+    "But I fell asleep way too fast! My \"full experience\" lasted maybe two hours... T_T"
   },
   [278921] = {
-    "我录下了你在鱼群倒影里熟睡的视频，这夜的神奇故事，我可以慢慢讲给你听。"
+    "I caught some beautiful video of you sleeping with the fish drifting by. Consider me your personal narrator for the rest of the night."
   },
   [278930] = {
-    "最神奇的是浮潜时我们还遇见了海豚，它们静静环绕四周，像是毫不设防~"
+    "The absolute best part was snorkeling with the dolphins! They just swam around us, so calm and trusting."
   },
   [278931] = {
-    "我想或许是因为喜欢，所以才会靠近你、无条件信任你。"
+    "I think they could tell. You have a way of making even wild creatures feel safe enough to come close."
   },
   [279000] = {
     "最近实验室里的咖啡“失宠”了，研究员们都喝起了“提神聪明汤”。 "
@@ -32820,47 +32860,89 @@ data = {
   [279631] = {
     "我准备的是双人份，毕竟我也想试试给某位同学“打扮”一下。"
   },
+  [279800] = {
+    "Biggest regret today: Missing Miss Producer's carefully planned dinner."
+  },
+  [279810] = {
+    "Given your justified cause and the experiment's urgency, I'll let it slide this time."
+  },
+  [279811] = {
+    "Please let me make it up to you. How about I handle all the dinner planning for next week?"
+  },
+  [279820] = {
+    "I'll take this as an IOU for a future dinner with you, Professor Lucien."
+  },
+  [279821] = {
+    "I'll be happy to see you redeem it anytime."
+  },
+  [279830] = {
+    "Hahaha, you didn't have to punish yourself publicly on social media like that!"
+  },
+  [279831] = {
+    "I was simply sharing our precious moment. That's hardly a punishment to me."
+  },
   [279900] = {
-    "最近翻开书时，总会与夹在书页间的花朵不期而遇。"
+    "Been finding a lot of pressed flowers in my books recently."
   },
   [279910] = {
-    "感谢科学为我们的干花贡献了一份力量！"
+    "Gotta love modern flower-pressing!"
   },
   [279911] = {
-    "也感谢$u同学发现美的眼睛，总能找到身边的美好。"
+    "I think the real magic is how you always find beauty in the everyday."
   },
   [279920] = {
-    "今天在哪本书里发现了什么花呀？"
+    "So, what was today's find?"
   },
   [279921] = {
-    "在玛尔伦·豪斯霍费尔的长篇小说里，发现了一朵酢浆草的花，也算是个很美的巧合。"
+    "A little oxalis flower in a book by Marlen Haushofer. A lovely bit of serendipity."
   },
   [279930] = {
-    "为了不“迫害”你的书，我们是不是直接买个干花压制机比较好？"
+    "We should get a real flower press to save your books from more \"flower crimes.\""
   },
   [279931] = {
-    "虽然这会大大增加效率……但我还是喜欢这样偶遇惊喜的瞬间。"
+    "It would get the job done... but I'd miss the charm of stumbling upon them unexpectedly."
   },
   [280600] = {
-    "做完了干花瓶，才发现有一朵小花落队了。"
+    "Just finished the dried flower vase. Looks like I missed a little one."
   },
   [280610] = {
-    "不如把这朵小花做成别的装饰品吧~"
+    "We could always turn it into something else!"
   },
   [280611] = {
-    "或许可以用去年春天做“标本”时剩下的素材，把它做成一枚滴胶发卡？"
+    "I still have some resin left over from last spring. How about we turn it into a hair clip for you?"
   },
   [280620] = {
-    "这可怎么办呢？"
+    "Oops. Now what?"
   },
   [280621] = {
-    "看来只好把它直接送给我的小姑娘，让它换一种方式陪伴你了。"
+    "Then I'll just give it to my girl—let it keep you company in a different way."
   },
   [280630] = {
-    "小花说：“等等我——我还没上车呀——”"
+    "The flower's like, \"Hey, wait for me! Don't leave me behind!\""
   },
   [280631] = {
-    "我想，要是它知道自己能先一步陪在你身边，就不会那么在意自己“落队”这件事了。"
+    "If it knew it got to be with you first, I don't think it'd mind being left out."
+  },
+  [286300] = {
+    "Someone spent quite a while picking out her design at the Halloween body painting booth."
+  },
+  [286310] = {
+    "Get this—when we're next to each other, the separate wings on our arms become one single butterfly."
+  },
+  [286311] = {
+    "I'd say the butterfly feels most alive when someone is hanging onto my arm, swinging it playfully."
+  },
+  [286320] = {
+    "I added a tiny, hidden detail. Now your butterfly wings are a completely unique, custom piece!"
+  },
+  [286321] = {
+    "Then it's only fair that my half of the butterfly on you gets a personal touch from me as well."
+  },
+  [286330] = {
+    "What if I try a more complex design next time? Will you still be my practice canvas, Professor? "
+  },
+  [286331] = {
+    "Gladly. Consider this canvas yours, with a permanent reservation. ^ ^"
   },
   [300100] = {
     "I'm a modern-day Picasso!"
@@ -44599,46 +44681,46 @@ data = {
     "Because I was shooting a caramel cookie commercial when I posted it. It's so crunchy."
   },
   [355500] = {
-    "薯片小姐玩游戏时的表情也太认真了，盯着骰子的样子好可爱。"
+    "Miss Chips is so adorable when she's focused on the game. The way she just stared at the dice was just adorable."
   },
   [355510] = {
-    "下次再继续玩剩下的部分吧？"
+    "Next time, let's finish the rest of the game?"
   },
   [355511] = {
-    "好呀，就约在这周末好不好？"
+    "Totally. How about this weekend?"
   },
   [355520] = {
-    "毕竟小小的骰子上可是连着“苹果糖”的人生呢。"
+    "Hey, that little die decides Apple Candy's whole life, you know."
   },
   [355521] = {
-    "我们俩的运气加起来，一定能达成Happy Ending的！"
+    "With our luck combined, there's no way we're not getting a happy ending!"
   },
   [355530] = {
-    "不知道“苹果糖”会不会喜欢现在的生活呢？"
+    "Think Apple Candy's happy with his life right now?"
   },
   [355531] = {
-    "只要能和喜欢的人在一起，就是最美好的生活了。"
+    "If he's with the person he loves, that's already the best life there is."
   },
   [355600] = {
-    "去试了试新的定制奶茶，不愧是薯片小姐的配方，果然很好喝！"
+    "Tried a new custom boba tea. Miss Chips' recipe is honestly amazing."
   },
   [355610] = {
-    "没想到到加了薯片进去还会这么好喝呢。"
+    "Can't believe adding potato chips actually made it taste good."
   },
   [355611] = {
-    "那一定是因为薯片是世界上最好吃的东西！"
+    "That's because potato chips are the best snack in the world."
   },
   [355620] = {
-    "给这个配方起个什么名字好呢~"
+    "What should we call this recipe?"
   },
   [355621] = {
-    "就叫“$u特调”如何？"
+    "Let's name it the $u Special."
   },
   [355630] = {
-    "下次我们一起写一个奶茶配方吧？"
+    "Next time, wanna come up with a boba tea recipe together?"
   },
   [355631] = {
-    "好呀，让我们一起创造出最甜蜜的味道！"
+    "Absolutely! Let's make the sweetest drink ever."
   },
   [355700] = {
     "第一次收到有夹层的红包，简直是双倍快乐！"
@@ -45970,25 +46052,25 @@ data = {
     "Four cans, a bunch of snacks... hang on, maybe it's not a meet-up and it's a pot luck instead?!"
   },
   [362000] = {
-    "靠一张狗仔拍的照片帮我谈下口罩代言，谁不说一句$u是商业奇才！"
+    "NGL, turning a random pap shot into a major mask deal is next-level genius. All credit goes to @$u."
   },
   [362010] = {
-    "商业奇才听起来和偶像巨星很般配哟~"
+    "The brains & the star. Iconic duo."
   },
   [362011] = {
-    "不止是听起来，你跟我本来就是最配的一对！"
+    "Couldn't have said it better myself!"
   },
   [362020] = {
-    "既然照片已经流传开了，就让它发挥最佳的效果嘛。"
+    "When life gives you a leak, make a brand deal."
   },
   [362021] = {
-    "薯片小姐就是我的智慧女神，不论什么事情你总能想到最佳方案。"
+    "Exactly! That's why you're my go-to for everything. You just get it."
   },
   [362030] = {
-    "主要是我们大明星戴口罩也很帅呀！"
+    "Tbf, you're the only one who could turn a face mask into a fashion statement."
   },
   [362031] = {
-    "那下次我们戴卡通情侣款好不好？小熊加小兔子的图案一定很可爱~"
+    "Haha! I'm ordering us matching ones right now. Bear and bunny, obviously."
   },
   [362100] = {
     "I wonder where a masked hero should cover his face to best protect his identity."
@@ -46180,46 +46262,46 @@ data = {
     "Hmph. I've got my own plan—if I spoon you, I won't be cold."
   },
   [363000] = {
-    "去过水上动物园后，单方面给水豚认证为“精神状态最稳”生物。"
+    "After visiting the water zoo, I've officially declared capybaras the most chill creatures ever."
   },
   [363010] = {
-    "比我的精神状态稳定多了……"
+    "They're even more emotionally stable than me..."
   },
   [363011] = {
-    "在生气的时候我们要学习一下豚门的精神，主打一个无动于衷。"
+    "When we're mad, we should all channel capybara energy—just keep calm and vibe on."
   },
   [363020] = {
-    "真的是别的小动物做什么它都不会生气呢！"
+    "No matter what the other animals did, it didn't even blink!"
   },
   [363021] = {
-    "原来在动物界混，需要的是钝感。"
+    "Turns out being thick and dull is the key to surviving in the animal kingdom."
   },
   [363030] = {
-    "是被小鸭子们疯狂啄的时候也能睡过去的豚豚一枚呀。"
+    "It straight-up took a nap while getting pecked by baby ducks!"
   },
   [363031] = {
-    "我还看到豚豚淡定地站在鳄鱼背上，公然把鳄鱼当出租鳄！"
+    "I even saw one casually riding a crocodile. Like, bro was riding on a gator!"
   },
   [363100] = {
-    "是哪个重感冒患者睡了又被憋醒？哦，原来是我。"
+    "Which poor soul just woke up from nasal congestion? Oh, right—it was me."
   },
   [363110] = {
-    "给你推荐一个我用的鼻炎喷雾，两分钟即通水泥鼻。"
+    "I've got a nasal spray. It clears even a concrete-blocked nose in two minutes."
   },
   [363111] = {
-    "阿薯，我永远的救世之星！！"
+    "You're my eternal lifesaver, Miss Chips!"
   },
   [363120] = {
-    "鼻子堵了的话，试着学会用嘴巴呼吸呢？"
+    "If your nose's blocked, try breathing through your mouth."
   },
   [363121] = {
-    "醒着的时候会，可是睡着以后嘴巴就阿巴阿巴了QAQ。"
+    "It works when I'm awake, but when I'm asleep, my mouth starts to mumble. Q_Q"
   },
   [363130] = {
-    "打电话听你那个声音又心疼又有点好笑……"
+    "Hearing your voice on the phone kinda breaks my heart and makes me laugh at the same time..."
   },
   [363131] = {
-    "可恶，这一定是鼻炎想要阻挠我和你说话的阴谋，我不会认输的！"
+    "Tch. This has gotta be a sinister plot by my sinusitis to keep me from talking to you. But I'm not backing down!"
   },
   [363200] = {
     "体验了一次烫花后，手更稳了！"
@@ -46411,67 +46493,67 @@ data = {
     "Ahem! You don't have to gimme that much credit. I just did what a superhero was supposed to do!"
   },
   [364100] = {
-    "在线求一个周末可以做对戏练习的搭子（大声）。"
+    "Help! I need a weekend line-reading buddy! Any takers?"
   },
   [364110] = {
-    "举手举手举手！举超高！看这里！"
+    "Me me me! Hand's way up! Right here!"
   },
   [364111] = {
-    "看到了！手都伸到我面前啦！一把握住~"
+    "I see you! Looks like you're it, Miss Chips!"
   },
   [364120] = {
-    "哇~接了新剧吗？"
+    "Ooh, did you land a new role?"
   },
   [364121] = {
-    "没错！这次的角色是宠物医生哦~我已经和苹果箱Cello商量好一起来帮忙了。"
+    "Sure did! This time I'm playing a vet. Already roped in Cello and Apple Box to help out too!"
   },
   [364130] = {
-    "虽然我很想帮你，但是不是找专业人士对戏效果更好……？"
+    "I'd love to help... but wouldn't working with a pro be more helpful?"
   },
   [364131] = {
-    "不不不，我觉得和我的灵感MUSE对戏能突破自我，就这么说定了！"
+    "No way! Running lines with my muse? That's like a dream come true! It's settled!"
   },
   [364200] = {
-    "没想到上了高铁才发现自己带错充电线了！"
+    "Too late to realize that I brought the wrong charging cable on the train!"
   },
   [364210] = {
-    "你翻翻行李包的夹层，我记得有合适的充电线。"
+    "Tried the compartment layer? I remember there's one for your phone in there."
   },
   [364211] = {
-    "！！！阿薯，你永远是我的救星T T"
+    "!!! Miss Chips, I can't live with you! T T"
   },
   [364220] = {
-    "不是定的机票吗，怎么变成坐高铁啦？"
+    "I thought you booked a flight. You're taking the train instead?"
   },
   [364221] = {
-    "因为飞机要明天才能到，为了见你我迫不及待改成今天的高铁了。"
+    "I'd have to wait till tomorrow to see you if I had taken the flight, so I changed it to today's train."
   },
   [364230] = {
-    "手机电量低，待会再看朋友圈吧。"
+    "Check the Moments later if your phone's low on power."
   },
   [364231] = {
-    "嘿嘿，回完这条消息我就老实关机睡觉~"
+    "Hehe, I'm turning my phone off and taking a nap after this message."
   },
   [364300] = {
-    "感觉最近的拍照Pose库告急，急需创意补充。"
+    "Running out of photo poses—need some creative inspiration ASAP."
   },
   [364310] = {
-    "我正好刷到几个讲解姿势的短视频，现在就分享给你！"
+    "I just saw a few short videos about photo poses. Sharing it now!"
   },
   [364311] = {
-    "太好了，等我学会了就能和你拍更多有趣的照片了。"
+    "Perfect! I'll be able to take more fun photos with you."
   },
   [364320] = {
-    "拍照重要的是轻松自然，陷入姿势焦虑就不好啦。"
+    "It's all about being laid-back and natural. No need to fret about the poses."
   },
   [364321] = {
-    "哇，其实我因为这个焦虑好几天了，有了薯片小姐这句话我又有信心了！"
+    "I've been worrying about it for days. Thanks for clearing my doubt, Miss Chips."
   },
   [364330] = {
-    "我找不到灵感的时候就会翻以前的照片，经常会发现宝藏创意。"
+    "I'd browse old photos for inspiration. There are often great ideas."
   },
   [364331] = {
-    "收到，这就翻阅我和阿薯的私人相簿。"
+    "Got it! Flipping through my private album with Miss Chips."
   },
   [364400] = {
     "刚刚吃了超美味的巧克力，想开一家巧克力工厂，这样就有吃不完的巧克力了！"
@@ -47207,25 +47289,25 @@ data = {
     "One hug from Miss Chips, and I'll deliver a fresh batch of cookies!"
   },
   [367900] = {
-    "对小兔主题盲盒完全没有抵抗力T^T"
+    "I can never resist a bunny-themed mystery box. T^T"
   },
   [367910] = {
-    "我也拒绝不了小熊主题盲盒T^T"
+    "Tell me about it! I have the same problem with the bear ones T^T"
   },
   [367911] = {
-    "放心吧，我已经把它们一盒端了！等会儿回家我们可以一起录个拆箱reaction(o^^o)"
+    "I went ahead and bought out the whole case! We HAVE to do an unboxing party later! (o^^o)"
   },
   [367920] = {
-    "是最近新出的联动ip吗！你下手好快！"
+    "The new collab just dropped! You got them already?!"
   },
   [367921] = {
-    "主要有一款很像薯片小姐，超可爱超喜欢~看到就立刻下单了。"
+    "I couldn't help it! One is a dead ringer for Miss Chips! Had to buy it on the spot!"
   },
   [367930] = {
-    "客厅的手办柜还有很多位置，欢迎小兔入住～"
+    "The display case in the living room is ready and waiting for these new bunny tenants!"
   },
   [367931] = {
-    "小兔这就收拾行李~来找家中女主人办理入住手续。"
+    "They're packing their tiny bags now! Can't wait for them to meet their lovely hostess!"
   },
   [368000] = {
     "惊，看到网站上有人在卖周棋洛一比一捏脸数据，销量还特别高。"
@@ -47921,25 +48003,25 @@ data = {
     "Missed your favorite prize? Just pay the booth owner one hug and get three more tries!"
   },
   [371300] = {
-    "片场附近的大熊公路上，居然真的有熊出没。"
+    "Believe it or not, there was an actual bear sighting on Big Bear Road near the set!"
   },
   [371310] = {
-    "（看向片场里的周棋洛）"
+    "(Glances over at Kiro on set)"
   },
   [371311] = {
-    "不是说我啦，前面有熊妈妈带着3只小熊在过马路呢！"
+    "I'm not talking about me—there was a mama bear crossing the road with her three cubs!"
   },
   [371320] = {
-    "这么说，片场附近还有一座黑虎山……"
+    "Wait, doesn't the area also have a place called Black Tiger Mountain...?"
   },
   [371321] = {
-    "我这就去跟导演打听有没有老虎( ﾟДﾟ)"
+    "Now I'm curious—I'm going to ask the director if there are any tigers roaming around too! (ﾟДﾟ)"
   },
   [371330] = {
-    "小熊们去哪里了？"
+    "Where did the little cubs go?"
   },
   [371331] = {
-    "用我的经验推测，应该是去它们喜欢的熊身边了吧。"
+    "If I had to guess, I'd say they went off to find a bear they really like."
   },
   [371400] = {
     "Ever since I played the \"Cake Guess\" game in the show, I've been skeptical about everything I see."
@@ -48110,10 +48192,10 @@ data = {
     "你在哪，周棋洛牌充电宝立刻快马加鞭地赶来！"
   },
   [372200] = {
-    "夜晚闪烁的灯光，就是最动听的“晚安”。"
+    "The flickering light at night is the most reassuring \"good night.\""
   },
   [372210] = {
-    "也是送来美梦的“魔法”！"
+    "It's also a magic spell for the sweetest dreams!"
   },
   [372300] = {
     "The bubbles from my body wash only last like only three seconds..."
@@ -48242,46 +48324,46 @@ data = {
     "当然~阿薯还是最大功臣，我已经把$u的名字偷偷编入代码里啦。"
   },
   [372900] = {
-    "准备好一筐小苹果，去投喂新朋友咯。"
+    "Got a basket full of little apples. Off to spoil my new buddy!"
   },
   [372910] = {
-    "好红润的苹果，看出是饲养员同学的精心挑选！"
+    "Those apples look amazing. Someone's been clearly picking out the best!"
   },
   [372911] = {
-    "其实我有一个投喂秘诀——就是和投喂的小动物一起吃，这样都能吃得很香！"
+    "Tell you a secret. I always eat my food with him. The food just somehow tastes magically more delicious!"
   },
   [372920] = {
-    "老朋友也想要小苹果（乖巧.gif）"
+    "Umm... your big friend wouldn't mind an apple or two either. Just sayin'."
   },
   [372921] = {
-    "最水灵饱满的那颗，已经偷偷给$u藏好了。"
+    "Already saved the juiciest one just for $u."
   },
   [372930] = {
-    "新朋友可以给我也介绍一下吗？"
+    "Can I meet your new friend too?"
   },
   [372931] = {
-    "当然啦，我已经悄悄和小熊说好，下次要带我最最最重要的人来见它。"
+    "Totally! I already told the bear that next time I'm bringing the most important person in my life to meet him."
   },
   [373000] = {
-    "趁新朋友睡着，摆个超酷的pose。"
+    "Perfect time for a cool photo while my friend's sleeping."
   },
   [373010] = {
-    "好可爱！！好可爱呀小熊先生！！"
+    "OMG, Mr. Bear is too cute!! I can't handle it!!"
   },
   [373011] = {
-    "当然啦，$u的小熊先生世界第二可爱！第一可爱是$u。"
+    "Of course! $u's Mr. Bear is the second cutest in the world. First place still belongs to $u."
   },
   [373020] = {
-    "小熊睡得好香哦。"
+    "He's out like a light. Must be having sweet dreams."
   },
   [373021] = {
-    "当然啦，在最信赖的人身边就是会睡香香，就和我睡在阿薯身边一样。"
+    "Well, yeah, being next to someone you trust does that. Same reason I always sleep great next to Miss Chips."
   },
   [373030] = {
-    "两个宝宝看上去都很好rua的样子。"
+    "You both look so cuddly right now."
   },
   [373031] = {
-    "小熊应该很乐意被你ruarua哦！当然，小熊先生也是。"
+    "I'm sure the bear wouldn't mind a few cuddles from you! Actually... neither would Mr. Bear."
   },
   [373100] = {
     "最近好像回到了当年练小提琴，指尖被磨出茧子的时候……"
@@ -48368,109 +48450,109 @@ data = {
     "嗯，来日方长，这次的缺憾就留给下次巡演来填补吧！"
   },
   [373500] = {
-    "在客厅桌上发现了好多黏土，依稀能看出是小熊的形状。"
+    "Found a lot of clay on the table in the living room. I could vaguely tell they were attempted bear figurines."
   },
   [373510] = {
-    "其实那些都是烧制失败的，唯一的成品已经悄悄摆在你桌上了。"
+    "Actually, those were all failed ones. The only finished product has been secretly put on your desk."
   },
   [373511] = {
-    "说实话我也悄悄在你房间放了一件礼物，没想到连惊喜都能撞在一天。"
+    "To be honest, I also secretly put a present in your room. Never thought even our surprises would be offered on the same day."
   },
   [373520] = {
-    "这些都是我送你某件手制礼物的失败品，其中也有苹果箱捣乱的罪证。"
+    "These are my failed attempts to prepare a handmade gift for you. Some of them were Apple Box's doing."
   },
   [373521] = {
-    "好可惜……要不要我们试试把它们重塑一下，做一只最可爱的小熊黏土！"
+    "What a pity… Why don't we try reshaping them into a most gorgeous clay bear?"
   },
   [373530] = {
-    "感觉好多都只做了一半，这都能看出是小熊嘛！"
+    "You can tell they're bears? I mean, many of them seem to be only half done."
   },
   [373531] = {
-    "其实我小小作弊了一下，看到了沙发上放着的“小熊黏土教程”。"
+    "Actually, I might've cheated a little bit. I saw the book How to Make Clay Bears on the sofa."
   },
   [373600] = {
-    "天气太热，感觉自己要进入工作倦怠期了。"
+    "The weather's so hot I feel I'm entering my tired-of-work state."
   },
   [373610] = {
-    "午休结束，我在工位上迟迟缓不过来……"
+    "Lunch break's over, but I still have trouble waking myself up…"
   },
   [373611] = {
-    "都能想象到，午休结束你睁开眼睛三秒，又缓慢闭上的样子——"
+    "In my mind's eye, I can see you open your eyes when lunch break ends but close them again 3 seconds later…"
   },
   [373620] = {
-    "好热，好多雨，好痛苦，只想在家睡觉。"
+    "It's so hot and rainy and torturous. All I want to do is go back home and get into bed."
   },
   [373621] = {
-    "阿薯别怕，我马上带着零食、游戏机来和你一起恢复能量！"
+    "Don't worry, Miss Chips. I'll come to you with snacks and a game console right away, and we'll recharge together!"
   },
   [373630] = {
-    "别怕！给你点的降暑大礼包已经到门口了。"
+    "Don't worry! The Cool-Down Pack I ordered for you has been delivered to your door."
   },
   [373631] = {
-    "薯片小姐！你是我整个夏天的救星！"
+    "Miss Chips! You're the hero of my summer!"
   },
   [373700] = {
-    "原本只是想简单整理下家里，结果不知不觉全都打扫完了……"
+    "I just simply wanted to tidy up the house a little, but I ended up spring-cleaning it unawares…"
   },
   [373710] = {
-    "你今天那么勤劳，一定要奖励一朵小花花！"
+    "Since you were so diligent today, I'll make sure to reward you with a little flower!"
   },
   [373711] = {
-    "哇，那我本周可是有五朵小花花了！我要用它兑换阿薯的周末！"
+    "Wow! Then I'll have earned five flowers this week! I'm going to exchange them for Miss Chips's weekend!"
   },
   [373720] = {
-    "那今天晚上的晚饭就交给我吧~你赶快休息。"
+    "Then I'll make dinner tonight. You go and have some rest."
   },
   [373721] = {
-    "好耶，我正好收拾累了，果然阿薯不管在哪里都是我最棒的队友！"
+    "That's great! I do feel tired from the labor. Miss Chips is always my best partner!"
   },
   [373730] = {
-    "事实证明，万事开头难。被打开的薯片袋，就一定会被吃完。"
+    "Facts prove that the first step is the hardest. An opened packet of chips is fated to be finished."
   },
   [373731] = {
-    "哇！还是第一次听到这么有道理的薯片比喻！"
+    "Wow! That's the wisest metaphor for chips I've ever heard!"
   },
   [373800] = {
-    "学习了个新方法，在灵感堵住的时候——就去大扫除！"
+    "New trick—go on a cleaning spree when met with a creative block."
   },
   [373810] = {
-    "一开始你不是在整理桌子吗？"
+    "I thought you were just cleaning your desk?"
   },
   [373811] = {
-    "嘿嘿……只能说，东西一旦收拾起来，范围就会越来越大……"
+    "Hehe... Once I started, the cleaning just spiraled out of control."
   },
   [373820] = {
-    "那扫除之后获得灵感了吗？"
+    "Did cleaning give you any new ideas?"
   },
   [373821] = {
-    "让我们先整理一下身心和大脑……呜呜，到时候想不到我就继续闭关！"
+    "Alright, let me clear my head and refresh my body... and if nothing comes, it's back to the grind!"
   },
   [373830] = {
-    "打扫确实会让人心情好呢！"
+    "Going on a cleaning spree really does improve your mood!"
   },
   [373831] = {
-    "没错！看着家一点点干净起来，好像我空空的大脑也变得整洁了TUT"
+    "Totally! Watching the place get cleaner feels like my messy brain's getting organized too. TUT"
   },
   [373900] = {
-    "清洁工作突然卡顿，那一定是——我想到下一个旋律写什么了！"
+    "If I suddenly stop cleaning, it's because I just came up with my next tune!"
   },
   [373910] = {
-    "这么好用……？！下次我策划案卡住了，也去大清扫！"
+    "Whoa, that effective...?! Next time I'm stuck on a project proposal, I'll try cleaning too!"
   },
   [373911] = {
-    "哈哈哈哈哈，不好了，家里要变得太干净啦！"
+    "Haha, just don't overdo it—or your house might end up too spotless!"
   },
   [373920] = {
-    "啊啊啊，脸上脏啦！还有手套！手套！"
+    "Hey, you've got dirt on your face! And on your gloves too!"
   },
   [373921] = {
-    "等等等等，我写完这段就擦。"
+    "Hold on, hold on! Let me finish writing this part first."
   },
   [373930] = {
-    "看你呆住的瞬间，还以为你是在暗示我让我帮你擦擦脸上的灰尘。"
+    "For a second, I thought you were trying to me I should wipe the dirt off your face."
   },
   [373931] = {
-    "原来我脸上沾上灰了吗？我怎么会暗示呢，拜托$u来帮帮我吧~"
+    "I got dirt on my face? Can you help me clean it off, $u?"
   },
   [374000] = {
     "The teammates I got randomly matched up with today were really toxic!"
@@ -48536,172 +48618,172 @@ data = {
     "不用邮差出马，我已经在你门口，准备好牵走我的月饼仙女了。"
   },
   [374300] = {
-    "听说月亮的阴晴圆缺会影响睡眠质量，所以我睡不着一定是月亮的问题。"
+    "I heard moon phases mess with your sleep. If I can't fall asleep, I'm blaming the moon."
   },
   [374310] = {
-    "要解决月亮有些困难，但要制止周棋洛熬夜，我可是行家！"
+    "Well, I can't fix the moon, but stopping you from staying up late? I've got that down to a science!"
   },
   [374311] = {
-    "看来，今晚要打响一场睡眠拉锯战了……"
+    "Sounds like we're about to have a full-on sleep battle tonight..."
   },
   [374320] = {
-    "月亮说，昨晚是阴天。"
+    "The moon says it was cloudy last night."
   },
   [374321] = {
-    "区区几片乌云，肯定没法抵挡月亮对我们的影响。"
+    "A few clouds? Please. Like that's enough to block out the moon's power over us."
   },
   [374330] = {
-    "就是就是，和我们昨天一起熬夜看的剧一点儿关系都没有！"
+    "Exactly! It's got nothing to do with that drama we stayed up watching last night!"
   },
   [374331] = {
-    "也一定跟我们前天熬夜看的动画一点儿关系都没有！"
+    "Or the anime marathon the night before, obviously!"
   },
   [374400] = {
-    "这世上除了雪糕刺客，还有会员刺客……自动续费的招数，总让人出其不意QAQ"
+    "Look at all these membership fees out there... They always catch you off guard and auto-subscribe you QAQ"
   },
   [374410] = {
-    "我也赶紧检查了一下，果然不小心开通了好几个自动订阅服务……"
+    "I checked my account and saw auto subscription services that I don't remember enabling at all."
   },
   [374411] = {
-    "有需求就有创造，我这就写一个有提醒功能的程序。"
+    "Since there's a demand for it, I'm writing a programme to check and remind for auto subscriptions."
   },
   [374420] = {
-    "我要把这些坏家伙们统称为“存钱刺客”！"
+    "I'm calling these bad seeds budget killers!"
   },
   [374421] = {
-    "看来我的阿薯也深受其害了，那今晚我们再仔细检查一下，以免还有漏网之鱼。"
+    "Oh no, they've got Miss Chips, too. Let's check again tonight and make sure there's no one left."
   },
   [374430] = {
-    "……我前不久刚被自动续费了一个年度会员，好心痛QAQ"
+    "...I just got auto-subscribed to an annual membership. My wallet! QAQ"
   },
   [374431] = {
-    "本救援人员马上带着一大束向日葵和两张电影票回来，请这位“伤者”再坚持一下！"
+    "The rescuer is coming home with a bouquet of sunflowers and two movie tickets. Please hang in there for a while longer!"
   },
   [374500] = {
-    "暑骗小姐：一种在很热的天气把我骗出门的坏阿薯！"
+    "Miss Cheater: a type of evil Miss Chips who tricked me out of my house on a very hot day!"
   },
   [374510] = {
-    "给我取外号也没用哦~我可是奉远哥之命每天监督你出门锻炼的！"
+    "It's no good nicknaming me. I have orders from Savin to make sure you do some outdoor exercises every day!"
   },
   [374511] = {
-    "那锻炼计划完成后的奖励应该也不会爽约吧？QAQ"
+    "Then you're not going to renege on the promised reward for completing the exercise plan, I presume? QAQ"
   },
   [374520] = {
-    "如果不趁着大热天出门玩一趟……就不会知道在家吹空调有多幸福！"
+    "If you don't go out and play on a hot day… you'll never know how nice it is to stay in an air-conditioned house!"
   },
   [374521] = {
-    "比吹空调更幸福的，就是和薯片小姐一起吹空调！"
+    "What's even nicer than enjoying AC is to enjoy AC with Miss Chips!"
   },
   [374530] = {
-    "我也很后悔……是我低估了秋老虎的温度！"
+    "I bitterly regretted it too… I underestimated how hot late autumn could get!"
   },
   [374531] = {
-    "附近刚好有一家冷气很足的大型游戏厅，不如我们过去乘凉吧！"
+    "There happens to be a well-air-conditioned amusement arcade nearby. Why don't we go there to beat the heat?"
   },
   [374600] = {
-    "洗澡后的苹果箱，变成了一个芒果核。"
+    "Apple Box became a mango pit after the bath."
   },
   [374610] = {
-    "芒果核……？苹果箱是不是变瘦了，我等下去买点宠物零食吧。"
+    "A mango pit…? Did Apple Box lose weight? I think I'll go buy some pet snacks later."
   },
   [374611] = {
-    "它这个月胖了足足两斤，阿薯难道不应该心疼那个真正瘦了的人吗！（疯狂暗示）"
+    "He gained over two pounds this month. Shouldn't Miss Chips be worried about the one who truly lost weight? (Hinting like crazy)"
   },
   [374620] = {
-    "噗，那它看到自己变身后的样子了吗？"
+    "Tee-hee. Did he see what he looked like after the transformation?"
   },
   [374621] = {
-    "嗯！不过它疑惑地盯着镜子认了好久，像是用眼神在问“狗，你是谁？”"
+    "Yeah! But he stared at the mirror in confusion for a long while, as if asking with his eyes, \"Who are you?\""
   },
   [374630] = {
-    "我也想看可爱芒果核，快让我看看！"
+    "I want to see the adorable mango pit too. Show me!"
   },
   [374631] = {
-    "它好像有点介意被拍了丑照，所以……晚上我们关起门来偷偷看！"
+    "He seems to be a bit upset about the ugly photo of him, so… let's close the door and peek at him tonight!"
   },
   [374700] = {
-    "发现一款通过累计自律时间收集卡牌的游戏，好玩，爱玩。"
+    "I found a game in which players collected cards by accumulating time of self-discipline. It's fun. I love it."
   },
   [374710] = {
-    "好神奇，世界上竟然有这样轻而易举能让我放下手机的存在！"
+    "Amazing. I can't believe there's a thing that can so easily make me get off my phone!"
   },
   [374711] = {
-    "QAQ我不可以吗？"
+    "QAQ I cannot do that?"
   },
   [374720] = {
-    "这个游戏在哪里下？我晚上刚好可以用它来监督我自律运动~"
+    "Where can I download the game? I could use something like that to supervise me sticking to my nighttime exercise plan."
   },
   [374721] = {
-    "嘿嘿，我先不告诉你~我要截胡这个监督权！"
+    "Tee-hee, I'll keep that a secret for now, and I'll be your supervisor!"
   },
   [374730] = {
-    "有的人还没开始，而有的人已经收集到了稀有卡牌哦！"
+    "Someone hasn't even started yet, but someone else has already acquired a rare card!"
   },
   [374731] = {
-    "我说怎么一下午都没有收到阿薯的消息，原来罪魁祸首在这里！"
+    "I was wondering why I hadn't received any messages from Miss Chips in the afternoon. The culprit turns out to be here!"
   },
   [374800] = {
-    "在超市发现一包超有义气的薯球，标签上写着“捏我，别捏我朋友。”"
+    "Found a selfless bag of tater tots at the supermarket. It says \"Squeeze me, not my friend\" on its label."
   },
   [374810] = {
-    "它现在怎么样，被捏了吗？"
+    "How is it now? Squeezed?"
   },
   [374811] = {
-    "是的，已经从薯球变成薯饼了┓( ´∀` )┏"
+    "Yep, the tater tots are hash browns now. ┓( ´∀` )┏"
   },
   [374820] = {
-    "哇！那它岂不是薯球们的大英雄！"
+    "Whoa! It must be the hero of tater tots!"
   },
   [374821] = {
-    "没错，而且其他薯球全都完好无损，说明这位英雄成功地保护了它的朋友们！"
+    "That's right. All the other bags are perfectly undamaged. This hero protected its friends!"
   },
   [374830] = {
-    "看到这个标签，反而有点好奇薯球是什么手感了。"
+    "Seeing the label now makes me curious how the tater tots feel like."
   },
   [374831] = {
-    "我也是！我已经买了几包，回去我们一起试试！"
+    "Haha, me too! So I bought some. Let's try it together at home!"
   },
   [374900] = {
-    "新买的瑜伽垫突然多了很多洞，有人知道是怎么回事吗？"
+    "Our new yoga mat suddenly has a lot of holes. Any idea why?"
   },
   [374910] = {
-    "听说凶手会回到案发现场，我们要不要蹲守一下？"
+    "I hear criminals always return to their crime scene. Should we stake out the yoga mat?"
   },
   [374911] = {
-    "赞成，神探拍档洛薯组合今晚就出动，从嫌疑猫狗中揪出真正的犯人~"
+    "Agreed. The Kiro-Chips detective duo will make their move tonight and find the real culprit among the suspect cat and dog."
   },
   [374920] = {
-    "我知道，一定是被虫蛀了。"
+    "I know. It must be eaten by moths."
   },
   [374921] = {
-    "你说的该不会是一只叫Cello的猫猫虫吧？"
+    "Are you talking about a certain kitten moth called Cello?"
   },
   [374930] = {
-    "呜呜呜大概是昨天Cello教我猫式伸展的时候留下的……"
+    "Hmm, they are probably marks left by Cello yesterday when teaching me the cat stretch pose..."
   },
   [374931] = {
-    "哈哈哈Cello瑜伽培训班还招人吗？我也想和阿薯一起学伸展！"
+    "Haha, is Cello's yoga class still open? I want to learn stretching with Miss Chips, too!"
   },
   [375000] = {
-    "又到了一年一度为房间精心粘贴蜘蛛网的时候了！"
+    "Time for the yearly tradition. Spider webs everywhere, nice and spooky!"
   },
   [375010] = {
-    "也到了一年一度要思考之后怎么消耗南瓜的时候了……"
+    "And time to figure out what should we do with all those pumpkins... again."
   },
   [375011] = {
-    "远哥最近学了不少以南瓜为主角的菜品，之后可以抓他来帮帮忙。"
+    "Good thing Savin's been learning all sorts of pumpkin recipes. We can totally drag him in to help us out."
   },
   [375020] = {
-    "总觉得这句话有点自相矛盾的感觉……"
+    "Nice and spooky kinda contradict themselves, don't you think?"
   },
   [375021] = {
-    "我还可以拥有阳光灿烂的小幽灵，和闪闪发光的小蜘蛛！"
+    "Nah, I get to have my cheerful little ghost and my sparkly spider—best of both worlds!"
   },
   [375030] = {
-    "我觉得我们也可以试着开拓赛道，让南瓜之外的秋日特产也有一席之地！"
+    "Honestly, maybe we should branch out this year. Let some other fall veggies have their moment."
   },
   [375031] = {
-    "比如……冬瓜？胡萝卜？芋头？干脆来一场根茎类植物大聚会吧！"
+    "Ooh, like... winter melon? Carrots? Taro? Let's just throw a full-on root veggie party!"
   },
   [375100] = {
     "Spent the whole afternoon working on a miniature model of a haunted house. Seeing the finished product really gave me a sense of accomplishment!"
@@ -48767,88 +48849,88 @@ data = {
     "下次我用冰箱贴做个“勇者救公主”的游戏，一定很好玩。"
   },
   [375400] = {
-    "今天和艺人朋友们玩即兴合奏，结果没玩多久我的乐器就被ban了╭(╯^╰)╮"
+    "I was doing an improv jam with my artist friends, but my instrument was banned not long after. ╭(╯^╰)╮"
   },
   [375410] = {
-    "点开视频前：好过分！点开视频后：吹唢呐被ban好像不是没有道理……"
+    "Before the video: How could they!? After the video: Now I get why suona would be banned..."
   },
   [375411] = {
-    "谁让其他乐器都在车里QAQ下次我随身携带阿薯送的口琴，肯定不会被ban。"
+    "All the other instruments were in the car, QAQ. I'm going to take Miss Chips' harmonica with me at all times now. It will definitely not be banned."
   },
   [375420] = {
-    "我看到vlog了，后来你怎么一个人缩在角落里啊？"
+    "I watched the vlog. Why did you sit alone in a corner?"
   },
   [375421] = {
-    "因为忽然有了灵感！我把那一刻快乐的心情写成了安睡曲，今晚唱给你听~"
+    "Because I had a eureka moment! I was inspired by the joy I felt at that moment and wrote it into a lullaby. I'm singing it to you tonight!"
   },
   [375430] = {
-    "哈哈哈不要紧，等你回来我们用唢呐即兴合奏~"
+    "Hahaha no worries. We'll do an improv jam together with only suona when you get back."
   },
   [375431] = {
-    "好啊好啊，是时候让Twinkle来一场炸街的唢呐二重奏了！"
+    "Sounds good! Time for Twinkle to play the loudest suona duet!"
   },
   [375500] = {
-    "今天才发现“失踪”了很久的迷你黏土小熊原来一直卡在我的鞋底。"
+    "Turns out the mini clay bear that had been missing for a while was stuck under my shoe this whole time."
   },
   [375510] = {
-    "好羡慕小熊可以跟着你去这么多地方！"
+    "I'm jealous that it could follow you to so many places!"
   },
   [375511] = {
-    "但我更羡慕家里的黏土小兔能一直陪在$u身边！"
+    "But, I'm more jealous that the clay bunny at home could be with $u all the time!"
   },
   [375520] = {
-    "原来它离家出走了！难怪我找了这么久都找不到。"
+    "Guess it ran away! No wonder I couldn't find it."
   },
   [375521] = {
-    "小熊说为了向你道歉，明天它会带着很多礼物回家的~"
+    "The bear said it's bringing a lot of gifts home tomorrow to apologize."
   },
   [375530] = {
-    "嘿嘿，其实是我让它跟着你的，看看你有没有好好照顾自己~"
+    "Actually, I sent it to follow you and make sure you're taking good care of yourself."
   },
   [375531] = {
-    "那它跟薯片小姐汇报过了吗？如果没有，明天等我回来你可以亲自检验！"
+    "Did it report to Miss Chips? If not, you can check yourself when I'm home tomorrow!"
   },
   [375600] = {
-    "我宣布：单人做饭小游戏的最佳玩法是两个人一起玩！"
+    "I announce: The best way to play the single-player cooking game is to play it with someone else!"
   },
   [375610] = {
-    "呜呜呜谢谢你！这一关我已经卡了一周了。"
+    "Thank you! I was stuck on this level for a whole week."
   },
   [375611] = {
-    "阿薯下次要早点喊我，以我们的默契，肯定每次都五星过关。"
+    "Next time, call for help, Miss Chips. I'm sure we'll clear every level with 5 stars together."
   },
   [375620] = {
-    "但我们这样算不算作弊啊？"
+    "But, isn't it cheating?"
   },
   [375621] = {
-    "玩游戏最重要的是开心，我觉得和阿薯一起玩更开心啊~"
+    "Gaming is all about having fun. For me, it's more fun to play with Miss Chips."
   },
   [375630] = {
-    "我们的分数还进了排行榜哦~"
+    "Our score isn't enough to get on the leaderboard yet."
   },
   [375631] = {
-    "那我们今晚再接再厉，争取打进锦标赛！"
+    "Let's keep trying and make it to the tournament tonight!"
   },
   [375700] = {
-    "带回家的气球记得一定要记得绑好，不然……"
+    "Tie your balloon to a chair or something after you take it home. Otherwise..."
   },
   [375710] = {
-    "我又想起了昨晚它悄无声息地飘进我们房间的画面......"
+    "I remember how it floated into our room like a ghost last night..."
   },
   [375711] = {
-    "Stop，阿薯你别再说了……"
+    "Stop! Miss Chips, please don't remind me..."
   },
   [375720] = {
-    "可是我明明记得我把它绑好了啊？"
+    "But, I remember I tied it properly."
   },
   [375721] = {
-    "难道是它看我们聊得太开心，想加入我们？"
+    "Maybe it saw us having fun and wanted to join?"
   },
   [375730] = {
-    "不然就会被周棋洛吸上满满一口氦气，变成鸭子周棋洛~"
+    "Otherwise, its Helium would be inhaled by Kiro, turning him into Duck Kiro."
   },
   [375731] = {
-    "嘿嘿，鸭子$u也很可爱~"
+    "Hmm, Duck $u was adorable, too."
   },
   [375800] = {
     "日有所思……夜有薯片军团等我发号施令。"
@@ -48914,235 +48996,235 @@ data = {
     "呜呜，等薯片小姐回来给小小洛做主！"
   },
   [376100] = {
-    "最后一步，把发卡缝好就大功告成了。"
+    "Just need to sew the hair clip and we're all done!"
   },
   [376110] = {
-    "大明星做什么都好认真呀！"
+    "You're always so focused, no matter what you're doing!"
   },
   [376111] = {
-    "因为这只要送给你，我想把它做得更可爱一点。"
+    "Well, I'm making this for you. Of course, I wanna make it extra cute."
   },
   [376120] = {
-    "戴着发卡的小幽灵好可爱~"
+    "Aww, the hair clip looks adorable with the little ghost!"
   },
   [376121] = {
-    "正因为可爱，才配得上全世界第一可爱的阿薯。"
+    "Only the cutest thing deserves to be with the world's No. 1 cutest Miss Chips."
   },
   [376130] = {
-    "和刚才的那个小幽灵是一对吗？"
+    "Is it a matching set with the other little ghost?"
   },
   [376131] = {
-    "答对了！和薯片小姐一人一个，节日气氛双倍快乐~"
+    "Bingo, Miss Chips! One for each of us. Double the spooky cuteness!"
   },
   [376200] = {
-    "别怕，可爱鬼被我捉到了~"
+    "Just caught the cutest ghost in town!"
   },
   [376210] = {
-    "哪个是可爱鬼呀，抱着的、飘着的还是戴帽子的？"
+    "Which one? The floating one, the one you're hugging, or the one with the hat?"
   },
   [376211] = {
-    "嘿嘿，是问出问题的这个，已经被我牢牢捉在身边了。"
+    "Nah, it's the one asking all the questions! Already caught her firmly in my arms!"
   },
   [376220] = {
-    "那带着它是不是可以要到很多糖果啦？"
+    "Does that mean if I carry it around, I'll get a bunch of candies?"
   },
   [376221] = {
-    "当然了，快点出门和我一起度过我们的糖果之夜吧。"
+    "Totally! Hurry up and come spend our candy night together!"
   },
   [376230] = {
-    "没有怕但是被可爱晕了怎么办？"
+    "It's so cute! I think I'm gonna faint!"
   },
   [376231] = {
-    "那我只能“以毒攻毒”，赶快带着它们去见你了~"
+    "Oh no! Then I'd better bring it to you right now for a little \"shock therapy!\""
   },
   [376300] = {
-    "桃花、酒曲、白糖已就位，接下来轮到我大显身手了。"
+    "Alright, ingredients are go: peach blossoms, yeast, sugar. Now for the main event—let's get brewing!"
   },
   [376310] = {
-    "叮咚——你的小助手也已就位，有什么是需要我做什么吗？"
+    "Ding-dong! Your trusty sidekick is here. What's the plan, boss?"
   },
   [376311] = {
-    "有，记得一定要帮我拦住Cello和苹果箱这两个贪吃鬼……"
+    "Yes! Highest priority: guard the brew from Cello and Apple Box. I can already hear them scheming..."
   },
   [376320] = {
-    "前有薯片大亨，后有桃花酿大师——不愧是你，全能小王子！"
+    "From potato chip tycoon to master peach vintner? Is there anything you can't do?"
   },
   [376321] = {
-    "一下子多出那么多厉害的称号，我会忍不住飘飘然的♪(´▽｀)"
+    "Hey now, all these fancy titles are gonna go to my head~ ♪(´▽｀)"
   },
   [376330] = {
-    "等等……私人酿酒是不是有些食品安全的风险？"
+    "Hold up... are we sure this homemade hooch is up to code?"
   },
   [376331] = {
-    "关于这一点我已经请教过专业的大师了，阿薯放心入肚吧~"
+    "Worry not! I consulted with a real master brewer. It's 100% taste-tested and tummy-approved!"
   },
   [376400] = {
-    "原本只有Cello是纸箱打孔机，没想到最近苹果箱也被“传染”了。"
+    "I thought only Cello chewed cardboard boxes. Guess Apple Box picked up the habit, too."
   },
   [376410] = {
-    "苹果箱最近为什么爱上了纸箱啊？"
+    "How did Apple Box learn to chew cardboard boxes?"
   },
   [376411] = {
-    "可能是跟Cello学的，小狗总是喜欢模仿喜欢的动物嘛~"
+    "He probably learned it from Cello. Dogs love mimicking animals they like."
   },
   [376420] = {
-    "我有个大胆的想法，如果把打过孔的纸箱串成城堡，不就是猫狗快乐园了？"
+    "I have a bold idea. If we make a castle out of the chewed cardboard boxes, won't it be like an amusement park for them?"
   },
   [376421] = {
-    "好主意，那晚上我们全家一起出动，建设洛薯牌猫狗快乐园！"
+    "Sounds great. We're building Chips Cat & Dog Amusement Park tonight!"
   },
   [376430] = {
-    "快回来！它们给你的剧本也打上孔了！"
+    "Emergency! They chewed your scripts, too!"
   },
   [376431] = {
-    "什么？！我才刚刚补好它们给你打孔的文件Σ(⊙▽⊙\"a"
+    "What!? I just fixed your documents they chewed. Σ(⊙▽⊙\"a"
   },
   [376500] = {
-    "三天走了五场年度红毯之后，梦里都在红毯上拍照QAQ"
+    "After walking five annual red carpets in three days, I'm doing photoshoots even in dreams now. QAQ"
   },
   [376510] = {
-    "只剩下最后三场红毯了，坚持住！"
+    "Only three more to go. Hang in there!"
   },
   [376511] = {
-    "坚持不住了！需要立刻抱抱$u来补充能量QAQ"
+    "I can't! Need a hug from $u to recharge. QAQ"
   },
   [376520] = {
-    "我也做了梦，梦见我在纠结屏保该用你在哪个红毯的照片。"
+    "In my dreams, I'm having trouble deciding which of your red carpet photos to set as my screen lock."
   },
   [376521] = {
-    "不如像我一样，把阿薯在活动现场的照片全都设成屏保，每天轮换怎么样？"
+    "I put all your event photos into a screen lock list that rotates by the day. You can try it, too, Miss Chips!"
   },
   [376530] = {
-    "那为什么远哥说你在飞机上补觉时，一直在喊我的名字？"
+    "Then why did Savin tell me that you'd been saying my name in your sleep on the plane?"
   },
   [376531] = {
-    "因为梦里你在红毯那一端看着我，我想快点牵住你QAQ"
+    "Because you were looking at me from the other end of the red carpet in my dream. I wanted to hold your hand sooner. QAQ"
   },
   [376600] = {
-    "Kilo年度总结Vlog发布，用上了阿薯给我设计的超可爱升级版Vlog水印(ﾉ´▽｀)ﾉ♪"
+    "Kiro's annual vlog is out, this time with a super cute upgraded vlog watermark designed by Miss Chips! (ﾉ´▽｀)ﾉ♪"
   },
   [376610] = {
-    "水印的小熊是照着你画的，所以才显得格外可爱啦。"
+    "I designed the little bear after you, so it's especially cute."
   },
   [376611] = {
-    "我觉得是因为设计的人投入了很多爱，所以显得更可爱了。"
+    "I think it's because you put a lot of love into the design."
   },
   [376620] = {
-    "我发现Vlog的配乐也被你换成了超好听升级版欸～"
+    "I noticed you changed the music to an upgraded version, too!"
   },
   [376621] = {
-    "对啊，我盯着水印里蹦蹦跳跳的小兔，脑子里自动就浮现出这段旋律了！"
+    "Yep, the melody popped up in my mind when I saw the bouncing bunny in the watermark."
   },
   [376630] = {
-    "怎么样？用在Vlog里的效果好吗？"
+    "How is it? Do you think it fits the vlog?"
   },
   [376631] = {
-    "特别好，好多人还问我找了哪个专业设计师，我说是Kilo的专属设计师$u。"
+    "Perfectly! People are asking me which professional designer I hired. I said she's my personal designer, $u."
   },
   [376700] = {
-    "在每一个偶然记录的瞬间，都充满心动。"
+    "Every snap of the moment makes my heart race."
   },
   [376710] = {
-    "一定是因为心动并不偶然！"
+    "That must mean your heart is always falling for me!"
   },
   [376711] = {
-    "没错，不管在哪一瞬被捕捉，我都有信心，心动不会比这一刻少一点。"
+    "Yup! No matter when the shutter clicks, the feeling's always there."
   },
   [376720] = {
-    "帽子都飞出去了呢~"
+    "Even your hat flew off!"
   },
   [376721] = {
-    "毕竟迎面接到$u一个大大的“爱心射击”！"
+    "Well, yeah, because $u just hit me with a full-power love shot!"
   },
   [376730] = {
-    "照片上好多花瓣……已经开始期盼春天了~"
+    "So many petals in this pic... Makes me wish spring would hurry up!"
   },
   [376731] = {
-    "好消息，春天马上就要到了~到时候我们可以伴随着春暖花开，寻找新的浪漫啦。"
+    "Good news—spring's almost here. When it arrives, we'll welcome it with a brand new love story."
   },
   [376800] = {
-    "再不回家，独家限定的糕点就要被我自己吃掉咯？"
+    "Last chance! This exclusive pastry is about to be history. Sure you don't wanna hurry home?"
   },
   [376810] = {
-    "哼哼，知道你是想让我赶快下班回家，但没关系啦，想吃就吃吧~"
+    "Aww, I see right through you! But seriously, eat it if you want. I don't mind~"
   },
   [376811] = {
-    "哇，你不按常理出牌！那我就变成你不回家，我就不吃它了(○｀ 3′○)！"
+    "Hey, that's not how this works! Fine then, I'll wait. No you here = no treat for me. (○｀ 3′○)"
   },
   [376820] = {
-    "啊啊——我现在就立刻回家！"
+    "Okay, fine! I'm coming home right now!"
   },
   [376821] = {
-    "Yes，第101次让阿薯早点下班回家的计划达成。"
+    "Nailed it. Mission \"Save Miss Chips from Another Late Night\" accomplished."
   },
   [376830] = {
-    "噗，我记得有些人明明说最近要控制饮食呢。"
+    "Pfft. Didn't you just say you were cutting back on sugar?"
   },
   [376831] = {
-    "你帮我吃掉它，不就等于帮我控制饮食了吗？"
+    "If you eat it for me, the calories don't count. It's, like, science!"
   },
   [376900] = {
-    "猜猜我在新年大扫除时找到了什么？"
+    "Okay, what do you think I dug up during my big New Year's cleanup?"
   },
   [376910] = {
-    "举手！我猜是你自己藏起来又忘记的零食～"
+    "I'm betting it's those snacks you stashed away and completely forgot about."
   },
   [376911] = {
-    "……薯片小姐是不是在偷偷骂我像苹果箱一样笨笨的？"
+    "...Hey, are you low-key calling me a goofball like Apple Box?"
   },
   [376920] = {
-    "那些年我们离奇失踪的另一只袜子？"
+    "The legendary, long-lost partners to all our single socks?"
   },
   [376921] = {
-    "好聪明的阿薯！我正在审问Cello和苹果箱谁是真凶呢。"
+    "You got it! I'm grilling Cello and Apple Box right now to crack the case."
   },
   [376930] = {
-    "该不会是我藏在衣柜里的新年礼物吧？"
+    "Uh oh. It's not the New Year's gift I stashed in the closet for you, is it?"
   },
   [376931] = {
-    "新年礼物？给我的？在衣柜里？我有点事先下了哈。"
+    "A gift? For me? In the closet? Wow, look at the time! Gotta run!"
   },
   [377000] = {
-    "又到了一年一度展望新一年的环节之一了——"
+    "You know what time it is? New Year's manifesting time!"
   },
   [377010] = {
-    "目标：上上签！"
+    "Manifesting: Our best year yet!"
   },
   [377011] = {
-    "我有某种预感，接下来都会如我们期待的那样万事顺利~"
+    "I've got a feeling... everything's going to go our way!"
   },
   [377020] = {
-    "看你刚刚看了它好久，是在说什么悄悄话吗？"
+    "You were staring at it for so long... telling it a secret?"
   },
   [377021] = {
-    "是的，我刚刚很认真地跟它说，要记得把最好的祝福都留给我们~"
+    "Just putting in a special order for endless blessings. For the two of us, of course."
   },
   [377030] = {
-    "摇一摇，福气都来到~"
+    "Shake it up, luck fills your cup!"
   },
   [377031] = {
-    "笑一笑，福气满怀抱~"
+    "Grin wide, good luck's on your side!"
   },
   [377100] = {
-    "中！！新的一年也会百事亨通，万事皆宜~~♪(´▽｀)！"
+    "Nailed it! Manifesting the absolute BEST for the new year! ~~♪(´▽｀)"
   },
   [377110] = {
-    "接接接！接好运接福气~"
+    "Yes! I'm catching all that good luck!"
   },
   [377111] = {
-    "那$u新的一年也要和我在一起的时间多一些，这样所有的福气才会成倍增加哦。"
+    "You know, my luck gets way better when you're around. So let's make lots of plans together, okay?"
   },
   [377120] = {
-    "嘿嘿，我就知道好运和祝福一定会特别眷顾你的！"
+    "Aww, I just knew good fortune would have a soft spot for you!"
   },
   [377121] = {
-    "那也一定是和你在一起的我。"
+    "You're my good luck charm. That's why."
   },
   [377130] = {
-    "不管会不会灵，这一刻都有种被好好保佑的感觉~"
+    "I don't know if it's magic, but I totally feel blessed right now."
   },
   [377131] = {
-    "和你一起被世界祝福的感觉真好=w="
+    "The best part is feeling this blessed... with you. =w="
   },
   [377200] = {
     "在甜品店里晒着太阳享受黄油松饼，就是冬天第二幸福的事。"
@@ -49187,109 +49269,109 @@ data = {
     "我已经把旋律记下来啦，所以$u任何时候都可以向我“点播”！"
   },
   [377400] = {
-    "我宣布：$u是最厉害的危机化解小能手！"
+    "BREAKING: $u is officially our new Chief of Crisis Control!"
   },
   [377410] = {
-    "呼~好险好险！谁能想到我们会和狗仔碰巧选中同一家手工体验店呢……"
+    "Phew, that was close! Who knew we'd randomly pick the same craft shop as the paparazzi..."
   },
   [377411] = {
-    "是啊QAQ 不过还好分开抵达现场的我们都及时识别出了他们~"
+    "Seriously! But our spidey-sense was on point today. Teamwork makes the dream work! QAQ"
   },
   [377420] = {
-    "好在他们身上的“装备”过多，我一眼就认出了，然后火速完美融入！"
+    "They were SO obvious. One look and I went into full stealth mode!"
   },
   [377421] = {
-    "哈哈，毕竟薯片小姐身上正好带了相机，伪装可以说是毫无难度~"
+    "Haha, right?! And you had your camera with you and everything! It was the perfect cover!"
   },
   [377430] = {
-    "周大明星出招也很及时，脱身后找店员吸引他们注意，帮助我也顺利逃脱~"
+    "Your quick thinking was everything! That diversion was master-level."
   },
   [377431] = {
-    "不禁感叹我们是最默契的情侣，一整套配合无比丝滑o(￣▽￣)ｄ"
+    "We're the ultimate duo! That was a perfectly executed escape plan if I've ever seen one! o(￣▽￣)ｄ"
   },
   [377500] = {
-    "备演甜品师时找到了新的解压方法：给甜甜圈上糖霜~画图案~灌夹心~(p≧w≦q)"
+    "Found the best way to relax for my baker role: DONUT THERAPY! Icing, sprinkles, fillings~ (p≧w≦q)"
   },
   [377510] = {
-    "让你抵抗住馋虫去练习制作甜甜圈，总感觉有点残忍……"
+    "It takes the willpower of a saint to bake these and not eat any..."
   },
   [377511] = {
-    "问题不大，我现在已经达到了新的境界：望甜止馋o(╥﹏╥)o"
+    "I've mastered the art of \"feasting with my eyes\"... but my stomach is still crying. o(╥﹏╥)o"
   },
   [377520] = {
-    "做的时候的确挺爽的，但我们现在应该怎么解决这些成品呢……"
+    "This was super fun, but now we have a mountain of donuts. What's the plan?"
   },
   [377521] = {
-    "不用担心，我明天在特殊学校有个活动，到时候带过去给小朋友们~"
+    "Already on it! I'm volunteering at a school tomorrow. These are gonna be a huge hit with the kids!"
   },
   [377530] = {
-    "等之后你的饮食管理进入休息期，我们再来DIY个庆功甜甜圈（尽情享用版）~"
+    "The second your diet is over, we're having a Donut Freedom Day!"
   },
   [377531] = {
-    "好耶！！！不瞒你说，我已经想好到时候做什么口味的了٩(๑>◡<๑)۶"
+    "YES!!! I've literally been planning the menu in my head! ٩(๑>◡<๑)۶"
   },
   [377600] = {
-    "比夏天拍冬天戏更进阶的，是冬天拍夏天戏！抖抖抖……"
+    "What's worse than shooting a winter scene in the summer? Shooting a summer scene in winter! *Shuddering*"
   },
   [377610] = {
-    "是不是还要含冰块来着？不然说话会冒烟？"
+    "Don't you have to keep an ice cube in your mouth? Or there would be fog when you speak."
   },
   [377611] = {
-    "呃冰怼诶是格以滴（自动翻译：喝冰水也是可以的）"
+    "Rinking i'ue wa'er wurk 'oo. (Translation: Drinking ice water works, too.)"
   },
   [377620] = {
-    "来人啊！上毯子！"
+    "Get my boy a blanket!"
   },
   [377621] = {
-    "除了正式拍摄，阿薯送我的小熊毯子一直裹在我身上哦，不信你看制作花絮~"
+    "I've been wrapped in your bear blanket when we aren't shooting. You can watch the behind-the-scenes footage, Miss Chips!"
   },
   [377630] = {
-    "我这就来一个更进阶的探班服务，马上就到，等我！"
+    "I'm paying you a visit on set now. Wait for me!"
   },
   [377631] = {
-    "真的吗！我这就把保姆车的温度调高~到时候$u就暖暖地等我下班吧！"
+    "Really?! I'm turning up the heater in my van. $u can stay warm and wait till I get off work!"
   },
   [377700] = {
-    "买来的酸杏汁瓶身上印着一个被酸到五官缩到一起的小猫，喝了一口后，小猫的表情转移到了我的脸上……"
+    "The apricot juice I bought had the picture of a kitten with a scrunched-up face. After one sip, the look transferred from the kitten's face to mine."
   },
   [377710] = {
-    "喝到的前一秒我还在笑你，结果……"
+    "I was laughing at you before I had a sip, and then..."
   },
   [377711] = {
-    "结果是房间里又多了一个被酸到的猫猫表情！"
+    "And then we got another scrunched-up cat face in the room!"
   },
   [377720] = {
-    "你的表情和瓶子上的小猫简直是完美复刻，感觉你可以去接这家果汁的代言了！"
+    "Your face looked exactly the same as the kitten's on the bottle. I think you can be their spokesperson."
   },
   [377721] = {
-    "那是不是会被送很多箱果汁？暴风摇头.jpg"
+    "Wouldn't they just send me more boxes of the same juice? Hard no!"
   },
   [377730] = {
-    "感觉这瓶果汁在综艺节目的惩罚游戏中也会有一席之地。"
+    "I have a feeling that the juice would be used as a punishment in a lot of variety shows."
   },
   [377731] = {
-    "我同意！已经迫不及待想要看到大家表情管理失败的样子了！"
+    "Totally agree! I can't wait to see everyone make all kinds of faces!"
   },
   [377800] = {
-    "参观了一个“像素风装修”的房间，感觉置身其中的自己也变成了游戏里的“像素勇士”！"
+    "Just visited a pixel-style room. Being in it made me feel like a pixel character, too!"
   },
   [377810] = {
-    "我们的小熊勇士今天也要带上最厉害的宝剑去征讨魔王了吗？"
+    "Is our bear hero going to challenge the demon with his most powerful sword today?"
   },
   [377811] = {
-    "我现在正要出发，从“加班大魔王”手中救出我的薯片公主！"
+    "I'm going now, to save my Princess Chips from the Overtime Demon!"
   },
   [377820] = {
-    "如果在这样的房间里醒来，会不会以为自己穿越到游戏世界里了？"
+    "Would you think you just teleported to a game world if you woke up in a room like this?"
   },
   [377821] = {
-    "好像很有意思！感觉我们下一次的“房间风格大改造”有了方向！"
+    "Sounds fun! I think that's a great idea for our next room makeover plan!"
   },
   [377830] = {
-    "看到这个，突然怀念之前一起玩的像素风闯关小游戏了！"
+    "Seeing it reminds me of the pixel mini-game we used to play together."
   },
   [377831] = {
-    "游戏卡带已找到！今晚就可以一起继续闯关了！"
+    "I've found the cartridge! We can continue our adventure together tonight."
   },
   [377900] = {
     "没见过耳机壳穿毛衣的人有福了，本拥有者欢迎大家前来鉴赏。"
@@ -49397,25 +49479,25 @@ data = {
     "反过来想，如果我们再一起重新完成一下这些成就，那我们的默契度真的会涨到无法预料的高度！"
   },
   [378400] = {
-    "好冷好冷，小熊周周决定开启冬眠计划……"
+    "Brr, it's freezing! This bear is officially ready to hibernate!"
   },
   [378410] = {
-    "是什么冬眠计划呀？"
+    "Oh? What does this hibernation plan involve?"
   },
   [378411] = {
-    "搭一个超温暖的“被窝洞穴”，然后拉着小兔薯薯一起躺着^ ^!"
+    "I'm going to build a cozy little \"cave\" out of blankets and curl up inside with my favorite bunny! ^^"
   },
   [378420] = {
-    "呜呜好困好困，我也要加入进来！"
+    "Ugh, me too! Count me in!"
   },
   [378421] = {
-    "快来快来，我们一起来当“懒虫共犯”。"
+    "Come on in! We can be \"partners in crime\"—the lazy kind!"
   },
   [378430] = {
-    "提问——如果我想见小熊周周的话，该怎么引熊出洞呢~"
+    "Question! How do I lure this bear out if I want to see him?"
   },
   [378431] = {
-    "你什么都不用做，我会自投罗网的。"
+    "You don't have to do a thing. I'd happily walk right into your trap."
   },
   [378500] = {
     "当Cello不再频繁钻进我们的被窝，就知道春天要来了。"
@@ -49502,46 +49584,46 @@ data = {
     "好在接下来几周也都是适合采茶的好时间，我们可以再来多几次~"
   },
   [378900] = {
-    "今天在漫展门口，看到了一只举着反光板忙来忙去的机械小狗，反应超级快！"
+    "Saw the future at the expo today: a robo-dog camera assistant! Zipping around with a reflector, nailing the angles. Mind. Blown."
   },
   [378910] = {
-    "没想到现在机械狗的用途这么多了O-O"
+    "Next-level tech! Is there anything they won't automate?"
   },
   [378911] = {
-    "感觉以后拍MV也可以试试，兼顾了移动和精确角度的需求，打光师会轻松许多！"
+    "RIGHT?! Just picture it on an MV set. Auto-tracking, zero setup time... the crew would lose their minds. Total game-changer."
   },
   [378920] = {
-    "所以家里那个神秘快递不会是你新下单机械小狗吧？"
+    "So... about that mysterious package that arrived. Please don't tell me it's another robot dog!"
   },
   [378921] = {
-    "嘘——不要让苹果箱和Cello发现了，我打算研究一下，这样阿薯也可以拥有一只打光小狗啦。"
+    "Shhh—better keep this from Apple Box and Cello. Gonna mod it into your own personal lighting sidekick."
   },
   [378930] = {
-    "感觉一个机械摄影师也是指日可待的事情了！"
+    "The future is HERE! \"Robo-DP\" coming soon to a set near you!"
   },
   [378931] = {
-    "不过我觉得人物拍摄还是很需要感情的，就像阿薯给我拍的照片，我总能一眼认出~"
+    "They can copy the tech, but not the eye. That's why I love your photos—you always capture the real me."
   },
   [379000] = {
-    "带苹果箱参与了宠物马拉松，它累得打了一夜呼噜，声控小夜灯也随着呼噜声闪了一整晚。"
+    "Took Apple Box to a doggy marathon. KO'd for the night—turned into a full-on snore factory. The nightlight became a strobe light."
   },
   [379010] = {
-    "看来苹果箱今天的锻炼成果很不错~"
+    "Success! One thoroughly exhausted pupper!"
   },
   [379011] = {
-    "成果不好说，但它晚上饭量肉眼可见增加了不少，慢食盘都阻止不了它狼吞虎咽！"
+    "New mission: Hoover up all kibble. Its appetite was EPIC."
   },
   [379020] = {
-    "为了小狗的“荣誉”，我和你的小小黑眼圈不算什么！"
+    "The lengths we go to for our fur babies! Dark circles = badges of honor."
   },
   [379021] = {
-    "说的没错！既然苹果箱都那么努力闯入决赛了，训练当然要加大投入。"
+    "Right? Apple Box left it all on the track! We gotta step up our support game."
   },
   [379030] = {
-    "看你们的锻炼计划这么充实，我和Cello也想申请加入！"
+    "Wait, this looks like WAY too much fun. Cello and I are crashing this party!"
   },
   [379031] = {
-    "申请通过！明天的全家总动员，训练效果肯定翻倍！"
+    "APPROVED! Team \"Fit Fam\" is LIVE! Tomorrow, we DOMINATE!"
   },
   [379100] = {
     "现在输入法皮肤的功能也太多了吧，字数统计竟然都细化到了时间段和增长率了。"
@@ -49607,67 +49689,67 @@ data = {
     "五四三二一，一起进梦里！"
   },
   [379400] = {
-    "每日幸福时刻：睡前和玩偶们挨个抱抱，再跟$u相互抱抱o(*￣︶￣*)o"
+    "Best part of my day: cuddling all my plushies one by one, and then getting my #1 cuddle from $u. o(*￣︶￣*)o"
   },
   [379410] = {
-    "嘿嘿，感觉拥抱有种治愈的魔力~"
+    "Right?? Hugs are like instant therapy."
   },
   [379411] = {
-    "没错！每次都感觉心绪瞬间被抚平，特别有安全感~"
+    "YES! It's like this immediate wave of calm and comfort. Total safe zone."
   },
   [379420] = {
-    "最近很爱我们一起设计的那个“小熊抱兔兔”抱枕！好抱爱抱！"
+    "Loving the \"Bear Hugging Bunny\" pillow we designed SO much lately! So soft, so perfect."
   },
   [379421] = {
-    "它也是我的pick！！光是看到熊熊手上捧着小小兔就已经很治愈了~"
+    "SAME! Just seeing the tiny bunny all safe in the bear's arms makes me so happy. Our best creation!"
   },
   [379430] = {
-    "和玩偶抱抱确实会感到幸福，不过最大的幸福还是和你抱抱的时刻啦~"
+    "Okay, the plushie cuddles are great... but the ultimate happiness is hugging YOU."
   },
   [379431] = {
-    "那当然了~说到这，不如再接收本洛的一串幸福攻击吧！！（熊抱）（熊抱）"
+    "You said it! And on that note... prepare for a full-force Kiro happiness assault!! (launches into bear hug)"
   },
   [379500] = {
-    "老板，我们已经感受到了你的热情，所以不用一首接一首地放我的歌表示欢迎啦……"
+    "Thanks for the warm welcome, boss! But maybe we can switch up the music a bit?"
   },
   [379510] = {
-    "噗，老板看上去是真的想要好好招待我们，送了一波又一波特色菜品来包厢……"
+    "Lol, the boss's on a mission to spoil us. The parade of food is endless..."
   },
   [379511] = {
-    "真是令人哭笑不得的好意_(:з」∠)_"
+    "Can't fault the hustle, I guess... even if it's a little overwhelming._(:з」∠)_"
   },
   [379520] = {
-    "可能老板店里没怎么来过明星，所以还不太能以平常心面对~"
+    "We might be his first VIP customers. He's just a little excited!"
   },
   [379521] = {
-    "估计是！刚去洗手间，又被老板拜托提供了签名合照一条龙服务(。•̀ᴗ-)"
+    "Definitely! Got \"casually\" intercepted for a photo op and autographs on my bathroom break.(。•̀ᴗ-)"
   },
   [379530] = {
-    "店里人越来越多了，感觉继续留下会给特别关照我们的老板“添麻烦”……不如……"
+    "Getting a bit crowded in here... We're about to become the main attraction. Should we dip?"
   },
   [379531] = {
-    "已经光速买好单了！！让我们从侧门开溜！"
+    "Already handled!! Operation Ghost Exit is a go—side door, now!"
   },
   [379600] = {
-    "寒冷的冬天里，还有什么比来上一个暖暖的蛋烘糕更令人满足呢~~"
+    "Nothing hits the spot in winter like a warm hotcake. The coziest snack ever!"
   },
   [379610] = {
-    "到底是要巧克力奶油肉松，还是酸豇豆肉沫呢……"
+    "The real struggle: chocolate cream or sausage & cheese?"
   },
   [379611] = {
-    "（星星眼）都想吃！都拿下！"
+    "(Eyes light up) The only solution: get both. Zero regrets."
   },
   [379620] = {
-    "好饿好饿……录制怎么还不结束（焦急.jpg）"
+    "I'm staaaaarving... Is it snack o'clock yet?"
   },
   [379621] = {
-    "提前告诉你一个安心的好消息！阿婆今天出摊了，你想吃的口味都已顺利拿下~"
+    "Good news! The hotcake lady is set up. Mission \"Snack Acquisition\" was a total success. Your treats are safe and sound."
   },
   [379630] = {
-    "那可能只有我们自己亲手做，才能给满意度叠上额外buff啦~~"
+    "But you know what would level it up? Making them ourselves."
   },
   [379631] = {
-    "嘿嘿我也正有此意！刚刚下单了铜锅和食材，周末让我们来试试吧(*^▽^*)"
+    "Right?? I already went ahead and ordered the special pan. Weekend cooking adventure is ON! (*^▽^*)"
   },
   [379700] = {
     "昨天做了个变成小孩子去游乐园的梦，是不是太童心未泯了？"
@@ -49794,6 +49876,48 @@ data = {
   },
   [380231] = {
     "没问题，不管是薯片小姐还是薯骗小姐的心思，我都喜欢。"
+  },
+  [380600] = {
+    "I walked by an arcade and couldn't resist topping every single leaderboard for every game!"
+  },
+  [380610] = {
+    "Is there any game you're actually bad at?"
+  },
+  [380611] = {
+    "Oh, there definitely are, but I'll just figure out how to get good at them too ^ ^!"
+  },
+  [380620] = {
+    "Hahahaha, you're really not giving anyone else a chance, huh?"
+  },
+  [380621] = {
+    "Heh, that's how it is. First place is for the winners, after all."
+  },
+  [380630] = {
+    "So, you must've racked up a ton of prizes, right?"
+  },
+  [380631] = {
+    "Yep, and they're all things you'd love. That's why I'm on my way to pick you up so we can take them home together."
+  },
+  [387500] = {
+    "Ugh, the Halloween nurse outfit I got for Apple Box is a size too small! T-T"
+  },
+  [387510] = {
+    "That was supposed to be a Head Nurse outfit, not a Head Chef uniform! QAQ"
+  },
+  [387511] = {
+    "(Shielding puppy's ears) (Gently covering your mouth) Shh! The little one can hear you! Let's just say the sizing was off."
+  },
+  [387520] = {
+    "Our furry nurse is now accepting patients! Book your appointment now~"
+  },
+  [387521] = {
+    "Just got my diagnosis. Nurse Puppy prescribed me more cuddle time with you to feel better."
+  },
+  [387530] = {
+    "Well, there goes our plan for matching family costumes! T^T"
+  },
+  [387531] = {
+    "But the dynamic duo of Dr. Kiro and Nurse $u is still going to own the night! \\(≧▽≦)/"
   },
   [400100] = {
     "I don't like wearing ties, but it's a gift from her, so…"
@@ -62746,46 +62870,46 @@ data = {
     "Then I'll draw a door on the wall and only let you in."
   },
   [462600] = {
-    "飞的时候忘了关导航，不小心又给地图增加了一条没法走的步行路线……"
+    "Forgot to turn off the navigation and accidentally mapped an impossible walking route..."
   },
   [462610] = {
-    "只要有人经过，地图就会增加这条路线吗？"
+    "Wait, your navi adds a new route whenever someone walks one out?"
   },
   [462611] = {
-    "对，而且现在我的常用路线里还有我从特遣署飞到你家的那条路线。"
+    "Yep. And now my usual routes include an air route from the Task Force to your place."
   },
   [462620] = {
-    "……我下次步行的时候不会刷到这条飞行路线吧？"
+    "...Please tell me I won't see that flying path next time I'm walking somewhere?"
   },
   [462621] = {
-    "我已经申请删掉路线了，不过如果你还想走那条路，可以呼叫专属空中飞的。"
+    "I already requested to delete it—but hey, if you wanna \"walk\" it, I can give you a lift!"
   },
   [462630] = {
-    "我还遇到过地图指了近路，去了发现是学生翻墙逃课的地方。"
+    "I once followed a \"shortcut\" from the map and ended up at a spot students used to ditch school."
   },
   [462631] = {
-    "那以前我应该给地图的近路贡献过不少数据。"
+    "Yeah... pretty sure I've contributed a lot of data to those sneaky paths back in the day."
   },
   [462700] = {
-    "迁徙的太平鸟站满了银杏树，看来接下来会有好事发生。"
+    "A flock of Bohemian waxwings perched on the ginkgo trees—must mean good things are coming."
   },
   [462710] = {
-    "看来接下来一段时间我们都会过得很太平！"
+    "Sounds like we've got some peaceful days ahead!"
   },
   [462711] = {
-    "那我就有更多时间陪你了，谢谢太平鸟。"
+    "That means I'll have more time to spend with you. Thanks, little birds."
   },
   [462720] = {
-    "我从来没见过一棵树上站了这么多鸟，这是什么太平鸟专柜哈哈哈哈哈！"
+    "I've never seen that many birds on one tree. Is this the official waxwing pop-up shop?"
   },
   [462721] = {
-    "可能是太平鸟的迁徙途径基地——恋语市银杏分部。"
+    "Maybe it's their migration rest stop, the Loveland City Ginkgo Branch."
   },
   [462730] = {
-    "真得好像树上结出来的哈哈哈！有多少只哇？眼都花了。"
+    "They honestly look like the tree's growing birds! I can't even count how many!"
   },
   [462731] = {
-    "粗略一数，大概有六十多只太平果。"
+    "Quick estimate? About sixty waxwing \"fruits\"."
   },
   [462800] = {
     "只要结果是好的，重来百次也无所谓。"
@@ -62956,46 +63080,46 @@ data = {
     "We can take things in baby steps. This time, we don't have to bother the instructor. I'll teach you."
   },
   [463600] = {
-    "墨镜也有想独自冲浪的时候。"
+    "Even sunglasses seem to want to go surfing solo sometimes."
   },
   [463610] = {
-    "那道浪不仅冲走了你的墨镜，我的脚链也跟着一起去了。"
+    "The wave not only took away your sunglasses, but also my anklet."
   },
   [463611] = {
-    "用你的话说，它们现在正一起在海底牵着手潜水。"
+    "In your words, they are now scuba diving hand in hand with each other."
   },
   [463620] = {
-    "但是作为回报，大海也把我们没拴好的小船送上了岸～"
+    "To look on the bright side, the wave also sent our drifting boat ashore."
   },
   [463621] = {
-    "看来我们的墨镜让大海的心情也变好了。"
+    "Our sunglasses must have cheered up the sea."
   },
   [463630] = {
-    "俗话说旧的不去新的不来，我来帮白队选个新墨镜吧。"
+    "Out with the old, and in comes the new. I'll pick a new pair of sunglasses for Captain Gavin."
   },
   [463631] = {
-    "刚好我也想给你选一件礼物，我们一起去吧。"
+    "I was thinking about buying you a gift, too. Let's go shopping."
   },
   [463700] = {
-    "栗子味的冰淇淋倒是没有想象中那么甜。"
+    "Chestnut ice cream isn't as sweet as I expected."
   },
   [463710] = {
-    "不过真的很难买，我排队排的腿都酸了。"
+    "But the line was so long. My legs are aching."
   },
   [463711] = {
-    "那晚上要不要试试我在队里新学的放松技巧？"
+    "Should we try a new relaxation technique I learned in the team tonight?"
   },
   [463720] = {
-    "这一口是不是有种直奔秋天的感觉。"
+    "It tastes like the fall, doesn't it?"
   },
   [463721] = {
-    "难怪我刚才想买砂糖橘带回家，看来是这个冰淇淋的原因。"
+    "No wonder I was thinking about buying tangerines home. This must be the reason."
   },
   [463730] = {
-    "其实我还买了柿子味和麻薯味的，正好当做饭后甜点~"
+    "I also got the persimmon and mochi ones. We can eat them after dinner."
   },
   [463731] = {
-    "刚好我也顺路买了你喜欢的零食，也可以凑个数。"
+    "I bought your favorite snacks on my way home. They'll be great together."
   },
   [463800] = {
     "署里的冰箱坏了，希望里面的巧克力还没坏。"
@@ -63517,46 +63641,46 @@ data = {
     "But the most important one has already taken my hand."
   },
   [466300] = {
-    "在手背上喷的香水，过了一天味道还是很好闻。"
+    "Sprayed some perfume on my hand. Still smelled good after a whole day."
   },
   [466310] = {
-    "是我专门为你挑选的持续留香型哦~吹都吹不散的那种。"
+    "I picked the one with the most persistent fragrance. You can't even blow it away."
   },
   [466311] = {
-    "今天的风里的确都是它的香味。"
+    "I could smell it in the wind the entire day."
   },
   [466320] = {
-    "怎么我身上的香水总是没多久就散了，借我试试看你的香水。"
+    "How come my perfume never lasts as long? Can I borrow some?"
   },
   [466321] = {
-    "不用借，它一直都是你的。"
+    "No need to borrow. What's mine is yours, too."
   },
   [466330] = {
-    "有这么明显嘛，感觉到商场之类的地方就很难闻到了。"
+    "Is it really that noticeable? I feel like it just disappears in crowded places like malls."
   },
   [466331] = {
-    "闻不到也没关系，我会让风里都充满我喜欢的味道。"
+    "Even if that's the case, I'll make sure the wind always carries the scent I love."
   },
   [466400] = {
-    "点奶茶的时候，确实很容易选择困难。"
+    "Choosing what boba tea to order is harder than it should be."
   },
   [466410] = {
-    "深有同感！特别是同时想喝热奶茶喝冰奶茶的时候。"
+    "Tell me about it! Especially when I want both hot and iced at the same time."
   },
   [466411] = {
-    "之前听过一个小技巧，可以先喝热的，然后再加冰块。"
+    "I heard a trick for that—start with hot, and then add ice later. Best of both worlds."
   },
   [466420] = {
-    "我之前好像没在意，白队点奶茶也会选择困难吗？"
+    "Wait, I never knew you got stuck on boba tea choices, too!"
   },
   [466421] = {
-    "会，比如犹豫要点什么奶茶给你的时候。"
+    "Sometimes I do, like when I'm trying to order one for you."
   },
   [466430] = {
-    "我每天都在经历这样的困难时刻，白队救救~"
+    "I deal with that kind of struggle every day. Save me, Captain Gavin!"
   },
   [466431] = {
-    "那明天的奶茶，我来帮你点。"
+    "Then tomorrow's boba tea is on me—I'll pick it for you."
   },
   [466500] = {
     "Some people just aren't cut out for writing reports."
@@ -63685,25 +63809,25 @@ data = {
     "不用，我想要其他方式的补偿。"
   },
   [467100] = {
-    "视频播放量破亿，导演功不可没。"
+    "The video just broke a hundred million views. All thanks to the director."
   },
   [467110] = {
-    "指挥官先生太谦虚了，明明就是你上镜~"
+    "You should give yourself more credit! You're the star of it, after all."
   },
   [467111] = {
-    "那也得是你的镜头。"
+    "You're the one who filmed me."
   },
   [467120] = {
-    "我可是期待能突破十个亿的！"
+    "I was hoping for a billion views!"
   },
   [467121] = {
-    "好，我让他们下班后都多点点。"
+    "I'll get the boys to click on the video a few more times after work."
   },
   [467130] = {
-    "要不要考虑跟我签长线合作呀？"
+    "Have you considered a long-term partnership?"
   },
   [467131] = {
-    "可以，但不签合作，签别的。"
+    "Sure, but I was actually considering a different kind of \"lifetime partnership.\""
   },
   [467200] = {
     "The department set up an immersive deduction game... Felt like paying to do overtime."
@@ -63832,25 +63956,25 @@ data = {
     "I won't. Gotta make sure I don't pass anything to you."
   },
   [467800] = {
-    "中午睡觉的时候梦到小黑“活”了，还和我说别疲劳驾驶。"
+    "Had a dream this afternoon. Sparky was alive and telling me not to drive while drowsy."
   },
   [467810] = {
-    "小时候经常会做这种梦！梦到身边的事物变成好朋友。"
+    "I used to have dreams like that as a kid—where my favorite things became my friends."
   },
   [467811] = {
-    "我以前也梦到过，做的飞机模型带着我飞向宇宙。"
+    "Same. I once dreamed a model rocket I built flew me straight to the stars."
   },
   [467820] = {
-    "小黑，我的梦境嘴替。"
+    "Sparky, telling you what we're all thinking."
   },
   [467821] = {
-    "我保证绝对没有过疲劳驾驶，骗你的话我睡一周沙发。"
+    "I swear I never have. Cross my heart, I'd sleep on the couch for a week if I'm lying."
   },
   [467830] = {
-    "小黑如果有生命的话，应该是和白sir一样严谨的性格？"
+    "If Sparky were real, do you think he'd be as careful as you?"
   },
   [467831] = {
-    "不知道，但挺争强好胜，非说自己跑比我驾驶的要更稳。"
+    "Not sure, but he was pretty feisty—insisted that his driving was smoother than mine."
   },
   [467900] = {
     "用一张大头贴留下今天的快乐瞬间。"
@@ -64462,46 +64586,46 @@ data = {
     "Of course! We can switch it up too—claw machines, DIY projects, shopping sprees, you name it."
   },
   [470800] = {
-    "今天带飞飞外出散步的时候，意外抓到了一名在逃嫌犯。"
+    "While I was out walking Flyer today, we unexpectedly managed to catch a fugitive on the run."
   },
   [470810] = {
-    "怪不得我下午见它那么开心，原来是立功啦。"
+    "No wonder he seemed so cheerful today... This must be why."
   },
   [470811] = {
-    "立功的确开心，但我想更多是因为看见了你。"
+    "Perhaps. But I think a lot of it is because he got to see you today."
   },
   [470820] = {
-    "所以飞飞是怎么发现嫌犯的？"
+    "How did he spot the fugitive?"
   },
   [470821] = {
-    "嫌犯跟我们逛了同一家宠物商店，飞飞就这样盯上他了。"
+    "He happened to visit the same pet store we did. That's when Flyer picked up on him and wouldn't let him out of sight."
   },
   [470830] = {
-    "飞飞真棒~那我们之后要好好奖励下它！"
+    "Good boy! He deserves a treat!"
   },
   [470831] = {
-    "赞成，我们可以一起去宠物店给它选礼物。"
+    "I agree. Let's go to the pet store together and pick out a gift for him."
   },
   [470900] = {
-    "风雨声很响，好在帐篷扛住了。"
+    "The sounds of wind and rain are really loud. Luckily, our tent is sturdy enough."
   },
   [470910] = {
-    "有没有我的功劳？（叉腰）"
+    "Any thanks to me? (Hands on hips)"
   },
   [470911] = {
-    "当然，有指挥官小姐在旁边，我才能这么安心。"
+    "Sure. Miss Commander's presence is the sole reason for my peace of mind."
   },
   [470920] = {
-    "在白警官的守护区域，我感觉风雨一点都不可怕～"
+    "With Officer Gavin by my side, I have nothing to fear from the storm~"
   },
   [470921] = {
-    "那你可以再往我怀里躲一些。"
+    "Then you should lean in closer to my arms."
   },
   [470930] = {
-    "说要征服雨林，结果被雨林征服了……"
+    "I said I'd conquer the rainforest, but the rainforest conquered me eventually…"
   },
   [470931] = {
-    "想要再出战一次的话，我随时待命。"
+    "Should you wish to give it another try, I'm ready when you are."
   },
   [471000] = {
     "Found a finger piano in an old chest. It reminds me of a tune I used to play with it."
@@ -64714,10 +64838,10 @@ data = {
     "Every zephyr, every breeze—it all ends right here, with you."
   },
   [472000] = {
-    "“以恶制恶”不可行，游戏中除外。"
+    "Two wrongs don't make a right, unless you're in a game."
   },
   [472010] = {
-    "期待下次，继续跟你在游戏中“胡作非为”~"
+    "Let's do this again in the game sometime!"
   },
   [472100] = {
     "The rice with veal restaurant by the Special Task Force has closed. Before leaving, the owner gave me the recipe for his signature super-spicy rice with veal."
@@ -64888,46 +65012,46 @@ data = {
     "It's simple—I just think about what would make you like it even more."
   },
   [472900] = {
-    "去城外田野团建的时候帮忙修了木桩，希望之后还能再去。"
+    "Helped fix up some wooden posts while on a field trip with the boys. Hope we get to go again in the future."
   },
   [472910] = {
-    "真可惜，要不是我周末加班我也能偷偷陪你去了。"
+    "Ugh, what a shame. If I didn't have to work that weekend, I totally would've snuck off and gone with you."
   },
   [472911] = {
-    "路线我已经熟悉了，下次单独带你去。"
+    "I know the way now. Next time, I'll take you there myself."
   },
   [472920] = {
-    "怎么会突然想到要帮忙修木桩？"
+    "What made you wanna fix wooden posts all of a sudden?"
   },
   [472921] = {
-    "修木桩不仅能保护人，还能让野生动物适当远离，是双向利好。"
+    "They protect people and keep wild animals from getting too close. It's a win-win."
   },
   [472930] = {
-    "所以这次田野团建有什么好玩的吗？"
+    "So, was the field trip any fun?"
   },
   [472931] = {
-    "空气不错。还有，这边的狗狗很可爱。"
+    "The air was super fresh. Oh, and the dogs there are adorable."
   },
   [473000] = {
-    "狼在群体合作时展现的技巧，很值得学习。"
+    "Wolves are crazy smart when it comes to teamwork. We could learn a thing or two from them."
   },
   [473010] = {
-    "正所谓“前狼假寐，盖以诱敌”，狼也有战术！"
+    "Right? Like how one wolf would pretend to sleep while his friends lie in ambush."
   },
   [473011] = {
-    "当然，这些战术正是它们赖以生存的本领。"
+    "Yep. That kind of stuff is how they survive out there."
   },
   [473020] = {
-    "所以白队从狼狼身上学到了什么？"
+    "So what exactly did you learn from the wolves, Captain Gavin?"
   },
   [473021] = {
-    "狼会守护对自己最重要的事物，这点我也一样。"
+    "They always protect what matters the most to them. I'm the same way."
   },
   [473030] = {
-    "我能悄悄说，狼的大尾巴感觉很好撸吗？"
+    "Okay, but, can I just say those big, fluffy wolf tails look super fun to pet?"
   },
   [473031] = {
-    "动物园出了仿作的毛绒狼尾玩具，我送你一个。"
+    "They actually sell plush wolf tails at the zoo. I'll grab one for you."
   },
   [473100] = {
     "On the way home, I saw a person's silhouette by the river, but when I got closer, they were gone."
@@ -64951,46 +65075,46 @@ data = {
     "Next time you go somewhere, take me with you, and we'll see if anyone dares to pull on you."
   },
   [473200] = {
-    "随身听坏了，幸好找到了能修的店铺。"
+    "My music player broke down. Luckily, I found a place to fix it."
   },
   [473210] = {
-    "太好了，是我介绍给你的那家店吗？"
+    "Great! Is it the place I told you about?"
   },
   [473211] = {
-    "老板说找到他是我运气好，我知道是因为你才运气好的。"
+    "The shop owner said I was lucky to find him, but I knew I was lucky because of you."
   },
   [473220] = {
-    "里面有好几首弹唱的曲子我都好喜欢。"
+    "Some of the acoustic songs are my favorites."
   },
   [473221] = {
-    "那几首曲子我都会弹，回家后弹给你听。"
+    "I can play those songs. I'll play them for you when I get back."
   },
   [473230] = {
-    "这个随身听一定承载了许多回忆，多亏修好了。"
+    "You must have a lot of memories attached to it. Glad it's fixed now."
   },
   [473231] = {
-    "修不好也不会太难过，毕竟重要的回忆我全都记着。"
+    "I wouldn't be too upset even if it weren't fixed. All the important memories are in my heart."
   },
   [473300] = {
-    "据说玩偶会和主人越来越像，是真的吗？"
+    "They say that toys become more and more like their owners. Is that true?"
   },
   [473310] = {
-    "是真的，小狼玩偶自从住进白队家就越来越可爱了。"
+    "It's true. The toy wolf has become cuter since it moved in with you, Captain Gavin."
   },
   [473311] = {
-    "真的吗？今晚我要回去仔细看看。"
+    "No kidding? I'm gonna take a closer look tonight."
   },
   [473320] = {
-    "所以你每天都抱着它睡觉吗？"
+    "So, do you hold it in your sleep every day?"
   },
   [473321] = {
-    "没有，倒是它老是莫名歪倒在床上，占我位置。"
+    "No, but it's always falling on my bed for some reason and taking up my space."
   },
   [473330] = {
-    "听说主人也会越来越像玩偶哦~"
+    "They say it works the other way around, too."
   },
   [473331] = {
-    "那说明只要待在一起的人，就总会越来越像。"
+    "That means that people who stay together become more and more like each other."
   },
   [473400] = {
     "心要专注，手要稳。"
@@ -65119,67 +65243,67 @@ data = {
     "嗯，累的时候看看“龟壳”里抽出的嫩芽，会感觉放松很多。"
   },
   [474000] = {
-    "直发吹风机看起来很奇怪，但效果很好。"
+    "Despite its weird appearance, the hair straightener proves pretty effective."
   },
   [474010] = {
-    "是啊，看介绍好像不难操作，但没想到一个人用起来那么困难。"
+    "Yeah, the introduction makes it sound easy to operate, but it's actually so difficult to use alone."
   },
   [474011] = {
-    "现在我已经很顺手了，下次喊我帮你拉直头发。"
+    "I've totally gotten the hang of it. Feel free to call me if you need to straighten your hair again."
   },
   [474020] = {
-    "Tony白老师，下次用它给我做个发型吧！"
+    "Mr. Hairdresser, next time use it to do my hair!"
   },
   [474021] = {
-    "好，绝对让你满意。"
+    "Okay. You won't be disappointed, I promise."
   },
   [474030] = {
-    "越是其貌不扬的东西，越不能小看它！"
+    "The more nondescript a thing is, the more powerful it might be!"
   },
   [474031] = {
-    "我知道，前几天你吃了一个小辣椒后也说过一样的话。"
+    "I know. You said the same thing after you ate a little chili pepper days ago."
   },
   [474100] = {
-    "在特遣署走廊捡到了一本备忘录，内容很有意思。"
+    "I picked up a memo in the corridor of the Special Task Force. Its contents were quite interesting."
   },
   [474110] = {
-    "后来找到失主了吗？"
+    "Did you find its owner?"
   },
   [474111] = {
-    "多亏了里面的狗狗照片，我们才认出失主是上午来配合调查的饭店老板。"
+    "Thanks to the pictures of dogs in it, we found its owner was the restaurant owner who came to our agency for an inquiry this morning."
   },
   [474120] = {
-    "里面该不会记录了什么了不得的秘密吧。"
+    "Did it contain any mind-boggling secrets?"
   },
   [474121] = {
-    "如果你说的是失主给宠物拍的搞怪照片，那的确有不少。"
+    "If you're referring to funny pictures the owner took of his pets, there were indeed quite a few."
   },
   [474130] = {
-    "别人的备忘录固然有趣，也别忘了看自己的备忘录～"
+    "Reading someone else's memo is indeed interesting, but you shouldn't forget to check your own memo."
   },
   [474131] = {
-    "今天的备忘录写了些约会攻略，我都记住了。"
+    "Today's memo contains some tips on dating. I've memorized them all."
   },
   [474200] = {
-    "早上拿错了上次抽奖抽到的“包菜叶伞”，一路上感觉回头率高了不少。"
+    "This morning I, by mistake, took the \"Cabbage Leaf Umbrella\" won in a prize draw and ended up getting a lot more backward glances than usual."
   },
   [474210] = {
-    "雨水落在雨伞的仿真菜叶纹路上，总感觉更写实了……"
+    "The pattern of rain on the artificial leaf veins of the umbrella makes it more lifelike…"
   },
   [474211] = {
-    "刚才在伞上发现了一只蜗牛，可能它也误会了。"
+    "Just now I found a snail on the umbrella. Maybe it misunderstood as well."
   },
   [474220] = {
-    "所以待会你要用这把伞来接我回家吗？"
+    "So later you're going to pick me up from work with that umbrella?"
   },
   [474221] = {
-    "嗯，包菜很大，可以装下我们两个人。"
+    "Yeah, the cabbage leaf is large enough to shelter us both."
   },
   [474230] = {
-    "其实还有一把荷叶伞哦，打上应该超级有躲在荷叶下避雨的感觉！"
+    "Actually, we also have a lotus leaf umbrella, which should provide the vibe of taking shelter from rain under a lotus leaf!"
   },
   [474231] = {
-    "下次出门时我们可以试试。"
+    "We can give it a try the next time we go out."
   },
   [474300] = {
     "虽然去晚了，但成功买到最后一份。"
@@ -65228,172 +65352,172 @@ data = {
     "小黑说它也想去，再顺便兜兜风吧。"
   },
   [474500] = {
-    "去了朋友推荐的高空栈道，就是感觉还不够高。"
+    "Tried out this cliffside walkway my friend recommended. Honestly? Didn't feel that high."
   },
   [474510] = {
-    "就像吃惯了魔鬼椒的人，怎么会害怕青椒呢！"
+    "Kinda like eating bell peppers when you are already used to ghost peppers."
   },
   [474511] = {
-    "听你这么形容，倒是挺贴切。"
+    "That's actually a pretty good comparison."
   },
   [474520] = {
-    "虽然有安全锁了，但要不是你牵着，估计我完全不敢往下看。"
+    "Even with the safety gear, I don't think I could've looked down if you weren't holding my hand."
   },
   [474521] = {
-    "这样吗？那下次我牵得再紧一点……"
+    "Is that so? Then next time, I'll hold on even tighter..."
   },
   [474530] = {
-    "明明跟你在天上的时候不会害怕，但在栈道上却害怕的不行。"
+    "Funny how I'm totally fine when we're flying together, but on that walkway, I was a nervous wreck."
   },
   [474531] = {
-    "也许这就是所谓的安全感？"
+    "Perhaps you just feel safe with me closer to you?"
   },
   [474600] = {
-    "收到了一张“萌宠健身房”传单，说是可以和宠物一起健身。"
+    "I received a flyer about a \"Cuddly Pets Gym\". It says you can exercise with pets in there."
   },
   [474610] = {
-    "呜呜，看着可爱的小动物谁还会有心思健身呀！"
+    "Boohoo… Who can focus on exercise with cuddly animals around?"
   },
   [474611] = {
-    "它们看到你的时候，心里应该也会这么想。"
+    "The animals will probably think the same thing when they see you."
   },
   [474620] = {
-    "好想去！不过你上午是不是已经锻炼过了？"
+    "I'm dying to check it out! But have you exercised already in the morning?"
   },
   [474621] = {
-    "嗯，不过可以把明天的计划提前。"
+    "Yeah, but I can advance my plan for tomorrow."
   },
   [474630] = {
-    "我也听说了，据说里面还有只超擅长运动的明星健美小狗，可帅了！"
+    "I heard about it too. They say there's a star bodybuilder puppy that's really good at sports in there. It's stunning!"
   },
   [474631] = {
-    "那我们今晚过去看看它到底有多帅。"
+    "Then let's go there tonight to see how stunning it is exactly."
   },
   [474700] = {
-    "小区门口的风是麻辣烤串的味道。"
+    "The air at the entrance of the housing development is heavy with the aroma of spicy kebabs."
   },
   [474710] = {
-    "报告长官，这种不健康的东西，请务必交给我来解决！"
+    "Sir, please make sure to let me handle that sort of unhealthy stuff!"
   },
   [474711] = {
-    "加我一个。吃完一起夜跑，还可以顺便把这份不健康抵消。"
+    "Count me in on that. We can go jogging after the meal to counteract the unhealthiness."
   },
   [474720] = {
-    "我在家也闻到了。为什么不那么健康的食物总是对人类充满了诱惑……"
+    "I smelled it from home too. Why is such not-so-healthy food always so tempting for humans…?"
   },
   [474721] = {
-    "因为吃了心情就健康了。"
+    "Because eating it gives you a healthy mood."
   },
   [474730] = {
-    "我馋了，但路边摊的食材会不会不太健康呀……"
+    "My mouth is watering, but I'm not sure if the foods in roadside stalls are healthy or not…"
   },
   [474731] = {
-    "没关系，我们买个烧烤机自己在家动手。"
+    "It's okay. We can buy a barbecue machine and do it with our own hands."
   },
   [474800] = {
-    "很荣幸当选了$c3v3篮球友谊赛的最佳啦啦队。"
+    "I'm honored to be voted best cheerleader in $c 3v3 friendly basketball match."
   },
   [474810] = {
-    "嘿嘿，幸好你赛前带我去加训了，要不然我肯定赢不了！"
+    "Tee-hee. I feel lucky that you gave me extra training before the match. I would never have won if you hadn't!"
   },
   [474811] = {
-    "也幸好你提前教会我拉拉队的手势。"
+    "And I feel lucky that you taught me the hand gestures of cheerleading beforehand."
   },
   [474820] = {
-    "现在不止是场上，就连家属席都变成白sir的统治区了！"
+    "Now Officer Gavin dominates not only the basketball court but also the family auditorium!"
   },
   [474821] = {
-    "我都是跟你学的。"
+    "I learned all that from you."
   },
   [474830] = {
-    "申明，我没有参与投票，所以这个奖项实至名归哦~"
+    "For the record, I didn't vote, so your award is well deserved."
   },
   [474831] = {
-    "我会把这个小奖杯放在最显眼的位置上。"
+    "I'll put this little trophy in the most prominent position."
   },
   [474900] = {
-    "每次到旧档案室都会面临的两难选择：一用力锁舌就会卡住，不用力又关不上门。"
+    "Every time I'm at the old archives room, I'm in a dilemma: the latch gets stuck if I pull too hard, but the door won't close if I don't pull hard enough."
   },
   [474910] = {
-    "没想到特遣署居然还有这么“不听指挥”的同志。"
+    "Never thought the Special Task Force had such an insubordinate member."
   },
   [474911] = {
-    "为它申请了更换锁孔的福利，希望后续合作能更顺利些。"
+    "I requested a replacement of the keyhole for it. Hope we'd get along better."
   },
   [474920] = {
-    "特遣署居然还有这样的地方？！"
+    "The Special Task Force has an old archives room!?"
   },
   [474921] = {
-    "严格来说这间档案室不在署里，算是“编外成员”。"
+    "Technically, the room isn't in the task force. Think of it as \"auxiliary personnel\"."
   },
   [474930] = {
-    "所以这次关门的结果是……？"
+    "So, your attempt to close the door resulted in...?"
   },
   [474931] = {
-    "锁舌卡住了，且门还是没有关上，正在等相关部门的人员过来彻底换门。"
+    "The latch got stuck, and the door still wasn't closed. I'm waiting for someone to replace the whole door."
   },
   [475000] = {
-    "今天飞回家的时候感觉肩膀上落了什么，转头发现是只来“搭便车”的小鸟。"
+    "I felt something land on my shoulder on my way flying home. I turned to see a little bird hitching a ride."
   },
   [475010] = {
-    "好幸福的小鸟~"
+    "Must be a lucky, happy bird."
   },
   [475011] = {
-    "我也随时可以把这份幸福带给你。"
+    "If you want, you can be that lucky bird anytime."
   },
   [475020] = {
-    "“各位乘客请注意，下一站：白警官家，下车请注意。”"
+    "\"Attention, passengers. Next stop: Officer Gavin's home. Please get ready to exit.\""
   },
   [475021] = {
-    "小鸟乘客在我到家之后开始独立飞行了，也祝它早点到家。"
+    "The passenger bird flew away after I got home. Hope it'll get home soon, too."
   },
   [475030] = {
-    "要是你随身携带一点儿吃的投喂它们，会不会变成“空中餐车”？"
+    "If you brought food with you to feed them, would it be like in-flight catering?"
   },
   [475031] = {
-    "随时投喂这样的特殊服务只提供给特别的人，比如你。"
+    "My special catering service is reserved only for someone special, like you."
   },
   [475100] = {
-    "难得有空看了几眼球，全在失分，结果刚走一会儿又追平了，是不是我不看比较好……"
+    "I finally had time to watch the game, but they kept losing, so I stopped watching. Soon, they caught up with the other team. Maybe it's best that I don't watch the game...?"
   },
   [475110] = {
-    "但是好像上次我们一起看时，你支持的队伍赢了？"
+    "Didn't your team win last time we watched the game?"
   },
   [475111] = {
-    "看来所有的重要比赛，都应该抓你一起看。"
+    "Seems like I should watch all the important matches with you."
   },
   [475120] = {
-    "你是想见证比赛，还是想让球队获胜呢？"
+    "Depends on whether you want to watch the game or want your team to win."
   },
   [475121] = {
-    "当然是想见证球队获胜。"
+    "I want to watch my team win."
   },
   [475130] = {
-    "所以我向来都只敢看回放…QAQ"
+    "That's why I only watch replays... QAQ"
   },
   [475131] = {
-    "下半场我没看，也输了。看来不是我的问题。"
+    "I didn't watch the second half of the game, and they still lost. So, it's not my fault."
   },
   [475200] = {
-    "今天去打了下壁球，几回合后，教练以为是同行来砸场子。"
+    "Played a bit of squash today. After a couple of rounds, the coach thought I was some ringer sent to show him up."
   },
   [475210] = {
-    "壁球？那是什么？"
+    "Squash? What is that?"
   },
   [475211] = {
-    "一种用击球去反弹墙面的运动，晚上带你试试。"
+    "It's this game where you smack a ball against the wall. I'll take you to try it out tonight."
   },
   [475220] = {
-    "哈哈哈哈哈，好玩吗？"
+    "Hahaha, was it any fun?"
   },
   [475221] = {
-    "还可以，赢的时候最好玩。"
+    "Not bad. Winning definitely made it fun."
   },
   [475230] = {
-    "白起，还有什么是你不会的吗？"
+    "Is there anything you're not good at?"
   },
   [475231] = {
-    "有。但在你面前，被我藏了很多。"
+    "Oh, plenty. I just keep that stuff hidden when you're around."
   },
   [475300] = {
     "The Task Force's ghost story night ended prematurely when all the candles suddenly blew out."
@@ -65417,88 +65541,88 @@ data = {
     "I'll be there soon. As for the scares, I'm already prepared. Do your worst."
   },
   [475400] = {
-    "大雪之中，白色帐篷非常具有隐蔽性。"
+    "A white tent can be very hard to notice in the snow."
   },
   [475410] = {
-    "雪太厚，帐篷的门推不开了QAQ"
+    "The snow is too heavy. I can't open the tent flap. QAQ"
   },
   [475411] = {
-    "别急，我这就让风把积雪吹开。"
+    "Don't worry. I'll blow the snow away."
   },
   [475420] = {
-    "舒适性也不错，安静地躺着时，还能听见雪落下的声音。"
+    "It's cozy, too. I can hear snow falling while lying in silence."
   },
   [475421] = {
-    "那我们今天哪也不去，一起躺在帐篷里听雪吧。"
+    "Then let's stay in the tent and listen to the snow today."
   },
   [475430] = {
-    "你出门一趟，也变成白头发老爷爷了~"
+    "You'll become a white-haired man if you go out."
   },
   [475431] = {
-    "和白头发的$u是一对就行。"
+    "As long as $u and I have matching white hair."
   },
   [475500] = {
-    "想不到公园里的小迷宫也有些难度。"
+    "I never expected the small maze in a park would be difficult."
   },
   [475510] = {
-    "对吧！里面兜兜转转的，都把我转晕了。"
+    "I know, right? All these turns, I was totally lost."
   },
   [475511] = {
-    "还好兜兜转转的尽头是你。"
+    "Good thing that you were at the end of these turns."
   },
   [475520] = {
-    "都怪我在上面指挥的时候把你带进死路里了，不然你一定能更快出来。"
+    "My bad. You would have gotten out sooner if I hadn't guided you into a dead end."
   },
   [475521] = {
-    "不怪你，而且一抬头就能看到你，比第一次我们各自出发的玩法要好不少。"
+    "It's not your fault. Besides, I could look up and see you, which was far better than us doing it separately."
   },
   [475530] = {
-    "报告！有人作弊，他飞过来找我了！"
+    "Someone cheated! He flew over to me!"
   },
   [475531] = {
-    "听到你声音但看不到你的人，有点难受。而且我想和你一起走到终点。"
+    "I couldn't stand hearing your voice but not seeing you, and I wanted to reach the end with you."
   },
   [475600] = {
-    "随餐附赠的对讲机居然用的是同一个频段。"
+    "The free walkie-talkies are actually on the same frequency band."
   },
   [475610] = {
-    "明明是对讲机却做出了公共广播的感觉，不过也听到了很多有趣的对话~"
+    "It's a walkie-talkie made into a radio. Thanks to that, we heard some interesting conversations."
   },
   [475611] = {
-    "的确，还有两个小朋友互相问起了数学题。"
+    "Right, and two primary schoolers were discussing math exercises."
   },
   [475620] = {
-    "该不会是白警官想要偷偷对我说的话被别人“截听”了吧~"
+    "Did someone intercept what Officer Gavin wanted to say to me in person?"
   },
   [475621] = {
-    "确实被“截听”了，所以我又多说了几遍，你后来有听到吗？"
+    "Yes, someone did, so I repeated it a few more times. Did you catch it in the end?"
   },
   [475630] = {
-    "但我觉得可以挂在飞飞脖子上，这样喊它吃饭就很方便了~"
+    "I think we can put it around Flyer's neck. It'll be much easier to call him back for dinner."
   },
   [475631] = {
-    "如果只是吃饭，它应该不需要喊。"
+    "I don't think he needs to be called for dinner."
   },
   [475700] = {
-    "在超市里被一个小孩认错成他的家长了，抱着我的腿不肯放。"
+    "A kid in the supermarket thought I was his dad and wouldn't let go of my leg."
   },
   [475710] = {
-    "哈哈哈哈哈哈，那他最后有表现出尴尬吗？"
+    "Hahahaha, did he seem embarrassed in the end?"
   },
   [475711] = {
-    "从他发现后就哭着跑走的行为来看，更像是惊吓。"
+    "He looked more frightened than embarrassed when he ran away crying."
   },
   [475720] = {
-    "那个小孩是走丢了吗？"
+    "The kid got lost?"
   },
   [475721] = {
-    "嗯，还好他爸爸发了寻人广播，最后把他带到服务台和他爸爸汇合了。"
+    "Yeah, his dad made a missing child announcement, so I took him to the help center to reunite with his dad."
   },
   [475730] = {
-    "听说小孩都是颜控，说不定他就是想抱抱你~"
+    "I hear kids all like good-looking people. Maybe he just wanted to hug you."
   },
   [475731] = {
-    "是吗，难怪小区的小孩都很喜欢你。"
+    "Is that so? No wonder the kids in our neighborhood all love you so much."
   },
   [475800] = {
     "下了好几天雨把署里的一楼都淹了，大门口还飘进来一只青蛙。"
@@ -65543,235 +65667,235 @@ data = {
     "也可能风也和我一样，被你笑起来时的那种无忧无虑感染到了。"
   },
   [476000] = {
-    "听说用雪夹打雪仗效率更高。"
+    "Snowball clamps make snowball fights so much easier."
   },
   [476010] = {
-    "攒雪球神器，谁用谁知道。"
+    "The ultimate snowball hack—you won't believe it until you try it."
   },
   [476011] = {
-    "我也给你买了一副，待会可以一起攒雪球~"
+    "I got you a pair too. Let's make some snowballs together later."
   },
   [476020] = {
-    "毕竟这样抓雪的时候手就不会被冻僵了~"
+    "Now your hands don't freeze while making snowballs."
   },
   [476021] = {
-    "要是玩雪时觉得冷了，可以随时放进我的口袋里。"
+    "If your hands get cold, my pockets are always open for you."
   },
   [476030] = {
-    "和我打雪仗的时候禁止你使用该“武器”！"
+    "When we have a snowball fight, you're not allowed to use that \"contraption!\""
   },
   [476031] = {
-    "遵命，我现在就上交给长官小姐。"
+    "Yes, ma'am. I'll hand it over to you immediately."
   },
   [476100] = {
-    "被人称赞是世界上最可爱的雪球。"
+    "Someone said this is the cutest snowball ever."
   },
   [476110] = {
-    "这么可爱的雪球，怎么让人舍得拿来打雪仗啊！"
+    "It's too cute to throw in a snowball fight!"
   },
   [476111] = {
-    "那就不打，我们来堆个鸭鸭雪人。"
+    "Then let's skip the fight and build a snow duck instead."
   },
   [476120] = {
-    "鸭子雪球看起来可爱，会不会砸人更痛了？"
+    "Cute snowballs might hurt more when they hit, though."
   },
   [476121] = {
-    "比起砸人，它们更适合待在你手心里~"
+    "They're better off resting in your hands than being thrown at someone."
   },
   [476130] = {
-    "听说用雪夹做的雪球，可以在室内放好久都不会化~"
+    "I heard snowballs made with clamps can last ages even when put indoors!"
   },
   [476131] = {
-    "我多做几个，这样屋子也能多可爱一会。"
+    "I'll make a few more to keep the room in that cute vibe."
   },
   [476200] = {
-    "买万圣服饰的店里，听到有小朋友要比赛万圣节吓哭几个同班同学。"
+    "A few kids at the Halloween shop said they're having a race to see who can scare more classmates into tears."
   },
   [476210] = {
-    "要被吓的同学此刻还不知道即将逼近的“危险”。"
+    "Bet those poor kids don't even know what's about to hit them."
   },
   [476211] = {
-    "但他们买的装饰和衣服圆圆胖胖的，看上去没什么威慑力。"
+    "Honestly? Their costumes looked more like marshmallows than monsters."
   },
   [476220] = {
-    "小朋友们胆子还挺大的。"
+    "Wow, kids these days are brave."
   },
   [476221] = {
-    "也不见得，我穿着衣服从试衣间走出来的时候吓哭了一个，还哄了半天。"
+    "Not all of them. I walked out of the dressing room in costume and made one cry. Took me forever to calm him down."
   },
   [476230] = {
-    "你的衣服准备好了吗？我的已经买好了嘿嘿。"
+    "You got your outfit ready? I've already picked mine, hehe."
   },
   [476231] = {
-    "准备了一套自认为很适合我的，希望当天可以给你个惊喜。"
+    "Yup. Found something that suits me. Hopefully, I can give you a surprise."
   },
   [476300] = {
-    "飞天巫师准备出发。"
+    "Taking off. Wizard mode: engaged."
   },
   [476310] = {
-    "我也拿上我的魔法杖啦！随时准备出发。"
+    "I've got my wand in hand! Just say the word and I'm ready to go."
   },
   [476311] = {
-    "在窗边等我，今天路上堵车，我们走别的路线。"
+    "Wait by the window. Traffic's a mess. I'm taking a shortcut."
   },
   [476320] = {
-    "可以用魔法笤帚带着我遨游天空吗？"
+    "Can I hitch a ride on your magic broom?"
   },
   [476321] = {
-    "当然了，我这就去接你，在窗边等我。"
+    "Of course. I'm on my way. Look out the window."
   },
   [476330] = {
-    "羡慕了，我也想让我的魔法笤帚飞起来！"
+    "So jealous! I want my broomstick to fly too!"
   },
   [476331] = {
-    "好，我这就去给你的魔法笤帚也施加一个“飞天咒语”。"
+    "No problem. I'll enchant yours too with a \"flight spell,\" hang tight."
   },
   [476400] = {
-    "没想到在冬天还能吃上又大又甜的杏子。"
+    "Never thought I'd be eating big, sweet apricots in the middle of winter."
   },
   [476410] = {
-    "就是好像摘得太多，接下来一段时间都要被杏子包围了。"
+    "We might've picked too many though... Feels like we're gonna be drowning in apricots for a while."
   },
   [476411] = {
-    "和你一起摘杏子的快乐能再保鲜一段时间，也不错。"
+    "Well, if it means I get to hang onto the fun we had picking them together a bit longer, I don't mind."
   },
   [476420] = {
-    "让我们一起感谢冰天雪地还努力结果的杏子！"
+    "Let's give a round of applause to these apricots for braving the freezing cold just to ripen for us!"
   },
   [476421] = {
-    "也感谢和我一起摘杏子的你。"
+    "And thanks to you for picking them with me."
   },
   [476430] = {
-    "有的人尝到了甜甜的果子，有的人却遭遇了酸杏子无情的背叛……"
+    "Some people get to taste sweet fruit, while others get betrayed by the sour ones. Life's not fair…"
   },
   [476431] = {
-    "我专门挑了几个出来，它们应该能值得你的信任。"
+    "I picked out a few especially for you. They should be the trustworthy kind."
   },
   [476500] = {
-    "中了一洗车就下雨的魔咒。"
+    "I'm cursed to wash my bike right before it rains."
   },
   [476510] = {
-    "小问题，打开小黑的后备箱，看我准备了什么！"
+    "Don't worry. Open Sparky's rear case and see what's inside!"
   },
   [476511] = {
-    "是你新买的加厚雨衣和防雨罩，我和小黑已经换上，准备好去接你了。"
+    "The new special raincoat and rain cover you bought. Sparky and I are now changed and ready to pick you up."
   },
   [476520] = {
-    "下次可以挂上我在露营时做的晴天娃娃风铃，用魔法打败魔法～"
+    "Next time, you can hang up the rain doll I made when we went camping to keep the rain away!"
   },
   [476521] = {
-    "好，我记得当时你还默念了“晴天咒语”，晚上一起教教我吧。"
+    "Good idea. I remember you chanted a \"sunshine prayer\". Can you teach me tonight?"
   },
   [476530] = {
-    "噗哈哈哈，原来“洗澡”的小黑才是真的雨神！"
+    "Hahaha, guess washed Sparky is the real rainmaker!"
   },
   [476531] = {
-    "嗯，署里已经传开了，现在我一洗车，他们就开始四处找伞。"
+    "It's true, and the word has gotten out. Now they look everywhere for umbrellas whenever I wash Sparky."
   },
   [476600] = {
-    "骑着小黑驶过腊梅林后，车轮换上了“印花涂装”。"
+    "The tires got repainted with flower petals after a ride with Sparky across the wintersweet grove."
   },
   [476610] = {
-    "怪不得你今天来接我的时候，有一阵隐隐约约的花香~"
+    "No wonder I'd smelled a faint fragrance when you picked me up today."
   },
   [476611] = {
-    "那应该是我口袋里要送给你的腊梅香包，但风忍不住先泄密了。"
+    "That would be the wintersweet sachet I had prepared for you in my pocket. Guess the wind spoiled the surprise."
   },
   [476620] = {
-    "如果下次去雪地，不就有“雪花涂装”了？"
+    "Sparky can have a snow paint next time we ride it in the snow."
   },
   [476621] = {
-    "天气预报说周末邻市有雪，我们可以骑着小黑去换“涂装”。"
+    "The weather forecast says it's snowing in the neighboring city on the weekend. We can ride Sparky there for a paint."
   },
   [476630] = {
-    "我今天采风时也路过了，还带了一枝腊梅回来！"
+    "I also saw the place while out taking photos and brought a wintersweet branch home!"
   },
   [476631] = {
-    "我也带了一枝，现在它们在花瓶里成双成对了。"
+    "I took one, too. Now they make a pair in the vase!"
   },
   [476700] = {
-    "出差前收到了一张餐厅“避坑地图”，最后所有人都来拷贝了一份。"
+    "Got a map of restaurants you should never go to before my business trip. Now everyone's got a copy of it."
   },
   [476710] = {
-    "每一个坑都是上次我去那里出差收获的血泪教训，简直就是噩梦QAQ"
+    "Every restaurant is a hard lesson I learned last time I traveled there for work. It's a nightmare. QAQ"
   },
   [476711] = {
-    "离我出发还有点时间，我们去你喜欢的餐厅吃点好吃的吧，把不好的记忆替换掉。"
+    "I've got time before leaving. Let's go to your favorite restaurant and replace those bad memories."
   },
   [476720] = {
-    "其实有几家餐厅味道还不错，只是不太符合你的口味，你跟拷贝的人说一声哦~"
+    "Some of them are actually not bad—just not your taste. Don't forget to tell the others."
   },
   [476721] = {
-    "不用说，他们都看到标题写着“白起专用版”，知道是我女朋友给我做的。"
+    "No need. They can see the title \"Only For Gavin\" and know my girlfriend made it for me."
   },
   [476730] = {
-    "别忘了背面还有“$u严选”餐厅地图，可以尝尝！"
+    "There's a map of $u's Selection on the back. They're my recommended restaurants!"
   },
   [476731] = {
-    "好，你选的我肯定都喜欢。"
+    "I know. I'm sure I'll enjoy them all."
   },
   [476800] = {
-    "牵过她的手，就写下了永远。"
+    "Holding her hand... that's when I knew it was forever."
   },
   [476810] = {
-    "我们的故事会和银杏一样，长长久久~"
+    "Just like a ginkgo tree—our story's gonna last forever."
   },
   [476811] = {
-    "还有永远灿烂。"
+    "Every moment of it will radiate with joy."
   },
   [476820] = {
-    "吻过你的脸，说着爱你永远不变~"
+    "When I kissed your cheek, I also knew I'll always love you."
   },
   [476821] = {
-    "那以后每天都要吻我。"
+    "Then you better kiss me every day to prove it."
   },
   [476830] = {
-    "我会永远记得这份银杏和风送给我们的祝福。"
+    "I'll always remember the wind and the ginkgo's blessing."
   },
   [476831] = {
-    "那就和我一起实现它们的祝福，一辈子都在一起。"
+    "Then let's make that blessing real by spending our lives together."
   },
   [476900] = {
-    "做玉佩比想象中难，不过也在预计时间内圆满完成了任务。"
+    "Making the jade pendant was tougher than I thought, but the mission was a success."
   },
   [476910] = {
-    "报告！我很喜欢这半颗“心”，所以决定把自己的一整颗心送给你！"
+    "The pendant in two \"half-hearts\" is so cute! As a thank you, I've decided to give you my whole heart in return!"
   },
   [476911] = {
-    "那我要好好想想用什么补上这半颗心的量，不能让你“吃亏”。"
+    "Then I'll have to think hard about how to make up for you; can't let you feel like you got the short end of the deal."
   },
   [476920] = {
-    "难不成我真的能收到一整套你亲手做的首饰？！"
+    "Am I really gonna receive a whole set of accessories handmade by you?!"
   },
   [476921] = {
-    "我可以从今天就开始攒。"
+    "I can start saving up supplies today."
   },
   [476930] = {
-    "这样一来，我们就算心心相印啦！"
+    "We just became two hearts in one!"
   },
   [476931] = {
-    "我还有很多种方法证明我们之间的“心心相印”。"
+    "We've always been two hearts in one. I've still got plenty of other ways to prove it."
   },
   [477000] = {
-    "在小城超市里买到了“王记核弹露”。"
+    "Check this out. Got some “Grimy Bears\" from the corner store."
   },
   [477010] = {
-    "笑了半天才发现，在那买的饼干也是冒牌货Σ(⊙▽⊙\""
+    "OMG, I was laughing so hard... until I realized my cookies were knock-offs too!"
   },
   [477011] = {
-    "没事，不喜欢的话，交给我帮你解决。"
+    "Don't worry about it. If they're no good, just hand them over to me."
   },
   [477020] = {
-    "小小超市里卧虎藏龙，连白警官都看走眼了！"
+    "Who knew this little shop had such \"treasures\"? Even the great Officer Gavin was fooled!"
   },
   [477021] = {
-    "还好有你提醒，否则我们就要把那个口苗口苗零食包也买回来了。"
+    "Seriously. Thanks for spotting that. We almost bought the Notella."
   },
   [477030] = {
-    "和普通核桃露的味道一样吗？"
+    "How's the flavor compared to the real deal?"
   },
   [477031] = {
-    "……有股塑料味，不过我买了正版核桃露，回家就能喝到。"
+    "...Let's just say it's \"unique.\" I bought the proper gummy bears, though. They're waiting for you."
   },
   [477100] = {
     "教了很久的徒弟，好像要出师了。"
@@ -65795,109 +65919,109 @@ data = {
     "白师父说，该出山历练了。"
   },
   [477200] = {
-    "用娃娃机的夹子试了试塞在橱窗板里的玩偶，结果勾下来两只，又撞下来一只。"
+    "Used the claw machine to try for the plush tucked in the display... pulled two down and shook another loose."
   },
   [477210] = {
-    "白警官真是用最平淡的语气讲着最凡尔赛的话……"
+    "You say the most effortlessly impressive things with a straight face, you know that?"
   },
   [477211] = {
-    "咳，原来这算凡尔赛吗？只是陈述一下客观事实……"
+    "Oh. That came off as bragging? It was just... what happened."
   },
   [477220] = {
-    "这套操作实在太牛了！！不过刚刚店主的表情好像有些微妙……"
+    "That was seriously amazing!! Though the shopkeeper looked a little stunned..."
   },
   [477221] = {
-    "嗯，但现在店里客人不少是被我们吸引来的，他不算亏。"
+    "Well, the place is pretty packed now. I'd say it worked out for him in the end."
   },
   [477230] = {
-    "突然一下子就拥有了三只，像做梦一样呜呜……"
+    "I can't believe we got three... this feels too good to be true."
   },
   [477231] = {
-    "等我趁热打铁，再去试试你之前说喜欢的另一个玩偶。"
+    "Let me try for that other one you love while I'm on a roll."
   },
   [477300] = {
-    "幸福就是和她一起吃着点心、望着阁楼窗外的海鸟和屋顶发发呆。"
+    "This is happiness: sharing a snack with her, watching seagulls and rooftops from the attic window."
   },
   [477310] = {
-    "呜呜，好久没有这样放空过了，真的很治愈~"
+    "It's been too long since we slowed down like this... so peaceful."
   },
   [477311] = {
-    "嗯，感觉之前积累的压力好像都清空了。"
+    "Agreed. Everything just feels lighter now."
   },
   [477320] = {
-    "这里简直和我梦中的海景阁楼一模一样！"
+    "This is the exact seaside attic I've always pictured in my head."
   },
   [477321] = {
-    "我看图片时也觉得很像你之前对我描述的梦境，所以带你来验证一下。"
+    "I remember you describing it once. I wanted to see your face when we got here."
   },
   [477330] = {
-    "嘿嘿，但最幸福的事莫过于看着发呆的白警官发呆~"
+    "But my favorite view is still you, lost in thought."
   },
   [477331] = {
-    "那未来，我还会继续这样帮$u补充幸福能量。"
+    "Then I'll be here. Always. To make sure you're happy."
   },
   [477400] = {
-    "今天有个窃贼偷电瓶车后经过车主的瓜棚，被一颗掉下来的南瓜砸晕了，因此被捕。"
+    "After stealing a scooter, a thief was knocked unconscious by a pumpkin that fell from the scooter owner's pumpkin shed and therefore arrested."
   },
   [477410] = {
-    "南瓜：看我天降正义！"
+    "Pumpkin: This is how justice is served!"
   },
   [477411] = {
-    "偷车贼应该也没想到，好不容易躲开了摄像头，却没躲开南瓜。"
+    "The scooter thief avoided all the CCTV cameras but forgot to avoid a pumpkin."
   },
   [477420] = {
-    "难道你今天带回来的南瓜就是“当事瓜”？"
+    "The pumpkin you brought home today was THE pumpkin?"
   },
   [477421] = {
-    "不是，只是去的时候主人家正好在蒸南瓜，闻起来很香，感觉你也会喜欢。"
+    "No. The steamed pumpkin smelled so good when I went to the scooter owner's place. I thought you'd like it, too."
   },
   [477430] = {
-    "想知道这个“见义勇为”的南瓜后来怎么样了！"
+    "I'm curious about what happened to this righteous pumpkin after that."
   },
   [477431] = {
-    "被主人放在瓜棚，现在成了一个小有名气的打卡景点。"
+    "It's placed in the pumpkin shed as a well-known spot."
   },
   [477500] = {
-    "新买的炒菜机实用性一般，感觉又要吃灰了。"
+    "The new cooking machine isn't as useful as I thought. Guess it's a waste again."
   },
   [477510] = {
-    "主要是用它炒菜后，感觉自己已经降级为切菜工了。"
+    "It's because it makes you feel like a mindless food prepper."
   },
   [477511] = {
-    "看来我们需要的不是炒菜机，而是切菜机。"
+    "Looks like we don't need a cooking machine, but a cutting machine."
   },
   [477520] = {
-    "真·没有感情的炒菜机器！"
+    "A real mindless cooking machine!"
   },
   [477521] = {
-    "总感觉它的工作原理，是不是和滚筒洗衣机差不多。"
+    "I think it works kind of the same as a front-load washer."
   },
   [477530] = {
-    "不知不觉厨房里的吃灰电器好像越来越多了，比如之前买的蒸蛋器……"
+    "Somehow, we've got too many appliances sitting idly in the kitchen, like the egg steamer we got the other day..."
   },
   [477531] = {
-    "听说蒸蛋器还可以用来蒸红薯，明天就试试让它“复工”。"
+    "I heard it could be used to steam sweet potatoes. I'm putting it back to work tomorrow."
   },
   [477600] = {
-    "第一次体验可以吃饭的电影院，有些手忙脚乱。"
+    "First time being in a movie theater that serves food. It was kind of chaotic."
   },
   [477610] = {
-    "一抬头，筷子上的肉掉了。一低头，错过字幕了。"
+    "Look up and your food falls off. Look down and you miss the subtitles."
   },
   [477611] = {
-    "如果不够饱，回去路上再买点夜宵？"
+    "Interested in some late-night snacks on our way home?"
   },
   [477620] = {
-    "但该说不说他们的面条做得还挺好吃的，下次还去！"
+    "To be honest, they do make some delicious noodles, so I'm going again next time!"
   },
   [477621] = {
-    "好，我已经掌握了不错过剧情的吃饭方式，下次你可以放心低头吃。"
+    "I've learned how to eat while watching, so you can just focus on your food next time."
   },
   [477630] = {
-    "想了一下，这和在家一边看电影一边吃饭有什么区别？"
+    "I thought about it. How is it different from watching movies while eating at home?"
   },
   [477631] = {
-    "的确，饭也没有你做的好吃。"
+    "You're right, and the food isn't half as good as what you make."
   },
   [477700] = {
     "睡了一个很好的午觉。"
@@ -66047,46 +66171,46 @@ data = {
     "不会，有风帮我一起降温。"
   },
   [478400] = {
-    "一个教训：在冰箱里冻过的“水母饺子”不适合水煮，触手会掉。"
+    "Field Note: Frozen jellyfish dumplings are not boiling-proof. Tentacle loss is total."
   },
   [478410] = {
-    "被冻掉触手的水母弱小可怜但好好吃，含泪吃了一大碗。"
+    "A moment of silence for the tentacles... but the dumplings themselves? Delicious. Ate them all."
   },
   [478411] = {
-    "毕竟是我们一起调的馅，当然最符合我们的口味。"
+    "Well, we made the filling together. It was on point."
   },
   [478420] = {
-    "没关系，下次我们再多包几种动物饺子，换成蒸的试试~"
+    "Revised plan: diversify the animal kingdom, switch to steaming."
   },
   [478421] = {
-    "好，我记得你收藏的教程里还有小丑鱼和海葵饺子，我们可以做一盘“海洋世界”。"
+    "Affirmative. I saw the clownfish and anemone designs you saved. We'll create an aquarium."
   },
   [478430] = {
-    "还好我妙手回春，在照片里把它们的小触手都P回来啦！"
+    "Photoshop to the rescue! Tentacles digitally reattached. Crisis averted."
   },
   [478431] = {
-    "嗯，很可爱，不过照片里捧着水母饺子微笑的你更可爱。"
+    "Nice save. But the best part of the picture is still you, smiling with the dumplings in your hands."
   },
   [478500] = {
-    "最近接到多人报告，在空无一人的档案室闻到了蛋挞的香气。"
+    "Multiple reports of an egg tart scent in the empty archives room. Investigating."
   },
   [478510] = {
-    "大概是我的错觉，我总觉得看完你的朋友圈，家里也有一股蛋挞的香气。"
+    "Wait, now I think I smell it too... My brain is playing tricks on me."
   },
   [478511] = {
-    "不是错觉，我去署里值班前买了一些蛋挞，给你放在冰箱里了。"
+    "It's not a trick. I bought some. They're in the fridge."
   },
   [478520] = {
-    "放个小板凳等故事后续。乖巧.jpg"
+    "Color me intrigued. Update me when you have it."
   },
   [478521] = {
-    "已经破案了，档案室管理员新买了一批蛋挞味的线香，点燃之后香气很久才会散。"
+    "Case closed. The archive room clerk is using egg tart-scented incense. Mystery solved."
   },
   [478530] = {
-    "嘿嘿，今天可不只有香气啦！"
+    "Well, guess what? The surprise just got upgraded from a scent to a snack."
   },
   [478531] = {
-    "吃到了你点的蛋挞，顾征吃完还想来抢我的，被我教训了一顿。"
+    "The package arrived. Eli tried to steal mine and was... corrected."
   },
   [478600] = {
     "碰到了以前的通勤搭子小鸟，看起来比冬天时瘦了一大圈。"
@@ -66152,67 +66276,67 @@ data = {
     "我自己没什么感觉，要你回去检查一下才知道。"
   },
   [478900] = {
-    "打开冰箱，发现橙子皮上画着生气的表情，看来应该是不太愿意被吃。"
+    "Opened the fridge. One of the oranges is giving me a major attitude. Think it's trying to avoid being eaten."
   },
   [478910] = {
-    "不对不对，它是想表达“怎么这么久了你还没有吃掉我”~"
+    "Nope! That's the classic \"you-forgot-I-existed\" glare."
   },
   [478911] = {
-    "之前太忙没来得及，今晚陪你一起看剧时，我们一起吃掉它。"
+    "My bad. We'll split it tonight during our show."
   },
   [478920] = {
-    "白警官发现目标的时间，好像比我预计的晚了很多哦~"
+    "Took you a while to find the \"evidence,\" huh, Officer Gavin?"
   },
   [478921] = {
-    "路上看到你最爱的那家糖油果子出摊了，排队花了点时间。"
+    "Got held up. The street cart with your favorite sugar donuts was out, so I waited in line."
   },
   [478930] = {
-    "它旁边的柚子和青枣也有表情哦，你有发现吗~"
+    "Check out its fruity friends too. It was a group effort."
   },
   [478931] = {
-    "嗯，里面表情最酷最可爱的两个，被我挑出来放柜子上了。"
+    "Yeah. The two with the best personalities got promoted to the counter."
   },
   [479000] = {
-    "出外勤期间没法随时聊天，被她安利了种树留言软件。短短几天，手机里的树已成林。"
+    "On assignment. Can't text much. She got me this app to leave notes on trees. My phone's a forest now."
   },
   [479010] = {
-    "想念彼此的时候只要打开软件，就会感觉对方在身边~"
+    "It's the little things. Makes the distance feel smaller."
   },
   [479011] = {
-    "我也发现，忙碌的间隙掏出手机看一眼，会安心很多。"
+    "Yeah. A quiet moment in all the noise. It helps."
   },
   [479020] = {
-    "我特意每次打卡都选了银杏种子哦~一大片银杏林是不是很漂亮~"
+    "I've been exclusively planting ginkgos! What do you think of our golden forest?"
   },
   [479021] = {
-    "嗯，而且一起打卡的时间记录下来，像是让我们的回忆有了归处。"
+    "It's perfect. Seeing our check-in times side by side... it means something."
   },
   [479030] = {
-    "这个月的银杏林记录了我们对彼此的思念，但愿下个月记下的是我们共度的时光~"
+    "This forest grew from missing you. Next one, from being with you."
   },
   [479031] = {
-    "一定。过几天不那么忙，我会好好陪你。"
+    "Copy that. Just a few more days, and I'm all yours."
   },
   [479100] = {
-    "$u的精油刮痧，一招解决了我最近的失眠烦恼。"
+    "Sleep report: fixed. All credit goes to $u's hands and the oils."
   },
   [479110] = {
-    "要不是亲眼见证了你失眠的全过程，我都不太信刚刮痧时秒睡的你有睡眠烦恼……"
+    "You passed out in seconds. Makes me think the \"sleep problem\" was just an excuse to get a massage."
   },
   [479111] = {
-    "可能是因为你选的精油气味很安宁，所以我紧绷的神经很快得到了放松。"
+    "Guilty. With you there, it's easy to shut down."
   },
   [479120] = {
-    "感觉白警官的身体真的很疲惫，我都没怎么用力，就刮出了好多痧T-T"
+    "I barely pressed down, and you bruised up so easily. You really were running on empty."
   },
   [479121] = {
-    "出痧后感觉轻松多了，再睡一觉估计就能满血复活。"
+    "Feels better already. A good night's sleep, and I'll be back at 100%."
   },
   [479130] = {
-    "那你觉得，精油和刮痧哪个对改善失眠的帮助更大一些~"
+    "So, was it the oils or the technique that did the trick?"
   },
   [479131] = {
-    "它们都是方式，真正对我有帮助的是运用方式的你。"
+    "It was you. That was the difference."
   },
   [479200] = {
     "难得轻量级的徒步一次，感觉还不错。"
@@ -66402,6 +66526,48 @@ data = {
   },
   [480031] = {
     "反了，是小白学大白，我先的。"
+  },
+  [480100] = {
+    "Tang was complaining in the office that he hadn't left the interrogation room all week. Big deal, I've been drowning in reports for two weeks now."
+  },
+  [480110] = {
+    "So... why don't you swap with him and do the interrogations?"
+  },
+  [480111] = {
+    "Oh, I'd love to, if only Tang would actually show up and do these reports."
+  },
+  [480120] = {
+    "You've been working so hard! When you come home this weekend, I'll cook you something delicious!"
+  },
+  [480121] = {
+    "Then I wanna eat dumplings. And you're coming with me for a drive out in the country this weekend."
+  },
+  [480130] = {
+    "Bet you're itching to rush out and crack a hundred cases by now, am I right, Officer Gavin?"
+  },
+  [480131] = {
+    "Next week, I'm gonna make them rotate shifts with me."
+  },
+  [487100] = {
+    "Sparky won first place in this year's Halloween ghost competition!"
+  },
+  [487110] = {
+    "The first thing you did was call for me. Were you really that frightened?"
+  },
+  [487111] = {
+    "I just wanted to make sure you were alright."
+  },
+  [487120] = {
+    "My ghost impressions never seem to work on you, so I hired Sparky as my stand-in!"
+  },
+  [487121] = {
+    "Well, you're just not the frightening type—you're too sweet."
+  },
+  [487130] = {
+    "All credit goes to the brilliant mastermind and director: $u!"
+  },
+  [487131] = {
+    "The \"accomplice\" has been caught. As for the mastermind... I'll be dealing with her personally."
   },
   [500100] = {
     "Just received a shocking phone call at midnight. All I want now is some peace and quiet."
@@ -70516,70 +70682,70 @@ data = {
     34
   },
   [529100] = {
-    "翩翩公子，笨蛋好逑。"
+    "A perfect gentleman who wins a dummy's heart!"
   },
   [529140] = {
-    "别光说不做。",
+    "Show it, don't say it.",
     1
   },
   [529150] = {
-    "总裁，玩偶展示柜已经定制好了，是送去$c吗？",
+    "Mr. Victor, the customized display case for the plushies is ready. Shall I send it over to $c?",
     5
   },
   [529160] = {
-    "爱情到底给李总带去了什么……",
+    "Poor Mr. Victor... Look at what love's done to him...",
     6
   },
   [529200] = {
-    "据研究表明，枫叶配茶的温度，恰好是心动的时刻~"
+    "Studies suggest the ideal temp for maple leaf tea coincides perfectly with the feeling of a crush."
   },
   [529240] = {
-    "这个研究结论，需要我们用一生来验证。",
+    "A fascinating study. I volunteer us as the long-term research subjects.",
     2
   },
   [529250] = {
-    "你说……许教授有可能同意我把这个形象放在生科所宣传片里吗？就0.5秒！ ",
+    "Hey... do you think Professor Lucien would ever, in a million years, let me use this in Ultima's promo video? Like, a split-second cameo?",
     38
   },
   [529300] = {
-    "我的如意郎君，是世界上最最美好的存在。"
+    "I'm dating the most amazing person in the world."
   },
   [529340] = {
-    "已截图保存，心满意足^ ^!",
+    "Screenshotting this and saving it forever. My life is complete! ^ ^",
     3
   },
   [529350] = {
-    "呜呜神仙爱情……我吃！",
+    "This is sooo sweet... I’m eating this up!",
     7
   },
   [529360] = {
-    "我就说刚刚那小子怎么捧着手机傻笑，果然是有原因的。",
+    "Should've known. He was staring at his phone with that dumb smile again. It's always because of you.",
     37
   },
   [529400] = {
-    "纤云伴清风，清风来我家~"
+    "A gentle wind has arrived at my home!"
   },
   [529440] = {
-    "你家的风回程带了不少东西，申请走窗回家。",
+    "Your breeze brought a lot of stuff back with it. Requesting permission to enter through the window.",
     4
   },
   [529450] = {
-    "感觉你家男朋友的周边可以摆一柜子了。",
+    "At this rate, you're gonna need an entire display case for your boyfriend's merch.",
     8
   },
   [529460] = {
-    "已转发特遣署约饭群，好图共赏！",
+    "This deserves more likes! I just shared it in the task force group chat.",
     42
   },
   [529500] = {
-    "看到这条朋友圈的小凌同学，请学习图中玩偶，给我发一份可可爱爱的自拍~"
+    "Hey Shaw, if you're scrolling by, take a cue from this plushie and send me a cute selfie!"
   },
   [529540] = {
-    "既然对我有要求，那你是不是自己也该做点什么表示表示？",
+    "Asking for a favor? Shouldn't you offer something in return first?",
     34
   },
   [529550] = {
-    "三天两头在朋友圈撒狗粮，饭都不用吃，在这儿就吃饱了。嗝",
+    "You two at it again? My feed is nothing but a love buffet... Burp",
     40
   },
   [600100] = {
@@ -78593,46 +78759,46 @@ For wearin' a badge and their chosen white."]]
     "That's exactly the sentiment I had the first time I tried some."
   },
   [641100] = {
-    "第一次见到狗赶海，还和一个小鲨鱼幼崽玩上了。"
+    "Saw a dog playing with a baby shark by the sea—I've never seen anything like it!"
   },
   [641110] = {
-    "狗狗：这次终于轮到我溜别人了。"
+    "The dog was like, \"Finally, I get to walk a human for a change.\""
   },
   [641111] = {
-    "不一定，看那个体格，感觉平时也是它溜主人多点。"
+    "Judging by the size of that dog, it's probably been walking its human this whole time."
   },
   [641120] = {
-    "狗狗也不知道自己来海边玩还能体验溜鱼。"
+    "Bet the dog had no idea he'd be walking a shark when he came to the beach today."
   },
   [641121] = {
-    "鲨鱼也没想到自己迷了个路就被狗溜了。"
+    "Neither did the shark when he got lost."
   },
   [641130] = {
-    "如果被小鲨鱼的父母看见了……"
+    "What if the baby shark's parents show up though..."
   },
   [641131] = {
-    "放心，小鲨鱼的父母来了这就得搁浅，到时候就买一送一了。"
+    "If they show up, they'll beach themselves too. Then it'll be a two-for-one deal."
   },
   [641200] = {
-    "黄历说今日宜一个人自闭，果然没说错。"
+    "Today's horoscope recommended being alone, and it wasn't wrong."
   },
   [641210] = {
-    "怎么了？"
+    "What happened?"
   },
   [641211] = {
-    "游戏被队友连坑8局，不玩了。"
+    "Got matched up with stupid teammates eight times in a row. I'm so done."
   },
   [641220] = {
-    "你不是在家打游戏没出门吗？"
+    "Weren't you just gaming at home all day?"
   },
   [641221] = {
-    "我没想到黄历与时俱进到线上交流也算进去了。"
+    "Didn't realize horoscopes had updated to include online multiplayer."
   },
   [641230] = {
-    "哈哈哈哈哈哈你那个游戏记录也太惨了哈哈哈哈！"
+    "Hahahahaha! That losing streak of yours is brutal, man!"
   },
   [641231] = {
-    "笑挺大声啊，等着，我要看看当面你能笑多大声。"
+    "Laugh it up while you can. You better have the guts to laugh in my face when I see you later."
   },
   [641300] = {
     "开学那天，准备把灯彩点亮挂在古董店门口。"
@@ -78698,46 +78864,46 @@ For wearin' a badge and their chosen white."]]
     "It's not every day I come to a place like this. So I'm gonna make the most of it."
   },
   [641600] = {
-    "在老街上试了家街头理发，没想到手艺不错。"
+    "Tried a street barber on a whim and was impressed with his skills."
   },
   [641610] = {
-    "你换发型了吗？快拍一张我瞧瞧！"
+    "Did you change your hairstyle? Send me a pic!"
   },
   [641611] = {
-    "？等你人来到我家不就能看到了。"
+    "? You can just come to my place and see it in person."
   },
   [641620] = {
-    "俗话说经济实惠，理发不贵，总比那些超贵的洗剪吹强。"
+    "A good haircut shouldn't cost too much. It's better than those expensive hair salon plans."
   },
   [641621] = {
-    "你怎么知道老板最后都没收我钱？"
+    "How did you know that the barber didn't even charge me?"
   },
   [641630] = {
-    "上次路过的时候发现有好多人围观，我就没凑上去看。"
+    "I saw a lot of onlookers last time I passed by one, so I didn't take a peek."
   },
   [641631] = {
-    "是有几只小猫小狗在旁边坐着，想看的话下次把你也带上。"
+    "There were a few kittens and puppies with me. You can join us next time if you want."
   },
   [641700] = {
-    "贝斯老错音，看来过几天要拿去修修了。"
+    "The bass keeps playing the wrong notes—time for a tune-up soon."
   },
   [641710] = {
-    "可惜我不在现场，没办法欣赏错音表演了。"
+    "Too bad I wasn't there to enjoy the rare mistake."
   },
   [641711] = {
-    "你那是想“欣赏”？我都懒得拆穿你。"
+    "Enjoy? I don't even want to bust your lie."
   },
   [641720] = {
-    "今天还有时间，拿去修的话应该能赶上明天的演出吧。"
+    "There's still time today. Send it for repair now and it might make to the show tomorrow."
   },
   [641721] = {
-    "合练排期太紧了赶不上，等明天你参加的那场演完了正好顺路去。"
+    "The rehearsal schedule is too tight. We'll drop it off tomorrow after the show with you."
   },
   [641730] = {
-    "应该有备用的琴吧，要不要换一把试试看？"
+    "Don't you have a backup bass? Maybe use that?"
   },
   [641731] = {
-    "ok，备用琴在床头，你待会顺路捎来吧。"
+    "Good idea. It's by the bed. Can you bring it here later?"
   },
   [641800] = {
     "Staying up late on your night off is such an amazing feeling."
@@ -79423,25 +79589,25 @@ For wearin' a badge and their chosen white."]]
     "BBQ or hot pot? Let's eat first, and then think."
   },
   [645100] = {
-    "压完马路还吃了顿烧烤夜宵，神清气爽。"
+    "Had grilled skewers after a late-night walk. It was so good!"
   },
   [645110] = {
-    "想到明早还可以赖床就更神清气爽了！"
+    "And knowing we have a sleep-in tomorrow? Pure bliss!"
   },
   [645111] = {
-    "既然你也赖床，那明天早上就没什么重要的事能叫醒我了。"
+    "Good. Then my morning is officially clear."
   },
   [645120] = {
-    "好神奇，凌晨三点的马路竟然真的没人诶！！"
+    "It's wild! The streets are actually empty at 3 a.m.!!"
   },
   [645121] = {
-    "凌晨五点的马路也没人，下个周末不如再跟着我体验一把？"
+    "Same at 5 a.m. We can test that theory next weekend."
   },
   [645130] = {
-    "除了舌头上烫了个泡之外，一切都很完美……"
+    "Perfect night... aside from the new blister on my tongue..."
   },
   [645131] = {
-    "……给你点了杯去火的冰饮，一会儿记得收。"
+    "...Got you a cold drink. It'll help."
   },
   [645200] = {
     "第一次感觉红绿灯这么漫长。"
@@ -79921,25 +80087,25 @@ For wearin' a badge and their chosen white."]]
     "Only one way to find out. You either open it or live in suspense forever. Your call."
   },
   [647500] = {
-    "我就不该相信什么“蚊子催眠曲”，不仅蚊子醒着，我也更精神了。"
+    "The whole \"sleep music for mosquitoes\" was a total scam! The mosquitoes were wide awake and so was I!"
   },
   [647510] = {
-    "是吗？我怎么感觉我屋里的蚊子明显变得行动迟缓了？"
+    "Really? I happen to think the mosquitoes in my room are falling asleep."
   },
   [647511] = {
-    "开门，我现在就把这几只蚊子送过来。"
+    "Open the door, I'm delivering fresh ones buzzing to your doorstep."
   },
   [647520] = {
-    "侧面证明你不是蚊子，挺好的！"
+    "On the bright side, it proves that you're not a mosquito."
   },
   [647521] = {
-    "正面证明你上当了。"
+    "On the down side, you got punked."
   },
   [647530] = {
-    "我给你快递个蚊香当赔礼？"
+    "How about I send you a mosquito repellent tomorrow as a sorry gift?"
   },
   [647531] = {
-    "蚊子我早处理完了，麻烦来个更有诚意的礼物。"
+    "I've handled the mosquitoes already. Bring something better."
   },
   [647600] = {
     "I really didn't expect to find THESE things inside the pouch."
@@ -80257,44 +80423,44 @@ For wearin' a badge and their chosen white."]]
     "没睡，我等人呢，这种充满挑战性的任务怎么说也得两个人一起完成。"
   },
   [649100] = {
-    "……感谢组织的栽培，可算学会怎么挑水果了。"
+    "...Well, guess I finally figured out how to pick out good-tasting fruit."
   },
   [649110] = {
-    "为什么你感谢起来，还拽拽的？"
+    "Why do you sound all smug even when you're being thankful?"
   },
   [649111] = {
-    "要是你也一天搬八百趟水果，就知道为什么了。"
+    "Ha! Try lugging crates of fruit back and forth all day, and then we'll talk."
   },
   [649120] = {
-    "太好啦，以后买水果的重任就交给你了。"
+    "Nice! That means you're officially in charge of fruit shopping now."
   },
   [649121] = {
-    "继续说，让我听听有些人还有多少个白日梦要做。"
+    "Continue. Let's see how many more wild ideas you've got."
   },
   [649130] = {
-    "这么自信？先让我品鉴品鉴，看看甜不甜~"
+    "Oh, confident much? Lemme try one first and see if it's actually sweet."
   },
   [649131] = {
-    "行，记得拿最左边的，那个最“甜”。"
+    "Go for the one on the far left—that one's extra \"sweet\"."
   },
   [649200] = {
-    "想吃？不给你。"
+    "Want a bite? Nope. Not sharing."
   },
   [649210] = {
-    "凌肖，你快给它吃！！！！"
+    "Shaw! Let it eat already!!!"
   },
   [649211] = {
-    "别胳膊肘往外拐。"
+    "Wow, really? Whose side are you on?"
   },
   [649220] = {
-    "小熊猫好，凌肖坏。"
+    "Good red panda. Bad Shaw!"
   },
-  [649221] = {"$u笨。"},
+  [649221] = {"Dumb $u."},
   [649230] = {
-    "我也要吃！"
+    "Hey! I want some too!"
   },
   [649231] = {
-    "凑什么热闹，晚点给你一个更甜的。"
+    "Chill. I'll get you an even sweeter one later."
   },
   [649300] = {
     "从入门到精通也没想象中那么难。"
@@ -80381,67 +80547,67 @@ For wearin' a badge and their chosen white."]]
     "想多了，我主打的就是随心所欲，想送就送。"
   },
   [649700] = {
-    "如果女娲真能补天，为什么不多补几个星期天？"
+    "If Nüwa was really capable of mending the sky, why didn't she give us some more Sundays?"
   },
   [649710] = {
-    "如果后羿真能射日，为什么不能帮我把工作日统统射掉！"
+    "If Hou Yi was really capable of shooting down the sun, why didn't he get rid of all workdays for me?"
   },
   [649711] = {
-    "因为那样做了，只会让每天都变成工作日。"
+    "Because doing that would only make every day a workday."
   },
   [649720] = {
-    "就算不是星期天，应该也不耽误你睡懒觉吧？"
+    "Even if it's not Sunday, you can still sleep in, can't you?"
   },
   [649721] = {
-    "懒觉我是什么时候都能睡，不像有些人，就只有星期天才能休息。"
+    "Unlike a certain someone who can only rest on Sundays, I can sleep in on any day of the week."
   },
   [649730] = {
-    "这周日你不是有Live House的演出吗，多几天你不怕累倒啊？"
+    "I thought you had a show to play in Live House this Sunday. Are you not afraid of tiring yourself out if Sunday multiplies?"
   },
   [649731] = {
-    "怕，所以这个周末和下个周末都抓你来当我的后勤。"
+    "I am, which is why I'll have you do the logistics for me this and the next weekend."
   },
   [649800] = {
-    "拍照不比耶，效果多一半。"
+    "Photos taken without a victory sign are so much better than those taken with one."
   },
   [649810] = {
-    "确实，到哪里都是剪刀手感觉太普通了。"
+    "Indeed, the two-finger victory sign is being overused and such a well-worn cliche."
   },
   [649811] = {
-    "难得在这方面和你能保持同一战线。"
+    "It surprises me that we share the same opinion in this regard."
   },
   [649820] = {
-    "但你今天拍大头贴你站着耶，坐着耶，躺着还耶，不是很喜欢耶吗？"
+    "But back in the photo booth earlier today, you made the victory sign when standing, sitting, and even lying on your back. I thought you loved this sign."
   },
   [649821] = {
-    "我还会比萨摩耶，要不要看？"
+    "I also know how to make the Samoyed sign. Wanna see it?"
   },
   [649830] = {
-    "要想效果好，比心不比耶。"
+    "The secret to good photos is putting up your heart hands, not making a victory sign."
   },
   [649831] = {
-    "那得两个人比一颗心才行。"
+    "That only works when you make the heart sign with someone else."
   },
   [649900] = {
-    "这个月是家用电器节？快递打开全是扫地机、除螨仪……找不到第二个品类。"
+    "Is this month the Electrical Household Appliance Festival? The delivery packages are all such things as a robot sweeper, a mite remover… There's nothing of a different category."
   },
   [649910] = {
-    "电器大酬宾，不买就亏了~"
+    "Electrical appliances are on sale. The discounts are too good to miss."
   },
   [649911] = {
-    "那要是零食大酬宾，家里岂不是一年都不缺零食吃了？"
+    "Well, if snacks are on sale, won't we have a year's worth of snacks in our house?"
   },
   [649920] = {
-    "本来只是买除螨仪，但是发现满减太划算，不小心就买多了……"
+    "Originally, I just wanted to buy a mite remover, but the thresholded discounts are so tempting I couldn't help buying more…"
   },
   [649921] = {
-    "借口不成立，点歌机显然是你蓄谋已久，上个月我就看见它在你的购物车里了。"
+    "Your excuse is ill-founded. Your purchase of the karaoke machine was clearly premeditated. I saw it in your Shopping Cart last month."
   },
   [649930] = {
-    "谁说没有第二个品类的，明明买了很多生活用品！"
+    "Who said there's nothing of a different category? I bought a lot of daily necessities!"
   },
   [649931] = {
-    "你指的是你贴在我额头上这个八块八一大袋的清凉贴吗？"
+    "You mean the cooling sticker on my brow, of which you can buy a large bag for 0.99 bucks?"
   },
   [650000] = {
     "The story was fun, but your reaction was even more fun."
@@ -80507,130 +80673,130 @@ For wearin' a badge and their chosen white."]]
     "对，我让它晚点上班了，今晚会很长。"
   },
   [650300] = {
-    "怎么有人自己抱上来，却说被铆钉外套暗算的？"
+    "I got pulled into a hug, and now my studded jacket is being blamed for a sneak attack?"
   },
   [650310] = {
-    "呜呜呜呜呜，我的脸上现在都还有铆钉印子呢！"
+    "Boohoo… I still have rivet marks on my face!"
   },
   [650311] = {
-    "别呜呜了，外套给你穿上，让你印回来。"
+    "Stop boohooing… I'll let you put on my jacket and get your revenge."
   },
   [650320] = {
-    "看在这件外套很帅气的份上，勉强原谅它了！"
+    "Since this jacket is so hot, I've brought myself to forgive it!"
   },
   [650321] = {
-    "要不你再仔细看看，帅气的就只有外套？"
+    "Are you sure the coat is the only one that's hot? Maybe you should take a closer look."
   },
   [650330] = {
-    "哼，下次不抱了>皿<"
+    "Humph. I won't hug you again.>皿<"
   },
   [650331] = {
-    "下次不穿这件外套了，行了吧？"
+    "I won't wear this jacket again, okay?"
   },
   [650400] = {
-    "来点电子榨菜。"
+    "Some videos to watch during meals, please."
   },
   [650410] = {
-    "也给我来点，吃饭时不看视频下饭总感觉缺了点什么。"
+    "I want some too. Eating without watching videos always makes me feel like something's missing."
   },
   [650411] = {
-    "先交出你的播放列表。"
+    "Hand over your playlist first."
   },
   [650420] = {
-    "刚好被安利了一部都市爱情剧，要不你先替我看看？"
+    "Someone has just recommended a romantic drama to me. Would you mind checking it out for me?"
   },
   [650421] = {
-    "我才不看那些没劲的，陪你的话勉强例外。"
+    "There's no way I'm watching that kind of boring stuff, but I might make an exception if you watch it with me."
   },
   [650430] = {
-    "$c新上线的综艺了解一下？看完记得repo！"
+    "How about the variety show newly released by $c? Remember to report after watching it!"
   },
   [650431] = {
-    "早就了解过了。也不知道是谁在家里加班，还征求我的意见呢？"
+    "I watched it some time ago. Didn't someone ask my opinion while working overtime at home?"
   },
   [650500] = {
-    "有些人给我买的勺子，居然比碗还大。"
+    "Someone bought me a spoon bigger than my bowl."
   },
   [650510] = {
-    "还说我呢！之前是谁忘记看尺寸，买到的对联只有手指长？"
+    "You have the nerve! Who forgot to check the size and bought greeting cards the length of a little finger the other day?"
   },
   [650511] = {
-    "那次我可是亲手写了好几副对联补上，你这次打算怎么弥补？"
+    "But I made amends by making several pairs of greeting cards with my own hands. How are you going to make up for this?"
   },
   [650520] = {
-    "毕竟是买零食的时候，“顺手买一件”里9毛9的勺子嘛！"
+    "I bought that spoon for 99 cents when buying snacks!"
   },
   [650521] = {
-    "那你晚上来Live House记得“顺手”把零食也带上。"
+    "Well then, remember to bring the snacks with you when you come to Live House tonight."
   },
   [650530] = {
-    "看到勺柄上印着“干饭人专用”，就忍不住下单了……"
+    "At the sight of the words \"Binge Eater Only\" on the handle of the spoon, I placed an order despite myself…"
   },
   [650531] = {
-    "合理，什么人买什么勺子。"
+    "That figures. Your eating habit determines the spoon you buy."
   },
   [650600] = {
-    "听到一首旋律还不错的歌，但歌词越听越不对劲，居然是个推书广告。"
+    "I heard a new song. It's not bad, but then I realized what the lyrics are about. It's an ad for some books."
   },
   [650610] = {
-    "其实仔细想想，不少广告歌都很好听！"
+    "Come to think of it, a lot of ads have pretty good songs!"
   },
   [650611] = {
-    "也是。不如你下次也给我个主题，偶尔写写“命题作文”也挺有意思的。"
+    "That's true. Maybe you should give me a theme next time. It'll be fun to write about something specific."
   },
   [650620] = {
-    "所以你被安利了什么书吗？"
+    "So, what are those books?"
   },
   [650621] = {
-    "《荒村游魂》、《纸绣鞋》、《第十三声钟响》，要看吗？"
+    "Haunted Village, The Lost Shoes of a Ghost Bride, The Thirteenth Toll... Interested?"
   },
   [650630] = {
-    "你写一个“反广告广告歌”，让他们看看什么才是真正的艺术！"
+    "You should write an anti-ad ad song and show them true art!"
   },
   [650631] = {
-    "打住，广告来广告去的，脑子都晕了。随心所欲才是艺术。"
+    "Stop right there. No more talking about ads. Art is doing whatever you feel like."
   },
   [650700] = {
-    "听说进门就把书拿在手上，可以赶在大脑反应过来之前开始看书。"
+    "I hear that if you open a book before you enter your room, you'll start reading before your brain tells you no."
   },
   [650710] = {
-    "懂了，这就把笔记本放到门口，一鼓作气！"
+    "Got it. I'm moving my laptop outside my room right now!"
   },
   [650711] = {
-    "今天给你留了Live House的门票，你最好能真的一鼓作气干完活。"
+    "I saved a live house ticket for you today, so I'm hoping it really works and you finish your work soon."
   },
   [650720] = {
-    "兵贵神速！乘其不备！"
+    "Speed is the key! Take the enemy by surprise!"
   },
   [650721] = {
-    "确实趁其不备，我刚刚拿着书走了一圈，忘了最后放哪儿了。"
+    "It really is a surprise. I walked around with a book and forgot where I put it in the end."
   },
   [650730] = {
-    "真的有用吗？我想试试！"
+    "Does it work? I want to try!"
   },
   [650731] = {
-    "如果失败了记得告诉我，我第一时间来嘲笑你。"
+    "Tell me if it doesn't work. I'll be there celebrating your failure asap."
   },
   [650800] = {
-    "有人居然第二天中午还没睡觉，有点东西。"
+    "I can't believe a certain someone stayed up till noon today. Impressive."
   },
   [650810] = {
-    "本次熬夜大赛，是我获得了冠军！"
+    "I won the all-nighter competition!"
   },
   [650811] = {
-    "赢了比赛，获得了黑眼圈，这一切真的值得吗？"
+    "And you got dark circles under your eyes. Was it really worth it?"
   },
   [650820] = {
-    "接下来我要爆睡一整天——"
+    "I'm gonna sleep a whole day now—"
   },
   [650821] = {
-    "给你点了外卖，吃完再睡。"
+    "I ordered takeout for you. Have some before you sleep."
   },
   [650830] = {
-    "Zzz……晚安…………"
+    "Zzz... Goodnight..."
   },
   [650831] = {
-    "……醒了记得给我消息。"
+    "...Message me when you wake up."
   },
   [650900] = {
     "My character got turned into a zombie, and on top the that, whoever did it decided to throw in some jump scares?!"
@@ -80654,67 +80820,67 @@ For wearin' a badge and their chosen white."]]
     "I already beat it. Watch your back, because someone's going to show up at your door in ten minutes to deliver another \"surprise.\""
   },
   [651000] = {
-    "现在小学生的研学活动都办到大学里了。"
+    "Primary schools are doing their study tours in universities now."
   },
   [651010] = {
-    "可是人家给了你糖果，你居然不回礼。"
+    "The kids gave you candy, but you didn't give anything in return."
   },
   [651011] = {
-    "我总不能给人家回我的论文初稿吧？"
+    "What was I supposed to give them? The first draft of my thesis?"
   },
   [651020] = {
-    "他们好可爱！每个都叽叽喳喳的~"
+    "They were adorable! And they were so talkative."
   },
   [651021] = {
-    "是啊，跟有些人还挺像的。"
+    "Yeah, like a certain someone."
   },
   [651030] = {
-    "我小时候怎么没有这种活动！"
+    "Why didn't I get to do this as a kid?"
   },
   [651031] = {
-    "那你没事多来找我几次，把小时候的份补上。"
+    "Come find me more to make up for it."
   },
   [651100] = {
-    "最近怎么这么多人在恋语大桥上打卡，还都摆同一个pose。"
+    "Why is everyone taking photos with the same pose on the Loveland Bridge?"
   },
   [651110] = {
-    "你不知道吗？有一部很火的电视剧在那里取景，大家都去拍同款剧照呢。"
+    "You don't know? A hit TV show was filmed there. They are all recreating a scene from the show."
   },
   [651111] = {
-    "就是你说这个周末要拉我一起看通宵的那部？"
+    "The show that you're making us binge-watch this weekend?"
   },
   [651120] = {
-    "啊啊啊我也想拍，是不是有很多人啊？"
+    "Ah, I want to do that, too! Is there a long line?"
   },
   [651121] = {
-    "想拍就过来呗，我给你排着。"
+    "Come if you want. I'll get in the line for you."
   },
   [651130] = {
-    "大喊“离开你是我这辈子最后悔的事！！”便可知道答案。"
+    "Yell \"Leaving you is my biggest regret!!\" and you'll find out why."
   },
   [651131] = {
-    "想看我出糗？还好那部电视剧我有认真点陪你看。"
+    "You're not fooling me this time. I paid more attention to watching the show with you this time."
   },
   [651200] = {
-    "有的人在我这落下的润唇膏，都够我拿去摆摊了。"
+    "Someone left enough lip balms at my place to open a little boutique shop."
   },
   [651210] = {
-    "我走的时候你怎么不跟我说！"
+    "Why didn't you tell me when I was leaving!?"
   },
   [651211] = {
-    "你放我口袋的时候也没跟我说啊。"
+    "You didn't tell me when you put it in my pocket either."
   },
   [651220] = {
-    "我才买了一只新的……"
+    "I just bought a new one..."
   },
   [651221] = {
-    "既然你有新的了，那支可乐味的就先借我用用。"
+    "Since you have a new one, I'm using this soda-flavored one for now."
   },
   [651230] = {
-    "但今天落下的那支其实是给你买的，我只是忘了说。"
+    "I actually bought the one I left for you. I just forgot to tell you."
   },
   [651231] = {
-    "难怪是可乐味的。"
+    "No wonder it's soda-flavored."
   },
   [651300] = {
     "人无聊起来的时候连看小卖部门口的八哥跟蓝牙音箱吵架都觉得好玩。"
@@ -80759,298 +80925,298 @@ For wearin' a badge and their chosen white."]]
     "我都友情客串忠实听众了，需要打赏那是另外的价格。"
   },
   [651500] = {
-    "趁着Isolated万圣专场，做点夜光道具玩玩。"
+    "Whipped up some glow-in-the-dark props for Isolated's Halloween special. Should be fun."
   },
   [651510] = {
-    "哇！万圣专场有什么特别的吗？"
+    "Ooh! What's special about the Halloween special?"
   },
   [651511] = {
-    "只接待妖魔鬼怪，闲人免进，所以记得换上我给你的夜光服再来。"
+    "Only monsters and ghosts are allowed. So make sure you're wearing that glow outfit I gave you before showing up."
   },
   [651520] = {
-    "大半夜看到身边亮着荧光吓我一跳QAQ"
+    "You glowing in the middle of the night scared the crap outta me, QAQ."
   },
   [651521] = {
-    "你自己把夜光颜料涂在我脸上，怪我咯？"
+    "You're the one who smeared glow paint on my face! How's that my fault?"
   },
   [651530] = {
-    "凌肖AKA手工大神，我可以再拥有一个你做的夜光披风吗？"
+    "Can I get another one of your awesome glow capes, Handicraft Master Shaw?"
   },
   [651531] = {
-    "看在这次你还算有眼光的份上，准了。"
+    "Hmph. Since you've got decent taste this time, I'll spare you one."
   },
   [651600] = {
-    "演出结束，带着妖魔鬼怪巡街去。"
+    "Show's over. Time to hit the streets with the big monster."
   },
   [651610] = {
-    "妖魔鬼怪在哪里？我怎么没看到！"
+    "What big monster? I don't see any!"
   },
   [651611] = {
-    "翻开你的兜帽看看，我特意把“妖魔鬼怪”给你写头顶上了。"
+    "Check under your hoodie. I literally wrote \"big monster\" on your forehead just for the occasion."
   },
   [651620] = {
-    "你知道吗……刚刚来找你要签名的阎王，签名本的封皮是“生死簿”……"
+    "Did you see that guy who asked for your autograph just now? His notebook cover said \"Note of Death\"..."
   },
   [651621] = {
-    "知道，所以我签了个“Shaw”，生死簿还能认得出英文名？"
+    "Who cares? There's gotta be a million people named Shaw out there."
   },
   [651630] = {
-    "凌导游！把你的夜光镰刀举高点，街上人太多我要被挤没了——"
+    "Can you hold your glow scythe a bit higher? I can't see you with all these people."
   },
   [651631] = {
-    "我知道，特地给你“留了一手”。牵着吧，比找镰刀有用。"
+    "Hold my hand, then. Works better than chasing a glowing scythe."
   },
   [651700] = {
-    "练了两天新字体，感觉还不错。"
+    "48 hours with a new font. Vibes are immaculate."
   },
   [651710] = {
-    "怎么突然想换字体？"
+    "What inspired the font change?"
   },
   [651711] = {
-    "为了配你上次送我的花笺。"
+    "Had to find a font worthy of that gorgeous paper you gave me."
   },
   [651720] = {
-    "不错不错，我办公室正缺一块牌匾呢。"
+    "Sounds awesome! My office wall is looking tragically empty... (hint hint)"
   },
   [651721] = {
-    "给你写个“天选牛马”？"
+    "Haha, want a custom sign? I could go with \"Queen of the Desk\" or something more... you."
   },
   [651730] = {
-    "你这么一说，我也想练练字了^ ^"
+    "You're gonna make me dig out my calligraphy set! ^ ^"
   },
   [651731] = {
-    "没问题，上次你只坚持了一周，这次我会监督你更持久^ ^"
+    "Deal. I'm on the clock this time. Let's beat your one-week record. ^ ^"
   },
   [651800] = {
-    "为什么有人发了句“我给你讲一个重磅消息”就没影了？"
+    "Why would someone just vanish after saying \"I've got huge news to tell you\"?"
   },
   [651810] = {
-    "心理测试完毕，你是“挂朋友圈型”。"
+    "It's a personality test, and you are \"the type to share it in Moments.\""
   },
   [651811] = {
-    "你有空看朋友圈，没空回我消息？"
+    "You got time to read Moments but not reply to my message?"
   },
   [651820] = {
-    "欲知消息如何，先给我点赞关注！"
+    "Like and subscribe if you are curious about the news!"
   },
   [651821] = {
-    "对这种卖关子的人，我一般选择“不感兴趣+拉黑”。"
+    "I usually just hit ignore and block when I see posts like this."
   },
   [651830] = {
-    "哼哼，承认吧！你对我说的消息很感兴趣！"
+    "Hmph, admit it! You can't wait to know what the news is!"
   },
   [651831] = {
-    "我不感兴趣的消息，你也没少扒着我的耳朵讲。"
+    "You didn't spare me from news that I genuinely had no interest in, anyways."
   },
   [651900] = {
-    "Live才刚开始，有的人就玩起开火车了。"
+    "The concert just began, and someone was making a crowd train already."
   },
   [651910] = {
-    "因为你开场弹的那首歌太燃啦！"
+    "Because the first song you played was such a blast!"
   },
   [651911] = {
-    "记得留点力气，下半场还有更燃的。"
+    "Save some strength for the second half. More songs to come."
   },
   [651920] = {
-    "明明你在台上也笑得很欢乐╭(╯^╰)╮"
+    "I saw you having fun and laughing on the stage, too. ╭(╯^╰)╮"
   },
   [651921] = {
-    "看着你找不到火车尾巴在旁边急得跳脚，是挺欢乐的。"
+    "It was fun seeing you stomping around looking for the end of the crowd train."
   },
   [651930] = {
-    "你没听到火车头那个人说“喜欢Shaw的都来”嘛，我就去看了一眼。"
+    "Didn't you hear the lead of the train say \"Join me if you like Shaw\"? So, I just went to take a look."
   },
   [651931] = {
-    "没听到，演出结束你来后台多重复几遍。"
+    "No, I didn't. Will you show it to me backstage after the show?"
   },
   [652000] = {
-    "一群人在考古工地后厨搞起了厨艺比拼，还挺像模像样。"
+    "They're doing a cooking contest in the kitchen of a dig site, and it's actually not bad."
   },
   [652010] = {
-    "一看照片里的菜卖相不错，就知道你肯定没参与。"
+    "I knew you didn't participate when I saw the appetizing pics."
   },
   [652011] = {
-    "谁说的？最中间那个萝卜雕龙就是我刻的。"
+    "Who says I didn't participate? I carved that dragon-shaped radish at the center."
   },
   [652020] = {
-    "呜呜呜我也想吃QAQ"
+    "If only I could try them, too. QAQ"
   },
   [652021] = {
-    "替你打听过了，他们下周打算再比一场，你现在过来还有机会。"
+    "I already asked for you. They're doing another round next week. There's still a chance if you come over now."
   },
   [652030] = {
-    "何止“像模像样”，明明是超级好吃！"
+    "They're not just \"not bad.\" They look mouth-watering!"
   },
   [652031] = {
-    "是，好吃到有的人半夜做梦都在回味，还啃了我一口。"
+    "Yes, so great that someone dreamed it and bit me in her sleep."
   },
   [652100] = {
-    "不知道去哪，但这样也还不错。"
+    "No idea where we're going, but somehow, it feels just right."
   },
   [652110] = {
-    "哪样啊？听不懂~"
+    "What feels just right? Gotta elaborate!"
   },
   [652111] = {
-    "唉，这么笨还是被我牵着走吧。"
+    "Tch... How are you so clueless? Good thing I'll always be holding your hand."
   },
   [652120] = {
-    "感觉在你身边我经常容易这么兴奋的样子……"
+    "Is it just me, or do I always get super hyped around you?"
   },
   [652121] = {
-    "这有什么奇怪的，要我说，你最好永远都是这种姿态。"
+    "What's wrong with that? That's what I love about you, so never let it go away."
   },
   [652130] = {
-    "你听起来也很好拐的样子。"
+    "You sound like someone who's way too easy to kidnap."
   },
   [652131] = {
-    "我这叫看你比较有诚意，勉强上个当。"
+    "If that's the case, that means I simply allowed myself to walk into your trap."
   },
   [652200] = {
-    "既然是香囊，表面和里子都很重要。"
+    "For a sachet, it's what's inside that counts—just as much as the outside."
   },
   [652210] = {
-    "哦？难不成里面的香料也是你自己挑的？"
+    "Wait, you even mixed the scents yourself?"
   },
   [652211] = {
-    "既然是我送的礼物，当然会面面俱到。"
+    "Would I give you anything less than my best?"
   },
   [652220] = {
-    "香囊内外搭配都这么用心，我好感动呀~"
+    "You put so much thought into both the inside and outside... I love it!"
   },
   [652221] = {
-    "敷衍。先具体说说我用心在哪了？"
+    "\"Love it\" is pretty generic. Come on, be specific—what do you like about it?"
   },
   [652230] = {
-    "可惜香囊只有一个，不知道是随身带着好，还是挂在家里好……"
+    "It's so special... Should I carry it with me or keep it at home?"
   },
   [652231] = {
-    "这可是独门手艺，得收费，你打算用什么来换？"
+    "Consider it a limited edition. So, what's your offer? It's not free."
   },
   [652300] = {
-    "没想到鬼市后可以无缝衔接镇上的早市。"
+    "Well, that's convenient. The morning market starts right as the ghost market packs up."
   },
   [652310] = {
-    "可惜没有午市，不然就能一直衔接下去了！"
+    "Too bad there's no afternoon market. We could've made a whole day of it!"
   },
   [652311] = {
-    "逛个集市还搞上无限流了？"
+    "What, are you trying to lock me in for a 24-hour date marathon?"
   },
   [652320] = {
-    "早市好吃的太多了！你之前怎么都没带我去？"
+    "This place is a breakfast paradise! You've been holding out on me!"
   },
   [652321] = {
-    "平时这个时间我自己都起不来，怎么带你去？"
+    "Cut me some slack. I'm usually still asleep at this hour."
   },
   [652330] = {
-    "就是太困了......早饭都吃不下了......"
+    "I'm just too tired... I don't even have an appetite anymore."
   },
   [652331] = {
-    "想吃的都买了，回去睡醒再吃。"
+    "I got all the good stuff for you. It'll be there when you wake up."
   },
   [652400] = {
-    "明明是小狗，唾腺这么发达……一甩头我还以为下大雨了。"
+    "How is this dog both adorable and a drool machine? One head shake and I'm caught in a downpour."
   },
   [652410] = {
-    "噗哈哈哈哈哈……你被狗狗口水雨包围的画面将永驻我心！！！"
+    "PFFFT HAHAHA! I'll never forget the image of you caught in that drool storm!"
   },
   [652411] = {
-    "刚换的衣服又遭殃了，啧。"
+    "My clean clothes are ruined. Great."
   },
   [652420] = {
-    "换个角度想，江边那么多人，狗狗却唯独“宠幸”了你，这是对你亲和力的认可！"
+    "But look at it this way! Of everyone here, the pup chose YOU for its personal splash zone. You should be honored."
   },
   [652421] = {
-    "……我谢谢它。"
+    "...Lucky me."
   },
   [652430] = {
-    "那你还能冒着口水雨跟它玩得这么开心~"
+    "Aww, but you were still having the best time, even in the drool-deluge~"
   },
   [652431] = {
-    "我那是在试图让它“住嘴”。"
+    "I was trying to get it to stop slobbering."
   },
   [652500] = {
-    "每次挑选纪念品的时候，有些人的“选择恐惧症”都要大发作。"
+    "Here we go again. Someone's having a crisis over souvenirs."
   },
   [652510] = {
-    "感觉这几只苗绣吊坠的花纹都很特别，实在有点难以抉择……"
+    "It's just hard to choose! The patterns on these Miao embroidery pendants are all beautiful."
   },
   [652511] = {
-    "那就别抉择了，全都拿下。"
+    "Then don't. Get them all."
   },
   [652520] = {
-    "精挑细选是对绣娘投入的时间和心血表示尊重~"
+    "I'm just paying proper respect to the craftsmanship!"
   },
   [652521] = {
-    "行，反正我喝完这听可乐还要点时间，你慢慢选。"
+    "Fine. I'm not done with my drink. No rush."
   },
   [652530] = {
-    "还剩最后一只选不出来，果断的凌同学来帮我加速一下进程？"
+    "Stuck on the last one. Want to flex those quick decision-making skills and help me out?"
   },
   [652531] = {
-    "我看左上角那只灰色的就不错，就它了。"
+    "The grey one, top left. Sorted."
   },
   [652600] = {
-    "和企鹅对视了一分钟的感想：它的正脸比侧脸呆多了。"
+    "Thought after a one-minute staring match with a penguin: it looks dumber from the front than from the side."
   },
   [652610] = {
-    "你们俩都站着不动，还以为是在比定力。"
+    "You two just stood still for a minute. I thought you were testing your focus."
   },
   [652611] = {
-    "它先跳水逃跑了，所以最后还是我赢。"
+    "It jumped into the water and fled, so I won in the end."
   },
   [652620] = {
-    "捂住企鹅耳朵：别听，是恶评！"
+    "Covering the penguin's ears: Don't listen! It's bad review!"
   },
   [652621] = {
-    "行，替你把你头上那顶企鹅帽子的耳朵捂住了。"
+    "Fine. I covered the ears of that penguin hat on your head."
   },
   [652630] = {
-    "企鹅说不定也觉得你这个人类长得很奇怪。"
+    "The penguin might also think you're a weirdly looking human."
   },
   [652631] = {
-    "企鹅的审美我管不着，你不觉得奇怪就行。"
+    "I don't care about what the penguin thinks, as long as you don't find me weird."
   },
   [652700] = {
-    "新买的鸭舌帽快递刚送到，就在沙发背后找到了失踪一个月的旧帽子。"
+    "Just as I got my new baseball cap delivered, the old one reappeared behind the sofa after going missing for a month."
   },
   [652710] = {
-    "旧的那个还很新欸，给我吧！我正好缺一个这样的鸭舌帽。"
+    "The old one still looks new. Can you give it to me? I don't have a baseball cap like that."
   },
   [652711] = {
-    "旧的那个我戴习惯了，新的给你，下次一起出门的时候正好可以凑一套。 "
+    "I'd grown used to the old one. You can have the new one, and they'll be like couple's caps next time we go out. "
   },
   [652720] = {
-    "旧的还是我找出来的，简直失物找回大师好吧？ "
+    "I found the old one. Call me Master Finder! "
   },
   [652721] = {
-    "大师，一会儿去密室逃脱，找钥匙的活也交给你了。 "
+    "Master, I'm counting on you to find the keys at the escape room later. "
   },
   [652730] = {
-    "下次在鸭舌帽上给你装个GPS定位好了。 "
+    "Next time, I'm putting a GPS tracker on your baseball cap. "
   },
   [652731] = {
-    "那下回我戴着帽子在你公司楼下搞突袭，你不就提前知道了？"
+    "Then you'll know in advance next time I pay you a surprise visit at the company with the cap."
   },
   [652800] = {
-    "在火锅店看到有人倒了两杯美式当锅底，一定是我眼花了。"
+    "I saw someone pouring two cups of Americano into their hotpot. I must have seen it wrong."
   },
   [652810] = {
-    "说不定真的会很好吃呢，要不然我们也尝试一下？"
+    "It might actually be good. Should we try it, too?"
   },
   [652811] = {
-    "行啊，正好晚上睡不着了可以通宵打游戏。"
+    "Sounds good. We can always play games all night if we can't fall asleep."
   },
   [652820] = {
-    "如果美式都可以当锅底的话，我们家可乐为什么不可以！"
+    "If they can use Americano as hotpot broth, why can't we use cola?"
   },
   [652821] = {
-    "谁说不可以，鸡翅肯定第一个反对。"
+    "Who says we can't? Chicken wings are the first to object."
   },
   [652830] = {
-    "美式？火锅？看到这个组合的时候沉默了一下。"
+    "Americano? Hotpot? My silence was deafening when I saw it."
   },
   [652831] = {
-    "有些东西可以在胃里相聚，但不能在锅里。"
+    "Some things can meet in the stomach, but not in the hotpot."
   },
   [652900] = {
     "现在网红洗发水的味道怎么越来越奇怪了。"
@@ -81200,46 +81366,46 @@ For wearin' a badge and their chosen white."]]
     "之前你许愿的那款游戏我入手了，今晚一起玩个尽兴？"
   },
   [653600] = {
-    "睡了个懒觉，起来后感觉被某种说不上来的怪异香气腌入味了。"
+    "Woke up from a marathon nap. Pretty sure I've been chemically altered by some mystery scent now."
   },
   [653610] = {
-    "是我新买的香味晶石，听说每天挥发的气味都不一样～"
+    "That's my new scent diffuser! It's supposed to be \"unpredictably inspiring.\""
   },
   [653611] = {
-    "还得是你，次次上一当，当当不一样。"
+    "Of course it is. You have a sixth sense for finding those \"life-changing\" products."
   },
   [653620] = {
-    "具体形容一下呢？"
+    "Okay, describe it. Use your words."
   },
   [653621] = {
-    "薄荷味的炸鸡加点鼠尾草，夜宵我给你弄一份吧，这样才直观。"
+    "Imagine mint-flavored fried chicken dusted with sage. I'm tempted to cook it for you so you can fully appreciate my torment."
   },
   [653630] = {
-    "(#^.^#)这个香味有助眠的功效哦，不用谢我。"
+    "It's aromatherapy for better sleep! (#^.^#) You're welcome!"
   },
   [653631] = {
-    "那必须要感谢你，今天晚上睡觉时，这样的好事我得带着你一起感受。"
+    "How \"thoughtful.\" I'm so touched, I've decided we're sharing a sleepover in this aroma tonight. Sweet dreams. (They won't be.)"
   },
   [653700] = {
-    "在参观了“三轮车创意改造展”后，居然真的有人产生了买辆三轮车的心思。"
+    "The trike customization exhibit was oddly persuasive. I think someone's online shopping."
   },
   [653710] = {
-    "我不信你在看到DIY涂鸦展示时没有一点点心动！"
+    "Come on, you can't tell me you didn't low-key love some of those DIY graffiti designs!"
   },
   [653711] = {
-    "所以如果我说我有，你就立刻下单？这样的话，我是挺心动的。"
+    "Okay, maybe. So if I admit I did, you'd order one on the spot? That's kind of tempting."
   },
   [653720] = {
-    "三轮车也是很实用的嘛，到时候带你出去享受旷野~"
+    "They're practical! We could go on so many adventures!"
   },
   [653721] = {
-    "得了吧，估计最后卖力骑回去的还得是我。"
+    "Notice the \"we.\" That's code for \"you pedal, I relax.\" Hard pass."
   },
   [653730] = {
-    "没想到三轮车经过“爆改”之后还挺酷的。"
+    "Okay fine, some of those pimped-out rides were kind of fire."
   },
   [653731] = {
-    "你回去后盯着我的滑板左右比划，不会是想给它也“爆改”吧？"
+    "I see you eyeing my skateboard. Keep your bedazzling ideas to yourself."
   },
   [653800] = {
     "两人费了一整天才折腾成功的自制希腊酸奶，吃了一口，噎得无话可说。"
@@ -81305,67 +81471,67 @@ For wearin' a badge and their chosen white."]]
     "似乎尊重了这只酒樽但又没有完全尊重。"
   },
   [654100] = {
-    "对付赖在课桌上不想动的懒猫，诀窍就是先用各种方式打破它的宁静。"
+    "How to get a lazy cat off your desk? Annoy it until it leaves."
   },
   [654110] = {
-    "效果意外的不错，慵懒小猫的胜负欲好像被激起了！"
+    "Okay, but it totally worked. The lazy thing suddenly got competitive!"
   },
   [654111] = {
-    "这叫“对症下药”，帮它彻底赶走倦怠感。"
+    "Basic psychology. Some things just need a push."
   },
   [654120] = {
-    "代入一下小猫感觉你真的好烦啊= =可为什么它还是最喜欢黏着你呢……"
+    "Honestly, the cat probably hates you... so why is it obsessed with you?"
   },
   [654121] = {
-    "这有什么好奇怪的，代入一下自己不就明白了？"
+    "Figure it out. You're living the answer."
   },
   [654130] = {
-    "嘶，这套招式怎么总感觉有点熟悉呢……好像平时我睡懒觉的时候，你就很爱这样“打扰”我！"
+    "Hang on... this sounds familiar. Isn't this your exact strategy for waking me up?!"
   },
   [654131] = {
-    "不然呢，你以为我从哪里搬来的对策。"
+    "Bingo. Consider yourself my primary source of data."
   },
   [654200] = {
-    "有些人构思策划案时的花样可真多：平板画两笔，电脑敲一会儿，本子上还要写几句。"
+    "Watching someone \"plan\" is a whole process. Tablet, laptop, notebook... can't commit, huh?"
   },
   [654210] = {
-    "这是我的独门秘诀，可以最大程度地激发灵感！"
+    "It's called a creative process. Don't worry your pretty little head about it."
   },
   [654211] = {
-    "那你怎么解释在本子上画的我的大头漫画，也是灵感的一部分？"
+    "Oh, I get that part. The giant-head portrait of me was very... artistic."
   },
   [654220] = {
-    "说是一起专心“学习”，我看凌同学分明就是在专心“观察我”~"
+    "So much for \"working together.\" Someone was just people-watching."
   },
   [654221] = {
-    "有没有一种可能，这两件事其实是可以同时做的，且没什么难度。"
+    "I'm an expert multitasker. Watching you is the main task; the work is the side quest."
   },
   [654230] = {
-    "花式构思对于提升效率不是太稳定，但一定能极大地增加工作的乐趣~"
+    "Efficiency? No. Entertainment value? Through the roof."
   },
   [654231] = {
-    "也给观看你工作的人添了不少乐趣。"
+    "Accurate. My personal entertainment system."
   },
   [654300] = {
-    "真的不冷，不用穿那么多。"
+    "I'm not cold. Seriously. Quit trying to mummify me."
   },
   [654310] = {
-    "怎么，又被谁说你只要风度不要温度啦~"
+    "Let me guess—another \"style vs. survival\" comment from someone?"
   },
   [654311] = {
-    "交报告时被沈老头拉住说了几句，还塞了件羽绒马甲。"
+    "Yeah, from Professor Shear. He wasn't impressed. Threw a vest at me."
   },
   [654320] = {
-    "年轻就是好呐~我贴着暖宝宝都还感觉有点发抖QAQ"
+    "Ah, youth. Meanwhile, I'm over here considering a second pair of pants. QAQ"
   },
   [654321] = {
-    "这跟年龄有什么关系，是因为我体质好。"
+    "Has nothing to do with age. It's called a superior immune system."
   },
   [654330] = {
-    "既然不冷，那就别把你的手揣我兜里请我吃“冰棍”(¬_¬)"
+    "So convincing. Your \"body heat\" is basically cryotherapy.(¬_¬)"
   },
   [654331] = {
-    "那不行，我也得有点冬天的参与感。"
+    "Just spreading the holiday cheer. You're welcome."
   },
   [654400] = {
     "跑车10元优惠券也算中奖？"
@@ -81492,5 +81658,26 @@ For wearin' a badge and their chosen white."]]
   },
   [655531] = {
     "医生说得多去户外逛逛，反正刚好你来了，就陪我去“安慰”一下眼睛吧。"
+  },
+  [660500] = {
+    "The haunted maze featured a \"Bankrupt Ghost\" and an \"Overworked Spirit\"... Since when are spooks so current?"
+  },
+  [660510] = {
+    "That's just too real. I can't."
+  },
+  [660511] = {
+    "Seriously, don't look. The despair is a little too convincing."
+  },
+  [660520] = {
+    "They win. No contest, the most terrifying part of this whole place."
+  },
+  [660521] = {
+    "The overworked one mentioned he's haunting his office building later. In full costume."
+  },
+  [660530] = {
+    "Huh. Never thought I'd see the day a ghost made you nope out."
+  },
+  [660531] = {
+    "I'm not worried about me. I'm worried about a certain overworked person here who might get flashbacks."
   }
 }

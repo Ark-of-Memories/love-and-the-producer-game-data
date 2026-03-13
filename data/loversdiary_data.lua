@@ -2,3010 +2,3512 @@ module("loversdiary_data", package.seeall)
 data = {
   [11001] = {
     diary_npc = 1,
-    content1 = "既然答应了某个笨蛋，我就一定会每天记录，相信发起者自己应该不会漏写日记，提出“补写申请”。",
+    content1 = "Promised a certain dummy I'd stick to this and write something every day. Wonder how long it's gonna be before she misses an entry and cries to me about it.",
     unlock_time = {1000105},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11002] = {
     diary_npc = 1,
-    content1 = "笨蛋给家里挂满了雪景图，美其名曰“降温”。思维倒是很独特，但效果不如开空调。",
+    content1 = "A certain dummy plastered the house with snowy landscape pics. Called it \"cooling the place down.\" Creative, I guess... but honestly? Why not just turn on the AC?",
     unlock_time = {1000220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11003] = {
     diary_npc = 1,
-    content1 = "今天开线上会议，合作方的猫也很感兴趣，给了它几分钟的发言时间。",
+    content1 = "Had a meeting online today. Our partner's cat looked super enthusiastic, so we gave him a few minutes to \"speak\" too.",
     unlock_time = {1000320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11004] = {
     diary_npc = 1,
-    content1 = "布丁最近好像交了麻雀朋友，每天去窗台蹲点，不过麻雀是怎么想的就不清楚了。",
+    content1 = "Pudding's been hanging out at the window a lot lately. I think he made friends with some sparrows. No clue what the sparrows think of this arrangement, though.",
     unlock_time = {1000420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11005] = {
     diary_npc = 1,
-    content1 = "布丁今天又去窗台等了，但好像被放鸽子了。",
+    content1 = "Pudding waited again today. Poor guy got stood up by his bird buddies.",
     unlock_time = {1000520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11006] = {
     diary_npc = 1,
-    content1 = "等了一个月的浆果盆栽长成了别的东西，不过果子比预想中甜，也不算亏本。",
+    content1 = "Been waiting a month for that berry plant to grow. Turns out it wasn't a pot of berries at all. But the fruit is sweet, so I'm not mad about it.",
     unlock_time = {1000620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11007] = {
     diary_npc = 1,
-    content1 = "应该感谢开在半山腰的那家咖啡馆，给了某些人一个半途而废的理由。",
+    content1 = "Thanks to that café halfway up the mountain, someone now has the perfect excuse to not make it to the top.",
     unlock_time = {1000720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11008] = {
     diary_npc = 1,
-    content1 = "今天和合作方谈得不太顺利，对方就一些细节拉扯了很久，合同估计一时半会儿签不下来，有些麻烦。",
+    content1 = "Talks with the partner went sideways today. They nitpicked on some really minute details. Doesn't look like that contract's getting signed anytime soon.",
     unlock_time = {1000823},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11009] = {
     diary_npc = 1,
-    content1 = "不留神把短信设置成自动回复模式，才知道某个笨蛋对着自动回复也能自顾自聊半天。",
+    content1 = "Accidentally set my phone to auto-reply to texts. Turns out a certain dummy can still hold a full conversation, even with a robot.",
     unlock_time = {1000920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11010] = {
     diary_npc = 1,
-    content1 = "参观笨蛋下厨的结论：做饭过程中突发灵感是大忌。",
+    content1 = "Watched a certain dummy cook today. Note to self: sudden \"creative inspiration\" mid-recipe is a surefire way to ruin dinner.",
     unlock_time = {1001020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11011] = {
     diary_npc = 1,
-    content1 = "笨蛋提出坐游艇回恋语市，考虑到距离和一路的风浪颠簸，我选择驳回。",
+    content1 = "A certain dummy suggested we take a cruise ship back to Loveland City. Considering the distance and the bumps along the road, I shut her down fast.",
     unlock_time = {1001120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11012] = {
     diary_npc = 1,
-    content1 = "从市场买了一些牛油果，配今天带回家的奶酪正好。",
+    content1 = "Picked up some avocados at the market. Perfect match with the cheese I brought home.",
     unlock_time = {1001220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11013] = {
     diary_npc = 1,
-    content1 = "看到岛上广阔的草坪总会让人心旷神怡，有机会投资建个马场。",
+    content1 = "The huge grassy field on the island is absolutely heavenly. Would love to invest in a horse ranch here someday.",
     unlock_time = {1001320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11014] = {
     diary_npc = 1,
-    content1 = "在网红街道盲目排队的结果可能是买到好吃的冰淇淋，也可能是排到隔壁办公楼里。",
+    content1 = "Blindly following a huge line could end in amazing ice cream... or an office building lobby.",
     unlock_time = {1001420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11015] = {
     diary_npc = 1,
-    content1 = "出海一趟，收获不少。看到了不错的海景，也拍了不少照片，只有钓箱空空如也。",
+    content1 = "Took the boat out today. Got some great pics, enjoyed the sea breeze... but the fishing box came back completely empty.",
     unlock_time = {1001520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11016] = {
     diary_npc = 1,
-    content1 = "被买回来的香包熏得头晕，看来明天需要专门买个小箱子装它们。",
+    content1 = "Those scented sachets someone brought back were so strong they almost knocked me out. Gotta get a separate box for them tomorrow.",
     unlock_time = {1001620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11017] = {
     diary_npc = 1,
-    content1 = "计算了今天的营业额，发现笨蛋偷吃了四块奶酪，看到这条日记记得补款，方式不限。",
+    content1 = "Did today's earnings count and caught a certain dummy stealing four pieces of cheese. If you're reading this, you owe me. Pay me back however you want.",
     unlock_time = {1001720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11018] = {
     diary_npc = 1,
-    content1 = "有个人说多称赞会让小猫变得聪明，这一套好像对某人更有效。",
+    content1 = "Apparently, praising cats makes them smarter. Not sure if it works on cats, but it definitely works on someone I know.",
     unlock_time = {1001820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11019] = {
     diary_npc = 1,
-    content1 = "谈合作的郑总请我帮忙和$c牵个线，准备下周一联系$u总，看她会不会卖我个人情。",
+    content1 = "Ms. Jeanine asked me to connect him with $c. Guess I'll call $u on Monday to see if she's willing to do me a favor.",
     unlock_time = {1001920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11020] = {
     diary_npc = 1,
-    content1 = "Souvenir今天收到了一个单纯的差评，为什么还会有人专门给没有开门的一星店铺打差评？",
+    content1 = "Got a random one-star review for the Souvenir. Hard to believe considering we weren't even open today.",
     unlock_time = {1002020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11021] = {
     diary_npc = 1,
-    content1 = "今天鱼塘歇业，更改计划去打高尔夫，结果半路开始下雨，刚回到家天又晴了……我决定晚饭做炖牛肉。",
+    content1 = "The fish pond was closed, so we swapped plans and went golfing. Halfway through, it started pouring. Got home, and the sun came out. Gonna make braised beef for dinner tonight.",
     unlock_time = {1002120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11022] = {
     diary_npc = 1,
-    content1 = "做红豆千层忘了买红豆，临时用了红豆冰淇淋代替，味道还行，但过程比较忙乱，下次还是用红豆比较好。",
+    content1 = "Tried making red bean mille-feuille but forgot the red beans... ended up using red bean ice cream instead. Tasted okay, but making it was chaos. Definitely getting the real thing next time.",
     unlock_time = {1002220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11023] = {
     diary_npc = 1,
-    content1 = "有些笨蛋对变着花样的过节一向乐此不疲，从早上收到的一堆月饼模具看，今年也不例外。",
+    content1 = "A certain dummy never gets tired of celebrating holidays in weird ways. Last time she tried stuffing the turkey with French Fries. Wonder what it's gonna be this year.",
     unlock_time = {1002320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11024] = {
     diary_npc = 1,
-    content1 = "公司吸猫群举办活动，我刚发消息，群主就私聊说奖品能直接给我，希望我不要参加，还更新了活动规则。",
+    content1 = "The cat-lovers at work are running an event. As soon as I sent a message, the group admin DMed me and told me to take the prize and not join. They even changed the rules afterward.",
     unlock_time = {1002420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11025] = {
     diary_npc = 1,
-    content1 = "有些人最近似乎沉迷于买各种“收纳神器”，现在的问题是这些神器无处收纳了。",
+    content1 = "Someone's been buying every so-called \"storage hack\" she sees. Now we need storage hacks to store all these \"storage hacks.",
     unlock_time = {1002520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11026] = {
     diary_npc = 1,
-    content1 = "今天下午又有个会，但我不准备周五加班，很巧，其他董事也不想。",
+    content1 = "Another meeting this afternoon, but I don't intend to work late on a Friday. Turns out none of the other board members want to either. Good.",
     unlock_time = {1002620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11027] = {
     diary_npc = 1,
-    content1 = "看了新名片的打样，觉得太过花哨，让设计师们重新设计，特意强调了也不想要第一版。",
+    content1 = "Saw the draft for our new business cards—way too flashy. Told the designers to redo it. Also told them specifically: don't even think about giving me another version like the first one.",
     unlock_time = {1002720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11028] = {
     diary_npc = 1,
-    content1 = "今日例行采购，由于某人把购物车堆得太满，差点被人当成超市运货推车推走。",
+    content1 = "Did the usual grocery run. Someone overloaded the cart so badly that a stranger almost mistook it for a restock trolley and tried to push it away.",
     unlock_time = {1002820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11029] = {
     diary_npc = 1,
-    content1 = "某人发的报告忘了改文件名，《臭脸猫批改版·大脑空空Ver2.0》撤回很快，但我的记忆是无法撤回了。",
+    content1 = "Someone forgot to rename the file and submitted a report named \"Stupid report I hate you ver2.0.\" She recalled the message, but I've already seen it.",
     unlock_time = {1002920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11030] = {
     diary_npc = 1,
-    content1 = "前几周说过不太顺利的合同签下来了，不过考虑到这次浪费的时间，之后会找其他企业合作。",
+    content1 = "That contract that was dragging finally got signed. Considering all the time we wasted, I'm definitely working with someone else next time.",
     unlock_time = {1003020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11031] = {
     diary_npc = 1,
-    content1 = "某人的报告确实有进步，但这不足以构成明天我们双双请假去游乐园庆祝的理由。不过周末可以。",
+    content1 = "I'll admit, someone's report-writing skills are getting better. Not enough for us both to skip work and celebrate at an amusement park, though. Let's not get ahead of ourselves. The weekend's open, maybe.",
     unlock_time = {1003120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11032] = {
     diary_npc = 1,
-    content1 = "宠物店发短信说“欢迎$u小姐带李泽言到店免费洗护”，不知道$u小姐什么时候记得改改登记信息？",
+    content1 = "The pet store sent a message saying, \"Ms. $u, you still have a free grooming session with us. Feel free to bring Victor in any time.\" Would be great if Ms. $u could update her pet registration info sometimes.",
     unlock_time = {1003220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11033] = {
     diary_npc = 1,
-    content1 = "预订的香辛料到了，试做了几道新菜品，可惜品尝官要加班到深夜，但美食不等人。",
+    content1 = "The spices I ordered came in today. Tried a few new dishes. Unfortunately, the \"official taster\" is stuck working late. Shame. Delicious food waits for no one.",
     unlock_time = {1003320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11034] = {
     diary_npc = 1,
-    content1 = "调休前的周末原本很闲适，结果两只小猫打架，撞倒了爬架还碰翻了水盆，徒增了不少工作量。",
+    content1 = "Thought I'd get a quiet weekend. Instead, the two cats went into full wrestling mode and flipped the cat tree and the water bowl. So much for that.",
     unlock_time = {1003420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11035] = {
     diary_npc = 1,
-    content1 = "有人在我睡前捧着平板看剧，第二天我醒了还没睡。于是，我理所当然地在她忘记今天要补班的哀嚎中出了门。",
+    content1 = "Someone stayed up all night watching dramas on her tablet. I left this morning to the sound of her realizing today's a workday.",
     unlock_time = {1003520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11036] = {
     diary_npc = 1,
-    content1 = "假期前一天，华锐准点下班率达到了今年的巅峰。",
+    content1 = "LFG is holding a team-building event tonight, and the company suddenly has its highest clock-out-on-time rate of the year.",
     unlock_time = {1003620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11037] = {
     diary_npc = 1,
-    content1 = "Souvenir节假日歇业，有急事电联老板本人。",
+    content1 = "Souvenir's closed for the holidays. Call the boss directly if you have something urgent.",
     unlock_time = {1003720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11038] = {
     diary_npc = 1,
-    content1 = "在客厅玩体感钓鱼，见识到了某人层出不穷的创意甩杆动作。",
+    content1 = "Tried virtual fishing in the living room. Can't believe how many insane rod-swinging styles a certain someone came up with.",
     unlock_time = {1003820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11039] = {
     diary_npc = 1,
-    content1 = "今天在钓鱼游戏里比某人少一条。游戏归游戏，但现实是现实，希望下次去钓场的时候，笨蛋不会这么嚣张。",
+    content1 = "Lost by one fish in the fishing game today. I know it's just a game, but when we're actually out at the fishing pond next time, I really hope that a certain dummy tones it down.",
     unlock_time = {1003920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11040] = {
     diary_npc = 1,
-    content1 = "柜子里吃灰的揉面机变成了投石机，写完日记我就去处理黏在天花板上的面团。",
+    content1 = "The dough mixer that's been collecting dust in the cabinet turned into a trebuchet. Gonna finish this entry and scrape the dough off the ceiling.",
     unlock_time = {1004020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11041] = {
     diary_npc = 1,
-    content1 = "强者不抱怨环境。比起把厨房的法棍拆得七零八落，用它当“武器”敲核桃，不如吃之前先烤一烤。",
+    content1 = "Strong people don't blame their environment. But maybe don't smash a baguette to bits trying to crack walnuts next time? Just toast it and eat it like a normal human.",
     unlock_time = {1004120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11042] = {
     diary_npc = 1,
-    content1 = "随着布丁打落手机的动作越来越熟练，某人成为百万宠物博主的计划也宣告破产。",
+    content1 = "Pudding's getting scarily good at knocking phones off tables. Meanwhile, someone's \"become a famous pet influencer\" plan is officially dead.",
     unlock_time = {1004220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11043] = {
     diary_npc = 1,
-    content1 = "去年来偷吃过猫粮的刺猬又出现了，这次还带了几只小刺猬，还是第一次知道原来我开了个“家庭餐厅”。",
+    content1 = "The hedgehog that used to sneak in and steal cat food last year is back—with babies. I guess I've been running a family restaurant without knowing it.",
     unlock_time = {1004320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11044] = {
     diary_npc = 1,
-    content1 = "假期结束，下个长假是过年。符合客观事实的安排，在某人的哼哼唧唧中丝毫未变。",
+    content1 = "Holiday's over. Gonna be a long time before the next one, much to the groaning of a certain someone.",
     unlock_time = {1004420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11045] = {
     diary_npc = 1,
-    content1 = "笨蛋送来了积木小树，试图当做枯死的发财树替代品，这个解决方法真是让人叹为观止。",
+    content1 = "A certain dummy brought over a little building block tree to replace the dead money tree. Can't decide if I'm impressed or deeply concerned.",
     unlock_time = {1004520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11046] = {
     diary_npc = 1,
-    content1 = "我其实一直不明白，既然不擅长打高尔夫，为什么一定要去高尔夫球场谈生意？是觉得华锐会议室风水不够好吗？",
+    content1 = "Never understood why people insist on doing business at golf courses when they're awful at golf. Is LFG's meeting room cursed or something?",
     unlock_time = {1004620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11047] = {
     diary_npc = 1,
-    content1 = "布丁在舔毛，笨蛋在加班，今天一切普通，决定写完日记早点睡觉。",
+    content1 = "Pudding's grooming himself. A certain dummy's still at work. Gonna finish this entry and hit the sack early.",
     unlock_time = {1004720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11048] = {
     diary_npc = 1,
-    content1 = "想起来，某人想让我给这次一起出门的vlog取个名字。感觉叫“带上笨蛋去出差”就很好。",
+    content1 = "Just remembered a certain someone asked me to think of a name for the vlog of our recent trip. \"Taking the Dummy on a Business Trip\" sounds just right.",
     unlock_time = {1004820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11049] = {
     diary_npc = 1,
-    content1 = "出差预定的酒店是宠物友好酒店，刚进酒店大厅就被猫赖上了，不知道回来之后布丁还能不能保持友好。",
+    content1 = "Booked a pet-friendly hotel for the trip. A cat in the lobby glued to me the moment I walked in. Let's see how friendly Pudding still is when I get home.",
     unlock_time = {1004920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11050] = {
     diary_npc = 1,
-    content1 = "跟合作方品尝了地方特色甜品，很符合某个笨蛋的喜好，跟老板请教了做法，可以作为下次的特殊菜单。",
+    content1 = "Tried some local desserts with our partner today—totally something a certain dummy would love. Got the recipe too. Might add it to our special menu next time.",
     unlock_time = {1005020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11051] = {
     diary_npc = 1,
-    content1 = "帮某人关电脑发现壁纸被换成了“我爱工作”，希望这份爱会在明天的策划案里体现出来。",
+    content1 = "Helped shut down a certain someone's computer and saw her new wallpaper which said \"I love work.\" I really hope that energy carries over into tomorrow's proposal.",
     unlock_time = {1005120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11052] = {
     diary_npc = 1,
-    content1 = "新换上的“我爱李泽言”壁纸，也丝毫没能掩饰策划案毫无进展的事实。真可惜。",
+    content1 = "Wallpaper got changed to \"I love Victor.\" That means she didn't finish the proposal. Shame.",
     unlock_time = {1005220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11053] = {
     diary_npc = 1,
-    content1 = "华锐娱乐室根据调查问卷，增购了一批按摩午睡椅。想了一下，下次可以在员工福利里加上养生馆打折券。",
+    content1 = "LFG's rec room added a bunch of massage nap chairs after that staff survey. Thinking next time we should throw in spa coupons under employee perks.",
     unlock_time = {1005320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11054] = {
     diary_npc = 1,
-    content1 = "本来想跟段律师讨论一下合同详情，结果他踩点下班了。我安排了明天一早的会议，想必他能准时到场。",
+    content1 = "Needed to go over some contracts with our lawyer today, but he left right on the dot. Booked him for an early meeting tomorrow. He'd better be on time.",
     unlock_time = {1005420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11055] = {
     diary_npc = 1,
-    content1 = "给布丁买了小型躺椅后，在天台晒太阳的某人也多了个伴。",
+    content1 = "Got Pudding a little deck chair. Now a certain someone has a buddy to sunbathe with on the terrace.",
     unlock_time = {1005520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11056] = {
     diary_npc = 1,
-    content1 = "家里的骆驼摆件都被排成了整齐的一列，不知道这支商队日后会卖丝绸还是运茶叶。",
+    content1 = "Came home to find all the little camel figurines lined up in a perfect row. Wonder if this caravan's hauling silk or tea.",
     unlock_time = {1005620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11057] = {
     diary_npc = 1,
-    content1 = "最近经常有员工给食堂提建议，中午去体验了一下，确实应该丰富一下菜色。华锐还不至于让员工为吃饭发愁。",
+    content1 = "Employees have been suggesting cafeteria menu changes lately. I tried lunch today and... yeah, they're right. It could use some variety.",
     unlock_time = {1005720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11058] = {
     diary_npc = 1,
-    content1 = "鉴于笨蛋办的游泳卡要过期了，还一次都没有用过，从这周起一定要抓她一起去游泳。",
+    content1 = "A certain dummy's swim pass is about to expire, and she still hasn't used it once. Starting this week, I'm dragging her to the pool whether she likes it or not.",
     unlock_time = {1005820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11059] = {
     diary_npc = 1,
-    content1 = "今天采访，记者问华锐是否允许办公室恋情，我说华锐只为员工的薪资及福利负责。真希望他们多关注专业问题。",
+    content1 = "Had an interview today. The reporter asked if LFG allows dating in the office. I told her LFG only cares about the well-being of its employees. Wish they'd be a little more professional.",
     unlock_time = {1005920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11060] = {
     diary_npc = 1,
-    content1 = "布丁找到了新爱好：和人一起看动物纪录片。看来它的麻雀朋友彻底结束了这场单方面的友谊。",
+    content1 = "Pudding's developed a new hobby: watching nature documentaries with humans. Looks like his friendship with the sparrow is officially over.",
     unlock_time = {1006020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11061] = {
     diary_npc = 1,
-    content1 = "家附近超市的鸡蛋和肉类都涨价了，不知道是超市自己的问题，还是市场有变动。计划之后有空时了解一下。",
+    content1 = "Egg and meat prices went up at the nearby grocery store. Not sure if it's just that store or the market in general. Gonna dig into it when I have time.",
     unlock_time = {1006120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11062] = {
     diary_npc = 1,
-    content1 = "笨蛋说降温不想出门游泳，又说着降温，赖在水里不愿意出来。基于这个借口这么万能：明天降温，我不做布丁。",
+    content1 = "A certain dummy said it was too cold to go swimming—then jumped in and said it's too cold to come out. If \"cold\" is an excuse for everything, then I'll use that to skip making pudding tomorrow.",
     unlock_time = {1006220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11063] = {
     diary_npc = 1,
-    content1 = "下班路上看到河边有不少人在钓鱼。停下来看了一会儿，一条鱼没见到。",
+    content1 = "Passed by the riverside after work—tons of people fishing, not a single catch though.",
     unlock_time = {1006320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11064] = {
     diary_npc = 1,
-    content1 = "从之前快递箱的数量，已经可以想到今天的排场了。不过既然笨蛋自以为隐瞒得很好…………就当做不知道吧。",
+    content1 = "Saw the mountain of delivery boxes and already knew what kind of day it was gonna be. Dummy thinks she's sneaky. I'll just pretend I didn't notice.",
     unlock_time = {1006420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11065] = {
     diary_npc = 1,
-    content1 = "华锐连续被选入制定行业规则企业，今年的提案是将员工家属及宠物也纳入公司医疗统筹内，希望有推广的可能。",
+    content1 = "LFG got voted as the city's exemplary company again. This year's proposal includes medical coverage for employees' families and pets. Hope it happens.",
     unlock_time = {1006520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11066] = {
     diary_npc = 1,
-    content1 = "刚腾空的装水果的纸箱成了布丁的快乐据点，趁它从透气孔伸出爪子偷袭卡住时，顺手给它剪了个指甲。",
+    content1 = "The fruit box I just emptied out instantly became Pudding's new hideout. Caught his paw sticking out through the air hole and trimmed his nails while he was trapped.",
     unlock_time = {1006620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11067] = {
     diary_npc = 1,
-    content1 = "面试问应聘者还有什么问题，她想了想，问能不能偶尔带狗上班。原则上可以，但要提前跟同层的另一只狗商量。",
+    content1 = "Interviewed someone who asked if dogs were allowed in the office. Said it's okay in principle—as long as the other dog in the office is okay.",
     unlock_time = {1006720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11068] = {
     diary_npc = 1,
-    content1 = "介于打麻将时，某人手表的心率预警音随时能透露抓到牌的好坏，推荐下次摘了手表再上牌桌。",
+    content1 = "Was playing mahjong. A certain someone's smartwatch kept beeping whenever she drew a good tile. For her sake, best take it off next time.",
     unlock_time = {1006820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11069] = {
     diary_npc = 1,
-    content1 = "今天清冰箱里的存货，发现一包去年的汤圆和不确定是哪年的鱼丸，看来之前的清理还不够彻底。",
+    content1 = "Did a fridge sweep. Found some rice balls from last year and fish balls from... some unknown year. Apparently, \"cleaning it out last time\" was a lie.",
     unlock_time = {1006920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11070] = {
     diary_npc = 1,
-    content1 = "被大数据推送了“天冷吃肉蟹煲的九大好处”，很怀疑这部手机被笨蛋收买了。",
+    content1 = "My phone just recommended an article titled \"9 Benefits of Eating Crab Casserole in Cold Weather.\" What, is my phone working for a certain dummy now?",
     unlock_time = {1007020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11071] = {
     diary_npc = 1,
-    content1 = "第一次听说有合作方迟迟不签合同，是因为觉得餐馆很好吃，想多吃一会儿。",
+    content1 = "Found out today that one of our partners kept dragging out the contract... which was because they really liked the restaurant and wanted to keep eating there. First time for everything, I guess.",
     unlock_time = {1007120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11072] = {
     diary_npc = 1,
-    content1 = "每次逛商场时，有些人在美食层穿梭的身影，都像回家一样轻车熟路。",
+    content1 = "Every time I'm at the mall, I always spot someone gliding through the food court like she knows the place inside and out. You can tell who the real foodie is.",
     unlock_time = {1007220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11073] = {
     diary_npc = 1,
-    content1 = "……看到咖啡店海报上层出不穷的“冬日甜蜜”，就知道又到了焦糖、榛果和奶油三分天下的季节。",
+    content1 = "Saw one of those café posters today. They've got caramel, hazelnut, and whipped cream. Bet someone would love those.",
     unlock_time = {1007320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11074] = {
     diary_npc = 1,
-    content1 = "下午打开邮箱发现了某人发来的《立冬大餐策划案》，荣获今年最佳策划案提名。不过菜品过多，只能部分实现。",
+    content1 = "Opened my inbox this afternoon and a proposal for a \"big winter feast.\" Doesn't take a genius to guess who it's from. Shame there's no way we can pull off the entire menu. Gonna have to cherry-pick the doable ones.",
     unlock_time = {1007420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11075] = {
     diary_npc = 1,
-    content1 = "被邀请去参加圆桌对谈。与会的几位嘉宾都很有水准，其中有个异业的食品公司很有合作潜力，日后找机会详谈。",
+    content1 = "Got invited to a conference today. The guests were all really sharp, and one of the food brands there might actually be a great fit for future collaborations. Making a mental note to follow up.",
     unlock_time = {1007520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11076] = {
     diary_npc = 1,
-    content1 = "昨天对谈的节目播出了。从谈判桌对面看，我的正脸看上去好像是有一点严肃。",
+    content1 = "The conference got aired today. Watching the replay... I do look a little too serious on camera.",
     unlock_time = {1007620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11077] = {
     diary_npc = 1,
-    content1 = "家里的扫地机器人app显示机器故障无法行驶，回家一看果然是被布丁关进卧室出不来了。",
+    content1 = "The Roomba sent me a notification saying it couldn't move. Got home and, yep—Pudding trapped it in the bedroom again.",
     unlock_time = {1007720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11078] = {
     diary_npc = 1,
-    content1 = "即使连续遭遇货不对板的情形，某人的购买欲依旧没有被打消。在这一点上，的确能称得上不屈不挠。",
+    content1 = "Even after a string of bad products, a certain someone's shopping motivation is still unshaken. Truly the definition of perseverance.",
     unlock_time = {1007820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11079] = {
     diary_npc = 1,
-    content1 = "出发去国外谈合作，路上还有几个线上会议要开，以防因时差原因，被某人强行记一笔“不写日记”，提前先写。",
+    content1 = "Heading overseas for partnership talks soon. And a few online meetings on the way too. Just in case someone tries to say \"you missed a diary entry\", I'm writing this one early.",
     unlock_time = {1007920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11080] = {
     diary_npc = 1,
-    content1 = "按日程，今天的重点商谈企业很注重细节，估计会拉个漫长的会。",
-    content2 = "合作意外很顺利。不过途中，某航的飞机餐有失水准，勉强能吃。",
+    content1 = "Today's meeting is with one of those really nitpicky companies. This is gonna be a long one.",
+    content2 = "Went surprisingly smoothly. On the bad side, the food on the flight was only barely edible.",
     unlock_time = {1007920, 1008120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11081] = {
     diary_npc = 1,
-    content1 = "今天的合作对象曾经也交流过几次，应该会比较顺利。",
-    content2 = "老董事长对“风水”文化颇感兴趣，说华锐名字有金，我的名字有水，今后定然更发达，承他吉言。",
+    content1 = "Today's meeting is with a company I've talked with before. Should go pretty smoothly.",
+    content2 = "Their president is really into feng shui. Said something about my name and LFG's name being in harmony and stuff. Thanks for his kind words!",
     unlock_time = {1007920, 1008120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11082] = {
     diary_npc = 1,
-    content1 = "在家里发现了几本有关“向上管理”的书，期待某人的学习成果。",
+    content1 = "Found a couple of books at home on how to work proactively. Here's hoping she actually takes it in.",
     unlock_time = {1008220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11083] = {
     diary_npc = 1,
-    content1 = "带布丁去例行体检，一切正常。它看起来也很关心具体结果，对着医生的电脑看了半天。",
+    content1 = "Took Pudding for his routine check-up. Everything's normal. He was staring at the vet's computer like he was trying to read the charts himself.",
     unlock_time = {1008320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11084] = {
     diary_npc = 1,
-    content1 = "让魏谦把晚宴邀请推了，不需要借口，直接说李泽言也是有家庭和周末的。",
+    content1 = "Told Goldman to cancel the dinner invite. No excuses needed—just say Victor has a family to enjoy the weekend with, too.",
     unlock_time = {1008420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11085] = {
     diary_npc = 1,
-    content1 = "谁都有不想上班的时候，尤其在有三个小时起步的董事会的时候。",
+    content1 = "We all have moments when we'd rather not go to work, especially when the board meeting has a minimum runtime of three hours.",
     unlock_time = {1008520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11086] = {
     diary_npc = 1,
-    content1 = "今天早到了，看电梯间人不多就没用专梯。结果刚走进去，其他人全走了出来。下次还是继续用专梯吧。",
+    content1 = "Got to the office early today. Thought the regular elevator still had room, so I skipped the executive one. The second I stepped in, everyone got out. Back to the executive elevator it is.",
     unlock_time = {1008620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11087] = {
     diary_npc = 1,
-    content1 = "用笨蛋策划案的风格写一篇日记——今日行程：开会，在开会的路上，以及开完这个会去下个会的路上。",
+    content1 = "Gonna try to write today's entry like a certain dummy writes her proposals: \"To-do list: attend meeting, go to meeting, walk from the meeting to another meeting.\"",
     unlock_time = {1008720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11088] = {
     diary_npc = 1,
-    content1 = "上次在高尔夫球场受挫的合作方老总这次把约谈地点定在了网球场，但我认为结局并不会有什么改变。",
+    content1 = "The partner who sucked at golf scheduled our next meeting at a tennis court. I doubt changing sports is gonna change the outcome.",
     unlock_time = {1008820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11089] = {
     diary_npc = 1,
-    content1 = "有记者问华锐员工福利领先业界的原因，虽然为采访说了不少，但原因很简单。华锐不止是李泽言一个人的华锐。",
+    content1 = "A reporter asked why LFG is an industry leader in employee benefits. I gave a long-winded answer, but the truth is simple: LFG may have my name on the door, but its success was built on the tireless contributions of all its employees.",
     unlock_time = {1008920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11090] = {
     diary_npc = 1,
-    content1 = "笨蛋在网上学习了“凸显秋冬氛围感的长围巾系法”，实操结果是把我围成了一个粽子。希望能重学。",
+    content1 = "A certain dummy tried learning some exotic scarf-tying method online. I ended up looking like I was heading for the gallows.",
     unlock_time = {1009020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11091] = {
     diary_npc = 1,
-    content1 = "之前下单的“猫窝茶几”到了，看得出布丁也很想帮忙组装，可惜爪子拿不起零件，反而拨得越来越远。",
+    content1 = "The cat-bed coffee table I ordered finally arrived. Pudding was eager to help with assembly, but his paws only managed to swat pieces farther away.",
     unlock_time = {1009120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11092] = {
     diary_npc = 1,
-    content1 = "周一的组成是一个又一个长会，好在按时下班，否则就要委屈空运来的有机果蔬了。",
+    content1 = "Monday equals meeting marathon. Thankfully, we wrapped up on time. Otherwise, the organic produce I had air-shipped would've all gone to waste.",
     unlock_time = {1009220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11093] = {
     diary_npc = 1,
-    content1 = "今天的酥皮洋葱汤很成功，戴泳镜打下手的某人也提供了不少情绪价值。",
+    content1 = "French onion soup turned out great today. Shoutout to a certain someone wearing swimming goggles while helping out, certainly made things more entertaining.",
     unlock_time = {1009320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11094] = {
     diary_npc = 1,
-    content1 = "布丁毛发纷飞的时节，家里的黑色衣服都会首当其冲成为重点受害对象。",
+    content1 = "Pudding's shedding like crazy, and the clothes in black are definitely the first to suffer.",
     unlock_time = {1009420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11095] = {
     diary_npc = 1,
-    content1 = "下班时发现市政好像在换装饰，原来不知不觉中已经到这个时候了，是该提前计划一下。",
+    content1 = "Noticed the city putting up new decor on my way home. Didn't even realize it was that time of year already. Should probably start prepping too.",
     unlock_time = {1009520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11096] = {
     diary_npc = 1,
-    content1 = "蔬菜供应商拓宽了商品品类，看来Souvenir的菜单又能添上几道新菜品。之后可以找机会研究一下搭配。",
+    content1 = "Our veggie supplier expanded their lineup. Looks like Souvenir might get some new seasonal dishes. Gonna take some time and experiment when I get the chance.",
     unlock_time = {1009620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11097] = {
     diary_npc = 1,
-    content1 = "在$u总送来的月度总结中，发现了《Souvenir本月开张时长总结》。看来$c的工作不是很饱和。",
+    content1 = "Spotted a monthly report from $u today with a full breakdown of \"Souvenir operating hours.\" Looks like $c might be underloaded with work this month...",
     unlock_time = {1009720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11098] = {
     diary_npc = 1,
-    content1 = "白天打字和某人聊方案，她丢下一句“我知道了！”就消失了一整天。希望明天可以在日记本上确认她的行踪。",
+    content1 = "Texted a certain someone all day about a proposal. She replied, \"Got it!\" and vanished for the rest of the day. Hoping her diary entry tomorrow can tell me what she did.",
     unlock_time = {1009820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11099] = {
     diary_npc = 1,
-    content1 = "采购部提交了年会抽奖礼品的计划清单，祝大家好运。",
+    content1 = "Procurement just submitted the prize list for the upcoming company party. Good luck, everybody.",
     unlock_time = {1009920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [11100] = {
     diary_npc = 1,
-    content1 = "“日记写完”和“获得奖励”之间并没有逻辑关联。不过回看了这一百天某人写下的点点滴滴，可以考虑接招。",
+    content1 = "There's technically no reward for \"writing a diary.\" But after flipping back through the last 100 entries someone's done... maybe I can make an exception.",
     unlock_time = {1010005},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21001] = {
     diary_npc = 2,
-    content1 = "将对彼此的分享欲以日记的形式表达，或许会带来完全不同的感受。我想这一百天会为我们带来更多新的期待。",
+    content1 = "Maybe putting the desire to share into a journal will bring a whole new experience. I hope these hundred days bring us precious memories and new anticipations.",
     unlock_time = {1000105},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21002] = {
     diary_npc = 2,
-    content1 = "生科所要拍宣传视频，大家采纳了我提出的建议，看来和大制作人相处久了，我也学到了不少东西。",
+    content1 = "The Institute is filming a promotional video. They went with my idea. I suppose spending time around a certain well-known producer has taught me more than I realized.",
     unlock_time = {1000220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21003] = {
     diary_npc = 2,
-    content1 = "今天隔壁的商圈下午断电大维修，我想，研究所的器材们或许也想“加入”这场休息，于是决定也一起放假半天。",
+    content1 = "There was a major power outage in the shopping center next door. I took it as a sign. The lab equipment probably deserved a break too, so we called it a half-day.",
     unlock_time = {1000320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21004] = {
     diary_npc = 2,
-    content1 = "看了一场菌类展览，见识到了“毁灭天使”、“大蒜味降落伞”，对其他领域学者的命名能力，有了全新的认识。",
+    content1 = "Went to a fungi exhibit today. Saw names like \"Angel of Destruction\" and \"Garlic-Scented Parachute.\" I left with a newfound admiration for the creativity of other scientific fields.",
     unlock_time = {1000420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21005] = {
     diary_npc = 2,
-    content1 = "今天阿明中了彩票，虽然只有15块，他还是大方地请整个实验室喝了泰式奶茶。",
+    content1 = "Pete won a small lottery today. It was only 15 bucks, but he insisted on buying the entire lab boba tea.",
     unlock_time = {1000520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21006] = {
     diary_npc = 2,
-    content1 = "听说昨天的奶茶让大家集体失眠，被迫通宵了。我倒是觉得没什么影响(*￣︶￣)",
+    content1 = "Apparently, that boba tea kept everyone awake all night. A full-lab insomnia incident. Personally? Slept just fine. (*￣︶￣)",
     unlock_time = {1000620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21007] = {
     diary_npc = 2,
-    content1 = "劳森博士最近去度假了，他说自己从博茨瓦纳给我们寄了明信片，希望能顺利收到。",
+    content1 = "Dr. Lawson went on holiday. He messaged, saying he's sent postcards from Botswana. Looking forward to receiving them.",
     unlock_time = {1000720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21008] = {
     diary_npc = 2,
-    content1 = "今天在讨论会上回复了$u小姐的信息，所以走神了几次，不过好在没有影响发言和答疑。",
+    content1 = "I got a little distracted during today's panel while replying to Miss $u's message. Still managed to keep my thoughts organized, thankfully.",
     unlock_time = {1000820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21009] = {
     diary_npc = 2,
-    content1 = "看了看今年的新生，有几位看起来很不错，今年或许可以考虑扩张一下实验室的人员了。",
+    content1 = "Met this year's batch of new students. A few stand out already. It might be time to consider expanding the lab's capacity.",
     unlock_time = {1000920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21010] = {
     diary_npc = 2,
-    content1 = "等她下班的时间里做完了这个季度的数据分析，还看完了两本书。时间偶尔也会很漫长。",
+    content1 = "While waiting for her to finish work, I completed the quarterly data analysis and read two books. Guess time stretches differently when you're waiting for someone.",
     unlock_time = {1001020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21011] = {
     diary_npc = 2,
-    content1 = "尝试了$u推荐的烤面包和烤椰拿铁，决定把它们放到“实验室下午茶备选清单”里。",
+    content1 = "Tried the toast and roasted coconut latte $u recommended. Both were surprisingly good. I've added them to the menu for our afternoon tea.",
     unlock_time = {1001120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21012] = {
     diary_npc = 2,
-    content1 = "今天的落日很好看，一起看落日的小姑娘也是。",
+    content1 = "Tonight's sunset was stunning. The person watching it beside me is even more so.",
     unlock_time = {1001220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21013] = {
     diary_npc = 2,
-    content1 = "今天打电话跟曾教授聊了聊，他终于打算重回项目。比起去意大利捕金枪鱼，他更应该在脑科学领域发光发热。",
+    content1 = "Had a long conversation with Professor Zennick today. He's finally returning to the project. As much as I respect his tuna-chasing trip to Italy, his talents are better suited to neuroscience.",
     unlock_time = {1001320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21014] = {
     diary_npc = 2,
-    content1 = "和$u同学一起参与造景布置的生态雨林缸目前长势良好，像生长在书房里的一片小森林。",
+    content1 = "The rainforest tank I've been building with $u is thriving. It's like a tiny, living forest tucked into the study.",
     unlock_time = {1001420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21015] = {
     diary_npc = 2,
-    content1 = "实验室的同学把一些拗口难记的实验品名称按照谐音取了外号，倒也不失为一种有效的联想记忆方法。",
+    content1 = "The students have started nicknaming difficult experiment names with puns. A little unconventional, but surprisingly effective for memorization.",
     unlock_time = {1001520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21016] = {
     diary_npc = 2,
-    content1 = "研讨会结束发现收到了不少节日祝福短信，有几位学生的文字比论文要精彩，或许需要斟酌下修改意见了。",
+    content1 = "Received several warm holiday wishes after the seminar. Some of the students' words were more poetic than their thesis drafts. Might have to rethink their grades.",
     unlock_time = {1001620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21017] = {
     diary_npc = 2,
-    content1 = "午休时梦到了雪山，罗柯大为震撼，邀请我们下次一起去徒步。我婉拒了，还是和你单独见证的风景更为美丽。",
+    content1 = "Dreamed of snow-covered mountains during my nap. Locke was so inspired by the description that he invited everyone on a group hike. I declined—some things feel best when shared quietly, just between you and me.",
     unlock_time = {1001720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21018] = {
     diary_npc = 2,
-    content1 = "阿明开始关注防脱洗发水了，我提醒说可能保证健康的作息和充足的睡眠更重要，大家都发出了哀嚎。^  ^",
+    content1 = "Pete has started looking into anti-hair-loss shampoos. I reminded everyone that regular sleep and less stress are probably more helpful. Cue a collective groan from the room. ^  ^",
     unlock_time = {1001820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21019] = {
     diary_npc = 2,
-    content1 = "生科所附近又开了一家饭店，我想或许商家并没有意识到，附近只有快餐店才适合长久经营。",
+    content1 = "A new restaurant opened near the Institute. I hope they realize the only kind of demand for food here is for fast food.",
     unlock_time = {1001920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21020] = {
     diary_npc = 2,
-    content1 = "看了研究生的论文，除了“重写”之外很难给到其他建设性意见，可能他对自己的毕业时间另有安排。",
+    content1 = "Reviewed a graduate student's paper today. \"Start over\" was, unfortunately, the only real feedback I could offer. I suspect he's stalling graduation on purpose.",
     unlock_time = {1002020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21021] = {
     diary_npc = 2,
-    content1 = "作为期刊审稿人看了几篇论文投稿，感觉昨天提到过的那位研究生或许还是有救的。",
+    content1 = "Read through a few journal submissions. One of them reminded me that maybe yesterday's struggling student still has a chance.",
     unlock_time = {1002120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21022] = {
     diary_npc = 2,
-    content1 = "相册自动推送了去年一起拍的照片，或许今天也应该和$u拍一张，回赠给去年的我们。",
+    content1 = "My photo gallery showed me an old picture $u and I took last year. Maybe I should take another one with her today. Consider it a gift to us from back then.",
     unlock_time = {1002220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21023] = {
     diary_npc = 2,
-    content1 = "虽然每年过中秋的方式有所不同，但和她在万家灯火中同赏月色，已经变成了一种习惯。",
+    content1 = "We spend each New Year holiday a little differently, but one thing never changes—standing beside and quietly counting down the time has become something I quietly look forward to every year.",
     unlock_time = {1002320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21024] = {
     diary_npc = 2,
-    content1 = "今天开完研讨会后，又少了两支圆珠笔，但多了一支自动铅笔和一支碳素笔。应该也算是“收支平衡”？",
+    content1 = "After today's seminar, I found myself with two fewer pens but gained a mechanical pencil and a carbon ink pen. I can call that even, I suppose.",
     unlock_time = {1002420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21025] = {
     diary_npc = 2,
-    content1 = "自从戴上了某位同学亲手串成的幸运手串，开冗长研讨会的概率好像确实有所下降。",
+    content1 = "Ever since I wore the lucky charm bracelet she made, oddly enough, the number of those really long conferences really seems to have dropped.",
     unlock_time = {1002520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21026] = {
     diary_npc = 2,
-    content1 = "今天打开了一本很久没看的书，发现了$u曾经送给我的书签。好像收到了一份来自书本的礼物。",
+    content1 = "Opened a book I hadn't touched in ages and found a bookmark $u once gave me. It felt like a nostalgic gift from the past.",
     unlock_time = {1002620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21027] = {
     diary_npc = 2,
-    content1 = "研究生又改了一稿论文，听说他的致谢要提我的名字……不知道临时给他换个致谢导师来不来得及。",
+    content1 = "The graduate student revised his thesis again. Rumor has it he's putting me in the acknowledgments. I wonder if I still have time to politely give the credit to someone else.",
     unlock_time = {1002725},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21028] = {
     diary_npc = 2,
-    content1 = "没想到在生科所举办的“健康跑”活动里拿了第二名，或许在研究之余，也有必要加强下研究员们的身体素质。",
+    content1 = "Unexpectedly placed second in the Institute's jogging event. I suppose I should get everyone to go outside a little more.",
     unlock_time = {1002820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21029] = {
     diary_npc = 2,
-    content1 = "回家路上发现树冠上被贴了很可爱的卡通眼睛。原本想约她一起看看，可惜她在加班，实在是它们的损失。",
+    content1 = "Someone stuck a pair of cartoon eyes onto the trees lining the road. I wanted to show her, but she was working late. What a shame.",
     unlock_time = {1002920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21030] = {
     diary_npc = 2,
-    content1 = "今天的研究非常不顺利，就算让罗柯去碰碰运气，也没有得到预料中的结果。在跟大家商量要不要重新来过。",
+    content1 = "Research hit a dead end today. Not even Locke's good luck helped. Now seriously considering scrapping and starting from scratch.",
     unlock_time = {1003020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21031] = {
     diary_npc = 2,
-    content1 = "今天曾教授提议大家去城郊露营放松一下。我觉得在生科所花园支个帐篷也不错，但我没有发言。",
+    content1 = "Professor Zennick suggested we all go camping. I quietly preferred the idea of pitching a tent in the institute's garden. But I didn't voice it.",
     unlock_time = {1003120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21032] = {
     diary_npc = 2,
-    content1 = "去露营了。空气很不错，研究依旧没有进展。",
+    content1 = "Went camping. The air was fresh. The research... still stubbornly stuck.",
     unlock_time = {1003220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21033] = {
     diary_npc = 2,
-    content1 = "阿明去年培养的细胞成功存活到现在，为了庆祝他特地给细胞取了个名字，而不是如往常一样使用类别代称。",
+    content1 = "Pete's cell culture from last year is still thriving. He even gave them a proper name this time. That's a first.",
     unlock_time = {1003320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21034] = {
     diary_npc = 2,
-    content1 = "已经有研究员在讨论实验结果与哪只脚先踏入实验室的关系了，看来这次的瓶颈期给大家都带来了很大压力。",
+    content1 = "Someone in the lab is trying to correlate experiment results with which foot they stepped into the lab first. Clearly, this plateau is testing everyone's grip on logic.",
     unlock_time = {1003420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21035] = {
     diary_npc = 2,
-    content1 = "今天教室的气氛格外低迷。在提醒课题作业截止日期将近时听到一片长吁短叹，对此我也深表遗憾。",
+    content1 = "The classroom was unusually quiet today. When I reminded them that the project deadline is near, the collective groan was almost cinematic. I sympathize.",
     unlock_time = {1003520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21036] = {
     diary_npc = 2,
-    content1 = "在储藏室翻出一个陈旧的黑白放映机。虽然知道电影的结局，但并不妨碍我打开了它，沉浸在那段模糊的故事里。",
+    content1 = "Found an old black-and-white projector in the storeroom. I already knew how the film ended, but I turned it on anyway. There's something soothing in revisiting stories, even blurry ones.",
     unlock_time = {1003620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21037] = {
     diary_npc = 2,
-    content1 = "被推荐了一个据说很有挑战性的消消乐游戏，尝试了之后发现挑战性似乎不是很高，有些失落。",
+    content1 = "Got recommended a puzzle game that was supposedly hard. Tried it, finished it quickly, and now I feel slightly disappointed.",
     unlock_time = {1003720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21038] = {
     diary_npc = 2,
-    content1 = "有研究生把头像改成了一辆垃圾车，解释说这是“学术垃圾转运车”。希望他能顺利转运，也早日恢复人类的身份。",
+    content1 = "One of the students changed his avatar to a garbage truck and called it a \"good luck vehicle.\" I wish his luck would turn around soon. It's rather strange talking to a garbage truck.",
     unlock_time = {1003820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21039] = {
     diary_npc = 2,
-    content1 = "出门时看到家里的毛绒小狐狸正对着窗口晒太阳，忍不住帮它戴上了一顶遮阳帽，毕竟它没有$u帮忙涂防晒霜。",
+    content1 = "Passed by the fox plush at the window before heading out. It was sunbathing, so I gave it a tiny sunhat. It doesn't have $u to help it apply sunscreen, after all.",
     unlock_time = {1003920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21040] = {
     diary_npc = 2,
-    content1 = "起了很大的雾，身处雾中时，会感觉世界变得很小。",
+    content1 = "The fog rolled in thick today. Being wrapped in it like that made the world feel smaller somehow.",
     unlock_time = {1004020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21041] = {
     diary_npc = 2,
-    content1 = "和$u一起连看了几部假期档的片子，拿到影城特制情侣票根的时候，这位小姐灿烂的笑容胜过今日所有的镜头。",
+    content1 = "Watched a few films with $u today. When she got a special edition couple's ticket and beamed like she'd won something... honestly, her smile beat anything we saw on screen.",
     unlock_time = {1004120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21042] = {
     diary_npc = 2,
-    content1 = "在茶几摊开的笔记本上发现了一些变形成狐狸的字母，不禁补全了剩下的，可以作为独属于我们的“狐形文字”。",
+    content1 = "Found some letters made up of little foxes doodled across the notebook on the coffee table. They looked unfinished, so I filled in the rest. I think we've just invented our own \"fox script.\"",
     unlock_time = {1004220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21043] = {
     diary_npc = 2,
-    content1 = "之前留在手工店烧制的茶宠在今天到家了。颜色比烧制前变深了些，预想中的晴空变成了夜空也不失为一种惊喜。",
+    content1 = "The clay tea pet I left at the shop finally arrived. Its glaze turned out darker than I expected. I'd envisioned a clear sky; what came back looks more like midnight. Unexpected, but lovely in its own way.",
     unlock_time = {1004320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21044] = {
     diary_npc = 2,
-    content1 = "在走廊里无意中听见一个新人研究员说，自己的研究生涯毫无意义。人在压力大的情况下真是会口不择言。",
+    content1 = "Overheard a young researcher in the hallway say his work felt pointless. Under pressure, even bright people start doubting everything. I've been there too.",
     unlock_time = {1004420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21045] = {
     diary_npc = 2,
-    content1 = "比赛结束之后想到了一个更好的解法，有些可惜，原本可以更快赢棋的。",
+    content1 = "Thought of a better move right after the match ended. A bit of a shame. The win was fine, but it could've been neater.",
     unlock_time = {1004520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21046] = {
     diary_npc = 2,
-    content1 = "和恐龙蛋合了影，看了照片后觉得似乎很适合和之前收到的景观蛋壳摆在一起，这样她的心意就不孤单了。",
+    content1 = "Took a photo next to a dinosaur egg exhibit. When I looked at it later, I realized it would go perfectly with that shell ornament she gave me. Now, it won't look lonely anymore.",
     unlock_time = {1004620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21047] = {
     diary_npc = 2,
-    content1 = "在和某个小姑娘不约而同的喷嚏声中，秋天忽然来临了。",
+    content1 = "We sneezed together. Guess it's still gonna be a while before it gets warmer.",
     unlock_time = {1004720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21048] = {
     diary_npc = 2,
-    content1 = "$u同学在独立书店淘到了心心念念的绝版小说，说今晚换成她来讲睡前故事给我听，看来今晚会做一个好梦。",
+    content1 = "$u tracked down a rare out-of-print novel today in a tucked-away bookstore. She offered to read it to me tonight. I think I'm in for a good dream.",
     unlock_time = {1004820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21049] = {
     diary_npc = 2,
-    content1 = "遇见了一个小男孩自称是我的“棋迷”，问我要了签名和合影，很陌生也很新奇的体验。",
+    content1 = "A boy came up to me today. He told me he's a fan of my chess games and asked for a signature and photo. It was... strange, but in a good way.",
     unlock_time = {1004920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21050] = {
     diary_npc = 2,
-    content1 = "上午在vintage店里发现一盒很精美的古董象棋，价格似乎有些虚高，但为喜欢买单也很值得。",
+    content1 = "Found a beautiful vintage chess set this morning. A little overpriced, but the heart wants what the heart wants.",
     unlock_time = {1005020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21051] = {
     diary_npc = 2,
-    content1 = "在飞机上看到了一场完整的月落日升，像是世界送给这趟旅程的美好收尾。",
+    content1 = "Watched the moon set and the sun rise from the airplane window. A perfect little send-off for this perfect trip.",
     unlock_time = {1005120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21052] = {
     diary_npc = 2,
-    content1 = "之前说研究生涯毫无意义的同学今天得到了想要的研究结果。或许他总有一天会意识到，“这个瞬间”，就是科研的意义。",
+    content1 = "The same student who said his research was meaningless got the result he wanted today. He might not see it yet, but the success after countless failures is exactly what makes science so intoxicating.",
     unlock_time = {1005220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21053] = {
     diary_npc = 2,
-    content1 = "这次学术峰会本想让阿明替我前往，很遗憾他刚好生病了，而直到我的飞机降落在X城他才痊愈。",
+    content1 = "I'd asked Pete to attend the conference in my place, but he came down sick at the last minute. By the time I arrived, he'd somehow magically recovered. Excellent timing.",
     unlock_time = {1005320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21054] = {
     diary_npc = 2,
-    content1 = "峰会和想象中一样冗长无聊，看到壁纸上有位小姑娘可爱的笑容，时间便好像变快了许多。",
+    content1 = "The summit was as tedious as expected. But seeing her smile on my phone screen between sessions made everything feel a little more bearable.",
     unlock_time = {1005420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21055] = {
     diary_npc = 2,
-    content1 = "拜访了一位很有建树的前辈，没想到他最近爱上了烘焙。不过在品尝他的作品后，或许他更适合在科研领域深耕。",
+    content1 = "Visited a senior researcher today. Didn't expect to be offered a homemade tart. It was... earnest. Let's just say academia remains his stronger suit.",
     unlock_time = {1005520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21056] = {
     diary_npc = 2,
-    content1 = "窗口透出的暖黄灯光，还有沙发上等待到睡着的人，一切都安静又简单，却有了很多回家的实感。",
+    content1 = "Came home to the soft glow of lamplight and someone asleep on the couch waiting for me. It was simple but perfect in every imaginable way.",
     unlock_time = {1005620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21057] = {
     diary_npc = 2,
-    content1 = "阿明说写报告难以集中注意力，出于对研究负责的角度，我帮他把截止日期提前了三天，似乎解决了这个问题。",
+    content1 = "Pete said he's having a hard time focusing on his report. For the sake of science, I quietly moved his due date forward by three days. Problem solved.",
     unlock_time = {1005720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21058] = {
     diary_npc = 2,
-    content1 = "论文盲审的抽取结果出来了，不知道今年轮到的是哪几位“幸运”的同学。",
+    content1 = "The blind-reviewed assignments went out today. Can't help but wonder which \"lucky\" few were chosen.",
     unlock_time = {1005820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21059] = {
     diary_npc = 2,
-    content1 = "组会上两位意见不统一的同学争论一番后突然不约而同看向我，不过我没有给出回答，并希望他们再多交流一会。",
+    content1 = "Two students got into a disagreement during the lab meeting. When they both turned to me, I didn't give them an answer. I just encouraged them to talk it out a bit longer.",
     unlock_time = {1005920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21060] = {
     diary_npc = 2,
-    content1 = "国外团队来生科所交流，自请担任翻译的阿明虽然词汇量略有欠缺，不过在手语上的表现很好地弥补了这一点。",
+    content1 = "Pete volunteered to translate for the visiting international scientists. His vocabulary was a little shaky, but he more than made up for it in enthusiastic hand gestures.",
     unlock_time = {1006020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21061] = {
     diary_npc = 2,
-    content1 = "参加交流会时听闻一位旧友有关烟酰胺的研究有了新突破，而研究的起点，是他夫人觉得现在的面霜不太好用。",
+    content1 = "Heard that an old friend made progress in his nicotinamide research, all because his wife didn't like her face cream.",
     unlock_time = {1006120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21062] = {
     diary_npc = 2,
-    content1 = "门口的拖鞋不知何时换成了秋冬款式，毛茸茸的看上去就很暖和。",
+    content1 = "Noticed the slippers at the door had been quietly swapped for the fuzzy winter ones. Felt warmer just seeing them.",
     unlock_time = {1006220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21063] = {
     diary_npc = 2,
-    content1 = "落叶满地，和她一起散步的时候，目之所及处平添了许多深秋的浪漫。",
+    content1 = "Went on a walk with her today. The leaves had carpeted everything. There's something about fall that makes even the ordinary feel poetic.",
     unlock_time = {1006320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21064] = {
     diary_npc = 2,
-    content1 = "参与了一场以心为砝码的谋划与“较量”，权衡与失衡，贪心且快乐。我想，这场“游戏”大概永远不会终止。",
+    content1 = "Got caught up in a game of mind and hearts—half strategy, half emotion. Greedy, maybe, but also... delightful. Here's wishing this game never ends.",
     unlock_time = {1006420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21065] = {
     diary_npc = 2,
-    content1 = "半夜云散了以后，看到了很美的月光，不忍心叫醒她，拍了照片等明天给她看。",
+    content1 = "The clouds cleared late tonight, revealing the most peaceful moonlight I've ever seen. I almost woke her to see it, but took a photo instead. I'll show it to her tomorrow.",
     unlock_time = {1006524},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21066] = {
     diary_npc = 2,
-    content1 = "阿明有些苦恼地说新来的实习生似乎把他当成“百事通”了。今天观察了一下对方提问的情形，的确是个贴切的比喻。",
+    content1 = "Pete complained about the new intern treating him like a walking encyclopedia. I observed for a bit today. To be fair, he's not that far off.",
     unlock_time = {1006620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21067] = {
     diary_npc = 2,
-    content1 = "“纠正坐姿玩偶”还是有些效果的，每次和它对上目光时，都会忍不住检查自己的坐姿是否标准。",
+    content1 = "That silly posture-correcting doll I got is certainly doing its job. Every time I glance at it, I reflexively sit straighter.",
     unlock_time = {1006720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21068] = {
     diary_npc = 2,
-    content1 = "早餐在店员的推荐下选了新品，偶尔打破黑咖啡配面包的组合，好像也为今天增添了些许新意。",
+    content1 = "Tried something new at breakfast today. The barista suggested a change from my usual black coffee and toast. Honestly? It was a different experience, but pleasant nonetheless.",
     unlock_time = {1006820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21069] = {
     diary_npc = 2,
-    content1 = "有个结果只在我们实验室稳定复现，为了进一步确认，接下来两天恐怕要在实验室度过，只能申请先多写两篇了。",
+    content1 = "One of our test results only seems to replicate in our own lab. We'll need to test continuously over the next few days to figure out why. I've pre-written a few journal entries, just in case.",
     unlock_time = {1006920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21070] = {
     diary_npc = 2,
-    content1 = "今天会多设置几个组别，同时请另一个实验室开始同步进行实验，应该能解开只有我们能得到结果的谜团。",
+    content1 = "We added a few test groups and brought in another lab to replicate our test. Hopefully, this will unravel the mystery.",
     unlock_time = {1006920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21071] = {
     diary_npc = 2,
-    content1 = "希望此刻已经得到最终的结果，不然只能判定为结果不具备足够的意义。虽然很可惜，也只能推翻重来。",
-    content2 = "经对比，发现实验室的研究员们习惯接力完成实验，不会中断进程。看来，正是这些短暂的时间造成了结果变化。",
+    content1 = "Still no confirmation. If the data doesn't hold, we'll have to wipe the slate clean. A little disappointing, but that's science for you.",
+    content2 = "Turns out, our researchers were used to handing off experiments without interruption. It was those brief pauses that caused the discrepancies in the results.",
     unlock_time = {1006920, 1007125},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21072] = {
     diary_npc = 2,
-    content1 = "有位小姑娘还不知道的是，我能看破“高情商测试题”里陷阱的原因，正是她眼里未来得及掩饰的笑意。",
+    content1 = "She asked me a brain teaser today. She doesn't know that the only reason I spotted the trick answer was because of the glint in her eyes.",
     unlock_time = {1007220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21073] = {
     diary_npc = 2,
-    content1 = "清晨去了早市，趁前一位顾客砍价成功后果断跟着下手，偶尔度过一些充满生活气息的时间似乎感觉也不错。",
+    content1 = "Went to the morning market. Waited for someone else to haggle the price down, then bought what I needed. Sometimes, it's nice to enjoy these little things in life.",
     unlock_time = {1007320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21074] = {
     diary_npc = 2,
-    content1 = "和$u同学围着泥炉煮茶的时候，水沸的咕嘟声伴着炭火燃烧的细微作响，让冬日的夜晚也变得温暖起来。",
+    content1 = "Made tea with $u over charcoal tonight. Between the gentle bubbling and the crackle of the fire, the entire evening felt warm and cozy.",
     unlock_time = {1007420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21075] = {
     diary_npc = 2,
-    content1 = "又遇到了上次投喂过的三花小猫，它叼着条鱼想回赠给我，旁边的阿明哀嚎了一声，那看起来是他养在水池的鱼。",
+    content1 = "Ran into that calico cat I fed last time. This time she brought me a fish. Pete let out a groan—it looked suspiciously like one from his pond.",
     unlock_time = {1007520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21076] = {
     diary_npc = 2,
-    content1 = "偶然间听说了曾教授在学生间广为流传的几个外号，觉得颇为形象，突然很好奇我在他们口中会被称为什么。",
+    content1 = "Overheard some students discussing Professor Zennick's nicknames. Pretty spot-on. Made me wonder, what do they call me?",
     unlock_time = {1007620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21077] = {
     diary_npc = 2,
-    content1 = "每当面对“今天吃什么”这个难题时，换种思路排除掉“今天不想吃什么”或许可以更快得出想要的结果。",
+    content1 = "Whenever I can't decide what to eat, I flip the question: what don't I want? Works better than expected.",
     unlock_time = {1007720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21078] = {
     diary_npc = 2,
-    content1 = "走到实验室时看了眼手机，才发现已经11号了。午饭时大概又能看到同事讨论购物清单“查漏补缺”的情景了。",
+    content1 = "Looked at my phone while heading into the lab. It's already the 11th. About time my coworkers started discussing over lunch what's missing on the procurement list.",
     unlock_time = {1007820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21079] = {
     diary_npc = 2,
-    content1 = "去实验室的路上感觉气温好像又降了一些，或许明天应该把$u送的围巾找出来了。",
+    content1 = "It felt a little colder on the way to the lab this morning. Might be time to pull out the scarf $u gave me.",
     unlock_time = {1007920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21080] = {
     diary_npc = 2,
-    content1 = "有人讨论相机和镜子哪个更接近真实的自己，可视觉本就是大脑加工后的产物，很难说是否有“真实”存在其中。",
+    content1 = "Someone brought up the old question again—what captures the most realistic version of you, the camera or the mirror? I don't know. Perception is already filtered to begin with. Hard to say which one is more realistic.",
     unlock_time = {1008020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21081] = {
     diary_npc = 2,
-    content1 = "听所里的同事们在讨论新开的市集有很多可爱的小物件，打算周末和她一起去逛逛，再一起吃碗热腾腾的乌冬面。",
+    content1 = "Heard talk at work about a new weekend market filled with charming little knick-knacks. Thinking of going with her. A stroll, some small treasures, and a warm bowl of udon to end the day.",
     unlock_time = {1008120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21082] = {
     diary_npc = 2,
-    content1 = "世界美丽，而我只愿栖身在她的眼中。",
+    content1 = "The world is full of beauty. But honestly, I'm content just to exist in the quiet reflection of her gaze.",
     unlock_time = {1008220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21083] = {
     diary_npc = 2,
-    content1 = "在刚出锅的酒酿圆子里加一点秋天做的桂花酱，两个季节的记忆仿佛在此刻交融了。",
+    content1 = "Added a spoonful of last autumn's osmanthus jam into freshly cooked sweet rice balls. It felt like two beautiful seasons melding into one.",
     unlock_time = {1008320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21084] = {
     diary_npc = 2,
-    content1 = "在市集没有发现什么心仪的小物件。好在和她在近旁的茶铺小憩时，意外地喝到了不错的白毫银针。",
+    content1 = "Didn't find anything she loved at the market today, but we stumbled into a tea shop nearby and were treated to an unexpectedly nice cup of tea.",
     unlock_time = {1008420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21085] = {
     diary_npc = 2,
-    content1 = "准备投入新的实验项目了，听到有新人说，感觉实验永远也做不完。嗯，可能这就是科研世界永恒不变的真相吧。",
+    content1 = "Starting a new research project soon. Overheard a junior researcher complain about the experiments never ending. That's just science. The work never really finishes—it just deepens.",
     unlock_time = {1008520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21086] = {
     diary_npc = 2,
-    content1 = "一场雨过后花圃里只剩下最后一朵花，拍了张照片，希望明年还能再见。",
+    content1 = "After the rain, only one flower remained in the courtyard. I took a photo. Hope it'll still be here next spring.",
     unlock_time = {1008620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21087] = {
     diary_npc = 2,
-    content1 = "回到家里就闻到了烤饼干的香气，一到厨房，果然看见了一盘笑眯眯的小狐狸还有正在烤箱中的小兔子。",
+    content1 = "Came home to the scent of something baking. Sure enough, the kitchen held a tray of cheerful little fox cookies—and some tasty-looking rabbit ones still in the oven.",
     unlock_time = {1008720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21088] = {
     diary_npc = 2,
-    content1 = "阿明他们向新人研究员介绍了“碳素笔流浪”这一概念。不知道我自己的几支笔流浪去了哪里(*￣︶￣)",
+    content1 = "Pete introduced the new researchers to the concept of the \"wandering pen.\" I'd laugh, but I honestly have no idea where mine disappeared to, either.",
     unlock_time = {1008820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21089] = {
     diary_npc = 2,
-    content1 = "刚从国外出差回来的同事送了一罐路易波士茶，搭配柠檬草和橙皮用热水冲开，氤氲的热气和冬天很相配。",
+    content1 = "A colleague brought back a tin of rooibos from a trip abroad. I brewed it with lemongrass and orange peel. The steaming drink felt like the perfect complement to a cold winter day.",
     unlock_time = {1008920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21090] = {
     diary_npc = 2,
-    content1 = "在便利店宣传单上看到了“烤红薯口味雪糕”，产生了一些探究配料成分的念头。",
+    content1 = "Spotted a roasted sweet potato-flavored ice cream at the convenience store. Not sure if I'm intrigued or alarmed.",
     unlock_time = {1009020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21091] = {
     diary_npc = 2,
-    content1 = "冰灯概念艺术展很有趣，被大型冰雪雕塑惊艳的同时，也用相机定格了几只生动的冰蝴蝶。",
+    content1 = "Went to an ice art exhibit today. The scale was incredible. I managed to capture a few really exquisitely made ice butterflies.",
     unlock_time = {1009120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21092] = {
     diary_npc = 2,
-    content1 = "到家打开门时天已经完全黑了，没想到某位小姑娘还在公司加班，屋子里也和外面一样黑。",
+    content1 = "Came home to darkness tonight. She's still working late. Strange how a house without her feels just a bit colder.",
     unlock_time = {1009220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21093] = {
     diary_npc = 2,
-    content1 = "生科所办公位置有所调整，研究员们纷纷整理出了不少不属于自己的笔，看来今年的“碳素笔流浪”落下了帷幕。",
+    content1 = "The institute finally reshuffled the offices. Everyone found pens that weren't theirs. Looks like this year's game of \"wandering pens\" has just come to an end.",
     unlock_time = {1009320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21094] = {
     diary_npc = 2,
-    content1 = "早上起来发现玻璃上悄悄爬上来一朵小小的冰花，算是能弥补这个季节阳台上没有花在开放的遗憾。",
+    content1 = "Woke up this morning and saw a small budding tree. I guess that means spring is just around the corner.",
     unlock_time = {1009420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21095] = {
     diary_npc = 2,
-    content1 = "接连几天的阴天后突然传来即将下雪的消息，实验室里也是一片欢快的气氛，也许不是只有晴天才算是好天气。",
+    content1 = "After days of grey skies, someone mentioned it might snow. The entire lab brightened at the news. I guess a clear sky is not the only weather people look forward to.",
     unlock_time = {1009520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21096] = {
     diary_npc = 2,
-    content1 = "为实验结果撰写报告的同时，也惊讶于这两个月来时间的流逝，转眼快到来的日子，让心情不觉中也轻快了许多。",
+    content1 = "Writing the results report today made me realize how quickly these past two months have flown by. Somehow, it makes me look forward to the days ahead.",
     unlock_time = {1009620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21097] = {
     diary_npc = 2,
-    content1 = "查询快递时随口背出了单号，被她夸奖了一番，收获了今日心情最不错的瞬间。",
+    content1 = "Read out a tracking number from memory while checking my delivery, and earned an unexpected compliment from her. It turned out to be the highlight of my day.",
     unlock_time = {1009720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21098] = {
     diary_npc = 2,
-    content1 = "新开的书店窗景很好，在看书的间隙里，也欣赏到了枫叶与晚霞落笔的油画。",
+    content1 = "Discovered a small bookstore with a lovely view. Between chapters, I found myself watching the maples turn gold against the evening sky.",
     unlock_time = {1009820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21099] = {
     diary_npc = 2,
-    content1 = "随着日子一天天临近，心中也开始渐渐有了期盼，受小姑娘的影响，似乎我也越来越喜欢这种被纪念牵动的感觉。",
+    content1 = "As the date approaches, I've found myself getting quietly excited. Seems her way of marking the days has started to influence me, too.",
     unlock_time = {1009920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [21100] = {
     diary_npc = 2,
-    content1 = "提笔时想到了写第一篇日记的样子，两个人指尖的分享欲好像一直在增长，而那些新的期待，似乎每天都在发生。",
+    content1 = "When I picked up my pen today, I suddenly remembered the very first entry I wrote at the start. Funny how that impulse to share between us just keeps growing, just like our anticipation for every tomorrow.",
     unlock_time = {1010005},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31001] = {
     diary_npc = 3,
-    content1 = "当当~这里是和薯片小姐的专属日记本！保证每天坚持打卡记录，欢迎$u随时监督~",
+    content1 = "Tadaa! This is Miss Chips and my new special diary! Gonna write new entries daily like clockwork! Feel free to pop in anytime and keep me in check, $u!",
     unlock_time = {1000105},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31002] = {
     diary_npc = 3,
-    content1 = "天气又闷又热，快烤熟的周棋洛心情1颗星，回到家看到薯片小姐拿着冰可乐等我~心情100颗星！",
+    content1 = "Went to a sauna today. It was so hot I felt like a grilled potato by the end. The best part? When I got home, Miss Chips was waiting with an ice-cold soda. Win!",
     unlock_time = {1000220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31003] = {
     diary_npc = 3,
-    content1 = "跟新来的化妆助理学到了一种特别的打招呼方式——省略问候法！等见到阿薯时一定要跟她说，鸟鸟鸟！",
+    content1 = "Decided I wanted to be a little more hip today. When I see Miss Chips later, I'm gonna replace hello with wazzzzup!",
     unlock_time = {1000320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31004] = {
     diary_npc = 3,
-    content1 = "远哥不知从哪里买到了一点也不甜的西瓜和桃子，说这是有机低糖新品种……谁想出来的？抱吃！(〃＞皿＜)",
+    content1 = "Savin brought back these \"low-sugar organic\" watermelons and peaches that taste absolutely depressing. Who decided fruit should suffer like this? ARGH! (〃＞皿＜)",
     unlock_time = {1000420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31005] = {
     diary_npc = 3,
-    content1 = "今天教我马术的小老师告诉我，他坚持这份行业是因为当年很喜欢我的少年孙策TAT",
+    content1 = "My horse-riding instructor confessed today that he got into the job because he used to be a fan of my role as Sun Ce. TAT",
     unlock_time = {1000520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31006] = {
     diary_npc = 3,
-    content1 = "哎(´･ω･`)，如果马也有马薄荷或者青草罐罐这种小零食就好了，是不是训练的时候也能对我好一点。",
+    content1 = "(´･ω･`) If only there were horse mints or treats like cats have, maybe they might start being a little nicer to me during the lessons.",
     unlock_time = {1000620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31007] = {
     diary_npc = 3,
-    content1 = "趁午休的时候跟“马师傅”培养了一下感情，在几根胡萝卜的助攻下，下午控马顺利多了！",
+    content1 = "Sneaked a few carrots during lunch to get on my horse's good side. BAM—afternoon riding was smooth sailing!",
     unlock_time = {1000720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31008] = {
     diary_npc = 3,
-    content1 = "今天四页纸的戏都一遍过，导演还夸了我台词记得牢！哼哼，毕竟开机前我就开始背台词了\\n(*^▽^*)",
+    content1 = "Four full pages of script, one take, zero flubs! The director was super impressed. What can I say! I've been secretly rehearsing since before the filming even began. \\n(*^▽^*)ง",
     unlock_time = {1000820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31009] = {
     diary_npc = 3,
-    content1 = "特别受蚊子偏爱的我，今天被叮了一个心形的包！好吧，叮了我之后，就不能去叮其他工作人员了哦~",
+    content1 = "Mosquitoes clearly love me. Got bit again, and the bump looks like a heart. You'd better not go bite anyone else now!",
     unlock_time = {1000920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31010] = {
     diary_npc = 3,
-    content1 = "窗台上的迷你小向日葵开花了，收到了薯片小姐要来探班的消息，果然今天是幸运的一天！",
+    content1 = "My mini sunflower bloomed this morning, AND Miss Chips texted to say she's coming to visit the set. Coincidence? I think not. This is 100% a lucky day!",
     unlock_time = {1001020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31011] = {
     diary_npc = 3,
-    content1 = "喝到了一杯超级好喝的香水柠檬果茶！已经跟老板求到了独家秘方，等回家就能跟薯片小姐露一手了~",
+    content1 = "Had the most amazing lemon-perfume iced tea today. I begged the owner for the recipe, and guess what? He gave it to me! Can't wait to whip it up at home and impress Miss Chips!",
     unlock_time = {1001120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31012] = {
     diary_npc = 3,
-    content1 = "一天没见到姐姐的苹果箱开心到直摇尾巴，完全没注意旁边的我被尾巴抽得好疼！(╥╯^╰╥)",
+    content1 = "Apple Box clearly misses her a lot. He was wagging his tail so hard it was like he was whipping me with his tail. Ouch! (╥╯^╰╥)",
     unlock_time = {1001220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31013] = {
     diary_npc = 3,
-    content1 = "午后的火车车厢，过道上一排排座椅的影子像是钢琴键。",
+    content1 = "The shadows on the afternoon train looked like giant piano keys across the aisle. For a second, I thought we were traveling through a music box.",
     unlock_time = {1001320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31014] = {
     diary_npc = 3,
-    content1 = "今天想和$u一起挑战高难度关卡，在经历15次失败后，终于研究出了一个只用豌豆射手就通关的方法！",
+    content1 = "Tried to beat a super tough level with $u today. Fifteen fails later, we discovered a genius pea-shooter-only strategy! Take that!",
     unlock_time = {1001420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31015] = {
     diary_npc = 3,
-    content1 = "赶了三个通告的周一，依然努力进行多个赛博打工行为……",
+    content1 = "Had three events back-to-back today and still squeezed in some late-night side quests online. Cyber multitasking: mastered.",
     unlock_time = {1001520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31016] = {
     diary_npc = 3,
-    content1 = "给整个剧组订了下午茶，晚上收到了写着“棋洛老师，辛苦了”的果篮，>皿<仔细一看全都是牛油果和小番茄！",
+    content1 = "Ordered afternoon tea for the whole crew, and tonight someone sent me a fruit basket labeled \"Thank you, Kiro!\" It was filled with avocados and cherry tomatoes. >皿<",
     unlock_time = {1001620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31017] = {
     diary_npc = 3,
-    content1 = "和Cello商量好吃完好吃的要乖乖剪指甲，结果吃完就跑……吃了罐罐不认账的小猫是要上今日猫法的！",
+    content1 = "Told Cello he can have the treats if he lets me trim his nails afterward. He agreed, then ran off the second the treat was gone. Someone call the cat police!",
     unlock_time = {1001720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31018] = {
     diary_npc = 3,
-    content1 = "拍古装广告，假发套上的静电总是消不掉，今天也是炸毛的一天……>皿<",
+    content1 = "Filmed a historical drama ad, and the wig felt like a giant static magnet. By the end, I looked like an elegant ancient puffball.",
     unlock_time = {1001820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31019] = {
     diary_npc = 3,
-    content1 = "买到了可以把猫条挤得干干净净一点都不剩的工具后，每天喂猫条都变得超级解压！",
+    content1 = "Discovered a gadget that squeezes every last drop from those tubed cat treats. Watching the tube get emptied suddenly felt strangely satisfying.",
     unlock_time = {1001920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31020] = {
     diary_npc = 3,
-    content1 = "拍MV发现一块超松软的草地，想到阿薯时突然就发现了一颗四叶草！果然只要想着喜欢的人就会有好事发生。",
+    content1 = "Was filming the new MV when I found this super soft patch of grass. Right after I thought of Miss Chips, I spotted a four-leaf clover. I guess good things just happen when you think of the person you love.",
     unlock_time = {1002020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31021] = {
     diary_npc = 3,
-    content1 = "用手表计算了一下给两只小家伙一起洗澡消耗的热量，我决定奖励自己一个大大大汉堡！\\n<(￣︶￣)Y",
+    content1 = "Calculated the calories I burned washing both furballs today using my smartwatch. Decided I deserved a massive celebratory burger.\\n<(￣︶￣)Y",
     unlock_time = {1002120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31022] = {
     diary_npc = 3,
-    content1 = "刚刚登陆了一个好久没玩的游戏，发现仓库里的一把刀涨价了100倍……这是什么新型理财产品？",
+    content1 = "Logged into a game I haven't touched in forever and found out one of my old weapons is now worth 100x more. Did I just accidentally invest?!",
     unlock_time = {1002220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31023] = {
     diary_npc = 3,
-    content1 = "今年晚会的节目已经提前录好了，今晚就要一家四口整整齐齐，一起团圆吃月饼~",
+    content1 = "The performance tonight is pre-recorded, so I'm free to spend a perfect evening with those who really matter. 10/10 perfect day.",
     unlock_time = {1002320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31024] = {
     diary_npc = 3,
-    content1 = "今天是心疼远哥的一天——先是欢天喜地说自己中了彩票二等奖，结果兑奖时发现号码是上一期的…………噗嗤。",
+    content1 = "Felt bad for Savin today. He thought he won second prize in the lottery. Turns out he was reading last week's numbers. I tried not to laugh... I failed.",
     unlock_time = {1002420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31025] = {
     diary_npc = 3,
-    content1 = "帮Cello做了一个性格测试，它居然是火龙果型猫格，具体是什么意思需要看广告之后付费解答，可恶，又上当了！",
+    content1 = "Helped Cello take a personality quiz. It says he's a \"dragonfruit-type cat.\" No idea what that means because the full report's paywalled. Classic.",
     unlock_time = {1002520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31026] = {
     diary_npc = 3,
-    content1 = "第一节飞速想好的代价就是——找不到第二小节的灵感在哪里……( ﾟ∀。) 想不出来啊啊啊啊啊啊啊啊啊！",
+    content1 = "Wrote the first verse of a song in five seconds, then sat there for hours staring at the screen waiting for verse two. WHERE ARE YOU, INSPIRATION?! ( ﾟ∀。)",
     unlock_time = {1002627},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31027] = {
     diary_npc = 3,
-    content1 = "浑身酸痛，今天的我好想当一根热狗肠，不想起床也不想动……但我还是一根要写歌的热狗肠T T",
+    content1 = "My muscles are burning. I wish I were a hot dog so I could lie between two fluffy buns and do absolutely nothing. Buuut, those lyrics aren't gonna write themselves. T.T",
     unlock_time = {1002720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31028] = {
     diary_npc = 3,
-    content1 = "发现一个冲动消费后的调理方法：把价格除以365天，会发现每天用这些钱买来的快乐，其实很值得！",
+    content1 = "Discovered a post-spending coping strategy: divide the price by 365. Suddenly, my latest \"unnecessary\" purchase is just a few cents of happiness per day. Worth it!",
     unlock_time = {1002820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31029] = {
     diary_npc = 3,
-    content1 = "明明远哥昨天开始就去度假了，不知道为什么，今天吃饭的时候总会感觉远哥的灵魂在我身后注视着我……",
+    content1 = "Savin's technically on vacation, but I swear I could feel his soul judging me during dinner...",
     unlock_time = {1002920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31030] = {
     diary_npc = 3,
-    content1 = "发现把Cello的妙用方法——用来架手机，不过这个手机支架的表情看上去好像有点不耐烦。",
+    content1 = "Tried using Cello as a phone stand. It worked... but he looked offended the whole time.",
     unlock_time = {1003020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31031] = {
     diary_npc = 3,
-    content1 = "由于准确说出了每块俄罗斯方块的名字，得到了游戏厅里所有小朋友的热烈掌声(*^▽^*)",
+    content1 = "Named every single Tetris block in front of a bunch of kids today and got a round of applause. My inner eight-year-old is high-fiving me. (*^▽^*)",
     unlock_time = {1003120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31032] = {
     diary_npc = 3,
-    content1 = "听远哥说他这次住的海景民宿景色特别好，我反手就把我们之前去过的发给他了！哼哼~",
+    content1 = "Savin sent me a photo of his fancy seaside hotel. I sent him back a throwback of our trip. That'd shut him up!",
     unlock_time = {1003220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31033] = {
     diary_npc = 3,
-    content1 = "作为飞行嘉宾“突袭”了几个朋友参加的慢综，给他们做了我最拿手的“洛式披萨”，把他们都感动哭了。",
+    content1 = "Popped into my friends' variety show today as a surprise guest. Made my signature Kiro-style pizza, and everyone teared up in joy.",
     unlock_time = {1003320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31034] = {
     diary_npc = 3,
-    content1 = "和大家一起玩音乐，一起即兴合奏唱歌实在是太开心了——果然音乐永远都是简单又让人感到幸福的存在。",
+    content1 = "Spent the whole afternoon playing music and singing with friends. No pressure, no stress, just pure joy. Music is such an instant happiness button.",
     unlock_time = {1003420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31035] = {
     diary_npc = 3,
-    content1 = "今天莫名想吃烤红薯……超级热的夏天终于要过去了，等再凉一点，决定和她一起在院子里开烤♪(･ω･)ﾉ",
+    content1 = "Randomly craved roasted sweet potatoes today. I know! I should roast some in the backyard with Miss Chips! ♪(･ω･)ﾉ",
     unlock_time = {1003520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31036] = {
     diary_npc = 3,
-    content1 = "\\(^o^)/~谁一发入魂抽到了限定皮肤？当然是我了，嘿嘿嘿！",
+    content1 = "Guess who pulled the rare skin on the first try? That's right. Me. (^o^)/~",
     unlock_time = {1003620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31037] = {
     diary_npc = 3,
-    content1 = "来之不易的假期在床上度过了，刷到了可爱的小猫视频，Cello却不屑一顾，猫猫的审美果然和两脚兽不同。",
+    content1 = "Spent the entire day in bed enjoying a rare break. Found the cutest cat videos. Showed Cello, but he didn't seem impressed. Guess he's got a different definition of cute than humans do.",
     unlock_time = {1003720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31038] = {
     diary_npc = 3,
-    content1 = "……没灵感五天的进度为0，有灵感居然1分钟就写好了副歌！啊啊啊啊啊啊！",
+    content1 = "...Zero inspiration for five days straight. Then today? I sneezed and wrote the chorus in one minute. Yeeeehaw!",
     unlock_time = {1003820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31039] = {
     diary_npc = 3,
-    content1 = "闪现进组的一天！拿到了大吉大利的开机红包，合作的演员有点“特殊”，希望这次的实验性短片也会很有趣——",
+    content1 = "Jumped into a new project today and got a lucky red packet at kickoff! The lead actor is a little... \"different\", but I've got a good feeling about this one.",
     unlock_time = {1003920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31040] = {
     diary_npc = 3,
-    content1 = "这几天要赶特殊置景的拍摄，担心通宵忘记了，还是先提前写吧~",
+    content1 = "Gonna go shoot on a special set the next few days. Figured I'd better write these entries a bit early in case I forget from an all-nighter.",
     unlock_time = {1004020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31041] = {
     diary_npc = 3,
-    content1 = "哼哼，10月5日的周棋洛，一定能圆满完成拍摄任务吧！加油——来自一天前的你。",
-    content2 = "hi，10月4日的周棋洛，10月5日的你除了完成拍摄之外，对你在6日的命运一无所知……",
+    content1 = "To me on the 19th: You're totally gonna nail that shoot today!! I believe in you!! Go get 'em!—You from yesterday.",
+    content2 = "To me on the 18th! You still have no clue what's gonna happen on the 20th when you finish the shoot on the 19th...",
     unlock_time = {1004020, 1004220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31042] = {
     diary_npc = 3,
-    content1 = "10月6日的周棋洛，今天水下的特殊拍摄虽然有些难度，但你一定也能顺利完成吧！——来自两天前的你。",
-    content2 = "完是完成了，但也付出了相应的代价。\\n( ˇωˇ)",
+    content1 = "To me on the 20th: Gonna be filming underwater today! It's kinda tricky, but I bet you made it through like a pro!—You from two days ago.",
+    content2 = "All done. But that was hard. \\n( ˇωˇ)",
     unlock_time = {1004020, 1004220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31043] = {
     diary_npc = 3,
-    content1 = "分享一个组内笑话：为什么小鸡中彩票后每句话都要加一句over？答案：因为它今天是“兑奖鸡”！",
+    content1 = "Heard a good joke today. Why did the chicken join a band? Because it already had the drumsticks.",
     unlock_time = {1004320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31044] = {
     diary_npc = 3,
-    content1 = "拍摄前带着贝壳去讨好我的海獭“搭档”，獭獭收到贝壳后送了我一块小冰块，还表演了一个转圈圈，好有礼貌！",
+    content1 = "Brought a seashell to butter up my sea otter co-star before filming. It took the shell, gifted me a piece of ice, and even did a little spin as a thank-you. Most polite \"co-worker\" I've ever had.",
     unlock_time = {1004420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31045] = {
     diary_npc = 3,
-    content1 = "几天没回家苹果箱有点生气了，带它去坐了狗狗小火车，让我们的苹果箱来组成头部！",
+    content1 = "Apple Box got a little moody since I've been away for a few days... so I took him for a ride on the doggy mini train with him at the front!",
     unlock_time = {1004520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31046] = {
     diary_npc = 3,
-    content1 = "发现路上的一滩水渍特别像一只正在拔腿逃跑的鸵鸟！赶紧拍了下来给薯片小姐发送——\\n\\(￣︶￣*\\))",
+    content1 = "Saw a puddle today that looked exactly like an ostrich sprinting away mid-stride. Took a pic and immediately sent it to Miss Chips.\\n\\(￣︶￣*\\))",
     unlock_time = {1004620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31047] = {
     diary_npc = 3,
-    content1 = "不知道是谁在超市冷饮机下的地垫上印了一双手，看起来就像冷饮机下面有手伸出来了，简直是恐怖片照进现实！",
+    content1 = "Someone left two handprints on the floor mat under the supermarket ice cream freezer, and it honestly looks like ghost hands reaching out from beneath. Who needs horror movies when reality looks like this?",
     unlock_time = {1004720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31048] = {
     diary_npc = 3,
-    content1 = "麦克风花洒终于到货了，本自带混响歌手·浴室灵感达人·雨幕舞台表演家·洛终于可以开始我的表演了！",
+    content1 = "My microphone showerhead finally arrived! Time to conquer a different stage with my songs: the bathroom!",
     unlock_time = {1004820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31049] = {
     diary_npc = 3,
-    content1 = "睡前头发偷懒没吹干的后果就是——第二天起床发现自己变成了一颗金色传说海胆……\\nΣ(⊙▽⊙\"",
+    content1 = "Forgot to dry my hair before bed last night. Woke up this morning looking like a mythical golden sea urchin.\\nΣ(⊙▽⊙\"",
     unlock_time = {1004920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31050] = {
     diary_npc = 3,
-    content1 = "趁着天气好给苹果箱的毛绒玩偶洗了个澡，它一直在洗衣机旁边守着它的好朋友，然后陪它一起美美晒太阳。",
+    content1 = "The sun was out today, so I gave Apple Box's stuffed animals a bath. Apple Box stayed right by the washing machine the whole time, then napped next to them while they dried out in the sun.",
     unlock_time = {1005020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31051] = {
     diary_npc = 3,
-    content1 = "用小号抢到了小汽水设计出品的棉花娃娃！真的好可爱啊(*╹▽╹*)",
+    content1 = "Snagged a cotton plush doll my fans made with my alt account! It's sooo cute I might actually melt (*╹▽╹*)",
     unlock_time = {1005120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31052] = {
     diary_npc = 3,
-    content1 = "成功闪现C市！今天的航班有点早，不过好在时间充裕可以补个觉~下午的签售会又精神满满了！",
+    content1 = "Made a surprise visit to another city today! The flight was early, but I squeezed in a nice nap. Totally recharged for the afternoon's signing event!",
     unlock_time = {1005220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31053] = {
     diary_npc = 3,
-    content1 = "卖水果的阿婆方言好难懂，交流变成了你比划我猜！通过我的努力还是成功买到了脸一样大的橘子！真的好大！",
+    content1 = "Bought a GIANT orange from an old fruit seller, even though we basically played charades trying to communicate. Worth it. That orange is the size of my face!",
     unlock_time = {1005320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31054] = {
     diary_npc = 3,
-    content1 = "伴奏实录的时候，录音师当着我的面，把我未完成的歌词念了出来……〒▽〒我顿时脚趾快扣出一座恋语市了。",
+    content1 = "While we were recording backing tracks, the audio engineer read my unfinished lyrics out loud. I nearly curled up into a human noodle right there. 〒▽〒",
     unlock_time = {1005420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31055] = {
     diary_npc = 3,
-    content1 = "今天跟业内知名的两位大导对谈，原来运镜还有这么多学问，怪不得很多风格化电影的导演都是摄影出身……",
+    content1 = "Had a discussion with two legendary directors today! Turns out there's so much more to camera movement than I ever imagined. No wonder most artsy film directors come from cinematography backgrounds...",
     unlock_time = {1005520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31056] = {
     diary_npc = 3,
-    content1 = "音乐剧巡演来到D市啦！有薯片小姐准备的喉糖，排练一下午也没有压力~",
+    content1 = "Arrived in another city for the musical tour! Thanks to Miss Chips' magic throat lozenges, I got through a whole afternoon of rehearsals with no vocal strain at all!",
     unlock_time = {1005620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31057] = {
     diary_npc = 3,
-    content1 = "上次来D市时那家特别好吃的章鱼小丸子居然不在了，换成了一家站着吃的炸串店……T T难受",
+    content1 = "Tragic news: my favorite takoyaki shop from last time is GONE. Replaced by a fried skewer spot. My heart and my taste buds are both crying. T T",
     unlock_time = {1005720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31058] = {
     diary_npc = 3,
-    content1 = "E市我来了！没想到八哥也在E市，发消息说今天要来看排练，晚点正好可以抓他聊聊新专辑封面设计的事~",
+    content1 = "Just arrived at the next stop on our tour! Turns out Bage's here too! He texted to say he's dropping by the rehearsal. Perfect timing—I've been wanting to chat about his new album cover ideas!",
     unlock_time = {1005820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31059] = {
     diary_npc = 3,
-    content1 = "排练休息，放空大脑，编曲老师发来了曲子demo，之前和他试了两个方向，听了以后都有点好听可怎么办……",
+    content1 = "Totally zoned out during break until my arranger suddenly dropped the latest demo into my inbox. We'd tested two different directions, and BOTH sounded amazing. Now how am I supposed to choose?",
     unlock_time = {1005920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31060] = {
     diary_npc = 3,
-    content1 = "路过拟音室时进去体验了一下，原来把布浸湿裹进树叶，就可以用手拧出花开的声音，好厉害！想学.jpg",
+    content1 = "Walked past the foley studio today and couldn't resist going in for a try. Turns out if you wrap a wet cloth in leaves and twist it, it makes the sound of a flower blooming! This stuff's amazing!",
     unlock_time = {1006020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31061] = {
     diary_npc = 3,
-    content1 = "今天在演出前发现第一排有个超可爱的小宝宝，坐姿超级端正，被这位“小小汽水”可爱到了*(*´∀｀*)",
+    content1 = "Right before the show today, I spotted the cutest little baby in the front row. The \"mini Soda\" was so cute. I absolutely melted. (´∀｀)♡",
     unlock_time = {1006121},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31062] = {
     diary_npc = 3,
-    content1 = "最后一站！恋语市！回家——真好——演音乐剧真累啊……但是好喜欢！下次有机会还演！",
+    content1 = "Final stop, Loveland City! Being home feels so good. My legs are jelly, my voice is tired, but my heart is full. Musicals are exhausting... but man, do I love them!",
     unlock_time = {1006220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31063] = {
     diary_npc = 3,
-    content1 = "代码写着写着就被挤到角落了……看着在电脑桌中央摊成一个猫饼的Cello一怒之下之后……怒了一下！",
+    content1 = "Tried to get some coding done, but Cello had other plans. He stretched out like a giant fluffy pancake across the middle of the desk and gave me that look. So now I'm typing from the corner like an intruder in my own space.",
     unlock_time = {1006320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31064] = {
     diary_npc = 3,
-    content1 = "为了解决冒险结束的戒断反应，我决定从明天关注真人RPG游戏测评，为下个副本做准备\\n\\(￣︶￣*\\)) ",
+    content1 = "To cope with the end-of-adventure blues, I decided I'm going to start watching RPG reviews to prepare for my next adventure.\\n\\(￣︶￣*\\))",
     unlock_time = {1006420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31065] = {
     diary_npc = 3,
-    content1 = "看了一晚上鸵鸟吃播，还在直播间下单了鸵鸟毛掸子，我觉得Cello应该会感兴趣！",
+    content1 = "Somehow ended up watching someone livestreaming ostriches eating food all night. Also impulse-bought an ostrich feather duster from the same stream... I have a feeling Cello's going to love it.",
     unlock_time = {1006520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31066] = {
     diary_npc = 3,
-    content1 = "说着要睡了睡了，结果一个写歌到12点，一个改策划案到12点，o(╥﹏╥)o一天怎么没有72小时啊。",
+    content1 = "Said we were going to sleep early... and then one wrote songs until midnight, while the other did some editing of proposals. Man, why can't there be 72 hours in a day? o(╥﹏╥)o",
     unlock_time = {1006624},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31067] = {
     diary_npc = 3,
-    content1 = "来草原拍摄MV了！之前苦练的骑术没白费，配合滑轨拍摄的两个特技动作很丝滑，今天也是无NG的一天！",
+    content1 = "Came to the prairies to film a music video! All that horseback training was totally worth it. Pulled off two fancy camera moves in one go without a single retake! Epic day.",
     unlock_time = {1006720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31068] = {
     diary_npc = 3,
-    content1 = "坏消息，摄像师大哥在草原上骨折了，原因居然是跟当地居民掰手腕用力过猛……一生要强的摄像大哥。",
+    content1 = "Bad news. Our cameraman broke his arm while arm wrestling with a local. I swear, the man treats everything like an Olympic sport.",
     unlock_time = {1006820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31069] = {
     diary_npc = 3,
-    content1 = "和薯片小姐的主页点亮了一个“热聊无极限”的小太阳标志，看到上面不断增强的太阳光波，心情也灿烂起来了~",
+    content1 = "Miss Chips and I just unlocked a little glowing sun badge on our chat app that says \"Unlimited Chat Energy.\" Watching that tiny sunbeam animation flicker made my whole afternoon a little brighter.",
     unlock_time = {1006920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31070] = {
     diary_npc = 3,
-    content1 = "刷到有人说梦里穿越到了睡前玩的游戏，果断拉着阿薯打了“快乐庄园”，好期待在梦里一起把家装饰得更温馨~",
+    content1 = "Saw someone online saying they dreamed about the game they played before bed, so I roped Miss Chips into a cozy session of \"Happy Homestead.\" Looking forward to dreaming about fixing up our little dream house tonight.",
     unlock_time = {1007020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31071] = {
     diary_npc = 3,
-    content1 = "机缘巧合拍下了苹果箱把脸贴在纱窗网上的照片，获得[天然的数字油画×1]。",
+    content1 = "Caught a photo of Apple Box pressing his face against the mesh window this morning. The photo totally looked like a work of art.",
     unlock_time = {1007120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31072] = {
     diary_npc = 3,
-    content1 = "之前主演的电视剧开播了！其实第一集最后那个戴斗笠的武士也是我客串的，感觉好多人都没发现，嘿嘿嘿。",
+    content1 = "The drama I starred in a while ago finally started airing. What nobody seems to realize is... that masked swordsman at the end of episode one was played by me too, hehe.",
     unlock_time = {1007220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31073] = {
     diary_npc = 3,
-    content1 = "节目组发来我在慢综艺节目里种下的葫芦照片，居然长成了“狼牙棒”？！原来“鹤首葫芦”可以这么茁壮……",
+    content1 = "The show's crews sent me an update on the gourd I planted during filming—it's grown into this totally wild shape. Turns out \"crane-head gourds\" don't mess around.",
     unlock_time = {1007320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31074] = {
     diary_npc = 3,
-    content1 = "给阿薯发了可以让手机屏幕下雪的小程序，点开就能看到小熊和小兔子围着同一条围巾，头挨着头，一起接落雪~",
+    content1 = "Sent Miss Chips a little app that makes snowflakes fall on your phone screen. When you open it, there's a bear and a bunny cuddled up in one scarf, heads tucked together, catching snowflakes. It's seriously the cutest thing ever.",
     unlock_time = {1007420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31075] = {
     diary_npc = 3,
-    content1 = "这几天Cello经常跑去苹果箱的窝里和它挤在一起，看来是时候再给它俩的窝里加个暖暖的垫子了。",
+    content1 = "Cello's been squeezing into Apple Box's bed a lot lately. Guess it's just cuddle season. I think it's time I upgrade their setup with a warmer, fluffier blanket.",
     unlock_time = {1007520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31076] = {
     diary_npc = 3,
-    content1 = "在晚会上表演山歌串烧的后遗症：写歌时不自觉地弹出了一首完整的《山路十八弯》……",
+    content1 = "Sang a bunch of songs on stage, and now one of them is stuck in my head...",
     unlock_time = {1007620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31077] = {
     diary_npc = 3,
-    content1 = "戴上了“猫爪捂眼”眼罩，说明睡懒觉不是我的错，都是猫猫不让我睁开眼！",
+    content1 = "Put on my cat paw eye mask today. Now sleeping in isn't my fault. The cat won't let me open my eyes!",
     unlock_time = {1007720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31078] = {
     diary_npc = 3,
-    content1 = "以超高的手速“秒杀”了种草的按摩躺椅！已经在想象和$u一起舒舒服服地摊在躺椅上享受按摩时的快乐了——",
+    content1 = "Snagged that massage chair I've been eyeing for weeks! Already daydreaming about lounging on it with $u.",
     unlock_time = {1007820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31079] = {
     diary_npc = 3,
-    content1 = "发现竹筒饭摊位上吸引顾客的敲竹筒节奏很洗脑，蹲在一旁看了好久，收获到了很多内心的宁静。",
+    content1 = "Found myself totally mesmerized by a guy tapping rhythms on a bamboo tube at a street food stall today. The music was oddly really peaceful.",
     unlock_time = {1007920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31080] = {
     diary_npc = 3,
-    content1 = "电视剧的收视率再创新高！追加的特别篇明天要开机了，导演说不止第二部，连第四部都已经有投资方来约了？！",
+    content1 = "Big news! Our show's ratings hit another high, and now we're filming a special episode tomorrow! The director said an investor is already talking about renewing it for three more seasons!",
     unlock_time = {1008020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31081] = {
     diary_npc = 3,
-    content1 = "被仰慕的业界第一武指指导了一套超难的动作，今天是武力值UPUP的大侠洛！PS：金乌大侠可真不好当。",
+    content1 = "Got trained today by the top action choreographer in the biz today. Learned an insanely tough move and totally nailed it!",
     unlock_time = {1008120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31082] = {
     diary_npc = 3,
-    content1 = "昨天拍了一天打戏，连在梦里都在和别人战斗，还好睡相还算正常，没有打到薯片小姐QAQ",
+    content1 = "Shot fight scenes all day yesterday. I was literally battling people in my dream. Thankfully, I didn't accidentally kick Miss Chips in my sleep... I think. QAQ",
     unlock_time = {1008220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31083] = {
     diary_npc = 3,
-    content1 = "按摩椅到货就和阿薯一起享受了一下，伟大！无需多言TUT！附赠的小按摩球Cello也用喵喵声给了五星好评~",
+    content1 = "The massage chair finally arrived, and Miss Chips and I took it for a test run right away. 10/10. No arguments. Even Cello gave it a five-meow review while rolling on the mini massage ball.",
     unlock_time = {1008320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31084] = {
     diary_npc = 3,
-    content1 = "(•̀ㅂ•́)و为了没有负担地安心吃双重芝士加双层肉饼的新品汉堡，是值得在跑步机上多跑一个小时的！",
+    content1 = "(•̀ㅂ•́)و Decided that my new double-cheese double-meat burger obsession is totally worth the extra hour on the treadmill. No regrets, only gains!",
     unlock_time = {1008420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31085] = {
     diary_npc = 3,
-    content1 = "期待了很久的“格斗游戏童年怀旧版”居然延迟发行了……没关系，已经等了那么多年，我的心已经不会受伤了……",
+    content1 = "The remastered version of that fighting game from my childhood got delayed again. It's okay. I've waited this long; my soul is immune to heartbreak now.",
     unlock_time = {1008520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31086] = {
     diary_npc = 3,
-    content1 = "下周要以“神秘嘉宾”的身份参加一档脱口秀综艺，(o-ωｑ)要用三种语言写梗好难……看着字数：0大脑空空如也……",
+    content1 = "Got invited to be the \"mystery guest\" on a talk show next week. (o-ωｑ) Writing jokes in three languages is SO hard... Current word count: 0. Brain: empty.",
     unlock_time = {1008620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31087] = {
     diary_npc = 3,
-    content1 = "今天真是一个好日子——继“Twinkle”发歌后，又成功解锁一个新领域！果然薯洛组合就是无敌的！",
+    content1 = "Today was amazing! After releasing \"Twinkle,\" this marks a whole new creative zone for me. Everything just works when Kiro and Miss Chips work together!",
     unlock_time = {1008720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31088] = {
     diary_npc = 3,
-    content1 = "这几天一直在试吃薯片，热量摄入已经爆表了，真是一种幸福的烦恼……现在，该收拾收拾去健身房了QAQ",
+    content1 = "Been taste-testing chips nonstop for days. My calorie count is off the charts. What a delicious crisis. Time to roll myself to the gym... QAQ",
     unlock_time = {1008820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31089] = {
     diary_npc = 3,
-    content1 = "坏消息：酒店的暖气坏了。好消息：待会我会被阿薯当成暖炉紧紧抱住，一整晚不松开\\(^o^)/~",
+    content1 = "Bad news: the hotel heater broke. Good news: Miss Chips is treating me like a human space heater tonight. Happiness overload! (^o^)/~",
     unlock_time = {1008920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31090] = {
     diary_npc = 3,
-    content1 = "今天在农场附近的市集上，给苹果箱和Cello买了好多伴手礼，已经开始期待见到它们摇尾巴的样子了~",
+    content1 = "Found the cutest souvenirs for Apple Box and Cello at the farmers' market today. Can't wait to see those tails wag when I give them out!",
     unlock_time = {1009020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31091] = {
     diary_npc = 3,
-    content1 = "便携游戏本虽然很方便，但还是想念家里32英寸，400HZ的台式显示器…………\n——等我回来！",
+    content1 = [[
+Gaming laptops are cool and all, but I still miss my 32-inch, 400Hz desktop display at home...
+I'll be back soon!]],
     unlock_time = {1009120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31092] = {
     diary_npc = 3,
-    content1 = "野餐结束，又带着阿薯去游乐场狠狠玩了一圈。回到酒店发现自己荣登运动步数排行榜的第一名，Winner~",
+    content1 = "Wrapped up a picnic, and then hit the amusement park with Miss Chips. Ended day #1 on my step tracker. Flawless victory!",
     unlock_time = {1009220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31093] = {
     diary_npc = 3,
-    content1 = "下好电影和小说，又带了两台掌机，14小时的回程虽然很长，但是“无聊”肯定找不上门♪(´▽｀)",
+    content1 = "Downloaded movies, packed a novel, and brought two handheld consoles for the 14-hour return trip. Boredom? Never met her. ♪(´▽｀)",
     unlock_time = {1009320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31094] = {
     diary_npc = 3,
-    content1 = "今天一看日历发现十一月要结束了……感觉一些准备需要先提上计划了……嗯……不能写在这里……",
+    content1 = "Glanced at the calendar— it's already the middle of March. Guess it's time to move some plans up. Hehe. Can't write them here, though...",
     unlock_time = {1009420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31095] = {
     diary_npc = 3,
-    content1 = "花费一整天时间用饼干盒给Cello改造了一个创意猫窝，结果苹果箱仅用一秒钟就把它坐塌了。",
+    content1 = "Spent hours turning a cookie tin into a custom cat bed for Cello... which Apple Box demolished with his hairy backside in a single plop.",
     unlock_time = {1009520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31096] = {
     diary_npc = 3,
-    content1 = "今天节目编导跟我说，要我下次录像时带一件买过的最没用的东西，对我来说好难，一件也太难选了……",
+    content1 = "The director of our show asked me to bring the most useless thing I've ever bought. The most useless? Just one? That's the real challenge here.",
     unlock_time = {1009620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31097] = {
     diary_npc = 3,
-    content1 = "提前小道消息知道了一些活动安排~嘿嘿，感觉会好热闹，我也要提前安排准备一下了(¬◡¬)！",
+    content1 = "Heard some insider news about an upcoming event. It sounded super fun! I need to start planning pronto. (¬◡¬)",
     unlock_time = {1009720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31098] = {
     diary_npc = 3,
-    content1 = "今天行程超满，但通过薯片小姐和两小只窝在躺椅上的照片，立刻获得【专注快速努力BUFF】，提早回家喽~",
+    content1 = "Today was packed, but Miss Chips sent me a pic of her and the fluffballs snuggled on the massage chair. Needless to say, I zipped back home like a lightning bolt.",
     unlock_time = {1009820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31099] = {
     diary_npc = 3,
-    content1 = "等了很久的专辑封面打样终于出来了！忍住了一键发给阿薯的冲动，ヾ(^▽^*)准备当面看她惊喜的表情~",
+    content1 = "Finally got the sample for the album cover and almost sent it straight to Miss Chips. But no... I want to see that surprised look on her face in person!",
     unlock_time = {1009920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [31100] = {
     diary_npc = 3,
-    content1 = "（＾∀＾）ﾉｼ和阿薯一起达成了100天日记的目标，成就感up~未来我们也一定会解锁更多更甜的日常！",
+    content1 = "We hit 100 days of journaling together today!! That just proves Miss Chips and I are truly a legendary duo. Can't wait for even more adorable milestones up ahead!",
     unlock_time = {1010005},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41001] = {
     diary_npc = 4,
-    content1 = "8月26日，天气多云。今天是和$u一起写日记的第一天，一切正常。",
+    content1 = "Dec 10th—Cloudy today. First day writing this diary with $u. So far, so good.",
     unlock_time = {1000105},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41002] = {
     diary_npc = 4,
-    content1 = "今日也一切正常。",
+    content1 = "Just another ordinary day today.",
     unlock_time = {1000220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41003] = {
     diary_npc = 4,
-    content1 = "昨天的日记被“批评”了。原来日记和工作日志是有区别的，以后会改正。",
+    content1 = "Got \"called out\" for yesterday's entry. Apparently, diaries and work reports aren't the same thing. Got it. Will adjust moving forward.",
     unlock_time = {1000320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41004] = {
     diary_npc = 4,
-    content1 = "今天听他们说的出警乌龙：有人在皮划艇上用自拍杆拍照，被岸边的人举报说船上有斧头帮。",
+    content1 = "Heard about a hilarious emergency call today—someone in a kayak was using a selfie stick, and someone onshore called the police thinking he was wielding an axe.",
     unlock_time = {1000420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41005] = {
     diary_npc = 4,
-    content1 = "跟他们玩了一个有关西瓜横着切还是竖着切的心理测试，试了两次下刀，结果都说我的恋爱观很直白。",
+    content1 = "Tried this little personality quiz today based on how you slice a watermelon. I went with horizontal both times. They said it means I'm super straightforward in a relationship.",
     unlock_time = {1000520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41006] = {
     diary_npc = 4,
-    content1 = "比参加宣调任务更麻烦的事——写任务报告。",
+    content1 = "Writing a mission report honestly feels way more painful than the mission itself.",
     unlock_time = {1000620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41007] = {
     diary_npc = 4,
-    content1 = "在超市门口被热情邀请试吃饼干，发现麻辣牛肉味还是比较适合做面。",
+    content1 = "Got pulled into trying a cookie sample outside the supermarket. The spicy beef flavor was... interesting. Honestly, it might work better as a noodle topping.",
     unlock_time = {1000720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41008] = {
     diary_npc = 4,
-    content1 = "玩谁是卧底第一轮就出局了，别人是意大利面，我的是意大利炮。",
+    content1 = "Played \"Who's the Spy\" and got knocked out in round one. Everyone had \"spaghetti,\" and I got \"cannon.\"",
     unlock_time = {1000820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41009] = {
     diary_npc = 4,
-    content1 = "把放在桌上的面包当做捏捏乐捏了一把……被捏扁的面包口感也还不错。",
+    content1 = "Accidentally squished a piece of bread on my desk like one of those stress toys. Still ate it. Still tasted good.",
     unlock_time = {1000920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41010] = {
     diary_npc = 4,
-    content1 = "晨跑时跑在我前面的爷爷突然一个急刹停下来，还以为发生了什么意外，没想到他蹲下来摸了摸路边的小猫。",
+    content1 = "Went for a run this morning, and the elderly gentleman in front of me suddenly stopped. Thought he needed help, turned out he just wanted to pet a kitten.",
     unlock_time = {1001020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41011] = {
     diary_npc = 4,
-    content1 = "特遣署新冰箱上写着不要同时打开两边的门，所有好奇的同事都被夹了一次手。我反应快，没被夹。",
+    content1 = "The new fridge at Task Force says not to open both doors at the same time. Everyone who tried it anyway got their fingers pinched. I didn't—reflexes too fast.",
     unlock_time = {1001120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41012] = {
     diary_npc = 4,
-    content1 = "下班后去打了会儿篮球，今年老高又报名了区里的友谊赛，决定让他打探一下之前那几个省队的还打不打了。",
+    content1 = "Shot some hoops after work. Chester registered us in the district tournament again this year. Asked him to scope out whether those players from the provincial team are still gonna play this year.",
     unlock_time = {1001220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41013] = {
     diary_npc = 4,
-    content1 = "有人把捡到的鹦鹉送来特遣署，顾征说了句鹦鹉真丑，被它追着啄了一整天。",
+    content1 = "Someone brought in a parrot they found. Eli called it ugly, and the bird spent the whole day chasing him around trying to peck him.",
     unlock_time = {1001320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41014] = {
     diary_npc = 4,
-    content1 = "因为修路探索了新路线，之前的工厂改建了公园，视野开阔空气清新，很好飞。恋语市减少高楼建设是正确的。",
+    content1 = "Had to detour today because of the construction. They're turning an old factory into a park—perfect to fly around in. I think the city made the right call scaling back on high-rise buildings.",
     unlock_time = {1001420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41015] = {
     diary_npc = 4,
-    content1 = "接到紧急任务出门前手里被塞了两颗荔枝，紧急把这份“顺顺荔荔”的祝愿在路上吃掉了。",
+    content1 = "Got stuffed two lychees right before heading out on a last-minute mission. She said they're for good luck. Ate them both on the way.",
     unlock_time = {1001520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41016] = {
     diary_npc = 4,
-    content1 = "去接她下班的路上风特别畅快，一个红灯都没有遇到，提前到了。偷看她的时候被发现了。",
+    content1 = "On the way to pick her up, the wind was perfect, and I didn't hit a single red light. Got there early. She caught me sneaking peeks at her.",
     unlock_time = {1001620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41017] = {
     diary_npc = 4,
-    content1 = "准备出发去外地出任务，希望一切顺利。",
+    content1 = "Leaving town tomorrow for a mission. Hoping everything goes well.",
     unlock_time = {1001707},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41018] = {
     diary_npc = 4,
-    content1 = "任务顺利完成，赶上饭点到家了，还是家里的炒面香。",
+    content1 = "Mission wrapped. Got home right at dinner time. Nothing beats homemade stir-fried noodles.",
     unlock_time = {1001820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41019] = {
     diary_npc = 4,
-    content1 = "今天顾征大骂我为什么把采访的事丢给他，我觉得他说得挺好的，下次还让他去。",
+    content1 = "Eli yelled at me today for dumping the interview task on him. He actually did a good job, though. Might \"delegate\" again next time.",
     unlock_time = {1001920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41020] = {
     diary_npc = 4,
-    content1 = "去玩打气枪赢娃娃，老板一开始说下次不让我来了，后来不知道怎么想的，想让我入股当示范。",
+    content1 = "Went to a carnival and played a shooting game. Swept the whole thing and won a plushie. The owner told me to never come back, then changed his mind and asked if I wanted to buy into his business and run the stall with him.",
     unlock_time = {1002020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41021] = {
     diary_npc = 4,
-    content1 = "唐朝分享了一个“刑侦答题赢免费剧本杀门票”活动，这么专业对口的情况还是第一次。",
+    content1 = "Tang sent over an event that was giving out free escape room tickets for anyone who could solve a few forensic questions. First time something's got sent right up my alley.",
     unlock_time = {1002120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41022] = {
     diary_npc = 4,
-    content1 = "尝试做了一下麻辣小龙虾，发现还是外卖好吃。",
+    content1 = "Tried cooking spicy crawfish. Gonna stick to takeout.",
     unlock_time = {1002220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41023] = {
     diary_npc = 4,
-    content1 = "把失败的麻辣小龙虾包在月饼里，结果烤完味道意外还不错，获得了表扬。",
+    content1 = "Wrapped the failed crawfish inside mooncakes and baked them as a joke. Surprisingly tasty. Somehow got a bunch of compliments.",
     unlock_time = {1002320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41024] = {
     diary_npc = 4,
-    content1 = "国泰民安。",
+    content1 = "It's a peaceful day in Loveland City today. What a blessing.",
     unlock_time = {1002420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41025] = {
     diary_npc = 4,
-    content1 = "做了与包装图片很像的红烧牛肉面，就是味道还差点。",
+    content1 = "Tried to recreate the beef noodle soup from the photo on the package. Nailed the look. Taste? Not so much.",
     unlock_time = {1002520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41026] = {
     diary_npc = 4,
-    content1 = "食堂档口新开了一个健康果蔬汁，主推的“苦瓜降火系列”……感觉推不出去。",
+    content1 = "The cafeteria added a new juice stall. They're really trying to push this new \"bitter melon juice.\" Can't imagine it'll be popular.",
     unlock_time = {1002620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41027] = {
     diary_npc = 4,
-    content1 = "常去的健身房里多了个告示牌：深蹲低于200公斤禁止吼叫。",
+    content1 = "Saw a new sign at the gym: \"No yelling if your squat is under 200kg.\"",
     unlock_time = {1002720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41028] = {
     diary_npc = 4,
-    content1 = "吊在阳台上的空气凤梨可以分株了，上次一起捡到的海胆壳当它的花盆很合适。",
+    content1 = "The tillandsia on my balcony is ready to split. That sea urchin shell we found last time would make a perfect pot.",
     unlock_time = {1002820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41029] = {
     diary_npc = 4,
-    content1 = "刷到个谜语，点子最多的动物是什么？顾征和唐朝一个猜花豹，一个猜鬣狗吵起来了，只能等账号明天公布答案。",
+    content1 = "Saw a riddle while browsing randomly: \"Which animal is laziest?\" Tang and Eli argued over whether it was the panda or the sloth. Guess we'll have to wait until tomorrow when they release the answer.",
     unlock_time = {1002920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41030] = {
     diary_npc = 4,
-    content1 = "答案让办公室的人都沉默了：炸麻球的麻子大叔家脸上沾了芝麻还蹭了泥点的斑点狗……",
+    content1 = "The answer turned out to be the koala, because of its \"koala-fications.\" Everyone at the HQ was left speechless.",
     unlock_time = {1003020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41031] = {
     diary_npc = 4,
-    content1 = "半夜智能音箱突然自己唱起了歌，眼疾手快拔掉了电源，她没被吵醒。",
+    content1 = "My smart speaker randomly started blasting music in the middle of the night. Yanked the plug before it woke her.",
     unlock_time = {1003120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41032] = {
     diary_npc = 4,
-    content1 = "兜风的时候被邀请参加了一场摩托车友会的活动，专业场地确实跑得不一样。",
+    content1 = "Got invited to an event for a motorcycle club while out cruising. Racing on a proper track really does feel different.",
     unlock_time = {1003220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41033] = {
     diary_npc = 4,
-    content1 = "有个诈骗电话打到特遣署的座机来了，找到并捣毁了诈骗窝点后，大家对我的套话技巧表示了肯定。",
+    content1 = "A scam call came through the HQ's landline. Tracked the source and shut down the whole operation. Apparently, my fake-chitchat skill was so convincing that everyone gave me a round of applause for the acting.",
     unlock_time = {1003320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41034] = {
     diary_npc = 4,
-    content1 = "外卖点了家没吃过的牛肉面线，还没吃完就被叫走了，回来时半碗面又“膨胀”成了一满碗，可惜不好吃了。",
+    content1 = "Got takeout from a new beef noodle place. Got called away halfway through, and by the time I got back, the half-bowl had puffed up into a full one. Sadly, it didn't taste good anymore.",
     unlock_time = {1003420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41035] = {
     diary_npc = 4,
-    content1 = "自从新来的小卓用篮球“袭击”了顾征的后脑勺，现在顾征看他抬手就忍不住护住后脑，看来被砸得不轻。",
+    content1 = "Ever since our rookie Zeke accidentally hit Eli in the back of the head with a basketball, Eli's been shielding his head every time the kid so much as raises his hand. Must've really hurt.",
     unlock_time = {1003520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41036] = {
     diary_npc = 4,
-    content1 = "特遣署的节庆礼品发了，回家路上一只螃蟹出现“越狱”行为，还好及时发现，并把它逮捕回箱。",
+    content1 = "HQ gave out some crabs to us as gifts. On the way home, one of the crabs made a break for it. Luckily, I caught it before it escaped for good.",
     unlock_time = {1003620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41037] = {
     diary_npc = 4,
-    content1 = "繁荣昌盛，烟火寻常。",
+    content1 = "Just an ordinary day. If only every day were as peaceful as this.",
     unlock_time = {1003720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41038] = {
     diary_npc = 4,
-    content1 = "唐朝剪发失败了，说假期谁也别找他出来，本来没人要找他，但一堆人决定明天聚餐，看看他到底多失败。",
+    content1 = "Tang got a terrible haircut. Said he's not going out no matter who invited him. No one was going to, until a bunch of us planned a dinner just to see how bad it really looked.",
     unlock_time = {1003820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41039] = {
     diary_npc = 4,
-    content1 = "聚餐回去的路上唐朝把脚崴了，现在变成了从头到脚的失败。",
+    content1 = "On the way back from dinner, Tang twisted his ankle. Now he's a complete mess, from his hair all the way down to his feet.",
     unlock_time = {1003920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41040] = {
     diary_npc = 4,
-    content1 = "看到一种“中国结辣条”，现在的食品造型还真是什么都有。",
+    content1 = "Saw a shop selling a straight pretzel. Isn't that just a breadstick?",
     unlock_time = {1004020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41041] = {
     diary_npc = 4,
-    content1 = "清晨的公园藏龙卧虎，几个爷爷奶奶踢毽子踢出了轻功的感觉。",
+    content1 = "The park this morning was full of hidden talents. A few elderly people were playing hacky sack with moves that honestly looked like martial arts.",
     unlock_time = {1004120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41042] = {
     diary_npc = 4,
-    content1 = "值班休息的时候，一群人在说想去的地方和旅行计划。这种讨论年年都有，就是谁也不提。",
+    content1 = "Everyone started chatting about where they'd like to travel. Same conversation we have every year, but somehow no one ever books a single ticket.",
     unlock_time = {1004220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41043] = {
     diary_npc = 4,
-    content1 = "唐朝一大早上跑来家里说要请假两天藏起来，说他有个特别的人专门从国外飞回来看看他有多失败，我拒绝了他。",
+    content1 = "Tang showed up at my place early this morning, begging to hide here for two days. Apparently, someone special flew all the way back from abroad just to see how much of a failure he's become. I turned him down.",
     unlock_time = {1004320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41044] = {
     diary_npc = 4,
-    content1 = "找到了“苦瓜降火果蔬汁”的正确用法，通宵时来一口，比咖啡提神。",
+    content1 = "Finally figured out the proper use for that bitter melon juice—one sip during an all-nighter, and it wakes you up faster than coffee.",
     unlock_time = {1004420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41045] = {
     diary_npc = 4,
-    content1 = "出发集训，要是下午的交流会能换成实战演练，或者像陪她看剧一样有2倍速快进就好了。",
+    content1 = "Headed out for training today. Wish we had a live fire drill instead. Only if there was a 2x speed option like the show I used to watch with her.",
     unlock_time = {1004520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41046] = {
     diary_npc = 4,
-    content1 = "原来有实战演练。不过接下来两天没机会写日记，今天一起写了。",
+    content1 = "Turns out there really was a live drill after all. Won't have time to write for the next couple of days, so I'll jot this all down now.",
     unlock_time = {1004620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41047] = {
     diary_npc = 4,
-    content1 = "第一天演练。",
-    content2 = "成功完成第一天演练，队员们综合体技能不错。",
+    content1 = "Day one on the drill.",
+    content2 = "Day one completed successfully. Everyone did really well.",
     unlock_time = {1004620, 1004820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41048] = {
     diary_npc = 4,
-    content1 = "第二天演练。",
-    content2 = "成功完成第二天演练，大家的武装泅渡完成良好。明天回家。",
+    content1 = "Day two on the drill.",
+    content2 = "Day two completed successfully. The drill was a success. Heading home tomorrow.",
     unlock_time = {1004620, 1004820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41049] = {
     diary_npc = 4,
-    content1 = "写日记回头审视后才发现，不知道从什么时候开始，回家又变成了一件幸福的事。",
+    content1 = "Reading back on these entries, I suddenly realized how much I looked forward to going home to her.",
     unlock_time = {1004920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41050] = {
     diary_npc = 4,
-    content1 = "顾征和唐朝同时在一条“直男的特征你中招了吗？”的短视频下@我，看了一眼，明天让他们去测测视力。",
+    content1 = "Eli and Tang both tagged me in a video called \"Habits that are socially awkward do—how many do you have?\" I took one look and decided they're getting eye exams tomorrow.",
     unlock_time = {1005020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41051] = {
     diary_npc = 4,
-    content1 = "辣椒油有点炸糊了，用筷子冒泡判断油温，还是不够精准。",
+    content1 = "Burnt the chili oil a bit today. Turns out, using chopsticks to check oil temperature was not the most precise method.",
     unlock_time = {1005120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41052] = {
     diary_npc = 4,
-    content1 = "署里进行综合障碍评比，陆一总结数据的时候，说有僵尸入侵的那天，会战斗到最后一刻，防止我变成僵尸。",
+    content1 = "Had a time trial for the obstacle course at work. Luke said if there's ever a zombie apocalypse, he'd fight till his last breath—just to stop me from turning into one.",
     unlock_time = {1005220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41053] = {
     diary_npc = 4,
-    content1 = "很久没见飞飞了，一见面就得到了一个40斤的飞扑拥抱。",
+    content1 = "It's been ages since I last saw Flyer. He greeted me with a forty-pound flying hug that nearly knocked me over.",
     unlock_time = {1005320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41054] = {
     diary_npc = 4,
-    content1 = "署里团建，预计能玩2小时的密室，最慢的小组也20分钟通关了，下次还是吃自助吧。",
+    content1 = "Guys at HQ decided to throw a night out. The escape room was supposed to take two hours, but even our slowest group finished in twenty minutes. Definitely going to a buffet instead next time.",
     unlock_time = {1005420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41055] = {
     diary_npc = 4,
-    content1 = "听到了一首歌，歌词很像以前的一个战友会写的诗，点了红心。不知道他现在还写不写诗。",
+    content1 = "Heard a song on the way home that reminded me of an old teammate's poems. Wonder if he's still writing these days.",
     unlock_time = {1005520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41056] = {
     diary_npc = 4,
-    content1 = "在新开的格斗馆找人切磋了两把，感觉格斗教练看我的眼神变了，称呼也从“哥们”变成了“哥”。",
+    content1 = "Sparred a bit at a newly opened gym tonight. Think I impressed the trainer there. He was calling me \"the new guy,\" and now it's \"bro.\"",
     unlock_time = {1005620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41057] = {
     diary_npc = 4,
-    content1 = "唐朝这个月第三次下班走忘了关灯，怕挨训抹监控记录被我抓个正着，反侦察用到我这儿来了。",
+    content1 = "Tang forgot to turn off the office lights again—the third time this month. He tried to delete the surveillance footage, but I caught him in the act. Man's using counter-surveillance tactics on his own team now.",
     unlock_time = {1005720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41058] = {
     diary_npc = 4,
-    content1 = "今天高架大堵车，很长很壮观。还好我会飞。",
+    content1 = "Got stuck in a massive traffic jam on the overpass today. Looked impressive, at least. Good thing I can fly.",
     unlock_time = {1005820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41059] = {
     diary_npc = 4,
-    content1 = "查了发件信息，是一个大学生创业的锦旗定制网店，怪不得最近收到了“罪犯别逞强，白起比你狂”这种用语。",
+    content1 = "Checked out the sender. Turns out, it was a shop some college student started that made hip thank-you banners. Explains why one said, \"Whatcha gonna do when Gavin comes for you?\"",
     unlock_time = {1005920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41060] = {
     diary_npc = 4,
-    content1 = "今天降温了，老高说膝盖有点疼，让他先回家了。下次给他带点儿膏药。",
+    content1 = "Suddenly got colder today. Chester said his knees were aching, so I told him to head home early. Gonna bring him some ointments next time.",
     unlock_time = {1006020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41061] = {
     diary_npc = 4,
-    content1 = "午休又跟他们玩了一次谁是卧底，确定了不是我的问题。无论我说什么，这些人都会先把我投出去。",
+    content1 = "Played \"Who's the Spy\" again during lunch break. At this point, I'm convinced they just enjoy voting me out first, no matter what I say.",
     unlock_time = {1006120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41062] = {
     diary_npc = 4,
-    content1 = "今天广场上的大型活动，有人低血糖晕倒了，不知道谁喊了一句“有狙击手”，闹到特遣署集体出动了。",
+    content1 = "There was a big event at the plaza today. A guy fainted from low blood sugar, and for some reason, someone yelled \"Sniper!\" The whole task force got called.",
     unlock_time = {1006220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41063] = {
     diary_npc = 4,
-    content1 = "今天没去晨跑，看到她睡得正香的样子，决定偶尔犯个懒。",
+    content1 = "Skipped my morning run today. She was sleeping so peacefully that I figured... it's fine to be lazy once in a while.",
     unlock_time = {1006320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41064] = {
     diary_npc = 4,
-    content1 = "这家店的速通榜上看到好几个熟人，改天在署里搞一次大逃杀吧，就当是日常训练了。",
+    content1 = "Saw a bunch of familiar names on the speedrun leaderboard. Tempted to organize a \"battle royale\" back at HQ. Just as a casual training drill, of course.",
     unlock_time = {1006420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41065] = {
     diary_npc = 4,
-    content1 = "出任务回来桌上多了个橘子，所有人都期待地看着我，问了才知道航姐的橘子把署里的人都酸到了，就差我了。",
+    content1 = "Came back from a mission and found an orange sitting on my desk. Everyone was watching me like I was about to defuse a bomb. Turns out everyone had a taste of Hannah's sour oranges except me. Guess it was my turn.",
     unlock_time = {1006520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41066] = {
     diary_npc = 4,
-    content1 = "小黑送去保养了，久违骑单车回家。风很舒服，要是她也坐在后座上就好了。",
+    content1 = "Sent Sparky in for maintenance, so I biked home instead. The wind felt great. Would've been even better if she were sitting in the back seat.",
     unlock_time = {1006620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41067] = {
     diary_npc = 4,
-    content1 = "收到了游乐园套票特惠的推送，云霄飞车升级了，有机会去体验一下。",
+    content1 = "Got a notification for discounted amusement park passes and something about their newly upgraded roller coaster. Definitely need to check it out sometime.",
     unlock_time = {1006720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41068] = {
     diary_npc = 4,
-    content1 = "家附近一条路上的所有银杏叶都黄了，下班时风送来了几片很好看的叶子，回家一起送给她。",
+    content1 = "The ginkgo trees near my place all turned golden. A few leaves blew over on my way back from work. Picked them up and gave them to her when I got home.",
     unlock_time = {1006820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41069] = {
     diary_npc = 4,
-    content1 = "发生了两个有点复杂的案子，需要加紧处理，早破案早心安。",
+    content1 = "Two tough cases came in today. Gonna try and crack it as soon as possible.",
     unlock_time = {1006920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41070] = {
     diary_npc = 4,
-    content1 = "从早上就开始阴天，几个人一直在祈祷。还好没下雨，查到了重要证据。",
+    content1 = "It's been cloudy since this morning. Everyone's been half-praying it wouldn't rain. Luckily, it held up, and we managed to find a key piece of evidence.",
     unlock_time = {1007020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41071] = {
     diary_npc = 4,
-    content1 = "她塞的小狼软糖吃起来很方便，也算是能时时刻刻补充维生素，等结果的时候还能顺手塞一颗。",
+    content1 = "The wolf-shaped vitamin gummies she gave me are really handy. Let me get my essential vitamins even while waiting for the results.",
     unlock_time = {1007120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41072] = {
     diary_npc = 4,
-    content1 = "抓到人了，没想到嫌疑人还涉及一桩陈年旧案，追查多年的老朱没忍住多喝了两杯。如果所有旧案都这样就好了。",
+    content1 = "Caught the suspect tonight. Turns out he was tied to a cold case, the same one old Eckhart's been chasing for years. He was so happy that he drank until he was barely walking. If only all old cases ended this way.",
     unlock_time = {1007227},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41073] = {
     diary_npc = 4,
-    content1 = "来送感谢信的当事人提出跟我和小郑合影，我们两个穿着制服，他站在中间，最后出来的照片确实有些怪。",
+    content1 = "A guy came in to deliver a thank-you letter and asked for a photo with me and Jones. We were both in uniform while he stood in the middle. The photo ended up looking... a little bit strange.",
     unlock_time = {1007320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41074] = {
     diary_npc = 4,
-    content1 = "和她一起包了饺子，吃了羊肉汤。冬天到了，握着她的手，也不会冷。",
+    content1 = "Made dumplings and lamb soup with her tonight. Winter's officially here. But with her hand in mine, it didn't feel cold at all.",
     unlock_time = {1007420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41075] = {
     diary_npc = 4,
-    content1 = "馅饼店老板包馅饼的手速看得人眼花缭乱，就是味道不太好吃。",
+    content1 = "Watched the pie shop owner make meat pies at lightning speed. Shame the taste didn't live up to the performance.",
     unlock_time = {1007520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41076] = {
     diary_npc = 4,
-    content1 = "发现了一条很适合散步的路线，能同时欣赏到一路落叶和远处的海景，坐着发了一会儿呆。",
+    content1 = "Found a perfect little place for a walk today. The roadside was lined with golden leaves and overlooked the sea. Sat there for a while, just zoning out.",
     unlock_time = {1007620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41077] = {
     diary_npc = 4,
-    content1 = "今天天气很好，下午打完篮球后回家又弹了会儿吉他，看的比赛球队赢了，她靠在我身边睡着了。一切都很好。",
+    content1 = "The weather was perfect today. Played basketball, strummed my guitar, watched my team win their match, and she fell asleep leaning on my shoulder. Couldn't ask for a better day.",
     unlock_time = {1007720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41078] = {
     diary_npc = 4,
-    content1 = "前一阵买的小推车很方便，运陈年卷宗的时候比之前署里配的多拉了一倍，真不错。",
+    content1 = "The small cart I bought recently turned out to be a great investment. Managed to haul twice the old case files we usually can. Small wins always feel the best.",
     unlock_time = {1007820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41079] = {
     diary_npc = 4,
-    content1 = "特遣署食堂的厨师最近请假了，饭菜水平断崖式下滑，一群人把我的辣酱都挖走了。",
+    content1 = "The cafeteria's cook took some time off, and the taste nosedived. Now everyone started raiding my stash of chili sauce.",
     unlock_time = {1007920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41080] = {
     diary_npc = 4,
-    content1 = "和她视频时手机不小心掉进桌缝，桌下传出了“这是哪儿”以及“我丢的那个发绳找到了！”的声音。",
+    content1 = "Was on a video call with her and accidentally dropped my phone between the desk and the wall. Suddenly heard her say, \"Where am I?\" and \"Oh hey, found that hairband I lost!\"",
     unlock_time = {1008020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41081] = {
     diary_npc = 4,
-    content1 = "路过花鸟市场时开始下大雨了，一大片含羞草集体“自闭”的场景很壮观。",
+    content1 = "Got caught in a sudden downpour while walking past the flower market. A whole patch of shameplants curled up at once like they were sulking. Looked strangely majestic.",
     unlock_time = {1008120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41082] = {
     diary_npc = 4,
-    content1 = "半夜回家楼下水果摊还亮着灯，本想买份水果捞给她带回去，发现老板在摊位旁边的躺椅上睡熟了。",
+    content1 = "Came home late, and the fruit stand downstairs was still lit. Thought about bringing her back some fruit salad, but the owner was already fast asleep behind the stall.",
     unlock_time = {1008224},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41083] = {
     diary_npc = 4,
-    content1 = "今天天气不错，正好把冬天用的厚被子找出来晒了晒，躺上去很软很舒服。",
+    content1 = "The weather was nice today, so I took out the heavy winter quilt and aired it out. It's insanely soft now.",
     unlock_time = {1008320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41084] = {
     diary_npc = 4,
-    content1 = "被网络评分欺骗了，不过这本推理小说的作者挺厉害的，这么简单的诡计，能写这么多填充的字。",
+    content1 = "Read a mystery novel that got rave reviews online. Turns out the plot twist was painfully obvious. Still, respect to the author for stretching that one trick across so many pages; that takes talent of a certain kind.",
     unlock_time = {1008420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41085] = {
     diary_npc = 4,
-    content1 = "下班陪老高去一个据说很高明的老中医那治腿，顺便在药堂买了杯中药奶茶，好喝和好用能占一个也不错。",
+    content1 = "Went with Chester to see this old-school Chinese medicine doctor for his knee. While we were there, I grabbed a cup of herbal milk tea. Here's hoping it's either tasty or has some medicinal effects. One will do.",
     unlock_time = {1008520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41086] = {
     diary_npc = 4,
-    content1 = "附近的一家糕点铺特制的环保袋很结实，最近快成署里的“上班包”了。",
+    content1 = "There's a local pastry shop that gives out these thick, reusable tote bags. It has basically become the bureau's unofficial work bag.",
     unlock_time = {1008620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41087] = {
     diary_npc = 4,
-    content1 = "今天的任务有惊无险，一定是她送的护身符起作用了。",
+    content1 = "Today's mission went smoothly. No surprises, no trouble. Must be her little lucky charm protecting me.",
     unlock_time = {1008720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41088] = {
     diary_npc = 4,
-    content1 = "柳哥说今年去警校的分享报告不能再拖了，最晚十一月结束前必须去。想不到有什么好分享的。",
+    content1 = "Principal Willis cornered me again about giving that speech at the police academy. Said it has to happen before the end of November. Still don't know what I'm supposed to give a speech about.",
     unlock_time = {1008820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41089] = {
     diary_npc = 4,
-    content1 = "食堂的新品芝麻饼上印了四个字“今日无警”，它因此一跃成为了食堂最受欢迎单品。",
+    content1 = "The cafeteria dropped a new sesame cake with \"NO INCIDENTS TODAY\" stamped on top. Instantly. Guess we're all a little superstitious.",
     unlock_time = {1008920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41090] = {
     diary_npc = 4,
-    content1 = "天黑得越来越早，那家老奶奶经营的炒货店总是提前收摊，不过今天提前收队，给她买了份热乎的烤栗子。",
+    content1 = "The sun's setting earlier now. The old lady with the roasted snacks always packs up before sunset. We finished early today, so I grabbed a bag of warm chestnuts for her.",
     unlock_time = {1009020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41091] = {
     diary_npc = 4,
-    content1 = "署里打了场友谊赛，明明之前3v3，最后变成了1v5，不公平。但我赢了。",
+    content1 = "Had a friendly match at the HQ. Started as 3v3. Ended up me versus five. Totally rigged. Still won.",
     unlock_time = {1009120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41092] = {
     diary_npc = 4,
-    content1 = "新案子有些棘手，申请了国家级专业的犯罪心理分析师来协助，听他分析的时候，学习了不少思路。",
+    content1 = "The new case is a little tough. We had to bring in the top profiler in the country to help us out. Learned a lot just listening to him break things down.",
     unlock_time = {1009220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41093] = {
     diary_npc = 4,
-    content1 = "犯人的反侦察意识极强，有理由怀疑学习过相关知识或者曾经从事过同类行业，看来要更换一下排查思路了。",
+    content1 = "The suspect was using techniques beyond those of normal criminals. Definitely trained. Might've worked in the field. We'll need a new approach.",
     unlock_time = {1009320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41094] = {
     diary_npc = 4,
-    content1 = "今天抓完嫌疑人大家都很沉默。曾是兄弟单位的警员，甚至工作中还有过交集。想不明白。",
+    content1 = "Nobody said much after we made the arrest. He used to be a cop just like us. Some of the guys had even worked with him. Still feels unreal.",
     unlock_time = {1009420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41095] = {
     diary_npc = 4,
-    content1 = "回家看到她的笑脸，好像再烦心的事，也不算什么。忙过这几天，要把时间都给她。",
+    content1 = "Got home and saw her smiling at me. In that moment, nothing else mattered. Once I'm through this stretch, I'm giving her all my time.",
     unlock_time = {1009520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41096] = {
     diary_npc = 4,
-    content1 = "配合其他部门最后确认未来两个月的人员安排，热闹的恋语市也很好。",
+    content1 = "Just finished coordinating next quarter's staff assignments with the other departments. It's about to get busy here again, and I kind of like it that way.",
     unlock_time = {1009620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41097] = {
     diary_npc = 4,
-    content1 = "去警校做分享了，故意拿了去年的稿子，只有个别人注意到了，但只有一个人提醒了我，准备以后把他提到署里。",
+    content1 = "Gave that speech at the academy today. Used last year's script. Most didn't notice, but one kid did. Came up afterward and pointed it out. Might recruit him to the task force.",
     unlock_time = {1009720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41098] = {
     diary_npc = 4,
-    content1 = "年末又要开始准备一些汇报材料，不过我的汇报技巧也有些进步，但需求也增多了，怎么还要做PPT。",
+    content1 = "Year-end reports are starting to pile up. Thankfully, my report-writing skills are also getting better. It's the constant presentation requests I could do without.",
     unlock_time = {1009820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41099] = {
     diary_npc = 4,
-    content1 = "请好假了，想把时间拨快到全属于她的那天。",
+    content1 = "Leave's approved. I couldn't stop counting down the days. I'm gonna give her my full, undivided time.",
     unlock_time = {1009920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [41100] = {
     diary_npc = 4,
-    content1 = "答应$u的事就一定会办到，最后一篇日记，值得晚上一起庆祝一下，为这段时光画上一个圆满的句号。",
+    content1 = "I'll always keep whatever promise I make to $u. This is the last journal entry. Feels like the right night to celebrate and end this meaningful chapter with a fitting end.",
     unlock_time = {1010005},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81001] = {
     diary_npc = 8,
-    content1 = "头一回这么正经写日记，趁我没反悔之前，有些人最好也别偷懒。",
+    content1 = "First time actually sitting down to write a proper diary. Figured I'd better do it before I regretted my choice. And yeah, somebody better not slack either.",
     unlock_time = {1000105},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81002] = {
     diary_npc = 8,
-    content1 = "来炸鸡店换换口味，发现居然被多放了两块鸡块，看来是遇到鸡块侠了。",
+    content1 = "Switched things up and grabbed fried chicken today. They gave me two extra nuggets. Whoever you are, you're the real hero.",
     unlock_time = {1000220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81003] = {
     diary_npc = 8,
-    content1 = "睡到自然醒的日子，没剩几天了。",
+    content1 = "Not many mornings left where I can sleep in. Gotta savor 'em.",
     unlock_time = {1000320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81004] = {
     diary_npc = 8,
-    content1 = "车站听到一个小孩兴高采烈地说他幼儿园毕业，以后就不用读书了，呵，年轻人别高兴得太早了。",
+    content1 = "Heard this kid at the station say he just graduated from kindergarten and doesn't have to study anymore. Oh buddy... you clueless boy.",
     unlock_time = {1000420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81005] = {
     diary_npc = 8,
-    content1 = "想喝冰可乐点了个外卖套餐，结果骑手偏偏把可乐漏送了，啧。",
+    content1 = "Ordered a combo meal just for the ice-cold soda. Guess what the delivery guy forgot? Yep.",
     unlock_time = {1000520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81006] = {
     diary_npc = 8,
-    content1 = "看上了超市里牛奶的赠品杯子，问促销员杯子单卖吗，他告诉我可以，买杯子赠一箱奶。",
+    content1 = "The supermarket was giving away this cool cup if you bought a box of milk. I asked the clerk if I could buy the cup only. He goes, \"Sure, buy the cup; we'll even throw in a whole box of milk.\"",
     unlock_time = {1000620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81007] = {
     diary_npc = 8,
-    content1 = "胳膊上贴着贴纸在音乐节晒了一下午，晚上这贴纸就晒成纹身了。",
+    content1 = "Had a sticker on my arm all afternoon from the music fest. Now I've got a sunburn that looks like a tattoo. Nice.",
     unlock_time = {1000720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81008] = {
     diary_npc = 8,
-    content1 = "又、开、学、了。",
+    content1 = "Deadline coming up for that stupid essay. Argh.",
     unlock_time = {1000820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81009] = {
     diary_npc = 8,
-    content1 = "明天有一个课题报告要交，我决定先带着长板去刷个街。",
+    content1 = "Got a project due tomorrow. But first, longboard time.",
     unlock_time = {1000920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81010] = {
     diary_npc = 8,
-    content1 = "赶在最后十分钟把课题报告交了，不愧是我。",
+    content1 = "Turned in the project with ten minutes to spare. Not gonna lie, I amaze myself.",
     unlock_time = {1001024},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81011] = {
     diary_npc = 8,
-    content1 = "涂鸦墙画的树，旁边居然有根真树枝伸出来了，有点意思。",
+    content1 = "Painted a tree on the graffiti wall and had a real branch just poke out from the side. Intriguing.",
     unlock_time = {1001120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81012] = {
     diary_npc = 8,
-    content1 = "没课，爽。老头找我去办公室，不爽。",
+    content1 = "No class today. Loved that. Then the old man called me into his office. Hated that.",
     unlock_time = {1001220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81013] = {
     diary_npc = 8,
-    content1 = "Adam因为扁桃体炎变成蜜蜂小狗了，排练时能忍住不笑也真是辛苦我了。",
+    content1 = "Adam's got tonsillitis, and now he sounds like a buzzing puppy. Mad respect to me for not cracking up during rehearsal.",
     unlock_time = {1001320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81014] = {
     diary_npc = 8,
-    content1 = "用肚子收伞的动作难道不是全世界统一的吗，有人居然嘲笑我像捅了自己一刀。",
+    content1 = "Used my stomach to close my umbrella like any normal person, and someone said it looked like I tried to stab myself.",
     unlock_time = {1001420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81015] = {
     diary_npc = 8,
-    content1 = "临时调了节早课，最后翘了。",
+    content1 = "Had an early class pop up at the last minute. Skipped it. Obviously.",
     unlock_time = {1001520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81016] = {
     diary_npc = 8,
-    content1 = "给老头过节，他说我少气他点比什么都强。",
+    content1 = "Gave the old man a holiday gift. He said all he wanted was for me to stop stressing him out.",
     unlock_time = {1001620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81017] = {
     diary_npc = 8,
-    content1 = "新口味的饮料替有些人尝过了，有股液体电池的味儿，对外来生命可能是佳酿，对地球生物来说还是太超前了。",
+    content1 = "Tried that new drink, so someone didn't have to. Tasted like battery juice. Some alien species from another planet might enjoy this, but not anyone on Earth.",
     unlock_time = {1001720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81018] = {
     diary_npc = 8,
-    content1 = "去古玩市场转了一圈，碗底刻了微波炉专用还拿来当老物件卖，手段也太拙劣了。",
+    content1 = "Hit up the antique market. Found a bowl labeled \"Microwave Safe\" being sold as an old relic. Who's even gonna fall for this?",
     unlock_time = {1001820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81019] = {
     diary_npc = 8,
-    content1 = "掐指一算，吃饭排队插队的，期末必挂科。",
+    content1 = "There's an ancient curse that only affects people who cut in line at the cafeteria. They're now doomed to fail their finals.",
     unlock_time = {1001920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81020] = {
     diary_npc = 8,
-    content1 = "滑个板回来发现，新买的无线耳机又丢一个。加上上回那个剩俩右耳了，啧。",
+    content1 = "Came back from skating and lost another earbud. Now I've got two right earbuds and no lefts. Beautiful.",
     unlock_time = {1002020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81021] = {
     diary_npc = 8,
-    content1 = "老街夜市这两天在举行“恋语锅包肉大赛”，一条街逛下来也太饱了。",
+    content1 = "The old night market is having a sweet & sour pork contest. Walked one block, and I'm already stuffed to the brim.",
     unlock_time = {1002120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81022] = {
     diary_npc = 8,
-    content1 = "老头这作业越留越刁钻了，我还偏就能做出来。",
+    content1 = "The old man's assignments keep getting weirder... but I still nailed it.",
     unlock_time = {1002220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81023] = {
     diary_npc = 8,
-    content1 = "花好，月圆，人多。陪她，好吃，好玩。",
+    content1 = "It's always good times when I get to spend time with her.",
     unlock_time = {1002320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81024] = {
     diary_npc = 8,
-    content1 = "刚写了五分钟论文手机就生气了，没办法只能哄了两个小时。",
+    content1 = "Tried to get started on that paper, but the screen on my phone had this weird dirt that took me two hours to clean off.",
     unlock_time = {1002420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81025] = {
     diary_npc = 8,
-    content1 = "有些人包上的水果装饰太仿真，被不知道哪里冒出来的鸟一顿啄，笑死我了。",
+    content1 = "Someone had a fruit charm on her bag so realistic that a random bird tried to peck it. I nearly died laughing.",
     unlock_time = {1002520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81026] = {
     diary_npc = 8,
-    content1 = "来湖边露营了，有些人用石子打水漂的功夫还得练。",
+    content1 = "Went camping by the lake. Some people still need major practice skipping stones.",
     unlock_time = {1002620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81027] = {
     diary_npc = 8,
-    content1 = "排练的新曲子效果还不错，拣日不如撞日，今天就炸场。",
+    content1 = "Our new song's sounding solid. No better day to blow off the roof than today.",
     unlock_time = {1002720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81028] = {
     diary_npc = 8,
-    content1 = "现在的网红景点也太诈骗了，比野史还离谱。",
+    content1 = "Last time I'm trusting an online review for a tourist destination. Even conspiracy theories are more believable.",
     unlock_time = {1002820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81029] = {
     diary_npc = 8,
-    content1 = "老头数落我一大早就没精气神，也不笑一笑。买了个笑脸口罩，明天一定做到笑脸迎人。",
+    content1 = "Old man said I looked tired and cranky this morning. So I bought a smiley-face mask. I'll be cheerful tomorrow, promise.",
     unlock_time = {1002920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81030] = {
     diary_npc = 8,
-    content1 = "图书馆占座，我见一个举报一个。",
+    content1 = "Library seat hogs beware. I catch you, I report you.",
     unlock_time = {1003020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81031] = {
     diary_npc = 8,
-    content1 = "被迫辅导老头的孙子写作业，当鸡兔同笼算出了19.1只鸡和8.8只兔时，我们两个都沉默了。",
+    content1 = "Had to help the old man's grandson with homework. We somehow ended up with 19.1 chickens and 8.8 rabbits. We both just sat there in silence.",
     unlock_time = {1003120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81032] = {
     diary_npc = 8,
-    content1 = "我就纳闷了，恋大这么大个学校，到底有没有人能管管校园网的网速啊？",
+    content1 = "Seriously though—can someone PLEASE fix the campus Wi-Fi? I'm begging.",
     unlock_time = {1003220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81033] = {
     diary_npc = 8,
-    content1 = "去郊区做调研，老头有车不开非要坐大巴，结果半路晕车吐了个昏天黑地……典型没苦硬吃。",
+    content1 = "Went on a research trip to the suburbs. The old man had a car and still insisted on taking the bus. Got carsick halfway and barfed his soul out. That's what you get.",
     unlock_time = {1003320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81034] = {
     diary_npc = 8,
-    content1 = "听说图书馆搞了个机器人管理员？这么高速运转的机械进入恋大，明天去瞧瞧。",
+    content1 = "Heard the library got a robot librarian? Gonna swing by tomorrow and see what the fuss is about.",
     unlock_time = {1003420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81035] = {
     diary_npc = 8,
-    content1 = "问了几个历史问题回答还挺丝滑，我说了句你懂得还挺多，这机器人给我来了一句：不收徒？",
+    content1 = "Asked it a couple of history questions, and it answered everything right. I said it was pretty smart, and it replied with \"ggez.\"",
     unlock_time = {1003520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81036] = {
     diary_npc = 8,
-    content1 = "服了，这补假补的，都不知道今天算周一、周二还是周五。",
+    content1 = "Man, that is one round moon. Looks like a tasty apple pie.",
     unlock_time = {1003620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81037] = {
     diary_npc = 8,
-    content1 = "没留神把焗蟹店老板叫成“蟹老板”，有些人笑得停不下来，叫了我一下午小熊猫宝宝。",
+    content1 = "Accidentally called the owner of the crab hotpot place \"Mr. Krabs.\" Someone couldn't stop laughing and kept calling me Red Panda Squarepants.",
     unlock_time = {1003720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81038] = {
     diary_npc = 8,
-    content1 = "看了场霹雳舞版的皮影戏表演，别说，还挺燃。",
+    content1 = "Saw a breakdancing shadow puppet show. It was weirdly epic.",
     unlock_time = {1003820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81039] = {
     diary_npc = 8,
-    content1 = "Adam说身边的人各过各的：当老板的、考公的、家里蹲的……还有我这种有奖学金又拿演出费的。还得是我。",
+    content1 = "Adam's telling us about his friends with all sorts of \"regular\" jobs. Then he looks at me, on scholarship AND performing for a living. What a life.",
     unlock_time = {1003920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81040] = {
     diary_npc = 8,
-    content1 = "大理石地面“小心地滑”提示牌旁边，刚好看到一只猫摔得四脚朝天，这算双重预警了。",
+    content1 = "Saw a wet floor sign just in time to see a cat slipping on the floor. That's what I call a double warning.",
     unlock_time = {1004020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81041] = {
     diary_npc = 8,
-    content1 = "店里来黑导游跟我谈合作分成，搞笑，直接举报。",
+    content1 = "A certain sketchy tour guide came into the shop, trying to get me to sell fake antiques to tourists. I laughed and reported him to the police.",
     unlock_time = {1004120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81042] = {
     diary_npc = 8,
-    content1 = "买的电影票周围一圈一个人都没有，感觉自己像个被扫出来的雷。",
+    content1 = "Went to the movies, and every seat around me was empty. Felt like the universe was clearing the area just for me.",
     unlock_time = {1004220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81043] = {
     diary_npc = 8,
-    content1 = "滑长板回来，遇到一只长得挺有特点的小狗，结果多看了两眼被缠上了，损失火腿肠一根。",
+    content1 = "Skated home and saw a funky-looking dog. Made eye contact for two seconds, and boom—the dude followed me until I had to give up my hot dog.",
     unlock_time = {1004320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81044] = {
     diary_npc = 8,
-    content1 = "老头出远门，带回来的大箱子居然是土特产，还以为又从哪淘来一堆“古特产”考我呢。",
+    content1 = "Old man came back from a trip with a huge box. Thought it was another crate of \"ancient artifacts\" meant to test me. Turns out, he brought back a bunch of novel snacks.",
     unlock_time = {1004420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81045] = {
     diary_npc = 8,
-    content1 = "老头买的土特产难吃，正好拿给Adam他们尝尝。",
+    content1 = "Those snacks taste like feces. Think I'll give them to Adam and the others.",
     unlock_time = {1004520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81046] = {
     diary_npc = 8,
-    content1 = "玩了块新板，有点意思。",
+    content1 = "Tried out a new deck today. Pretty fun.",
     unlock_time = {1004620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81047] = {
     diary_npc = 8,
-    content1 = "Adam在群里发的整蛊视频零帧起手，直接给我个开屏暴击，我看他也想被暴击了。",
+    content1 = "Adam dropped a prank video in the group chat that gave me quite the jump scare. I think it's time I gave him a piece of my fist to think over his decisions.",
     unlock_time = {1004720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81048] = {
     diary_npc = 8,
-    content1 = "睡迷糊跟老头发信息今天有点舒服想请假一天，被老头打电话来骂了一顿。",
+    content1 = "I was still half-asleep and texted the old man something like \"Feeling lazy today, gonna take the day off.\" He called and yelled at me on the spot.",
     unlock_time = {1004820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81049] = {
     diary_npc = 8,
-    content1 = "就休一天，今天Live House人都少了。",
+    content1 = "Took the day off anyway. Even Live House suddenly felt a lot more spacious today.",
     unlock_time = {1004920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81050] = {
     diary_npc = 8,
-    content1 = "学术活动没意思，但茶歇味道不错，不知道谁跟教授抢最后一块三明治了，反正不是我。",
+    content1 = "What is it with academic events that have the best killer refreshments? No clue who fought the prof for the last sandwich, but it wasn't me.",
     unlock_time = {1005020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81051] = {
     diary_npc = 8,
-    content1 = "收到了一个小熊猫冷帽，有些人的心思不要太明显了，我才不上当。",
+    content1 = "Someone gave me a red panda beanie. Nice try, I'm not falling for that trap.",
     unlock_time = {1005120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81052] = {
     diary_npc = 8,
-    content1 = "闭关两天，老头说搞了个麻烦物件要修复。",
+    content1 = "Gonna be holed up for two days. The old man says he's got some complicated thing that needs fixing.",
     unlock_time = {1005220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81053] = {
     diary_npc = 8,
-    content1 = "提前写了，干活。",
+    content1 = "Busy working. No time to write.",
     unlock_time = {1005220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81054] = {
     diary_npc = 8,
-    content1 = "干活。",
-    content2 = "干完了，啧，也没那么麻烦。",
+    content1 = "Busy.",
+    content2 = "All done. Wasn't that complicated.",
     unlock_time = {1005220, 1005420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81055] = {
     diary_npc = 8,
-    content1 = "去公园了，笨兔子拍的合照还没发我，估计又忙着P表情包呢。",
+    content1 = "Went to the park today. The clumsy rabbit took a pic of us and still hasn't sent it. Probably busy adding stickers.",
     unlock_time = {1005520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81056] = {
     diary_npc = 8,
-    content1 = "百米冲刺冲进家门，在关机倒计时最后一秒成功充上了电，舒服了。",
+    content1 = "Pulled off a full-on sprint and made it home just in time to plug in my phone before it died. What a victory.",
     unlock_time = {1005620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81057] = {
     diary_npc = 8,
-    content1 = "老头说其他教授跟他打听，我怎么干这么快的，我告诉他就四个字：菜就多练。",
+    content1 = "The old man said the other professors asked how I finished so fast. I just told them to go practice more.",
     unlock_time = {1005720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81058] = {
     diary_npc = 8,
-    content1 = "店员平时都问“要不要打包袋”，今天不按套路出牌，害得我习惯性在他递给我饮料时说了句：不用了谢谢。",
+    content1 = "Usually, they ask if I need a bag. Today, the guy didn't. I straight-up told him \"No thanks\" out of habit when he handed me the drink.",
     unlock_time = {1005820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81059] = {
     diary_npc = 8,
-    content1 = "琴行新上的迷你贝斯还挺有意思，顺手教笨兔子练了一会儿。",
+    content1 = "The mini bass at the music shop looked fun. Taught the clumsy bunny a few notes.",
     unlock_time = {1005920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81060] = {
     diary_npc = 8,
-    content1 = "今天不知道被谁叫了一声小孩哥，啧，这人真该去配副眼镜了。",
+    content1 = "Someone called me \"kiddo\" today. They need their eyes checked.",
     unlock_time = {1006020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81061] = {
     diary_npc = 8,
-    content1 = "食堂盖浇饭店把菜名学叫“能量碗”也就算了，怎么份量也学啊？",
+    content1 = "The cafeteria's calling their rice bowls \"energy bowls\" now. Sure. But why shrink the portions too?",
     unlock_time = {1006120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81062] = {
     diary_npc = 8,
-    content1 = "打游戏听到鸟叫的时候——说明又熬穿了。",
+    content1 = "If I'm hearing birds while I'm gaming... that means I've stayed up all night again.",
     unlock_time = {1006220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81063] = {
     diary_npc = 8,
-    content1 = "小熊猫手机壳看着就不聪明，但有人说她做了一晚上，那就换上几天玩玩。",
+    content1 = "The red panda phone case looks kinda goofy, but she made it overnight. Guess I'll use it for a few days just for her.",
     unlock_time = {1006320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81064] = {
     diary_npc = 8,
-    content1 = "不知道谁把我做万圣道具的夜光涂料当普通颜料用了，一晚上吓到了三个巡逻的保安。",
+    content1 = "No idea who mistook my glow-in-the-dark Halloween paint for regular paint, but they almost scared three security guards to death.",
     unlock_time = {1006420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81065] = {
     diary_npc = 8,
-    content1 = "Adam炫耀淘来个绝版曲谱，没翻两页上面印的“正在加载中”，某种程度来说，确实绝版。",
+    content1 = "Adam bragged about finding a one-of-a-kind sheet music... got two pages in and saw the link it was from printed on the bottom. Had an epic laugh.",
     unlock_time = {1006520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81066] = {
     diary_npc = 8,
-    content1 = "老头居然去鉴定节目当专家了，早上点评我论文的时候怎么没节目上这么和蔼，真是甘拜下风了。",
+    content1 = "Can't believe the old man went on an appraisal show as a guest expert. Look at that big smile. Where was that kindness when he tore into my paper this morning?",
     unlock_time = {1006620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81067] = {
     diary_npc = 8,
-    content1 = "今天又预判了她的预判，趁她吐槽公司楼下的便利店突然装修之前，直接发了一份需要我跑腿的报价表。",
+    content1 = "Totally predicted her move today. She was complaining about the convenience store outside of her office closing down for renovations. I gave her a list of my rates before she could send me on a snack run.",
     unlock_time = {1006720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81068] = {
     diary_npc = 8,
-    content1 = "没什么特别的事，我没课，她下班早，就挺好的。",
+    content1 = "Nothing big today. No classes; she got off work early. Chill day, zero complaints.",
     unlock_time = {1006820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81069] = {
     diary_npc = 8,
-    content1 = "被导航到火锅店后厨了，那正好先吃顿火锅再回去。",
+    content1 = "GPS glitched and dropped me at the back door of a hotpot place. Not my fault. Figured I might as well eat while I'm here.",
     unlock_time = {1006920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81070] = {
     diary_npc = 8,
-    content1 = "Fitch在排练时加了段他刚学会的鼓槌抛接杂技，演砸了，都没轮得上我动手。",
+    content1 = "Fitch tried showing off his new drumstick toss during rehearsal. Fumbled it hard. Didn't even need me to roast him.",
     unlock_time = {1007020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81071] = {
     diary_npc = 8,
-    content1 = "校报采访还得穿正装戴校徽？老头可真能给我找活。",
+    content1 = "Gotta wear formal clothes and the school badge for the school paper interview? The old man really knows how to hand out side quests.",
     unlock_time = {1007120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81072] = {
     diary_npc = 8,
-    content1 = "发现食堂的汉堡窗口开始同时卖包子了，尝了一下，它以后还是老老实实回归初心吧。",
+    content1 = "The cafeteria's burger stand has started selling pork buns. Tried one. Let's just say... stick to what you're good at, buddy.",
     unlock_time = {1007220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81073] = {
     diary_npc = 8,
-    content1 = "不少好多年前的“冷门歌”翻红了，看来我从小品味就很好。",
+    content1 = "All these random old songs from years ago are suddenly going viral again. Guess I've always had a good taste in music.",
     unlock_time = {1007320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81074] = {
     diary_npc = 8,
-    content1 = "顺手买了顶粉色的毛帽子，给那个笨兔子正好，免得耳朵冻掉。",
+    content1 = "Picked up a pink beanie on a whim. Perfect for the dumb bunny so she doesn't freeze her ears off.",
     unlock_time = {1007420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81075] = {
     diary_npc = 8,
-    content1 = "练歌练得过困劲儿了，试了朋友圈里的“翻白眼入睡法”，效果还行，就是第二天眼珠子有点疼。",
+    content1 = "Passed out after vocal practice. Tried that \"roll your eyes to sleep\" hack from social media. Worked okay... but my eyeballs hated me the next morning.",
     unlock_time = {1007520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81076] = {
     diary_npc = 8,
-    content1 = "最近来教室睡觉的猫越来越多了，山大王也来抢占地盘，看来冬天确实到了。",
+    content1 = "There are definitely more cats sneaking into classrooms to nap lately. Even the Big Boss's showing up to claim territory. Guess it's still a little cold outside.",
     unlock_time = {1007620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81077] = {
     diary_npc = 8,
-    content1 = "两个人一起上分还挺快，直接三连MVP跳段，收工。",
+    content1 = "Duo queue is really great for going up in ranks. Got MVP three times in a row and skipped a whole rank. Gonna call it a night.",
     unlock_time = {1007720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81078] = {
     diary_npc = 8,
-    content1 = "……到底谁想的Live House双十一单身畅饮双人涨价活动，有点过分了吧。",
+    content1 = "Seriously, who's the genius at the Live House that doubled the drink prices for couples on Singles' Day? Someone's gotta be trolling.",
     unlock_time = {1007820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81079] = {
     diary_npc = 8,
-    content1 = "学校流浪猫都有身份码了，扫一扫直接识别，界面比学生证还齐全可爱。",
+    content1 = "Even the stray cats on campus have QR codes now. You scan them, and boom—their profile page is even cuter and more detailed than my student ID.",
     unlock_time = {1007920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81080] = {
     diary_npc = 8,
-    content1 = "再多听一首口水rap我的耳朵都要报废了，能不能把这些废料全送去销毁？",
+    content1 = "If I hear one more garbage rap track, my ears are gonna file a complaint. Can we toss this stuff into a furnace or something?",
     unlock_time = {1008020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81081] = {
     diary_npc = 8,
-    content1 = "老头说我“只要风度不要温度”，还说他的老寒腿就是这么来的，我看他踩着上课铃跑进教室腿脚挺利索的。",
+    content1 = "Old man said I \"care more about looking cool than staying warm.\" Also claimed that's how his knee problems started. Funny how he was sprinting to class just fine this morning.",
     unlock_time = {1008120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81082] = {
     diary_npc = 8,
-    content1 = "有邻居一大早起来练琴，装修声都没他的琴声折磨人。",
+    content1 = "Neighbor was up playing piano so early that even the construction guys probably filed a noise complaint.",
     unlock_time = {1008220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81083] = {
     diary_npc = 8,
-    content1 = "有个小孩拿着串绿珠子来古董店让我看看是什么材质，我打眼一看，这阳光玫瑰提子品质不错。",
+    content1 = "Some kid brought in a string of green beads to the shop and asked me what they were. Grapes. They were grapes.",
     unlock_time = {1008320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81084] = {
     diary_npc = 8,
-    content1 = "有些人熬夜刷剧结果没一会就睡着了，旁边平板都没关放了一晚上的电视剧，从入宫演到了出宫。",
+    content1 = "Somebody tried to stay up all night to binge on some dramas, only to pass out halfway. Didn't even get to see who the true murderer was.",
     unlock_time = {1008420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81085] = {
     diary_npc = 8,
-    content1 = "老街新开了家糕点铺，给她买顺便给老头带了一份，老头嘴上说着不喜欢吃，回头就跟同事炫耀上了。",
+    content1 = "Saw a new pastry shop today. Bought some treats for her and grabbed some extras for the old man. He said he didn't like sweets, then boasted about them to his coworkers the very next second.",
     unlock_time = {1008520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81086] = {
     diary_npc = 8,
-    content1 = "练长板的广场上多了个雕像，是马背上有个裂成两半的心，听说寓意是“马上开心”……厉害。",
+    content1 = "The skate park got a new sculpture of a bunch of people sitting around a table. The description at the base said \"board meeting.\" I hate puns.",
     unlock_time = {1008620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81087] = {
     diary_npc = 8,
-    content1 = "选修课下课时教授说要留个人帮忙整理材料，目光和他对上时我就知道完了。",
+    content1 = "The prof ended the class and said he needed someone to help sort out the handouts. The second we made eye contact, I knew I was doomed.",
     unlock_time = {1008720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81088] = {
     diary_npc = 8,
-    content1 = "排练的时候加了段即兴，大家配合得都挺不错，过瘾。",
+    content1 = "Added some improv to rehearsal today. Everyone kept up. It was a wild good time.",
     unlock_time = {1008820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81089] = {
     diary_npc = 8,
-    content1 = "啧，有人表情包满了，宁可发信息存在和我的对话框里，也不删用我照片P的那些。",
+    content1 = "Someone ran out of space for sticker memes, so now they're saving them in our chat rather than deleting the cursed ones they made out of my photos.",
     unlock_time = {1008920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81090] = {
     diary_npc = 8,
-    content1 = "广场上有个戴墨镜的大爷在唱摇滚，有点东西。",
+    content1 = "Saw this grandpa in sunglasses rocking out on the plaza stage. Dude's got something. Respect.",
     unlock_time = {1009020},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81091] = {
     diary_npc = 8,
-    content1 = "今天黄历不错，宜出行。想好了，晚上带她去个有意思的地方转转。",
+    content1 = "Checked the calendar today—says it's a good day to go on a trip. Gonna take her somewhere fun tonight. Already got a place in mind.",
     unlock_time = {1009120},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81092] = {
     diary_npc = 8,
-    content1 = "被街坊们叫去蹭了顿饭，顺便拿了几块清炖的骨头给阿黄，结果这小子都给它女朋友吃了……",
+    content1 = "The neighborhood crew called me over for dinner. Got some leftover bones for Amber. He turned around and gave them to his dog girlfriend instead...",
     unlock_time = {1009220},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81093] = {
     diary_npc = 8,
-    content1 = "修瓷瓶是有点麻烦，但最后在我手上“现原形”的感觉，还不错。",
+    content1 = "Fixing a broken vase takes effort, but seeing it come together in my hands was super satisfying.",
     unlock_time = {1009320},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81094] = {
     diary_npc = 8,
-    content1 = "Jensen给了两张他那家私人影院的观影券，改天问问她想看什么……算了，今晚就问。",
+    content1 = "Jensen handed me two movie passes for a private theater. Should I ask her what she wants to watch? Forget it, I'll just ask her tonight.",
     unlock_time = {1009420},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81095] = {
     diary_npc = 8,
-    content1 = "？门口怎么又修路了？拎着板走出半条街……希望能早点修完，要不最近都得提前5分钟出门了。",
+    content1 = "Why is the road under construction again? Had to carry my board halfway down the block. Hope they finish soon, or I'd have to leave five minutes early every day.",
     unlock_time = {1009520},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81096] = {
     diary_npc = 8,
-    content1 = "演出结束几个人去吃火锅，拍个照馋她的功夫，刚下的肉几筷子就被秒光。",
+    content1 = "A bunch of us went for hotpot after the show. Took one pic to make her jealous, and boom—all the meat was gone.",
     unlock_time = {1009620},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81097] = {
     diary_npc = 8,
-    content1 = "日子过得还挺快，这个月结束，得琢磨点好玩的。",
+    content1 = "The days are just flying by. Might be time to cook up something fun to do before the month ends.",
     unlock_time = {1009720},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81098] = {
     diary_npc = 8,
-    content1 = "练了几个新的花式动作，一下午拿下。教会她有点难，但是得给她看看。",
+    content1 = "Learned a couple of new board tricks this afternoon. Teaching her might be tricky, but I guess I'll show it to her anyway.",
     unlock_time = {1009820},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81099] = {
     diary_npc = 8,
-    content1 = "某只笨兔子兴致勃勃的劲儿，确实看着就让人心情不错。",
+    content1 = "Gotta give it to the dumb bunny. It's hard not to smile watching her bounce around like that.",
     unlock_time = {1009920},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   },
   [81100] = {
     diary_npc = 8,
-    content1 = "……我居然能写完100天日记，服了。当然了，有些人也挺厉害。",
+    content1 = "...Can't believe I actually pulled off 100 days of nonstop journaling. Impressive. Gotta admit, someone else did a pretty good job too.",
     unlock_time = {1010005},
-    diary_type = 1
+    diary_type = 1,
+    __TEMP_USE = "0.0"
   }
 }

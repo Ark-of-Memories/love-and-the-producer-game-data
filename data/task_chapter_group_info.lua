@@ -213,8 +213,24 @@ data = {
     PV_desc = "May this amazing world never succumb to silence."
   },
   [217] = {
-    chapter_include = "9999999",
+    chapter_include = "3159:3160",
+    group_name = "Lights Out",
+    group_pv = "mainline_26",
+    season = 2,
+    title_img = "back_pv_s2_v17",
+    PV_desc = "Shh—it's your turn."
+  },
+  [218] = {
+    chapter_include = "3161:3162:3163:3164",
     new_tag = 1,
+    group_name = "Loading",
+    group_pv = "mainline_27",
+    season = 2,
+    title_img = "back_pv_s2_v18",
+    PV_desc = "[System breached. Acquiring control...] "
+  },
+  [219] = {
+    chapter_include = "9999999",
     group_name = "To Be Continued",
     tag_desc = "To be continued. Stay tuned...",
     season = 2

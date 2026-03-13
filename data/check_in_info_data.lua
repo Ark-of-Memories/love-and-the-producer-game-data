@@ -80,21 +80,21 @@ data = {
     [21] = {
       check_in_rewards = "0,1,4000",
       vip_auth_level = 1,
-      card = "531060,81,1"
+      card = "531200,81,1"
     }
   },
   [2] = {
     [21] = {
       check_in_rewards = "0,1,4000",
       vip_auth_level = 1,
-      card = "533110,81,1"
+      card = "533240,81,1"
     }
   },
   [3] = {
     [21] = {
       check_in_rewards = "0,1,4000",
       vip_auth_level = 1,
-      card = "532120,81,1"
+      card = "532260,81,1"
     }
   },
   [4] = {
@@ -136,28 +136,28 @@ data = {
     [21] = {
       check_in_rewards = "0,1,4000",
       vip_auth_level = 1,
-      card = "31970,81,1"
+      card = "531150,81,1"
     }
   },
   [10] = {
     [21] = {
       check_in_rewards = "0,1,4000",
       vip_auth_level = 1,
-      card = "533060,81,1"
+      card = "533200,81,1"
     }
   },
   [11] = {
     [21] = {
       check_in_rewards = "0,1,4000",
       vip_auth_level = 1,
-      card = "32920,81,1"
+      card = "532080,81,1"
     }
   },
   [12] = {
     [21] = {
       check_in_rewards = "0,1,4000",
       vip_auth_level = 1,
-      card = "534080,81,1"
+      card = "534230,81,1"
     }
   }
 }

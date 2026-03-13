@@ -2221,23 +2221,23 @@ data = {
   },
   [808] = {
     condition_type = 5,
-    condition_detail1 = "2024/9/15 00:00:00",
+    condition_detail1 = "2024/09/15 00:00:00",
     condition_detail2 = "2038/1/1  00:00:00"
   },
   [809] = {
     condition_type = 5,
-    condition_detail1 = "2024/10/31 0:00",
-    condition_detail2 = "2024/11/1 23:59"
+    condition_detail1 = "2025/10/31 0:00:00",
+    condition_detail2 = "2025/11/1 23:59:59"
   },
   [810] = {
     condition_type = 5,
-    condition_detail1 = "2024/10/31 0:00",
+    condition_detail1 = "2025/10/31 0:00:00",
     condition_detail2 = "2038/1/1  00:00:00"
   },
   [811] = {condition_type = 8, condition_detail1 = "2020,322,1"},
   [812] = {
     condition_type = 5,
-    condition_detail1 = "2024/11/17 0:00:00",
+    condition_detail1 = "2025/11/17  0:00:00",
     condition_detail2 = "2038/01/01 00:00:00"
   },
   [813] = {
@@ -2253,44 +2253,44 @@ data = {
   [819] = {condition_type = 10, condition_detail1 = "139,325,1"},
   [820] = {
     condition_type = 5,
-    condition_detail1 = "2024/12/20 12:00:00",
+    condition_detail1 = "2026/3/20 0:00",
     condition_detail2 = "2038/1/1  00:00:00"
   },
   [821] = {
     condition_type = 5,
-    condition_detail1 = "2024/12/20 0:00",
-    condition_detail2 = "2024/12/22 23:59"
+    condition_detail1 = "2026/3/20 0:00",
+    condition_detail2 = "2026/3/22 23:59:00"
   },
   [822] = {
     condition_type = 5,
-    condition_detail1 = "2024/12/20 0:00",
+    condition_detail1 = "2026/3/20 0:00",
     condition_detail2 = "2038/1/1  00:00:00"
   },
   [823] = {
     condition_type = 5,
-    condition_detail1 = "2024/12/24 18:00:00",
-    condition_detail2 = "2024/12/25 23:59:00"
+    condition_detail1 = "2025/12/24 18:00:00",
+    condition_detail2 = "2025/12/25 23:59:00"
   },
   [824] = {
     condition_type = 5,
-    condition_detail1 = "2024/12/24 18:00:00",
+    condition_detail1 = "2025/12/24 18:00:00",
     condition_detail2 = "2038/1/1 0:00:00"
   },
   [825] = {
     condition_type = 5,
-    condition_detail1 = "2025/1/1 0:00:00",
-    condition_detail2 = "2025/1/3 23:59:00"
+    condition_detail1 = "2026/1/1 0:00:00",
+    condition_detail2 = "2026/1/3 23:59:00"
   },
   [826] = {
     condition_type = 5,
-    condition_detail1 = "2025/1/1 0:00:00",
+    condition_detail1 = "2026/1/1 0:00:00",
     condition_detail2 = "2038/1/1 0:00:00"
   },
   [827] = {condition_type = 8, condition_detail1 = "1021,322,1"},
   [828] = {
     condition_type = 5,
-    condition_detail1 = "2025/01/15 00:00:00",
-    condition_detail2 = "2038/01/01 00:00:00"
+    condition_detail1 = "2026/1/15 0:00",
+    condition_detail2 = "2038/1/1 0:00:00"
   },
   [829] = {
     condition_type = 5,
@@ -2314,12 +2314,12 @@ data = {
   },
   [833] = {
     condition_type = 5,
-    condition_detail1 = "2025/2/14  00:00:00",
-    condition_detail2 = "2025/2/14  23:59:00"
+    condition_detail1 = "2026/2/14 00:00:00",
+    condition_detail2 = "2026/2/14 23:59:59"
   },
   [834] = {
     condition_type = 5,
-    condition_detail1 = "2025/2/14  00:00:00",
+    condition_detail1 = "2026/2/14 00:00:00",
     condition_detail2 = "2038/1/1 0:00:00"
   },
   [835] = {
@@ -2331,14 +2331,15 @@ data = {
   [837] = {condition_type = 8, condition_detail1 = "3021,322,1"},
   [838] = {
     condition_type = 5,
-    condition_detail1 = "2025/03/14 00:00:00",
-    condition_detail2 = "2025/03/14 23:59:00"
+    condition_detail1 = "2026/03/14 00:00:00",
+    condition_detail2 = "2026/03/14 23:59:59"
   },
   [839] = {
     condition_type = 5,
-    condition_detail1 = "2025/03/14 00:00:00",
+    condition_detail1 = "2026/03/14 00:00:00",
     condition_detail2 = "2038/01/01 00:00:00"
   },
+  [846] = {condition_type = 8, condition_detail1 = "5127,322,1"},
   [1010] = {condition_type = 8, condition_detail1 = "1010,322,1"},
   [1030] = {
     condition_type = 17,
@@ -2877,6 +2878,10 @@ data = {
   [108602] = {condition_type = 1, condition_detail1 = "1086,321,1"},
   [108701] = {condition_type = 7, condition_detail1 = "1087,321,1"},
   [108702] = {condition_type = 1, condition_detail1 = "1087,321,1"},
+  [108801] = {condition_type = 7, condition_detail1 = "1088,321,1"},
+  [108802] = {condition_type = 1, condition_detail1 = "1088,321,1"},
+  [108901] = {condition_type = 7, condition_detail1 = "1089,321,1"},
+  [108902] = {condition_type = 1, condition_detail1 = "1089,321,1"},
   [110018] = {
     condition_type = 18,
     condition_detail1 = "11001,366,1"
@@ -3431,6 +3436,10 @@ data = {
   [208302] = {condition_type = 1, condition_detail1 = "2083,321,1"},
   [208401] = {condition_type = 7, condition_detail1 = "2084,321,1"},
   [208402] = {condition_type = 1, condition_detail1 = "2084,321,1"},
+  [208701] = {condition_type = 7, condition_detail1 = "2087,321,1"},
+  [208702] = {condition_type = 1, condition_detail1 = "2087,321,1"},
+  [208801] = {condition_type = 7, condition_detail1 = "2088,321,1"},
+  [208802] = {condition_type = 1, condition_detail1 = "2088,321,1"},
   [210018] = {
     condition_type = 18,
     condition_detail1 = "21001,366,1"
@@ -3967,6 +3976,10 @@ data = {
   [308502] = {condition_type = 1, condition_detail1 = "3085,321,1"},
   [308601] = {condition_type = 7, condition_detail1 = "3086,321,1"},
   [308602] = {condition_type = 1, condition_detail1 = "3086,321,1"},
+  [308801] = {condition_type = 7, condition_detail1 = "3088,321,1"},
+  [308802] = {condition_type = 1, condition_detail1 = "3088,321,1"},
+  [308901] = {condition_type = 7, condition_detail1 = "3089,321,1"},
+  [308902] = {condition_type = 1, condition_detail1 = "3089,321,1"},
   [310018] = {
     condition_type = 18,
     condition_detail1 = "31001,366,1"
@@ -4485,6 +4498,10 @@ data = {
   [408302] = {condition_type = 1, condition_detail1 = "4083,321,1"},
   [408401] = {condition_type = 7, condition_detail1 = "4084,321,1"},
   [408402] = {condition_type = 1, condition_detail1 = "4084,321,1"},
+  [408501] = {condition_type = 7, condition_detail1 = "4085,321,1"},
+  [408502] = {condition_type = 1, condition_detail1 = "4085,321,1"},
+  [408601] = {condition_type = 7, condition_detail1 = "4086,321,1"},
+  [408602] = {condition_type = 1, condition_detail1 = "4086,321,1"},
   [410018] = {
     condition_type = 18,
     condition_detail1 = "41001,366,1"

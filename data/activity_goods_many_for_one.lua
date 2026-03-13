@@ -1135,9 +1135,8 @@ data = {
   },
   [58043] = {
     [1] = {
-      exchange_rewards = "400377,101,1",
-      exchange_material = "0,2,80",
-      exchange_rebates = 80,
+      exchange_rewards = "119857,101,1",
+      exchange_material = "0,2,100",
       exchange_times_limit = 999999
     }
   },

@@ -613,5 +613,89 @@ data = {
     name = "Cloudy Zephyr",
     on_sale_date = "2024/7/8 5:00:00",
     order = 28
+  },
+  [36] = {
+    condition = {
+      91030,
+      1431,
+      5
+    },
+    desc = "Evolve the Karma [Victor: Realm of the Divine] to obtain",
+    icon = "36-180",
+    mapping = {
+      [3608] = 3606,
+      [3617] = 3610,
+      [3618] = 3602,
+      [3619] = 3602,
+      [3621] = 3607,
+      [3622] = 3607,
+      [3623] = 3606
+    },
+    name = "Winter's End Prayer",
+    on_sale_date = "2025/12/23 5:00:00",
+    order = 29
+  },
+  [37] = {
+    condition = {
+      92030,
+      1431,
+      5
+    },
+    desc = "Evolve the Karma [Lucien: In The Ocean of Desire] to obtain",
+    icon = "37-180",
+    mapping = {
+      [3708] = 3706,
+      [3717] = 3710,
+      [3718] = 3702,
+      [3719] = 3702,
+      [3721] = 3707,
+      [3722] = 3707,
+      [3723] = 3706
+    },
+    name = "Unfettered Heart",
+    on_sale_date = "2025/12/23 5:00:00",
+    order = 30
+  },
+  [38] = {
+    condition = {
+      93030,
+      1431,
+      5
+    },
+    desc = "Evolve the Karma [Kiro: The Crossroad to You] to obtain",
+    icon = "38-180",
+    mapping = {
+      [3808] = 3806,
+      [3817] = 3810,
+      [3818] = 3802,
+      [3819] = 3802,
+      [3821] = 3807,
+      [3822] = 3807,
+      [3823] = 3806
+    },
+    name = "Subtle Stirrings",
+    on_sale_date = "2025/12/23 5:00:00",
+    order = 31
+  },
+  [39] = {
+    condition = {
+      94030,
+      1431,
+      5
+    },
+    desc = "Evolve the Karma [Gavin: Now or Forever] to obtain",
+    icon = "39-180",
+    mapping = {
+      [3908] = 3906,
+      [3917] = 3910,
+      [3918] = 3902,
+      [3919] = 3902,
+      [3921] = 3907,
+      [3922] = 3907,
+      [3923] = 3906
+    },
+    name = "Unvoiced Glory",
+    on_sale_date = "2025/12/23 5:00:00",
+    order = 32
   }
 }

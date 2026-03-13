@@ -2211,6 +2211,747 @@ story29 = {
       next = {0}
     }
   },
+  [126403] = {
+    [1] = {
+      beijing = 2231,
+      dialog = 3,
+      mask = "blackmask",
+      music = "105_LZY_Silence",
+      renwu = "npc",
+      sentence = "Time was still. Utterly, exquisitely still.",
+      next = {2}
+    },
+    [2] = {
+      beijing = 2231,
+      dialog = 3,
+      mask = "blackmask",
+      music = "105_LZY_Silence",
+      renwu = "npc",
+      sentence = "Victor had felt this before, the first time he stopped time itself. The memory of that absolute silence was a sensation etched deep into his soul.",
+      next = {3}
+    },
+    [3] = {
+      beijing = 2231,
+      dialog = 3,
+      mask = "blackmask",
+      music = "105_LZY_Silence",
+      renwu = "npc",
+      sentence = "In this pocket of eternity, nothing moved. Not even a speck of dust could defy time's frozen tick.",
+      next = {4}
+    },
+    [4] = {
+      beijing = 2231,
+      dialog = 3,
+      mask = "blackmask",
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "Fighting the pain, Victor shoved open the door. He'd made it—he'd stopped time just before the car could plunge off the cliff.",
+      next = {5}
+    },
+    [5] = {
+      beijing = 2231,
+      dialog = 3,
+      mask = "blackmask",
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "It had taken everything out of him, but it worked.",
+      next = {6}
+    },
+    [6] = {
+      beijing = 2231,
+      dialog = 3,
+      mask = "blackmask",
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "Nothing mattered anymore. As long as he could get her to safety, Caerus would do the rest.",
+      next = {7}
+    },
+    [7] = {
+      beijing = 2231,
+      dialog = 3,
+      mask = "blackmask",
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "That was the plan.",
+      next = {8}
+    },
+    [8] = {
+      beijing = 2231,
+      dialog = 3,
+      mask = "blackmask",
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "Victor reached for her hand, but his eyes caught a flicker of color at the edge of his sight.",
+      next = {9}
+    },
+    [9] = {
+      beijing = 3570,
+      bganim = 1,
+      dialog = 3,
+      mask = "memory",
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "A leaf. Faded yellow, tinged with autumn's kiss, fluttering in on a breeze. It slipped through the shattered window... and landed quietly on the floor.",
+      sfx = "Crystal_Hit",
+      next = {10}
+    },
+    [10] = {
+      beijing = 3570,
+      dialog = 3,
+      mask = "memory",
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "Victor's face went pale.",
+      next = {11}
+    },
+    [11] = {
+      beijing = 3570,
+      dialog = 3,
+      mask = "memory",
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "Like a nightmare slithering into waking, that single leaf shattered the spell. Time lurched forward, breaking free of its chains and surging back with a vengeance.",
+      next = {12}
+    },
+    [12] = {
+      beijing = 1,
+      bganim = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "The crash came for us again, violent and merciless. Both cars were flung over the cliff, tumbling down into the gorge like broken toys.",
+      sfx = "Dia_Tornado_with_Lightning",
+      next = {13}
+    },
+    [13] = {
+      beijing = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "Pain tore through Victor's body, threatening to drag him into unconsciousness. But he couldn't stop, not now. Again and again, he tried to stop time.",
+      next = {14}
+    },
+    [14] = {
+      beijing = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "But nothing happened.",
+      next = {15}
+    },
+    [15] = {
+      beijing = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "His Evol was gone. That power he'd always controlled... had slipped away. Not even for a second. Not even for a breath.",
+      next = {16}
+    },
+    [16] = {
+      beijing = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "Time had abandoned him. And all he could do was watch as the girl he'd tried so desperately to save was thrown forward by momentum, hurtling toward the abyss.",
+      next = {17}
+    },
+    [17] = {
+      beijing = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "He didn't hesitate. He dove straight after her, as if instinct alone could close the distance, as if he could still catch her and hold her safe in his arms.",
+      next = {18}
+    },
+    [18] = {
+      beijing = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "Regret and helplessness tore through him, burning hot and merciless. It wasn't a feeling he knew well, but it had haunted him before.",
+      next = {19}
+    },
+    [19] = {
+      beijing = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "He'd felt it in those moments, when the knife trembled in his grasp, when the white feather brushed against his palm...",
+      next = {20}
+    },
+    [20] = {
+      beijing = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "Every time he thought he might lose her, that same fire would threaten to devour him. But back then, he'd always had a plan, something to hold onto.",
+      next = {21}
+    },
+    [21] = {
+      beijing = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "This time, he had nothing. This time, there was no turning it around.",
+      next = {22}
+    },
+    [22] = {
+      beijing = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "Maybe this was fate—proof that even the most perfect control falters when destiny decides otherwise.",
+      next = {23}
+    },
+    [23] = {
+      beijing = 1,
+      dialog = 3,
+      music = "18_Sorrow_love",
+      renwu = "npc",
+      sentence = "One slip, and all falls to oblivion.",
+      next = {24}
+    },
+    [24] = {
+      beijing = 3570,
+      bganim = 0,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "Time began to move again.",
+      next = {25}
+    },
+    [25] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "But to me, it felt slower than ever, like the seconds themselves resisted letting go.",
+      next = {26}
+    },
+    [26] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "The car twisted, toppled, and shattered apart in eerie silence. The little cat bobblehead flipped belly-up and rolled away, spinning out into the void.",
+      next = {27}
+    },
+    [27] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "I saw Victor and myself thrown into the air, weightless, caught between earth and sky. The heavens drew close enough to touch, then fell away again, fading into the distance.",
+      next = {28}
+    },
+    [28] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "Above me was Victor's face—drained of color, shadowed with fear and desperate grief.",
+      next = {29}
+    },
+    [29] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "Pain dragged me back to awareness. My stomach lurched as gravity took hold again, pulling us down with savage force.",
+      next = {30}
+    },
+    [30] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "And in that blur, I saw him leaping after me without a moment's doubt.",
+      next = {31}
+    },
+    [31] = {
+      beijing = 3570,
+      demoji = 204,
+      dhead = 317,
+      dialog = 1,
+      music = "14_Celesta_Solo",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "No—!!!",
+      next = {32}
+    },
+    [32] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "I reached for him, stretching until my muscles screamed, but his hand stayed just out of reach.",
+      next = {33}
+    },
+    [33] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "All I could do was watch as he fell with me, our fates tangled in the same freefall.",
+      next = {34}
+    },
+    [34] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "My breath came in sharp, panicked bursts; my chest ached as if it would split open. I shook my head, refusing to accept what I was seeing.",
+      next = {35}
+    },
+    [35] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "Victor was always so proud and composed, the man who could face the worst and still stand unbroken.",
+      next = {36}
+    },
+    [36] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "He wasn't supposed to end like this. Not him.",
+      next = {37}
+    },
+    [37] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "I couldn't bear to watch him lose himself along with his pride.",
+      next = {38}
+    },
+    [38] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "Not after everything we'd survived, not after every fight we'd already won.",
+      next = {39}
+    },
+    [39] = {
+      beijing = 3570,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "I couldn't stop here. I wouldn't.",
+      next = {40}
+    },
+    [40] = {
+      beijing = 3570,
+      bganim = 1,
+      dialog = 3,
+      mask = "memory",
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "My heart pounded so fast it hurt, and somewhere deep inside it, something began to stir.",
+      sfx = "Heart_Beat",
+      next = {41}
+    },
+    [41] = {
+      beijing = 1,
+      bganim = 1,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "A fire spread through every vein until the pain gave way to light. Something erupted, dazzling and boundless, wrapping us both in its glow—lifting us up, like it was defying the very gravity itself.",
+      sfx = "Heart_Beat",
+      next = {42}
+    },
+    [42] = {
+      beijing = 0,
+      bganim = 0,
+      dialog = 3,
+      music = "pause",
+      renwu = "npc",
+      sentence = "And then, everything went dark.",
+      next = {43}
+    },
+    [43] = {
+      beijing = 0,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      sentence = "For a breathless instant, I felt as if I could reach the edges of the universe and even turn the wheels of time as I willed.",
+      next = {44}
+    },
+    [44] = {
+      beijing = 0,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      sentence = "Dust and light drifted around me like tiny stars, brushing weightlessly against my skin.",
+      next = {45}
+    },
+    [45] = {
+      beijing = 2702,
+      bganim = 1,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      sentence = "When I opened my eyes, Victor was there.",
+      next = {46}
+    },
+    [46] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      ruchang = -1,
+      sentence = "He was leaning over me, gaze soft and steady, while the world behind him stretched out in infinite light.",
+      next = {47}
+    },
+    [47] = {
+      beijing = 2702,
+      dhead = 311,
+      dialog = 1,
+      music = "11_Sorrow_LongEnding_Ver",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "...",
+      next = {48}
+    },
+    [48] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "I stared for a few stunned seconds before it truly sank in. I instantly jerked upright.",
+      next = {49}
+    },
+    [49] = {
+      beijing = 2702,
+      demoji = 204,
+      dhead = 304,
+      dialog = 1,
+      music = "11_Sorrow_LongEnding_Ver",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "Victor, where are we—argh!",
+      next = {50}
+    },
+    [50] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "The sharp pain in my side stole the air from my lungs. Victor caught me before I could thrash again, guiding me back down into his lap.",
+      next = {51}
+    },
+    [51] = {
+      beijing = 2702,
+      dhead = 311,
+      dialog = 1,
+      music = "11_Sorrow_LongEnding_Ver",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "...So... we're not dead?",
+      next = {52}
+    },
+    [52] = {
+      beijing = 2702,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "11_Sorrow_LongEnding_Ver",
+      renming = "Victor",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      ruchang = 9,
+      sentence = "Does it look like we're in heaven, dummy?",
+      next = {53}
+    },
+    [53] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      sentence = "I blinked, and only then began to really look around.",
+      next = {54}
+    },
+    [54] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      sentence = "The world was utterly still, vast, and bathed in silver silence. The air itself felt detached from reality.",
+      next = {55}
+    },
+    [55] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      sentence = "And suddenly, recognition hit me. I was once again inside the familiar void that resided beyond all existence. The Black Cabin.",
+      next = {56}
+    },
+    [56] = {
+      beijing = 2702,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "11_Sorrow_LongEnding_Ver",
+      renming = "Victor",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      ruchang = -1,
+      sentence = "You brought us here. Pulled us out before the explosion hit.",
+      next = {57}
+    },
+    [57] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "When he said it, the knot in my throat tightened. I grabbed his hand again, tracing the warmth of his skin just to make sure this was real.",
+      next = {58}
+    },
+    [58] = {
+      beijing = 2702,
+      demoji = 203,
+      dhead = 311,
+      dialog = 1,
+      music = "11_Sorrow_LongEnding_Ver",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "So... we're really alive?",
+      next = {59}
+    },
+    [59] = {
+      beijing = 2702,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "11_Sorrow_LongEnding_Ver",
+      renming = "Victor",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101107,
+      role3 = 101202,
+      sentence = "Yeah. We made it.",
+      next = {60}
+    },
+    [60] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "If this were any other day, he would've teased me for asking twice, called me a dummy, maybe with a wry smile too.",
+      next = {61}
+    },
+    [61] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "But now, he only said it again—soft, certain, and achingly gentle.",
+      next = {62}
+    },
+    [62] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "The last of my fear melted away. My strength gave out, and I fell against him, burying my face in his chest.",
+      next = {63}
+    },
+    [63] = {
+      beijing = 2702,
+      demoji = 203,
+      dhead = 316,
+      dialog = 1,
+      music = "11_Sorrow_LongEnding_Ver",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "I don't know how I did it... how we got here...",
+      next = {64}
+    },
+    [64] = {
+      beijing = 2702,
+      demoji = 203,
+      dhead = 316,
+      dialog = 1,
+      music = "11_Sorrow_LongEnding_Ver",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "But... thank god, Victor. You're safe. We're safe.",
+      next = {65}
+    },
+    [65] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "Tears came fast and hot, sliding down my cheeks before I could stop them. He wrapped his arm around me, one hand smoothing over my hair in quiet comfort.",
+      next = {66}
+    },
+    [66] = {
+      beijing = 2702,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "11_Sorrow_LongEnding_Ver",
+      renming = "Victor",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "You don't have to understand it. You did well.",
+      next = {67}
+    },
+    [67] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101202,
+      roleanim = 1.1,
+      sentence = "Victor gently pulled me into his arms.",
+      next = {68}
+    },
+    [68] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101101,
+      role3 = 101202,
+      roleanim = 1.1,
+      sentence = "He didn't flinch as my tears soaked through his shirt, patting my back as his warmth pressed against me, until the world seemed to quiet into the sound of our hearts beating close together.",
+      next = {69}
+    },
+    [69] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101101,
+      role3 = 101202,
+      roleanim = 1.1,
+      sentence = "I lowered my gaze, letting it drift toward the shadow cast beneath us—only to blink hard, something about it suddenly off.",
+      next = {70}
+    },
+    [70] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101101,
+      role3 = 101202,
+      roleanim = 1.1,
+      sentence = "Like torn pieces of black paper, fragments of Victor's shadow quietly scattered across the ground, catching a faint, eerie light.",
+      next = {71}
+    },
+    [71] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101101,
+      role3 = 101201,
+      roleanim = 1.1,
+      sentence = "Startled, I glanced down at my own shadow.",
+      next = {72}
+    },
+    [72] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101201,
+      roleanim = 1.1,
+      sentence = "Still intact. Still... normal. Perfectly ordinary.",
+      next = {73}
+    },
+    [73] = {
+      beijing = 2702,
+      dialog = 3,
+      music = "11_Sorrow_LongEnding_Ver",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101201,
+      roleanim = 1.1,
+      sentence = "Questions stirred like wind in my chest, barely taking form before Victor spoke. His voice was calm, as if he'd already read my thoughts.",
+      next = {74}
+    },
+    [74] = {
+      beijing = 2702,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "11_Sorrow_LongEnding_Ver",
+      renming = "Victor",
+      renwu = "npc",
+      role1 = 195000,
+      role2 = 101108,
+      role3 = 101201,
+      roleanim = 1.1,
+      ruchang = 9,
+      sentence = "$u, I can't use my Evol anymore.",
+      next = {0}
+    }
+  },
   [410494] = {
     [1] = {
       beijing = 2258,
@@ -9390,6 +10131,385 @@ story29 = {
       next = {0}
     }
   },
+  [680094] = {
+    [1] = {
+      beijing = 1031,
+      dialog = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renwu = "npc",
+      sentence = "那天过后，凌肖就作为$c的“外援”被我推荐给了策展方，代替我和团队对接布展活动的细节。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 1031,
+      dialog = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renwu = "npc",
+      sentence = "涂鸦墙前的共同灵感主要由凌肖帮忙落地实现，道具采购也都托给了他负责。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 1031,
+      dialog = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renwu = "npc",
+      sentence = "而为此，我也答应了他不少不对等的“条件交换”。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 1032,
+      bganim = 0,
+      dialog = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renwu = "npc",
+      sentence = "半个月后的某个傍晚，我的手机短信提示音震动了三声——",
+      next = {5}
+    },
+    [5] = {
+      beijing = 1032,
+      dialog = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renwu = "npc",
+      sentence = "“我的报酬你可以准备起来了。”",
+      next = {6}
+    },
+    [6] = {
+      beijing = 1032,
+      dialog = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renwu = "npc",
+      sentence = "这人还真是……我有些无奈又好笑地点开信息详情。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 1032,
+      dialog = 2,
+      idx = 8,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 501000,
+      role2 = 502051,
+      ruchang = -1,
+      sentence = "明天下午一点来验收完整成果，美术馆门口见。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 1032,
+      dialog = 2,
+      idx = 8,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 501000,
+      role2 = 502051,
+      ruchang = 9,
+      sentence = "附加免费导览，过期不候。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 9033,
+      bganim = 0,
+      dialog = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renwu = "npc",
+      sentence = "第二天，阳光明朗，我循着熟悉的路线在美术馆前找到了“导览”。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 9033,
+      dialog = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renwu = "npc",
+      sentence = "看到那抹身影，我不禁加快脚步，小跑着向他靠近。",
+      next = {11}
+    },
+    [11] = {
+      beijing = 9033,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 703000,
+      role2 = 703101,
+      role3 = 703201,
+      ruchang = -1,
+      sentence = "总算来了。",
+      voice = 1,
+      next = {12}
+    },
+    [12] = {
+      beijing = 9033,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 703000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "事先说明，今天的成果验收我是奔着满分去的，不接受好评以外的评价。",
+      voice = 1,
+      next = {13}
+    },
+    [13] = {
+      beijing = 9033,
+      dialog = 3,
+      music = "98_2022_World_of_Love_Theme",
+      renwu = "npc",
+      role1 = 703000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "我勾起凌肖的指尖，用力地点点头。",
+      next = {14}
+    },
+    [14] = {
+      beijing = 9033,
+      dhead = 313,
+      dialog = 1,
+      music = "98_2022_World_of_Love_Theme",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 703000,
+      role2 = 703101,
+      role3 = 703201,
+      ruchang = 9,
+      sentence = "我会好好感受你的满分大作的，这段时间辛苦啦！",
+      next = {15}
+    },
+    [15] = {
+      beijing = 1663,
+      bganim = 0,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "进入美术馆，一罐喷漆被凌肖塞入我怀中。它的重量抑或是材质，都与平日的普通喷漆不一样。",
+      next = {16}
+    },
+    [16] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "表面是光滑的金属，喷头也没有丝毫颜料残余。握在手中，能感受到它增添了不少重量。",
+      next = {17}
+    },
+    [17] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "走廊深处，一块巨型电子屏取代文字介绍栏立于中庭方向，附近的玻璃架摆满类似于我手中的便携喷漆。",
+      next = {18}
+    },
+    [18] = {
+      beijing = 1663,
+      dhead = 311,
+      dialog = 1,
+      music = "1002_2023spring",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "这个电子喷漆罐的玩法你改动过吗？",
+      next = {19}
+    },
+    [19] = {
+      beijing = 1663,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "1002_2023spring",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 712000,
+      role2 = 712103,
+      role3 = 712202,
+      ruchang = -1,
+      sentence = "没有，用的就是你给我的方案。",
+      voice = 1,
+      next = {20}
+    },
+    [20] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      role1 = 712000,
+      role2 = 712102,
+      role3 = 712202,
+      sentence = "凌肖牵着我来到屏幕旁，他微弯下腰为我戴上耳机，随后上前两步抬起手轻按喷头。",
+      next = {21}
+    },
+    [21] = {
+      beijing = 1663,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "1002_2023spring",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 712000,
+      role2 = 712103,
+      role3 = 712202,
+      ruchang = 9,
+      sentence = "来吧，想到什么，就画什么。",
+      voice = 1,
+      next = {22}
+    },
+    [22] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "尽管没有色彩从凌肖手中的喷漆罐泄出，歪歪扭扭的线条却开始在屏幕铺呈。",
+      next = {23}
+    },
+    [23] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "我站到他身侧也开始“涂鸦”，悠扬深远的爵士乐自耳边响起。",
+      next = {24}
+    },
+    [24] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "眼前的画面明显比摇滚乐下的更为柔和开阔，像是绵软的云彩。",
+      next = {25}
+    },
+    [25] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "每一次的线条和色彩转变，都使得音乐走向不同音调，就像在谱写全新的由绘画主导的曲目。",
+      next = {26}
+    },
+    [26] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "无数个当下延伸，带着音乐的鼓点和我笔下的色彩，向未来又或向过去轻盈地碰撞。",
+      next = {27}
+    },
+    [27] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "我转头去看凌肖的创作。他的屏幕前，只有一个正在涂鸦的女孩。",
+      next = {28}
+    },
+    [28] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "丝丝缕缕的情感随之涌上来，我的心仿若被浸湿一般变得沉甸甸的。",
+      next = {29}
+    },
+    [29] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "过去欣赏艺术品的过程中，我总是试图用最正确的方式解构艺术家的创作理念。",
+      next = {30}
+    },
+    [30] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "然而此刻我意识到，当下能体会到的，就是作品想为我带来的情感体验。",
+      next = {31}
+    },
+    [31] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      sentence = "就好比现在，我感受到的是凌肖的心意。",
+      next = {32}
+    },
+    [32] = {
+      beijing = 1663,
+      dialog = 3,
+      music = "1002_2023spring",
+      renwu = "npc",
+      role1 = 712000,
+      role2 = 712103,
+      role3 = 712202,
+      ruchang = -1,
+      sentence = "凌肖摘下耳机，又分了一只给我。这次，在我耳边响起的是截然不同的炽热的情歌。",
+      next = {33}
+    },
+    [33] = {
+      beijing = 1663,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "1002_2023spring",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 712000,
+      role2 = 712103,
+      role3 = 712202,
+      sentence = "涂鸦和音乐一样，都没那么容易被忽视。",
+      voice = 1,
+      next = {34}
+    },
+    [34] = {
+      beijing = 1663,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "1002_2023spring",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 712000,
+      role2 = 712103,
+      role3 = 712202,
+      sentence = "既然能表达，当然要让别人感受得越热烈越好。",
+      voice = 1,
+      next = {35}
+    },
+    [35] = {
+      beijing = 1663,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "1002_2023spring",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 712000,
+      role2 = 712103,
+      role3 = 712202,
+      sentence = "这个结果还满意吗，大制作人？",
+      voice = 1,
+      next = {36}
+    },
+    [36] = {
+      beijing = 1663,
+      dhead = 313,
+      dialog = 1,
+      music = "1002_2023spring",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 712000,
+      role2 = 712103,
+      role3 = 712202,
+      ruchang = 9,
+      sentence = "当然满意！我早就说过，凌肖出手一定是满分大作！",
+      next = {0}
+    }
+  },
   [806806] = {
     [1] = {
       beijing = 9022,
@@ -9639,7 +10759,7 @@ story29 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "午后阳光从飘窗漫入，照亮空气中漂浮的小小尘埃。",
+      sentence = "Sunlight spilled through the bay window, casting a gentle glow on dust motes floating in the still air.",
       next = {2}
     },
     [2] = {
@@ -9647,7 +10767,7 @@ story29 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "我站在橡木书架前，踮起脚看向垒放着的相册。",
+      sentence = "I stood before the oak bookshelf, up on my toes as I scanned the row of albums stacked neatly on the top shelf.",
       next = {3}
     },
     [3] = {
@@ -9657,7 +10777,7 @@ story29 = {
       music = "19_Daily02",
       renming = "$u",
       renwu = "npc",
-      sentence = "嗯……这本最厚，就先在这里挑吧。",
+      sentence = "Hmm... this one's the thickest. Might as well start here.",
       next = {4}
     },
     [4] = {
@@ -9665,7 +10785,7 @@ story29 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "最近李泽言的姑姑寄来了几本相册，里面存放着一些早年的照片。",
+      sentence = "Victor's aunt had recently sent over a few albums filled with old family photos.",
       next = {5}
     },
     [5] = {
@@ -9673,7 +10793,7 @@ story29 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "正好到了丰富照片墙的时候，这些旧日中定格的“时间”便成为了我的首选。",
+      sentence = "With our photo wall needing a little update, these fragments of the past felt like perfect additions. Tiny windows into lives and places from before.",
       next = {6}
     },
     [6] = {
@@ -9681,7 +10801,7 @@ story29 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "相册里大多是风景照，偶尔相册的主人才不苟言笑地出镜。",
+      sentence = "Most of the pages were just scenic views. Victor only appeared occasionally, and even then, he rarely smiled for the camera, his expression calm and unreadable.",
       next = {7}
     },
     [7] = {
@@ -9689,7 +10809,7 @@ story29 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "然而在翻到其中一页时，我的指尖不由得一顿。",
+      sentence = "Then, as I turned to another page, my fingers stilled.",
       next = {8}
     },
     [8] = {
@@ -9697,7 +10817,7 @@ story29 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "照片的背景是幽静的碧波和枝叶舒展的树木，风景在清幽中透露出婉约风致。",
+      sentence = "There, framed by a serene lake and arching green branches, was a photo that almost seemed staged by nature itself.",
       next = {9}
     },
     [9] = {
@@ -9705,7 +10825,7 @@ story29 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "画面中心，面容尚显青涩的李泽言坐在小船中，有小鸭子和鹿在他身后的水中游行。",
+      sentence = "The water was tranquil, the trees in full, soft bloom. And sitting in a small boat at the center of it all—Victor. His face still carried the softness of youth, and behind him, ducks and even a deer moved lazily through the water like they belonged in the frame.",
       next = {10}
     },
     [10] = {
@@ -9715,7 +10835,7 @@ story29 = {
       music = "19_Daily02",
       renming = "$u",
       renwu = "npc",
-      sentence = "这张照片的景色怎么看起来有些眼熟……？",
+      sentence = "Wait a sec... this place looks really familiar...",
       next = {11}
     },
     [11] = {
@@ -9725,7 +10845,7 @@ story29 = {
       music = "19_Daily02",
       renming = "$u",
       renwu = "npc",
-      sentence = "李泽言——",
+      sentence = "Victor—",
       next = {12}
     },
     [12] = {
@@ -9733,7 +10853,7 @@ story29 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "我捧起相册去书房找李泽言，他自工作的间隙抬头看见我，点了点头。",
+      sentence = "I cradled the album in my arms and headed straight to the study, where Victor was seated at his desk mid-task. He looked up at the sound of my footsteps and gave me a nod.",
       next = {13}
     },
     [13] = {
@@ -9741,14 +10861,14 @@ story29 = {
       dialog = 2,
       idx = 1,
       music = "19_Daily02",
-      renming = "李泽言",
+      renming = "Victor",
       renwu = "npc",
       role1 = 114000,
       role2 = 102101,
       role3 = 102202,
       role5 = 114402,
       ruchang = -1,
-      sentence = "怎么了？",
+      sentence = "What's up?",
       next = {14}
     },
     [14] = {
@@ -9760,7 +10880,7 @@ story29 = {
       role2 = 102102,
       role3 = 102201,
       role5 = 114402,
-      sentence = "我把相册翻给他看，指着其中两页。",
+      sentence = "I flipped the album open and turned it toward him, pointing at the spread.",
       next = {15}
     },
     [15] = {
@@ -9774,7 +10894,7 @@ story29 = {
       role2 = 102102,
       role3 = 102201,
       role5 = 114402,
-      sentence = "这个地方我看着觉得好眼熟，但是怎么都想不起来，你还记得是在哪里拍的吗？",
+      sentence = "This spot's been bugging me—I know I've seen it before, but I can't place it. Do you remember where this was taken?",
       next = {16}
     },
     [16] = {
@@ -9782,13 +10902,13 @@ story29 = {
       dialog = 2,
       idx = 1,
       music = "19_Daily02",
-      renming = "李泽言",
+      renming = "Victor",
       renwu = "npc",
       role1 = 114000,
       role2 = 102102,
       role3 = 102201,
       role5 = 114402,
-      sentence = "是恋语市郊的青森水上森林景区。",
+      sentence = "That's Greenwood Park, just outside Loveland City.",
       next = {17}
     },
     [17] = {
@@ -9800,7 +10920,7 @@ story29 = {
       role2 = 102102,
       role3 = 102201,
       role5 = 114402,
-      sentence = "李泽言只看了一眼就回答了出来。",
+      sentence = "He barely had to glance at it before answering.",
       next = {18}
     },
     [18] = {
@@ -9808,13 +10928,13 @@ story29 = {
       dialog = 2,
       idx = 1,
       music = "19_Daily02",
-      renming = "李泽言",
+      renming = "Victor",
       renwu = "npc",
       role1 = 114000,
       role2 = 102101,
       role3 = 102201,
       role5 = 114402,
-      sentence = "我大学时去青森公园旅游，这几张照片是同学拍的。",
+      sentence = "I went there during college. These were taken by a classmate on that trip.",
       next = {19}
     },
     [19] = {
@@ -9828,7 +10948,7 @@ story29 = {
       role2 = 102101,
       role3 = 102201,
       role5 = 114402,
-      sentence = "破案了！怪不得我觉得熟悉，我也去过这里！",
+      sentence = "I knew it looked familiar! I went there too!",
       next = {20}
     },
     [20] = {
@@ -9842,7 +10962,7 @@ story29 = {
       role2 = 102101,
       role3 = 102201,
       role5 = 114402,
-      sentence = "而且也是大学的时候去的！",
+      sentence = "And it was also back in college!",
       next = {21}
     },
     [21] = {
@@ -9854,7 +10974,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "青森公园并不是热门的旅游景点，想不到我们在还没认识的时候，竟然在人生的同个阶段去过这里。",
+      sentence = "The park wasn't a tourist hotspot by any means. The chances that both of us, long before we'd met, had visited it at the same point in our lives, and it felt like more than just a coincidence.",
       next = {22}
     },
     [22] = {
@@ -9866,7 +10986,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "想到这个不经意的缘分，我内心深处便轻飘飘的。",
+      sentence = "It felt like fate itself.",
       next = {23}
     },
     [23] = {
@@ -9878,7 +10998,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "凝视着相册里的青森公园，我的心里闪出一个点子。我向李泽言伸出一只手，目光灼灼地发出了邀请。",
+      sentence = "I stared at the image of that still lake and the boy Victor used to be. Then a thought lit up in my chest. I turned to him, eyes glowing, and extended a hand with quiet resolve.",
       next = {24}
     },
     [24] = {
@@ -9892,7 +11012,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "李泽言，既然我们曾经在不同的时间去过同一个地方……",
+      sentence = "Victor, since we both visited the same place before we even knew each other...",
       next = {25}
     },
     [25] = {
@@ -9906,7 +11026,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "那现在我们要不要重续这份特别的缘分，周末一起去青森公园？",
+      sentence = "...Why don't we go back now, together? Let's revisit such a fateful place this weekend.",
       next = {26}
     },
     [26] = {
@@ -9918,7 +11038,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "听了我夸张的用词，李泽言眼底扬起一抹几不可察的笑容。",
+      sentence = "Victor's lips curved as I rambled on, so subtly it was almost a secret.",
       next = {27}
     },
     [27] = {
@@ -9926,13 +11046,13 @@ story29 = {
       dialog = 2,
       idx = 1,
       music = "19_Daily02",
-      renming = "李泽言",
+      renming = "Victor",
       renwu = "npc",
       role1 = 114000,
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "这个周末，我要去参加一个封闭性质的环保峰会。",
+      sentence = "I'm headed to a closed-door environmental summit this weekend.",
       next = {28}
     },
     [28] = {
@@ -9944,7 +11064,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "方才在脑海中构建的短途旅行画面瞬间消失了，我低低叹了一口气。",
+      sentence = "The picture I'd just built in my head instantly vanished. I sighed, the disappointment slipping out before I could catch it.",
       next = {29}
     },
     [29] = {
@@ -9958,7 +11078,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "好吧……这次是要开多久?",
+      sentence = "Alright... How long is this one?",
       next = {30}
     },
     [30] = {
@@ -9966,13 +11086,13 @@ story29 = {
       dialog = 2,
       idx = 1,
       music = "19_Daily02",
-      renming = "李泽言",
+      renming = "Victor",
       renwu = "npc",
       role1 = 114000,
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "十多天，不到半个月。",
+      sentence = "Ten days. Maybe twelve.",
       next = {31}
     },
     [31] = {
@@ -9984,7 +11104,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "李泽言抽了张湿巾，擦拭掉我手上因为收拾相片沾染的细尘，嘴角微微扬起。",
+      sentence = "He let out a small grin as he pulled a wet wipe from the table and gently cleaned the dust that had clung to my hands from the old photo albums.",
       next = {32}
     },
     [32] = {
@@ -9992,13 +11112,13 @@ story29 = {
       dialog = 2,
       idx = 1,
       music = "19_Daily02",
-      renming = "李泽言",
+      renming = "Victor",
       renwu = "npc",
       role1 = 114000,
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "不过，峰会的地点恰好在青森公园。等会议结束，你的“提案”就可以推进。",
+      sentence = "But the good news is the summit's being held at that exact park. So when it's over, I think we can make your little \"proposal\" happen.",
       next = {33}
     },
     [33] = {
@@ -10010,7 +11130,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "我的嘴角忍不住疯狂上扬，抱着相册低头在他肩头蹭了蹭。",
+      sentence = "My face practically lit up. Still hugging the album, I leaned in and nuzzled against his shoulder.",
       next = {34}
     },
     [34] = {
@@ -10022,7 +11142,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "李泽言眉眼微微松懈，似笑非笑地伸手勾起我的手指轻轻捏了捏。",
+      sentence = "Victor's eyes softened, his fingers hooking mine before giving my pinky a slow squeeze.",
       next = {35}
     },
     [35] = {
@@ -10030,13 +11150,13 @@ story29 = {
       dialog = 2,
       idx = 1,
       music = "19_Daily02",
-      renming = "李泽言",
+      renming = "Victor",
       renwu = "npc",
       role1 = 114000,
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "就这么开心?",
+      sentence = "Didn't think you'd be this happy about it.",
       next = {36}
     },
     [36] = {
@@ -10051,7 +11171,7 @@ story29 = {
       role2 = 102101,
       role3 = 102203,
       role5 = 114402,
-      sentence = "当然！这可是一次特别的“怀旧之旅”~",
+      sentence = "Of course I am! This isn't just a trip; it's our own little nostalgia tour!",
       next = {37, 37}
     },
     [37] = {
@@ -10067,7 +11187,7 @@ story29 = {
       role3 = 102203,
       role5 = 114402,
       ruchang = 9,
-      sentence = "既然这样，那这次的“爱心便签”也不能少，李总要记得完成哦！",
+      sentence = "And since it's official, you know what that means. Remember to add those heart-shaped sticky notes, Mr. Victor!",
       next = {0}
     }
   },

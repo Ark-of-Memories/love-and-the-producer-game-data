@@ -8536,6 +8536,1106 @@ story255 = {
       next = {0}
     }
   },
+  [445094] = {
+    [1] = {
+      beijing = 6084,
+      dialog = 3,
+      music = "95_Backtracking",
+      renwu = "npc",
+      sentence = "For two days after he left that night, there was no sign or word from him.",
+      next = {2}
+    },
+    [2] = {
+      beijing = 6084,
+      dialog = 3,
+      music = "95_Backtracking",
+      renwu = "npc",
+      sentence = "Then, Miss Isabella approached, a young man in her wake, a knowing smile on her face.",
+      next = {3}
+    },
+    [3] = {
+      beijing = 6084,
+      dialog = 2,
+      idx = 5,
+      music = "95_Backtracking",
+      renming = "Miss Isabella",
+      renwu = "npc",
+      sentence = "You understand how these things work, don't you? A person in my position has few choices.",
+      next = {4}
+    },
+    [4] = {
+      beijing = 6084,
+      dhead = 118,
+      dialog = 1,
+      music = "95_Backtracking",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "And you're not worried about what Gavin will do?",
+      next = {5}
+    },
+    [5] = {
+      beijing = 6084,
+      dialog = 2,
+      idx = 5,
+      music = "95_Backtracking",
+      renming = "Miss Isabella",
+      renwu = "npc",
+      sentence = "I'm terrified.",
+      next = {6}
+    },
+    [6] = {
+      beijing = 6084,
+      dialog = 3,
+      music = "95_Backtracking",
+      renwu = "npc",
+      sentence = "Her laugh was light, but her gaze was shrewd and unreadable as she leaned closer to my ear.",
+      next = {7}
+    },
+    [7] = {
+      beijing = 6084,
+      dialog = 2,
+      idx = 5,
+      music = "95_Backtracking",
+      renming = "Miss Isabella",
+      renwu = "npc",
+      sentence = "He'll make the perfect scapegoat. It's the only way to... clean house.",
+      next = {8}
+    },
+    [8] = {
+      beijing = 6084,
+      dialog = 3,
+      music = "95_Backtracking",
+      renwu = "npc",
+      sentence = "I didn't really get her game, but something in her look felt oddly... reassuring.",
+      next = {9}
+    },
+    [9] = {
+      beijing = 6085,
+      bganim = 0,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Before long, the man led me into a serene tea house.",
+      next = {10}
+    },
+    [10] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Pale winter light slanted over the garden snow, bringing with it a deeper chill.",
+      next = {11}
+    },
+    [11] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Aromatic steam from the tea drifted through the air. The man stood watch behind me, the butt of his gun a dark promise at his back.",
+      next = {12}
+    },
+    [12] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "I felt trapped in a suffocating silence, unsure of my captor's motives or identity.",
+      next = {13}
+    },
+    [13] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Then came the sound of sure footsteps, and a low, authoritative voice spoke from the neighboring chamber.",
+      next = {14}
+    },
+    [14] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "This way.",
+      next = {15}
+    },
+    [15] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "It dawned on me that the adjacent room had been occupied this entire time.",
+      next = {16}
+    },
+    [16] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "With no way to gauge their numbers, I took a tentative step forward and immediately felt the chill of metal at my throat.",
+      next = {17}
+    },
+    [17] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      male = 4,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "You made our search quite challenging.",
+      voice = 2,
+      next = {18}
+    },
+    [18] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "The moment I froze, a familiar voice rang out, cool and sharp.",
+      next = {19}
+    },
+    [19] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "There was a clear implication in his tone, yet it was met with a deep, quiet laugh.",
+      next = {20}
+    },
+    [20] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "Don't be difficult. You want a chat? My line is always open.",
+      next = {21}
+    },
+    [21] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "Sit down. The tea is ready.",
+      next = {22}
+    },
+    [22] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Following a tense pause, the sharp sound of a chair dragging signaled someone seating themselves defiantly.",
+      next = {23}
+    },
+    [23] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "We didn't finish our talk at the party.",
+      next = {24}
+    },
+    [24] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "I hear things. People say you're the real deal. That you get things done.",
+      next = {25}
+    },
+    [25] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "A deep, hollow tone accompanied the pouring of tea.",
+      next = {26}
+    },
+    [26] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "I've been wanting to tell you that myself.",
+      next = {27}
+    },
+    [27] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "Most messes get worse when people wait too long and get too greedy.",
+      next = {28}
+    },
+    [28] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "Kids today don't get it. They should be taking notes from you.",
+      next = {29}
+    },
+    [29] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "91_ZeroSumGame",
+      renming = "Gavin",
+      renwu = "npc",
+      sentence = "You've got the wrong idea.",
+      voice = 2,
+      next = {30}
+    },
+    [30] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "91_ZeroSumGame",
+      renming = "Gavin",
+      renwu = "npc",
+      sentence = "My nature is to obsess. If something crosses me, I will see it through to the end, no matter the cost.",
+      voice = 2,
+      next = {31}
+    },
+    [31] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "He spoke with a carefree air, yet every word radiated rebellious confidence.",
+      next = {32}
+    },
+    [32] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "The man paused, then burst into deeper laughter.",
+      next = {33}
+    },
+    [33] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "With that mouth, you must have been public enemy number one under Willis.",
+      next = {34}
+    },
+    [34] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "He's a backstabber. Don't let him use you as his attack dog.",
+      next = {35}
+    },
+    [35] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "He's famous for shooting his own. You've got a good head on your shoulders, kid, but you need to be tougher.",
+      next = {36}
+    },
+    [36] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "With my history with your old man, I'd feel bad if I had to tell him you got hurt.",
+      next = {37}
+    },
+    [37] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Abruptly, Gavin's laughter cut through the tension.",
+      next = {38}
+    },
+    [38] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "91_ZeroSumGame",
+      renming = "Gavin",
+      renwu = "npc",
+      sentence = "That \"history\" with my dad... did you miss the memo that we're estranged?",
+      voice = 2,
+      next = {39}
+    },
+    [39] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "The sound of a snow-laden branch snapping echoed faintly from the courtyard.",
+      next = {40}
+    },
+    [40] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "A long moment passed before the man sighed, a feigned note of pity in his voice.",
+      next = {41}
+    },
+    [41] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "Honestly, you're just like him. But you're soft where he was hard.",
+      next = {42}
+    },
+    [42] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "That's why you'll never be where he is. You don't have the guts for it.",
+      next = {43}
+    },
+    [43] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "91_ZeroSumGame",
+      renming = "Gavin",
+      renwu = "npc",
+      sentence = "I told you, we're not on speaking terms. Talking him up is pointless.",
+      voice = 2,
+      next = {44}
+    },
+    [44] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "91_ZeroSumGame",
+      renming = "Gavin",
+      renwu = "npc",
+      sentence = "Or do you actually believe... he has any influence over what I do to you?",
+      voice = 2,
+      next = {45}
+    },
+    [45] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "A chilling silence fell over the room.",
+      next = {46}
+    },
+    [46] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Gavin's words sparked a hazy theory in my mind.",
+      next = {47}
+    },
+    [47] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "I stole a look at the guy next to me, eyeing the baton and then the gun on his hip, my hands curling into tight fists.",
+      next = {48}
+    },
+    [48] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "I was his weak spot, but I'd be damned if I was just a sitting duck.",
+      next = {49}
+    },
+    [49] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "The man let out a sigh, putting on a show of being the reasonable one.",
+      next = {50}
+    },
+    [50] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "We have to do things the right way. This path you're on leads to mistakes.",
+      next = {51}
+    },
+    [51] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "91_ZeroSumGame",
+      renming = "Gavin",
+      renwu = "npc",
+      sentence = "You think I'd come to see you empty-handed?",
+      voice = 2,
+      next = {52}
+    },
+    [52] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "91_ZeroSumGame",
+      renming = "Gavin",
+      renwu = "npc",
+      sentence = "Or did you believe the loose ends you had Linden \"tie up\"... actually stayed tied?",
+      voice = 2,
+      next = {53}
+    },
+    [53] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "Gavin, let's be civil. There's no need to go there.",
+      next = {54}
+    },
+    [54] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "91_ZeroSumGame",
+      renming = "Gavin",
+      renwu = "npc",
+      sentence = "Civility is wasted on the uncivilized.",
+      voice = 2,
+      next = {55}
+    },
+    [55] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "The moment hung suspended. I took a deep breath, returned to my seat, and saw the black rod withdraw.",
+      next = {56}
+    },
+    [56] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "Playing the hero is a young man's game. I remember it well.",
+      next = {57}
+    },
+    [57] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "But if you don't cut out the illogical elements—the ones holding you back—you'll lose everything for nothing.",
+      next = {58}
+    },
+    [58] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "His lecture was a slow, psychological press, crushing my spirit with every word.",
+      next = {59}
+    },
+    [59] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "Real strength is having no attachments. You should be willing to discard anything, care about nothing, but your mission.",
+      next = {60}
+    },
+    [60] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "Lose that discipline, cling to foolish hopes, and your life will become a masterclass in misery.",
+      next = {61}
+    },
+    [61] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "??",
+      renwu = "npc",
+      sentence = "That's the lesson that will finally break you.",
+      next = {62}
+    },
+    [62] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "That statement seemed to be an unspoken cue, and I felt something in me tighten instantly—",
+      next = {63}
+    },
+    [63] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Just as the guard lifted his weapon, Gavin's voice cut through, icy and resolute.",
+      next = {64}
+    },
+    [64] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "91_ZeroSumGame",
+      renming = "Gavin",
+      renwu = "npc",
+      sentence = "Unfortunately for you, I'm a terrible student.",
+      voice = 2,
+      next = {65}
+    },
+    [65] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "And I would never let anyone break him.",
+      next = {66}
+    },
+    [66] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Not even me.",
+      next = {67}
+    },
+    [67] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "The baton came arcing down, and at the edge of my sight, something brightened on the wall.",
+      next = {68}
+    },
+    [68] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "With no moment to spare, I snatched the hot water kettle and splashed it directly at him.",
+      next = {69}
+    },
+    [69] = {
+      beijing = 6085,
+      bganim = 2,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Just as he moved to counter, a sudden whirlwind blasted through, ripping the rear door away completely.",
+      sfx = "Metal_door_close",
+      next = {70}
+    },
+    [70] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "The baton, thrown off by the wind, missed its mark but landed hard against my forearm.",
+      next = {71}
+    },
+    [71] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Without a second thought, I seized the baton the moment his shoulder jerked and pressed the shock button.",
+      next = {72}
+    },
+    [72] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "As his body seized, I grabbed the gun from his holster and spun to aim it backward—",
+      next = {73}
+    },
+    [73] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "A young enforcer was staring down my barrel, with Eli aiming calmly at the back of his skull.",
+      next = {74}
+    },
+    [74] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "For a moment, I couldn't process anything. After a dazed look at them, I turned my head.",
+      next = {75}
+    },
+    [75] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      role1 = 423000,
+      role2 = 402106,
+      role3 = 402206,
+      role5 = 423402,
+      ruchang = -1,
+      sentence = "Gavin was close. He dragged his eyes away from me with visible effort, focusing his rage on the man across the table.",
+      next = {76}
+    },
+    [76] = {
+      beijing = 6085,
+      bganim = 2,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      role1 = 423000,
+      role2 = 402106,
+      role3 = 402206,
+      role5 = 423402,
+      sentence = "He slammed his boot onto the table, flipping and shattering everything on it.",
+      next = {77}
+    },
+    [77] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "91_ZeroSumGame",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 423000,
+      role2 = 402106,
+      role3 = 402206,
+      role5 = 423402,
+      ruchang = 9,
+      sentence = "Talk time's over. You're coming with us.",
+      voice = 2,
+      next = {78}
+    },
+    [78] = {
+      beijing = 6085,
+      bganim = 0,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      sentence = "I barely registered Eli and his team taking both men away.",
+      next = {79}
+    },
+    [79] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      sentence = "Gavin stepped closer, his expression a mix of powerful, tangled emotions.",
+      next = {80}
+    },
+    [80] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      sentence = "With gentle pressure, he released my rigid finger from the trigger and reclaimed the weapon.",
+      next = {81}
+    },
+    [81] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      sentence = "I was shaking from head to toe, and then suddenly, he held me tightly against him.",
+      next = {82}
+    },
+    [82] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      sentence = "The door clicked shut, preserving the intimate silence just for us two.",
+      next = {83}
+    },
+    [83] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      sentence = "I felt a slight tremble in his touch, and his heart hammered rapidly against mine.",
+      next = {84}
+    },
+    [84] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "406_BQ_Weddingdress",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403106,
+      role3 = 403207,
+      role5 = 424401,
+      ruchang = -1,
+      sentence = "I can't believe you...",
+      voice = 2,
+      next = {85}
+    },
+    [85] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403112,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      sentence = "His voice was muffled against my shoulder, brimming with exasperated pride as his arms tightened around me.",
+      next = {86}
+    },
+    [86] = {
+      beijing = 6085,
+      dhead = 107,
+      dialog = 1,
+      music = "406_BQ_Weddingdress",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403106,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      sentence = "Did I look impressive back there?",
+      next = {87}
+    },
+    [87] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      sentence = "He let out a low, yielding laugh, then lifted his face to touch his forehead to mine.",
+      next = {88}
+    },
+    [88] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "406_BQ_Weddingdress",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      sentence = "Absolutely.",
+      voice = 2,
+      next = {89}
+    },
+    [89] = {
+      beijing = 6085,
+      dhead = 112,
+      dialog = 1,
+      music = "406_BQ_Weddingdress",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      sentence = "Having second thoughts about training me with weapons?",
+      next = {90}
+    },
+    [90] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "406_BQ_Weddingdress",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      sentence = "I'd do it all over again.",
+      voice = 2,
+      next = {91}
+    },
+    [91] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "406_BQ_Weddingdress",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      sentence = "You haven't just been someone I've been protecting all this time.",
+      voice = 2,
+      next = {92}
+    },
+    [92] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403114,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      sentence = "Tender, lingering kisses brushed against my skin, full of affirmation and care.",
+      next = {93}
+    },
+    [93] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "406_BQ_Weddingdress",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      ruchang = 9,
+      sentence = "You're my hero.",
+      voice = 2,
+      next = {94}
+    },
+    [94] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      sentence = "A laugh escaped me as his careful caresses seemed to envelop my soul.",
+      next = {95}
+    },
+    [95] = {
+      beijing = 6085,
+      dhead = 107,
+      dialog = 1,
+      music = "406_BQ_Weddingdress",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Gavin, will you grant me two wishes?",
+      next = {96}
+    },
+    [96] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "406_BQ_Weddingdress",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      ruchang = -1,
+      sentence = "Anything.",
+      voice = 2,
+      next = {97}
+    },
+    [97] = {
+      beijing = 6085,
+      dhead = 107,
+      dialog = 1,
+      music = "406_BQ_Weddingdress",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      sentence = "First, swear to me you'll never, ever yield. Please?",
+      next = {98}
+    },
+    [98] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      ruchang = 9,
+      sentence = "My eyes met his intense gaze, finding in those bright amber hues the wild independence I so admired.",
+      next = {99}
+    },
+    [99] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      sentence = "His sharp edges and unrestrained spirit were his greatest weapons—what made him fearless and free.",
+      next = {100}
+    },
+    [100] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      sentence = "He didn't speak for a long moment, choosing instead to seal his answer with a lingering kiss.",
+      next = {101}
+    },
+    [101] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      sentence = "Every burning touch and woven breath seemed to carry everything we couldn't say aloud.",
+      next = {102}
+    },
+    [102] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "406_BQ_Weddingdress",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      ruchang = -1,
+      sentence = "I swear it.",
+      voice = 2,
+      next = {103}
+    },
+    [103] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403114,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      sentence = "As we breathed together, his words seemed to reach my thoughts even before I heard them.",
+      next = {104}
+    },
+    [104] = {
+      beijing = 6085,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "406_BQ_Weddingdress",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 424000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 424401,
+      roleanim = 1.1,
+      ruchang = 9,
+      sentence = "And the second?",
+      voice = 2,
+      next = {105}
+    },
+    [105] = {
+      beijing = 6085,
+      dialog = 3,
+      music = "406_BQ_Weddingdress",
+      renwu = "npc",
+      sentence = "Each attempt to speak was interrupted by another kiss, the warm exchange pulling me under.",
+      next = {106}
+    },
+    [106] = {
+      beijing = 6085,
+      dhead = 104,
+      dialog = 1,
+      music = "406_BQ_Weddingdress",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "So, the other one...",
+      next = {107}
+    },
+    [107] = {
+      beijing = 6085,
+      dhead = 112,
+      dialog = 1,
+      music = "406_BQ_Weddingdress",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "I might have gotten whacked on the arm with the baton. It stings. Don't be upset with me?",
+      next = {0}
+    }
+  },
   [480142] = {
     [1] = {
       beijing = 1392,
@@ -10849,6 +11949,16 @@ story255 = {
       roleanim = 1.1,
       ruchang = 9,
       sentence = "李泽言，我们一起去做梦吧。",
+      next = {0}
+    }
+  },
+  [835003] = {
+    [1] = {
+      beijing = 6061,
+      game_params = 3803,
+      game_type = "AncientWeddingPoetryComposition",
+      music = "pause",
+      renwu = "npc",
       next = {0}
     }
   }

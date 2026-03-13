@@ -4437,6 +4437,12 @@ data = {
     card_property_inc_perc = 45,
     card_evolution_rewards = "1329,252,1"
   },
+  [51980] = {
+    card_evolution_level = 40,
+    card_evolution_price = "100001,1,120000:100028,28,256:112002,101,26:112102,101,30",
+    card_property_inc_perc = 45,
+    card_evolution_rewards = "1331,252,1"
+  },
   [52010] = {
     card_evolution_level = 40,
     card_evolution_price = "100001,1,120000:100028,28,256:112005,101,27:112205,101,29",
@@ -4983,6 +4989,12 @@ data = {
     card_evolution_price = "100001,1,120000:100028,28,256:112004,101,26:112205,101,30",
     card_property_inc_perc = 45,
     card_evolution_rewards = "2322,252,1"
+  },
+  [52960] = {
+    card_evolution_level = 40,
+    card_evolution_price = "100001,1,120000:100028,28,256:112003,101,29:112203,101,27",
+    card_property_inc_perc = 45,
+    card_evolution_rewards = "2327,252,1"
   },
   [53010] = {
     card_evolution_level = 40,
@@ -5543,6 +5555,12 @@ data = {
     card_property_inc_perc = 45,
     card_evolution_rewards = "3320,252,1"
   },
+  [53980] = {
+    card_evolution_level = 40,
+    card_evolution_price = "100001,1,120000:100028,28,256:112009,101,27:112308,101,29",
+    card_property_inc_perc = 45,
+    card_evolution_rewards = "3324,252,1"
+  },
   [54010] = {
     card_evolution_level = 40,
     card_evolution_price = "100001,1,120000:100028,28,256:112005,101,27:112405,101,29",
@@ -6099,6 +6117,12 @@ data = {
     card_evolution_price = "100001,1,120000:100028,28,256:112002,101,28:112402,101,28",
     card_property_inc_perc = 45,
     card_evolution_rewards = "4321,252,1"
+  },
+  [54970] = {
+    card_evolution_level = 40,
+    card_evolution_price = "100001,1,120000:100028,28,256:112005,101,29:112405,101,27",
+    card_property_inc_perc = 45,
+    card_evolution_rewards = "4324,252,1"
   },
   [58010] = {
     card_evolution_level = 40,

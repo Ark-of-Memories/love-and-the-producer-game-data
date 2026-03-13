@@ -3354,6 +3354,617 @@ story66 = {
       next = {0}
     }
   },
+  [126103] = {
+    [1] = {
+      beijing = 1041,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "Maybe it was a good night's rest, but when I woke up the next morning, my head felt a lot clearer.",
+      next = {2}
+    },
+    [2] = {
+      beijing = 1041,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "Taking advantage of the weekly meeting, I gathered the team in the conference room to give a quick update about ending our partnership with Infinite.",
+      next = {3}
+    },
+    [3] = {
+      beijing = 1041,
+      dialog = 2,
+      idx = 5,
+      music = "52_Daily03",
+      renming = "Anna",
+      renwu = "npc",
+      role1 = 14800,
+      ruchang = -1,
+      sentence = "The entertainment industry's been growing fast lately. I think we should start investing more resources in that space.",
+      next = {4}
+    },
+    [4] = {
+      beijing = 1041,
+      dialog = 2,
+      idx = 5,
+      music = "52_Daily03",
+      renming = "Anna",
+      renwu = "npc",
+      role1 = 14800,
+      ruchang = 9,
+      sentence = "It's always been one of our strong suits, and our short video content has already built up a good chunk of traffic.",
+      next = {5}
+    },
+    [5] = {
+      beijing = 1041,
+      dialog = 2,
+      idx = 5,
+      music = "52_Daily03",
+      renming = "Minor",
+      renwu = "npc",
+      role1 = 12700,
+      ruchang = -1,
+      sentence = "I heard there's a company overseas working on a competitor to Infinite. I think they're called... SPARK?",
+      next = {6}
+    },
+    [6] = {
+      beijing = 1041,
+      dialog = 2,
+      idx = 5,
+      music = "52_Daily03",
+      renming = "Minor",
+      renwu = "npc",
+      role1 = 12700,
+      ruchang = 9,
+      sentence = "Maybe we could get in touch with them? That way, we can still make use of the platforms we built during the Infinite collab.",
+      next = {7}
+    },
+    [7] = {
+      beijing = 1041,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "Everyone chimed in with their ideas, and by the end of the discussion, we had a solid direction for the second half of the year.",
+      next = {8}
+    },
+    [8] = {
+      beijing = 1041,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "I decided to go with both approaches: ramp up our investment in entertainment, and see what kind of collaboration we might spark with SPARK. ",
+      next = {9}
+    },
+    [9] = {
+      beijing = 5004,
+      bganim = 0,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "After several hectic days, the long-awaited visit to Kiro's film set finally arrived.",
+      next = {10}
+    },
+    [10] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "I got his schedule from Savin, and made my way to the set early that morning.",
+      next = {11}
+    },
+    [11] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "Under the guidance of the stage crew, I navigated the maze of equipment and extras until I spotted that familiar silhouette. ",
+      next = {12}
+    },
+    [12] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "He must've just wrapped a scene. He was still clad in a heavy overcoat that didn't suit the season, the clean lines of the costume accentuating his tall, slender frame.",
+      next = {13}
+    },
+    [13] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "His perfectly styled fringe hung lazily over his brows, brushing the edges of those clear blue eyes.",
+      next = {14}
+    },
+    [14] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "He stood beside the director, absorbed in the monitor and deep in discussion.",
+      next = {15}
+    },
+    [15] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "His voice was calm yet focused as it carried softly through the crisp morning air.",
+      next = {16}
+    },
+    [16] = {
+      beijing = 5004,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "Kiro",
+      renwu = "npc",
+      role1 = 3149000,
+      role2 = 301102,
+      role3 = 301207,
+      ruchang = -1,
+      sentence = "...I agree, the character should let his emotions show more in this situation.",
+      next = {17}
+    },
+    [17] = {
+      beijing = 5004,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "Kiro",
+      renwu = "npc",
+      role1 = 3149000,
+      role2 = 301102,
+      role3 = 301207,
+      sentence = "For the next take, maybe I could sync up with a couple of the other actors and see if that hits better. We could have the crew weigh in, too.",
+      next = {18}
+    },
+    [18] = {
+      beijing = 5004,
+      dhead = 313,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3149000,
+      role2 = 301102,
+      role3 = 301211,
+      sentence = "Hey, think I can get in on this?",
+      next = {19}
+    },
+    [19] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      role1 = 3149000,
+      role2 = 301101,
+      role3 = 301201,
+      sentence = "I grinned as I called out, barely able to hold back my laughter. Kiro turned immediately, his eyes lighting up with delight.",
+      next = {20}
+    },
+    [20] = {
+      beijing = 5004,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "Kiro",
+      renwu = "npc",
+      role1 = 3149000,
+      role2 = 301104,
+      role3 = 301201,
+      ruchang = 9,
+      sentence = "Wow, you're here already!",
+      next = {21}
+    },
+    [21] = {
+      beijing = 5004,
+      dhead = 314,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Well, I wasn't gonna miss a chance to catch you in action.",
+      next = {22}
+    },
+    [22] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "I handed over the bouquet I'd been hiding behind my back. The flicker of light in his eyes when he saw it made my heart flutter.",
+      next = {23}
+    },
+    [23] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "Smiling, Kiro introduced me to the director. I stepped forward and spoke politely.",
+      next = {24}
+    },
+    [24] = {
+      beijing = 5004,
+      dhead = 307,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Thanks for taking care of him these past few days.",
+      next = {25}
+    },
+    [25] = {
+      beijing = 5004,
+      dhead = 301,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "I was hoping to grab a few behind-the-scenes shots of Kiro for promo material. Are there any sets we can use?",
+      next = {26}
+    },
+    [26] = {
+      beijing = 5004,
+      dialog = 2,
+      idx = 5,
+      music = "52_Daily03",
+      renming = "Director",
+      renwu = "npc",
+      sentence = "That street set we've already released should be fine.",
+      next = {27}
+    },
+    [27] = {
+      beijing = 5004,
+      dialog = 2,
+      idx = 5,
+      music = "52_Daily03",
+      renming = "Director",
+      renwu = "npc",
+      sentence = "Just don't take too long, cause we're shooting the next scene in about 30 minutes.",
+      next = {28}
+    },
+    [28] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      role1 = 3150000,
+      role2 = 302101,
+      role3 = 302205,
+      ruchang = -1,
+      sentence = "I quickly nodded, thanked him, and nudged Kiro along gently.",
+      next = {29}
+    },
+    [29] = {
+      beijing = 5004,
+      dhead = 313,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3150000,
+      role2 = 302101,
+      role3 = 302205,
+      sentence = "Any idea what time you're wrapping today?",
+      next = {30}
+    },
+    [30] = {
+      beijing = 5004,
+      dhead = 314,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3150000,
+      role2 = 302101,
+      role3 = 302205,
+      sentence = "I passed this awesome food street on the way here. Thought maybe we could hit it up after you're done.",
+      next = {31}
+    },
+    [31] = {
+      beijing = 5004,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "Kiro",
+      renwu = "npc",
+      role1 = 3150000,
+      role2 = 302101,
+      role3 = 302205,
+      ruchang = 9,
+      sentence = "Sounds good! I've only got two more scenes left. Should be done before nine.",
+      next = {32}
+    },
+    [32] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "As we talked, we made our way to a retro street set designed to look like a time capsule from a century long past.",
+      next = {33}
+    },
+    [33] = {
+      beijing = 4251,
+      bganim = 0,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "Elongated vintage cars lined the street. Weathered signs crowded the facades of old storefronts. It felt like history had been plucked from the past and stitched into the present.",
+      next = {34}
+    },
+    [34] = {
+      beijing = 4251,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "I reached up to straighten his collar, then stepped back and lifted my camera as he leaned casually against a brick wall. Without needing a word, he struck a pose.",
+      next = {35}
+    },
+    [35] = {
+      beijing = 4251,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "With his bangs gently falling over his forehead and that touch of bad boy charm in his expression, Kiro's usual good looks took on a more untamed, rakish air. ",
+      next = {36}
+    },
+    [36] = {
+      beijing = 4251,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "Click after click, shot after shot, each photo landed in my phone with effortless perfection.",
+      next = {37}
+    },
+    [37] = {
+      beijing = 4251,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "When we'd worked through every backdrop, I finally lowered my camera with reluctant hands. Kiro laced his fingers with mine and smiled.",
+      next = {38}
+    },
+    [38] = {
+      beijing = 4251,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "52_Daily03",
+      renming = "Kiro",
+      renwu = "npc",
+      role1 = 3150000,
+      role2 = 302101,
+      role3 = 302205,
+      sentence = "Alright, now that you've had your fill through your lens... time to watch me through their lens.",
+      next = {39}
+    },
+    [39] = {
+      beijing = 5004,
+      bganim = 0,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "At the director's invitation, I settled behind the monitor as they prepared for the next scene.",
+      next = {40}
+    },
+    [40] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "As my gaze drifted toward Kiro's opposite side, I suddenly noticed a familiar face.",
+      next = {41}
+    },
+    [41] = {
+      beijing = 5004,
+      dhead = 311,
+      dialog = 1,
+      music = "52_Daily03",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "...Jun?",
+      next = {42}
+    },
+    [42] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "Turned out today was a face-off scene between Jun and Kiro.",
+      next = {43}
+    },
+    [43] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "52_Daily03",
+      renwu = "npc",
+      sentence = "Before I could fully piece together my thoughts, the clapperboard came down with a sharp snap as the cameras began to roll.",
+      next = {44}
+    },
+    [44] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "pause",
+      renwu = "npc",
+      sentence = "Kiro's casual demeanor vanished in an instant. His expression grew taut, lips pressed into a tight, unreadable line.",
+      next = {45}
+    },
+    [45] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Somewhere, a car honked in the distance. Kiro walked forward without hesitation, his coat brushing softly against his back.",
+      sfx = "Dia_CarHorn",
+      next = {46}
+    },
+    [46] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Suddenly, headlights flared behind him, casting a stark silhouette around his form.",
+      next = {47}
+    },
+    [47] = {
+      beijing = 5004,
+      dialog = 2,
+      idx = 3,
+      music = "91_ZeroSumGame",
+      renming = "Kiro",
+      renwu = "npc",
+      role1 = 3150000,
+      role2 = 302108,
+      role3 = 302203,
+      ruchang = -1,
+      sentence = "...",
+      next = {48}
+    },
+    [48] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Kiro exhaled, as though his patience had just drawn its last breath.",
+      next = {49}
+    },
+    [49] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "The camera glided forward, tracking along the rails until it closed in on his profile. A shallow cut on his cheek caught the light as his voice cut through the quiet, low and edged with arrogance.",
+      next = {50}
+    },
+    [50] = {
+      beijing = 5004,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "91_ZeroSumGame",
+      renming = "Kiro",
+      renwu = "npc",
+      role1 = 3150000,
+      role2 = 302108,
+      role3 = 302203,
+      ruchang = 9,
+      sentence = "You're testing my patience.",
+      next = {51}
+    },
+    [51] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "He raised his eyes slowly, gaze locking onto Jun. A flash of silver danced at his fingertips as he brandished a dagger menacingly in his hand. But even that lethal glint couldn't compare to the icy sharpness glimmering in those ocean blue eyes.",
+      next = {52}
+    },
+    [52] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "It was like I forgot to breathe. What began as a casual viewing had suddenly become something gravitating, like my emotions were being carried away by the world he painted with his every word and pose.",
+      next = {53}
+    },
+    [53] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Jun took a breath before slowly parting his lips, his voice low and tense.",
+      next = {54}
+    },
+    [54] = {
+      beijing = 5004,
+      dialog = 2,
+      idx = 5,
+      music = "91_ZeroSumGame",
+      renming = "Jun",
+      renwu = "npc",
+      sentence = "Then you never should've taken something that wasn't yours.",
+      next = {55}
+    },
+    [55] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "The emotion behind the line was written all over the script, but his expression remained blank, eyes cold and detached as he stared at Kiro.",
+      next = {56}
+    },
+    [56] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "He didn't look like a man confronting a nemesis—he sounded more like a soulless machine simply reciting its lines.",
+      next = {57}
+    },
+    [57] = {
+      beijing = 5004,
+      dhead = 311,
+      dialog = 1,
+      music = "91_ZeroSumGame",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "...",
+      next = {58}
+    },
+    [58] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "His act was nowhere near as polished as we saw in the web drama the other day. Was the director asleep at the wheel or something?",
+      next = {59}
+    },
+    [59] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "I glanced sideways; even the director had a frown etched between his brows.",
+      next = {60}
+    },
+    [60] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "91_ZeroSumGame",
+      renwu = "npc",
+      sentence = "Well, whatever. As long as Kiro stayed in the zone, that was all that mattered. I pressed my lips together and shifted my gaze back toward the set.",
+      next = {61}
+    },
+    [61] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "That's when I caught a strange metallic sound, like cables dragging.",
+      sfx = "Metal_Lock",
+      next = {62}
+    },
+    [62] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "I looked up instinctively, and my breath caught.",
+      next = {63}
+    },
+    [63] = {
+      beijing = 5004,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "High above the set, a rigging cable had somehow come loose. A heavy equipment box, suspended seconds ago, now plummeted straight down.",
+      next = {0}
+    }
+  },
   [410194] = {
     [1] = {
       beijing = 9061,

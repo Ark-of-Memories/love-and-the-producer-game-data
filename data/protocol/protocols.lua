@@ -1779,10 +1779,21 @@ Request.C2SUserActivityTeaActionItemBuy = 6224
 Response.S2CUserActivityTeaActionItemBuy = 6224
 Request.C2SUserActivityTeaLastTaskFinishReward = 6225
 Response.S2CUserActivityTeaLastTaskFinishReward = 6225
+Request.C2SUserActivityPrisonLifeRequestActionCardProto = 6226
+Response.S2CUserActivityPrisonLifeRequestActionCardProto = 6226
+Request.C2SUserActivityPrisonLifeChooseMaleProto = 6227
+Response.S2CUserActivityPrisonLifeChooseMaleProto = 6227
+Request.C2SUserActivityPrisonLifeCheckInProto = 6228
+Response.S2CUserActivityPrisonLifeCheckInProto = 6228
+Request.C2SUserActivityPrisonLifeGetRewardProto = 6229
+Response.S2CUserActivityPrisonLifeGetRewardProto = 6229
+Request.C2SUserActivityPrisonLifeRecordStepProto = 6230
+Response.S2CUserActivityPrisonLifeRecordStepProto = 6230
+Request.C2SUserActivityPrisonLifeBuyActionCardProto = 6231
+Response.S2CUserActivityPrisonLifeBuyActionCardProto = 6231
 Request.C2SUserActivityH5GetInfoProto = 7002
 Response.S2CUserActivityH5GetInfoRetProto = 7002
 Response.S2CUserH5RecordFromPlatformNotify = 7003
-Request.C2SUserClaimHotupdateRewardProto = 7601
 Enum.Reason = {COOL_DOWN = "COOL_DOWN", PRIORITY = "PRIORITY"}
 Enum.RewardType = {Dmd = "Dmd", FavorExp = "FavorExp"}
 Enum.StorageType = {
@@ -5162,13 +5173,33 @@ ProtocolConfigs = {
       id = 6225,
       fullname = "protobuf.C2SUserActivityTeaLastTaskFinishReward"
     },
+    [6226] = {
+      id = 6226,
+      fullname = "protobuf.C2SUserActivityPrisonLifeRequestActionCardProto"
+    },
+    [6227] = {
+      id = 6227,
+      fullname = "protobuf.C2SUserActivityPrisonLifeChooseMaleProto"
+    },
+    [6228] = {
+      id = 6228,
+      fullname = "protobuf.C2SUserActivityPrisonLifeCheckInProto"
+    },
+    [6229] = {
+      id = 6229,
+      fullname = "protobuf.C2SUserActivityPrisonLifeGetRewardProto"
+    },
+    [6230] = {
+      id = 6230,
+      fullname = "protobuf.C2SUserActivityPrisonLifeRecordStepProto"
+    },
+    [6231] = {
+      id = 6231,
+      fullname = "protobuf.C2SUserActivityPrisonLifeBuyActionCardProto"
+    },
     [7002] = {
       id = 7002,
       fullname = "protobuf.C2SUserActivityH5GetInfoProto"
-    },
-    [7601] = {
-      id = 7601,
-      fullname = "protobuf.C2SUserClaimHotupdateRewardProto"
     }
   },
   Response = {
@@ -9121,6 +9152,30 @@ ProtocolConfigs = {
       id = 6225,
       fullname = "protobuf.S2CUserActivityTeaLastTaskFinishReward"
     },
+    [6226] = {
+      id = 6226,
+      fullname = "protobuf.S2CUserActivityPrisonLifeRequestActionCardProto"
+    },
+    [6227] = {
+      id = 6227,
+      fullname = "protobuf.S2CUserActivityPrisonLifeChooseMaleProto"
+    },
+    [6228] = {
+      id = 6228,
+      fullname = "protobuf.S2CUserActivityPrisonLifeCheckInProto"
+    },
+    [6229] = {
+      id = 6229,
+      fullname = "protobuf.S2CUserActivityPrisonLifeGetRewardProto"
+    },
+    [6230] = {
+      id = 6230,
+      fullname = "protobuf.S2CUserActivityPrisonLifeRecordStepProto"
+    },
+    [6231] = {
+      id = 6231,
+      fullname = "protobuf.S2CUserActivityPrisonLifeBuyActionCardProto"
+    },
     [7002] = {
       id = 7002,
       fullname = "protobuf.S2CUserActivityH5GetInfoRetProto"
@@ -12409,10 +12464,30 @@ function Request.asC2SUserActivityTeaLastTaskFinishReward(msg)
   return fill(msg, Protocols.Request.C2SUserActivityTeaLastTaskFinishReward)
 end
 
-function Request.asC2SUserActivityH5GetInfoProto(msg)
-  return fill(msg, Protocols.Request.C2SUserActivityH5GetInfoProto)
+function Request.asC2SUserActivityPrisonLifeRequestActionCardProto(msg)
+  return fill(msg, Protocols.Request.C2SUserActivityPrisonLifeRequestActionCardProto)
 end
 
-function Request.asC2SUserClaimHotupdateRewardProto(msg)
-  return fill(msg, Protocols.Request.C2SUserClaimHotupdateRewardProto)
+function Request.asC2SUserActivityPrisonLifeChooseMaleProto(msg)
+  return fill(msg, Protocols.Request.C2SUserActivityPrisonLifeChooseMaleProto)
+end
+
+function Request.asC2SUserActivityPrisonLifeCheckInProto(msg)
+  return fill(msg, Protocols.Request.C2SUserActivityPrisonLifeCheckInProto)
+end
+
+function Request.asC2SUserActivityPrisonLifeGetRewardProto(msg)
+  return fill(msg, Protocols.Request.C2SUserActivityPrisonLifeGetRewardProto)
+end
+
+function Request.asC2SUserActivityPrisonLifeRecordStepProto(msg)
+  return fill(msg, Protocols.Request.C2SUserActivityPrisonLifeRecordStepProto)
+end
+
+function Request.asC2SUserActivityPrisonLifeBuyActionCardProto(msg)
+  return fill(msg, Protocols.Request.C2SUserActivityPrisonLifeBuyActionCardProto)
+end
+
+function Request.asC2SUserActivityH5GetInfoProto(msg)
+  return fill(msg, Protocols.Request.C2SUserActivityH5GetInfoProto)
 end

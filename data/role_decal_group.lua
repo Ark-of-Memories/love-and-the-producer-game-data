@@ -1936,6 +1936,32 @@ data = {
       depth_serials = {5}
     }
   },
+  [12045002] = {
+    [1100] = {
+      decal_res = {1204301},
+      depth_serials = {2}
+    },
+    [1200] = {
+      decal_res = {1205301},
+      depth_serials = {2}
+    }
+  },
+  [12045005] = {
+    [1100] = {
+      decal_res = {1204302},
+      depth_serials = {5}
+    }
+  },
+  [12065002] = {
+    [1100] = {
+      decal_res = {1206301},
+      depth_serials = {2}
+    },
+    [1200] = {
+      decal_res = {1207301},
+      depth_serials = {2}
+    }
+  },
   [18550061] = {
     [1200] = {
       decal_res = {186401},
@@ -2216,6 +2242,26 @@ data = {
       depth_serials = {5}
     }
   },
+  [22075003] = {
+    [2100] = {
+      decal_res = {2207301},
+      depth_serials = {3}
+    },
+    [2200] = {
+      decal_res = {2208301},
+      depth_serials = {3}
+    }
+  },
+  [22095003] = {
+    [2100] = {
+      decal_res = {2209301},
+      depth_serials = {3}
+    },
+    [2200] = {
+      decal_res = {2210301},
+      depth_serials = {3}
+    }
+  },
   [27750061] = {
     [2100] = {
       decal_res = {277401},
@@ -2454,6 +2500,26 @@ data = {
     [3200] = {
       decal_res = {3188301},
       depth_serials = {5}
+    }
+  },
+  [31975004] = {
+    [3100] = {
+      decal_res = {3197301},
+      depth_serials = {4}
+    },
+    [3200] = {
+      decal_res = {3198301},
+      depth_serials = {4}
+    }
+  },
+  [31995004] = {
+    [3100] = {
+      decal_res = {3199301},
+      depth_serials = {4}
+    },
+    [3200] = {
+      decal_res = {3200301},
+      depth_serials = {4}
     }
   },
   [37750061] = {
@@ -2810,6 +2876,56 @@ data = {
     [4200] = {
       decal_res = {4206301},
       depth_serials = {5}
+    }
+  },
+  [42095002] = {
+    [4100] = {
+      decal_res = {4209301},
+      depth_serials = {2}
+    },
+    [4200] = {
+      decal_res = {4210301},
+      depth_serials = {2}
+    }
+  },
+  [42095003] = {
+    [4100] = {
+      decal_res = {4209304},
+      depth_serials = {3}
+    },
+    [4200] = {
+      decal_res = {4210304},
+      depth_serials = {3}
+    }
+  },
+  [42095004] = {
+    [4100] = {
+      decal_res = {4209303},
+      depth_serials = {4}
+    },
+    [4200] = {
+      decal_res = {4210303},
+      depth_serials = {4}
+    }
+  },
+  [42095005] = {
+    [4100] = {
+      decal_res = {4209302},
+      depth_serials = {5}
+    },
+    [4200] = {
+      decal_res = {4210302},
+      depth_serials = {-3}
+    }
+  },
+  [42115002] = {
+    [4100] = {
+      decal_res = {4211301},
+      depth_serials = {2}
+    },
+    [4200] = {
+      decal_res = {4212301},
+      depth_serials = {2}
     }
   },
   [49350061] = {

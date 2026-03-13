@@ -35,15 +35,15 @@ data = {
   [6] = {
     taskline_id = 510101,
     controlled_chapter_id = "5101",
-    unlock_free_start_time = "2025/5/27 5:00:00",
-    unlock_free_end_time = "2025/6/6 23:59:59",
+    unlock_free_start_time = "2025/11/26  05:00:00",
+    unlock_free_end_time = "2025/12/6 23:59:59",
     unlock_condition = "10212,125,1"
   },
   [7] = {
     taskline_id = 310101,
     controlled_chapter_id = "3101",
-    unlock_free_start_time = "2025/5/27 5:00:00",
-    unlock_free_end_time = "2025/6/6 23:59:59",
+    unlock_free_start_time = "2025/11/26  05:00:00",
+    unlock_free_end_time = "2025/12/6 23:59:59",
     unlock_condition = "10212,125,1"
   },
   [8] = {
@@ -147,15 +147,15 @@ data = {
   [22] = {
     taskline_id = 315901,
     controlled_chapter_id = "3159,3160",
-    unlock_free_start_time = "2024/6/3 5:00:00",
-    unlock_free_end_time = "2024/6/12 23:59:00",
+    unlock_free_start_time = "2025/8/21 5:00:00",
+    unlock_free_end_time = "2025/8/30 23:59:59",
     unlock_condition = "10212,125,1"
   },
   [23] = {
     taskline_id = 316101,
     controlled_chapter_id = "3161,3162,3163,3164",
-    unlock_free_start_time = "2024/9/26 5:00:00",
-    unlock_free_end_time = "2024/10/6 23:59:00",
+    unlock_free_start_time = "2025/11/26  05:00:00",
+    unlock_free_end_time = "2025/12/6 23:59:59",
     unlock_condition = "10212,125,1"
   },
   [24] = {

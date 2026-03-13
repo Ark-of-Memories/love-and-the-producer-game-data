@@ -3587,6 +3587,691 @@ story136 = {
       next = {0}
     }
   },
+  [126510] = {
+    [1] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      sentence = "盖下印章的这一刻，也宣告Infinite正式被华锐收购。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      sentence = "罗曼咬牙起身，优雅地伸出手，语调尖锐地上扬。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 1103,
+      dialog = 2,
+      idx = 5,
+      music = "75_Tension_Rise",
+      renming = "罗曼",
+      renwu = "npc",
+      sentence = "合作愉快，李总。希望我们不会再有交集。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      sentence = "这家伙，到现在还摆着他的架子。我偷偷翻了个白眼。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      sentence = "李泽言倒是对这样的阴阳怪气早已免疫，他淡然地伸出手，可就在握手的瞬间——",
+      next = {6}
+    },
+    [6] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      sentence = "一旁的BS成员忽然上前，一副特制手铐“咔嗒”一声扣在了罗曼的手腕上。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      sentence = "那一刻，罗曼的笑容像是被猛然撕裂，他眼底的阴影骤然加深，呼吸急促了半拍。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 1103,
+      dialog = 2,
+      idx = 5,
+      music = "75_Tension_Rise",
+      renming = "罗曼",
+      renwu = "npc",
+      sentence = "……你给我戴了什么东西？！给我解开！",
+      next = {9}
+    },
+    [9] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      sentence = "那种优雅从容的姿态，在手铐扣上的刹那完全崩塌了，甚至带着几分慌乱。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 1103,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "75_Tension_Rise",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 1203000,
+      role2 = 102102,
+      role3 = 102201,
+      role5 = 1203401,
+      ruchang = -1,
+      sentence = "限制Evol的道具而已。",
+      voice = 1,
+      next = {11}
+    },
+    [11] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      role1 = 1203000,
+      role2 = 102102,
+      role3 = 102201,
+      role5 = 1203401,
+      sentence = "罗曼沉默片刻，忽然古怪地直起身子，语气也和之前的老气横秋截然不同。",
+      next = {12}
+    },
+    [12] = {
+      beijing = 1103,
+      dialog = 2,
+      idx = 5,
+      music = "75_Tension_Rise",
+      renming = "罗曼",
+      renwu = "npc",
+      role1 = 1203000,
+      role2 = 102102,
+      role3 = 102201,
+      role5 = 1203401,
+      sentence = "……你们是什么时候认出我的？",
+      next = {13}
+    },
+    [13] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      role1 = 1203000,
+      role2 = 102103,
+      role3 = 102201,
+      role5 = 1203401,
+      sentence = "我怔了一下，有些不明所以，身旁的李泽言皱了皱眉，似乎同样有些疑惑。",
+      next = {14}
+    },
+    [14] = {
+      beijing = 1103,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "75_Tension_Rise",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 1203000,
+      role2 = 102102,
+      role3 = 102201,
+      role5 = 1203401,
+      ruchang = 9,
+      sentence = "认出你是BS的叛徒吗？那你们Infinite的确是。",
+      voice = 1,
+      next = {15}
+    },
+    [15] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      sentence = "我愣愣地看着BS的人将罗曼带了下去，心里不由得有些腹诽。",
+      next = {16}
+    },
+    [16] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      sentence = "虽然Infinite是BS的企业，但亲眼看到他们直接扣押“失败者”，还是觉得这幅画面十分荒诞。",
+      next = {17}
+    },
+    [17] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      sentence = "我看向窗外，浅淡的月亮已经悄然出现在天际的一侧。",
+      next = {18}
+    },
+    [18] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      sentence = "这一天太过漫长，也该离开了。",
+      next = {19}
+    },
+    [19] = {
+      beijing = 1103,
+      dialog = 3,
+      music = "75_Tension_Rise",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101108,
+      role3 = 101202,
+      ruchang = -1,
+      sentence = "不等我开口，李泽言已经伸手将我拉到了他的身边。",
+      next = {20}
+    },
+    [20] = {
+      beijing = 1103,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "75_Tension_Rise",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101108,
+      role3 = 101202,
+      ruchang = 9,
+      sentence = "回家吧。",
+      voice = 1,
+      next = {21}
+    },
+    [21] = {
+      beijing = 4787,
+      bganim = 0,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "我们回到了故居中，我一头倒在沙发里。直到此刻，紧绷的神经才终于松下来。",
+      next = {22}
+    },
+    [22] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "回想起这几天，从Infinite的陷阱，到狂欢节的混乱，再到罗曼的异样……",
+      next = {23}
+    },
+    [23] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "简直像是从一场风暴，直接被抛进了另一场风暴里。",
+      next = {24}
+    },
+    [24] = {
+      beijing = 4787,
+      dhead = 309,
+      dialog = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "……下次收购别喊我来了，简直要留下心理阴影了。",
+      next = {25}
+    },
+    [25] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "我伸了个懒腰，半开玩笑地抱怨。李泽言轻轻挑眉，眼中含着一丝笑意。",
+      next = {26}
+    },
+    [26] = {
+      beijing = 4787,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101103,
+      role3 = 101202,
+      ruchang = -1,
+      sentence = "价值600亿的公司的核心项目收归$c，我不信某人坐得住。",
+      voice = 1,
+      next = {27}
+    },
+    [27] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101103,
+      role3 = 101202,
+      sentence = "我一愣，有点难以置信地看向他。",
+      next = {28}
+    },
+    [28] = {
+      beijing = 4787,
+      dhead = 312,
+      dialog = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101103,
+      role3 = 101202,
+      sentence = "在我心里$c还是个小公司呢，现在这样真没实感。",
+      next = {29}
+    },
+    [29] = {
+      beijing = 4787,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101103,
+      role3 = 101202,
+      ruchang = 9,
+      sentence = "以后适应了就有实感了，前提是《奥德赛》这块蛋糕你能处理好。",
+      voice = 1,
+      next = {30}
+    },
+    [30] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "听到这个挑战，我瞬间来了精神。",
+      next = {31}
+    },
+    [31] = {
+      beijing = 4787,
+      dhead = 313,
+      dialog = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "没问题！我保证把$c做成传媒巨头，行业标杆！",
+      next = {32}
+    },
+    [32] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "话音刚落，李泽言已经一把拉住我，让我重新跌回沙发。",
+      next = {33}
+    },
+    [33] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "我猝不及防地撞进他怀里，他低头看着我，目光中带着一丝无奈的宠溺。",
+      next = {34}
+    },
+    [34] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "这股味道熟悉得让人安心，像是终于从无休止的混乱里抽身出来。",
+      next = {35}
+    },
+    [35] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "这才是我们真正赢下来的夜晚。",
+      next = {36}
+    },
+    [36] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "我闭了闭眼，脑海里回放着这场收购的全过程，从最初的谈判，到一切都落定。",
+      next = {37}
+    },
+    [37] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "可是……真的结束了吗？",
+      next = {38}
+    },
+    [38] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "在那些清晰的画面之外，有什么东西，像是细小的毛刺一样，隐隐扎着我的神经。",
+      next = {39}
+    },
+    [39] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "我总觉得，哪怕这场收购的胜负已定，某种异样却依然悬在那里，没有完全拼凑完整。",
+      next = {40}
+    },
+    [40] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "我皱了皱眉，睁开眼睛，顺着本能地开口。",
+      next = {41}
+    },
+    [41] = {
+      beijing = 4787,
+      dhead = 305,
+      dialog = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "话说，罗曼到底怎么回事？",
+      next = {42}
+    },
+    [42] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "我原本只是随口一提，甚至连自己是怎么想到这点的都没弄清楚，可说出口后，心头却泛起一丝奇怪的感觉。",
+      next = {43}
+    },
+    [43] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "我本能地回忆起谈判时的场景，那种若有似无的漫不经心感，他说话的节奏，甚至某些惯用的句式……",
+      next = {44}
+    },
+    [44] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "和Aether嚣张的样子未免也太像了。",
+      next = {45}
+    },
+    [45] = {
+      beijing = 4787,
+      dhead = 309,
+      dialog = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "他怎么和Aether像是一个模子刻出来的……",
+      next = {46}
+    },
+    [46] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "我微微睁开眼，看着近在咫尺的李泽言，下意识地追问了一句。",
+      next = {47}
+    },
+    [47] = {
+      beijing = 4787,
+      dhead = 312,
+      dialog = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "说起来，Aether 之前去哪了我们也不知道……",
+      next = {48}
+    },
+    [48] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "李泽言轻轻拍着我的肩膀，声音听起来带着几分懒散。",
+      next = {49}
+    },
+    [49] = {
+      beijing = 4787,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101103,
+      role3 = 101202,
+      ruchang = -1,
+      sentence = "BS的人会查清楚。必要的时候，也会将他移交警方。",
+      voice = 1,
+      next = {50}
+    },
+    [50] = {
+      beijing = 4787,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101103,
+      role3 = 101202,
+      sentence = "现在，这不是我们该操心的事。",
+      voice = 1,
+      next = {51}
+    },
+    [51] = {
+      beijing = 4787,
+      dhead = 307,
+      dialog = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101104,
+      role3 = 101202,
+      sentence = "……确实，这几天你都没有好好休息，我不拉着你聊这种头痛的事了。",
+      next = {52}
+    },
+    [52] = {
+      beijing = 4787,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101104,
+      role3 = 101202,
+      sentence = "某人也没好到哪里去。",
+      voice = 1,
+      next = {53}
+    },
+    [53] = {
+      beijing = 4787,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101103,
+      role3 = 101202,
+      ruchang = 9,
+      sentence = "罗曼的事又没有“营收指标”，不需要现在就想明白。",
+      voice = 1,
+      next = {54}
+    },
+    [54] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "虽然这话带着几分调侃，可我却从他冷静的态度中听出了一丝深意。",
+      next = {55}
+    },
+    [55] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "罗曼的事或许的确还有内情。但此刻，我们最需要的是顺应身体的需求，好好休息。",
+      next = {56}
+    },
+    [56] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "我伸了个懒腰，调皮地冲李泽言眨眨眼。",
+      next = {57}
+    },
+    [57] = {
+      beijing = 4787,
+      dhead = 314,
+      dialog = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "好吧，那我操心一下晚饭吃什么好了。",
+      next = {58}
+    },
+    [58] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101108,
+      role3 = 101202,
+      ruchang = -1,
+      sentence = "李泽言目光微动，眼中浮现出一丝轻柔的笑意。",
+      next = {59}
+    },
+    [59] = {
+      beijing = 4787,
+      dialog = 2,
+      idx = 1,
+      male = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101108,
+      role3 = 101202,
+      sentence = "你想讹一顿我亲自下厨的庆功宴？",
+      voice = 1,
+      next = {60}
+    },
+    [60] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101109,
+      role3 = 101204,
+      roleanim = 1.1,
+      sentence = "我连忙摇头，捧住他的脸，认真地看着他的眼睛。",
+      next = {61}
+    },
+    [61] = {
+      beijing = 4787,
+      dhead = 310,
+      dialog = 1,
+      music = "1030_2024anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101108,
+      role3 = 101202,
+      roleanim = 1.1,
+      sentence = "才不是，你这三天没睡几个小时，睡觉才是第一位！",
+      next = {62}
+    },
+    [62] = {
+      beijing = 4787,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      role1 = 1202000,
+      role2 = 101107,
+      role3 = 101202,
+      roleanim = 1.1,
+      ruchang = 9,
+      sentence = "他微微一怔，随后无声地叹了口气，抬手揉了揉我的发顶。",
+      next = {63}
+    },
+    [63] = {
+      beijing = 3881,
+      bganim = 0,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "夜色静谧，窗外的巴黎依旧灯火璀璨，狂欢节的余韵仍未散去。",
+      next = {64}
+    },
+    [64] = {
+      beijing = 3881,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "可此刻，这些都与我们无关。",
+      next = {65}
+    },
+    [65] = {
+      beijing = 3881,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "我们在温暖的被窝里相拥而眠，几天的疲惫终于在彼此的温度中慢慢消散。",
+      next = {66}
+    },
+    [66] = {
+      beijing = 3881,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "睡意蒙眬‌间，似乎有钢琴声传入耳畔，温柔而悠扬。",
+      next = {67}
+    },
+    [67] = {
+      beijing = 3881,
+      dialog = 3,
+      music = "1030_2024anniversary_pv",
+      renwu = "npc",
+      sentence = "也或许，只是春天太温柔了吧。",
+      next = {0}
+    }
+  },
   [410264] = {
     [1] = {
       beijing = 1722,
@@ -12698,7 +13383,7 @@ story136 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "我去往恋语市最大的唱片店，准备完成购买唱片的任务。",
+      sentence = "Later that afternoon, I made my way to the largest record store in Loveland City, checking off another item on my mental list.",
       next = {2}
     },
     [2] = {
@@ -12706,7 +13391,7 @@ story136 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "唱片店内一如既往的安静，舒缓的曲调柔声播放着，迎接着每一个到来的客人。",
+      sentence = "The shop was quiet as ever. Gentle music drifted through the space, wrapping around each visitor like a soft welcome.",
       next = {3}
     },
     [3] = {
@@ -12716,7 +13401,7 @@ story136 = {
       music = "04_Normal",
       renming = "$u",
       renwu = "npc",
-      sentence = "你好，我想要这几位演奏家新出的唱片。",
+      sentence = "Hi, could I get the newest albums from these musicians?",
       next = {4}
     },
     [4] = {
@@ -12724,7 +13409,7 @@ story136 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "我坐在店里的唱片机前，听着试听盘的演奏，音调并不似以往悱恻缠绵，而是带着淡淡的思念。",
+      sentence = "I sat down at one of the listening stations and let the sample tracks play. The melodies were different from what I remembered—less intense, less entwined—but threaded with a restrained sense of longing.",
       next = {5}
     },
     [5] = {
@@ -12732,7 +13417,7 @@ story136 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "正好和我此刻的心境相衬。",
+      sentence = "It mirrored my own mood almost too perfectly.",
       next = {6}
     },
     [6] = {
@@ -12740,7 +13425,7 @@ story136 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "回到家后，我将新买的唱片按照不同类别，放到唱片柜中。",
+      sentence = "Back home, I sorted the new records into the cabinet, grouping them carefully by genre.",
       next = {7}
     },
     [7] = {
@@ -12748,7 +13433,7 @@ story136 = {
       dialog = 3,
       music = "04_Normal",
       renwu = "npc",
-      sentence = "今天比昨天更想念他一点点了。",
+      sentence = "Today, I missed him a little more than yesterday.",
       next = {0}
     }
   },

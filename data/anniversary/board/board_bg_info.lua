@@ -176,6 +176,30 @@ data = {
     is_dynamic = 2,
     unlock_time = "2025/1/8 5:00:00"
   },
+  [1020] = {
+    bg_sequence = 20,
+    role_id = 1,
+    bg_name = "[Victor] Courtyard",
+    bg_get = "Unlockable for a limited time during the 7th Anniversary event.",
+    bg_desc = "Unlocked from the [Where Love Blossoms] Event",
+    condition_id = 814,
+    bg_res = 6035,
+    bg_icon = 6020,
+    is_dynamic = 1,
+    unlock_time = "2026/3/10 5:00:00"
+  },
+  [1021] = {
+    bg_sequence = 21,
+    role_id = 1,
+    bg_name = "[Victor] Luxurious Cruise Ship",
+    bg_get = "Obtained after\\nVictor's 2026 Birthday Plot",
+    bg_desc = "[2026 Birthday] Corner of Happiness",
+    condition_id = 827,
+    bg_res = 6063,
+    bg_icon = 6063,
+    is_dynamic = 2,
+    unlock_time = "2026/1/8 5:00:00"
+  },
   [2001] = {
     bg_sequence = 3,
     role_id = 2,
@@ -350,6 +374,31 @@ data = {
     bg_icon = 4849,
     is_dynamic = 1,
     unlock_time = "2025/3/18  5:00:00"
+  },
+  [2020] = {
+    bg_sequence = 20,
+    role_id = 2,
+    bg_name = "[Lucien] Autumn Castle",
+    bg_get = "Obtained after\\nLucien's 2025 Birthday Plot",
+    bg_desc = "[2025 Birthday] Golden Ratio",
+    condition_id = 811,
+    bg_res = 6016,
+    bg_icon = 6016,
+    is_dynamic = 2,
+    new_type = 1,
+    unlock_time = "2025/11/10  05:00:00"
+  },
+  [2021] = {
+    bg_sequence = 21,
+    role_id = 2,
+    bg_name = "[Lucien] Balcony",
+    bg_get = "Unlockable for a limited time during the 7th Anniversary event.",
+    bg_desc = "Unlocked from the [Where Love Blossoms] Event",
+    condition_id = 815,
+    bg_res = 6036,
+    bg_icon = 6021,
+    is_dynamic = 1,
+    unlock_time = "2026/3/10 5:00:00"
   },
   [3001] = {
     bg_sequence = 3,
@@ -529,6 +578,18 @@ data = {
     is_dynamic = 2,
     unlock_time = "2025/4/5 5:00:00"
   },
+  [3020] = {
+    bg_sequence = 20,
+    role_id = 3,
+    bg_name = "[Kiro] Patio",
+    bg_get = "Unlockable for a limited time during the 7th Anniversary event.",
+    bg_desc = "Unlocked from the [Where Love Blossoms] Event",
+    condition_id = 816,
+    bg_res = 6037,
+    bg_icon = 6022,
+    is_dynamic = 1,
+    unlock_time = "2026/3/10 5:00:00"
+  },
   [4001] = {
     bg_sequence = 3,
     role_id = 4,
@@ -705,6 +766,18 @@ data = {
     bg_icon = 4959,
     is_dynamic = 2,
     unlock_time = "2025/7/24 5:00:00"
+  },
+  [4020] = {
+    bg_sequence = 20,
+    role_id = 4,
+    bg_name = "[Gavin] Rooftop",
+    bg_get = "Unlockable for a limited time during the 7th Anniversary event.",
+    bg_desc = "Unlocked from the [Where Love Blossoms] Event",
+    condition_id = 817,
+    bg_res = 6038,
+    bg_icon = 6023,
+    is_dynamic = 1,
+    unlock_time = "2026/3/10 5:00:00"
   },
   [5001] = {
     bg_sequence = 2,
@@ -1445,6 +1518,17 @@ data = {
     bg_icon = 4142,
     unlock_time = "2025/7/1 5:00:00"
   },
+  [5087] = {
+    bg_sequence = 182,
+    role_id = 5,
+    bg_name = "[General] Wave Chaser",
+    bg_get = "Unlockable for a limited time at the [Fragrant Sunshine].",
+    bg_desc = "Unlockable at the [Fragrant Sunshine].",
+    condition_id = 5087,
+    bg_res = 4502,
+    bg_icon = 4502,
+    unlock_time = "2025/9/1 5:00"
+  },
   [5101] = {
     bg_sequence = 196,
     role_id = 5,
@@ -1488,6 +1572,40 @@ data = {
     bg_res = 4893,
     bg_icon = 4893,
     unlock_time = "2024/12/23 5:00:00"
+  },
+  [5105] = {
+    bg_sequence = 200,
+    role_id = 5,
+    bg_name = "[General] Coffee Break",
+    bg_get = "Unlockable for a limited time during the [Fragrant Sunshine] event.",
+    bg_desc = "Obtained from the [Fragrant Sunshine] event.",
+    condition_id = 5087,
+    bg_res = 3021,
+    bg_icon = 3021,
+    unlock_time = "2026/1/1 5:00"
+  },
+  [5106] = {
+    bg_sequence = 201,
+    role_id = 5,
+    bg_name = "[General] Retro Private Room",
+    bg_get = "Unlockable for a limited time at the [Fragrant Sunshine].",
+    bg_desc = "Unlocks at the [Fragrant Sunshine].",
+    condition_id = 5106,
+    bg_res = 3181,
+    bg_icon = 3181,
+    unlock_time = "2025/11/1 5:00:00"
+  },
+  [5127] = {
+    bg_sequence = 221,
+    role_id = 5,
+    bg_name = "[General] Original Sin",
+    bg_get = "Unlockable for a limited time during the [Original Sin] event.",
+    bg_desc = "Unlocks at the [Original Sin].",
+    condition_id = 846,
+    bg_res = 6115,
+    bg_icon = 6115,
+    is_dynamic = 1,
+    unlock_time = "2025/9/25 5:00:00"
   },
   [8001] = {
     bg_sequence = 3,
@@ -1603,5 +1721,17 @@ data = {
     bg_icon = 4956,
     is_dynamic = 2,
     unlock_time = "2025/06/16 05:00:00"
+  },
+  [8013] = {
+    bg_sequence = 13,
+    role_id = 8,
+    bg_name = "[Shaw] Studio",
+    bg_get = "Unlockable for a limited time during the 7th Anniversary event.",
+    bg_desc = "Unlocked from the [Where Love Blossoms] Event",
+    condition_id = 818,
+    bg_res = 6039,
+    bg_icon = 6024,
+    is_dynamic = 1,
+    unlock_time = "2026/3/10 5:00:00"
   }
 }

@@ -266,6 +266,24 @@ data = {
     unlock_taskline = 10212,
     audio = "place_106_door_open.mp3"
   },
+  [130] = {
+    place_name = "Union Plaza",
+    place_img = "map_place_0",
+    place_desc = "Here, you can find escape rooms, haunted houses, and even an indoor amusement park.",
+    place_coordinates = "582,464",
+    stage_coordinates = "582,464",
+    unlock_taskline = 10212,
+    audio = "Subway_Noisy_Crowd.mp3"
+  },
+  [131] = {
+    place_name = "Harborlight General Hospital",
+    place_img = "map_place_0",
+    place_desc = "A private hospital that's rumored to possess the most cutting-edge medical technology.",
+    place_coordinates = "-861,250",
+    stage_coordinates = "-861,250",
+    unlock_taskline = 10212,
+    audio = "Subway_Noisy_Crowd.mp3"
+  },
   [201] = {
     place_name = "The Woods",
     place_img = "map_place_0",

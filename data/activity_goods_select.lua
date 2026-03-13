@@ -473,5 +473,23 @@ data = {
       config_id = 7504301,
       unlock_condition = "2177201,49,72"
     }
+  },
+  [75045] = {
+    [1] = {
+      config_id = 7504501,
+      unlock_condition = "2178001,49,72"
+    },
+    [2] = {
+      config_id = 7504502,
+      unlock_condition = "2178001,49,144"
+    },
+    [3] = {
+      config_id = 7504503,
+      unlock_condition = "2178001,49,216"
+    },
+    [4] = {
+      config_id = 7504504,
+      unlock_condition = "2178001,49,288"
+    }
   }
 }

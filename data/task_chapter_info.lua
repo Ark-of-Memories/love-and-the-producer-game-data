@@ -1198,55 +1198,55 @@ data = {
   [3159] = {
     chapter_type = 3,
     first_task_id = 315901,
-    chapter_title = "狂欢夜",
+    chapter_title = "Carnival Night",
     hard_task_hide = 1,
     chapter_task_unlock_coin = 1,
-    chapter_desc = "尊敬的各位玩家，欢迎来到午夜的游戏场。",
+    chapter_desc = "Players, welcome to this midnight arena.",
     chapter_img = 3159
   },
   [3160] = {
     chapter_type = 3,
     first_task_id = 316001,
-    chapter_title = "尘嚣日",
+    chapter_title = "Day of Turmoil",
     hard_task_hide = 1,
     chapter_task_unlock_coin = 1,
-    chapter_desc = "狂欢落幕，所有喧嚣都隐匿于白日之中。",
+    chapter_desc = "As the revelry fades, the clamor dissolves into daylight.",
     chapter_img = 3160
   },
   [3161] = {
     chapter_type = 3,
     first_task_id = 316101,
-    chapter_title = "群像戏",
+    chapter_title = "Ensemble Cast",
     hard_task_hide = 1,
     chapter_task_unlock_coin = 1,
-    chapter_desc = "如果世上没有阳光，那就成为太阳。",
+    chapter_desc = "If the world were devoid of sunlight, then I'd become the sun itself.",
     chapter_img = 3161
   },
   [3162] = {
     chapter_type = 3,
     first_task_id = 316201,
-    chapter_title = "无间界",
+    chapter_title = "Beyond the Boundaries",
     hard_task_hide = 1,
     chapter_task_unlock_coin = 1,
-    chapter_desc = "风永远会一往无前，回到栖身之所。",
+    chapter_desc = "The wind will always find the place it calls home.",
     chapter_img = 3162
   },
   [3163] = {
     chapter_type = 3,
     first_task_id = 316301,
-    chapter_title = "新生时",
+    chapter_title = "Grand Rebirth",
     hard_task_hide = 1,
     chapter_task_unlock_coin = 1,
-    chapter_desc = "他为世界留下的种子，名为希望。",
+    chapter_desc = "The seeds he scattered across the world bore a single name—hope.",
     chapter_img = 3163
   },
   [3164] = {
     chapter_type = 3,
     first_task_id = 316401,
-    chapter_title = "往溯路",
+    chapter_title = "Path of Reminiscence",
     hard_task_hide = 1,
     chapter_task_unlock_coin = 1,
-    chapter_desc = "他跨越过万重岁月，向你奔来。",
+    chapter_desc = "He journeyed across time and eternity, all to reach you.",
     chapter_img = 3164
   },
   [3165] = {

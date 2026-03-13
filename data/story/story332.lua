@@ -1458,6 +1458,1099 @@ story332 = {
       next = {0}
     }
   },
+  [126706] = {
+    [1] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "不知怎么，我总感觉它十分熟悉，一种怀念的温暖从心口向全身蔓延。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "然后我下意识四下张望着，试图寻找那个熟悉的身影……",
+      next = {3}
+    },
+    [3] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "但下一秒，我微微一怔。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "为什么我会去找这样的身影……",
+      next = {5}
+    },
+    [5] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "我努力回想，却发现大脑一片空白，好像有什么重要的事情被我遗忘了。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "那个身影是谁？我……又是谁？",
+      next = {7}
+    },
+    [7] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "一种莫名的不安涌上心头，我放下了画笔，朝那群写生的人走去。",
+      next = {8}
+    },
+    [8] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "然而，越往前走，我的脚步就越迟疑。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "那群人的面孔像是蒙在迷雾之中，不论我怎么靠近都看不清楚。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "他们的动作仿佛工厂里被统一设定好的程序般，以相同的频率和幅度，机械地在画纸上涂抹。",
+      next = {11}
+    },
+    [11] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "一种微妙的、近乎直觉的异样感笼罩在我心间——在这里的人不应该是他们。",
+      next = {12}
+    },
+    [12] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "心中冒出这个想法的同时，一股说不清的酸楚在喉间蔓延。",
+      next = {13}
+    },
+    [13] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "我缩回脚，没想到一转身，一个女孩不知何时出现在我面前。",
+      next = {14}
+    },
+    [14] = {
+      beijing = 1923,
+      dialog = 2,
+      idx = 5,
+      music = "14_Celesta_Solo",
+      renming = "女孩",
+      renwu = "npc",
+      sentence = "你来啦！你喜欢这里吗？",
+      next = {15}
+    },
+    [15] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "她语气熟稔，笑嘻嘻地看着我，眼中充满了某种莫名的期待。",
+      next = {16}
+    },
+    [16] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "但我却觉得她的笑容像是经过精心计算的机器，带着令人反感的虚假，让我只想远离这里。",
+      next = {17}
+    },
+    [17] = {
+      beijing = 1923,
+      dhead = 305,
+      dialog = 1,
+      music = "14_Celesta_Solo",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "抱歉，我想回家了。",
+      next = {18}
+    },
+    [18] = {
+      beijing = 1923,
+      dialog = 2,
+      idx = 5,
+      music = "14_Celesta_Solo",
+      renming = "女孩",
+      renwu = "npc",
+      sentence = "这不是你喜欢的地方吗？",
+      next = {19}
+    },
+    [19] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "我的大脑仿佛被什么刺了一下，一种被窥探的不适感油然而生。",
+      next = {20}
+    },
+    [20] = {
+      beijing = 1923,
+      dialog = 2,
+      idx = 5,
+      music = "14_Celesta_Solo",
+      renming = "女孩",
+      renwu = "npc",
+      sentence = "我特意为你准备了香樟树、画板、还有一起画画的朋友。",
+      next = {21}
+    },
+    [21] = {
+      beijing = 1923,
+      dialog = 2,
+      idx = 5,
+      music = "14_Celesta_Solo",
+      renming = "女孩",
+      renwu = "npc",
+      sentence = "留下来吧，永远待在这里，永远都会幸福快乐哦。",
+      next = {22}
+    },
+    [22] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "周围的空气似乎变得沉重，窸窸窣窣的声音在空气中回荡。",
+      next = {23}
+    },
+    [23] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "那些模糊的人影站在女孩身后，无数双眼睛正盯着我，无数声音正在附和她。",
+      next = {24}
+    },
+    [24] = {
+      beijing = 1923,
+      dialog = 2,
+      idx = 5,
+      music = "14_Celesta_Solo",
+      renming = "人影",
+      renwu = "npc",
+      sentence = "留下来吧。",
+      next = {25}
+    },
+    [25] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "我的意识渐渐变得昏沉，不自觉地重复着他们的话。",
+      next = {26}
+    },
+    [26] = {
+      beijing = 1923,
+      dhead = 308,
+      dialog = 1,
+      music = "14_Celesta_Solo",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "留下来……",
+      next = {27}
+    },
+    [27] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "“哗哗”——",
+      next = {28}
+    },
+    [28] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "翠绿色的叶片在风中沙沙作响，一片叶子从枝头落下，打着旋在空中飞舞着，最终飘到我的面前。",
+      next = {29}
+    },
+    [29] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "我下意识地将它捧在手心，冰凉的叶片刺激着我昏沉的意识，清新的草木气息勾起了我的回忆。",
+      next = {30}
+    },
+    [30] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "那个印在心中的影子，在一片氤氲中逐渐清晰。",
+      next = {31}
+    },
+    [31] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "没错，在那棵香樟树下，在许多个春夏秋冬里，他一直在我的身边。",
+      next = {32}
+    },
+    [32] = {
+      beijing = 1923,
+      dialog = 3,
+      music = "14_Celesta_Solo",
+      renwu = "npc",
+      sentence = "无数纷乱冗杂的声音中，那个无比熟悉的名字破口而出——",
+      next = {33}
+    },
+    [33] = {
+      beijing = 1923,
+      dhead = 310,
+      dialog = 1,
+      music = "14_Celesta_Solo",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "许墨！",
+      next = {34}
+    },
+    [34] = {
+      beijing = 1921,
+      bganim = 1,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "瞬间，那片记忆被染上了颜色。",
+      next = {35}
+    },
+    [35] = {
+      beijing = 1921,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "我们在树下头挨着头，糖果色的千纸鹤写满了希望的约定。",
+      next = {36}
+    },
+    [36] = {
+      beijing = 1921,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "繁茂的香樟树充满生机，他轻轻将我拥入怀中，平安结的丝线紧紧缠绕我们的指尖。 ",
+      next = {37}
+    },
+    [37] = {
+      beijing = 1921,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "我的心脏剧烈跳动起来，被染上颜色的记忆瞬间生根发芽，顺着密密麻麻的脉络恣意生长。",
+      sfx = "Dia_Heart_Beating",
+      next = {38}
+    },
+    [38] = {
+      beijing = 1921,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "一缕阳光刺破乌云，露出一片晴空。",
+      next = {39}
+    },
+    [39] = {
+      beijing = 1921,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "熟悉的力量瞬间自我的胸口涌动爆发，绵绵不绝地传达至掌心。",
+      next = {40}
+    },
+    [40] = {
+      beijing = 1921,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "脑海中浮现出许墨望着远方的身影，夕阳的光在他的发丝间染出一道光晕，在记忆中如此炫目。",
+      next = {41}
+    },
+    [41] = {
+      beijing = 1921,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "只有他是真实的，我要回到他身边去。",
+      next = {42}
+    },
+    [42] = {
+      beijing = 1921,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "眼前的如幻梦一般的画面像是被什么东西狠狠搓揉一般，开始发皱，扭曲。",
+      next = {43}
+    },
+    [43] = {
+      beijing = 1921,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "我定定地看着面前这个逐渐消散的小女孩，一字一顿。",
+      next = {44}
+    },
+    [44] = {
+      beijing = 1921,
+      dhead = 319,
+      dialog = 1,
+      music = "06_Love",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "滚出这个世界。",
+      next = {45}
+    },
+    [45] = {
+      beijing = 1921,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "小女孩蓦地笑了，笑容宛如阳光般真诚灿烂。",
+      next = {46}
+    },
+    [46] = {
+      beijing = 1921,
+      dialog = 2,
+      idx = 5,
+      music = "06_Love",
+      renming = "小女孩",
+      renwu = "npc",
+      sentence = "没关系，我们新世界再见。",
+      next = {47}
+    },
+    [47] = {
+      beijing = 6096,
+      bganim = 0,
+      dialog = 3,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "我睁开眼，天花板上的白炽灯安静地散发着冷光，银白色的仪器发出滴滴的声响。",
+      next = {48}
+    },
+    [48] = {
+      beijing = 6096,
+      dhead = 305,
+      dialog = 1,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "……我出来了？",
+      next = {49}
+    },
+    [49] = {
+      beijing = 6096,
+      dialog = 3,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "我揉了揉太阳穴，努力驱散不断上涌的晕眩感。",
+      next = {50}
+    },
+    [50] = {
+      beijing = 6096,
+      dhead = 311,
+      dialog = 1,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "许墨……？",
+      next = {51}
+    },
+    [51] = {
+      beijing = 6096,
+      dialog = 3,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "没有回应，四周一片寂静。",
+      next = {52}
+    },
+    [52] = {
+      beijing = 6096,
+      dialog = 3,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "掖好的被角从身上滑落，房间里空无一人。我提高声音呼唤了几声，但始终无人应答。",
+      next = {53}
+    },
+    [53] = {
+      beijing = 6096,
+      dialog = 3,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "许墨去哪了？",
+      next = {54}
+    },
+    [54] = {
+      beijing = 6096,
+      dialog = 3,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "手机静静地躺在枕边，我打开通话界面，却发现网络一栏显示着“无信号”。",
+      next = {55}
+    },
+    [55] = {
+      beijing = 6096,
+      dialog = 3,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "迟疑片刻后，我拿起手机离开了诊疗室，打算去找许墨。",
+      next = {56}
+    },
+    [56] = {
+      beijing = 2070,
+      bganim = 0,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "夜晚的实验楼一片漆黑，喧嚣的风雨将树林吹得东倒西歪，影影幢幢地映在墙壁上。",
+      next = {57}
+    },
+    [57] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "我搓了搓发凉的指甲，摸索着向大门走去。一路上除了雨点拍打玻璃的闷声，只能听到自己的呼吸和心跳。",
+      next = {58}
+    },
+    [58] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "走了许久，我再一次点亮手机，看着依然显示“无信号”的网络焦躁起来。",
+      next = {59}
+    },
+    [59] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "总不会这是一个梦中梦一样的幻境吧？",
+      next = {60}
+    },
+    [60] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "我咬住下唇，用了一下CORE的力量，然而面前依旧细雨淋漓。",
+      next = {61}
+    },
+    [61] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "这是现实。可现实里的许墨呢？",
+      next = {62}
+    },
+    [62] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "头晕得厉害，我勉强扶着墙拐过一个转角，忽然间，远处闪烁的红灯透过窗户闯入我的视线。",
+      next = {63}
+    },
+    [63] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "我定了定神，仔细朝那个方向看去，一辆黑色的轿车停靠在雨幕之中，车旁还站着一个熟悉的黑色身影。 ",
+      next = {64}
+    },
+    [64] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "是许墨！",
+      next = {65}
+    },
+    [65] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "他似乎正在跟车内的人交谈，表情因雨水有些看不真切，在闪烁的车灯下显得明灭不定。",
+      next = {66}
+    },
+    [66] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "我加快脚步，想快点走到他身边。",
+      next = {67}
+    },
+    [67] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "然而，强烈的眩晕感不断撕扯着我的神经。",
+      next = {68}
+    },
+    [68] = {
+      beijing = 2070,
+      dialog = 3,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "当我走到大门边时，天旋地转的感觉让我几乎无法站稳，只能缓缓靠着墙坐下。",
+      next = {69}
+    },
+    [69] = {
+      beijing = 2070,
+      dialog = 3,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "头好晕，好困……",
+      next = {70}
+    },
+    [70] = {
+      beijing = 2070,
+      dialog = 3,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "一道拔高的声音盖过了淅淅沥沥的雨声，飘入我的耳朵。",
+      next = {71}
+    },
+    [71] = {
+      beijing = 2070,
+      dialog = 2,
+      idx = 5,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renming = "？？",
+      renwu = "npc",
+      sentence = "CORE本来就是我们的目标！",
+      next = {72}
+    },
+    [72] = {
+      beijing = 2070,
+      dialog = 3,
+      mask = "blackmask",
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "谁在说话？",
+      next = {73}
+    },
+    [73] = {
+      beijing = 0,
+      bganim = 0,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "我试图解析着这些字词的含义，但缺氧般的眩晕席卷了我的大脑，令我缓缓沉入意识的漂流地。",
+      next = {74}
+    },
+    [74] = {
+      beijing = 1114,
+      bganim = 0,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "十分钟前。",
+      next = {75}
+    },
+    [75] = {
+      beijing = 1114,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "许墨走出实验大楼，夜风轻拂着他的黑色外套，门口的灯光在他身后勾勒出模糊的轮廓。",
+      next = {76}
+    },
+    [76] = {
+      beijing = 1114,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "他步伐沉稳地走向停在路边的车，轻轻敲了三下车窗。",
+      next = {77}
+    },
+    [77] = {
+      beijing = 1114,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "09_Suspect",
+      renming = "许墨",
+      renwu = "npc",
+      role1 = 2202000,
+      role2 = 201106,
+      role3 = 201204,
+      role5 = 2202404,
+      ruchang = -1,
+      sentence = "陈部长这么晚找我，有什么事吗？",
+      voice = 1,
+      next = {78}
+    },
+    [78] = {
+      beijing = 1114,
+      dialog = 3,
+      idx = 2,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "车窗内是一张板正中透着慌乱的面容。",
+      next = {79}
+    },
+    [79] = {
+      beijing = 1114,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "陈漠的眉头紧锁，额头的汗珠闪烁着微弱的光，和他平时的沉稳大相径庭。",
+      next = {80}
+    },
+    [80] = {
+      beijing = 1114,
+      dialog = 2,
+      idx = 5,
+      music = "09_Suspect",
+      renming = "陈漠",
+      renwu = "npc",
+      sentence = "特遣署的人开始怀疑我了，应该会在短期内对“陈漠”动手。但是我无法脱离它，更换到下个身体。 ",
+      next = {81}
+    },
+    [81] = {
+      beijing = 1114,
+      dialog = 2,
+      idx = 5,
+      music = "09_Suspect",
+      renming = "陈漠",
+      renwu = "npc",
+      sentence = "不仅如此，我手下的“人”也断联了。 ",
+      next = {82}
+    },
+    [82] = {
+      beijing = 1114,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "09_Suspect",
+      renming = "许墨",
+      renwu = "npc",
+      role1 = 2202000,
+      role2 = 201106,
+      role3 = 201204,
+      role5 = 2202404,
+      sentence = "是吗？",
+      voice = 1,
+      next = {83}
+    },
+    [83] = {
+      beijing = 1114,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "09_Suspect",
+      renming = "许墨",
+      renwu = "npc",
+      role1 = 2202000,
+      role2 = 201106,
+      role3 = 201204,
+      role5 = 2202404,
+      sentence = "或许是因为这场暴雨，社区内的通信网络暂时中断了吧。",
+      voice = 1,
+      next = {84}
+    },
+    [84] = {
+      beijing = 1114,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "清冷的声音没有一丝意外，仿佛对这一切并不在意，但陈漠没有察觉，语速又快又急。",
+      next = {85}
+    },
+    [85] = {
+      beijing = 1114,
+      dialog = 2,
+      idx = 5,
+      music = "09_Suspect",
+      renming = "陈漠",
+      renwu = "npc",
+      sentence = "这不重要，我现在只需要你帮我联系那个人。",
+      next = {86}
+    },
+    [86] = {
+      beijing = 1114,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "许墨平静地注视着他，狭长的眼眸里毫无波澜，只有疏离和淡漠。车灯照在他脸上，隐隐透露出一抹赤色。 ",
+      next = {87}
+    },
+    [87] = {
+      beijing = 1114,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "电光火石间，陈漠脸色苍白下来，眼中闪过一丝恐慌。",
+      next = {88}
+    },
+    [88] = {
+      beijing = 1114,
+      dialog = 2,
+      idx = 5,
+      music = "09_Suspect",
+      renming = "陈漠",
+      renwu = "npc",
+      sentence = "……是你？什么时候？",
+      next = {89}
+    },
+    [89] = {
+      beijing = 1114,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "冷汗顺着陈漠的额头滑落，他的眼球急速转动，仿佛试图在纷乱的记忆中找寻线索。",
+      next = {90}
+    },
+    [90] = {
+      beijing = 1114,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "09_Suspect",
+      renming = "许墨",
+      renwu = "npc",
+      role1 = 2202000,
+      role2 = 201106,
+      role3 = 201204,
+      role5 = 2202404,
+      ruchang = 9,
+      sentence = "准确来说，是你的选择导致的。",
+      voice = 1,
+      next = {91}
+    },
+    [91] = {
+      beijing = 1114,
+      dialog = 3,
+      music = "09_Suspect",
+      renwu = "npc",
+      sentence = "他像是明白了许墨话语中的意义，睁大了眼睛，变调的嗓音也提高了一些。",
+      next = {92}
+    },
+    [92] = {
+      beijing = 1114,
+      dialog = 2,
+      idx = 5,
+      music = "09_Suspect",
+      renming = "陈漠",
+      renwu = "npc",
+      sentence = "在电影院放激化音波是最合理的选择。",
+      next = {93}
+    },
+    [93] = {
+      beijing = 1114,
+      dialog = 2,
+      idx = 5,
+      music = "pause",
+      renming = "陈漠",
+      renwu = "npc",
+      sentence = "而且你应该和我们是一边的，你在做什么？",
+      next = {94}
+    },
+    [94] = {
+      beijing = 52940,
+      bganim = 0,
+      card_cg_anim = "CG_126706_94_16",
+      dialog = 3,
+      music = "1035_host",
+      renwu = "npc",
+      sentence = "许墨微微弯起嘴角，然而那笑容冰冷得没有一丝温度，让人心底升起深切的寒意。",
+      next = {95}
+    },
+    [95] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "1035_host",
+      renming = "许墨",
+      renwu = "npc",
+      sentence = "当然是做正确的事。",
+      voice = 1,
+      next = {96}
+    },
+    [96] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 5,
+      music = "1035_host",
+      renming = "陈漠",
+      renwu = "npc",
+      sentence = "我们难道不是一直在做正确的事？",
+      next = {97}
+    },
+    [97] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 5,
+      music = "1035_host",
+      renming = "陈漠",
+      renwu = "npc",
+      sentence = "CORE本来就是我们的目标——",
+      next = {98}
+    },
+    [98] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "1035_host",
+      renwu = "npc",
+      sentence = "砰——许墨的手砸在车窗上，沉重的闷响打断了陈漠的辩解。",
+      sfx = "Drum_Low",
+      next = {99}
+    },
+    [99] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "1035_host",
+      renwu = "npc",
+      sentence = "他弯下腰靠近车窗，身后闪烁的红光映在他的脸上，彰显出一种令人生畏的危险。",
+      next = {100}
+    },
+    [100] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "1035_host",
+      renming = "许墨",
+      renwu = "npc",
+      sentence = "不好意思，我从没听说过这个“本来”。",
+      voice = 1,
+      next = {101}
+    },
+    [101] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "1035_host",
+      renwu = "npc",
+      sentence = "他的手指捋过车窗上的水痕，淡淡地对司机下令。",
+      next = {102}
+    },
+    [102] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "1035_host",
+      renming = "许墨",
+      renwu = "npc",
+      sentence = "送他去特遣署。",
+      voice = 1,
+      next = {103}
+    },
+    [103] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "1035_host",
+      renwu = "npc",
+      sentence = "陈漠脸色一变，立刻对着司机厉声开口。",
+      next = {104}
+    },
+    [104] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 5,
+      music = "1035_host",
+      renming = "陈漠",
+      renwu = "npc",
+      sentence = "不许开车，停下——",
+      next = {105}
+    },
+    [105] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "1035_host",
+      renwu = "npc",
+      sentence = "但司机只机械地服从着许墨的指令，踩下油门。",
+      next = {106}
+    },
+    [106] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "1035_host",
+      renwu = "npc",
+      sentence = "挣扎间，他的余光瞥到了窗外的许墨——他站在那里，唇角带一丝冰冷、却又嘲弄的笑意。",
+      next = {107}
+    },
+    [107] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "1035_host",
+      renwu = "npc",
+      sentence = "瞬间，陈漠明白了什么，不可置信地睁大了眼睛。",
+      next = {108}
+    },
+    [108] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 5,
+      music = "1035_host",
+      renming = "陈漠",
+      renwu = "npc",
+      sentence = "你为什么可以控制——？！",
+      next = {109}
+    },
+    [109] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "1035_host",
+      renming = "许墨",
+      renwu = "npc",
+      sentence = "与你无关。",
+      voice = 1,
+      next = {110}
+    },
+    [110] = {
+      beijing = 52940,
+      card_cg_anim = "none",
+      dialog = 3,
+      music = "1035_host",
+      renwu = "npc",
+      sentence = "车子的发动机缓缓启动，引擎的声音渐渐被喧闹的雨声掩盖。",
+      next = {111}
+    },
+    [111] = {
+      beijing = 2070,
+      bganim = 0,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "空旷的走廊中传来不急不缓的脚步声。",
+      next = {112}
+    },
+    [112] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "许墨走进实验楼，轻轻拂去衣服上的雨水，瞥了一眼手机上的时钟。",
+      next = {113}
+    },
+    [113] = {
+      beijing = 2070,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "06_Love",
+      renming = "许墨",
+      renwu = "npc",
+      role1 = 2202000,
+      role2 = 201106,
+      role3 = 201204,
+      role5 = 2202404,
+      ruchang = -1,
+      sentence = "减去换衣服的时间……应该来得及。",
+      voice = 1,
+      next = {114}
+    },
+    [114] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "他盘算着接下来的行动，然而刚走向电梯脚步便顿住了。 ",
+      next = {115}
+    },
+    [115] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "女孩倚靠在墙边，正陷入沉睡。",
+      next = {116}
+    },
+    [116] = {
+      beijing = 2070,
+      dialog = 3,
+      music = "06_Love",
+      renwu = "npc",
+      sentence = "许墨脸上划过一丝意外，本能地弯腰将她打横抱起，声音轻得仿佛要走进她的梦里。",
+      next = {117}
+    },
+    [117] = {
+      beijing = 2070,
+      dialog = 2,
+      idx = 2,
+      male = 2,
+      music = "06_Love",
+      renming = "许墨",
+      renwu = "npc",
+      role1 = 2202000,
+      role2 = 201104,
+      role3 = 201201,
+      role5 = 2202404,
+      ruchang = 9,
+      sentence = "我该拿你怎么办才好。",
+      voice = 1,
+      next = {0}
+    }
+  },
   [410123] = {
     [1] = {
       beijing = 1283,
@@ -5526,6 +6619,624 @@ story332 = {
       music = "07_Romantic",
       renwu = "npc",
       sentence = "The trolley had arrived at the next stop.",
+      next = {0}
+    }
+  },
+  [431354] = {
+    [1] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      sentence = "逃离了天台演唱会的“小插曲”，我和周棋洛拉着手在暮色落下的街道上闲晃。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 3170,
+      dhead = 112,
+      dialog = 1,
+      music = "19_Daily02",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "刚刚再晚点走，我们今天肯定就会被堵在那家店里了！",
+      next = {3}
+    },
+    [3] = {
+      beijing = 3170,
+      dhead = 113,
+      dialog = 1,
+      music = "19_Daily02",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "知道你很厉害，不过还是没想到，你随手演出效果都会这么轰动，啪——",
+      next = {4}
+    },
+    [4] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      sentence = "我伸出手模仿“爆炸”的效果比画着，此时身后突然传来人群急促的脚步声。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      sentence = "以为是刚刚在甜品屋聚集的人群追了上来，我下意识拉过周棋洛，将他抵在一个角落里搂住他的腰。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      sentence = "路边的大树遮蔽了我们相拥的身形，我甚至小心地掩住他的衣角。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "19_Daily02",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3134000,
+      role2 = 302101,
+      role3 = 302205,
+      ruchang = -1,
+      sentence = "不是朝我们来的啦。",
+      voice = 2,
+      next = {8}
+    },
+    [8] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      role1 = 3134000,
+      role2 = 302108,
+      role3 = 302205,
+      sentence = "躲藏的视野中，几拨人目不斜视地望着前方行去，确实并未有人朝着街边投来视线。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      role1 = 3134000,
+      role2 = 302101,
+      role3 = 302205,
+      sentence = "我红着脸抬起头，立刻就要撒手，被一股力量牢牢拽住。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "19_Daily02",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3134000,
+      role2 = 302101,
+      role3 = 302205,
+      sentence = "但这样子抱一会也不错。",
+      voice = 2,
+      next = {11}
+    },
+    [11] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "19_Daily02",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3134000,
+      role2 = 302101,
+      role3 = 302205,
+      ruchang = 9,
+      sentence = "我记得这条路上，现在这个时间点应该是有花车游行的队伍，大家应该都是奔着那边去的。",
+      voice = 2,
+      next = {12}
+    },
+    [12] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      sentence = "我从他的怀里探出脑袋，往尽头看去，细碎的花瓣竟然从那边飘了过来，上面还缀着金粉。",
+      next = {13}
+    },
+    [13] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      sentence = "丝带缀着气球浮上天空，街道上洋溢着新的一年的绵长喜悦的钟响。",
+      next = {14}
+    },
+    [14] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      sentence = "穿着红色羽绒服的女孩踩着积雪在街道上奔跑，不怕跌倒。",
+      next = {15}
+    },
+    [15] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      sentence = "互相搀扶的老夫妇，拐杖轻点着青色的砖路，稳重笃定。",
+      next = {16}
+    },
+    [16] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      sentence = "两个打扮靓丽的女孩穿着靴子，仰头追随着星光和鲜花。",
+      next = {17}
+    },
+    [17] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      sentence = "所有的脚步声汇聚在一起，“嘎吱”、“咯噔”、“啪嗒”恍若交响。",
+      next = {18}
+    },
+    [18] = {
+      beijing = 3170,
+      dhead = 107,
+      dialog = 1,
+      music = "19_Daily02",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "我感觉现在把声音都录进去，就是一首最好的新年颂歌。",
+      next = {19}
+    },
+    [19] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "19_Daily02",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3134000,
+      role2 = 302101,
+      role3 = 302205,
+      ruchang = -1,
+      sentence = "和我想的一样，不过……好像走得近一些音质效果会更好点。",
+      voice = 2,
+      next = {20}
+    },
+    [20] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      role1 = 3134000,
+      role2 = 302101,
+      role3 = 302205,
+      sentence = "我认真地甩了甩头，抬手指向对面的方向。",
+      next = {21}
+    },
+    [21] = {
+      beijing = 3170,
+      dhead = 114,
+      dialog = 1,
+      music = "19_Daily02",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 3134000,
+      role2 = 302101,
+      role3 = 302205,
+      ruchang = 9,
+      sentence = "还是先去集市那边吧！现在那边人少，而且也能看到花车路过，总归安全为上～",
+      next = {22}
+    },
+    [22] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "19_Daily02",
+      renwu = "npc",
+      sentence = "周棋洛摩挲着我与他相扣的手指，点了点头。",
+      next = {23}
+    },
+    [23] = {
+      beijing = 4145,
+      bganim = 0,
+      dialog = 3,
+      music = "303_ZQL",
+      renwu = "npc",
+      sentence = "集市里洋溢着节日气氛，摊位上摆着各种可爱的特色手工艺品，素日拥挤的地方现在颇为空旷。",
+      next = {24}
+    },
+    [24] = {
+      beijing = 4145,
+      dialog = 3,
+      music = "303_ZQL",
+      renwu = "npc",
+      sentence = "我瞄了一眼花车游行还没有过来，就心痒痒地选起了小礼品，目光顿时被一对黄色音符毛绒发夹吸引了。",
+      next = {25}
+    },
+    [25] = {
+      beijing = 4145,
+      dhead = 113,
+      dialog = 1,
+      music = "303_ZQL",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "周棋洛？",
+      next = {26}
+    },
+    [26] = {
+      beijing = 4145,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "303_ZQL",
+      renming = "周棋洛",
+      renwu = "npc",
+      sentence = "$u!",
+      voice = 2,
+      next = {27}
+    },
+    [27] = {
+      beijing = 4145,
+      dialog = 3,
+      music = "303_ZQL",
+      renwu = "npc",
+      sentence = "我们呼唤彼此的声音，同时传出。",
+      next = {28}
+    },
+    [28] = {
+      beijing = 4145,
+      dialog = 3,
+      music = "303_ZQL",
+      renwu = "npc",
+      sentence = "我的手里捏着小发夹，而他的手上捏着一对情侣的小熊发饰，温柔而俏皮。",
+      next = {29}
+    },
+    [29] = {
+      beijing = 43441,
+      bganim = 0,
+      dialog = 3,
+      music = "303_ZQL",
+      renwu = "npc",
+      sentence = "我翘着嘴角凑到他的身侧，任由他先为我戴上小白熊的发箍。",
+      next = {30}
+    },
+    [30] = {
+      beijing = 43441,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "303_ZQL",
+      renming = "周棋洛",
+      renwu = "npc",
+      sentence = "果然很适合薯片小姐。",
+      voice = 2,
+      next = {31}
+    },
+    [31] = {
+      beijing = 43441,
+      dhead = 114,
+      dialog = 1,
+      music = "303_ZQL",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "不对哦，现在的我，只是一头小白熊小姐。",
+      next = {32}
+    },
+    [32] = {
+      beijing = 43441,
+      dialog = 3,
+      music = "303_ZQL",
+      renwu = "npc",
+      sentence = "他看着我搞怪的样子，也弯着眼角配合起来。",
+      next = {33}
+    },
+    [33] = {
+      beijing = 43441,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "303_ZQL",
+      renming = "周棋洛",
+      renwu = "npc",
+      sentence = "那下次我们还是去森林就好啦。",
+      voice = 2,
+      next = {34}
+    },
+    [34] = {
+      beijing = 43441,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "303_ZQL",
+      renming = "周棋洛",
+      renwu = "npc",
+      sentence = "这样，我就当一头只唱歌给这位白熊小姐听的普通小熊。",
+      voice = 2,
+      next = {35}
+    },
+    [35] = {
+      beijing = 43441,
+      dhead = 110,
+      dialog = 1,
+      music = "303_ZQL",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "那要怎么唱？",
+      next = {36}
+    },
+    [36] = {
+      beijing = 43441,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "303_ZQL",
+      renming = "周棋洛",
+      renwu = "npc",
+      sentence = "咕噜咕噜，嗷呜呜呜～",
+      voice = 2,
+      next = {37}
+    },
+    [37] = {
+      beijing = 43441,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "303_ZQL",
+      renming = "周棋洛",
+      renwu = "npc",
+      sentence = "两只小熊在一起的话，世界就会变得没有冬天哦，因为我们彼此就是春天。",
+      voice = 2,
+      next = {38}
+    },
+    [38] = {
+      beijing = 43441,
+      dialog = 3,
+      music = "303_ZQL",
+      renwu = "npc",
+      sentence = "他认真地发出声音，我忍不住地笑了出来，身侧闲逸的灯光都仿佛因此变得更加明烁。",
+      next = {39}
+    },
+    [39] = {
+      beijing = 4145,
+      bganim = 0,
+      dialog = 3,
+      music = "303_ZQL",
+      renwu = "npc",
+      sentence = "人潮依然紧紧地簇拥着，空气里残留着冷烟花的淡淡硝味。",
+      next = {40}
+    },
+    [40] = {
+      beijing = 4145,
+      dialog = 3,
+      music = "303_ZQL",
+      renwu = "npc",
+      sentence = "花车里顶部站上了一位指挥家的背影，唱诗团空灵的祝祷也随之蔓延。",
+      next = {41}
+    },
+    [41] = {
+      beijing = 4145,
+      dialog = 3,
+      music = "pause",
+      renwu = "npc",
+      sentence = "周棋洛的目光仿佛发现了什么，手指抵唇，对着我比了一个“嘘”的手指。",
+      next = {42}
+    },
+    [42] = {
+      beijing = 3170,
+      bganim = 0,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      sentence = "他拉着我往道路中间的钢琴走去，将我圈在怀里，如同我方才在街角抵住他。",
+      next = {43}
+    },
+    [43] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "1013_2023anniversary_pv",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301106,
+      role3 = 301201,
+      ruchang = -1,
+      sentence = "我有一个小礼物，现在非常迫不及待地想要给你。",
+      voice = 2,
+      next = {44}
+    },
+    [44] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301106,
+      role3 = 301201,
+      sentence = "我疑惑地轻“嗯”了一下，只听见他温柔的声音和着祝祷的音乐熨来暖意。",
+      next = {45}
+    },
+    [45] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "1013_2023anniversary_pv",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301106,
+      role3 = 301201,
+      ruchang = 9,
+      sentence = "下午的歌我还没有唱完……还有后半曲。",
+      voice = 2,
+      next = {46}
+    },
+    [46] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      sentence = "我似乎若有所感，手指蛄蛹着要摸出录音设备。",
+      next = {47}
+    },
+    [47] = {
+      beijing = 3170,
+      dhead = 112,
+      dialog = 1,
+      music = "1013_2023anniversary_pv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "等一下，我要录下来，你的每一首歌我都要好好收藏，下午的已经错过了。",
+      next = {48}
+    },
+    [48] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      sentence = "他抵着我的后脖颈蹭了蹭，笑意温热。",
+      next = {49}
+    },
+    [49] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "1013_2023anniversary_pv",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301106,
+      role3 = 301201,
+      ruchang = -1,
+      sentence = "我希望阿薯现在只要用耳朵感受就好了，因为这首曲子会很长很长。",
+      voice = 2,
+      next = {50}
+    },
+    [50] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "1013_2023anniversary_pv",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301106,
+      role3 = 301201,
+      sentence = "只要听到了，就不会存在错过。",
+      voice = 2,
+      next = {51}
+    },
+    [51] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "1013_2023anniversary_pv",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301106,
+      role3 = 301201,
+      sentence = "于我而言，所有音乐都是情感的表达，而这些表达会在真实的环境里变得更加动人。",
+      voice = 2,
+      next = {52}
+    },
+    [52] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "1013_2023anniversary_pv",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301106,
+      role3 = 301201,
+      sentence = "所以我就很想，在此时此刻通通都传达给你。",
+      voice = 2,
+      next = {53}
+    },
+    [53] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301106,
+      role3 = 301201,
+      sentence = "夜色染透了我们头顶的星空，可所有的寒意似乎都被他隔绝在我的身周。",
+      next = {54}
+    },
+    [54] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "1013_2023anniversary_pv",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301106,
+      role3 = 301201,
+      sentence = "我想让你听见，你所带给我的全部快乐。",
+      voice = 2,
+      next = {55}
+    },
+    [55] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301102,
+      role3 = 301201,
+      sentence = "花车上送给众人的福音歌曲已经奏到了高潮，而我身后却正在传来“我们”的新年序音。",
+      next = {56}
+    },
+    [56] = {
+      beijing = 3170,
+      dialog = 2,
+      idx = 3,
+      male = 3,
+      music = "1013_2023anniversary_pv",
+      renming = "周棋洛",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301106,
+      role3 = 301201,
+      sentence = "这是只为你而作的，我此刻无所修饰的心声。",
+      voice = 2,
+      next = {57}
+    },
+    [57] = {
+      beijing = 3170,
+      dialog = 3,
+      music = "1013_2023anniversary_pv",
+      renwu = "npc",
+      role1 = 3133000,
+      role2 = 301102,
+      role3 = 301201,
+      ruchang = 9,
+      sentence = "说着，他落指按动了下一个音阶的黑白键。",
       next = {0}
     }
   },

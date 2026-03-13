@@ -1913,7 +1913,7 @@ data = {
     male_role_buff = 20
   },
   [240] = {
-    start_time = "2025/12/22 05:00:00",
+    start_time = "2025/12/22 5:00:00",
     end_time = "2025/12/29 05:00:00",
     theme_id = 108,
     male_role_id = 3,
@@ -1921,9 +1921,137 @@ data = {
     male_role_buff = 30
   },
   [241] = {
-    start_time = "2025/12/29 05:00:00",
+    start_time = "2025/12/29 5:00:00",
     end_time = "2026/1/5 05:00:00",
     theme_id = 109,
+    male_role_id = 4,
+    male_role_pop = 3,
+    male_role_buff = 10
+  },
+  [242] = {
+    start_time = "2026/1/5 5:00:00",
+    end_time = "2026/1/12 5:00:00",
+    theme_id = 104,
+    male_role_id = 1,
+    male_role_pop = 3,
+    male_role_buff = 10
+  },
+  [243] = {
+    start_time = "2026/1/12 5:00:00",
+    end_time = "2026/1/19 5:00:00",
+    theme_id = 105,
+    male_role_id = 2,
+    male_role_pop = 4,
+    male_role_buff = 20
+  },
+  [244] = {
+    start_time = "2026/1/19 5:00:00",
+    end_time = "2026/1/26 5:00:00",
+    theme_id = 106,
+    male_role_id = 3,
+    male_role_pop = 5,
+    male_role_buff = 30
+  },
+  [245] = {
+    start_time = "2026/1/26 5:00:00",
+    end_time = "2026/2/2 5:00:00",
+    theme_id = 107,
+    male_role_id = 4,
+    male_role_pop = 3,
+    male_role_buff = 10
+  },
+  [246] = {
+    start_time = "2026/2/2 5:00:00",
+    end_time = "2026/2/9 5:00:00",
+    theme_id = 108,
+    male_role_id = 1,
+    male_role_pop = 3,
+    male_role_buff = 10
+  },
+  [247] = {
+    start_time = "2026/2/9 5:00:00",
+    end_time = "2026/2/16 5:00:00",
+    theme_id = 109,
+    male_role_id = 2,
+    male_role_pop = 4,
+    male_role_buff = 20
+  },
+  [248] = {
+    start_time = "2026/2/16 5:00:00",
+    end_time = "2026/2/23 5:00:00",
+    theme_id = 104,
+    male_role_id = 3,
+    male_role_pop = 5,
+    male_role_buff = 30
+  },
+  [249] = {
+    start_time = "2026/2/23 5:00:00",
+    end_time = "2026/3/2 5:00:00",
+    theme_id = 105,
+    male_role_id = 4,
+    male_role_pop = 3,
+    male_role_buff = 10
+  },
+  [250] = {
+    start_time = "2026/3/2 5:00:00",
+    end_time = "2026/3/9 5:00:00",
+    theme_id = 106,
+    male_role_id = 1,
+    male_role_pop = 3,
+    male_role_buff = 10
+  },
+  [251] = {
+    start_time = "2026/3/9 5:00:00",
+    end_time = "2026/3/16 5:00:00",
+    theme_id = 107,
+    male_role_id = 2,
+    male_role_pop = 4,
+    male_role_buff = 20
+  },
+  [252] = {
+    start_time = "2026/3/16 5:00:00",
+    end_time = "2026/3/23 5:00:00",
+    theme_id = 108,
+    male_role_id = 3,
+    male_role_pop = 5,
+    male_role_buff = 30
+  },
+  [253] = {
+    start_time = "2026/3/23 5:00:00",
+    end_time = "2026/3/30 5:00:00",
+    theme_id = 109,
+    male_role_id = 4,
+    male_role_pop = 3,
+    male_role_buff = 10
+  },
+  [254] = {
+    start_time = "2026/3/30 5:00:00",
+    end_time = "2026/4/6 5:00:00",
+    theme_id = 110,
+    male_role_id = 1,
+    male_role_pop = 3,
+    male_role_buff = 10
+  },
+  [255] = {
+    start_time = "2026/4/6 5:00:00",
+    end_time = "2026/4/13 5:00:00",
+    theme_id = 101,
+    male_role_id = 2,
+    male_role_pop = 4,
+    male_role_buff = 20
+  },
+  [256] = {
+    start_time = "2026/4/13 5:00:00",
+    end_time = "2026/4/20 5:00:00",
+    theme_id = 102,
+    male_role_id = 3,
+    male_role_pop = 5,
+    male_role_buff = 30
+  },
+  [257] = {
+    start_time = "2026/4/20 5:00:00",
+    end_time = "2026/4/27 5:00:00",
+    theme_id = 103,
     male_role_id = 4,
     male_role_pop = 3,
     male_role_buff = 10

@@ -307,124 +307,124 @@ data = {
     text_time = 3150
   },
   [140792000] = {
-    content = "今天早晨就要启程了，还有什么想去的地方吗？",
+    content = "We're heading out this morning. Anywhere else you still wanna check out before we go?",
     text_time = 3150
   },
   [140792110] = {
-    title = "听说还有云上雪景！",
-    content = "刚刚我听说这里还能看到云上雪景！就是不知道时间来不来得及。",
+    title = "See the snow above the clouds!",
+    content = "I heard there's a place where you can see the snow above the clouds! Not sure if we've got time though...",
     text_time = 4350
   },
   [140792111] = {
-    content = "当然来得及，因为云上雪景的最佳观测点就在天上。",
+    content = "Of course, we do. Because the best place to see it is above the clouds.",
     text_time = 3450
   },
   [140792112] = {
-    content = "等我们坐上返程的飞机就能看到了。",
+    content = "Once we're on the flight back, we'll be able to see it from the plane.",
     text_time = 2400
   },
   [140792120] = {
-    title = "有什么推荐的吗？",
-    content = "嗯……一下子好像想不到什么特别的，白警官有什么推荐吗？",
+    title = "Got any place that you recommend?",
+    content = "Hmm... can't think of anything off the top of my head. Got any recommendations?",
     text_time = 4050
   },
   [140792121] = {
-    content = "这么说的确有一个值得推荐的景观。",
+    content = "Actually yeah, there's one thing I'd recommend.",
     text_time = 2400
   },
   [140792122] = {
-    content = "等航班飞过小镇上空的时候，我们能看到一片“云上雪景”。",
+    content = "When the plane flies over the town, we'll get a perfect view of the snow above the clouds.",
     text_time = 4050
   },
   [140792130] = {
-    title = "很关心家里的大床。",
-    content = "如果可以的话，我想现在立马飞回家里的大床上！",
+    title = "I miss my bed.",
+    content = "If I could, I'd fly straight back to my bed right now!",
     text_time = 3300
   },
   [140792131] = {
-    content = "说的也是，出来这么久我也有点想回去了。",
+    content = "Can't blame you. I'm starting to miss home, too.",
     text_time = 2850
   },
   [140792132] = {
-    content = "正好，我们可以把“云上雪景”当作最后一站。",
+    content = "Tell you what, we'll go see that \"snow above the clouds\" as our last stop.",
     text_time = 3150
   },
   [140792210] = {
-    title = "需不需要做什么准备",
-    content = "那岂不是待会就能看到了吗？需不需要做什么特别准备？",
+    title = "Do we need to prep anything?",
+    content = "Doesn't that mean we'll see it very soon? Do we need to prep anything?",
     text_time = 3750
   },
   [140792211] = {
-    content = "除了准时登上飞机，不需要什么特别的准备。",
+    content = "Just be on time for the flight.",
     text_time = 3000
   },
   [140792212] = {
-    content = "到了观景点，我会喊你。",
+    content = "I'll let you know when we're at the best viewing spot.",
     text_time = 1650
   },
   [140792220] = {
-    title = "已经迫不及待了~",
-    content = "太好了~那我待会要多带点好吃的，好风景搭配美食才会更开心嘛~",
+    title = "I can't wait!",
+    content = "Awesome! Then I'm bringing some snacks! Gotta pair good views with good food!",
     text_time = 4500
   },
   [140792221] = {
-    content = "那我也帮你拿点，分摊些重量。",
+    content = "I'll help you carry some.",
     text_time = 2100
   },
   [140792222] = {
-    content = "教官给了我们些特色零食，刚好可以一起吃。",
+    content = "The instructor gave us a few local snacks—perfect to share on the plane.",
     text_time = 3000
   },
   [140792230] = {
-    title = "相机忘充电了！",
-    content = "！！我刚刚才发现我的相机忘了充电，待会恐怕拍不了照片了。",
+    title = "I forgot to charge my camera!",
+    content = "Ugh!! Just realized I forgot to charge my camera... Guess no photos for me.",
     text_time = 4200
   },
   [140792231] = {
-    content = "别担心，我也带了部相机。",
+    content = "No need to worry. I brought mine.",
     text_time = 1800
   },
   [140792232] = {
-    content = "待会的拍摄工作交给我就可以。",
+    content = "I've got the picture duty covered.",
     text_time = 2100
   },
   [140792310] = {
-    title = "看来我们的运气不错",
-    content = "这么想想我们来的时候只看到了夜景，如果不是返程安排在白天就要错过了。",
+    title = "Looks like we're in luck.",
+    content = "We only saw the town at night when we got here. If we weren't flying back during the day, we'd totally miss that view.",
     text_time = 5100
   },
   [140792311] = {
-    content = "对我来说也是一样。",
+    content = "It's all the same to me.",
     text_time = 1350
   },
   [140792312] = {
-    content = "如果真的错过了风景，我就带着你再回来看一遍。",
+    content = "If we did miss it, I'll just bring you back to see it again next time.",
     text_time = 3300
   },
   [140792320] = {
-    title = "你还有什么想做的事嘛",
-    content = "那在回家之前，白队还有什么想做的事嘛？",
+    title = "Is there anything else you wanna do?",
+    content = "Before we head home, is there anything else you still wanna do?",
     text_time = 2850
   },
   [140792321] = {
-    content = "要说的话的确有一件。",
+    content = "Actually... There is one thing.",
     text_time = 1500
   },
   [140792322] = {
-    content = "这次假期太短，回家后我想把它再延长一段时间。",
+    content = "This break felt way too short. I'm thinking about stretching it out a little once we're back.",
     text_time = 3300
   },
   [140792330] = {
-    title = "那让我们享受返程吧",
-    content = "感觉我们的返程之旅肯定会很有意思~",
+    title = "Let's enjoy the trip back.",
+    content = "I can already tell... this trip home's gonna be something special.",
     text_time = 2550
   },
   [140792331] = {
-    content = "其实这次训练过程中还发生了不少有意思的事。",
+    content = "A lot of interesting stuff happened during my training, too.",
     text_time = 3150
   },
   [140792332] = {
-    content = "正好趁这个机会，我可以全部都说给你听。",
+    content = "Might as well use this time to share all the funny stories with you.",
     text_time = 2850
   },
   [140793000] = {

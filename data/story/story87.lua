@@ -8305,6 +8305,53 @@ story87 = {
       voice = 1,
       next = {0}
     }
+  },
+  [839216] = {
+    [1] = {
+      beijing = 2133,
+      dialog = 2,
+      idx = 5,
+      music = "10_Happy_Family",
+      renming = "厨师",
+      renwu = "npc",
+      sentence = "$u小姐，你要求的餐点准备好了，这样可以吗？",
+      next = {2}
+    },
+    [2] = {
+      beijing = 2133,
+      dialog = 3,
+      music = "10_Happy_Family",
+      renwu = "npc",
+      sentence = "我看着排放在托盘上的精致菜肴，满意地点点头。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 2133,
+      dhead = 114,
+      dialog = 1,
+      music = "10_Happy_Family",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "可以可以~",
+      next = {4}
+    },
+    [4] = {
+      beijing = 2133,
+      dialog = 3,
+      music = "10_Happy_Family",
+      renwu = "npc",
+      sentence = "我拍下餐盘，雀跃地给李泽言发去。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 2133,
+      dialog = 3,
+      game_params = 2130,
+      game_type = "Textmessage",
+      music = "10_Happy_Family",
+      renwu = "npc",
+      next = {0}
+    }
   }
 }
 return story87

@@ -8554,9 +8554,9 @@ story21 = {
       dialog = 2,
       idx = 5,
       music = "60_Beaytiful_Daily",
-      renming = "快递员",
+      renming = "Delivery Guy",
       renwu = "npc",
-      sentence = "你好，快递请签收一下。",
+      sentence = "Got a package for you—just sign here.",
       next = {2}
     },
     [2] = {
@@ -8566,7 +8566,7 @@ story21 = {
       music = "60_Beaytiful_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "好的，谢谢。",
+      sentence = "Alright, thanks.",
       next = {3}
     },
     [3] = {
@@ -8574,7 +8574,7 @@ story21 = {
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "我小心地划开外面包裹的纸箱，一个精巧的丝质盒子展现在眼前——",
+      sentence = "I carefully cut through the tape on the shipping box. Inside was a lovely silk-lined case, and nestled within it...",
       next = {4}
     },
     [4] = {
@@ -8582,7 +8582,7 @@ story21 = {
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "里面是为周棋洛专门定制的演出服，足足花了3个月的工期。",
+      sentence = "...was the custom-tailored stage outfit for Kiro, the result of three full months of work.",
       next = {5}
     },
     [5] = {
@@ -8590,7 +8590,7 @@ story21 = {
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "周棋洛亲自设计了这件衣服，制作上则是找了有名的手工匠人，第一次合作却十分默契。",
+      sentence = "Kiro had sketched the design himself, and a master tailor transformed those lines into reality. Their collaboration was seamless from the start.",
       next = {6}
     },
     [6] = {
@@ -8600,7 +8600,7 @@ story21 = {
       music = "60_Beaytiful_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "看起来比预想的还要好呢。",
+      sentence = "Wow... It's even more stunning than the sketches.",
       next = {7}
     },
     [7] = {
@@ -8608,7 +8608,7 @@ story21 = {
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "他特别挑选的金属丝线暗藏玄机，在舞台灯光下才能显露出真正的魅力。",
+      sentence = "The special metallic thread he chose would only reveal its shimmer under performance lighting.",
       next = {8}
     },
     [8] = {
@@ -8618,7 +8618,7 @@ story21 = {
       music = "60_Beaytiful_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "等周棋洛回来亲眼见到，一定会很开心的~",
+      sentence = "He's going to love it. I can't wait to see his face when he does.",
       next = {9}
     },
     [9] = {
@@ -8626,7 +8626,7 @@ story21 = {
       dialog = 3,
       music = "60_Beaytiful_Daily",
       renwu = "npc",
-      sentence = "希望下次演唱会快点到来，这样就能早点看见他穿演出服的样子了。",
+      sentence = "I found myself hoping his next concert would come quickly—just to see him step into the spotlight wearing this.",
       next = {0}
     }
   },

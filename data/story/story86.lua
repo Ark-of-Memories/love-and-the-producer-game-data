@@ -11887,6 +11887,70 @@ story86 = {
       voice = 1,
       next = {0}
     }
+  },
+  [839215] = {
+    [1] = {
+      beijing = 4804,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "细小的尘屑在漫进窗户的阳光下闪闪发光，我揉着眼睛从床上坐起，留意到餐桌上有一抹蓝紫色。",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4804,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "走上前去，竟是一簇用细麻绳捆好的蓝堇野花。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4804,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "叮咚一声，手机屏幕也弹出来一条邮件提示。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4804,
+      dialog = 3,
+      game_params = 1915,
+      game_type = "Tinymail",
+      music = "04_Normal",
+      renwu = "npc",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4804,
+      dialog = 3,
+      music = "04_Normal",
+      renwu = "npc",
+      sentence = "内心仿佛也有什么正在盛开，漾出一阵细密的甜意。我捧起花束，用嘴唇轻触花瓣。",
+      next = {6}
+    },
+    [6] = {
+      beijing = 4804,
+      dhead = 107,
+      dialog = 1,
+      music = "04_Normal",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "至于给送花人的回礼，就等他回来再补上吧~",
+      next = {0}
+    }
+  },
+  [840900] = {
+    [0] = {
+      beijing = 0,
+      dialog = 6,
+      hide_magnifier = 1,
+      music = "pause",
+      renwu = "npc",
+      video = "zql6_pv_2025",
+      next = {0}
+    }
   }
 }
 return story86

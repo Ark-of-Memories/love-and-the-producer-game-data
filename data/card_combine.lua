@@ -1165,6 +1165,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [810136] = {
+    card_id1 = 71010,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [810137] = {
     card_id1 = 71010,
     card_id2 = 71370,
@@ -1180,6 +1186,18 @@ data = {
   [810140] = {
     card_id1 = 71010,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810142] = {
+    card_id1 = 71010,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810144] = {
+    card_id1 = 71010,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -1351,6 +1369,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [810236] = {
+    card_id1 = 71020,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [810237] = {
     card_id1 = 71020,
     card_id2 = 71370,
@@ -1366,6 +1390,18 @@ data = {
   [810240] = {
     card_id1 = 71020,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810242] = {
+    card_id1 = 71020,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810244] = {
+    card_id1 = 71020,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -1531,6 +1567,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [810336] = {
+    card_id1 = 71030,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [810337] = {
     card_id1 = 71030,
     card_id2 = 71370,
@@ -1546,6 +1588,18 @@ data = {
   [810340] = {
     card_id1 = 71030,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810342] = {
+    card_id1 = 71030,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810344] = {
+    card_id1 = 71030,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -1705,6 +1759,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [810436] = {
+    card_id1 = 71040,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [810437] = {
     card_id1 = 71040,
     card_id2 = 71370,
@@ -1720,6 +1780,18 @@ data = {
   [810440] = {
     card_id1 = 71040,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810442] = {
+    card_id1 = 71040,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810444] = {
+    card_id1 = 71040,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -1873,6 +1945,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [810536] = {
+    card_id1 = 71050,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [810537] = {
     card_id1 = 71050,
     card_id2 = 71370,
@@ -1888,6 +1966,18 @@ data = {
   [810540] = {
     card_id1 = 71050,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810542] = {
+    card_id1 = 71050,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810544] = {
+    card_id1 = 71050,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -2035,6 +2125,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [810636] = {
+    card_id1 = 71060,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [810637] = {
     card_id1 = 71060,
     card_id2 = 71370,
@@ -2050,6 +2146,18 @@ data = {
   [810640] = {
     card_id1 = 71060,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810642] = {
+    card_id1 = 71060,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810644] = {
+    card_id1 = 71060,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -2191,6 +2299,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [810736] = {
+    card_id1 = 71070,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [810737] = {
     card_id1 = 71070,
     card_id2 = 71370,
@@ -2206,6 +2320,18 @@ data = {
   [810740] = {
     card_id1 = 71070,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810742] = {
+    card_id1 = 71070,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810744] = {
+    card_id1 = 71070,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -2341,6 +2467,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [810836] = {
+    card_id1 = 71080,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [810837] = {
     card_id1 = 71080,
     card_id2 = 71370,
@@ -2356,6 +2488,18 @@ data = {
   [810840] = {
     card_id1 = 71080,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810842] = {
+    card_id1 = 71080,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810844] = {
+    card_id1 = 71080,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -2485,6 +2629,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [810936] = {
+    card_id1 = 71090,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [810937] = {
     card_id1 = 71090,
     card_id2 = 71370,
@@ -2500,6 +2650,18 @@ data = {
   [810940] = {
     card_id1 = 71090,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810942] = {
+    card_id1 = 71090,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [810944] = {
+    card_id1 = 71090,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -2623,6 +2785,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [811036] = {
+    card_id1 = 71100,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [811037] = {
     card_id1 = 71100,
     card_id2 = 71370,
@@ -2638,6 +2806,18 @@ data = {
   [811040] = {
     card_id1 = 71100,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811042] = {
+    card_id1 = 71100,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811044] = {
+    card_id1 = 71100,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -2755,6 +2935,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [811136] = {
+    card_id1 = 71110,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [811137] = {
     card_id1 = 71110,
     card_id2 = 71370,
@@ -2770,6 +2956,18 @@ data = {
   [811140] = {
     card_id1 = 71110,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811142] = {
+    card_id1 = 71110,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811144] = {
+    card_id1 = 71110,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -2881,6 +3079,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [811236] = {
+    card_id1 = 71120,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [811237] = {
     card_id1 = 71120,
     card_id2 = 71370,
@@ -2896,6 +3100,18 @@ data = {
   [811240] = {
     card_id1 = 71120,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811242] = {
+    card_id1 = 71120,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811244] = {
+    card_id1 = 71120,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3001,6 +3217,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [811336] = {
+    card_id1 = 71130,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [811337] = {
     card_id1 = 71130,
     card_id2 = 71370,
@@ -3016,6 +3238,18 @@ data = {
   [811340] = {
     card_id1 = 71130,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811342] = {
+    card_id1 = 71130,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811344] = {
+    card_id1 = 71130,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3115,6 +3349,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [811436] = {
+    card_id1 = 71140,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [811437] = {
     card_id1 = 71140,
     card_id2 = 71370,
@@ -3130,6 +3370,18 @@ data = {
   [811440] = {
     card_id1 = 71140,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811442] = {
+    card_id1 = 71140,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811444] = {
+    card_id1 = 71140,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3223,6 +3475,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [811536] = {
+    card_id1 = 71150,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [811537] = {
     card_id1 = 71150,
     card_id2 = 71370,
@@ -3238,6 +3496,18 @@ data = {
   [811540] = {
     card_id1 = 71150,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811542] = {
+    card_id1 = 71150,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811544] = {
+    card_id1 = 71150,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3325,6 +3595,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [811636] = {
+    card_id1 = 71160,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [811637] = {
     card_id1 = 71160,
     card_id2 = 71370,
@@ -3340,6 +3616,18 @@ data = {
   [811640] = {
     card_id1 = 71160,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811642] = {
+    card_id1 = 71160,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811644] = {
+    card_id1 = 71160,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3421,6 +3709,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [811736] = {
+    card_id1 = 71170,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [811737] = {
     card_id1 = 71170,
     card_id2 = 71370,
@@ -3436,6 +3730,18 @@ data = {
   [811740] = {
     card_id1 = 71170,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811742] = {
+    card_id1 = 71170,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811744] = {
+    card_id1 = 71170,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3511,6 +3817,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [811836] = {
+    card_id1 = 71180,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [811837] = {
     card_id1 = 71180,
     card_id2 = 71370,
@@ -3526,6 +3838,18 @@ data = {
   [811840] = {
     card_id1 = 71180,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811842] = {
+    card_id1 = 71180,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811844] = {
+    card_id1 = 71180,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3595,6 +3919,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [811936] = {
+    card_id1 = 71190,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [811937] = {
     card_id1 = 71190,
     card_id2 = 71370,
@@ -3610,6 +3940,18 @@ data = {
   [811940] = {
     card_id1 = 71190,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811942] = {
+    card_id1 = 71190,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [811944] = {
+    card_id1 = 71190,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3673,6 +4015,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [812036] = {
+    card_id1 = 71200,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [812037] = {
     card_id1 = 71200,
     card_id2 = 71370,
@@ -3688,6 +4036,18 @@ data = {
   [812040] = {
     card_id1 = 71200,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812042] = {
+    card_id1 = 71200,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812044] = {
+    card_id1 = 71200,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3745,6 +4105,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [812136] = {
+    card_id1 = 71210,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [812137] = {
     card_id1 = 71210,
     card_id2 = 71370,
@@ -3760,6 +4126,18 @@ data = {
   [812140] = {
     card_id1 = 71210,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812142] = {
+    card_id1 = 71210,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812144] = {
+    card_id1 = 71210,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3811,6 +4189,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [812236] = {
+    card_id1 = 71220,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [812237] = {
     card_id1 = 71220,
     card_id2 = 71370,
@@ -3826,6 +4210,18 @@ data = {
   [812240] = {
     card_id1 = 71220,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812242] = {
+    card_id1 = 71220,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812244] = {
+    card_id1 = 71220,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3871,6 +4267,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [812336] = {
+    card_id1 = 71230,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [812337] = {
     card_id1 = 71230,
     card_id2 = 71370,
@@ -3886,6 +4288,18 @@ data = {
   [812340] = {
     card_id1 = 71230,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812342] = {
+    card_id1 = 71230,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812344] = {
+    card_id1 = 71230,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3925,6 +4339,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [812536] = {
+    card_id1 = 71250,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [812537] = {
     card_id1 = 71250,
     card_id2 = 71370,
@@ -3940,6 +4360,18 @@ data = {
   [812540] = {
     card_id1 = 71250,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812542] = {
+    card_id1 = 71250,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812544] = {
+    card_id1 = 71250,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -3973,6 +4405,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [812636] = {
+    card_id1 = 71260,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [812637] = {
     card_id1 = 71260,
     card_id2 = 71370,
@@ -3988,6 +4426,18 @@ data = {
   [812640] = {
     card_id1 = 71260,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812642] = {
+    card_id1 = 71260,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812644] = {
+    card_id1 = 71260,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -4015,6 +4465,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [812736] = {
+    card_id1 = 71270,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [812737] = {
     card_id1 = 71270,
     card_id2 = 71370,
@@ -4030,6 +4486,18 @@ data = {
   [812740] = {
     card_id1 = 71270,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812742] = {
+    card_id1 = 71270,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812744] = {
+    card_id1 = 71270,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -4051,6 +4519,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [812936] = {
+    card_id1 = 71290,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [812937] = {
     card_id1 = 71290,
     card_id2 = 71370,
@@ -4069,6 +4543,18 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [812942] = {
+    card_id1 = 71290,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [812944] = {
+    card_id1 = 71290,
+    card_id2 = 71440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [813132] = {
     card_id1 = 71310,
     card_id2 = 71320,
@@ -4078,6 +4564,12 @@ data = {
   [813133] = {
     card_id1 = 71310,
     card_id2 = 71330,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813136] = {
+    card_id1 = 71310,
+    card_id2 = 71360,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -4099,9 +4591,27 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [813142] = {
+    card_id1 = 71310,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813144] = {
+    card_id1 = 71310,
+    card_id2 = 71440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [813233] = {
     card_id1 = 71320,
     card_id2 = 71330,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813236] = {
+    card_id1 = 71320,
+    card_id2 = 71360,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -4123,6 +4633,24 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [813242] = {
+    card_id1 = 71320,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813244] = {
+    card_id1 = 71320,
+    card_id2 = 71440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813336] = {
+    card_id1 = 71330,
+    card_id2 = 71360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [813337] = {
     card_id1 = 71330,
     card_id2 = 71370,
@@ -4141,6 +4669,48 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [813342] = {
+    card_id1 = 71330,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813344] = {
+    card_id1 = 71330,
+    card_id2 = 71440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813637] = {
+    card_id1 = 71360,
+    card_id2 = 71370,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813638] = {
+    card_id1 = 71360,
+    card_id2 = 71380,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813640] = {
+    card_id1 = 71360,
+    card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813642] = {
+    card_id1 = 71360,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813644] = {
+    card_id1 = 71360,
+    card_id2 = 71440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [813738] = {
     card_id1 = 71370,
     card_id2 = 71380,
@@ -4153,9 +4723,51 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [813742] = {
+    card_id1 = 71370,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813744] = {
+    card_id1 = 71370,
+    card_id2 = 71440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [813840] = {
     card_id1 = 71380,
     card_id2 = 71400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813842] = {
+    card_id1 = 71380,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [813844] = {
+    card_id1 = 71380,
+    card_id2 = 71440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [814042] = {
+    card_id1 = 71400,
+    card_id2 = 71420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [814044] = {
+    card_id1 = 71400,
+    card_id2 = 71440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [814244] = {
+    card_id1 = 71420,
+    card_id2 = 71440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -4327,6 +4939,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820134] = {
+    card_id1 = 72010,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820135] = {
     card_id1 = 72010,
     card_id2 = 72350,
@@ -4339,9 +4957,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820139] = {
+    card_id1 = 72010,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820140] = {
     card_id1 = 72010,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [820143] = {
+    card_id1 = 72010,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -4507,6 +5137,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820234] = {
+    card_id1 = 72020,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820235] = {
     card_id1 = 72020,
     card_id2 = 72350,
@@ -4519,9 +5155,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820239] = {
+    card_id1 = 72020,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820240] = {
     card_id1 = 72020,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [820243] = {
+    card_id1 = 72020,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -4681,6 +5329,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820334] = {
+    card_id1 = 72030,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820335] = {
     card_id1 = 72030,
     card_id2 = 72350,
@@ -4693,9 +5347,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820339] = {
+    card_id1 = 72030,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820340] = {
     card_id1 = 72030,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [820343] = {
+    card_id1 = 72030,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -4849,6 +5515,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820434] = {
+    card_id1 = 72040,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820435] = {
     card_id1 = 72040,
     card_id2 = 72350,
@@ -4861,9 +5533,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820439] = {
+    card_id1 = 72040,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820440] = {
     card_id1 = 72040,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [820443] = {
+    card_id1 = 72040,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -5011,6 +5695,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820534] = {
+    card_id1 = 72050,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820535] = {
     card_id1 = 72050,
     card_id2 = 72350,
@@ -5023,9 +5713,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820539] = {
+    card_id1 = 72050,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820540] = {
     card_id1 = 72050,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [820543] = {
+    card_id1 = 72050,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -5167,6 +5869,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820634] = {
+    card_id1 = 72060,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820635] = {
     card_id1 = 72060,
     card_id2 = 72350,
@@ -5179,9 +5887,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820639] = {
+    card_id1 = 72060,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820640] = {
     card_id1 = 72060,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [820643] = {
+    card_id1 = 72060,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -5317,6 +6037,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820734] = {
+    card_id1 = 72070,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820735] = {
     card_id1 = 72070,
     card_id2 = 72350,
@@ -5329,9 +6055,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820739] = {
+    card_id1 = 72070,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820740] = {
     card_id1 = 72070,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [820743] = {
+    card_id1 = 72070,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -5461,6 +6199,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820834] = {
+    card_id1 = 72080,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820835] = {
     card_id1 = 72080,
     card_id2 = 72350,
@@ -5473,9 +6217,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820839] = {
+    card_id1 = 72080,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820840] = {
     card_id1 = 72080,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [820843] = {
+    card_id1 = 72080,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -5599,6 +6355,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820934] = {
+    card_id1 = 72090,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820935] = {
     card_id1 = 72090,
     card_id2 = 72350,
@@ -5611,9 +6373,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [820939] = {
+    card_id1 = 72090,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [820940] = {
     card_id1 = 72090,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [820943] = {
+    card_id1 = 72090,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -5731,6 +6505,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821034] = {
+    card_id1 = 72100,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821035] = {
     card_id1 = 72100,
     card_id2 = 72350,
@@ -5743,9 +6523,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821039] = {
+    card_id1 = 72100,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821040] = {
     card_id1 = 72100,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [821043] = {
+    card_id1 = 72100,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -5857,6 +6649,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821134] = {
+    card_id1 = 72110,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821135] = {
     card_id1 = 72110,
     card_id2 = 72350,
@@ -5869,9 +6667,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821139] = {
+    card_id1 = 72110,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821140] = {
     card_id1 = 72110,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [821143] = {
+    card_id1 = 72110,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -5977,6 +6787,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821234] = {
+    card_id1 = 72120,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821235] = {
     card_id1 = 72120,
     card_id2 = 72350,
@@ -5989,9 +6805,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821239] = {
+    card_id1 = 72120,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821240] = {
     card_id1 = 72120,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [821243] = {
+    card_id1 = 72120,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6091,6 +6919,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821334] = {
+    card_id1 = 72130,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821335] = {
     card_id1 = 72130,
     card_id2 = 72350,
@@ -6103,9 +6937,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821339] = {
+    card_id1 = 72130,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821340] = {
     card_id1 = 72130,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [821343] = {
+    card_id1 = 72130,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6199,6 +7045,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821434] = {
+    card_id1 = 72140,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821435] = {
     card_id1 = 72140,
     card_id2 = 72350,
@@ -6211,9 +7063,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821439] = {
+    card_id1 = 72140,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821440] = {
     card_id1 = 72140,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [821443] = {
+    card_id1 = 72140,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6301,6 +7165,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821534] = {
+    card_id1 = 72150,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821535] = {
     card_id1 = 72150,
     card_id2 = 72350,
@@ -6313,9 +7183,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821539] = {
+    card_id1 = 72150,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821540] = {
     card_id1 = 72150,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [821543] = {
+    card_id1 = 72150,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6397,6 +7279,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821634] = {
+    card_id1 = 72160,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821635] = {
     card_id1 = 72160,
     card_id2 = 72350,
@@ -6409,9 +7297,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821639] = {
+    card_id1 = 72160,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821640] = {
     card_id1 = 72160,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [821643] = {
+    card_id1 = 72160,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6487,6 +7387,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821734] = {
+    card_id1 = 72170,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821735] = {
     card_id1 = 72170,
     card_id2 = 72350,
@@ -6499,9 +7405,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821739] = {
+    card_id1 = 72170,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821740] = {
     card_id1 = 72170,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [821743] = {
+    card_id1 = 72170,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6571,6 +7489,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821834] = {
+    card_id1 = 72180,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821835] = {
     card_id1 = 72180,
     card_id2 = 72350,
@@ -6583,9 +7507,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821839] = {
+    card_id1 = 72180,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821840] = {
     card_id1 = 72180,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [821843] = {
+    card_id1 = 72180,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6649,6 +7585,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821934] = {
+    card_id1 = 72190,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821935] = {
     card_id1 = 72190,
     card_id2 = 72350,
@@ -6661,9 +7603,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [821939] = {
+    card_id1 = 72190,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [821940] = {
     card_id1 = 72190,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [821943] = {
+    card_id1 = 72190,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6721,6 +7675,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822034] = {
+    card_id1 = 72200,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822035] = {
     card_id1 = 72200,
     card_id2 = 72350,
@@ -6733,9 +7693,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822039] = {
+    card_id1 = 72200,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822040] = {
     card_id1 = 72200,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [822043] = {
+    card_id1 = 72200,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6787,6 +7759,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822134] = {
+    card_id1 = 72210,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822135] = {
     card_id1 = 72210,
     card_id2 = 72350,
@@ -6799,9 +7777,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822139] = {
+    card_id1 = 72210,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822140] = {
     card_id1 = 72210,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [822143] = {
+    card_id1 = 72210,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6847,6 +7837,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822234] = {
+    card_id1 = 72220,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822235] = {
     card_id1 = 72220,
     card_id2 = 72350,
@@ -6859,9 +7855,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822239] = {
+    card_id1 = 72220,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822240] = {
     card_id1 = 72220,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [822243] = {
+    card_id1 = 72220,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6901,6 +7909,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822434] = {
+    card_id1 = 72240,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822435] = {
     card_id1 = 72240,
     card_id2 = 72350,
@@ -6913,9 +7927,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822439] = {
+    card_id1 = 72240,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822440] = {
     card_id1 = 72240,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [822443] = {
+    card_id1 = 72240,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6949,6 +7975,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822534] = {
+    card_id1 = 72250,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822535] = {
     card_id1 = 72250,
     card_id2 = 72350,
@@ -6961,9 +7993,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822539] = {
+    card_id1 = 72250,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822540] = {
     card_id1 = 72250,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [822543] = {
+    card_id1 = 72250,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -6991,6 +8035,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822634] = {
+    card_id1 = 72260,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822635] = {
     card_id1 = 72260,
     card_id2 = 72350,
@@ -7003,9 +8053,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822639] = {
+    card_id1 = 72260,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822640] = {
     card_id1 = 72260,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [822643] = {
+    card_id1 = 72260,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -7027,6 +8089,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822734] = {
+    card_id1 = 72270,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822735] = {
     card_id1 = 72270,
     card_id2 = 72350,
@@ -7039,9 +8107,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822739] = {
+    card_id1 = 72270,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822740] = {
     card_id1 = 72270,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [822743] = {
+    card_id1 = 72270,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -7057,6 +8137,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822934] = {
+    card_id1 = 72290,
+    card_id2 = 72340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822935] = {
     card_id1 = 72290,
     card_id2 = 72350,
@@ -7069,15 +8155,33 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822939] = {
+    card_id1 = 72290,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [822940] = {
     card_id1 = 72290,
     card_id2 = 72400,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [822943] = {
+    card_id1 = 72290,
+    card_id2 = 72430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [823133] = {
     card_id1 = 72310,
     card_id2 = 72330,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823134] = {
+    card_id1 = 72310,
+    card_id2 = 72340,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -7093,9 +8197,27 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [823139] = {
+    card_id1 = 72310,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [823140] = {
     card_id1 = 72310,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823143] = {
+    card_id1 = 72310,
+    card_id2 = 72430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823334] = {
+    card_id1 = 72330,
+    card_id2 = 72340,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -7111,9 +8233,51 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [823339] = {
+    card_id1 = 72330,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [823340] = {
     card_id1 = 72330,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823343] = {
+    card_id1 = 72330,
+    card_id2 = 72430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823435] = {
+    card_id1 = 72340,
+    card_id2 = 72350,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823437] = {
+    card_id1 = 72340,
+    card_id2 = 72370,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823439] = {
+    card_id1 = 72340,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823440] = {
+    card_id1 = 72340,
+    card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823443] = {
+    card_id1 = 72340,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -7123,15 +8287,57 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [823539] = {
+    card_id1 = 72350,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [823540] = {
     card_id1 = 72350,
     card_id2 = 72400,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [823543] = {
+    card_id1 = 72350,
+    card_id2 = 72430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823739] = {
+    card_id1 = 72370,
+    card_id2 = 72390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [823740] = {
     card_id1 = 72370,
     card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823743] = {
+    card_id1 = 72370,
+    card_id2 = 72430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823940] = {
+    card_id1 = 72390,
+    card_id2 = 72400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [823943] = {
+    card_id1 = 72390,
+    card_id2 = 72430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [824043] = {
+    card_id1 = 72400,
+    card_id2 = 72430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -7303,6 +8509,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [830134] = {
+    card_id1 = 73010,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [830136] = {
     card_id1 = 73010,
     card_id2 = 73360,
@@ -7318,6 +8530,24 @@ data = {
   [830140] = {
     card_id1 = 73010,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830142] = {
+    card_id1 = 73010,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830143] = {
+    card_id1 = 73010,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830144] = {
+    card_id1 = 73010,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -7483,6 +8713,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [830234] = {
+    card_id1 = 73020,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [830236] = {
     card_id1 = 73020,
     card_id2 = 73360,
@@ -7498,6 +8734,24 @@ data = {
   [830240] = {
     card_id1 = 73020,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830242] = {
+    card_id1 = 73020,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830243] = {
+    card_id1 = 73020,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830244] = {
+    card_id1 = 73020,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -7657,6 +8911,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [830334] = {
+    card_id1 = 73030,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [830336] = {
     card_id1 = 73030,
     card_id2 = 73360,
@@ -7672,6 +8932,24 @@ data = {
   [830340] = {
     card_id1 = 73030,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830342] = {
+    card_id1 = 73030,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830343] = {
+    card_id1 = 73030,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830344] = {
+    card_id1 = 73030,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -7825,6 +9103,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [830434] = {
+    card_id1 = 73040,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [830436] = {
     card_id1 = 73040,
     card_id2 = 73360,
@@ -7840,6 +9124,24 @@ data = {
   [830440] = {
     card_id1 = 73040,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830442] = {
+    card_id1 = 73040,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830443] = {
+    card_id1 = 73040,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830444] = {
+    card_id1 = 73040,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -7987,6 +9289,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [830534] = {
+    card_id1 = 73050,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [830536] = {
     card_id1 = 73050,
     card_id2 = 73360,
@@ -8002,6 +9310,24 @@ data = {
   [830540] = {
     card_id1 = 73050,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830542] = {
+    card_id1 = 73050,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830543] = {
+    card_id1 = 73050,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830544] = {
+    card_id1 = 73050,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -8143,6 +9469,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [830634] = {
+    card_id1 = 73060,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [830636] = {
     card_id1 = 73060,
     card_id2 = 73360,
@@ -8158,6 +9490,24 @@ data = {
   [830640] = {
     card_id1 = 73060,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830642] = {
+    card_id1 = 73060,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830643] = {
+    card_id1 = 73060,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830644] = {
+    card_id1 = 73060,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -8293,6 +9643,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [830734] = {
+    card_id1 = 73070,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [830736] = {
     card_id1 = 73070,
     card_id2 = 73360,
@@ -8308,6 +9664,24 @@ data = {
   [830740] = {
     card_id1 = 73070,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830742] = {
+    card_id1 = 73070,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830743] = {
+    card_id1 = 73070,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830744] = {
+    card_id1 = 73070,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -8437,6 +9811,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [830834] = {
+    card_id1 = 73080,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [830836] = {
     card_id1 = 73080,
     card_id2 = 73360,
@@ -8452,6 +9832,24 @@ data = {
   [830840] = {
     card_id1 = 73080,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830842] = {
+    card_id1 = 73080,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830843] = {
+    card_id1 = 73080,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830844] = {
+    card_id1 = 73080,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -8575,6 +9973,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [830934] = {
+    card_id1 = 73090,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [830936] = {
     card_id1 = 73090,
     card_id2 = 73360,
@@ -8590,6 +9994,24 @@ data = {
   [830940] = {
     card_id1 = 73090,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830942] = {
+    card_id1 = 73090,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830943] = {
+    card_id1 = 73090,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [830944] = {
+    card_id1 = 73090,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -8707,6 +10129,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [831034] = {
+    card_id1 = 73100,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [831036] = {
     card_id1 = 73100,
     card_id2 = 73360,
@@ -8722,6 +10150,24 @@ data = {
   [831040] = {
     card_id1 = 73100,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831042] = {
+    card_id1 = 73100,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831043] = {
+    card_id1 = 73100,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831044] = {
+    card_id1 = 73100,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -8833,6 +10279,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [831134] = {
+    card_id1 = 73110,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [831136] = {
     card_id1 = 73110,
     card_id2 = 73360,
@@ -8848,6 +10300,24 @@ data = {
   [831140] = {
     card_id1 = 73110,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831142] = {
+    card_id1 = 73110,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831143] = {
+    card_id1 = 73110,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831144] = {
+    card_id1 = 73110,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -8953,6 +10423,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [831234] = {
+    card_id1 = 73120,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [831236] = {
     card_id1 = 73120,
     card_id2 = 73360,
@@ -8968,6 +10444,24 @@ data = {
   [831240] = {
     card_id1 = 73120,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831242] = {
+    card_id1 = 73120,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831243] = {
+    card_id1 = 73120,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831244] = {
+    card_id1 = 73120,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9067,6 +10561,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [831334] = {
+    card_id1 = 73130,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [831336] = {
     card_id1 = 73130,
     card_id2 = 73360,
@@ -9082,6 +10582,24 @@ data = {
   [831340] = {
     card_id1 = 73130,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831342] = {
+    card_id1 = 73130,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831343] = {
+    card_id1 = 73130,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831344] = {
+    card_id1 = 73130,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9175,6 +10693,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [831434] = {
+    card_id1 = 73140,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [831436] = {
     card_id1 = 73140,
     card_id2 = 73360,
@@ -9190,6 +10714,24 @@ data = {
   [831440] = {
     card_id1 = 73140,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831442] = {
+    card_id1 = 73140,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831443] = {
+    card_id1 = 73140,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831444] = {
+    card_id1 = 73140,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9277,6 +10819,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [831534] = {
+    card_id1 = 73150,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [831536] = {
     card_id1 = 73150,
     card_id2 = 73360,
@@ -9292,6 +10840,24 @@ data = {
   [831540] = {
     card_id1 = 73150,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831542] = {
+    card_id1 = 73150,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831543] = {
+    card_id1 = 73150,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831544] = {
+    card_id1 = 73150,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9373,6 +10939,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [831634] = {
+    card_id1 = 73160,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [831636] = {
     card_id1 = 73160,
     card_id2 = 73360,
@@ -9388,6 +10960,24 @@ data = {
   [831640] = {
     card_id1 = 73160,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831642] = {
+    card_id1 = 73160,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831643] = {
+    card_id1 = 73160,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831644] = {
+    card_id1 = 73160,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9463,6 +11053,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [831734] = {
+    card_id1 = 73170,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [831736] = {
     card_id1 = 73170,
     card_id2 = 73360,
@@ -9478,6 +11074,24 @@ data = {
   [831740] = {
     card_id1 = 73170,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831742] = {
+    card_id1 = 73170,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831743] = {
+    card_id1 = 73170,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831744] = {
+    card_id1 = 73170,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9547,6 +11161,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [831834] = {
+    card_id1 = 73180,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [831836] = {
     card_id1 = 73180,
     card_id2 = 73360,
@@ -9562,6 +11182,24 @@ data = {
   [831840] = {
     card_id1 = 73180,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831842] = {
+    card_id1 = 73180,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831843] = {
+    card_id1 = 73180,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831844] = {
+    card_id1 = 73180,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9625,6 +11263,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [831934] = {
+    card_id1 = 73190,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [831936] = {
     card_id1 = 73190,
     card_id2 = 73360,
@@ -9640,6 +11284,24 @@ data = {
   [831940] = {
     card_id1 = 73190,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831942] = {
+    card_id1 = 73190,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831943] = {
+    card_id1 = 73190,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [831944] = {
+    card_id1 = 73190,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9697,6 +11359,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [832034] = {
+    card_id1 = 73200,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [832036] = {
     card_id1 = 73200,
     card_id2 = 73360,
@@ -9712,6 +11380,24 @@ data = {
   [832040] = {
     card_id1 = 73200,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832042] = {
+    card_id1 = 73200,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832043] = {
+    card_id1 = 73200,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832044] = {
+    card_id1 = 73200,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9763,6 +11449,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [832134] = {
+    card_id1 = 73210,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [832136] = {
     card_id1 = 73210,
     card_id2 = 73360,
@@ -9778,6 +11470,24 @@ data = {
   [832140] = {
     card_id1 = 73210,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832142] = {
+    card_id1 = 73210,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832143] = {
+    card_id1 = 73210,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832144] = {
+    card_id1 = 73210,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9823,6 +11533,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [832234] = {
+    card_id1 = 73220,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [832236] = {
     card_id1 = 73220,
     card_id2 = 73360,
@@ -9838,6 +11554,24 @@ data = {
   [832240] = {
     card_id1 = 73220,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832242] = {
+    card_id1 = 73220,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832243] = {
+    card_id1 = 73220,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832244] = {
+    card_id1 = 73220,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9877,6 +11611,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [832334] = {
+    card_id1 = 73230,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [832336] = {
     card_id1 = 73230,
     card_id2 = 73360,
@@ -9892,6 +11632,24 @@ data = {
   [832340] = {
     card_id1 = 73230,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832342] = {
+    card_id1 = 73230,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832343] = {
+    card_id1 = 73230,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832344] = {
+    card_id1 = 73230,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9925,6 +11683,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [832534] = {
+    card_id1 = 73250,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [832536] = {
     card_id1 = 73250,
     card_id2 = 73360,
@@ -9940,6 +11704,24 @@ data = {
   [832540] = {
     card_id1 = 73250,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832542] = {
+    card_id1 = 73250,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832543] = {
+    card_id1 = 73250,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832544] = {
+    card_id1 = 73250,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -9967,6 +11749,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [832634] = {
+    card_id1 = 73260,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [832636] = {
     card_id1 = 73260,
     card_id2 = 73360,
@@ -9982,6 +11770,24 @@ data = {
   [832640] = {
     card_id1 = 73260,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832642] = {
+    card_id1 = 73260,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832643] = {
+    card_id1 = 73260,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832644] = {
+    card_id1 = 73260,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -10003,6 +11809,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [832834] = {
+    card_id1 = 73280,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [832836] = {
     card_id1 = 73280,
     card_id2 = 73360,
@@ -10021,6 +11833,24 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [832842] = {
+    card_id1 = 73280,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832843] = {
+    card_id1 = 73280,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832844] = {
+    card_id1 = 73280,
+    card_id2 = 73440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [832930] = {
     card_id1 = 73290,
     card_id2 = 73300,
@@ -10030,6 +11860,12 @@ data = {
   [832932] = {
     card_id1 = 73290,
     card_id2 = 73320,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832934] = {
+    card_id1 = 73290,
+    card_id2 = 73340,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -10051,9 +11887,33 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [832942] = {
+    card_id1 = 73290,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832943] = {
+    card_id1 = 73290,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [832944] = {
+    card_id1 = 73290,
+    card_id2 = 73440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [833032] = {
     card_id1 = 73300,
     card_id2 = 73320,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833034] = {
+    card_id1 = 73300,
+    card_id2 = 73340,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -10075,6 +11935,30 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [833042] = {
+    card_id1 = 73300,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833043] = {
+    card_id1 = 73300,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833044] = {
+    card_id1 = 73300,
+    card_id2 = 73440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833234] = {
+    card_id1 = 73320,
+    card_id2 = 73340,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [833236] = {
     card_id1 = 73320,
     card_id2 = 73360,
@@ -10093,6 +11977,60 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [833242] = {
+    card_id1 = 73320,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833243] = {
+    card_id1 = 73320,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833244] = {
+    card_id1 = 73320,
+    card_id2 = 73440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833436] = {
+    card_id1 = 73340,
+    card_id2 = 73360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833437] = {
+    card_id1 = 73340,
+    card_id2 = 73370,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833440] = {
+    card_id1 = 73340,
+    card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833442] = {
+    card_id1 = 73340,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833443] = {
+    card_id1 = 73340,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833444] = {
+    card_id1 = 73340,
+    card_id2 = 73440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [833637] = {
     card_id1 = 73360,
     card_id2 = 73370,
@@ -10105,9 +12043,81 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [833642] = {
+    card_id1 = 73360,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833643] = {
+    card_id1 = 73360,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833644] = {
+    card_id1 = 73360,
+    card_id2 = 73440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [833740] = {
     card_id1 = 73370,
     card_id2 = 73400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833742] = {
+    card_id1 = 73370,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833743] = {
+    card_id1 = 73370,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [833744] = {
+    card_id1 = 73370,
+    card_id2 = 73440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [834042] = {
+    card_id1 = 73400,
+    card_id2 = 73420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [834043] = {
+    card_id1 = 73400,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [834044] = {
+    card_id1 = 73400,
+    card_id2 = 73440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [834243] = {
+    card_id1 = 73420,
+    card_id2 = 73430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [834244] = {
+    card_id1 = 73420,
+    card_id2 = 73440,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [834344] = {
+    card_id1 = 73430,
+    card_id2 = 73440,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -10291,6 +12301,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [840139] = {
+    card_id1 = 74010,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [840140] = {
     card_id1 = 74010,
     card_id2 = 74400,
@@ -10300,6 +12316,12 @@ data = {
   [840142] = {
     card_id1 = 74010,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [840143] = {
+    card_id1 = 74010,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -10477,6 +12499,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [840239] = {
+    card_id1 = 74020,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [840240] = {
     card_id1 = 74020,
     card_id2 = 74400,
@@ -10486,6 +12514,12 @@ data = {
   [840242] = {
     card_id1 = 74020,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [840243] = {
+    card_id1 = 74020,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -10657,6 +12691,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [840339] = {
+    card_id1 = 74030,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [840340] = {
     card_id1 = 74030,
     card_id2 = 74400,
@@ -10666,6 +12706,12 @@ data = {
   [840342] = {
     card_id1 = 74030,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [840343] = {
+    card_id1 = 74030,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -10831,6 +12877,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [840439] = {
+    card_id1 = 74040,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [840440] = {
     card_id1 = 74040,
     card_id2 = 74400,
@@ -10840,6 +12892,12 @@ data = {
   [840442] = {
     card_id1 = 74040,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [840443] = {
+    card_id1 = 74040,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -10999,6 +13057,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [840539] = {
+    card_id1 = 74050,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [840540] = {
     card_id1 = 74050,
     card_id2 = 74400,
@@ -11008,6 +13072,12 @@ data = {
   [840542] = {
     card_id1 = 74050,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [840543] = {
+    card_id1 = 74050,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -11161,6 +13231,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [840639] = {
+    card_id1 = 74060,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [840640] = {
     card_id1 = 74060,
     card_id2 = 74400,
@@ -11170,6 +13246,12 @@ data = {
   [840642] = {
     card_id1 = 74060,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [840643] = {
+    card_id1 = 74060,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -11317,6 +13399,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [840739] = {
+    card_id1 = 74070,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [840740] = {
     card_id1 = 74070,
     card_id2 = 74400,
@@ -11326,6 +13414,12 @@ data = {
   [840742] = {
     card_id1 = 74070,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [840743] = {
+    card_id1 = 74070,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -11467,6 +13561,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [840839] = {
+    card_id1 = 74080,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [840840] = {
     card_id1 = 74080,
     card_id2 = 74400,
@@ -11476,6 +13576,12 @@ data = {
   [840842] = {
     card_id1 = 74080,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [840843] = {
+    card_id1 = 74080,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -11611,6 +13717,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [840939] = {
+    card_id1 = 74090,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [840940] = {
     card_id1 = 74090,
     card_id2 = 74400,
@@ -11620,6 +13732,12 @@ data = {
   [840942] = {
     card_id1 = 74090,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [840943] = {
+    card_id1 = 74090,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -11749,6 +13867,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [841039] = {
+    card_id1 = 74100,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [841040] = {
     card_id1 = 74100,
     card_id2 = 74400,
@@ -11758,6 +13882,12 @@ data = {
   [841042] = {
     card_id1 = 74100,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [841043] = {
+    card_id1 = 74100,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -11881,6 +14011,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [841139] = {
+    card_id1 = 74110,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [841140] = {
     card_id1 = 74110,
     card_id2 = 74400,
@@ -11890,6 +14026,12 @@ data = {
   [841142] = {
     card_id1 = 74110,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [841143] = {
+    card_id1 = 74110,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12007,6 +14149,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [841239] = {
+    card_id1 = 74120,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [841240] = {
     card_id1 = 74120,
     card_id2 = 74400,
@@ -12016,6 +14164,12 @@ data = {
   [841242] = {
     card_id1 = 74120,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [841243] = {
+    card_id1 = 74120,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12127,6 +14281,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [841339] = {
+    card_id1 = 74130,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [841340] = {
     card_id1 = 74130,
     card_id2 = 74400,
@@ -12136,6 +14296,12 @@ data = {
   [841342] = {
     card_id1 = 74130,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [841343] = {
+    card_id1 = 74130,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12241,6 +14407,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [841439] = {
+    card_id1 = 74140,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [841440] = {
     card_id1 = 74140,
     card_id2 = 74400,
@@ -12250,6 +14422,12 @@ data = {
   [841442] = {
     card_id1 = 74140,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [841443] = {
+    card_id1 = 74140,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12349,6 +14527,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [841539] = {
+    card_id1 = 74150,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [841540] = {
     card_id1 = 74150,
     card_id2 = 74400,
@@ -12358,6 +14542,12 @@ data = {
   [841542] = {
     card_id1 = 74150,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [841543] = {
+    card_id1 = 74150,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12451,6 +14641,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [841639] = {
+    card_id1 = 74160,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [841640] = {
     card_id1 = 74160,
     card_id2 = 74400,
@@ -12460,6 +14656,12 @@ data = {
   [841642] = {
     card_id1 = 74160,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [841643] = {
+    card_id1 = 74160,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12547,6 +14749,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [841739] = {
+    card_id1 = 74170,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [841740] = {
     card_id1 = 74170,
     card_id2 = 74400,
@@ -12556,6 +14764,12 @@ data = {
   [841742] = {
     card_id1 = 74170,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [841743] = {
+    card_id1 = 74170,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12637,6 +14851,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [841839] = {
+    card_id1 = 74180,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [841840] = {
     card_id1 = 74180,
     card_id2 = 74400,
@@ -12646,6 +14866,12 @@ data = {
   [841842] = {
     card_id1 = 74180,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [841843] = {
+    card_id1 = 74180,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12721,6 +14947,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [841939] = {
+    card_id1 = 74190,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [841940] = {
     card_id1 = 74190,
     card_id2 = 74400,
@@ -12730,6 +14962,12 @@ data = {
   [841942] = {
     card_id1 = 74190,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [841943] = {
+    card_id1 = 74190,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12799,6 +15037,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [842039] = {
+    card_id1 = 74200,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [842040] = {
     card_id1 = 74200,
     card_id2 = 74400,
@@ -12808,6 +15052,12 @@ data = {
   [842042] = {
     card_id1 = 74200,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [842043] = {
+    card_id1 = 74200,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12871,6 +15121,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [842139] = {
+    card_id1 = 74210,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [842140] = {
     card_id1 = 74210,
     card_id2 = 74400,
@@ -12880,6 +15136,12 @@ data = {
   [842142] = {
     card_id1 = 74210,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [842143] = {
+    card_id1 = 74210,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12937,6 +15199,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [842239] = {
+    card_id1 = 74220,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [842240] = {
     card_id1 = 74220,
     card_id2 = 74400,
@@ -12946,6 +15214,12 @@ data = {
   [842242] = {
     card_id1 = 74220,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [842243] = {
+    card_id1 = 74220,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -12997,6 +15271,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [842439] = {
+    card_id1 = 74240,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [842440] = {
     card_id1 = 74240,
     card_id2 = 74400,
@@ -13006,6 +15286,12 @@ data = {
   [842442] = {
     card_id1 = 74240,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [842443] = {
+    card_id1 = 74240,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -13051,6 +15337,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [842539] = {
+    card_id1 = 74250,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [842540] = {
     card_id1 = 74250,
     card_id2 = 74400,
@@ -13060,6 +15352,12 @@ data = {
   [842542] = {
     card_id1 = 74250,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [842543] = {
+    card_id1 = 74250,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -13099,6 +15397,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [842639] = {
+    card_id1 = 74260,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [842640] = {
     card_id1 = 74260,
     card_id2 = 74400,
@@ -13108,6 +15412,12 @@ data = {
   [842642] = {
     card_id1 = 74260,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [842643] = {
+    card_id1 = 74260,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -13141,6 +15451,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [842739] = {
+    card_id1 = 74270,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [842740] = {
     card_id1 = 74270,
     card_id2 = 74400,
@@ -13150,6 +15466,12 @@ data = {
   [842742] = {
     card_id1 = 74270,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [842743] = {
+    card_id1 = 74270,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -13177,6 +15499,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [842839] = {
+    card_id1 = 74280,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [842840] = {
     card_id1 = 74280,
     card_id2 = 74400,
@@ -13186,6 +15514,12 @@ data = {
   [842842] = {
     card_id1 = 74280,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [842843] = {
+    card_id1 = 74280,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -13207,6 +15541,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [843139] = {
+    card_id1 = 74310,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [843140] = {
     card_id1 = 74310,
     card_id2 = 74400,
@@ -13216,6 +15556,12 @@ data = {
   [843142] = {
     card_id1 = 74310,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [843143] = {
+    card_id1 = 74310,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -13231,6 +15577,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [843339] = {
+    card_id1 = 74330,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [843340] = {
     card_id1 = 74330,
     card_id2 = 74400,
@@ -13243,9 +15595,21 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [843343] = {
+    card_id1 = 74330,
+    card_id2 = 74430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [843436] = {
     card_id1 = 74340,
     card_id2 = 74360,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [843439] = {
+    card_id1 = 74340,
+    card_id2 = 74390,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -13261,6 +15625,18 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [843443] = {
+    card_id1 = 74340,
+    card_id2 = 74430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [843639] = {
+    card_id1 = 74360,
+    card_id2 = 74390,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [843640] = {
     card_id1 = 74360,
     card_id2 = 74400,
@@ -13273,9 +15649,45 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [843643] = {
+    card_id1 = 74360,
+    card_id2 = 74430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [843940] = {
+    card_id1 = 74390,
+    card_id2 = 74400,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [843942] = {
+    card_id1 = 74390,
+    card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [843943] = {
+    card_id1 = 74390,
+    card_id2 = 74430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [844042] = {
     card_id1 = 74400,
     card_id2 = 74420,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [844043] = {
+    card_id1 = 74400,
+    card_id2 = 74430,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [844243] = {
+    card_id1 = 74420,
+    card_id2 = 74430,
     card_initial_levle = 50,
     card_initial_stars = 6
   },
@@ -13363,6 +15775,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [880123] = {
+    card_id1 = 78010,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [880203] = {
     card_id1 = 78020,
     card_id2 = 78030,
@@ -13441,6 +15859,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [880223] = {
+    card_id1 = 78020,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [880304] = {
     card_id1 = 78030,
     card_id2 = 78040,
@@ -13513,6 +15937,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [880323] = {
+    card_id1 = 78030,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [880405] = {
     card_id1 = 78040,
     card_id2 = 78050,
@@ -13579,6 +16009,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [880423] = {
+    card_id1 = 78040,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [880506] = {
     card_id1 = 78050,
     card_id2 = 78060,
@@ -13639,6 +16075,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [880523] = {
+    card_id1 = 78050,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [880607] = {
     card_id1 = 78060,
     card_id2 = 78070,
@@ -13693,6 +16135,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [880623] = {
+    card_id1 = 78060,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [880708] = {
     card_id1 = 78070,
     card_id2 = 78080,
@@ -13741,6 +16189,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [880723] = {
+    card_id1 = 78070,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [880809] = {
     card_id1 = 78080,
     card_id2 = 78090,
@@ -13783,6 +16237,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [880823] = {
+    card_id1 = 78080,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [880910] = {
     card_id1 = 78090,
     card_id2 = 78100,
@@ -13819,6 +16279,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [880923] = {
+    card_id1 = 78090,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [881011] = {
     card_id1 = 78100,
     card_id2 = 78110,
@@ -13849,6 +16315,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [881023] = {
+    card_id1 = 78100,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [881113] = {
     card_id1 = 78110,
     card_id2 = 78130,
@@ -13873,6 +16345,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [881123] = {
+    card_id1 = 78110,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [881316] = {
     card_id1 = 78130,
     card_id2 = 78160,
@@ -13891,6 +16369,12 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [881323] = {
+    card_id1 = 78130,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [881619] = {
     card_id1 = 78160,
     card_id2 = 78190,
@@ -13903,9 +16387,27 @@ data = {
     card_initial_levle = 50,
     card_initial_stars = 6
   },
+  [881623] = {
+    card_id1 = 78160,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
   [881921] = {
     card_id1 = 78190,
     card_id2 = 78210,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [881923] = {
+    card_id1 = 78190,
+    card_id2 = 78230,
+    card_initial_levle = 50,
+    card_initial_stars = 6
+  },
+  [882123] = {
+    card_id1 = 78210,
+    card_id2 = 78230,
     card_initial_levle = 50,
     card_initial_stars = 6
   }

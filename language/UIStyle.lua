@@ -946,6 +946,36 @@ return {
         height = 40
       }
     },
+    ["Pages/Page1/SpecialItemView/Head/SpecialItem1/priceParent/lblPrice/scale/sprPriceType"] = {
+      Transform = {
+        Position = {x = -74.4, y = 14.9}
+      }
+    },
+    ["Pages/Page1/SpecialItemView/Head/SpecialItem1/priceParent/lblPrice"] = {
+      Transform = {
+        Position = {x = 67.7, y = -11.6}
+      }
+    },
+    ["Pages/Page1/SpecialItemView/Head/SpecialItem1/priceParent/originalPrice"] = {
+      Transform = {
+        Position = {y = -25}
+      }
+    },
+    ["Pages/Page1/SpecialItemView/Head/SpecialItem2/priceParent/lblPrice/scale/sprPriceType"] = {
+      Transform = {
+        Position = {x = -74.4, y = 14.9}
+      }
+    },
+    ["Pages/Page1/SpecialItemView/Head/SpecialItem2/priceParent/lblPrice"] = {
+      Transform = {
+        Position = {x = 67.7, y = -11.6}
+      }
+    },
+    ["Pages/Page1/SpecialItemView/Head/SpecialItem2/priceParent/originalPrice"] = {
+      Transform = {
+        Position = {y = -25}
+      }
+    },
     ["Pages/Page1/SpecialItemView/Head/SpecialItem1/lblName"] = {
       Label = {spacingX = 0, width = 190}
     },
@@ -2094,10 +2124,10 @@ return {
   EngageRewardPanel = {
     lblTitle = {
       Label = {
-        fontSize = 30,
-        overflowMethod = "ShrinkContent",
         width = 236,
-        height = 30
+        height = 30,
+        fontSize = 30,
+        overflowMethod = "ShrinkContent"
       }
     },
     ["prefab/name"] = {
@@ -2107,8 +2137,14 @@ return {
       Label = {fontSize = 22}
     },
     ["prefab/Sprite"] = {
-      Transform = {x = 43},
-      Widget = {width = 170, height = 18}
+      Widget = {
+        x = 43,
+        width = 170,
+        height = 18
+      }
+    },
+    ["prefab/name/ExtraTitle"] = {
+      Widget = {leftAnchor_Pos = 0}
     }
   },
   MsgBox_SwitchSDCard = {
@@ -4147,6 +4183,14 @@ return {
         fontSize = 20
       }
     },
+    ["draw/interface/bottom/content/cardLimitCnt/lblCount"] = {
+      Label = {
+        x = -131,
+        y = -2,
+        spacingX = -1,
+        fontSize = 20
+      }
+    },
     ["draw/interface/bottom/content/count/lblLimit"] = {
       Label = {
         width = 740,
@@ -4226,6 +4270,12 @@ return {
     },
     ["goBottom/LotteryCounter2"] = {
       Widget = {width = 662}
+    },
+    ["goBottom/activityTime/lblTime2"] = {
+      Label = {
+        Position = {y = 0},
+        fontSize = 20
+      }
     }
   },
   LotteryCardsForNewbiePanel = {
@@ -4568,18 +4618,6 @@ return {
     ["moreRoot/collect"] = {
       Transform = {x = 282}
     },
-    ["friendsCircle/ScrollView"] = {
-      UIPanel = {
-        Position = {y = -115},
-        clipRegion = {
-          x = 0,
-          y = 0,
-          z = 750,
-          w = 1192
-        },
-        clipOffset = {x = 0, y = 0}
-      }
-    },
     ["friendsCircle/ConverRoot/btnResetToTop"] = {
       Transform = {
         Position = {x = 333}
@@ -4674,6 +4712,13 @@ return {
     },
     ["dialogBox/2/clipPanel/lblContent"] = {
       Widget = {width = 640}
+    },
+    ["dialogBox/1/name/lblName"] = {
+      Label = {
+        width = 270,
+        height = 30,
+        overflowMethod = "ShrinkContent"
+      }
     }
   },
   MobilePanel = {
@@ -7990,10 +8035,10 @@ return {
         pivot = "Left",
         width = 475,
         height = 99,
-        Position = {y = -70},
+        Position = {y = -55},
         overflowMethod = "ShrinkContent",
         spacingX = 0,
-        spacingY = 0
+        spacingY = -1
       }
     },
     ["goInterFace/bottomAnchor/goFoldedList/rootBranche/lblTitle"] = {
@@ -8705,6 +8750,9 @@ return {
         height = 95,
         spacingY = 0
       }
+    },
+    ["resultPanel/expertResult/roleinfo/lbldesc"] = {
+      Label = {spacingX = 0, spacingY = 0}
     }
   },
   MapTaskPanel = {
@@ -10151,12 +10199,12 @@ return {
   },
   voiceEndLessList = {
     ["itemTemplate/txtDesc"] = {
-      Transform = {x = -102},
       Label = {
-        fontSize = 16,
-        overflowMethod = "ResizeHeight",
-        maxLineCount = 2,
-        width = 126
+        width = 131,
+        height = 50,
+        Position = {x = -107},
+        overflowMethod = "ShrinkContent",
+        maxLineCount = 0
       }
     }
   },
@@ -10358,13 +10406,13 @@ return {
       Sprite = {bSnap = true}
     },
     ["goRightGrid/btnElva"] = {
-      Sprite = {bSnap = true}
+      Widget = {width = 90, height = 90}
     },
     ["goDynLoginCard/texLogo"] = {
       Widget = {
+        Position = {y = -324},
         topAnchor_Pos = 488,
-        bottomAnchor_Pos = 198,
-        Position = {y = -324}
+        bottomAnchor_Pos = 198
       }
     }
   },
@@ -11290,7 +11338,10 @@ return {
       Transform = {y = -64}
     },
     ["topMiddlePanel/btnDesenoRecharge/spr"] = {
-      Transform = {y = 0}
+      Transform = {y = 0},
+      Sprite = {
+        atlas = "Atlas/UI_main_pack"
+      }
     },
     ["topMiddlePanel/btnDailyTopUp/spr"] = {
       Transform = {y = 3.5}
@@ -11314,6 +11365,11 @@ return {
     ["content/topAnchor/packs/btnDesenoRecharge/Sprite"] = {
       Transform = {y = -64}
     },
+    ["content/topAnchor/packs/btnDesenoRecharge/spr"] = {
+      Sprite = {
+        atlas = "Atlas/UI_main_pack"
+      }
+    },
     ["content/topAnchor/packs/btnDailyTopUp/spr"] = {
       Transform = {y = 3.5}
     },
@@ -11336,14 +11392,14 @@ return {
     },
     ["leftPanel/btnActivityPushPack"] = {
       Sprite = {
-        atlas = "Activity/110002/UI/UI_SelectCard",
-        spriteName = "btn_xhyx_pack"
+        atlas = "Activity/68028/UI/UI_MainCard240603",
+        spriteName = "btn_xhyx_gift"
       }
     },
     ["content/topAnchor/packs/btnActivityPushPack"] = {
       Sprite = {
-        atlas = "Activity/110002/UI/UI_SelectCard",
-        spriteName = "btn_xhyx_pack"
+        atlas = "Activity/68028/UI/UI_MainCard240603",
+        spriteName = "btn_xhyx_gift"
       }
     },
     ["content/bottomAnchor/btnLottery/sprNodeLastDay"] = {
@@ -12133,6 +12189,9 @@ return {
         Position = {y = -174},
         overflowMethod = "ResizeHeight"
       }
+    },
+    ["Content/center/bgScrollView/scrollView/itemPrefab/itemBg"] = {
+      GameObject = {active = false}
     }
   },
   ActivityRecommendItem = {
@@ -16754,9 +16813,6 @@ return {
     ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/lblName"] = {
       Label = {fontSize = 20}
     },
-    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/item/Got"] = {
-      Transform = {x = 252, y = -8.2}
-    },
     ["lblSpr/lbl"] = {
       Label = {
         width = 240,
@@ -16856,7 +16912,7 @@ return {
     },
     ["content/center/opport/non/promptNums"] = {
       Transform = {
-        Position = {x = -147}
+        Position = {x = -135}
       }
     },
     ["content/center/opport/own/looParent/loopScrollView"] = {
@@ -17576,24 +17632,8 @@ return {
         spacingX = -1
       }
     },
-    goDiscovery = {
-      Transform = {x = 237.3, y = -403.8}
-    },
     ["goDiscovery/lblName"] = {
-      Transform = {y = 20.70304},
       Label = {spacingX = 0}
-    },
-    ["goDiscovery/btnDiscovery/sprDiscovery"] = {
-      Transform = {x = 0, y = 0}
-    },
-    ["goDiscovery/btnDiscovery/sprRed"] = {
-      Transform = {y = 70}
-    },
-    ["goDiscovery/btnDiscovery/texIcon"] = {
-      Transform = {x = -35.99997, y = -27}
-    },
-    ["goDiscovery/btnDiscovery/lblCost"] = {
-      Transform = {x = -19.99998, y = -27.00002}
     },
     ["goDiscovery/btnDiscovery/lblDoubleScore"] = {
       Label = {
@@ -17611,9 +17651,6 @@ return {
     },
     ["goDiscovery/btnDiscovery/sprDoubleScore"] = {
       Widget = {width = 450}
-    },
-    ["goDiscovery/btnDiscovery/goNoDiscoveryItem"] = {
-      Transform = {y = 11}
     },
     ["goDiscovery/btnContinue"] = {
       Transform = {x = 1.525879E-5, y = 0}
@@ -17887,17 +17924,6 @@ return {
     }
   },
   DailyTopUpPanel = {
-    ["back/top/lblname"] = {
-      Label = {
-        x = -11,
-        y = 867,
-        rotationZ = 0.121467,
-        width = 280,
-        height = 25,
-        overflowMethod = "ShrinkContent",
-        spacingX = 0
-      }
-    },
     ["back/top/spr_01"] = {
       Transform = {
         x = -21.8,
@@ -17905,18 +17931,26 @@ return {
         rotationZ = -0.791111
       }
     },
-    ["back/top/desc"] = {
-      Label = {
-        y = 130,
-        width = 650,
-        height = 75,
-        overflowMethod = "ShrinkContent",
-        spacingX = -1,
-        spacingY = -1
-      }
-    },
     ["back/top/lblexp"] = {
       Label = {spacingX = 0}
+    },
+    ["SelectPanel/reward"] = {
+      Transform = {y = -52}
+    },
+    SelectPanel = {
+      Transform = {y = 0}
+    },
+    ["back/top/desc"] = {
+      Sprite = {
+        Position = {x = 14, y = 53},
+        bSnap = true
+      }
+    },
+    ["back/top/btnbuy/lblexp"] = {
+      Label = {
+        width = 260,
+        overflowMethod = "ShrinkContent"
+      }
     }
   },
   DailyTopUpCardRewardPanel = {
@@ -17926,27 +17960,48 @@ return {
   },
   DailyTopUpRewardPanel = {
     ["back/top/lblDesc"] = {
-      Transform = {x = -52, y = -106},
       Label = {
+        height = 77,
         overflowMethod = "ShrinkContent",
-        width = 600,
-        height = 100,
         spacingY = 0
+      }
+    },
+    ["rewarditem/prefab/lblDesc"] = {
+      Widget = {
+        leftAnchor = "",
+        rightAnchor = "",
+        Position = {x = -332}
+      }
+    },
+    ["rewarditem/prefab/lblDesc2"] = {
+      Transform = {
+        Position = {x = -269, y = -15}
+      }
+    },
+    ["rewarditem/prefab/lblNum"] = {
+      Transform = {
+        Position = {x = -281}
       }
     },
     ["back/top/lblTime"] = {
       Label = {spacingX = 0}
     },
     ["back/top/spr/lblExp"] = {
-      Transform = {x = -8.8},
       Label = {
+        x = -118,
         overflowMethod = "ShrinkContent",
         spacingX = 0,
-        width = 200
+        width = 220
       }
     },
     ["back/bottomDesc"] = {
-      Label = {spacingX = 0, pivot = "Top"}
+      Label = {
+        spacingX = 0,
+        pivot = "Top",
+        overflowMethod = "ShrinkContent",
+        height = 38,
+        Position = {y = -539}
+      }
     },
     ["rewarditem/prefab/lblProgress"] = {
       Transform = {x = -199.4},
@@ -17954,12 +18009,6 @@ return {
     },
     ["rewarditem/prefab/progressbar"] = {
       Transform = {x = -355}
-    },
-    ["goAnime/71130"] = {
-      Transform = {name = "72120"}
-    },
-    ["goAnime/73140"] = {
-      Transform = {name = "74120"}
     },
     ["goAnime/72120/lzy/texcard"] = {
       Texture = {
@@ -19412,8 +19461,8 @@ return {
       Label = {
         x = 144,
         y = -10,
-        overflowMethod = "ShrinkContent",
-        width = 70
+        width = 70,
+        overflowMethod = "ShrinkContent"
       }
     },
     ["rewardPanel/pagePrefab/Label/sp1"] = {
@@ -19421,6 +19470,17 @@ return {
     },
     ["rewardPanel/pagePrefab/Label/sp2"] = {
       Transform = {x = 230}
+    },
+    ["cardPanel/cardreward/lblDate"] = {
+      Label = {
+        Position = {y = -426},
+        spacingY = 0
+      }
+    },
+    btngetCard = {
+      Transform = {
+        Position = {y = -369}
+      }
     }
   },
   HundredDaysCompany2Panel = {
@@ -19506,11 +19566,45 @@ return {
     ["Top/title"] = {
       Transform = {x = 26}
     },
+    ["taskTemplate/title/lblTitle"] = {
+      Label = {
+        Position = {x = 54},
+        spacingX = -1,
+        alignment = "Left"
+      }
+    },
+    ["taskTemplate/desc/lblDesc"] = {
+      Transform = {
+        Position = {x = -7}
+      }
+    },
     ["Top/title/sprTitle1"] = {
       Widget = {width = 276, height = 118}
     },
     ["Top/title/sprTitle2"] = {
       Widget = {width = 0, height = 0}
+    },
+    ["Top/lblActivityDesc"] = {
+      Label = {spacingY = 0}
+    },
+    ["taskTemplate/style1/lblTitle"] = {
+      Label = {
+        width = 240,
+        Position = {x = -26},
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["taskTemplate/style2/lblTitle1"] = {
+      Transform = {
+        Position = {x = -17}
+      }
+    },
+    ["taskTemplate/style2/lblTitle2"] = {
+      Label = {
+        rightAnchor_Pos = 164,
+        Position = {y = 31},
+        overflowMethod = "ShrinkContent"
+      }
     }
   },
   Birth22GlobalRewardPanel = {
@@ -20710,14 +20804,46 @@ return {
     },
     ["itemTemplate/lblDay"] = {
       Widget = {
+        Position = {x = -10},
         leftAnchor = "",
-        rightAnchor = "",
-        Position = {x = -10}
+        rightAnchor = ""
       }
     },
     ["itemTemplate/lblDayNum"] = {
       Transform = {
         Position = {x = 28}
+      }
+    },
+    goTabs = {
+      GameObject = {active = false}
+    },
+    ["goTabs/tab1"] = {
+      GameObject = {active = false}
+    },
+    ["goTabs/tab2"] = {
+      GameObject = {active = false}
+    },
+    ["consumeReturn1/goCenter/goDetails/lblDesc/sprUnderScore"] = {
+      Transform = {
+        Position = {y = 21}
+      }
+    },
+    ["consumeReturn1/goCenter/goDetails/lblDesc/sprUnderScore1"] = {
+      Transform = {
+        Position = {y = -31}
+      }
+    },
+    ["consumeReturn1/goCenter/goDetails/lblDesc"] = {
+      Label = {width = 628, spacingX = 0}
+    },
+    ["consumeReturn1/goCenter/goDetails/goBottomDetails1/lblUseMore"] = {
+      Transform = {
+        Position = {x = -225}
+      }
+    },
+    ["consumeReturn1/goCenter/goDetails/goBottomDetails1/lblReturnMore"] = {
+      Transform = {
+        Position = {x = -195}
       }
     }
   },
@@ -21386,6 +21512,24 @@ return {
   LanternBattlePassPanel = {
     ["goContent/scrollRewards/goItemTemplate/sprDayNum"] = {
       Transform = {x = -224.5, y = 9.5}
+    },
+    ["goContent/texBg/sprTitle"] = {
+      Sprite = {bSnap = true}
+    },
+    ["goContent/scrollRewards/goItemTemplate/sprDayNumBg"] = {
+      Transform = {
+        Position = {x = -247}
+      }
+    },
+    ["goContent/lblCount"] = {
+      Transform = {
+        Position = {x = 292}
+      }
+    },
+    ["goContent/lblCount/sprCountBg"] = {
+      Transform = {
+        Position = {x = -39}
+      }
     }
   },
   FleurDeSouhait2MainPanel = {
@@ -22294,11 +22438,33 @@ return {
     },
     ["SelectPanel/directFlag/btnChange"] = {
       Transform = {x = 325, y = 20}
+    },
+    ["rewardCards/rewardPanel/nameCardRoot/itemTips2"] = {
+      Label = {
+        Position = {x = -136},
+        spacingX = 0
+      }
+    },
+    ["rewardCards/rewardPanel/headFrameRoot/itemTips2"] = {
+      Label = {
+        Position = {x = -136},
+        spacingX = 0
+      }
+    },
+    ["uiPanel/lbl_card_name"] = {
+      Label = {
+        width = 350,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
     }
   },
   DesenoRechargeChoosePanel = {
     btnRule = {
-      Transform = {x = 70}
+      Button = {
+        Position = {x = 70},
+        pressedSprite = "back_limitpaynew_rule"
+      }
     }
   },
   DesenoRechargeRewardPanel = {
@@ -22308,13 +22474,14 @@ return {
     ["back/top/lbldesc"] = {
       Label = {
         pivot = "Center",
-        width = 434,
-        Position = {x = -153, y = -185},
-        overflowMethod = "ResizeHeight",
-        fontSize = 17,
+        width = 390,
+        height = 90,
+        Position = {x = -152, y = -173},
+        overflowMethod = "ShrinkContent",
+        fontSize = 18,
         spacingX = 0,
-        spacingY = 17,
-        maxLineCount = 2
+        spacingY = 3,
+        alignment = "Left"
       }
     },
     ["back/top/lbtime"] = {
@@ -22327,11 +22494,12 @@ return {
     },
     ["rewarditem/prefab/lbldesc"] = {
       Label = {
-        x = -220,
-        y = -29,
-        width = 240,
-        overflowMethod = "ResizeHeight",
-        fontSize = 18
+        width = 220,
+        height = 36,
+        Position = {y = -5},
+        overflowMethod = "ShrinkContent",
+        fontSize = 18,
+        spacingX = 0
       }
     },
     ["rewarditem/prefab/lblProgress"] = {
@@ -22373,11 +22541,14 @@ return {
     },
     ["back/top_flower"] = {
       Widget = {
-        Position = {x = 73, y = 330},
+        Position = {x = 150, y = 330},
         keepAspectRatio = "Free",
         width = 36,
         height = 38
       }
+    },
+    ["back/top/spr_time_bg"] = {
+      GameObject = {active = false}
     }
   },
   Spring2022SharePanel = {
@@ -23309,6 +23480,145 @@ return {
   MainlineCardLotteryResultPanel68020 = {
     ["Container/sprTitle/Label"] = {
       Label = {spacingX = 2}
+    }
+  },
+  MainlineCardSelectPanel110002 = {
+    ["btnGroup/node1/lblTitle"] = {
+      Label = {
+        x = -360,
+        pivot = "Left",
+        spacingX = 0
+      }
+    },
+    ["btnGroup/node1/lblTitle2"] = {
+      Label = {
+        x = -306,
+        pivot = "Left",
+        fontSize = 26,
+        spacingX = 0
+      }
+    },
+    ["btnGroup/node2/lblTitle"] = {
+      Label = {
+        x = 145,
+        pivot = "Left",
+        spacingX = 0
+      }
+    },
+    ["btnGroup/node2/lblTitle2"] = {
+      Label = {
+        x = 205,
+        pivot = "Left",
+        spacingX = 0
+      }
+    },
+    ["btnGroup/node3/lblTitle"] = {
+      Label = {
+        x = -360,
+        pivot = "Left",
+        spacingX = 0
+      }
+    },
+    ["btnGroup/node3/lblTitle2"] = {
+      Label = {
+        x = -300,
+        pivot = "Left",
+        spacingX = 0
+      }
+    },
+    ["btnGroup/node4/lblTitle"] = {
+      Label = {
+        x = 145,
+        pivot = "Left",
+        spacingX = 0
+      }
+    },
+    ["btnGroup/node4/lblTitle2"] = {
+      Label = {
+        x = 205,
+        pivot = "Left",
+        spacingX = 0
+      }
+    },
+    lblDesc = {
+      Label = {
+        y = 364,
+        spacingX = 1,
+        spacingY = 2
+      }
+    },
+    sprLine11 = {
+      Label = {y = 340}
+    },
+    sprLine12 = {
+      Label = {y = 314}
+    },
+    btnGroup = {
+      UIPanel = {
+        clipRegion = {
+          x = 0,
+          y = -78,
+          z = 750,
+          w = 700
+        }
+      }
+    },
+    ["ticket/lblCount"] = {
+      Label = {
+        pivot = "Center",
+        width = 258,
+        height = 37,
+        Position = {x = 10},
+        overflowMethod = "ShrinkContent",
+        spacingX = 0,
+        maxLineCount = 1
+      }
+    },
+    ["ticket/sprBg"] = {
+      Sprite = {width = 320, x = -20}
+    },
+    ["ticket/btnAdd"] = {
+      BoxCollider = {
+        center = {x = 0},
+        size = {x = 420, y = 48}
+      },
+      Transform = {x = 20.5}
+    },
+    ["ticket/texIcon"] = {
+      Transform = {x = -154}
+    },
+    ["goCount/sprBg"] = {
+      Transform = {x = 0}
+    },
+    ["goCount/texIcon"] = {
+      Transform = {x = -154}
+    },
+    ["goCount/lblCount"] = {
+      Label = {
+        x = -120,
+        width = 250,
+        height = 22,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["goMainLineCardList/goScrollView/node1/parentNode/sprRed"] = {
+      Label = {x = -90}
+    },
+    ["goMainLineCardList/goScrollView/node1/parentNode/lblTitle"] = {
+      Label = {x = -360, spacingX = 0}
+    },
+    ["goMainLineCardList/goScrollView/node1/parentNode/lblTitle2"] = {
+      Label = {spacingX = 0}
+    },
+    ["goMainLineCardList/goScrollView/node2/parentNode/sprRed"] = {
+      Label = {x = 90}
+    },
+    ["goMainLineCardList/goScrollView/node2/parentNode/lblTitle"] = {
+      Label = {x = 110, spacingX = 0}
+    },
+    ["goMainLineCardList/goScrollView/node2/parentNode/lblTitle2"] = {
+      Label = {spacingX = 0}
     }
   },
   MainlineCardSelectPanel = {
@@ -24547,42 +24857,35 @@ return {
       Transform = {
         Position = {x = -183}
       }
-    }
-  },
-  extraDropEveryday45005 = {
-    lblDesc1 = {
+    },
+    ["mailPanel/goOriMail/svParent/scrollContent/lblContent"] = {
+      Label = {spacingX = 0, spacingY = 10}
+    },
+    ["mailPanel/goReplyMail/svParent/scrollContent/lblContent"] = {
+      Label = {spacingX = 0, spacingY = 10}
+    },
+    ["mailPanel/goOriMail/lblTitle"] = {
       Label = {
-        x = -294,
-        y = 245,
-        spacingX = 0,
-        spacingY = 2,
-        overflowMethod = "ResizeHeight",
-        width = 560
+        pivot = "Center",
+        width = 520,
+        height = 60,
+        Position = {x = 0, y = 340},
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
       }
-    }
-  },
-  extraDropEveryday45006 = {
-    lblDesc1 = {
+    },
+    ["mailPanel/goReplyMail/lblTitle"] = {
       Label = {
-        x = -294,
-        y = 245,
-        spacingX = 0,
-        spacingY = 2,
-        overflowMethod = "ResizeHeight",
-        width = 560
+        pivot = "Center",
+        width = 520,
+        height = 60,
+        Position = {x = 0, y = 340},
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
       }
-    }
-  },
-  extraDropEveryday45008 = {
-    lblDesc1 = {
-      Label = {
-        x = -294,
-        y = 245,
-        spacingX = 0,
-        spacingY = 2,
-        overflowMethod = "ResizeHeight",
-        width = 560
-      }
+    },
+    ["mailPanel/goOriMail/dragScroll"] = {
+      Widget = {depth = 5}
     }
   },
   ActivityHotGiftPanel = {
@@ -24663,20 +24966,18 @@ return {
     },
     ["shopWidget/goShop/itemPrefab/name"] = {
       Label = {
-        overflowMethod = "ShrinkContent",
         y = -4,
         width = 150,
         height = 44,
+        overflowMethod = "ShrinkContent",
         spacingX = 0
       }
     },
     ["shopWidget/goShop/itemPrefab/lbLimit"] = {
-      Label = {
-        overflowMethod = "ShrinkContent",
-        x = -75,
-        y = -80,
-        width = 150,
-        height = 32
+      Widget = {
+        Position = {x = 0, y = -80},
+        width = 165,
+        height = 16
       }
     },
     ["calendarWidget/lblLunarMonth"] = {
@@ -24690,10 +24991,33 @@ return {
     },
     ["signPopWidget/sprLine1/lblDesc1"] = {
       Label = {
-        overflowMethod = "ResizeHeight",
         y = 20,
-        spacingY = 0,
-        width = 360
+        width = 360,
+        overflowMethod = "ResizeHeight",
+        spacingY = 0
+      }
+    },
+    ["shopWidget/goProgress/text_desc"] = {
+      Label = {
+        overflowMethod = "ShrinkContent",
+        spacingX = -2
+      }
+    },
+    ["shopWidget/goShop/text_title"] = {
+      Label = {
+        fontSize = 23,
+        maxLineCount = 1,
+        width = 170,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["goCommon/lblActDesc"] = {
+      Label = {
+        width = 511,
+        height = 70,
+        Position = {x = -333, y = 509},
+        spacingY = 0
       }
     }
   },
@@ -24711,6 +25035,14 @@ return {
     },
     ["NumBuy/countNode/texUserIcon"] = {
       Transform = {x = -200}
+    },
+    ["NumBuy/lblGot/lbl"] = {
+      Widget = {rightAnchor_Pos = 0}
+    },
+    ["rewardRoot/spr_desc/desc"] = {
+      Transform = {
+        Position = {x = 45}
+      }
     }
   },
   YearEndBackFeedProgressRewardPanel = {
@@ -24718,10 +25050,24 @@ return {
       Label = {x = 40}
     },
     ["goContent/goItemTemplate/lblCount"] = {
-      Label = {x = -235, y = -15}
+      Transform = {
+        Position = {x = -69, y = -11}
+      }
     },
     ["goContent/goItemTemplate/lblCount/lblTitle"] = {
       Label = {x = -15, y = 30}
+    },
+    ["goContent/goItemTemplate/lblTitle"] = {
+      Label = {
+        width = 180,
+        Position = {x = -87},
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goItemTemplate/lblTitle1"] = {
+      Transform = {
+        Position = {x = -48}
+      }
     }
   },
   CardAdvCardSelectPanel = {
@@ -25608,7 +25954,11 @@ return {
       Label = {spacingX = 2}
     },
     ["goContent/component/ContentText/lblContent"] = {
-      Label = {y = 100, spacingY = 6}
+      Label = {
+        Position = {y = 100},
+        spacingX = 0,
+        spacingY = 0
+      }
     },
     ["goContent/component/ContentItem/lblGot/lbl"] = {
       Widget = {rightAnchor_Pos = -317}
@@ -25619,9 +25969,18 @@ return {
     ["goContent/component/ContentItem/sprBg/lblContent"] = {
       Label = {
         width = 350,
-        x = -175,
+        Position = {x = -175},
         overflowMethod = "ShrinkContent",
+        spacingX = 0,
         spacingY = 4
+      }
+    },
+    ["goContent/component/SubContentText/lblContent"] = {
+      Label = {
+        height = 44,
+        Position = {y = -52},
+        spacingX = 0,
+        spacingY = 0
       }
     }
   },
@@ -25773,15 +26132,21 @@ return {
     }
   },
   MsgBox_one_toggle_Ok_Cancel = {
-    lblTitle = {
-      Label = {spacingX = 0}
-    },
     lblContent = {
       Label = {
-        width = 700,
+        pivot = "Center",
+        width = 600,
+        height = 66,
+        Position = {x = 0, y = 144},
+        overflowMethod = "ShrinkContent",
+        fontSize = 24,
         spacingX = 0,
-        spacingY = 5
+        spacingY = 5,
+        alignment = "Center"
       }
+    },
+    lblTitle = {
+      Label = {spacingX = 0}
     },
     lblContentTip = {
       Transform = {y = 70},
@@ -28726,6 +29091,36 @@ return {
       Sprite = {spriteName = "share_bg"}
     }
   },
+  MaleLottery2023M4SharePanel = {
+    ["Content/Bottom/sprLogo"] = {
+      Sprite = {
+        spriteName = "back_main_share_logo"
+      }
+    },
+    ["Hud/Bottom/BG"] = {
+      Sprite = {spriteName = "share_bg"}
+    }
+  },
+  MaleLottery2023M1SharePanel = {
+    ["Content/Bottom/sprLogo"] = {
+      Sprite = {
+        spriteName = "back_main_share_logo"
+      }
+    },
+    ["Hud/Bottom/BG"] = {
+      Sprite = {spriteName = "share_bg"}
+    }
+  },
+  MaleLottery2023M2SharePanel = {
+    ["Content/Bottom/sprLogo"] = {
+      Sprite = {
+        spriteName = "back_main_share_logo"
+      }
+    },
+    ["Hud/Bottom/BG"] = {
+      Sprite = {spriteName = "share_bg"}
+    }
+  },
   Halloween2023ExtraRewardPanel = {
     ["goContent/goItemTemplate/lblCount/lblTitle1"] = {
       Widget = {
@@ -28739,6 +29134,26 @@ return {
     ["goContent/goItemTemplate/sprDot1"] = {
       Transform = {
         Position = {x = -4}
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem1/btnGotted"] = {
+      Button = {
+        pressedSprite = "btn_bath_got"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem2/btnGotted"] = {
+      Button = {
+        pressedSprite = "btn_bath_got"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem3/btnGotted"] = {
+      Button = {
+        pressedSprite = "btn_bath_got"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem4/btnGotted"] = {
+      Button = {
+        pressedSprite = "btn_bath_got"
       }
     }
   },
@@ -28812,6 +29227,9 @@ return {
     },
     ["Container/Bottom/GameObject/btnCancel/lblCancel"] = {
       Label = {spacingX = 0}
+    },
+    ["Container/Top/goFilter/RoleFilter/root/sprSelect"] = {
+      Widget = {width = 149, height = 70}
     }
   },
   SpaceResignMsgBox = {
@@ -30832,9 +31250,9 @@ return {
     ["Content/topAnchor/normalBtnRoot/btnGlobalReward"] = {
       Transform = {
         Scale = {
-          x = 0.9,
-          y = 0.9,
-          z = 0.9
+          x = 0.85,
+          y = 0.85,
+          z = 0.85
         }
       }
     },
@@ -31293,6 +31711,34 @@ return {
       Button = {
         pressedSprite = "btn_csdybz_got"
       }
+    },
+    ["goContent/goSelectItems/goItems/goItem1/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem2/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem3/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem4/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
     }
   },
   Spring2024URFitRoomPanel = {
@@ -31365,6 +31811,9 @@ return {
     }
   },
   MainlineCardLotteryPanel68026 = {
+    ["LotteryCountPanel/Container/btnConfirm/Label"] = {
+      Label = {spacingX = 0}
+    },
     ["LotteryCountPanel/Container/lblConsumeTitle"] = {
       Label = {
         Position = {x = -295},
@@ -31722,9 +32171,9 @@ return {
     },
     ["safeArea/listall/item/Container/name"] = {
       Label = {
-        overflowMethod = "ShrinkContent",
         width = 440,
-        x = -325
+        x = -325,
+        overflowMethod = "ShrinkContent"
       }
     },
     ["safeArea/listall/item/Container/sizedetail/downloaded"] = {
@@ -31735,12 +32184,20 @@ return {
     ["safeArea/top/category"] = {
       Sprite = {
         pivot = "Left",
-        bSnap = true,
-        x = -300
+        x = -300,
+        bSnap = true
       }
     },
     ["safeArea/calculate/Sprite"] = {
       Sprite = {bSnap = true}
+    },
+    ["safeArea/top/tips/Label"] = {
+      Label = {
+        width = 350,
+        height = 50,
+        overflowMethod = "ShrinkContent",
+        spacingY = 0
+      }
     }
   },
   ResourceManagerDescPanel = {
@@ -32074,14 +32531,13 @@ return {
   MainlineCardLotteryPanel68025 = {
     ["LotteryCountPanel/Container/lblConsumeTitle"] = {
       Label = {
-        Position = {x = -295},
+        Position = {x = -151},
         spacingX = 0
       }
     },
     ["LotteryCountPanel/Container/goCost"] = {
-      UITable = {
-        Position = {x = -233},
-        padding = {x = 5, y = 0}
+      Transform = {
+        Position = {x = -114}
       }
     },
     ["Container/Bottom/left/lblDesc"] = {
@@ -32098,44 +32554,23 @@ return {
         Position = {x = 140, y = -84}
       }
     },
-    ["LotteryCountPanel/Container/goCost/item1"] = {
-      Transform = {
-        Position = {x = 227}
-      }
-    },
-    ["LotteryCountPanel/Container/goCost/item1/icon"] = {
-      Transform = {
-        Position = {x = -13}
-      }
-    },
-    ["LotteryCountPanel/Container/goCost/item1/count"] = {
-      Transform = {
-        Position = {x = 9}
-      }
-    },
-    ["LotteryCountPanel/Container/goCost/item2"] = {
-      Transform = {
-        Position = {x = 526}
-      }
-    },
-    ["LotteryCountPanel/Container/goCost/item2/icon"] = {
-      Transform = {
-        Position = {x = -10}
-      }
-    },
-    ["LotteryCountPanel/Container/goCost/item2/count"] = {
-      Transform = {
-        Position = {x = 18}
-      }
-    },
     ["LotteryCountPanel/Container/lblTitle"] = {
-      Label = {spacingX = 0}
-    },
-    ["LotteryCountPanel/Container/btnConfirm/Label"] = {
       Label = {spacingX = 0}
     },
     ["Container/Bottom/left/sprDescSSRIcon"] = {
       Widget = {pivot = "BottomLeft"}
+    },
+    ["LotteryCountPanel/Container/goCost/item1/name"] = {
+      Label = {text = ""}
+    },
+    ["LotteryCountPanel/Container/btnConfirm/Label"] = {
+      Label = {spacingX = 0}
+    },
+    ["LotteryCountWarningPanel/btnCancel/lblCancel"] = {
+      Label = {spacingX = 0}
+    },
+    ["LotteryCountWarningPanel/btnConfirm/lblConfirm"] = {
+      Label = {spacingX = 0}
     }
   },
   MainlineCardRewardPanel68025 = {
@@ -32261,6 +32696,36 @@ return {
       GameObject = {active = false}
     }
   },
+  bq2023_list_clickgive = {
+    ["btnContinue/lblContinue"] = {
+      Label = {spacingX = 0}
+    },
+    ["goChooseAll/lblChooseAll"] = {
+      GameObject = {active = false}
+    }
+  },
+  zql2023_list_clickgive = {
+    ["btnContinue/lblContinue"] = {
+      Label = {spacingX = 0}
+    },
+    ["goChooseAll/lblChooseAll"] = {
+      GameObject = {active = false}
+    },
+    ["itemTemplate/lblContent"] = {
+      Label = {spacingX = 1}
+    }
+  },
+  lzy2023_list_clickgive = {
+    ["btnContinue/lblContinue"] = {
+      Label = {spacingX = 0}
+    },
+    ["goChooseAll/lblChooseAll"] = {
+      GameObject = {active = false}
+    },
+    ["itemTemplate/lblContent"] = {
+      Label = {spacingX = 1}
+    }
+  },
   ClickRankPanel = {
     ["mine/titlepos/titleunit"] = {
       GameObject = {active = false}
@@ -32269,7 +32734,7 @@ return {
       GameObject = {active = false}
     },
     lbldesc = {
-      Label = {}
+      Label = {spacingX = 0}
     },
     ["bg/lblTitle"] = {
       Label = {spacingX = 0}
@@ -32421,40 +32886,6 @@ return {
     },
     lblTitle = {
       Label = {font = "fzqkfont"}
-    }
-  },
-  MainlineCardLotteryPanel68027 = {
-    ["Container/Bottom/ten/cost1"] = {
-      GameObject = {active = true}
-    },
-    ["Container/Bottom/ten/lblCount"] = {
-      GameObject = {active = false}
-    },
-    ["Container/Bottom/one/cost1"] = {
-      GameObject = {active = true}
-    },
-    ["Container/Bottom/one/lblCount"] = {
-      GameObject = {active = false}
-    },
-    ["Container/Bottom/item3/btnAdd"] = {
-      GameObject = {active = true}
-    },
-    ["Container/Bottom/item2/btnAdd"] = {
-      Sprite = {
-        atlas = "Activity/68027/UI/UI_MainCard"
-      }
-    },
-    ["Container/TOP/btnSelectAct"] = {
-      GameObject = {active = false}
-    },
-    ["Container/TOP/btnShop/sprTag"] = {
-      GameObject = {active = false}
-    },
-    ["Container/Bottom/item2/sprBg"] = {
-      Sprite = {
-        atlas = "Activity/68027/UI/UI_MainCard",
-        spriteName = "back_mainl_itembg_2"
-      }
     }
   },
   SpringBingoSharePanel = {
@@ -32615,11 +33046,6 @@ return {
     }
   },
   MobileFriendsCircleViewPanel = {
-    ["friendsCircle/ScrollView"] = {
-      Transform = {
-        Position = {y = -273}
-      }
-    },
     ["friendsCircle/ConverRoot/btnResetToTop"] = {
       Transform = {
         Position = {x = 333}
@@ -33047,6 +33473,11 @@ return {
         overflowMethod = "ShrinkContent",
         spacingX = 0
       }
+    },
+    ["map/btnQuickPhoto/sprRemainBg"] = {
+      Transform = {
+        Position = {x = -150}
+      }
     }
   },
   MobileCharFavoritePanel = {
@@ -33465,6 +33896,2831 @@ return {
       Widget = {
         pivot = "Left",
         Position = {x = -4}
+      }
+    }
+  },
+  MaleLottery2023M1V3EventSharePanel = {
+    ["Content/Center/SprPanel/sprShareText1"] = {
+      Widget = {width = 74, height = 570}
+    },
+    ["Content/Center/SprPanel/sprShareText2"] = {
+      Widget = {width = 74, height = 570}
+    }
+  },
+  MaleLottery2023M1V3EventMainPanel = {
+    ["Hud/Bottom/sprTitle"] = {
+      Transform = {
+        Position = {x = -125}
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/lblCondition"] = {
+      Label = {
+        Position = {x = 10},
+        width = 600,
+        overflowMethod = "ShrinkContent",
+        fontSize = 26,
+        spacingX = 0
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group2/lblCondition"] = {
+      Label = {
+        Position = {x = 10},
+        width = 600,
+        height = 56,
+        overflowMethod = "ShrinkContent",
+        fontSize = 26,
+        spacingX = 0
+      }
+    },
+    ["Dialogs/UnlockDialog/lblTime"] = {
+      Label = {spacingX = 0}
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/1/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/2/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/3/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/4/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/5/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/6/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/7/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Hud/Bottom/SprTitle/SprTitleText"] = {
+      Widget = {
+        Position = {x = 251, y = -188},
+        width = 387,
+        height = 77
+      }
+    },
+    ["Content/root/MusicalScore/Content1/Paper/Day1/Segments/Segment1/BtnPlayMusic"] = {
+      Transform = {
+        Position = {x = -21}
+      }
+    },
+    ["Content/root/MusicalScore/Content1/Paper/Day1/Segments/Segment2/BtnPlayMusic"] = {
+      Transform = {
+        Position = {x = 61}
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/sprFlag"] = {
+      Widget = {
+        Position = {x = 287},
+        width = 664
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group2/sprFlag"] = {
+      Widget = {
+        Position = {x = 287},
+        width = 664
+      }
+    },
+    ["Hud/Bottom/QQPlayer/Dialog/Content"] = {
+      Label = {
+        width = 262,
+        height = 95,
+        overflowMethod = "ShrinkContent",
+        spacingY = 0
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group2/reward/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  MaleLottery2023M1V3ExtraRewardPanel = {
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = {
+      Widget = {
+        Position = {x = 60},
+        pivot = "Center",
+        width = 60
+      }
+    },
+    ["goContent/goItemTemplate/lblCount"] = {
+      Label = {fontSize = 36, spacingX = 0}
+    },
+    ["goContent/goItemTemplate/sprDot1"] = {
+      Transform = {
+        Position = {x = -8}
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem1/btnGotted"] = {
+      Sprite = {bSnap = true}
+    }
+  },
+  MaleLottery2024M2V3EventSharePanel = {
+    ["Content/Center/SprPanel/sprShareText1"] = {
+      Widget = {width = 74, height = 570}
+    },
+    ["Content/Center/SprPanel/sprShareText2"] = {
+      Widget = {width = 74, height = 570}
+    }
+  },
+  MaleLottery2024M2V3EventMainPanel = {
+    ["Hud/Bottom/sprTitle"] = {
+      Transform = {
+        Position = {x = -125}
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/lblCondition"] = {
+      Label = {
+        Position = {x = 10},
+        width = 600,
+        overflowMethod = "ShrinkContent",
+        fontSize = 26,
+        spacingX = 0
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group2/lblCondition"] = {
+      Label = {
+        Position = {x = 10},
+        width = 600,
+        height = 56,
+        overflowMethod = "ShrinkContent",
+        fontSize = 26,
+        spacingX = 0
+      }
+    },
+    ["Dialogs/UnlockDialog/lblTime"] = {
+      Label = {spacingX = 0}
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/1/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/2/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/3/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/4/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/5/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/6/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/7/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Hud/Bottom/SprTitle/SprTitleText"] = {
+      Widget = {
+        Position = {x = 242, y = -178},
+        width = 386,
+        height = 76
+      }
+    },
+    ["Content/root/MusicalScore/Content1/Paper/Day1/Segments/Segment1/BtnPlayMusic"] = {
+      Transform = {
+        Position = {x = -21}
+      }
+    },
+    ["Content/root/MusicalScore/Content1/Paper/Day1/Segments/Segment2/BtnPlayMusic"] = {
+      Transform = {
+        Position = {x = 61}
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/sprFlag"] = {
+      Widget = {
+        Position = {x = 287},
+        width = 664
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group2/sprFlag"] = {
+      Widget = {
+        Position = {x = 287},
+        width = 664
+      }
+    },
+    ["Hud/Bottom/QQPlayer/Dialog/Content"] = {
+      Label = {
+        width = 262,
+        height = 95,
+        overflowMethod = "ShrinkContent",
+        spacingY = 0
+      }
+    },
+    ["Content/root/MusicalScore/Content1/Paper/Details/Segments/Segment1/BtnPlayMusic"] = {
+      Transform = {
+        Position = {x = -35}
+      }
+    },
+    ["Content/root/MusicalScore/Content1/Paper/Details/Segments/Segment2/BtnPlayMusic"] = {
+      Transform = {
+        Position = {x = 39}
+      }
+    }
+  },
+  MaleLottery2024M2V3ExtraRewardPanel = {
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = {
+      Widget = {
+        Position = {x = 60},
+        pivot = "Center",
+        width = 60
+      }
+    },
+    ["goContent/goItemTemplate/lblCount"] = {
+      Label = {fontSize = 36, spacingX = 0}
+    },
+    ["goContent/goItemTemplate/sprDot1"] = {
+      Transform = {
+        Position = {x = -8}
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem1/btnGotted"] = {
+      Sprite = {bSnap = true}
+    }
+  },
+  MainlineCardStarPanel68028 = {
+    ["goContent/animeRoot/1/zhen"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/1/shi"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/3/2/xu"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/3/2/memgjing_small"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/1/mainanni_text_1"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/1/mainanni_text_5"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/1/mainanni_text_4"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/1/mainanni_text_6"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/2/mainanni_text_2"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/2/mainanni_text_3"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/2/mainanni_text_14"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/2/mainanni_text_15"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/2/mengjing_blur"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/3/1/youxi"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/3/1/xiao"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/3/1/wujinyouxi"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/3/1/huan"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/3/1/mainanni_text_13"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/3/2/xuhuan"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/3/2/shi_1"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/3/2/mainanni_text_12"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 750,
+        height = 1750
+      }
+    },
+    ["goContent/animeRoot/4/5/mainanni_text_26"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/4/5/mainanni_text_27"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/4/5/mainanni_text_28"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/4/5/mainanni_text_29"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/4/5/mainanni_text_30"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/4/5/mainanni_text_31"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/4/left_small"] = {
+      Widget = {
+        Position = {x = 0, y = 0},
+        width = 2,
+        height = 2
+      }
+    },
+    ["goContent/animeRoot/4/middle_small"] = {
+      Widget = {
+        Position = {x = 750, y = 1},
+        width = 2,
+        height = 2
+      }
+    },
+    ["goContent/animeRoot/4/middle_blur"] = {
+      Widget = {width = 2, height = 2}
+    },
+    ["goContent/animeRoot/4/5/right_small"] = {
+      Widget = {width = 2, height = 2}
+    }
+  },
+  MainlineCardPackageConfirmPanel68028 = {
+    ["Content/btnCancel/lblCancel"] = {
+      Label = {spacingX = 0}
+    },
+    ["Content/btnOK/lblOK"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  S2ChooseBranchCH59Panel = {
+    ["goContent/lblChooseDesc"] = {
+      Label = {spacingX = 0}
+    },
+    ["btnClose2/remainder_label"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  ReProduceActVotePanel = {
+    ["goViews/lbActDesc"] = {
+      Label = {
+        width = 700,
+        height = 50,
+        Position = {y = -552},
+        overflowMethod = "ShrinkContent",
+        spacingY = 5
+      }
+    },
+    ["goViews/goVote/goContent/itemParent/item1/lbCount"] = {
+      Transform = {
+        Position = {x = 111}
+      }
+    },
+    ["goViews/goVote/goContent/itemParent/item2/lbCount"] = {
+      Transform = {
+        Position = {x = 111}
+      }
+    },
+    ["goViews/goVote/goContent/itemParent/item3/lbCount"] = {
+      Transform = {
+        Position = {x = 111}
+      }
+    },
+    ["goViews/goVote/goContent/itemParent/item4/lbCount"] = {
+      Transform = {
+        Position = {x = 111}
+      }
+    },
+    ["goViews/goVote/goContent/itemParent/item5/lbCount"] = {
+      Transform = {
+        Position = {x = 111}
+      }
+    },
+    ["goViews/goVote/goContent/itemParent/item6/lbCount"] = {
+      Transform = {
+        Position = {x = 111}
+      }
+    },
+    ["goViews/goVote/goContent/itemParent/item7/lbCount"] = {
+      Transform = {
+        Position = {x = 111}
+      }
+    }
+  },
+  MainlineCardLotteryPanel68028 = {
+    ["LotteryCountWarningPanel/btnCancel/lblCancel"] = {
+      Label = {spacingX = 0}
+    },
+    ["LotteryCountWarningPanel/btnConfirm/lblConfirm"] = {
+      Label = {spacingX = 0}
+    },
+    ["LotteryCountPanel/Container/lblConsumeTitle"] = {
+      Label = {
+        Position = {x = -228},
+        spacingX = 0
+      }
+    },
+    ["LotteryCountPanel/Container/goCost"] = {
+      Transform = {
+        Position = {x = -187}
+      }
+    },
+    ["Container/Bottom/left/lblDesc"] = {
+      Label = {
+        width = 458,
+        Position = {y = -25},
+        spacingY = 5
+      }
+    },
+    ["LotteryCountPanel/Container/lblTitle"] = {
+      Label = {spacingX = 0}
+    },
+    ["LotteryCountPanel/Container/btnConfirm/Label"] = {
+      Label = {spacingX = 0}
+    },
+    ["Container/Bottom/left/sprDescSSRIcon"] = {
+      Widget = {
+        pivot = "Bottom",
+        Scale = {x = 0.6, y = 0.6}
+      }
+    }
+  },
+  MainlineCardRewardPanel68028 = {
+    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/lblTitle"] = {
+      Label = {
+        height = 60,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0,
+        spacingY = 5
+      }
+    },
+    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/lblScore"] = {
+      Label = {
+        x = -68,
+        y = -12,
+        spacingX = 0
+      }
+    },
+    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/lblName"] = {
+      Label = {
+        width = 125,
+        height = 50,
+        x = 55,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Toggle/lblToggleTitle1"] = {
+      Label = {
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Toggle/lblToggleTitle2"] = {
+      Label = {
+        height = 41,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["RandomReward/RandomRewardDesc"] = {
+      Label = {spacingX = 0, spacingY = 0}
+    },
+    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/goTarget/lbScore"] = {
+      Transform = {
+        Position = {x = -65}
+      }
+    },
+    ["RandomReward/RandomRewardScrollView/RandomRewardRoot/RandomRewardItemPrefab/lblName"] = {
+      Label = {
+        width = 140,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    }
+  },
+  MaleLottery2024M4V3EventMainPanel = {
+    ["Hud/Bottom/SprTitle/SprTitleText"] = {
+      Widget = {
+        Position = {x = 263, y = -145},
+        width = 376,
+        height = 116
+      }
+    },
+    ["Hud/Bottom/sprTitle"] = {
+      Transform = {
+        Position = {x = -125}
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/lblCondition"] = {
+      Label = {
+        Position = {x = 10},
+        width = 600,
+        overflowMethod = "ShrinkContent",
+        fontSize = 26,
+        spacingX = 0
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group2/lblCondition"] = {
+      Label = {
+        Position = {x = 10},
+        width = 600,
+        height = 56,
+        overflowMethod = "ShrinkContent",
+        fontSize = 26,
+        spacingX = 0
+      }
+    },
+    ["Dialogs/UnlockDialog/lblTime"] = {
+      Label = {spacingX = 0}
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/1/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/2/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/3/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/4/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/5/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/6/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/rewards/7/content/lblName"] = {
+      Label = {
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Content/root/MusicalScore/Content1/Paper/Day1/Segments/Segment1/BtnPlayMusic"] = {
+      Transform = {
+        Position = {x = -21}
+      }
+    },
+    ["Content/root/MusicalScore/Content1/Paper/Day1/Segments/Segment2/BtnPlayMusic"] = {
+      Transform = {
+        Position = {x = 61}
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group1/sprFlag"] = {
+      Widget = {
+        Position = {x = 287},
+        width = 664
+      }
+    },
+    ["Dialogs/RewardDialog/Content/Group2/sprFlag"] = {
+      Widget = {
+        Position = {x = 287},
+        width = 664
+      }
+    },
+    ["Hud/Bottom/QQPlayer/Dialog/Content"] = {
+      Label = {
+        width = 262,
+        height = 95,
+        overflowMethod = "ShrinkContent",
+        spacingY = 0
+      }
+    },
+    ["Content/root/MusicalScore/Content1/Paper/Details/Segments/Segment1/BtnPlayMusic"] = {
+      Transform = {
+        Position = {x = -35}
+      }
+    },
+    ["Content/root/MusicalScore/Content1/Paper/Details/Segments/Segment2/BtnPlayMusic"] = {
+      Transform = {
+        Position = {x = -66}
+      }
+    },
+    ["Content/root/MusicalScore/Content1/Paper/Details/Segments/Segment4/BtnPlayMusic"] = {
+      Transform = {
+        Position = {x = -52}
+      }
+    }
+  },
+  MaleLottery2024M4V3EventSharePanel = {
+    ["Content/Center/SprPanel/sprShareText1"] = {
+      Widget = {
+        width = 114,
+        height = 526,
+        Position = {x = -306, y = -106}
+      }
+    }
+  },
+  zql2022_list_clickgive = {
+    ["btnContinue/lblContinue"] = {
+      Label = {spacingX = 2}
+    },
+    ["itemTemplate/lblContent"] = {
+      Label = {spacingX = 0}
+    },
+    ["goChooseAll/lblChooseAll"] = {
+      GameObject = {active = false}
+    }
+  },
+  PrisonLifeShopPanel = {
+    ["content/itemPanel/goContent/shopItem4/content/name"] = {
+      Label = {
+        width = 210,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["content/itemPanel/goContent/shopItem1/content/sprUnlock/lbl_unlock"] = {
+      Label = {
+        width = 200,
+        Position = {x = 0, y = -22},
+        overflowMethod = "ShrinkContent",
+        spacingY = 0
+      }
+    },
+    ["content/itemPanel/goContent/shopItem1/content/name"] = {
+      Label = {
+        width = 210,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["content/itemPanel/goContent/shopItem2/content/name"] = {
+      Label = {
+        width = 210,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["content/itemPanel/goContent/shopItem3/content/name"] = {
+      Label = {
+        width = 210,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["content/itemPanel/goContent/shopItem5/content/name"] = {
+      Label = {
+        width = 210,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  PrisonLifeMainPanel = {
+    ["center/inProgress/btnCheckIn/label"] = {
+      Label = {spacingX = 0}
+    },
+    ["center/inProgress/identity_card_count"] = {
+      Label = {spacingX = 0}
+    },
+    ["center/inProgress/btnContinue/label"] = {
+      Label = {spacingX = 0}
+    },
+    ["center/nextClockIn/lbl_clock"] = {
+      Label = {spacingX = 0}
+    },
+    ["purchasePanel/goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = {
+      Label = {spacingX = 0}
+    },
+    ["purchasePanel/goContent/component/ConfirmCancel/btnConfirm/cost/lblDesc"] = {
+      Label = {spacingX = 0}
+    },
+    ["center/scene/informationBoard/screenPrompts/scrollView/grid/goTemplate/lbl_score"] = {
+      Label = {
+        Position = {x = 232},
+        spacingX = 0
+      }
+    },
+    ["center/scene/informationBoard/screenPrompts/scrollView/grid/goTemplate/lbl_title"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  PrisonLifeStoryRecapPanel = {
+    ["content/scrollView/grid/element1/content/storyName"] = {
+      Label = {
+        width = 430,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/scrollView/grid/element1/content/sprLocked/prompt"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/scrollView/grid/element2/content/storyName"] = {
+      Label = {
+        width = 430,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/scrollView/grid/element2/content/sprLocked/prompt"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/scrollView/grid/element3/content/storyName"] = {
+      Label = {
+        width = 430,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/scrollView/grid/element3/content/sprLocked/prompt"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/scrollView/grid/element4/content/storyName"] = {
+      Label = {
+        width = 430,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/scrollView/grid/element4/content/sprLocked/prompt"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/scrollView/grid/element5/content/storyName"] = {
+      Label = {
+        width = 430,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/scrollView/grid/element5/content/sprLocked/prompt"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/scrollView/grid/element6/content/storyName"] = {
+      Label = {
+        width = 430,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/scrollView/grid/element6/content/sprLocked/prompt"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/scrollView/grid/element7/content/storyName"] = {
+      Label = {
+        width = 430,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/scrollView/grid/element7/content/sprLocked/prompt"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/scrollView/grid/element8/content/storyName"] = {
+      Label = {
+        width = 430,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/scrollView/grid/element8/content/sprLocked/prompt"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  PrisonLifeSweepPanel = {
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  PrisonLifeGamePanel = {
+    ["content/bottom/triminalPanel/game/lbl_progress"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/bottom/triminalPanel/game/btn_play/prompt"] = {
+      Label = {fontSize = 35, spacingX = 0}
+    },
+    ["content/center/prision_areas/area1/btn/name"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/center/prision_areas/area2/btn/name"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/center/prision_areas/area3/btn/name"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/center/prision_areas/area4/btn/name"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/center/prision_areas/area5/btn/name"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/center/prision_areas/area6/btn/name"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/center/prision_areas/area7/btn/name"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/center/prision_areas/area8/btn/name"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/center/prision_areas/area9/btn/name"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/center/prision_areas/area10/btn/name"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/bottom/triminalPanel/game/complete/label1"] = {
+      Label = {fontSize = 35, spacingX = 0}
+    },
+    ["content/bottom/triminalPanel/game/complete/label2"] = {
+      Label = {fontSize = 35, spacingX = 0}
+    },
+    ["content/bottom/triminalPanel/game/complete/label_close_prompt"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/bottom/triminalPanel/triminal/userName"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/bottom/triminalPanel/triminal/prompt1"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/bottom/triminalPanel/triminal/prompt2"] = {
+      Label = {
+        width = 660,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/bottom/triminalPanel/triminal/btnGo/prompt"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/bottom/triminalPanel/triminal/style1/btnCommunication/prompt"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/bottom/triminalPanel/triminal/style2/btnCommunication/prompt"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/bottom/triminalPanel/triminal/style2/btnFinish/prompt"] = {
+      Label = {
+        width = 260,
+        height = 55,
+        Position = {y = 4},
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/bottom/triminalPanel/triminal/style2/lbl_skip"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/bottom/triminalPanel/triminal/prompt3"] = {
+      Label = {
+        width = 660,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/center/prision_areas/area8/btn/name/spr_mask"] = {
+      Widget = {width = 193}
+    },
+    ["content/center/prision_areas/area2/btn/name/spr_mask"] = {
+      Widget = {width = 146}
+    },
+    ["content/center/prision_areas/area1/btn/name/spr_mask"] = {
+      Widget = {width = 146}
+    },
+    ["content/center/prision_areas/area5/btn/name/spr_mask"] = {
+      Widget = {width = 150}
+    },
+    ["content/center/prision_areas/area6/btn/name/spr_mask"] = {
+      Widget = {width = 150}
+    },
+    ["content/center/prision_areas/area7/btn/name/spr_mask"] = {
+      Widget = {width = 146}
+    }
+  },
+  PrisonLifeRewardPanel = {
+    ["content/center/btn_complete/dayLabel"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/center/reward/lbl_reward"] = {
+      Label = {
+        Position = {x = -348},
+        spacingX = 0
+      }
+    },
+    ["content/center/prompts/prompt1/lbl_prompt"] = {
+      Label = {
+        width = 500,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/center/prompts/prompt2/lbl_prompt"] = {
+      Label = {
+        width = 500,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/center/prompts/prompt3/lbl_prompt"] = {
+      Label = {
+        width = 500,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["content/center/prompts/prompt4/lbl_prompt"] = {
+      Label = {
+        width = 500,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    }
+  },
+  MayDay2025SSRExtraRewardPanel = {
+    ["content/goItemTemplate/lblCount/lblTitle1"] = {
+      Widget = {
+        Position = {x = 60},
+        pivot = "Center",
+        width = 60
+      }
+    },
+    ["content/goItemTemplate/lblCount"] = {
+      Label = {fontSize = 36, spacingX = 0}
+    },
+    ["content/goItemTemplate/sprDot1"] = {
+      Transform = {
+        Position = {x = -8}
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem1/btnGotted"] = {
+      Sprite = {bSnap = true}
+    },
+    ["content/gift_num_bg/lblTotalCount"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/sprDesc"] = {
+      Widget = {height = 50}
+    },
+    ["content/goSelectItems/lblTitle"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/goSelectItems/goItems/goItem1/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["content/goSelectItems/goItems/goItem2/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["content/goSelectItems/goItems/goItem3/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["content/goSelectItems/goItems/goItem4/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["content/goItemTemplate/lblName"] = {
+      Label = {height = 59, spacingX = 0}
+    }
+  },
+  MayDay2025SSRFitRoomPanel = {
+    ["goContent/sprName2"] = {
+      Widget = {width = 212, height = 70}
+    }
+  },
+  MayDay2025SSRGiftPackPurchasePanel = {
+    ["content/spr_text"] = {
+      Widget = {
+        Position = {y = 310},
+        width = 420,
+        height = 44
+      }
+    },
+    ["content/packs/pack1/packName"] = {
+      Label = {
+        width = 140,
+        height = 60,
+        Position = {x = 6},
+        fontSize = 20,
+        overflowMethod = "ClampContent",
+        spacingY = 0
+      }
+    },
+    ["content/packs/pack2/packName"] = {
+      Label = {
+        width = 140,
+        height = 60,
+        Position = {x = 6},
+        fontSize = 20,
+        overflowMethod = "ClampContent",
+        spacingY = 0
+      }
+    },
+    ["content/packs/pack3/packName"] = {
+      Label = {
+        width = 140,
+        height = 60,
+        Position = {x = 6},
+        fontSize = 20,
+        overflowMethod = "ClampContent",
+        spacingY = 0
+      }
+    },
+    ["content/packs/pack4/packName"] = {
+      Label = {
+        width = 140,
+        height = 60,
+        Position = {x = 6},
+        fontSize = 20,
+        overflowMethod = "ClampContent",
+        spacingY = 0
+      }
+    },
+    ["content/packs/pack1/btnBuy/lblPrice"] = {
+      Transform = {
+        Position = {x = 27}
+      }
+    },
+    ["content/packs/pack2/btnBuy/lblPrice"] = {
+      Transform = {
+        Position = {x = 27}
+      }
+    },
+    ["content/packs/pack3/btnBuy/lblPrice"] = {
+      Transform = {
+        Position = {x = 27}
+      }
+    },
+    ["content/packs/pack4/btnBuy/lblPrice"] = {
+      Transform = {
+        Position = {x = 27}
+      }
+    },
+    ["content/rewards/reward1/lblDesc"] = {
+      Label = {fontSize = 20, spacingX = 0}
+    },
+    ["content/rewards/reward1/spr_get"] = {
+      Transform = {
+        Position = {x = -43}
+      }
+    },
+    ["content/rewards/reward1/spr_get/lbl_prompt"] = {
+      Label = {
+        width = 55,
+        Position = {x = 0},
+        overflowMethod = "ShrinkContent",
+        fontSize = 17
+      }
+    },
+    ["content/rewards/reward1/lblNum"] = {
+      Label = {
+        Position = {x = -253},
+        fontSize = 33,
+        spacingX = 0
+      }
+    },
+    ["content/rewards/reward2/lblDesc"] = {
+      Label = {fontSize = 20, spacingX = 0}
+    },
+    ["content/rewards/reward2/spr_get"] = {
+      Transform = {
+        Position = {x = -43}
+      }
+    },
+    ["content/rewards/reward2/spr_get/lbl_prompt"] = {
+      Label = {
+        width = 55,
+        Position = {x = 0},
+        overflowMethod = "ShrinkContent",
+        fontSize = 17
+      }
+    },
+    ["content/rewards/reward2/lblNum"] = {
+      Label = {
+        Position = {x = -253},
+        fontSize = 33,
+        spacingX = 0
+      }
+    },
+    ["content/rewards/reward3/lblDesc"] = {
+      Label = {fontSize = 20, spacingX = 0}
+    },
+    ["content/rewards/reward3/spr_get"] = {
+      Transform = {
+        Position = {x = -43}
+      }
+    },
+    ["content/rewards/reward3/spr_get/lbl_prompt"] = {
+      Label = {
+        width = 55,
+        Position = {x = 0},
+        overflowMethod = "ShrinkContent",
+        fontSize = 17
+      }
+    },
+    ["content/rewards/reward3/lblNum"] = {
+      Label = {
+        Position = {x = -253},
+        fontSize = 33,
+        spacingX = 0
+      }
+    },
+    ["content/rewards/reward1/sprItemBg"] = {
+      Transform = {
+        Position = {x = 294}
+      }
+    },
+    ["content/rewards/reward2/sprItemBg"] = {
+      Transform = {
+        Position = {x = 294}
+      }
+    },
+    ["content/rewards/reward3/sprItemBg"] = {
+      Transform = {
+        Position = {x = 294}
+      }
+    },
+    ["content/rewards/reward4/sprItemBg"] = {
+      Transform = {
+        Position = {x = 286}
+      }
+    },
+    ["content/rewards/reward1"] = {
+      Transform = {
+        Position = {x = -3}
+      }
+    },
+    ["content/rewards/reward2"] = {
+      Transform = {
+        Position = {x = -3}
+      }
+    },
+    ["content/rewards/reward3"] = {
+      Transform = {
+        Position = {x = -3}
+      }
+    }
+  },
+  PrisonLifeSelectMalePanel = {
+    ["content/btn_confirm/label"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/role1/not_selected/spr_name"] = {
+      Widget = {height = 70}
+    },
+    ["content/role1/selected/spr_name"] = {
+      Widget = {height = 70}
+    },
+    ["content/role2/not_selected/spr_name"] = {
+      Widget = {height = 70}
+    },
+    ["content/role2/selected/spr_name"] = {
+      Widget = {height = 70}
+    },
+    ["content/role3/not_selected/spr_name"] = {
+      Widget = {height = 70}
+    },
+    ["content/role3/selected/spr_name"] = {
+      Widget = {height = 70}
+    },
+    ["content/role4/not_selected/spr_name"] = {
+      Widget = {height = 70}
+    },
+    ["content/role4/selected/spr_name"] = {
+      Widget = {height = 70}
+    },
+    ["content/spr_confirm_g/label"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  PrisonLifeManyForOneMsgBox = {
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = {
+      Label = {spacingX = 0}
+    },
+    ["goContent/component/ContentItem/lblGot/lbl"] = {
+      Widget = {pivot = "Left"}
+    }
+  },
+  PrisonLifeItemSourceMsgBox = {
+    ["goContent/component/ContentItem/lblGot/lbl"] = {
+      Widget = {pivot = "Left"}
+    }
+  },
+  TheBubbleStoryPlayerPanel2025MayDay = {
+    ["Content/DialogsPrefab/Dialog1/content/lblContent"] = {
+      Label = {
+        overflowMethod = "ShrinkContent",
+        spacingX = 0,
+        spacingY = 5
+      }
+    },
+    ["Content/DialogsPrefab/Dialog2/content/lblContent"] = {
+      Label = {
+        overflowMethod = "ShrinkContent",
+        spacingX = 0,
+        spacingY = 5
+      }
+    },
+    ["Content/DialogsPrefab/DialogEnd/content/lblContent"] = {
+      Label = {
+        overflowMethod = "ShrinkContent",
+        spacingX = 0,
+        spacingY = 5
+      }
+    },
+    ["Content/DialogsPrefab/Dialog3/content/lblContent"] = {
+      Label = {
+        overflowMethod = "ShrinkContent",
+        spacingX = 0,
+        spacingY = 5
+      }
+    },
+    ["Content/DialogsPrefab/Dialog4/content/lblContent"] = {
+      Label = {
+        overflowMethod = "ShrinkContent",
+        spacingX = 0,
+        spacingY = 5
+      }
+    },
+    ["Content/DialogsPrefab/DialogEnd/content/lblName"] = {
+      Label = {
+        width = 250,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["Content/DialogsPrefab/Dialog2/content/lblName"] = {
+      Label = {
+        width = 250,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    }
+  },
+  MaleLottery2024M4V3ExtraRewardPanel = {
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = {
+      Widget = {
+        Position = {x = 60},
+        pivot = "Center",
+        width = 60
+      }
+    },
+    ["goContent/goItemTemplate/lblCount"] = {
+      Label = {fontSize = 36, spacingX = 0}
+    },
+    ["goContent/goItemTemplate/sprDot1"] = {
+      Transform = {
+        Position = {x = -8}
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem1/btnGotted"] = {
+      Sprite = {bSnap = true}
+    }
+  },
+  ClickMainPanel = {
+    ["texBg/date"] = {
+      Sprite = {bSnap = true}
+    },
+    texBg = {
+      Texture = {bSnap = true}
+    }
+  },
+  PrisonLifeIdentityVerificationPanel = {
+    ["center/namePanel/spr_name_bg/lblPlayerName"] = {
+      Label = {
+        width = 265,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    }
+  },
+  TheBubbleStoryPlayerPanelM4V1 = {
+    ["Content/Content/Dialogs/Dialog2/lblName"] = {
+      Label = {
+        width = 200,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  newbieGuidePanel = {
+    ["content/style1/spr_bg/lbl_prompt"] = {
+      Label = {
+        width = 545,
+        Position = {y = 0},
+        spacingX = 0,
+        spacingY = 0
+      }
+    },
+    ["content/style2/spr_bg/lbl_prompt"] = {
+      Label = {
+        width = 545,
+        Position = {y = 0},
+        spacingX = 0,
+        spacingY = 0
+      }
+    },
+    ["content/style3/spr_bg/lbl_prompt"] = {
+      Label = {
+        width = 545,
+        Position = {y = 0},
+        spacingX = 0,
+        spacingY = 0
+      }
+    },
+    ["content/style4/spr_bg/lbl_prompt"] = {
+      Label = {
+        width = 545,
+        Position = {y = 0},
+        spacingX = 0,
+        spacingY = 0
+      }
+    }
+  },
+  PrisonLifeSchedulePromptPanel = {
+    ["center/prompts/prompt1/lbl_prompt"] = {
+      Label = {
+        width = 500,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["center/prompts/prompt2/lbl_prompt"] = {
+      Label = {
+        width = 500,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["center/prompts/prompt3/lbl_prompt"] = {
+      Label = {
+        width = 500,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["center/prompts/prompt4/lbl_prompt"] = {
+      Label = {
+        width = 500,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    }
+  },
+  MayDay2025SSRSharePanel = {
+    ["bottom/sprText"] = {
+      Sprite = {
+        Position = {y = -463},
+        bSnap = true
+      }
+    }
+  },
+  PrisonLifeSharePanel = {
+    ["content/scene/screenPrompts/scrollView/grid/goPrompt1/lbl_title"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/scene/screenPrompts/scrollView/grid/goPrompt1/lbl_score"] = {
+      Label = {
+        Position = {x = 229},
+        spacingX = 0
+      }
+    },
+    ["content/scene/screenPrompts/scrollView/grid/goPrompt2/lbl_title"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/scene/screenPrompts/scrollView/grid/goPrompt2/lbl_score"] = {
+      Label = {
+        Position = {x = 229},
+        spacingX = 0
+      }
+    },
+    ["content/scene/screenPrompts/scrollView/grid/goPrompt3/lbl_title"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/scene/screenPrompts/scrollView/grid/goPrompt3/lbl_score"] = {
+      Label = {
+        Position = {x = 229},
+        spacingX = 0
+      }
+    },
+    ["content/scene/screenPrompts/scrollView/grid/goPrompt4/lbl_title"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/scene/screenPrompts/scrollView/grid/goPrompt4/lbl_score"] = {
+      Label = {
+        Position = {x = 229},
+        spacingX = 0
+      }
+    },
+    ["content/scene/screenPrompts"] = {
+      Transform = {
+        Position = {x = -25}
+      }
+    }
+  },
+  Halloween2024ExtraRewardPanel = {
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = {
+      Widget = {
+        Position = {x = 60},
+        pivot = "Center",
+        width = 60
+      }
+    },
+    ["goContent/goItemTemplate/lblCount"] = {
+      Label = {fontSize = 36, spacingX = 0}
+    },
+    ["goContent/goItemTemplate/sprDot1"] = {
+      Transform = {
+        Position = {x = -8}
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem1/btnGotted"] = {
+      Sprite = {bSnap = true}
+    },
+    ["goContent/lblDesc"] = {
+      Label = {
+        width = 500,
+        height = 52,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0,
+        spacingY = 4
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem1/lblName"] = {
+      Label = {
+        width = 120,
+        height = 36,
+        Position = {y = -65},
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem2/lblName"] = {
+      Label = {
+        width = 120,
+        height = 36,
+        Position = {y = -65},
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem3/lblName"] = {
+      Label = {
+        width = 120,
+        height = 36,
+        Position = {y = -65},
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem4/lblName"] = {
+      Label = {
+        width = 120,
+        height = 36,
+        Position = {y = -65},
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  Halloween2024FitRoomPanel = {
+    ["goContent/roleNameBg/lblRoleName1"] = {
+      Label = {
+        width = 176,
+        height = 45,
+        Position = {y = -17},
+        Rotation = {
+          x = 0,
+          y = 0,
+          z = -90
+        },
+        overflowMethod = "ShrinkContent",
+        spacingY = 0
+      }
+    },
+    ["goContent/roleNameBg/lblRoleName2"] = {
+      Label = {
+        width = 176,
+        height = 45,
+        Position = {y = -17},
+        Rotation = {
+          x = 0,
+          y = 0,
+          z = -90
+        },
+        overflowMethod = "ShrinkContent",
+        spacingY = 0
+      }
+    },
+    ["goContent/roleNameBg/lblRoleName3"] = {
+      Label = {
+        width = 176,
+        height = 45,
+        Position = {y = -17},
+        Rotation = {
+          x = 0,
+          y = 0,
+          z = -90
+        },
+        overflowMethod = "ShrinkContent",
+        spacingY = 0
+      }
+    },
+    ["goContent/roleNameBg/lblRoleName4"] = {
+      Label = {
+        width = 176,
+        height = 45,
+        Position = {y = -17},
+        Rotation = {
+          x = 0,
+          y = 0,
+          z = -90
+        },
+        overflowMethod = "ShrinkContent",
+        spacingY = 0
+      }
+    },
+    ["goContent/suitNameBg/lblSuitName"] = {
+      Label = {
+        width = 298,
+        height = 40,
+        Position = {y = -43},
+        Rotation = {
+          x = 0,
+          y = 0,
+          z = -90
+        },
+        overflowMethod = "ShrinkContent",
+        spacingY = 0
+      }
+    }
+  },
+  DesenoRechargePanel = {
+    ["uiPanel/btnRule"] = {
+      Button = {
+        Position = {x = 25},
+        pressedSprite = "back_limitpaynew_rule"
+      }
+    },
+    ["uiPanel/btnChange/lbChange"] = {
+      Label = {
+        width = 190,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["rewardCards/rewardPanel/nameCardRoot/itemTips1"] = {
+      Label = {spacingX = 0}
+    },
+    ["rewardCards/rewardPanel/headFrameRoot/itemTips1"] = {
+      Label = {spacingX = 0}
+    },
+    ["rewardCards/rewardPanel/nameCardRoot/itemTips2"] = {
+      Label = {spacingX = 0}
+    },
+    ["rewardCards/rewardPanel/headFrameRoot/itemTips2"] = {
+      Label = {spacingX = 0}
+    },
+    ["uiPanel/lbl_card_name"] = {
+      Label = {
+        width = 350,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    }
+  },
+  Halloween2024GuidePanel = {
+    ["goContent/scrollview/Desc"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  HundredDiaryCalendarPanel = {
+    ["Container/Calendar/WeekTitle/Weekdays"] = {
+      Label = {spacingX = 0}
+    },
+    ["Container/TotalSign/TotalSignNumberLbl"] = {
+      Transform = {
+        Position = {x = 34}
+      }
+    }
+  },
+  HundredDiaryCalendarSharePanel = {
+    ["Container/Calendar/WeekTitle/Weekdays"] = {
+      Label = {spacingX = 0}
+    },
+    ["Container/TotalSign/TotalSignNumberLbl"] = {
+      Transform = {
+        Position = {x = 34}
+      }
+    }
+  },
+  Christmas2024ExtraRewardPanel = {
+    ["goContent/goSelectItems/goItems/goItem1/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem2/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem3/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem4/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  MainlineCardLotteryPanel68024 = {
+    ["Container/TOP/btnShop/sprTag"] = {
+      Transform = {
+        Position = {y = 8}
+      }
+    },
+    ["Container/Bottom/item2/lblOwn"] = {
+      Label = {
+        pivot = "Center",
+        width = 210,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Container/Bottom/item3/btnAdd"] = {
+      BoxCollider = {
+        center = {x = -180},
+        size = {x = 420, y = 48}
+      }
+    }
+  },
+  HundredDiaryRewardListMsgBox = {
+    ["Tab/DailyRewardSelectedTitle/title"] = {
+      Label = {
+        width = 250,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Tab/DailyRewardNormalTitle"] = {
+      Label = {
+        width = 250,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Tab/SignInRewardNormalTitle"] = {
+      Label = {
+        width = 250,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Tab/SignInRewardSelectedTitle/title"] = {
+      Label = {
+        width = 250,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["SignInRewardPage/SignInTotalCount/SignInCountLbl"] = {
+      Transform = {
+        Position = {x = 247}
+      }
+    },
+    ["SignInRewardPage/SignInTotalCount/prefix"] = {
+      Widget = {width = 215, height = 24}
+    },
+    ["itemTemplate/content/lblName"] = {
+      Label = {
+        width = 120,
+        height = 40,
+        overflowMethod = "ShrinkContent",
+        spacingY = -3
+      }
+    },
+    ["SignInRewardPage/RewardList/SignInDaysLbl30"] = {
+      Label = {
+        width = 320,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["DailyRewardPage/DailyRewardLbl"] = {
+      Label = {
+        width = 510,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["SignInRewardPage/RewardList/SignInDaysLbl60"] = {
+      Label = {
+        width = 320,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["SignInRewardPage/RewardList/SignInDaysLbl90"] = {
+      Label = {
+        width = 320,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["SignInRewardPage/RewardList/SignInDaysLbl100"] = {
+      Label = {
+        width = 320,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    }
+  },
+  HundredDiaryMainPanel = {
+    ["JournalRewardTips/JournalRewardNameLbl"] = {
+      Widget = {width = 185}
+    },
+    ["JournalRewardTips/JournalRewardLbl/JournalRewardCountLbl"] = {
+      Widget = {leftAnchor_Pos = 203, rightAnchor_Pos = -39}
+    },
+    ["anim/Container/Date/DayLbl/DayCover"] = {
+      Transform = {
+        Position = {x = -27}
+      }
+    },
+    ["anim/HundredSummary/ManSummary/ManSummaryLbl"] = {
+      Label = {height = 214, spacingY = 6}
+    },
+    ["anim/HundredSummary/ManSticker"] = {
+      Transform = {
+        Position = {y = -101}
+      }
+    },
+    ["anim/HundredSummary/MySticker"] = {
+      Transform = {
+        Position = {y = -101}
+      }
+    }
+  },
+  HundredDiaryConfirmResignMsgBox = {
+    ConfirmDayLbl = {
+      Widget = {
+        Position = {x = 0},
+        pivot = "Center"
+      }
+    },
+    Tips = {
+      Label = {
+        pivot = "Center",
+        width = 630,
+        height = 181,
+        Position = {x = 0, y = 36},
+        overflowMethod = "ShrinkContent",
+        spacingY = 10
+      }
+    }
+  },
+  MainlineCardSweepPanel68029 = {
+    ["goContent/goRewards/goItemTemplate/sprExtra/lblExtra"] = {
+      Label = {
+        width = 95,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  Birth25GlobalRewardPanel = {
+    ["rewardList/gridSlot"] = {
+      GameObject = {active = false}
+    },
+    ["rewardList/extraNode"] = {
+      GameObject = {active = false}
+    },
+    ["rewardList/texBg"] = {
+      Texture = {
+        mainTexture = {
+          path = "Activity/BirthDay/92016/Imgs/back_2019lzybd_allreward_photo.png",
+          value = "Birth25GlobalRewardPanel"
+        },
+        bSnap = true
+      }
+    },
+    ["goProgress/goNodes/goNode1/lblWorldScore/lblTitle"] = {
+      Label = {
+        x = -61,
+        width = 112,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goProgress/goNodes/goNode2/lblWorldScore/lblTitle"] = {
+      Label = {
+        x = -61,
+        width = 112,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goProgress/goNodes/goNode3/lblWorldScore/lblTitle"] = {
+      Label = {
+        x = -61,
+        width = 112,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goProgress/goNodes/goNode4/lblWorldScore/lblTitle"] = {
+      Label = {
+        x = -61,
+        width = 112,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goProgress/goNodes/goNode5/lblWorldScore/lblTitle"] = {
+      Label = {
+        x = -61,
+        width = 112,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goWorldScoreCount/lblScore"] = {
+      Label = {
+        x = 90,
+        y = -4,
+        width = 100,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    lblDesc = {
+      Label = {
+        width = 680,
+        height = 120,
+        Position = {y = 438},
+        overflowMethod = "ShrinkContent",
+        spacingY = 4
+      }
+    }
+  },
+  Birth25MainPanel = {
+    ["Content/topAnchor/normalBtnRoot/btnRelated"] = {
+      GameObject = {active = false}
+    },
+    ["Content/centerRootA/bottomAnchor/lblScore"] = {
+      Label = {
+        width = 200,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["Content/topAnchor/normalBtnRoot/btnGlobalReward"] = {
+      Transform = {
+        Scale = {
+          x = 0.85,
+          y = 0.85,
+          z = 0.85
+        }
+      }
+    },
+    ["Content/bottomAnchor/normalLblRoot/nodeBirthTime/lblHours"] = {
+      Transform = {
+        Position = {x = 99}
+      }
+    },
+    ["Content/bottomAnchor/normalLblRoot/nodeBirthTime/lblDays"] = {
+      Transform = {
+        Position = {x = 9}
+      }
+    },
+    ["Content/bottomAnchor/normalLblRoot/nodeBirthTime/Label3"] = {
+      Transform = {
+        Position = {x = 120}
+      }
+    },
+    ["Content/bottomAnchor/normalLblRoot/nodeBirthTime/Label2"] = {
+      Transform = {
+        Position = {x = 21}
+      }
+    },
+    ["Content/centerRootB/dialog/lblDialog"] = {
+      Label = {spacingY = 5}
+    },
+    ["Content/topAnchor/sprTime"] = {
+      Transform = {
+        Position = {y = -59}
+      }
+    },
+    ["Content/centerRootA/bottomAnchor/node/goPiano/btnPiano/tip"] = {
+      Transform = {
+        Position = {x = -49}
+      }
+    }
+  },
+  Birth25PreviewPanel = {
+    ["goContent/ScoreReward/ScoreRewardItemPrefab/lblTitle1"] = {
+      Label = {
+        width = 207,
+        Position = {x = -297},
+        overflowMethod = "ShrinkContent",
+        alignment = "Center"
+      }
+    },
+    ["goContent/ScoreReward/ScoreRewardItemPrefab/lblTitle2"] = {
+      Label = {
+        Position = {x = -78},
+        fontSize = 23
+      }
+    },
+    ["goContent/ScoreReward/ScoreRewardItemPrefab/lblTitle3"] = {
+      Label = {
+        Position = {x = -58},
+        width = 84,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/ScoreReward/ScoreRewardItemPrefab/SingleItem1/lblName"] = {
+      Widget = {
+        Position = {y = -69},
+        height = 36
+      }
+    },
+    ["goContent/ScoreReward/ScoreRewardItemPrefab/SingleItem2/lblName"] = {
+      Widget = {
+        Position = {y = -69},
+        height = 36
+      }
+    },
+    ["goContent/ScoreReward/ScoreRewardScrollView"] = {
+      UIPanel = {
+        clipRegion = {
+          x = -7,
+          y = -28,
+          z = 700,
+          w = 522
+        }
+      }
+    },
+    ["goContent/ScoreReward/ScoreRewardItemPrefab/SingleItem1"] = {
+      Transform = {
+        Position = {x = 95}
+      }
+    },
+    ["goContent/ScoreReward/ScoreRewardItemPrefab/SingleItem2"] = {
+      Transform = {
+        Position = {x = 224}
+      }
+    },
+    ["goContent/ScoreReward/ScoreRewardItemPrefab/SingleItem3"] = {
+      Transform = {
+        Position = {x = 347}
+      }
+    },
+    ["goContent/ScoreReward/ScoreRewardItemPrefab/SingleItem3/lblName"] = {
+      Widget = {
+        Position = {y = -69},
+        height = 36
+      }
+    },
+    ["goContent/ScoreReward"] = {
+      Transform = {
+        Position = {y = 20}
+      }
+    }
+  },
+  Birth25ShopPanel = {
+    lblDesc = {
+      Label = {
+        Position = {y = 286},
+        spacingX = 0
+      }
+    },
+    ["goItemTemplate/name"] = {
+      Label = {
+        width = 200,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goBlockMask/lblBlock"] = {
+      Label = {
+        width = 650,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    itemPanel = {
+      Transform = {
+        Position = {y = -177}
+      }
+    }
+  },
+  Birth25RankPanel = {
+    lblDesc = {
+      Label = {
+        width = 570,
+        height = 120,
+        Position = {x = -325, y = 386},
+        overflowMethod = "ShrinkContent",
+        spacingY = 1
+      }
+    },
+    ["goContent/goHead/Sprite/Label"] = {
+      Label = {
+        width = 90,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goHead/Sprite (1)/Label"] = {
+      Label = {
+        width = 90,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/mine/lblname"] = {
+      Label = {
+        width = 156,
+        overflowMethod = "ResizeHeight"
+      }
+    },
+    ["goContent/mine/head"] = {
+      Transform = {y = 3}
+    },
+    ["goContent/mine/head/lvboard"] = {
+      Widget = {x = 118, depth = 25}
+    },
+    ["goContent/mine/head/lvboard/Label"] = {
+      Widget = {depth = 26}
+    },
+    lblRankTip = {
+      Transform = {x = -222}
+    },
+    ["goContent/mine/head/rank"] = {
+      Texture = {bSnap = true}
+    },
+    ["goContent/mine/head/rank/Label"] = {
+      Label = {
+        width = 60,
+        height = 40,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/ScrollView"] = {
+      UIPanel = {
+        Position = {y = 0},
+        clipRegion = {
+          x = 0,
+          y = 0,
+          z = 718,
+          w = 564
+        },
+        clipOffset = {x = 0, y = 0}
+      }
+    },
+    ["goContent/ScrollView/GameObject"] = {
+      Transform = {
+        Position = {y = 190}
+      }
+    }
+  },
+  Birth25NoteDrawPanel = {
+    ["goContent/Top/btnStory"] = {
+      Sprite = {bSnap = true}
+    }
+  },
+  Birth25ItemMakePanel = {
+    ["itemPanel/bottom/goTabs/scrollChoices/sampleTab/spNormal/lblNormal"] = {
+      Label = {spacingX = 0}
+    },
+    ["itemPanel/bottom/goSubTabs/scrollChoices/sampleTab/spSelect"] = {
+      Widget = {width = 137}
+    },
+    ["itemPanel/bottom/goSubTabs/scrollChoices/sampleTab/spSelect/lblSelect"] = {
+      Label = {
+        width = 120,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["itemPanel/bottom/goItemView/sampleItem/lblFrom"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["itemPanel/bottom/goTabs/scrollChoices/sampleTab/spSelect/lblSelect"] = {
+      Label = {spacingX = 0}
+    },
+    ["itemPanel/bottom/goSubTabs/scrollChoices/sampleTab/spNormal/lblNormal"] = {
+      Label = {spacingX = 0}
+    },
+    ["itemPanel/bottom/goItemView/sampleItem/lblName"] = {
+      Label = {
+        width = 180,
+        height = 44,
+        overflowMethod = "ShrinkContent"
+      },
+      Transform = {
+        Position = {y = -96}
+      }
+    }
+  },
+  title_51292 = {
+    ["effect/right_anim"] = {
+      Transform = {
+        Position = {x = 76}
+      }
+    },
+    ["effect/left_anim"] = {
+      Transform = {
+        Position = {x = -13}
+      }
+    }
+  },
+  Birth25WishConsumePanel = {
+    ["btnBuyConfirm/lblConfirm"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  Birth25DiyItemDesPanel = {
+    ["goContent/nodeTitle/lblWord"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  Birth25DecorationPreviewPanel = {
+    ["goContent/decorationPreview/ItemPrefab/lblName"] = {
+      Widget = {width = 100, height = 36}
+    }
+  },
+  Birth25Phase1AwardPanel = {
+    ["goContent/ItemReward/sv/grid/diyItem2/goTitle/lbUse"] = {
+      Widget = {
+        Position = {x = -122},
+        pivot = "Left"
+      }
+    },
+    ["goContent/ItemReward/sampleItem/item/lblname"] = {
+      Label = {
+        width = 130,
+        Position = {x = 0},
+        spacingX = 0
+      }
+    },
+    ["goContent/lblTitle"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  Birth25DiyItemGetMsgBox = {
+    ["goContent/2/lblTypeName"] = {
+      Label = {spacingX = 0}
+    },
+    ["goContent/1/lblTypeName"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  Spring2025URExtraRewardPanel = {
+    ["goContent/goItemTemplate/lblCount/lblTitle1"] = {
+      Widget = {
+        Position = {x = 36},
+        width = 55
+      }
+    },
+    ["goContent/goItemTemplate/lblCount"] = {
+      Label = {spacingX = 0}
+    },
+    ["goContent/goItemTemplate/sprDot1"] = {
+      Transform = {
+        Position = {x = -4}
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem1/btnGotted"] = {
+      Button = {
+        pressedSprite = "btn_csdybz_got"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem2/btnGotted"] = {
+      Button = {
+        pressedSprite = "btn_csdybz_got"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem3/btnGotted"] = {
+      Button = {
+        pressedSprite = "btn_csdybz_got"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem4/btnGotted"] = {
+      Button = {
+        pressedSprite = "btn_csdybz_got"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem1/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem2/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem3/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goSelectItems/goItems/goItem4/lblName"] = {
+      Label = {
+        width = 150,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContent/goItemTemplate/nameTemp"] = {
+      Widget = {width = 140}
+    },
+    ["goContent/goItemTemplate/rewardTemp/sprCanGot"] = {
+      Widget = {width = 70}
+    },
+    ["goContent/goItemTemplate/rewardTemp/sprCanGot/Label"] = {
+      Label = {
+        width = 60,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  Birth25SendGiftPanel = {
+    ["goContent/Bottom/goDialogView/goGirl/goDialog/lbContent"] = {
+      Label = {
+        height = 106,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0,
+        spacingY = 4
+      }
+    }
+  },
+  CardsPreview = {
+    ["goCardInfo/cardPanel/cardreward/lblname"] = {
+      Label = {
+        width = 310,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  DesenoRechargePanel9072 = {
+    ["uiPanel/btnChange/lbChange"] = {
+      Label = {
+        width = 190,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["rewardCards/rewardPanel/nameCardRoot/itemTips2"] = {
+      Label = {
+        Position = {x = -136},
+        spacingX = 0
+      }
+    },
+    ["rewardCards/rewardPanel/headFrameRoot/itemTips2"] = {
+      Label = {
+        Position = {x = -136},
+        spacingX = 0
+      }
+    },
+    ["uiPanel/lbl_card_name"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  Spring2025URFitRoomPanel = {
+    lblSuitName = {
+      Label = {
+        width = 209,
+        height = 30,
+        Position = {x = -148, y = 313},
+        Rotation = {
+          x = 0,
+          y = 0,
+          z = -90
+        },
+        overflowMethod = "ShrinkContent",
+        spacingY = 0
+      }
+    },
+    ["lblSuitName/bg"] = {
+      Transform = {
+        Position = {x = 38, y = -12},
+        Rotation = {
+          x = 0,
+          y = 0,
+          z = 90
+        }
+      }
+    }
+  },
+  Birth25NoteDetailPanel = {
+    ["goContent/goQuestion/lbContent"] = {
+      Label = {
+        height = 78,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0,
+        spacingY = 0
+      }
+    },
+    ["goContent/goTemplates/Left1/goNormal/lbContent"] = {
+      Label = {spacingX = 0, spacingY = 0}
+    },
+    ["goContent/goTemplates/Left2/goNormal/lbContent"] = {
+      Label = {spacingX = 0, spacingY = 0}
+    },
+    ["goContent/goTemplates/Right/goNormal/lbContent"] = {
+      Label = {spacingX = 0, spacingY = 0}
+    }
+  },
+  DynamicCardPreview = {
+    lblname = {
+      Label = {
+        width = 300,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  Spring2025URUpViewPanel = {
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace1/HightDepthPanel/btnTryDate/sprTryDate/lbTryDate"] = {
+      Label = {
+        width = 95,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace2/HightDepthPanel/btnTryDate/sprTryDate/lbTryDate"] = {
+      Label = {
+        width = 95,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace3/HightDepthPanel/btnTryDate/sprTryDate/lbTryDate"] = {
+      Label = {
+        width = 95,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goContainer/cardContainer/goLotteryUp/CardCommonFace4/HightDepthPanel/btnTryDate/sprTryDate/lbTryDate"] = {
+      Label = {
+        width = 95,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["goSingleContainer/btnPanel/btnFirstShare/sprCard"] = {
+      Transform = {
+        Position = {x = 172},
+        Scale = {
+          x = 0.6,
+          y = 0.6,
+          z = 0.6
+        }
+      }
+    }
+  },
+  MainlineCardLotteryPanel68027 = {
+    ["Container/TOP/btnShop/sprTag"] = {
+      Transform = {
+        Position = {y = 8}
+      }
+    },
+    ["Container/Bottom/item2/lblOwn"] = {
+      Label = {
+        pivot = "Center",
+        width = 210,
+        height = 36,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Container/Bottom/item3/btnAdd"] = {
+      BoxCollider = {
+        center = {x = -180},
+        size = {x = 420, y = 48}
+      }
+    }
+  },
+  CycleExtraPiecesView = {
+    ["bottom/main/img_static/line1"] = {
+      GameObject = {active = false}
+    },
+    ["bottom/main/img_static/line2"] = {
+      GameObject = {active = false}
+    },
+    ["bottom/main/img_static/line3"] = {
+      GameObject = {active = false}
+    },
+    ["bottom/main/img_static/item/number/info"] = {
+      GameObject = {active = false}
+    },
+    ["bottom/main/img_static/item/attacher/lblName"] = {
+      Label = {
+        width = 140,
+        height = 40,
+        Position = {y = -80},
+        overflowMethod = "ShrinkContent",
+        spacingY = -3
+      }
+    },
+    ["bottom/main/img_static/txt_desc"] = {
+      Label = {
+        y = 80,
+        spacingX = 0,
+        spacingY = 4
+      }
+    }
+  },
+  purchaseItemMsgBox = {
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  CustomizableGiftBoxConfirmPanel = {
+    ["content/btnConfirm/lblConfirm"] = {
+      Label = {spacingX = 0}
+    },
+    ["content/btnCancel/lblCancel"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  CardPreview = {
+    ["goCardInfo/cardPanel/cardreward/lblname"] = {
+      Label = {
+        width = 320,
+        Position = {x = 0},
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  CustomizableClothingGiftBox = {
+    ["goContent/component/ScrollItemGrid/CommonItem/content/lblName"] = {
+      Label = {
+        width = 135,
+        height = 40,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  MainlineCardLotteryPanel68030 = {
+    ["Container/Bottom/right/btnActive"] = {
+      GameObject = {active = false}
+    },
+    ["LotteryCountWarningPanel/btnCancel/lblCancel"] = {
+      Label = {spacingX = 0}
+    },
+    ["LotteryCountWarningPanel/btnConfirm/lblConfirm"] = {
+      Label = {spacingX = 0}
+    },
+    ["LotteryCountPanel/Container/lblTitle"] = {
+      Label = {spacingX = 0}
+    },
+    ["LotteryCountPanel/Container/btnConfirm/Label"] = {
+      Label = {spacingX = 0}
+    },
+    ["Container/Bottom/left/sprDescSSRIcon"] = {
+      Transform = {
+        Position = {x = 189, y = -10}
+      }
+    },
+    ["Container/Bottom/left/lblDesc"] = {
+      Label = {
+        width = 446,
+        height = 121,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Container/Bottom/nextScore/lblNextScoreTitle"] = {
+      Label = {
+        width = 180,
+        height = 40,
+        Position = {y = 0},
+        overflowMethod = "ShrinkContent",
+        spacingY = -4
+      }
+    },
+    ["LotteryCountPanel/Container/goCost"] = {
+      Transform = {
+        Position = {x = 36}
+      }
+    },
+    ["LotteryCountPanel/Container/lblConsumeTitle"] = {
+      Transform = {
+        Position = {x = -166}
+      }
+    }
+  },
+  MainlineCardLotteryResultPanel68030 = {
+    ["Container/sprTitle/Label"] = {
+      Label = {
+        width = 250,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    }
+  },
+  MainlineCardRewardPanel68030 = {
+    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/lblTitle"] = {
+      Label = {
+        height = 60,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0,
+        spacingY = 5
+      }
+    },
+    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/lblScore"] = {
+      Label = {
+        x = -68,
+        y = -12,
+        spacingX = 0
+      }
+    },
+    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/lblName"] = {
+      Label = {
+        width = 125,
+        height = 50,
+        x = 55,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Toggle/lblToggleTitle1"] = {
+      Label = {
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["Toggle/lblToggleTitle2"] = {
+      Label = {
+        height = 41,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["RandomReward/RandomRewardDesc"] = {
+      Label = {spacingX = 0, spacingY = 0}
+    },
+    ["ScoreReward/ScoreRewardScrollView/ScoreRewardRoot/ScoreRewardItemPrefab/goTarget/lbScore"] = {
+      Transform = {
+        Position = {x = -65}
+      }
+    },
+    ["RandomReward/RandomRewardScrollView/RandomRewardRoot/RandomRewardItemPrefab/lblName"] = {
+      Label = {
+        width = 140,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    }
+  },
+  MainlineCardPackageConfirmPanel68030 = {
+    ["Content/btnCancel/lblCancel"] = {
+      Label = {spacingX = 0}
+    },
+    ["Content/btnOK/lblOK"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  ItemSourceMsgBox2 = {
+    ["goContent/component/MsgBoxTitle/lblTitle"] = {
+      Widget = {pivot = "Left"}
+    },
+    ["goContent/component/ContentItem/sprBg/lblContent"] = {
+      Label = {spacingX = 0, spacingY = 4}
+    }
+  },
+  SeaSideMalePanel = {
+    ["story/btnReview/Label"] = {
+      GameObject = {active = false}
+    },
+    ["story/btnReview/Sprite"] = {
+      GameObject = {active = false}
+    }
+  },
+  SeaSideShopItemPanel = {
+    ["btnBuyConfirm/lblConfirm"] = {
+      Label = {spacingX = 0}
+    },
+    ["Title/text"] = {
+      Label = {
+        width = 250,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  SeaSideShopPanel = {
+    ["prefab/name"] = {
+      Label = {
+        width = 210,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  MainlineCardViewPanel68008 = {
+    ["Container/lblTitle"] = {
+      Label = {height = 38, spacingX = 0}
+    }
+  },
+  MainlineCardRewardDialog68008 = {
+    ["BG/Label"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  MainlineCardLotteryPanel68008 = {
+    ["LotteryDialog/btnConfirm/Label"] = {
+      Label = {spacingX = 0}
+    }
+  },
+  ExtraEngagementPlayerPanel = {
+    ["back/body/text"] = {
+      Label = {text = ""}
+    }
+  },
+  MainlineCardViewPanel68030 = {
+    ["goContent/lblName"] = {
+      Label = {
+        width = 390,
+        overflowMethod = "ShrinkContent"
+      }
+    }
+  },
+  SeaSideSuddenEventPanel = {
+    ["spevent/options/3/Label"] = {
+      Label = {
+        width = 640,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["spevent/options/2/Label"] = {
+      Label = {
+        width = 640,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["spevent/options/1/Label"] = {
+      Label = {
+        width = 640,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["eventreview/option/Label"] = {
+      Label = {
+        width = 640,
+        overflowMethod = "ShrinkContent"
+      }
+    },
+    ["eventreview/lblevent"] = {
+      Label = {spacingY = 3}
+    }
+  },
+  SeaSidePanel = {
+    title = {
+      Transform = {
+        Scale = {
+          x = 0.8,
+          y = 0.8,
+          z = 0.8
+        }
+      }
+    }
+  },
+  MobilePreviewFriendCoverPanel = {
+    ["UpPanel/Anchor/fakeBtn1"] = {
+      GameObject = {active = false}
+    }
+  },
+  CardFriendCoverHDMsgBox = {
+    ["goContent/component/ConfirmCancel/btnCancel/lblCancel"] = {
+      Label = {
+        width = 250,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
+      }
+    },
+    ["goContent/component/ConfirmCancel/btnConfirm/lblConfirm"] = {
+      Label = {
+        width = 250,
+        overflowMethod = "ShrinkContent",
+        spacingX = 0
       }
     }
   }

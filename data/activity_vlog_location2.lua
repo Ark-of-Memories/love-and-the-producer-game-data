@@ -255,161 +255,158 @@ This little moment of connection between me and Victor... I think I'll keep it a
   },
   [33018] = {
     [1] = {
-      location_name = "愿望清单",
+      location_name = "Wishlist",
       first_location = 1,
       location_story_id = "817901",
-      location_desc = "周棋洛的愿望单哪儿像是在向我许愿，分明是在催着我多出去玩一玩嘛……",
+      location_desc = "Kiro's so-called \"wishlist\" feels less like a list of wishes for me and more like his way of nudging me to get out and enjoy life.",
       location_picture = "3301801",
       location_type = "1"
     },
     [2] = {
-      location_name = "想念的声音",
+      location_name = "Voice of Love",
       location_story_id = "817902",
-      location_desc = "虽然才刚分开几天，但我已经在默数着见面的日子了……希望时间能过得再快点才好。",
+      location_desc = "It's only been a few days since we parted, yet I'm already counting down the days until we meet again... I wish time would move just a bit faster.",
       location_picture = "3301802",
       location_type = "1"
     },
     [3] = {
-      location_name = "如此演技",
+      location_name = "Unmatched Acting",
       location_story_id = "817903",
-      location_desc = "加班的时候心血来潮地和悦悦她们以夜宵为赌注玩了一会儿“不要笑挑战”……难道我的笑点也很低？",
+      location_desc = "One evening, while working overtime, I ended up playing the \"Try Not to Laugh Challenge\" with Kiki and the others. To my surprise, I found out it was a lot easier to make me laugh than I once thought.",
       location_picture = "3301803",
       location_type = "1"
     },
     [4] = {
-      location_name = "陪伴玩偶",
+      location_name = "Companion Plushie",
       location_story_id = "817904",
-      location_desc = "……没想到录音小兔只支持20秒的语音，这根本不够！！看来要拜托KEY大神手动“升级”一下录音功能了。",
+      location_desc = "...The recording bunny can only store twenty seconds of audio, far too short to say everything I want. I suppose I'll have to ask Key to \"upgrade\" it for me.",
       location_picture = "3301804",
       location_type = "1"
     },
     [5] = {
-      location_name = "小太阳",
+      location_name = "Little Sunflowers",
       location_story_id = "817905",
-      location_desc = "把花摆在桌上，感觉工作都心安了不少~过几天就可以去探班啦，到时候再买一束带给他吧。",
+      location_desc = "Setting the bouquet on my desk even seemed to put my mind at ease. In a few days, I'll be visiting his set. Perhaps I'll bring another bouquet along as a gift.",
       location_picture = "3301805",
       location_type = "1"
     },
     [6] = {
-      location_name = "加油便签",
+      location_name = "Motivational Note",
       location_story_id = "817906",
-      location_desc = "其他的文件夹里也发现了周棋洛留下的“加油便签”。原来我的生活魔法师真的是无处不在的。我是不是也该为他准备一些小便签呢……",
+      location_desc = "While going through other folders, I stumbled upon another of Kiro's little \"cheer-up\" notes. Like a magician in my life, he truly has a way of being everywhere. Maybe it's time that I started leaving small notes for him, too.",
       location_picture = "3301806",
       location_type = "2"
     },
     [7] = {
-      location_name = "惊喜糖果",
+      location_name = "Surprise Candy",
       location_story_id = "817907",
-      location_desc = "从拿到的样片里看到了教学制作糖果的部分，偷偷做一份出来给他个惊喜吧，他一定会喜欢的！",
+      location_desc = "In one of the clip reels I reviewed, there was a scene of making candy. I've decided to try making some myself to surprise him. I'm sure he'll love it.",
       location_picture = "3301807",
       location_type = "2"
     },
     [8] = {
-      location_name = "定制奶茶",
+      location_name = "Custom Boba Tea",
       location_story_id = "817908",
-      location_desc = "今天喝到了一杯全世界最最甜的奶茶，是独一无二的。",
+      location_desc = "Today, I tasted what must be the sweetest, one-of-a-kind boba tea in the world.",
       location_picture = "3301808",
       location_type = "1"
     },
     [9] = {
-      location_name = "“护身符”",
+      location_name = "Good Luck Charm",
       location_story_id = "817909",
-      location_desc = "把周棋洛做的小护身符放进玩偶里了，不知道抱着它睡觉的话，能不能梦到他呢？估计会在梦里变成小兔子……真想一睁眼就看到他呀。",
+      location_desc = "I placed the small charm Kiro made for me inside a plushie. If I take it to sleep with me, will it let me dream of him? I bet he'll probably look like a little bunny in my dream... If only when I opened my eyes, he would be here with me.",
       location_picture = "3301809",
       location_type = "1"
     },
-    [10] = {
-      location_name = "拍摄舞台",
-      last_location = 1
-    }
+    [10] = {location_name = "Film Set", last_location = 1}
   },
   [33019] = {
     [1] = {
-      location_name = "纸笺留情",
+      location_name = "Love Notes",
       location_story_id = "818709",
-      location_desc = "看见便笺心里暖暖的，下次李泽言出门的时候，我也要悄悄多贴几张，不过临时写会不会来不及？要不然现在先写一些备用吧！",
+      location_desc = "Seeing that little memo warmed my heart. Next time Victor heads out on a trip, I want to secretly stick a few more notes into his bag. But will I have time to scribble them on the spot? Maybe I should write a few spares now just in case!",
       location_picture = "3301909",
       location_type = "2"
     },
     [2] = {
-      location_name = "琴声心声",
+      location_name = "Heartfelt Tune",
       location_story_id = "818710",
-      location_desc = "看来弹琴还是得经常练习才能不会出错，不过或许是心境的缘故，怎么感觉今天弹恋曲的手感特别好呢？",
+      location_desc = "I guess I really need to practice often to stay good at the piano. Still, maybe it was my mood today, but somehow the love song felt especially smooth under my fingers.",
       location_picture = "3301910",
       location_type = "1"
     },
     [3] = {
-      location_name = "清晨餐点",
+      location_name = "Morning Meal",
       first_location = 1,
       location_story_id = "818701",
-      location_desc = "吃饭的时候，我发现餐盘上食物的温度入口正好，不知道是不是他估算着我起床的时间做完早餐，并写好了清单。早餐很美味，只是缺少一个在对面跟我一起吃饭的人。",
+      location_desc = "While I was eating, I realized the food was just the right temperature. I wondered if Victor had timed it based on when I'd wake up. He even left a little checklist. Breakfast was delicious... though it did feel a little lonely without him sitting across from me.",
       location_picture = "3301901",
       location_type = "1"
     },
     [4] = {
-      location_name = "悠悠青森",
+      location_name = "Verdant Woods",
       last_location = 1
     },
     [5] = {
-      location_name = "永恒芬芳",
+      location_name = "Eternal Fragrance",
       location_story_id = "818704",
-      location_desc = "特意打理过的干花比想象中还要牢固，每一片花瓣都保留着鲜艳时最好的香气，有点期待他看见的样子啦。",
+      location_desc = "The dried flowers I arranged turned out sturdier than expected. Each petal still carries the scent of its freshest bloom. I'm honestly kind of excited to see Victor's reaction when he notices them.",
       location_picture = "3301904",
       location_type = "1"
     },
     [6] = {
-      location_name = "崭新衣装",
+      location_name = "New Outfit",
       location_story_id = "818712",
-      location_desc = "我要努力工作，早晚要有一张自己的黑卡，等他买东西的时候霸气一甩，“先刷我的卡”！",
+      location_desc = "I'm going to work hard and get myself a black card someday. And when that moment comes, I'll toss it down in front of him and say, \"Here, use mine.\"",
       location_picture = "3301912",
       location_type = "2"
     },
     [7] = {
-      location_name = "情侣装饰",
+      location_name = "In Sync",
       location_story_id = "818711",
-      location_desc = "特意选了不那么张扬的颜色和材质，在各种服装上出现也不会显得太突兀，希望它能陪伴李泽言，去往更多地方。",
+      location_desc = "I picked a design that's modest in both color and texture, subtle enough to blend into any outfit. I hope it becomes something that stays by Victor's side, no matter where he goes.",
       location_picture = "3301911",
       location_type = "1"
     },
     [8] = {
-      location_name = "半糖甜心",
+      location_name = "Little Ritual",
       location_story_id = "818705",
-      location_desc = "这次分离的经验是，拍一张隔空互动的照片，有利于缓解思念。如果能坚持这个小小的仪式，说不定十年之后，我和李泽言可以拥有一个具有特殊意义的相片集！",
+      location_desc = "One thing I've learned from being apart: taking little \"long-distance\" photos actually helps ease the longing. If we keep this up, maybe ten years from now, we'll have an album full of memories that mean the world to us.",
       location_picture = "3301905",
       location_type = "1"
     },
     [9] = {
-      location_name = "剧情谜团",
+      location_name = "No Spoilers",
       location_story_id = "818707",
-      location_desc = "我是不是应该提醒李泽言最近不要上网？现在热搜已经出来了，太容易剧透了。决定了，我要先看一遍解说，到时候带着细节去和李泽言再看一遍！我要二刷！",
+      location_desc = "Should I warn Victor to stay offline for a bit? The spoilers are already flooding the internet. You know what—I'll go watch a breakdown video first. That way, when we rewatch the movie together, I'll have all the juicy behind-the-scenes info ready to go. I'm totally down for a second viewing!",
       location_picture = "3301907",
       location_type = "1"
     },
     [10] = {
-      location_name = "低唱浅念",
+      location_name = "Hushed Melody",
       location_story_id = "818708",
-      location_desc = "总感觉这张唱片的曲目很适合慢舞，或许很快就有机会再穿起舞鞋啦。",
+      location_desc = "There's something about this record that just feels perfect for a slow dance. Maybe... it won't be long before I have a reason to put my dance shoes back on.",
       location_picture = "3301908",
       location_type = "1"
     },
     [11] = {
-      location_name = "泡沫猫球",
+      location_name = "Furry Bubble",
       location_story_id = "818702",
-      location_desc = "布丁好像对洗过澡之后的自己很满意，在医院驱虫的时候还晒着太阳翻肚皮。但它对身上没了我的气息不开心，回来的路上一直在我身上蹭来蹭去。李泽言在的话，是不是也会被蹭出一身猫毛呢？",
+      location_desc = "Pudding looked pretty pleased with himself after his bath. He even stretched out belly-up in the sun while we were at the clinic checking for bugs. But once he realized he didn't smell like me anymore, he started rubbing all over me on the way home. If Victor had been there, would he have gotten a full coat of cat fur, too?",
       location_picture = "3301902",
       location_type = "1"
     },
     [12] = {
-      location_name = "时光重叠",
+      location_name = "Shared Moments",
       location_story_id = "818706",
-      location_desc = "自从第一次布置照片墙以来，照片已经更新换代了很多次。不同照片的时间跨度越来越大，我和李泽言的回忆也越来越多啦。",
+      location_desc = "Since the first time I put up our photo wall, it's been updated countless times. The gaps between the photos are getting wider, but so are the memories I've shared with Victor. It's like watching time stretch and bloom.",
       location_picture = "3301906",
       location_type = "1"
     },
     [13] = {
-      location_name = "干劲满满",
+      location_name = "Fully Motivated",
       location_story_id = "818703",
-      location_desc = "在忙碌的间隙收到了李泽言的邮件，感觉自己的效率都提高了，这就是工作狂的力量吗？要不下次把他的邮件置顶在屏幕上？",
+      location_desc = "In the middle of a hectic workday, an email from Victor popped up, and somehow, my productivity just shot through the roof. Is that the magic of a workaholic? Maybe I should pin his emails to the top of my screen next time.",
       location_picture = "3301903",
       location_type = "1"
     }
@@ -486,162 +483,159 @@ This little moment of connection between me and Victor... I think I'll keep it a
   },
   [33021] = {
     [1] = {
-      location_name = "梦之航线",
+      location_name = "Dream Flight",
       first_location = 1,
       location_story_id = "820611",
-      location_desc = "苹果味甜甜的也有点酸酸的，虽然才刚刚分开，但是看着他留下来的list，已经感觉有点想念了。这大概就是打开秘密宝藏的连锁反应吧。",
+      location_desc = "The apple was sweet with just a hint of tartness. We only just said goodbye, but as I looked over the list he left behind, I already found myself missing him. Maybe that's the chain reaction that happens when you open a little treasure trove of memories.",
       location_picture = "3302101",
       location_type = "1"
     },
     [2] = {
-      location_name = "暖心散步",
+      location_name = "A Warm Walk",
       location_story_id = "820612",
-      location_desc = "苹果箱真的好乖呀，在公园的时候有好多小朋友想陪它玩，还有很多小姐姐主动找它一起合照。都说狗狗养久了以后会和主人相似，看来吸引力这方面确实有点像呢~",
+      location_desc = "Apple Box was so well-behaved today. At the park, a bunch of kids wanted to play with him, and quite a few young women came up asking for photos. They say dogs start to resemble their owners after a while—looks like their charm is starting to match, too.",
       location_picture = "3302102",
       location_type = "1"
     },
     [3] = {
-      location_name = "阳光薄荷",
+      location_name = "Sunlit Mint",
       location_story_id = "820613",
-      location_desc = "浇了很多水，也在阳台上享受了美美的阳光，猫薄荷今天也精神很好的样子呢！另外，悄悄宣布：周棋洛=我的人薄荷。",
+      location_desc = "I gave it a good watering and let it bask in the warm sunlight on the balcony. The catnip looked especially lively today! Also, just quietly putting this out there: Kiro = my very own personal catnip.",
       location_picture = "3302103",
       location_type = "2"
     },
     [4] = {
-      location_name = "限量惊喜",
+      location_name = "Limited Surprise",
       location_story_id = "820614",
-      location_desc = "早起排队的我果然有先见之明！这套手办周棋洛已经心心念念好久了，如果没买到的话一定会很遗憾吧……身为他最可爱的女朋友，当然要悄悄给他一个惊喜啦~",
+      location_desc = "Getting up early to queue really paid off. This figure set is something Kiro has had his eye on for the longest time. He would've been so disappointed if he'd missed out. So of course, as the world's cutest girlfriend, I had to secretly get it for him and give him a surprise!",
       location_picture = "3302104",
       location_type = "1"
     },
     [5] = {
-      location_name = "舞台聚焦",
+      location_name = "In the Spotlight",
       location_story_id = "820615",
-      location_desc = "已经迫不及待地想看到周棋洛穿上这身西装的样子啦~到时候一定要给他拍好多好多照片，好好欣赏一下这颗舞台上最耀眼的星星！",
+      location_desc = "I can't wait to see Kiro in this suit. He's going to look absolutely stunning! When the moment comes, I'll be ready with my camera to capture every angle of the brightest star on stage!",
       location_picture = "3302105",
       location_type = "1"
     },
     [6] = {
-      location_name = "玩趣乐游",
+      location_name = "Just for Fun",
       location_story_id = "820616",
-      location_desc = "原来游戏两个人玩的时候，才更加快乐。和通关带来的乐趣相比，他的陪伴才是真正快乐的源泉。",
+      location_desc = "Games are even more fun when you have someone to play them with. Compared with the thrill of winning, it's his presence beside me that makes everything truly joyful.",
       location_picture = "3302106",
       location_type = "2"
     },
     [7] = {
-      location_name = "贴心小熊",
+      location_name = "Mr Teddy",
       location_story_id = "820617",
-      location_desc = "好像无论相隔多远，他总是能在我遇到困难的时候，给我最温暖的帮助和依靠，谢谢小熊先生！",
+      location_desc = "No matter how far apart we are, he always finds a way to be there for me when I need support the most. His warmth and reassurance never fail to reach me—thank you, Mr. Teddy!",
       location_picture = "3302107",
       location_type = "1"
     },
     [8] = {
-      location_name = "童真至味",
+      location_name = "Pure & Happy",
       location_story_id = "820618",
-      location_desc = "吃到儿童套餐的时候，心情也变得雀跃起来了~集齐了全套的汉堡人玩具，等周棋洛看到的时候一定也会很开心吧！",
+      location_desc = "Who knew a kids' meal could lift my mood so much? I managed to collect the whole set of Burger Buddy toys—Kiro's definitely going to light up when he sees them!",
       location_picture = "3302108",
       location_type = "1"
     },
     [9] = {
-      location_name = "谱写心曲",
+      location_name = "Heartfelt Notes",
       location_story_id = "820619",
-      location_desc = "虽然费了点力气，但定制的手作本子也许会更有利于他的创作吧~有点期待他在上面写出曲谱的样子。",
+      location_desc = "It took a bit of work, but I finally finished that custom notebook for him. Hopefully, it helps with his songwriting. I can totally imagine him scribbling down music in it.",
       location_picture = "3302109",
       location_type = "1"
     },
     [10] = {
-      location_name = "果蔬伴侣",
+      location_name = "Fresh Boost",
       location_story_id = "820620",
-      location_desc = "周棋洛拍戏的时候最容易饮食单一，而且还经常不规律……多做几种不同的果蔬汁，应该也能帮他补充元气。",
+      location_desc = "When Kiro's filming, his meals are all over the place. There's barely any variety, and he never eats on time. I'm gonna make him a bunch of different fruit and veggie juices to help him stay energized.",
       location_picture = "3302110",
       location_type = "1"
     },
     [11] = {
-      location_name = "为你骄傲",
+      location_name = "Proud of You",
       location_story_id = "820621",
-      location_desc = "替周棋洛领奖的时候，怎么好像比自己得奖的时候还紧张呢？奖杯在手里沉甸甸的，他在我心里也沉甸甸的。",
+      location_desc = "Why do I feel more nervous accepting a reward for Kiro than I do for my own? There's a weight to this award, both in my arms and in my heart.",
       location_picture = "3302111",
       location_type = "1"
     },
     [12] = {
-      location_name = "丝丝清甜",
+      location_name = "Sweet Delivery",
       location_story_id = "820622",
-      location_desc = "带的喉糖这么快就吃完了，今天寄的希望能快点收到。即使排练，他也会做到最好，这种时候最费嗓子了。",
+      location_desc = "He finished those mints already. Hope the ones I sent out today arrive soon. I know he always gives his best performance, even if it's just a practice.",
       location_picture = "3302112",
       location_type = "1"
     },
-    [13] = {
-      location_name = "纸笺传情",
-      last_location = 1
-    }
+    [13] = {location_name = "Love Notes", last_location = 1}
   },
   [33022] = {
     [1] = {
-      location_name = "晴空盛景",
+      location_name = "Sunny Delight",
       first_location = 1,
       location_story_id = "826201",
-      location_desc = "在雪景小镇中转了一圈后，我又回到了酒店之中。不知是有意还是无意，我总是会朝着训练场的方向看过去，在淡淡的云层之下，白起此刻肯定是在进行很困难的训练吧。我在这偷偷看他，他应该发现不了吧？",
+      location_desc = "After wandering around the snowy little town, I returned to the hotel. For some reasons, I kept glancing toward the training grounds. Beneath the pale clouds, Gavin was probably pushing through some tough drills right now. I'm sure he wouldn't notice me watching him from afar, would he?",
       location_picture = "3302201",
       location_type = "1"
     },
     [2] = {
-      location_name = "温泉疗养",
+      location_name = "Soothing Hot Springs",
       location_story_id = "826202",
-      location_desc = "泡完温泉之后的我几乎是以满血状态复活，不管是做什么都有着充沛的精力。为了纪念这次圆满的温泉之旅，我还特意在温泉商店买了个保温杯，这下刚好和白起凑成个情侣杯了~",
+      location_desc = "The hot spring worked wonders. I felt completely recharged, like I'd come back to life with full energy. To commemorate this perfect getaway, I picked up a thermos from the gift shop—now Gavin and I have a matching set~",
       location_picture = "3302202",
       location_type = "1"
     },
     [3] = {
-      location_name = "冬日必备",
+      location_name = "Winter Essentials",
       location_story_id = "826203",
-      location_desc = "冰淇淋店铺的火爆程度似乎远超我的想象，大家似乎都不介意在这冰天雪地中再增添一点独属于自己的甜味。看着逐渐排起的人群，我默默决定再点一个冰淇淋，就当是连着白起的份一起吃了吧~",
+      location_desc = "To my surprise, the local ice cream shop was packed. No one seemed to mind indulging in a bit of sweetness, even in the freezing cold. As I watched the line grow longer, I quietly decided to get a second scoop—one for me, and one for Gavin in spirit.",
       location_picture = "3302203",
       location_type = "1"
     },
     [4] = {
-      location_name = "琳琅娃娃",
+      location_name = "Dolls Galore",
       location_story_id = "826204",
-      location_desc = "特色商业街上面还有好多意想不到的东西，当地民俗也有很多值得挖掘的地方。在回去的路上我还给买到的娃娃买了当地特色的服饰，等白起回来之后，我们一起看看要把它放在哪里吧。",
+      location_desc = "The specialty shopping street was full of delightful surprises. From charming local crafts to unique cultural traditions, there was so much to explore. On the way back, I bought a traditional local outfit for the little doll I picked up earlier. When Gavin returns, we can decide together where to place it.",
       location_picture = "3302204",
       location_type = "1"
     },
     [5] = {
-      location_name = "雪上平衡",
+      location_name = "Snow-top Balance",
       location_story_id = "826205",
-      location_desc = "等我离开雪场时天已经临近黄昏，虽然并没有坐上之前和白起一同坐过的雪上摩托，但换来的则是更加精湛的滑雪技巧。我默默在心里想着，下一次要让白起好好看看我今天的训练成果！",
+      location_desc = "By the time I left the ski resort, dusk had already begun to settle in. I didn't ride the snowmobile like we did last time, but I did get a lot better at skiing. Quietly, I made a promise to myself: next time, Gavin's going to see just how much I've improved.",
       location_picture = "3302205",
       location_type = "2"
     },
     [6] = {
-      location_name = "熟悉味道",
+      location_name = "Taste of Home",
       location_story_id = "826206",
-      location_desc = "吃完面后的我继续在街上逛了逛，发现这里不止有拉面，甚至还有糖葫芦、煎饼果子等等。我每一样都买了一份回去，准备给白起发一份我的“家乡美食小测评”。果然大家最喜欢的味道，永远是自己最熟悉的味道。",
+      location_desc = "After dinner, I strolled through the streets again and found more than just noodles—there were candied hawthorns, savory pancakes, and other street snacks. I bought one of each to take back and planned to send Gavin a report on the \"taste of home\". Turns out, the flavors we love most are always the ones we know best.",
       location_picture = "3302206",
       location_type = "1"
     },
     [7] = {
-      location_name = "雪线车票",
+      location_name = "Winter Train Ride",
       location_story_id = "826207",
-      location_desc = "回到宾馆默默整理着今天拍下的照片。有高耸入云的雪山，更有绵延不断地冰川奇景。在拍摄它们的过程中，我似乎与这片冰雪覆盖的土地越发亲近，灵感也源源不断地传了出来~",
+      location_desc = "Back at the hotel, I sorted through the photos I'd taken—towering, snow-capped mountains and endless, winding glaciers. As I snapped each shot, I felt more connected to this icy world, giving me an endless stream of inspiration.",
       location_picture = "3302207",
       location_type = "2"
     },
     [8] = {
-      location_name = "机车贴纸",
+      location_name = "Motorcycle Sticker",
       location_story_id = "826208",
-      location_desc = "找到的贴纸被老板赠送给了我，我开心地把它放到预先准备好的惊喜盒子里，等回家之后偷偷贴在小黑身上，给白起一个惊喜~",
+      location_desc = "The shopkeeper gifted me a set of stickers I'd been eyeing. I happily tucked them into a surprise box I'd prepared ahead of time. Once I'm home, I'll sneak one onto Sparky to give Gavin a little surprise~",
       location_picture = "3302208",
       location_type = "1"
     },
     [9] = {
-      location_name = "感冒特快",
+      location_name = "Fast Relief",
       location_story_id = "826209",
-      location_desc = "我窝在被窝里等待感冒缓解，落地窗前的景色刚好能看到训练场的情形。风一阵阵地吹过，玻璃外浮起的阵阵雪花，就好像白起陪在我身边，直到我入睡。",
+      location_desc = "I was curled up in bed, waiting for my cold to pass. From the window, I could just make out the silhouette of the training grounds. The wind howled softly outside as snowflakes brushed against the glass—almost like Gavin was right here, keeping me company until I drifted off to sleep.",
       location_picture = "3302209",
       location_type = "1"
     },
     [10] = {
-      location_name = "熏香时刻",
+      location_name = "Fragrant Moment",
       last_location = 1
     }
   },

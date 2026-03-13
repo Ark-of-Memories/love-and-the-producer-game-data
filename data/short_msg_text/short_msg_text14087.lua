@@ -1,136 +1,136 @@
 module("short_msg_text14087", package.seeall)
 data = {
   [140870000] = {
-    content = "前几天你分享的穿搭教程我都看完了，想试试看，有什么购买建议吗？",
+    content = "I watched the fashion guide you shared the other day and wanna give it a try. Any advice on what to buy?",
     text_time = 4650
   },
   [140870110] = {
-    title = "你全都看完了吗！",
-    content = "那么大一个视频整合包，你居然都看完了吗？",
+    title = "You watched all of it?",
+    content = "It's a whole list of videos, and you finished all of them?",
     text_time = 3000
   },
   [140870111] = {
-    content = "确实花了点时间，里面有几期“正装搭配宝典”我还在出任务时用到。",
+    content = "It did take some time, but yes. Some of the formal wear videos came in handy on my missions.",
     text_time = 4650
   },
   [140870112] = {
-    content = "不过日常穿还是想买点休闲的。",
+    content = "Although I still need something casual for my day-to-day wear.",
     text_time = 2100
   },
   [140870120] = {
-    title = "那可是我精挑细选的教程",
-    content = "毕竟是我精挑细选的教程，要推荐的话，有什么方向吗？",
+    title = "I hand-picked every video.",
+    content = "I hand-picked every video in the list, after all. So, what kind of advice are you looking for?",
     text_time = 3750
   },
   [140870121] = {
-    content = "方向的话，想要更轻松些的搭配。",
+    content = "I'd like something more casual.",
     text_time = 2250
   },
   [140870122] = {
-    content = "主要我经常在外面行动，会有不少运动量。",
+    content = "I spend most of my time outside. It's physically demanding.",
     text_time = 2850
   },
   [140870130] = {
-    title = "让我回顾一下",
-    content = "等等！因为推荐的太多一下忘记了，能不能提醒一下。",
+    title = "I need some hints.",
+    content = "Hold on. There are too many videos in the list, so can I get a hint or two?",
     text_time = 3600
   },
   [140870131] = {
-    content = "好，你推荐的视频里有“如何打造帅气男友”“礼服要领”“男人衣柜”……",
+    content = "Okay, so there's \"How to Create a Handsome Boyfriend,\" \"Formal Wear 101,\" \"Men's Wardrobe\"...",
     text_time = 5100
   },
   [140870132] = {
-    content = "我觉得教程里说的都挺有道理，反而不清楚从哪入手了。",
+    content = "The videos all have great points. Now I don't know where to start.",
     text_time = 3750
   },
   [140870210] = {
-    title = "清爽风感觉怎么样？",
-    content = "感觉清爽风就不错，差不多就是我们前段时间去甜品店的样子。",
+    title = "Maybe simple and refreshing?",
+    content = "I think being simple and refreshing would work well, like what you wore to the dessert shop.",
     text_time = 4200
   },
   [140870211] = {
-    content = "这样吗，那天我就随手一搭，看来效果不错。",
+    content = "I see. I didn't think too much when I picked the outfit. Glad you liked it.",
     text_time = 3000
   },
   [140870212] = {
-    content = "现在想想看，倒是和你那天的裙子很搭，有点孩子气的可爱。",
+    content = "Come to think of it, it matched your dress that day. Your outfit that day was kind of childish and super cute.",
     text_time = 4050
   },
   [140870220] = {
-    title = "现在不适合深色",
-    content = "你经常在外面不适合深色衣服，不然以浅色为主怎么样？",
+    title = "Dark colors won't work.",
+    content = "Dark colors won't work on you if you're outside a lot. Why not pick something light?",
     text_time = 3750
   },
   [140870221] = {
-    content = "浅色的确不错，纳入参考范围。",
+    content = "Light colors sound good. I'll think about it.",
     text_time = 2100
   },
   [140870222] = {
-    content = "我还记得你前几天拍小狼玩偶时候的衣服，要不要推荐能和那个凑一套的。",
+    content = "I remember your fit when I took the photos of you and the toy wolf. Maybe something to match that?",
     text_time = 4950
   },
   [140870230] = {
-    title = "要不要挑战下自己？",
-    content = "要不要挑战下自己试试“可爱休闲少年风”，我会负责搭配的。",
+    title = "Maybe challenge yourself?",
+    content = "Maybe challenge yourself and try something cute, casual, and boyish? I'll style it for you.",
     text_time = 4200
   },
   [140870231] = {
-    content = "这个好像没在教程里面看见过……不过倒是想试试看。",
+    content = "That's not in any of the videos... But, I'd love to try.",
     text_time = 3600
   },
   [140870232] = {
-    content = "去甜品店那天我就想，应该穿和你那身更搭配的衣服。",
+    content = "I was thinking at the dessert shop that I should wear something to match your outfit better.",
     text_time = 3600
   },
   [140870310] = {
-    title = "是不是喜欢上了可爱",
-    content = "是不是上次拍完发卡照片，你就喜欢上可爱风了~",
+    title = "You're into cutesy stuff now.",
+    content = "You're into cutesy stuff now after we took that hairclip photo, aren't you?",
     text_time = 3300
   },
   [140870311] = {
-    content = "那时候只是拍照，暂时不算数。",
+    content = "I only put it on for the photo, so it doesn't count.",
     text_time = 2100
   },
   [140870312] = {
-    content = "不过和你情侣穿搭，倒是没关系。",
+    content = "But, as long as it matches your outfit, I'll gladly wear it.",
     text_time = 2250
   },
   [140870313] = {
-    content = "在你身边的我，可以有很多样子。",
+    content = "I can be anything you want with you.",
     text_time = 2250
   },
   [140870320] = {
-    title = "还记得你带发卡的照片",
-    content = "上次那张戴发卡的照片因为过于可爱，现在已经是我的手机屏保了。",
+    title = "The photo of you with the hairclip is cute.",
+    content = "That photo of you wearing the hairclip is so cute that I made it my lock screen.",
     text_time = 4500
   },
   [140870321] = {
-    content = "之前你设置的时候，我就看到了。",
+    content = "I saw it when you set it up.",
     text_time = 2250
   },
   [140870322] = {
-    content = "说实话，虽然过于可爱了点，可从当事人的角度看还挺不错的。",
+    content = "Honestly, it's almost too cute, but from the 'model's' perspective, it's not too bad.",
     text_time = 4200
   },
   [140870323] = {
-    content = "下次我们还可以拍更多照片。",
+    content = "We can take more pictures together next time.",
     text_time = 1950
   },
   [140870330] = {
-    title = "交给我吧！",
-    content = "别的不敢说，这方面就交给我吧，保证让白队接下来可爱又帅气！",
+    title = "Leave it to me!",
+    content = "You can trust me on this one. I'll make sure Captain Gavin looks cute and handsome!",
     text_time = 4350
   },
   [140870331] = {
-    content = "是吗？如果是你喜欢的，我应该也一样喜欢。",
+    content = "Is that so? If it's something you picked, I'm sure I'll love it.",
     text_time = 3000
   },
   [140870332] = {
-    content = "在可爱上，不超过上次拍照的范围就好。",
+    content = "Cuteness is fine as long as you don't go overboard. Last time was good.",
     text_time = 2700
   },
   [140870333] = {
-    content = "这方面交给你，我很放心。",
+    content = "I trust you wholeheartedly on it.",
     text_time = 1800
   },
   [140871000] = {
@@ -853,628 +853,625 @@ data = {
     text_time = 1350
   },
   [140876000] = {
-    content = "怎么分享了这么多宠物梳毛、按摩、美容的视频？",
+    content = "Why did you share so many videos about grooming, massaging, and beautifying pets?",
     text_time = 3300
   },
   [140876110] = {
-    title = "你不觉得看这些视频很解压吗？",
-    content = "嘿嘿，因为看这些视频很解压嘛~你难道不觉得吗？",
+    title = "Don't you find these videos relaxing?",
+    content = "Tee-hee, because these videos are quite relaxing. Don't you think so?",
     text_time = 3450
   },
   [140876111] = {
-    content = "你是解压了。",
+    content = "Well, you find them relaxing.",
     text_time = 900
   },
   [140876112] = {
-    content = "但被某人“盯上”的布丁，看起来压力不小。",
+    content = "But Pudding, targeted by a certain someone, seems to be rather stressed.",
     text_time = 3000
   },
   [140876113] = {
-    content = "这几天都不怎么在你眼前晃了。",
+    content = "He's been avoiding you for days.",
     text_time = 2100
   },
   [140876120] = {
-    title = "我在尝试从入门到精通一门新的技能。",
-    content = "我在尝试从入门到精通一门新的技能。",
+    title = "I'm trying to learn and master a new skill.",
+    content = "I'm trying to learn and master a new skill.",
     text_time = 2550
   },
   [140876121] = {
-    content = "听起来是“我要准备捣乱了”的另一种说法。",
+    content = "Sounds like another way to say, \"I'm going to make some trouble.\"",
     text_time = 3000
   },
   [140876122] = {
-    content = "鉴于实施对象不是我，我不给出意见。",
+    content = "Since I'm not the one on your target list, I'll keep my opinions to myself.",
     text_time = 2550
   },
   [140876123] = {
-    content = "你先问问布丁答不答应。",
+    content = "You should ask Pudding's opinion first.",
     text_time = 1650
   },
   [140876130] = {
-    title = "请你一起看看可爱的小动物~",
-    content = "世界上还有好多可爱的小动物嘛，我想邀请你一起看看~",
+    title = "Invite you to join me to see cuddly little animals.",
+    content = "There are so many other cuddly little animals out there. I'd like to invite you to join me to see them.",
     text_time = 3750
   },
   [140876131] = {
-    content = "你该不会想再养一只宠物吧？",
+    content = "You're not thinking of getting another pet, are you?",
     text_time = 1950
   },
   [140876132] = {
-    content = "一个家有两只活蹦乱跳、成天捣乱的生物已经很吵闹了。",
+    content = "There's enough noise in our home with two vigorous creatures making trouble non-stop.",
     text_time = 3750
   },
   [140876133] = {
-    content = "况且这种家庭议题，原住民布丁未必会开心。",
+    content = "Besides, Pudding, an aborigine, might not necessarily like this kind of familial topic.",
     text_time = 3000
   },
   [140876210] = {
-    title = "我和布丁的友谊情比金坚。",
-    content = "你不要挑拨我和布丁的友谊，我们情比金坚，它刚刚还舔了我的头发呢。",
+    title = "My friendship with Pudding is unbreakable.",
+    content = "Don't you try come between Pudding and me. Our friendship is unbreakable. Only just now he licked my hair.",
     text_time = 4800
   },
   [140876211] = {
-    content = "猫会衡量自己和人类的地位高低。",
+    content = "Cats know where they stand with their human masters.",
     text_time = 2250
   },
   [140876212] = {
-    content = "布丁觉得你是可以和它一起玩的玩伴，而且不出意外的话——",
+    content = "Pudding sees you as a companion he can play with, and barring accidents—",
     text_time = 4050
   },
   [140876213] = {
-    content = "它大概觉得自己是你的老大。",
+    content = "He probably thinks he's your boss.",
     text_time = 1950
   },
   [140876220] = {
-    title = "趁周末我们给布丁洗澡吧，然后做个新造型！",
-    content = "哼哼，它好久没洗澡了吧，刚好趁周末在家给它洗个澡，还可以给它做个新造型~",
+    title = "Let's bathe Pudding and give him a new look!",
+    content = "Humph, I think he hasn't bathed for a long time. Since I happen to be at home this weekend, I'll bathe him and give him a new look.",
     text_time = 5400
   },
   [140876221] = {
-    content = "上次尝试在家里洗猫，没记错的话有些人最后被猫制服了。",
+    content = "If I remember right, the last time a certain someone tried to bathe the cat at home, they eventually got overpowered by the cat.",
     text_time = 3900
   },
   [140876222] = {
-    content = "那时候还嚷着什么，“专业的事要交给专业的人来做”。",
+    content = "And they complainingly said something like \"Skilled work requires skillful people.\"",
     text_time = 3750
   },
   [140876223] = {
-    content = "这么快就忘了它沾着肥皂泡耀武扬威的样子？",
+    content = "You forgot so soon how he brandished his claws with soap bubbles all around him?",
     text_time = 3000
   },
   [140876230] = {
-    title = "我想和布丁沟通，但它不理我",
-    content = "怪不得我刚刚想找它玩，但它一直趴在猫爬架的顶上不理我……是不是真的不开心了？",
+    title = "I tried to communicate with Pudding, but...",
+    content = "No wonder he stayed atop the cat tree and ignored me when I tried to play with him just now… Is he really unhappy?",
     text_time = 5700
   },
   [140876231] = {
-    content = "它还不至于这么小气。",
+    content = "I don't think he's that petty.",
     text_time = 1500
   },
   [140876232] = {
-    content = "不理你也无非是和你拉锯一下，好骗一根猫条吃。",
+    content = "He ignored you probably to guilt-trip you into giving him a cat treat stick.",
     text_time = 3300
   },
   [140876233] = {
-    content = "如果我没猜错，它应该已经得手了。",
+    content = "And unless I'm very much mistaken, he's probably gotten his way.",
     text_time = 2400
   },
   [140876310] = {
-    title = "我不服气",
-    content = "……我有点不服气，怎么样才能让它知道我才是老大？",
+    title = "I feel bitter about it.",
+    content = "…I feel a bit bitter about it. How do I show him I'm the boss?",
     text_time = 3600
   },
   [140876311] = {
-    content = "方法倒是有。",
+    content = "There is a way.",
     text_time = 900
   },
   [140876312] = {
-    content = "不过需要一些胆量。",
+    content = "But it requires some courage.",
     text_time = 1350
   },
   [140876313] = {
-    content = "让它知道这个家里食物链的最顶端不是我，是你。",
+    content = "Have him know that the one at the top of the food chain in this family is not me, but you.",
     text_time = 3300
   },
   [140876320] = {
-    title = "我有预感，我要和它开战了",
-    content = "我有种不好的预感，我可能要和布丁开战了。",
+    title = "I have an inkling there's going to be a war...",
+    content = "I have a foreboding feeling that there's going to be a war between me and Pudding.",
     text_time = 3000
   },
-  [140876321] = {content = "……", text_time = 300},
+  [140876321] = {content = "...", text_time = 300},
   [140876322] = {
-    content = "冰箱上层有冻好的水果千层，昨天到的一箱新罐头放在玄关的柜子里。",
+    content = "The frozen fruit mille-feuille is in the fridge's upper compartment, and yesterday's new delivery of canned food is in the hallway cabinet.",
     text_time = 4650
   },
   [140876323] = {
-    content = "你们两个都去吃点东西，保持冷静，等我回来再开战。",
+    content = "You two should go grab a bite, stay calm, and start your fight when I get back.",
     text_time = 3600
   },
   [140876330] = {
-    title = "我要精进养猫技巧",
-    content = "呜呜，看来我还要不断精进养猫的技巧才行……",
+    title = "I need to improve my cat-raising skills.",
+    content = "Boohoo… Looks like my cat-raising skills still need improving…",
     text_time = 3150
   },
   [140876331] = {
-    content = "和技巧无关。",
+    content = "It's got nothing to do with your skills.",
     text_time = 900
   },
   [140876332] = {
-    content = "在我看来，布丁喜欢欺负你的原因大概率是——",
+    content = "In my opinion, Pudding likes to give you a hard time probably because—",
     text_time = 3150
   },
   [140876333] = {
-    content = "它也很喜欢看到某人吃瘪的样子而已。",
+    content = "He also loves it when you look mad and frustrated.",
     text_time = 2550
   },
   [140877000] = {
-    content = "我好像知道你说的惊喜是什么了。",
+    content = "I think I know what you meant by \"surprise\".",
     text_time = 2250
   },
   [140877110] = {
-    title = "有没有被吓到",
-    content = "嘿嘿，有没有被我新换的洗手液吓到？",
+    title = "Are you startled?",
+    content = "Tee-hee, did my newly bought hand sanitizer startle you?",
     text_time = 2550
   },
   [140877111] = {
-    content = "确实有点惊讶。",
+    content = "I was indeed a little surprised.",
     text_time = 1050
   },
   [140877112] = {
-    content = "虽然看到台子上的洗手液换成了新的，但没想到它竟然会唱歌。",
+    content = "I saw the new hand sanitizer by the sink, but I never thought it could sing.",
     text_time = 4200
   },
   [140877113] = {
-    content = "能告诉我，它唱的是什么歌吗？",
+    content = "Can you tell me the name of the song it sings?",
     text_time = 2100
   },
   [140877120] = {
-    title = "让你洗手的时候也快乐起来",
-    content = "是会唱歌的洗手液，我想让你洗手的时候也快乐起来~",
+    title = "Make hand washing a happy thing to do for you.",
+    content = "It's a hand sanitizer that sings. I want to make hand washing a happy thing to do for you.",
     text_time = 3600
   },
   [140877121] = {
-    content = "制作人小姐的目的已经达到了。",
+    content = "You've achieved your goal, Miss Producer.",
     text_time = 2100
   },
   [140877122] = {
-    content = "在充满心意的歌声中洗手，的确会让人快乐。",
+    content = "Washing my hands while listening to a loving song does lift my spirits.",
     text_time = 3000
   },
   [140877123] = {
-    content = "不知道这首歌的歌名是什么呢？",
+    content = "May I ask the name of this song?",
     text_time = 2100
   },
   [140877130] = {
-    title = "你肯定能第一时间发现",
-    content = "我就知道，爱干净的许教授肯定能第一时间发现我精挑细选的洗手液！",
+    title = "I'm sure you'll spot it immediately.",
+    content = "I knew that Professor Lucien, who loved to be clean, would spot my hand-picked hand sanitizer immediately!",
     text_time = 4650
   },
   [140877131] = {
-    content = "在实验室待久了，养成了经常洗手的习惯。",
+    content = "As a frequent visitor to the lab, I've built a habit of washing my hands as much as I can.",
     text_time = 2850
   },
   [140877132] = {
-    content = "只是实验室里的洗手液比较普通，不像你准备的这个一样会唱歌。",
+    content = "But unlike the hand sanitizer you bought that sings, those in the lab are rather ordinary.",
     text_time = 4350
   },
   [140877133] = {
-    content = "它唱的是什么歌呢？",
+    content = "What's the name of the song it sings?",
     text_time = 1350
   },
   [140877210] = {
-    title = "是我自己录的歌",
-    content = "是我自己录的洗手之歌哦，有听出我的声音吗？",
+    title = "It's a song I recorded by myself.",
+    content = "It's the Song of Hand Washing. I recorded it by myself. Do you recognize my voice?",
     text_time = 3150
   },
   [140877211] = {
-    content = "当然，你还改编了它的歌词……",
+    content = "Of course. You also altered the lyrics…",
     text_time = 2100
   },
   [140877212] = {
-    content = "“我爱洗手，皮肤好好。好多泡泡，狐狸跌倒。”",
+    content = "\"I love washing my hands. It gives me good skin. So many bubbles, the fox tumbles.\"",
     text_time = 3300
   },
   [140877213] = {
-    content = "每次洗手都能听到这么可爱的歌，我恐怕会忍不住忘记时间。",
+    content = "If I hear such a lovely song whenever I wash my hands, I might lose track of time unawares.",
     text_time = 4050
   },
   [140877220] = {
-    title = "小动物的叫声",
-    content = "是用小动物的叫声编成的歌，会不会有点吵啊？",
+    title = "Little animals' cries.",
+    content = "It's a song composed of animals' cries. Does it strike you as noisy?",
     text_time = 3150
   },
   [140877221] = {
-    content = "不会，反倒有种怀念的感觉。",
+    content = "No. Actually, it gives me a sense of nostalgia.",
     text_time = 1950
   },
   [140877222] = {
-    content = "让我想起和你一起在动物园的时光。",
+    content = "It reminds me of the days when we were in the zoo.",
     text_time = 2400
   },
   [140877223] = {
-    content = "唯一的烦恼大概就是，一旦回忆起来，不知不觉洗手的时间就会变长不少。",
+    content = "The only downside to it is probably that once I start reminiscing, I'll end up washing my hands much longer than usual.",
     text_time = 4950
   },
   [140877230] = {
-    title = "好像是七步洗手法",
-    content = "其实就是七步洗手法的儿歌，跟着儿歌做就能洗得更干净！",
+    title = "I think it's Seven-Step Hand Washing.",
+    content = "Actually, it's a children's song called Seven-Step Hand Washing. Do as the lyrics say and your hands will be washed cleaner than usual!",
     text_time = 3900
   },
-  [140877231] = {
-    content = "原来是这样。",
-    text_time = 900
-  },
+  [140877231] = {content = "I see.", text_time = 900},
   [140877232] = {
-    content = "不过我刚刚留意过时间。",
+    content = "But I just kept an eye on the time.",
     text_time = 1650
   },
   [140877233] = {
-    content = "如果一步步跟着儿歌做，似乎要比标准的洗手时间稍微长一点。",
+    content = "It seems to take a little longer than usual to wash my hands if I follow the steps in the song.",
     text_time = 4200
   },
   [140877310] = {
-    title = "可以放瓶护手霜",
-    content = "可以在洗手台放瓶护手霜，这样洗手时间长也不怕皮肤干燥。",
+    title = "You may put a bottle of hand lotion there.",
+    content = "You may put a bottle of hand lotion by the sink, so that you won't have to worry about your skin getting dry, no matter how long you wash your hands.",
     text_time = 4050
   },
   [140877311] = {
-    content = "好，不过家里的护手霜大多是管装的，不太适合放在洗手台上。",
+    content = "Okay, but most of the hand lotion in our house is in tubes and not quite suitable to be placed by the bathroom sink.",
     text_time = 4200
   },
   [140877312] = {
-    content = "最近经常听到某位小姐的手机里传来“秋冬市集”的视频声音。",
+    content = "Lately, I've quite often heard the sound of \"Autumn-Winter Market\" videos from a certain lady's cellphone.",
     text_time = 4200
   },
   [140877313] = {
-    content = "我们可以一起去逛一逛，选购一瓶更加合适的护手霜。",
+    content = "We may go shopping together and buy a more suitable bottle of hand lotion.",
     text_time = 3600
   },
   [140877320] = {
-    title = "想换成许教授唱的歌",
-    content = "那我想换成许教授唱的歌，时长刚刚好那种！",
+    title = "Want to replace it with a song by Lucien.",
+    content = "Well then, I want to replace it with a song by Professor Lucien, one of perfect length!",
     text_time = 3000
   },
   [140877321] = {
-    content = "既然$u想听，我当然愿意配合。",
+    content = "Since it's $u's wish, I'm more than willing to cooperate.",
     text_time = 2250
   },
   [140877322] = {
-    content = "不过我一个人的话，恐怕不太好把握时长和曲调。",
+    content = "But if I do it alone, I might have trouble with the length and tune of the song.",
     text_time = 3300
   },
   [140877323] = {
-    content = "晚上等你回来，可以陪我多练习几遍吗？",
+    content = "Do you think you could practice it with me a couple of times after you get back tonight?",
     text_time = 2700
   },
   [140877330] = {
-    title = "扩充一下曲库",
-    content = "一首歌确实会出现这种问题，要不我们建个曲库，每次随机播放不同的歌~",
+    title = "Expand the music library.",
+    content = "If there's only one song, such problems will indeed occur. How about we build a music library and play different songs at random?",
     text_time = 4950
   },
   [140877331] = {
-    content = "好，一会儿我们可以一起填充曲库。",
+    content = "Okay. Later we can pick songs for the library together.",
     text_time = 2400
   },
   [140877332] = {
-    content = "虽然还没设置好，我已经开始好奇下次会听到什么歌了。",
+    content = "The settings are not done yet, but I've already begun to wonder which song I'll hear the next time I turn it on.",
     text_time = 3750
   },
   [140877333] = {
-    content = "即使是生活中最平常的小事，你也总会让人充满期待。",
+    content = "You can pique my curiosity with even the pettiest matter in life.",
     text_time = 3600
   },
   [140878000] = {
-    content = "我看到你在朋友圈发的首映礼票根啦！",
+    content = "I saw the picture of the premiere ticket stub you posted in Moments!",
     text_time = 2550
   },
   [140878110] = {
-    title = "你的新电影好好看！",
-    content = "呜呜呜，你的新电影好好看！我攒了一肚子的观后感想和你说~",
+    title = "Your new movie is amazing!",
+    content = "Boohoo… Your new movie is amazing! I got so much to share with you after watching it.",
     text_time = 4200
   },
   [140878111] = {
-    content = "我本来还有点紧张你的反馈呢~嘿嘿，喜欢就好！",
+    content = "I was a bit nervous about the feedback I'd get from you. Tee-hee, I'm glad you like it!",
     text_time = 3300
   },
   [140878112] = {
-    content = "观后感的话，那等晚上回家了我们当面慢慢说。",
+    content = "As for what you think of the movie, you'll have plenty of time to tell me after we get home tonight.",
     text_time = 3150
   },
   [140878113] = {
-    content = "哦对了，阿薯离场前记得领首映礼礼盒，说不定还能抽中我的Q版角色玩偶呢~",
+    content = "Oh, by the way, Miss Chips, remember to claim a premiere gift box before leaving. It might contain a chibi figure of my role.",
     text_time = 5250
   },
   [140878120] = {
-    title = "有机会邀请男主角做个独家访谈吗",
-    content = "嘿嘿，那有机会邀请这位男主角做个独家访谈吗？",
+    title = "May I have an interview with the male lead?",
+    content = "Tee-hee, may I have the honor of inviting the male lead to an exclusive interview?",
     text_time = 3300
   },
   [140878121] = {
-    content = "唔，经过我一秒钟的严肃考虑，决定答应你的邀约了=v=",
+    content = "Uh, after one second of serious consideration, I've decided to accept your invitation. =v=",
     text_time = 3900
   },
   [140878122] = {
-    content = "我还可以给你独家爆料最最有趣的拍摄花絮哦！",
+    content = "Better still, I can be your exclusive source of the most interesting tidbits about the filming!",
     text_time = 3150
   },
   [140878123] = {
-    content = "对了，听说这次剧组还为我设计了角色的Q版玩偶特典，你可以在首映礼盒里抽抽看。",
+    content = "By the way, it's said that this time the crew also designed a special chibi figure of my role. You may claim a premiere gift box and try your luck.",
     text_time = 5700
   },
   [140878130] = {
-    title = "我排队领了礼盒就去找你",
-    content = "电影超级棒的！我好想现在就和男主角分享观后感哦，但我现在还在排队领一个礼盒……",
+    title = "I'll get in line, claim a gift box and then...",
+    content = "The movie's drop-dead amazing! I'm dying to share with the male lead what I think of it, but I'm still waiting in line for a gift box…",
     text_time = 5850
   },
   [140878131] = {
-    content = "哇！你竟然已经在排队领礼盒了吗！",
+    content = "Whoa! It surprises me you're already waiting in line for a gift box!",
     text_time = 2400
   },
   [140878132] = {
-    content = "我们剧组超级重视这次的礼盒，不仅做了特别的设计，还有限量特典。",
+    content = "The crew took the gift boxes very seriously. They not only devised a special design but also made a limited-edition bonus.",
     text_time = 4650
   },
   [140878133] = {
-    content = "我已经眼馋自己的那个Q版角色玩偶特典很久了，阿薯要加油抽中哦~",
+    content = "I've been craving the chibi figure for a long time. Give it your best shot and get it, Miss Chips!",
     text_time = 4650
   },
   [140878210] = {
-    title = "好担心抽不到。",
-    content = "被你说得心动又紧张，啊啊啊万一没抽到怎么办……",
+    title = "I'm so worried about failing to get one.",
+    content = "Your words made me expectant and nervous. Aaaaargh! What if I failed to get one?",
     text_time = 3450
   },
   [140878211] = {
-    content = "别担心。",
+    content = "Don't worry.",
     text_time = 600
   },
   [140878212] = {
-    content = "我现在就把我的幸运全部传送给你。",
+    content = "I'll transfer all my good luck to you right now.",
     text_time = 2400
   },
   [140878213] = {
-    content = "如果隔着屏幕还不够的话，等工作结束我悄悄牵着你的手去领礼盒好了~",
+    content = "If doing so from the other side of the screen is not enough, I'll take you there after work and secretly hold your hand when you claim the gift box.",
     text_time = 4800
   },
   [140878220] = {
-    title = "紧张刺激考验运气的时刻来临了。",
-    content = "紧张刺激考验运气的时刻来临了，求求了让我抽到纪念礼盒的特典吧！我真的很想要！",
+    title = "The exciting, luck-testing moment has come.",
+    content = "The stressful, exciting, luck-testing moment has come. Please, let me draw the special bonus for the commemorative gift box! I want it so bad!",
     text_time = 5700
   },
   [140878221] = {
-    content = "噗……我好像在待机室都听到阿薯的祈祷声了。",
+    content = "(Stifled laugh)… Even in the departure lounge, I seem to hear Miss Chips's prayer.",
     text_time = 3150
   },
   [140878222] = {
-    content = "那我和你一起祈祷好了。",
+    content = "Well then, I'll pray with you.",
     text_time = 1650
   },
   [140878223] = {
-    content = "薯洛心很诚，好运快快来~",
+    content = "Miss Chips and Kiro are sincere, grant them some good luck.",
     text_time = 1800
   },
   [140878230] = {
-    title = "这个特典版礼盒你自己有吗？",
-    content = "这个特典玩偶你自己有吗？",
+    title = "Do you have one of those bonus gift boxes?",
+    content = "Do you have one of those bonus figures?",
     text_time = 1800
   },
   [140878231] = {
-    content = "o(╥﹏╥)o我没有，全场就限量一个。",
+    content = "I don't. They made only one.o(╥﹏╥)o",
     text_time = 2850
   },
   [140878232] = {
-    content = "所以现在就把这份唯一的希望寄托在阿薯身上了。",
+    content = "So I'm pinning all my hopes on Miss Chips.",
     text_time = 3300
   },
   [140878233] = {
-    content = "根据经验，在和对方有关的事情上，我们总是很幸运~",
+    content = "My past experiences suggest that in matters concerning one of us, the other one always gets lucky.",
     text_time = 3600
   },
   [140878310] = {
-    title = "我已经迫不及待了",
-    content = "我已经摩拳擦掌，迫不及待了！",
+    title = "I can hardly wait!",
+    content = "My hands are itchy, and I can hardly wait!",
     text_time = 2100
   },
   [140878311] = {
-    content = "不知道为什么，我有一种你会抽到特典的强烈预感。",
+    content = "For some reason, I have an unshakable premonition that you'll draw the bonus figure.",
     text_time = 3450
   },
   [140878312] = {
-    content = "啊啊啊我被催上台了！",
+    content = "Aaaargh! They're urging me to go on the stage!",
     text_time = 1500
   },
   [140878313] = {
-    content = "手机里的阿薯，拜拜~观众席7排6座的阿薯，你好~",
+    content = "Goodbye, Miss Chips in my phone. Hello, Miss Chips in Seat 6, Row 7.",
     text_time = 3600
   },
   [140878320] = {
-    title = "有了你的好运加持，我都不敢想我会有多幸运",
-    content = "有了你的好运加持，我都不敢想我有多幸运！",
+    title = "With your lucky aura around me, I can't imagine...",
+    content = "With your lucky aura around me, I can't imagine how lucky I will be!",
     text_time = 3000
   },
   [140878321] = {
-    content = "哼哼，那是自然。",
+    content = "Humph, that's for sure.",
     text_time = 1200
   },
   [140878322] = {
-    content = "我都已经想好了，要是你真的抽中了——",
+    content = "I've thought it through. If you really draw the it—",
     text_time = 2700
   },
   [140878323] = {
-    content = "我要去设计一个薯片小姐形象的情侣款玩偶，把它们也凑成一对~",
+    content = "I'll go design a matching action figure of Miss Chips and make them a pair.",
     text_time = 4350
   },
   [140878330] = {
-    title = "好运buff没生效的话，有没有补偿？",
-    content = "截图为证！好运buff没生效的话，是不是该有补偿？",
+    title = "If your lucky buff doesn't work, will I be compensated?",
+    content = "I've taken a screenshot as evidence! If your lucky buff doesn't work, do you think I should be compensated?",
     text_time = 3750
   },
   [140878331] = {
-    content = "那当然~而且我早有准备。",
+    content = "Of course, and I've made preparations some time ago.",
     text_time = 1800
   },
   [140878332] = {
-    content = "万一没中的话，我就去问同事要设计图，然后手工制作一个娃娃送给你。",
+    content = "If by any chance you fail to draw it, I'll get the design from my colleague and make an action figure for you with my own hands.",
     text_time = 4800
   },
   [140878333] = {
-    content = "无论如何，薯片小姐都会拥有独家特供特典~",
+    content = "No matter what, Miss Chips will have a unique action figure for sure.",
     text_time = 3000
   },
   [140879000] = {
-    content = "你说阳台几株绿植的叶子上，突然出现了圆形孔洞？",
+    content = "Did you say some circular holes had suddenly appeared in the leaves of the couple of house plants on our balcony?",
     text_time = 3450
   },
   [140879110] = {
-    title = "叶片破破烂烂的了",
-    content = "对，就像是有人用圆规把叶片切走了一样，叶子全都破破烂烂的了。",
+    title = "The leaves are in rough shape.",
+    content = "Yeah, it's like someone cut the leaves with compasses. All the leaves are in rough shape.",
     text_time = 4500
   },
   [140879111] = {
-    content = "你发来的照片里，叶片的边缘痕迹整齐，但周围的花盆完好，门窗紧闭。",
+    content = "In the photos you sent me, the edges of the leaves are neat, but the neighboring flowerpots are intact, and the door and the windows are shut.",
     text_time = 4800
   },
   [140879112] = {
-    content = "目前看来没有人类入侵的痕迹。",
+    content = "There's no sign of trespassing.",
     text_time = 2100
   },
   [140879113] = {
-    content = "犯人更有可能是某种昆虫，比如切叶蜂。",
+    content = "The culprits are more likely to be some kind of insect, like leaf-cutter bees.",
     text_time = 2700
   },
   [140879120] = {
-    title = "检查了一遍问题不大",
-    content = "是的，不过应该问题不大，植物们只是缺了点叶片，还活得好好的。",
+    title = "I've checked. It's nothing serious.",
+    content = "Yeah, but I think it's nothing serious. The plants just lost parts of their leaves. They're still alive.",
     text_time = 4500
   },
   [140879121] = {
-    content = "那就好。",
+    content = "I'm glad to hear that.",
     text_time = 600
   },
   [140879122] = {
-    content = "我刚刚去植物论坛上搜索了一圈。",
+    content = "I just searched a plant forum.",
     text_time = 2250
   },
   [140879123] = {
-    content = "根据照片和你刚刚说的线索来看，犯人很有可能是切叶蜂。",
+    content = "Judging from the pictures and the clues you just provided, the culprits are very likely to be leaf-cutter bees.",
     text_time = 3900
   },
   [140879130] = {
-    title = "肯定有宇宙人暗中作案",
-    content = "那些洞超级圆！你说会不会是像麦田怪圈似的，有宇宙人暗中作案？",
+    title = "I'm positive it was an alien's doing.",
+    content = "Those holes are super round! Do you think it was an alien's doing like the crop circles?",
     text_time = 4500
   },
   [140879131] = {
-    content = "咳咳，你说的嫌疑人也有可能，建议列入调查名单。",
+    content = "Ahem, that's indeed possible. I suggest we add it to our suspect list.",
     text_time = 3450
   },
   [140879132] = {
-    content = "但我这里有一个更可疑的家伙，最好优先排查。",
+    content = "But I have a more likely suspect in mind. It'll be best if we look into it first.",
     text_time = 3150
   },
   [140879133] = {
-    content = "它就是小区里的切叶蜂。",
+    content = "I'm referring to the leaf-cutter bees in the housing development.",
     text_time = 1650
   },
   [140879210] = {
-    title = "是一种蜜蜂吗？",
-    content = "切叶蜂是蜜蜂的一种吗？",
+    title = "Are they a species of bee?",
+    content = "Are leaf-cutter bees a species of bee?",
     text_time = 1650
   },
   [140879211] = {
-    content = "对，我在小区里见过几次。",
+    content = "Yeah, I saw them a couple of times in the housing development.",
     text_time = 1800
   },
   [140879212] = {
-    content = "它们平时常常给花授粉，只偶尔切割叶片筑巢。",
+    content = "Usually, they just pollinate flowers. They cut leaves to build hives only on occasion.",
     text_time = 3150
   },
   [140879213] = {
-    content = "算是还不错的益虫。",
+    content = "They count as pretty helpful insects.",
     text_time = 1350
   },
   [140879220] = {
-    title = "啊啊啊救命！",
-    content = "啊啊啊救命！！它们会不会伤人啊？",
+    title = "AAAARGH! HELP!",
+    content = "AAAARGH! HELP!! Do they sting people?",
     text_time = 2400
   },
   [140879221] = {
-    content = "我已经第一时间确认过了。",
+    content = "I checked immediately afterward.",
     text_time = 1800
   },
   [140879222] = {
-    content = "它们对人没有威胁。",
+    content = "They're not a threat to humans.",
     text_time = 1350
   },
   [140879223] = {
-    content = "只是需要一些叶片筑巢，养育后代。",
+    content = "They just need some leaves to build hives and nurture their offspring.",
     text_time = 2400
   },
   [140879230] = {
-    title = "切叶蜂为什么会来我们家？",
-    content = "这些切叶蜂为什么要来我们家？",
+    title = "Why did those bees come to our house?",
+    content = "Why did those leaf-cutter bees come to our house?",
     text_time = 2100
   },
   [140879231] = {
-    content = "一般它们会切割发育得最好的植株叶片，用来筑巢。",
+    content = "They typically cut the most well-grown leaves to build their hives.",
     text_time = 3450
   },
   [140879232] = {
-    content = "应该是我们的绿植最近长得很好，被它们盯上了。",
+    content = "They came here probably because our plants have been growing really well lately.",
     text_time = 3300
   },
   [140879233] = {
-    content = "不过你放心，它们不会伤人。",
+    content = "But you may rest assured that they won't hurt people.",
     text_time = 1950
   },
   [140879310] = {
-    title = "勉强原谅它们",
-    content = "这样啊，那我就勉强原谅它们好了。",
+    title = "I'll manage to forgive them.",
+    content = "Well then, I'll manage to forgive them.",
     text_time = 2400
   },
   [140879311] = {
-    content = "既然当事人表达了谅解，那么就不予追究嫌疑蜂的责任了。",
+    content = "Since the victim has expressed forgiveness, I'll let the leaf-cutter bees off the hook.",
     text_time = 3900
   },
   [140879312] = {
-    content = "但是考虑到嫌疑蜂可能再次“犯事”……",
+    content = "But considering that the suspect bees might \"perpetrate the crime\" again…",
     text_time = 2700
   },
   [140879313] = {
-    content = "周末我们去挑一些切叶蜂不喜欢的植物，放在阳台上吧。",
+    content = "Let's go buy some plants leaf-cutter bees dislike and put them on our balcony on the weekend.",
     text_time = 3750
   },
   [140879320] = {
-    title = "看来你的种植水平又进步了",
-    content = "看来白警官的种植水平又进步了不少，切叶蜂“光顾”了都说好！",
+    title = "Looks like your planting skills have improved.",
+    content = "Looks like Officer Gavin's planting skills have improved further. Even the leaf-cutter bees left a good review after their \"visit\"!",
     text_time = 4350
   },
   [140879321] = {
-    content = "我最近只是和之前一样给绿植浇水施肥。",
+    content = "Lately, I've just watered and fertilized the plants as usual.",
     text_time = 2700
   },
   [140879322] = {
-    content = "唯一的变化就是前段时间出任务时，拜托你调配了新的营养液。",
+    content = "The only change was the new nutrient solution I had you concoct before I went on a mission the other day.",
     text_time = 4200
   },
   [140879323] = {
-    content = "所以，受到小家伙们认可的应该是我们两个人才对。",
+    content = "So those little things' recognition should be for both of us.",
     text_time = 3450
   },
   [140879330] = {
-    title = "小蜜蜂也不容易",
-    content = "这么说来小蜜蜂也不容易，要不就随它们去？",
+    title = "Life is not easy for bees either.",
+    content = "So life is not easy for bees either. Should we just let them be?",
     text_time = 3000
   },
   [140879331] = {
-    content = "好，听你的。",
+    content = "Okay, as you say.",
     text_time = 900
   },
   [140879332] = {
-    content = "不过我认为，一下午都在为叶子担惊受怕的$u也很不容易。",
+    content = "But it strikes me that $u has been through a lot as well, seeing as how she's been worried about the leaves for the whole afternoon.",
     text_time = 4050
   },
   [140879333] = {
-    content = "今晚你不加班的话，一会儿我去接你吃顿大餐吧。",
+    content = "If you don't have to work overtime tonight, I'd like to treat you to a hearty dinner.",
     text_time = 3300
   }
 }

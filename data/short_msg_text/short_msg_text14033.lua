@@ -287,160 +287,154 @@ data = {
     text_time = 1800
   },
   [140332000] = {
-    content = "让我猜猜，$u同学此刻的小脑瓜里在纠结一些特别的事情。",
+    content = "If I had to guess, $u, I'd say you're worried about something right now.",
     text_time = 4050
   },
   [140332001] = {
-    content = "还在思考关于催眠合理性的问题吗？",
+    content = "Are you still pondering on the viability of hypnosis?",
     text_time = 2400
   },
   [140332110] = {
-    title = "我还是相信催眠",
-    content = "我还是相信催眠是真实存在的！还是我的方法有问题！",
+    title = "I still believe in it.",
+    content = "I still believe in it! I must be doing something wrong!",
     text_time = 3600
   },
   [140332111] = {
-    content = "催眠确实是存在的。",
+    content = "It exists for sure.",
     text_time = 1350
   },
   [140332112] = {
-    content = "本身催眠就已被广泛应用于心理治疗、医学、犯罪侦破和运动等方面。",
+    content = "It's widely used in psychology, medicine, forensics, and even sports.",
     text_time = 4650
   },
   [140332113] = {
-    content = "所以确实是你的方法有问题。",
+    content = "So you must be doing something wrong.",
     text_time = 1950
   },
   [140332120] = {
-    title = "果然催眠都是假的吗……",
-    content = "果然催眠都是假的吗……",
+    title = "Turns out hypnosis is fake after all...",
+    content = "Turns out hypnosis is fake after all...",
     text_time = 1650
   },
   [140332121] = {
-    content = "本质上，催眠是以人为诱导，引起的一种特殊的类似睡眠又非睡眠的意识恍惚心理状态。",
+    content = "Hypnosis is a state where your consciousness is both asleep and awake at the same time, often induced through subliminal suggestions.",
     text_time = 5850
   },
   [140332122] = {
-    content = "所以准确来说，催眠确实是真实存在的。",
+    content = "It is indeed a real thing.",
     text_time = 2700
   },
   [140332123] = {
-    content = "只是你的方法不太对。",
+    content = "You just need to work on your approach.",
     text_time = 1500
   },
   [140332130] = {
-    title = "我只是在用科学的眼光",
-    content = "我只是在用科学的眼光研究催眠的存在性！",
+    title = "I'm just being scientific about it.",
+    content = "I'm just trying to look at hypnosis from a scientific angle!",
     text_time = 2850
   },
   [140332131] = {
-    content = "那对于刻苦的$u同学来说，我也不需要再多做其他的介绍了。",
+    content = "Then for someone as studious as you, $u, I don't need to explain too much.",
     text_time = 4200
   },
   [140332132] = {
-    content = "昨晚很可惜，是你的方法不太对。",
+    content = "Last night was just a matter of your method not being quite right.",
     text_time = 2250
   },
   [140332210] = {
-    title = "可恶！",
-    content = "可恶！那我以后要多加练习！",
+    title = "Argh!",
+    content = "Ugh! Guess I just need more practice!",
     text_time = 1950
   },
   [140332211] = {
-    content = "你这么想要催眠我？",
+    content = "Are you this determined to hypnotize me?",
     text_time = 1350
   },
   [140332212] = {
-    content = "我以为你通过催眠，对我想做的事昨晚已经都做过了。",
+    content = "I thought you already did everything you wanted to me through hypnosis last night.",
     text_time = 3600
   },
-  [140332213] = {
-    content = "还是说……",
-    text_time = 750
-  },
+  [140332213] = {content = "Or...", text_time = 750},
   [140332214] = {
-    content = "你还有其他想让我做的事情？",
+    content = "Was there something else you were hoping to do to me?",
     text_time = 1950
   },
   [140332220] = {
-    title = "果然这种专业的事情需要专业的人",
-    content = "果然这种专业的事情需要专业的人来做",
+    title = "Looks like it's only for professionals.",
+    content = "Looks like this is something only professionals can do.",
     text_time = 2550
   },
   [140332221] = {
-    content = "看来$u同学有很多小秘密。",
+    content = "Looks like you've got some secrets you are not sharing with me, $u.",
     text_time = 1950
   },
   [140332222] = {
-    content = "还需要通过“催眠”这种方式来实现它？",
+    content = "Were you really hoping to use hypnosis to make them happen?",
     text_time = 2700
   },
   [140332230] = {
-    title = "我放弃了",
-    content = "看了好多资料，觉得专业性太强，我决定放弃了。",
+    title = "I give up.",
+    content = "I've read so much about this, and it all feels way too complicated. I'm done.",
     text_time = 3300
   },
   [140332231] = {
-    content = "以我对$u同学的小脑袋的了解，她现在应该开始思考什么其他的东西了。",
+    content = "Knowing how your brain works, $u, I'm sure you're already moving on to something else.",
     text_time = 4950
   },
   [140332232] = {
-    content = "其实如果你想让我做什么，可以直接对我说。",
+    content = "Hey, if you want me to do something, just say it directly.",
     text_time = 3000
   },
   [140332310] = {
-    title = "……这是我的秘密！",
-    content = "……这是我的秘密！",
+    title = "...It's my secret!",
+    content = "...It's my secret!",
     text_time = 1350
   },
   [140332311] = {
-    content = "那不如这样如何？",
+    content = "How about this?",
     text_time = 1200
   },
   [140332312] = {
-    content = "我对催眠也有一点了解……",
+    content = "Since I know a little about hypnosis too...",
     text_time = 1800
   },
   [140332313] = {
-    content = "我可以教教你，你可以先从被催眠者的角度开始感受催眠的感觉，算是入门。",
+    content = "I can teach you—let's start by letting you experience it as the subject. Perfect for beginners.",
     text_time = 5100
   },
   [140332314] = {
-    content = "时间就定在今晚吧。",
+    content = "How about tonight?",
     text_time = 1350
   },
   [140332320] = {
-    title = "……那你骗我怎么办？",
-    content = "……那你骗我怎么办？",
+    title = "...What if you lie to me?",
+    content = "...What if you lie to me?",
     text_time = 1500
   },
   [140332321] = {
-    content = "我可以提前向你保证答案和行为的真实性。",
+    content = "I promise I'll be 100% honest with my actions and answers.",
     text_time = 2850
   },
   [140332322] = {
-    content = "如果我骗你……那我就接受你的任何惩罚。",
+    content = "If I lie... you get to punish me however you want.",
     text_time = 2850
   },
-  [140332323] = {
-    content = "怎么样？",
-    text_time = 600
-  },
+  [140332323] = {content = "Deal?", text_time = 600},
   [140332330] = {
-    title = "……我考虑一下。",
-    content = "……我考虑一下。",
+    title = "...I'll think about it.",
+    content = "...I'll think about it.",
     text_time = 1200
   },
   [140332331] = {
-    content = "那我就安静地等你的答案了。",
+    content = "Alright, I'll patiently wait for your answer.",
     text_time = 1950
   },
   [140332332] = {
-    content = "不然今晚你可以再试试昨天的催眠方法。",
+    content = "Or, if you're feeling adventurous, you could give last night's method another go tonight.",
     text_time = 2700
   },
   [140332333] = {
-    content = "说不定昨天是个意外，这次就成功了呢。",
+    content = "Who knows? Maybe it'll work this time.",
     text_time = 2700
   },
   [140333000] = {

@@ -1245,13 +1245,13 @@ data = {
   [904023] = {
     story_type = 1,
     story_read_reward = "4,46,100",
-    story_name = "审问",
+    story_name = "Interrogate",
     story_stage_id = 904017
   },
   [904024] = {
     story_type = 1,
     story_read_reward = "4,46,100",
-    story_name = "打拳",
+    story_name = "Punch Me",
     story_stage_id = 904018
   },
   [908001] = {
@@ -1269,25 +1269,25 @@ data = {
   [911001] = {
     story_type = 1,
     story_read_reward = "1,46,100",
-    story_name = "此刻黄昏",
+    story_name = "Twilight Upon Now",
     story_stage_id = 911001
   },
   [912001] = {
     story_type = 1,
     story_read_reward = "2,46,100",
-    story_name = "长梦如痕",
+    story_name = "The Dream That Marked Me",
     story_stage_id = 912001
   },
   [913001] = {
     story_type = 1,
     story_read_reward = "3,46,100",
-    story_name = "小说新编",
+    story_name = "The Tale Rewoven",
     story_stage_id = 913001
   },
   [914001] = {
     story_type = 1,
     story_read_reward = "4,46,100",
-    story_name = "苏醒之后",
+    story_name = "Upon Awakening",
     story_stage_id = 914001
   }
 }

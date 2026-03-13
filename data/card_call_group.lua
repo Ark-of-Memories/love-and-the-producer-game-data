@@ -978,7 +978,6 @@ data = {
       351,
       1
     },
-    pv_stage_id = 819600,
     rule_id = "15063"
   },
   [50] = {
@@ -1002,7 +1001,6 @@ data = {
       351,
       1
     },
-    pv_stage_id = 820571,
     rule_id = "15072"
   },
   [51] = {
@@ -1026,8 +1024,30 @@ data = {
       351,
       1
     },
-    pv_stage_id = 821300,
     rule_id = "15081"
+  },
+  [52] = {
+    backflow_img = "52",
+    bg_name = {
+      {cardID = 51820, spFaceLv = 1},
+      {cardID = 52790, spFaceLv = 1},
+      {cardID = 53820, spFaceLv = 1},
+      {cardID = 54800, spFaceLv = 1}
+    },
+    card_call_id = {295, 296},
+    card_call_type = 1,
+    card_id = {
+      51820,
+      52790,
+      53820,
+      54800
+    },
+    condition = {
+      52,
+      351,
+      1
+    },
+    rule_id = "15082"
   },
   [1001] = {
     bg_name = {

@@ -3830,8 +3830,7 @@ story237 = {
       role2 = 701101,
       role3 = 301201,
       ruchang = -1,
-      sentence = "你觉得现在场上，谁比较有嫌疑？",
-      voice = 1,
+      sentence = "Who do you think is the most suspicious right now?",
       next = {2}
     },
     [2] = {
@@ -3841,7 +3840,7 @@ story237 = {
       music = "22_Despair",
       renming = "$u",
       renwu = "npc",
-      sentence = "我感觉那个叫甜心软糖的女生有点可疑。",
+      sentence = "I think that girl called SweetheartCandy is a little sus.",
       next = {3}
     },
     [3] = {
@@ -3851,7 +3850,7 @@ story237 = {
       music = "22_Despair",
       renming = "$u",
       renwu = "npc",
-      sentence = "第一天她好像非常坚定地站队了预言家，但后来又没有跟预言家投票。",
+      sentence = "She said she agreed with the Seer on day one, but then she didn't vote with him.",
       next = {4}
     },
     [4] = {
@@ -3862,7 +3861,7 @@ story237 = {
       role1 = 3169000,
       role2 = 701101,
       role3 = 301201,
-      sentence = "我转头向Helios看去，他也点了点头。",
+      sentence = "I glanced at Helios again. He nodded.",
       next = {5}
     },
     [5] = {
@@ -3876,8 +3875,7 @@ story237 = {
       role1 = 3169000,
       role2 = 701101,
       role3 = 301201,
-      sentence = "今天投突击手的时候，她本来打算弃票，看到其他人都投了才跟票。",
-      voice = 1,
+      sentence = "When we were voting on StormTrooper109 today, she looked like she wanted to abstain. But, she joined in when she saw everyone else had voted.",
       next = {6}
     },
     [6] = {
@@ -3891,8 +3889,7 @@ story237 = {
       role1 = 3169000,
       role2 = 701101,
       role3 = 301201,
-      sentence = "有可能是想保护自己的队友，嫌疑很大。另外，2……Nono也有点奇怪。 ",
-      voice = 1,
+      sentence = "She might've been trying to protect her teammate. Also, there's something funny going on with Nono.",
       next = {7}
     },
     [7] = {
@@ -3907,8 +3904,7 @@ story237 = {
       role2 = 701101,
       role3 = 301201,
       ruchang = 9,
-      sentence = "他发言划水，立场来回横跳，是狼的可能性很大。如果你要用毒，可以从他们两个中选一个。",
-      voice = 1,
+      sentence = "He barely contributes and switches sides constantly. Could be a Werewolf too. If you're gonna use the poison, pick between those two.",
       next = {8}
     },
     [8] = {
@@ -3916,11 +3912,11 @@ story237 = {
       dialog = 2,
       idx = 5,
       music = "22_Despair",
-      renming = "赵坚强",
+      renming = "Willstrong",
       renwu = "npc",
       role1 = 610460,
       ruchang = -1,
-      sentence = "呼——幸亏来找你们商量了，不然我还真是一头雾水。",
+      sentence = "Man, I'm really glad I came to talk to you both. I was totally lost.",
       next = {9}
     },
     [9] = {
@@ -3928,11 +3924,11 @@ story237 = {
       dialog = 2,
       idx = 5,
       music = "22_Despair",
-      renming = "赵坚强",
+      renming = "Willstrong",
       renwu = "npc",
       role1 = 610460,
       ruchang = 9,
-      sentence = "行，那我先回去琢磨琢磨，老板你们聊。",
+      sentence = "Alright, I'll head back and think about it. You two carry on.",
       next = {10}
     },
     [10] = {
@@ -3940,7 +3936,7 @@ story237 = {
       dialog = 3,
       music = "pause",
       renwu = "npc",
-      sentence = "赵坚强离开后，我便将心头的疑惑问了出来。",
+      sentence = "After he left, I leaned in to Helios and lowered my voice.",
       sfx = "Dia_Door_Close",
       next = {11}
     },
@@ -3955,7 +3951,7 @@ story237 = {
       role2 = 701101,
       role3 = 301201,
       ruchang = -1,
-      sentence = "大预言家不怀疑他，是不是因为昨天验了他的身份？",
+      sentence = "You don't seem to suspect him at all. Did you already check his role last night?",
       next = {12}
     },
     [12] = {
@@ -3969,8 +3965,7 @@ story237 = {
       role1 = 3169000,
       role2 = 701101,
       role3 = 301201,
-      sentence = "没错，他是好人——当然，也可能是隐狼。但隐狼应该不会知道女巫的毒药还没有用这件事。",
-      voice = 1,
+      sentence = "Yep. He's on the good team unless he's a Hidden Werewolf. But there's no way a Hidden Werewolf could know the Witch hasn't used the poison.",
       next = {13}
     },
     [13] = {
@@ -3983,7 +3978,7 @@ story237 = {
       role1 = 3169000,
       role2 = 701101,
       role3 = 301201,
-      sentence = "我就说嘛。不过怎么有预言家偷偷验人不及时共享情报的？",
+      sentence = "Figured as such. I thought we were a team? Could've shared the intel with me, you know?",
       next = {14}
     },
     [14] = {
@@ -3995,7 +3990,7 @@ story237 = {
       role2 = 701101,
       role3 = 301201,
       roleanim = 1.1,
-      sentence = "我假装嘟起嘴，戳了戳他的小腹。不知道是不是戳到了他的痒点，我感觉指尖下的皮肤一僵。",
+      sentence = "I pouted and gave his stomach a playful poke. He tensed ever so slightly, as if I'd struck a ticklish nerve.",
       next = {15}
     },
     [15] = {
@@ -4010,8 +4005,7 @@ story237 = {
       role2 = 701112,
       role3 = 301201,
       roleanim = 1.1,
-      sentence = "本来是打算在早饭的时候告诉你的，但没想到一下子出局两个人，打断我思路了。",
-      voice = 1,
+      sentence = "I was gonna tell you at breakfast, but then two people got taken out at once and threw me off track.",
       next = {16}
     },
     [16] = {
@@ -4023,7 +4017,7 @@ story237 = {
       role2 = 701112,
       role3 = 301201,
       roleanim = 1.1,
-      sentence = "他眨着眼，蓝色的眼中满是无辜。",
+      sentence = "He blinked, wide-eyed, his blue irises full of innocence.",
       next = {17}
     },
     [17] = {
@@ -4038,8 +4032,7 @@ story237 = {
       role2 = 701112,
       role3 = 301201,
       roleanim = 1.1,
-      sentence = "不知道我的专属搭档可不可以放过我这次，下次有情报，一定第一时间共享。",
-      voice = 1,
+      sentence = "Think my favorite teammate can forgive me just this once? I promise, next time I get any info, you'll be the first to know.",
       next = {18}
     },
     [18] = {
@@ -4051,7 +4044,7 @@ story237 = {
       role2 = 701112,
       role3 = 301201,
       roleanim = 1.1,
-      sentence = "暖风从窗户的缝隙间流动而过，微微撩起柔软的银色发梢，让我心头微微一动。",
+      sentence = "A warm breeze slipped through the cracked window, lifting strands of his silver hair. My heart gave a quiet flutter.",
       next = {19}
     },
     [19] = {
@@ -4065,7 +4058,7 @@ story237 = {
       role2 = 701112,
       role3 = 301201,
       roleanim = 1.1,
-      sentence = "好吧，不过今天还是要小小“惩罚”一下的——",
+      sentence = "Hmph... fine. But you're still getting a tiny punishment.",
       next = {20}
     },
     [20] = {
@@ -4077,7 +4070,7 @@ story237 = {
       role2 = 701110,
       role3 = 301207,
       roleanim = 1.2,
-      sentence = "我微微向他靠近，双手捧住他的脸，轻轻一捏，他有些诧异地睁大了眼睛。",
+      sentence = "I leaned in close and gently cupped his cheeks, giving them a light squish. His eyes widened in surprise.",
       next = {21}
     },
     [21] = {
@@ -4085,7 +4078,7 @@ story237 = {
       dialog = 3,
       music = "48_Quiet_Daily",
       renwu = "npc",
-      sentence = "我眼疾手快，调出系统的拍照界面拍了这个珍贵的Helios嘟嘟脸。",
+      sentence = "Before he could react, I whipped out the camera interface and snapped a photo of his adorable puffed-cheeked expression.",
       next = {22}
     },
     [22] = {
@@ -4095,7 +4088,7 @@ story237 = {
       music = "48_Quiet_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "真不错，回头我要把这张照片洗出来挂在家里！",
+      sentence = "Perfect! I'm printing this out and framing it at home.",
       next = {23}
     },
     [23] = {
@@ -4107,7 +4100,7 @@ story237 = {
       role2 = 701101,
       role3 = 301201,
       roleanim = 1.2,
-      sentence = "不等我反应，温热的指尖也轻轻捏住了我的脸。我下意识看向他，只见微微抿起的唇角扬起了一丝笑。",
+      sentence = "Before I could savor my victory, warm fingers reached up and returned the favor, giving my face a playful pinch. I looked up to find him smiling.",
       next = {24}
     },
     [24] = {
@@ -4123,8 +4116,7 @@ story237 = {
       role3 = 301201,
       roleanim = 1.2,
       ruchang = 9,
-      sentence = "照片只有我的也太寂寞了，不如加一张和它作伴。",
-      voice = 1,
+      sentence = "Can't let my photo sit alone. How about a companion for it?",
       next = {25}
     },
     [25] = {
@@ -4132,7 +4124,7 @@ story237 = {
       dialog = 3,
       music = "48_Quiet_Daily",
       renwu = "npc",
-      sentence = "话音刚落，随着“咔嚓”一声，这一刻被定格了下来。",
+      sentence = "Click. The shutter snapped, sealing that small, ridiculous moment like a gem in amber.",
       next = {26}
     },
     [26] = {
@@ -4146,7 +4138,7 @@ story237 = {
       role2 = 702101,
       role3 = 302205,
       ruchang = -1,
-      sentence = "转眼间，时间便到了中午。看着逐渐流逝的时间，我戳了戳他的手臂。",
+      sentence = "When I checked the time again, it was already noon. I gave Helios' arm a slight nudge.",
       next = {27}
     },
     [27] = {
@@ -4159,7 +4151,7 @@ story237 = {
       role1 = 3170000,
       role2 = 702101,
       role3 = 302205,
-      sentence = "赵坚强的事情解决好了，要继续探查一下疗养院吗？ ",
+      sentence = "Now that Willstrong's all sorted, should we keep digging around the sanatorium?",
       next = {28}
     },
     [28] = {
@@ -4173,8 +4165,7 @@ story237 = {
       role1 = 3170000,
       role2 = 702101,
       role3 = 302205,
-      sentence = "我想找一把钥匙，我的办公室里现在只有这一个地方没有打开过了。",
-      voice = 1,
+      sentence = "Yeah, I want to find a key. There's just one drawer left in my office that's still locked.",
       next = {29}
     },
     [29] = {
@@ -4182,7 +4173,7 @@ story237 = {
       dialog = 3,
       music = "48_Quiet_Daily",
       renwu = "npc",
-      sentence = "他拍了拍办公桌边的一个带着锁的抽屉，我凑过去看了看，发现这只是非常普通的一把锁。",
+      sentence = "He gave the drawer beside his desk a casual tap. I leaned in for a closer look—it was just a basic old-fashioned lock.",
       next = {30}
     },
     [30] = {
@@ -4192,7 +4183,7 @@ story237 = {
       music = "48_Quiet_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "疗养院这么大，要去哪找呢？",
+      sentence = "This place is massive. Where are we even supposed to start looking?",
       next = {31}
     },
     [31] = {
@@ -4206,8 +4197,7 @@ story237 = {
       role1 = 3170000,
       role2 = 702108,
       role3 = 302205,
-      sentence = "游戏中的道具应该不会随机出现，我觉得应该在我负责的几个病人、或者院长办公室之类出现的可能性比较大。",
-      voice = 1,
+      sentence = "Items in this game probably aren't randomly placed. I'm thinking it's either hidden in one of my assigned patients' rooms... or maybe in the director's office.",
       next = {32}
     },
     [32] = {
@@ -4220,7 +4210,7 @@ story237 = {
       role1 = 3170000,
       role2 = 702107,
       role3 = 302202,
-      sentence = "我也是你的患者，但我的房间已经被我翻了个底朝天了，好像没……啊！那个小熊！",
+      sentence = "Well, I'm one of your patients, right? And I already tore my whole room apart looking for clues. Wait—hold on! The teddy bear!",
       next = {33}
     },
     [33] = {
@@ -4228,7 +4218,7 @@ story237 = {
       dialog = 3,
       music = "48_Quiet_Daily",
       renwu = "npc",
-      sentence = "在Helios疑惑的目光中，我立刻回到了房间将那只小熊拿了过来。",
+      sentence = "Catching the flicker of curiosity in Helios's eyes, I darted back to my room and returned with the plush bear clutched in my hands.",
       next = {34}
     },
     [34] = {
@@ -4242,8 +4232,7 @@ story237 = {
       role1 = 3170000,
       role2 = 702101,
       role3 = 302205,
-      sentence = "……里面好像的确藏着什么，我拆开看看？",
-      voice = 1,
+      sentence = "...Looks like there is something inside. Mind if I open it?",
       next = {35}
     },
     [35] = {
@@ -4254,7 +4243,7 @@ story237 = {
       role1 = 3170000,
       role2 = 702108,
       role3 = 302205,
-      sentence = "我点了点头。Helios捏了捏小熊，拿着剪刀，沿着小熊的缝线仔细地剪开。",
+      sentence = "I nodded. He gave the bear a gentle squeeze, then took a pair of scissors and started snipping carefully along a seam.",
       next = {36}
     },
     [36] = {
@@ -4268,8 +4257,7 @@ story237 = {
       role1 = 3170000,
       role2 = 702108,
       role3 = 302205,
-      sentence = "对不起哦，晚一点就帮你“缝合”。",
-      voice = 1,
+      sentence = "Sorry, buddy. I'll patch you up once we're done, promise.",
       next = {37}
     },
     [37] = {
@@ -4277,7 +4265,7 @@ story237 = {
       dialog = 3,
       music = "48_Quiet_Daily",
       renwu = "npc",
-      sentence = "他轻声和小熊说着，并在溢出来的棉花中，翻出了一把钥匙。",
+      sentence = "He murmured the words softly to the bear, and as a tuft of stuffing spilled out, a small metal key tumbled free.",
       next = {38}
     },
     [38] = {
@@ -4287,7 +4275,7 @@ story237 = {
       music = "48_Quiet_Daily",
       renming = "$u",
       renwu = "npc",
-      sentence = "居然有把钥匙！",
+      sentence = "Whoa, there was a key in there!",
       next = {39}
     },
     [39] = {
@@ -4301,8 +4289,7 @@ story237 = {
       role1 = 3170000,
       role2 = 702101,
       role3 = 302205,
-      sentence = "$u和小熊先生立大功。",
-      voice = 1,
+      sentence = "$u and Mr. Bear just became MVPs.",
       next = {40}
     },
     [40] = {
@@ -4310,7 +4297,7 @@ story237 = {
       dialog = 3,
       music = "pause",
       renwu = "npc",
-      sentence = "Helios说着将钥匙插入锁孔，轻轻一转。伴随着开锁的声音，抽屉被拉开。一个陈旧的档案盒顿时出现在视野中。",
+      sentence = "He slid the key into the lock and gave it a twist. With a muted click, the drawer eased open to reveal a dusty old file box nestled inside.",
       sfx = "Metal_Lock",
       next = {41}
     },
@@ -4319,7 +4306,7 @@ story237 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "文件夹打开后，一股陈旧纸张的气息扑面而来，里面整齐地放着一摞装订整齐的病人档案。",
+      sentence = "As the lid was lifted, the scent of aging paper drifted into the air. Inside, neatly arranged, were rows of worn and yellowed patient files.",
       next = {42}
     },
     [42] = {
@@ -4333,8 +4320,7 @@ story237 = {
       role1 = 3170000,
       role2 = 702108,
       role3 = 302203,
-      sentence = "这些是……“我”之前负责过的病人。",
-      voice = 1,
+      sentence = "These are... the records of the patients my character used to look after.",
       next = {43}
     },
     [43] = {
@@ -4347,7 +4333,7 @@ story237 = {
       role3 = 302203,
       roleanim = 1.1,
       ruchang = 9,
-      sentence = "我凑过去，可惜很多纸张历经年岁，上面打印的油墨已经有些斑驳不清。",
+      sentence = "I leaned over, but time had not been kind. Many of the pages were smudged and faded, the ink bleeding into the parchment.",
       next = {44}
     },
     [44] = {
@@ -4357,7 +4343,7 @@ story237 = {
       music = "1021_CloseYourEyes",
       renming = "$u",
       renwu = "npc",
-      sentence = "咦？怎么体检报告上说没有健康问题啊。入院原因……",
+      sentence = "Huh? These reports say the patients are completely healthy. And the reason for admission is...",
       next = {45}
     },
     [45] = {
@@ -4367,7 +4353,7 @@ story237 = {
       music = "1021_CloseYourEyes",
       renming = "$u",
       renwu = "npc",
-      sentence = "“利用超能力，肇……事逃逸？！”",
+      sentence = "\"Hit and run using superpowers...?\"",
       next = {46}
     },
     [46] = {
@@ -4375,7 +4361,7 @@ story237 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我大吃一惊，Helios看起来也有些疑惑。",
+      sentence = "My voice rose in surprise. Even Helios looked momentarily thrown.",
       next = {47}
     },
     [47] = {
@@ -4383,7 +4369,7 @@ story237 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我们又翻了几页，发现每个人的入院体检都相对健康，而入院原因却五花八门。",
+      sentence = "We flipped through more files, each more bizarre than the last. While the physical exams showed no issues, the reasons for admission read like a rap sheet.",
       next = {48}
     },
     [48] = {
@@ -4391,7 +4377,7 @@ story237 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "“入室抢劫”、“半夜专门划豪车”……每个原因都让人出乎意料。 ",
+      sentence = "\"Breaking into homes,\" \"keying expensive cars at night,\" it was one eyebrow-raising detail after another.",
       next = {49}
     },
     [49] = {
@@ -4399,7 +4385,7 @@ story237 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "翻到了最后，终于看到了我的名字。",
+      sentence = "Then we reached my own file.",
       next = {50}
     },
     [50] = {
@@ -4407,7 +4393,7 @@ story237 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "果然和其他人类似，“我”的体检报告也显示正常。我连忙继续翻看。",
+      sentence = "Just like the others, the health check said I was fine. I quickly skimmed to the cause for admission.",
       next = {51}
     },
     [51] = {
@@ -4417,7 +4403,7 @@ story237 = {
       music = "1021_CloseYourEyes",
       renming = "$u",
       renwu = "npc",
-      sentence = "入院原因……",
+      sentence = "Let's see...",
       next = {52}
     },
     [52] = {
@@ -4427,7 +4413,7 @@ story237 = {
       music = "1021_CloseYourEyes",
       renming = "$u",
       renwu = "npc",
-      sentence = "“超能力失控，火烧了盗版书印刷社仓库，造成一定程度的财产损失，已消除记忆。”",
+      sentence = "\"Power overload. Burned down a warehouse belonging to an illegal print shop. Caused property damage. Memory erased.\"",
       next = {53}
     },
     [53] = {
@@ -4437,7 +4423,7 @@ story237 = {
       music = "1021_CloseYourEyes",
       renming = "$u",
       renwu = "npc",
-      sentence = "……怎么感觉，这里的“病人”好像都是犯过事的人。",
+      sentence = "...Okay, this is sounding less like a hospital and more like a holding cell...",
       next = {54}
     },
     [54] = {
@@ -4445,7 +4431,7 @@ story237 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "Helios沉默片刻，忽然开口。",
+      sentence = "Helios was quiet for a moment and then spoke with a thoughtful edge.",
       next = {55}
     },
     [55] = {
@@ -4461,8 +4447,7 @@ story237 = {
       role3 = 301211,
       roleanim = 1.1,
       ruchang = -1,
-      sentence = "我之前搜过我办公室的柜子，里面的药品大多都是镇定剂、止痛药、助睡眠的药以及一些未知的抑制药物。 ",
-      voice = 1,
+      sentence = "I looked through the meds in my office earlier. It's mostly sedatives, painkillers, sleep aids, and a few suppressants I couldn't identify.",
       next = {56}
     },
     [56] = {
@@ -4477,8 +4462,7 @@ story237 = {
       role2 = 701102,
       role3 = 301211,
       roleanim = 1.1,
-      sentence = "一般的疗养院，应该不太会用到这些。 ",
-      voice = 1,
+      sentence = "You don't usually find those in a sanatorium.",
       next = {57}
     },
     [57] = {
@@ -4493,8 +4477,7 @@ story237 = {
       role2 = 701102,
       role3 = 301211,
       roleanim = 1.1,
-      sentence = "当时我就觉得有点奇怪，没想到竟然是这样。 ",
-      voice = 1,
+      sentence = "I had a weird feeling then. Looks like I wasn't wrong.",
       next = {58}
     },
     [58] = {
@@ -4502,7 +4485,7 @@ story237 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "听到这些话，我感觉一阵莫名的寒颤，脖颈后的鸡皮疙瘩都起来了。",
+      sentence = "His words stirred a chill down my spine. A wave of goosebumps crept up the back of my neck.",
       next = {59}
     },
     [59] = {
@@ -4510,7 +4493,7 @@ story237 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "住在这个疗养院里的人，说不定根本不是什么“病人”…… ",
+      sentence = "Maybe the people living here were never patients at all.",
       next = {60}
     },
     [60] = {
@@ -4522,7 +4505,7 @@ story237 = {
       role2 = 701101,
       role3 = 301211,
       roleanim = 1.1,
-      sentence = "四目相对，我们都从彼此眼中看到了一点不可思议。",
+      sentence = "Our eyes met, and in that brief silence, I saw the same unnerved realization reflected in his.",
       next = {61}
     },
     [61] = {
@@ -4530,7 +4513,7 @@ story237 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "正当我打量自己的档案时，任务面板忽然亮起一行绿色的提示——“个人任务已完成”。",
+      sentence = "Just then, as I stared down at my file, my task panel lit up with a faint green glow: \"Personal Task Complete.\"",
       next = {62}
     },
     [62] = {
@@ -4540,7 +4523,7 @@ story237 = {
       music = "1021_CloseYourEyes",
       renming = "$u",
       renwu = "npc",
-      sentence = "咦？这就算个人任务完成了？",
+      sentence = "Huh? That's it? I finished already?",
       next = {63}
     },
     [63] = {
@@ -4555,8 +4538,7 @@ story237 = {
       role2 = 701110,
       role3 = 301201,
       roleanim = 1.1,
-      sentence = "可能因为个人任务不是“狂欢夜”的主要玩法，特别困难的话会干扰玩家盘谁是狼人，我的个人任务也不算很难。",
-      voice = 1,
+      sentence = "Yeah, personal missions aren't really the main part of Carnival Night. They don't want them to get in the way of the deduction side. Mine wasn't all that hard either.",
       next = {64}
     },
     [64] = {
@@ -4570,7 +4552,7 @@ story237 = {
       role2 = 701110,
       role3 = 301201,
       roleanim = 1.1,
-      sentence = "不过多亏你，我的个人任务才这么快就解决了。接下来该我来协助你啦。",
+      sentence = "Still, if it weren't for you, I'd be stuck. Time for me to help you now!",
       next = {65}
     },
     [65] = {
@@ -4582,7 +4564,7 @@ story237 = {
       role2 = 701109,
       role3 = 301201,
       roleanim = 1.1,
-      sentence = "他弯起眼睛，手已经替我合上了档案，声音带着让我安心的笃定。",
+      sentence = "He smiled, eyes curving gently, and closed my file for me with calm assurance in his voice.",
       next = {66}
     },
     [66] = {
@@ -4597,8 +4579,7 @@ story237 = {
       role2 = 701110,
       role3 = 301201,
       roleanim = 1.1,
-      sentence = "放心，你已经在协助我了。",
-      voice = 1,
+      sentence = "You already are.",
       next = {67}
     },
     [67] = {
@@ -4610,7 +4591,7 @@ story237 = {
       role2 = 701110,
       role3 = 301201,
       roleanim = 1.2,
-      sentence = "Helios并没有再多说，而是把残破的小熊放到我的怀中。",
+      sentence = "He didn't elaborate. Instead, he carefully placed the torn bear back in my hands.",
       next = {68}
     },
     [68] = {
@@ -4626,8 +4607,7 @@ story237 = {
       role3 = 301201,
       roleanim = 1.2,
       ruchang = 9,
-      sentence = "走，我们先回去给它“疗伤”。",
-      voice = 1,
+      sentence = "Come on. Let's go patch him up first.",
       next = {0}
     }
   },
@@ -8245,7 +8225,7 @@ story237 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "断电的一瞬场馆内传来几声惊呼，能明显听到有些慌乱的脚步声。",
+      sentence = "There were a few startled gasps in the venue, followed by the shuffle of footsteps. For a moment, the atmosphere rippled with unease.",
       next = {2}
     },
     [2] = {
@@ -8253,7 +8233,7 @@ story237 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "幸好场馆内都是有经验的工作人员，人群的骚动很快便被压下。",
+      sentence = "Fortunately, the crew was experienced and quickly calmed the crowd.",
       next = {3}
     },
     [3] = {
@@ -8261,7 +8241,7 @@ story237 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "稍远处正闪烁着应急安全灯的光亮，似乎因为很久未使用，昏暗的灯光在沉静的黑暗中反倒有些恐怖。",
+      sentence = "A little further down, an emergency safety light began flickering faintly. It must've been unused for ages—its weak, pale glow casting eerie shadows in the silence.",
       next = {4}
     },
     [4] = {
@@ -8269,7 +8249,7 @@ story237 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "我一边快步移动到光源附近，一边思索着是先原路返回录制厅，还是先摸索着到后台给手机充上电。",
+      sentence = "I moved quickly toward the light as I weighed my options: should I head back to the studio or try to find an outlet backstage to charge my phone?",
       next = {5}
     },
     [5] = {
@@ -8277,7 +8257,7 @@ story237 = {
       dialog = 3,
       music = "19_Daily02",
       renwu = "npc",
-      sentence = "鲜红的低电量标志给突然的黑暗增添了几分压抑，屏幕上很快弹出工作人员的告知信息。",
+      sentence = "The glowing red battery icon glared accusingly at me in the darkness. Then a message popped up from the staff.",
       next = {6}
     },
     [6] = {
@@ -8285,11 +8265,11 @@ story237 = {
       dialog = 2,
       idx = 5,
       music = "19_Daily02",
-      renming = "工作人员",
+      renming = "Staff",
       renwu = "npc",
       role1 = 502000,
       ruchang = -1,
-      sentence = "$u制作人，停电会造成一些进度的延后，我们正在商讨解决办法。",
+      sentence = "Miss $u, the outage is causing some delays. We're working on a fix.",
       next = {7}
     },
     [7] = {
@@ -8300,7 +8280,7 @@ story237 = {
       renming = "$u",
       renwu = "npc",
       role1 = 502000,
-      sentence = "……",
+      sentence = "...",
       next = {8}
     },
     [8] = {
@@ -8309,7 +8289,7 @@ story237 = {
       music = "19_Daily02",
       renwu = "npc",
       role1 = 502000,
-      sentence = "片场出现电路问题属于较为严重的事故，我思考片刻后，依照以往的经验向工作人员提出自己的建议。",
+      sentence = "A blackout during filming wasn't a small issue. I paused to think for a moment, then typed out a few suggestions for the team based on past experiences.",
       next = {9}
     },
     [9] = {
@@ -8318,7 +8298,7 @@ story237 = {
       music = "19_Daily02",
       renwu = "npc",
       role1 = 502000,
-      sentence = "在我打字回复时，屏幕右上角的电量低提示仍在闪烁。",
+      sentence = "All the while, the low battery icon kept blinking in the corner of the screen.",
       next = {10}
     },
     [10] = {
@@ -8328,7 +8308,7 @@ story237 = {
       renwu = "npc",
       role1 = 502000,
       ruchang = 9,
-      sentence = "拍摄中断对进度的影响不可估量，现场估计也难免有些混乱，不知道周棋洛怎么样了……",
+      sentence = "There was no telling how much this blackout would disrupt the schedule. And with everything happening, I couldn't help but wonder what Kiro was doing.",
       next = {11}
     },
     [11] = {
@@ -8340,7 +8320,7 @@ story237 = {
       role2 = 501030,
       role5 = 50101,
       ruchang = -1,
-      sentence = "“嗡嗡”。",
+      sentence = "*Buzz*",
       sfx = "Dia_Phone_Vibrator",
       next = {12}
     },
@@ -8352,7 +8332,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "突然跳动在屏幕上的熟悉头像让我本能地按下接听。",
+      sentence = "A familiar icon lit up my screen. Without thinking, I quickly answered the call.",
       next = {13}
     },
     [13] = {
@@ -8361,12 +8341,12 @@ story237 = {
       idx = 3,
       male = 3,
       music = "301_ZhouQiluo",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "$u，你现在在哪儿？",
+      sentence = "$u, where are you?",
       voice = 2,
       next = {14}
     },
@@ -8378,7 +8358,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "传入耳中的，是阳光般松软的声音，透着令人安心的温度。",
+      sentence = "A familiar voice came through the receiver, like a ray of warm and reassuring sunshine.",
       next = {15}
     },
     [15] = {
@@ -8387,12 +8367,12 @@ story237 = {
       idx = 3,
       male = 3,
       music = "301_ZhouQiluo",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "不用担心，电力很快就会恢复，我只是想知道你现在在哪。",
+      sentence = "Don't worry. The power should be back soon. I just wanna know where you are.",
       voice = 2,
       next = {16}
     },
@@ -8406,7 +8386,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "我……",
+      sentence = "I...",
       next = {17}
     },
     [17] = {
@@ -8417,7 +8397,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "我抬眼打量四周，应急灯照亮的范围不大，只能隐约看清一些货架的轮廓。",
+      sentence = "I glanced around. The emergency lighting barely reached the edges, casting just enough glow to reveal the faint outlines of tall shelving units.",
       next = {18}
     },
     [18] = {
@@ -8430,7 +8410,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "有很多货架，应该是库房一类的地方？",
+      sentence = "There's a bunch of shelves... I think I'm in some kind of storage room?",
       next = {19}
     },
     [19] = {
@@ -8439,12 +8419,12 @@ story237 = {
       idx = 3,
       male = 3,
       music = "301_ZhouQiluo",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "嗯……库房吗，我知道了。",
+      sentence = "Hmm... storage room. Got it.",
       voice = 2,
       next = {20}
     },
@@ -8454,12 +8434,12 @@ story237 = {
       idx = 3,
       male = 3,
       music = "301_ZhouQiluo",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "你就待在原地不要动，我很快就去找你。",
+      sentence = "Stay put, okay? I'm coming to get you.",
       voice = 2,
       next = {21}
     },
@@ -8473,7 +8453,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "好呀，不过你可能要快一点哦，我的手机要没电了。",
+      sentence = "Okay, but you'd better hurry. My phone's just about to die.",
       next = {22}
     },
     [22] = {
@@ -8482,12 +8462,12 @@ story237 = {
       idx = 3,
       male = 3,
       music = "301_ZhouQiluo",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "这样吗？",
+      sentence = "Is that so?",
       voice = 2,
       next = {23}
     },
@@ -8497,12 +8477,12 @@ story237 = {
       idx = 3,
       male = 3,
       music = "301_ZhouQiluo",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "那这就是个限时任务了！",
+      sentence = "Guess that makes this a timed mission!",
       voice = 2,
       next = {24}
     },
@@ -8516,7 +8496,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "限时任务？",
+      sentence = "A timed mission?",
       next = {25}
     },
     [25] = {
@@ -8525,12 +8505,12 @@ story237 = {
       idx = 3,
       male = 3,
       music = "301_ZhouQiluo",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "Yes！即刻开启从停电魔王手里拯救薯片公主的限时任务——",
+      sentence = "Yep! Starting right now, I will embark on the daring rescue of Princess Chips from the evil Blackout King.",
       voice = 2,
       next = {26}
     },
@@ -8542,7 +8522,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "听着周棋洛故作打趣的说法，我不禁笑了起来。",
+      sentence = "Kiro's deliberately playful delivery pulled a laugh out of me before I could stop it.",
       next = {27}
     },
     [27] = {
@@ -8555,7 +8535,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "噗……停电魔王哈哈哈哈！周棋洛的脑袋里到底装了多少奇怪又可爱的东西啊！",
+      sentence = "Hahaha, the Blackout King? Hahaha! Seriously, Kiro, what kind of strange, adorable things are rattling around in your head?",
       next = {28}
     },
     [28] = {
@@ -8564,12 +8544,12 @@ story237 = {
       idx = 3,
       male = 3,
       music = "301_ZhouQiluo",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "不多不少，但一定都是能让$u开心的~",
+      sentence = "Not too many, not too few—just the perfect amount to keep $u smiling.",
       voice = 2,
       next = {29}
     },
@@ -8581,7 +8561,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "电话那头传来略显急促的脚步声，周棋洛故作夸张地清了清嗓子，接着抑扬顿挫地开口。",
+      sentence = "From the other end of the call came quick, steady footsteps. Then Kiro, with exaggerated drama, cleared his throat and launched into a mock-heroic narration.",
       next = {30}
     },
     [30] = {
@@ -8590,12 +8570,12 @@ story237 = {
       idx = 3,
       male = 3,
       music = "301_ZhouQiluo",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "被停电魔王绑架的薯片公主正被困在黑暗中，依靠应急灯苦苦支撑……",
+      sentence = "Princess Chips has been captured by the Blackout King and is trapped in the dark, surviving only by the dim glow of an emergency lamp...",
       voice = 2,
       next = {31}
     },
@@ -8605,12 +8585,12 @@ story237 = {
       idx = 3,
       male = 3,
       music = "301_ZhouQiluo",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "勇者周棋洛在处理好现场后，正立即赶往薯片公主身边！",
+      sentence = "But fear not! Kiro the Mighty has finished securing the scene and is now on his way to her rescue!",
       voice = 2,
       next = {32}
     },
@@ -8622,7 +8602,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "原本紧绷的心绪在周棋洛的言语下不自觉地放松，身旁的向日葵花束被压出声响，我摸索着把它拿到身前来。",
+      sentence = "Without realizing it, the tightness in my chest eased. Beside me, my hand felt a rustling bouquet of sunflowers. Almost instinctively, I drew it to me.",
       next = {33}
     },
     [33] = {
@@ -8635,7 +8615,7 @@ story237 = {
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
-      sentence = "那么勇者周棋洛还要多久才能赶到呢？",
+      sentence = "So, how much longer before my knight gets here?",
       next = {34}
     },
     [34] = {
@@ -8644,13 +8624,13 @@ story237 = {
       idx = 3,
       male = 3,
       music = "301_ZhouQiluo",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
       role5 = 50102,
       ruchang = 9,
-      sentence = "很快，我已经看见库房的门了。",
+      sentence = "Almost there, I can already see the storeroom door.",
       voice = 2,
       next = {35}
     },
@@ -8660,7 +8640,7 @@ story237 = {
       dialog = 3,
       music = "pause",
       renwu = "npc",
-      sentence = "——啪！",
+      sentence = "—Snap!",
       next = {36}
     },
     [36] = {
@@ -8668,7 +8648,7 @@ story237 = {
       dialog = 3,
       music = "pause",
       renwu = "npc",
-      sentence = "头顶的应急灯突然一瞬关闭，所有感官都被黑暗吞没。",
+      sentence = "The emergency light overhead blinked out in an instant, and the darkness swallowed everything whole.",
       next = {37}
     },
     [37] = {
@@ -8676,7 +8656,7 @@ story237 = {
       dialog = 3,
       music = "305_ZQL_Second",
       renwu = "npc",
-      sentence = "我用力眨了眨眼想让自己尽快适应黑暗，却被一只手轻柔地按住了眼。",
+      sentence = "I blinked hard, trying to adjust, but a warm hand gently covered my eyes.",
       next = {38}
     },
     [38] = {
@@ -8685,9 +8665,9 @@ story237 = {
       idx = 3,
       male = 3,
       music = "305_ZQL_Second",
-      renming = "？？",
+      renming = "??",
       renwu = "npc",
-      sentence = "虽然有点小波折，但任务还是顺利达成了。",
+      sentence = "Had a couple of bumps along the way, but the mission was a success.",
       voice = 2,
       next = {39}
     },
@@ -8697,7 +8677,7 @@ story237 = {
       dialog = 3,
       music = "305_ZQL_Second",
       renwu = "npc",
-      sentence = "手指慢慢抚下，我的眼前逐渐恢复了光亮。一抬眼，恰对上他眸中的盈盈笑意。",
+      sentence = "Fingers slid away, and light seeped back into my vision. When I looked up, his eyes were lit with quiet amusement.",
       next = {40}
     },
     [40] = {
@@ -8706,9 +8686,9 @@ story237 = {
       idx = 3,
       male = 3,
       music = "305_ZQL_Second",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
-      sentence = "找到你了，薯片小姐。",
+      sentence = "Found you, Miss Chips.",
       voice = 2,
       next = {41}
     },
@@ -8718,9 +8698,9 @@ story237 = {
       idx = 3,
       male = 3,
       music = "305_ZQL_Second",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
-      sentence = "看来我登场的时机刚刚好。",
+      sentence = "Looks like my timing was perfect.",
       voice = 2,
       next = {42}
     },
@@ -8729,7 +8709,7 @@ story237 = {
       dialog = 3,
       music = "305_ZQL_Second",
       renwu = "npc",
-      sentence = "他如童话中的勇者一般，笑着向我伸出手。",
+      sentence = "Like a knight stepping straight out of a storybook, he smiled and offered me his hand.",
       next = {43}
     },
     [43] = {
@@ -8737,7 +8717,7 @@ story237 = {
       dialog = 3,
       music = "305_ZQL_Second",
       renwu = "npc",
-      sentence = "好像总会有这样明媚的人，他只是站在你身旁，就令你的嘴角温柔地翘起，只能说出些柔软的话来。",
+      sentence = "It was like he was the sunshine that belonged only to me, shining his radiance into my life and draping everything in his reassuring warmth.",
       next = {44}
     },
     [44] = {
@@ -8745,7 +8725,7 @@ story237 = {
       dialog = 3,
       music = "305_ZQL_Second",
       renwu = "npc",
-      sentence = "我轻轻地摇了摇手中的向日葵。",
+      sentence = "I gave the sunflowers in my hands a little shake.",
       next = {45}
     },
     [45] = {
@@ -8755,7 +8735,7 @@ story237 = {
       music = "305_ZQL_Second",
       renming = "$u",
       renwu = "npc",
-      sentence = "被我的向日葵勇者找到了呢。",
+      sentence = "Guess my Sunflower Knight has found me.",
       next = {46}
     },
     [46] = {
@@ -8764,9 +8744,9 @@ story237 = {
       idx = 3,
       male = 3,
       music = "305_ZQL_Second",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
-      sentence = "当然，不论你在哪儿，我都会找到你，来到你身边。",
+      sentence = "Of course. No matter where you are, I'll always find you.",
       voice = 2,
       next = {0}
     }

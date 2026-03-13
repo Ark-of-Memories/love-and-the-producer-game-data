@@ -3164,6 +3164,10 @@ data = {
     card_design_price = "100001,1,60000:51970,101,80",
     card_design_get = "0,暂无来源"
   },
+  [51980] = {
+    card_design_price = "100001,1,60000:51980,101,80",
+    card_design_get = "0,暂无来源"
+  },
   [52010] = {
     card_design_price = "100001,1,60000:52010,101,80",
     card_design_get = "0,暂无来源"
@@ -3526,6 +3530,10 @@ data = {
   },
   [52940] = {
     card_design_price = "100001,1,60000:52940,101,80",
+    card_design_get = "0,暂无来源"
+  },
+  [52960] = {
+    card_design_price = "100001,1,60000:52960,101,80",
     card_design_get = "0,暂无来源"
   },
   [53010] = {
@@ -3900,6 +3908,10 @@ data = {
     card_design_price = "100001,1,60000:53960,101,80",
     card_design_get = "0,暂无来源"
   },
+  [53980] = {
+    card_design_price = "100001,1,60000:53980,101,80",
+    card_design_get = "0,暂无来源"
+  },
   [54010] = {
     card_design_price = "100001,1,60000:54010,101,80",
     card_design_get = "0,暂无来源"
@@ -4270,6 +4282,10 @@ data = {
   },
   [54960] = {
     card_design_price = "100001,1,60000:54960,101,80",
+    card_design_get = "0,暂无来源"
+  },
+  [54970] = {
+    card_design_price = "100001,1,60000:54970,101,80",
     card_design_get = "0,暂无来源"
   },
   [58010] = {

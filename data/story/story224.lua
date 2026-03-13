@@ -3265,7 +3265,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "率先证明……？",
+      sentence = "Step forward...?",
       next = {2}
     },
     [2] = {
@@ -3273,7 +3273,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "这是什么意思？我微微一愣，就听大叔爽朗地笑了起来。",
+      sentence = "What was that supposed to mean? I blinked, confused. Then, a middle-aged man let out a hearty laugh.",
       next = {3}
     },
     [3] = {
@@ -3281,9 +3281,9 @@ story224 = {
       dialog = 2,
       idx = 5,
       music = "1021_CloseYourEyes",
-      renming = "大叔",
+      renming = "Middle-aged Man",
       renwu = "npc",
-      sentence = "好！好主意，在场这么多人，预言家确实需要一些“提示”！",
+      sentence = "Now that's a clever move! With this many players, the Seer could use a little help deciding who to check!",
       next = {4}
     },
     [4] = {
@@ -3292,14 +3292,13 @@ story224 = {
       idx = 2,
       male = 2,
       music = "1021_CloseYourEyes",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 2178000,
       role2 = 201106,
       role3 = 201201,
       role5 = 2178401,
-      sentence = "那么，有哪位今晚愿意被预言家查验？",
-      voice = 1,
+      sentence = "So... any volunteers?",
       next = {5}
     },
     [5] = {
@@ -3307,7 +3306,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "许墨唇角勾动着轻松的弧度，像真的只是随口提议而已。",
+      sentence = "Lucien's voice was casual, even cheerful, his lips curved in that easygoing smile.",
       next = {6}
     },
     [6] = {
@@ -3315,7 +3314,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我的心里却登时警铃大作，手里的餐叉也不自觉地在盘上划了两下。",
+      sentence = "But inside me, alarm bells were already screaming. The fork in my hand scratched nervously at the surface of my plate.",
       next = {7}
     },
     [7] = {
@@ -3323,7 +3322,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "他难道只是为了告诉藏在人群里的预言家该干活了吗？不，以我对许墨的了解，绝不止于此……",
+      sentence = "Was this really just a nudge for the Seer to do their job? No... knowing Lucien, there had to be something more beneath the surface.",
       next = {8}
     },
     [8] = {
@@ -3331,7 +3330,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我下意识地想要保持沉默，现在还不清楚预言家是谁，万一只有我一人举手，预言家真的查我怎么办？可是…… ",
+      sentence = "I instinctively kept quiet. We still didn't know who the Seer was. What if no one else raised their hand? Then the Seer would surely check on me. But if I didn't...",
       next = {9}
     },
     [9] = {
@@ -3339,7 +3338,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "我的心脏跳得越来越快，脑子也乱成了一团。",
+      sentence = "My heart pounded louder with each passing second. My thoughts twisted and tangled into knots.",
       next = {10}
     },
     [10] = {
@@ -3347,7 +3346,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "直到一个近乎恐怖的念头，忽地闪过我的脑海，炸裂开来。",
+      sentence = "And then, a chilling thought struck like lightning.",
       next = {11}
     },
     [11] = {
@@ -3355,7 +3354,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "——许墨难道在布置一个陷阱？这个陷阱不只是针对狼，也是针对人的。",
+      sentence = "—Was Lucien setting a trap? One not just for Werewolves, but for the humans as well.",
       next = {12}
     },
     [12] = {
@@ -3363,7 +3362,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "如果跳出狼的思路，从人类的视角来看，只有狼不想被预言家查验……",
+      sentence = "From the human side's perspective, the only ones who wouldn't want to be checked by the Seer... are the Werewolves.",
       next = {13}
     },
     [13] = {
@@ -3371,7 +3370,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "想到这里，我几乎是冲动地举起手，冷汗流了一后背。",
+      sentence = "That realization surged through me. Almost on impulse, I raised my hand, cold sweat slipping down my spine.",
       next = {14}
     },
     [14] = {
@@ -3379,7 +3378,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "不管了，赌一把！",
+      sentence = "Screw it. I'll gamble.",
       next = {15}
     },
     [15] = {
@@ -3389,7 +3388,7 @@ story224 = {
       music = "1021_CloseYourEyes",
       renming = "$u",
       renwu = "npc",
-      sentence = "我是人类，如果预言家没有合适的人选，今晚可以查验我。",
+      sentence = "I'm a human. If the Seer doesn't have a better target tonight, they can check me.",
       next = {16}
     },
     [16] = {
@@ -3397,7 +3396,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "似乎是我的动作让其他人也受到了鼓舞，很快也有人举起手来。",
+      sentence = "Maybe it was my boldness that pushed the others—hands began going up around the table, one after another.",
       next = {17}
     },
     [17] = {
@@ -3405,7 +3404,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "作为第一个举手人，我光明正大地看过他们的脸，却发现大叔似乎也在暗中观察。",
+      sentence = "As the first to volunteer, I scanned the others openly. That's when I noticed the middle-aged man watching the room too, his eyes sharp behind a relaxed expression.",
       next = {18}
     },
     [18] = {
@@ -3413,7 +3412,7 @@ story224 = {
       dialog = 3,
       music = "1021_CloseYourEyes",
       renwu = "npc",
-      sentence = "他那么赞成许墨的建议，却没有举手……难道他不想优先证明自己的身份吗？ ",
+      sentence = "He was all in on Lucien's suggestion... yet he hadn't raised his hand. Did he not want to prove himself?",
       next = {19}
     },
     [19] = {
@@ -3421,7 +3420,7 @@ story224 = {
       dialog = 3,
       music = "pause",
       renwu = "npc",
-      sentence = "我正思索着，红鼻子骤然从座位上站起来，几乎是从嗓子里吼了出来。",
+      sentence = "While I pondered this, RedNose suddenly shot to his feet and practically shouted across the table.",
       next = {20}
     },
     [20] = {
@@ -3429,9 +3428,9 @@ story224 = {
       dialog = 2,
       idx = 5,
       music = "46_Split_in_Black",
-      renming = "红鼻子",
+      renming = "RedNose",
       renwu = "npc",
-      sentence = "别干蠢事了！怎么能被别人几句花里胡哨的话术拿捏，就想着暴露自己呢？",
+      sentence = "Are you guys outta your minds?! You're just gonna let some smooth-talker rope you into exposing yourselves?!",
       next = {21}
     },
     [21] = {
@@ -3439,7 +3438,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "暴露……？电光火石间，我一下子意识到许墨给人类的陷阱——不善心计的预言家，有因此暴露的风险！ ",
+      sentence = "Exposing...? In a flash, I understood Lucien's true play—this was a trap for the humans too. If the Seer lacked any subtlety, they might walk right into the open and blow their cover.",
       next = {22}
     },
     [22] = {
@@ -3447,7 +3446,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "可惜这样浅薄又有攻击性的话术，除了启发我这种“别有用心”的人，又有谁会想听呢？ ",
+      sentence = "But RedNose's warning, shallow and loud as it was, mostly fell on deaf ears—all except for someone like me, who was secretly scheming my \"evil plan\" under the table.",
       next = {23}
     },
     [23] = {
@@ -3461,8 +3460,7 @@ story224 = {
       role2 = 802102,
       role3 = 802202,
       ruchang = -1,
-      sentence = "可笑。",
-      voice = 1,
+      sentence = "Pathetic.",
       next = {24}
     },
     [24] = {
@@ -3471,7 +3469,7 @@ story224 = {
       idx = 5,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "靠在墙边的Joker冷冷开口，他将在场人都扫了一眼，像是在看动物园里的一群猴子。",
+      sentence = "Leaning against the wall, Joker finally spoke, his tone ice-cold. He cast a sweeping glance across the room, like he was watching caged animals perform lowly tricks.",
       next = {25}
     },
     [25] = {
@@ -3479,7 +3477,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "最后，他的目光落到了红鼻子身上。",
+      sentence = "And then his eyes locked onto RedNose.",
       next = {26}
     },
     [26] = {
@@ -3492,8 +3490,7 @@ story224 = {
       role1 = 802000,
       role2 = 802103,
       role3 = 802202,
-      sentence = "你的愚蠢，让你除了制造争论和情绪外，在信息共享上起不到任何的作用。",
-      voice = 1,
+      sentence = "All you do is stir the pot with your stupidity. You add nothing useful—no intel, no insight. Just noise.",
       next = {27}
     },
     [27] = {
@@ -3507,8 +3504,7 @@ story224 = {
       role2 = 802103,
       role3 = 802202,
       ruchang = 9,
-      sentence = "即便不是狼，你的声音对于人类阵营来说，也是多余的。",
-      voice = 1,
+      sentence = "Even if you're not a Werewolf, all you bring to the human side is trouble.",
       next = {28}
     },
     [28] = {
@@ -3516,7 +3512,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "说完，Joker便不再理会由他而起的议论和红鼻子的谩骂，抱着臂假寐。",
+      sentence = "With that, Joker shut his eyes and folded his arms, tuning out the storm of murmurs and RedNose's furious curses.",
       next = {29}
     },
     [29] = {
@@ -3524,7 +3520,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "……即使情况对我有利，我也感觉他比狼人还更像个“搅屎棍”。",
+      sentence = "Even if his words somehow played in my favor, his loud, annoying presence still grated on me.",
       next = {30}
     },
     [30] = {
@@ -3532,7 +3528,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "被这么一打岔，众人一时都有些拿不定主意，而许墨又适时地开了口。",
+      sentence = "The disruption threw everyone off. For a moment, uncertainty gripped the room until Lucien's voice once again cut through the indecision.",
       next = {31}
     },
     [31] = {
@@ -3541,14 +3537,13 @@ story224 = {
       idx = 2,
       male = 2,
       music = "46_Split_in_Black",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 2177000,
       role2 = 202101,
       role3 = 202201,
       ruchang = -1,
-      sentence = "在推理对抗类的游戏中，不论是否擅长游戏，好人总是希望能够证明自己的身份清白。",
-      voice = 1,
+      sentence = "For games like this, players on the good side usually have a tendency to want to prove their innocence.",
       next = {32}
     },
     [32] = {
@@ -3557,13 +3552,12 @@ story224 = {
       idx = 2,
       male = 2,
       music = "46_Split_in_Black",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 2177000,
       role2 = 202101,
       role3 = 202201,
-      sentence = "所以，那些积极争取话语权的人，自然也比普通人更想优先争取到这个身份证明，从而领导投票的走向。",
-      voice = 1,
+      sentence = "That's why those who usually speak up first, the ones who want to sway the votes and direct the flow of the game, are often the ones most eager to clear their name.",
       next = {33}
     },
     [33] = {
@@ -3571,7 +3565,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "冷冽的波光模糊了他的表情，更让人把注意力放在他笃定的话语中。",
+      sentence = "The water beside him shimmered coldly, blurring his expression and drawing the focus instead to the quiet authority in his words.",
       next = {34}
     },
     [34] = {
@@ -3580,14 +3574,13 @@ story224 = {
       idx = 2,
       male = 2,
       music = "46_Split_in_Black",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 2177000,
       role2 = 202101,
       role3 = 202201,
       ruchang = 9,
-      sentence = "积极掌握话语权又不希望被查验……如果还没有合理的理由，那么便很可能是狼在意图混淆人类的思路。",
-      voice = 1,
+      sentence = "But if someone's quick to claim the spotlight, yet refuses to prove their innocence without offering a good reason... well, that's when you really have to question which side they're truly on.",
       next = {35}
     },
     [35] = {
@@ -3595,7 +3588,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "顿时，所有人的手像上了一道催命符，齐刷刷地举了起来。",
+      sentence = "Almost in unison, every hand in the room shot up, like they'd all been pulled by an unseen thread.",
       next = {36}
     },
     [36] = {
@@ -3603,7 +3596,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "我看着许墨引导着局面，轻松拿捏所有人的情绪，心里又骄傲又紧张。",
+      sentence = "I watched as Lucien guided the moment effortlessly, emotions bending toward his intention like reeds in the wind. I couldn't help but feel both admiration and unease twist together in my chest.",
       next = {37}
     },
     [37] = {
@@ -3611,7 +3604,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "而后，众人的目光都汇集到了仍未举手的一人身上。",
+      sentence = "And then, all eyes landed on the one person whose hand remained stubbornly lowered.",
       next = {38}
     },
     [38] = {
@@ -3619,7 +3612,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "红鼻子呼吸粗重，充血的眼睛狠狠瞪了许墨一眼，不甘的怒火写满了脸上。",
+      sentence = "RedNose's breath came in sharp, angry bursts. His bloodshot eyes locked on Lucien with raw fury, every muscle in his face contorted with defiance.",
       next = {39}
     },
     [39] = {
@@ -3628,9 +3621,9 @@ story224 = {
       dialog = 2,
       idx = 5,
       music = "46_Split_in_Black",
-      renming = "红鼻子",
+      renming = "RedNose",
       renwu = "npc",
-      sentence = "要投就投！",
+      sentence = "Fine! Vote me out, then!",
       next = {40}
     },
     [40] = {
@@ -3638,7 +3631,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "不出所料，最终红鼻子全票出局。侍从们将他带向宴会厅的水池边，推了下去。",
+      sentence = "As expected, he was unanimously eliminated. The attendants took him by the arms and led him toward the pool near the ballroom. They shoved him forward, and the surface erupted.",
       next = {41}
     },
     [41] = {
@@ -3646,7 +3639,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "像巨兽空荡的胃液终于攫取到了养分般，平静的水面汹涌地将他的身体模型吞没，荡出醒目的鲜红。",
+      sentence = "Like a beast awakened by blood, the once-still surface roared to life. It swallowed his avatar whole, turning the water into a deep shade of crimson.",
       next = {42}
     },
     [42] = {
@@ -3654,7 +3647,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "水池一瞬间变得十分明亮，顷刻间却又平静下来，鲜红的水液变回浅碧色，一如往常。",
+      sentence = "For a moment, the pool glowed like liquid fire. Then, just as suddenly, it calmed. The red bled back into its usual pale green, as if nothing had ever happened.",
       next = {43}
     },
     [43] = {
@@ -3663,7 +3656,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "显然，这样的游戏表现没能让任何人放松，人们陆陆续续往外走，不愿意再逗留。",
+      sentence = "No one relaxed. If anything, the tension only thickened. People began drifting from the room in silence, unwilling to stay a moment longer.",
       next = {44}
     },
     [44] = {
@@ -3671,7 +3664,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "我走到长桌边沿，回身对仍留在原地的大叔多看了一眼。",
+      sentence = "I lingered a bit near the long table, turning just as I was leaving to glance at the middle-aged man.",
       next = {45}
     },
     [45] = {
@@ -3679,7 +3672,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "他坐在桌前享用着餐后甜点，眉头舒展，心情似乎比午宴前明朗许多。",
+      sentence = "He sat alone, finishing his dessert without a care in the world. His brow, once tense, had relaxed. He looked more at ease than he had all day.",
       next = {46}
     },
     [46] = {
@@ -3687,7 +3680,7 @@ story224 = {
       dialog = 3,
       music = "46_Split_in_Black",
       renwu = "npc",
-      sentence = "我将今天他的表现在心里过了一遍，一个答案在我心里呼之欲出。",
+      sentence = "I mentally replayed every move he'd made—every word, every look—and an answer suddenly surfaced in my head.",
       next = {47}
     },
     [47] = {
@@ -3696,15 +3689,14 @@ story224 = {
       idx = 2,
       male = 2,
       music = "pause",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 2178000,
       role2 = 201105,
       role3 = 201201,
       role5 = 2178404,
       ruchang = -1,
-      sentence = "身体好些了吗？",
-      voice = 1,
+      sentence = "Feeling any better?",
       next = {48}
     },
     [48] = {
@@ -3716,7 +3708,7 @@ story224 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 2178404,
-      sentence = "许墨向我走来，自然地牵起我的手，我下意识别开停留在大叔上的视线。",
+      sentence = "Lucien approached, slipping his hand into mine like it was the most natural thing in the world. I averted my gaze from the man, carefully setting aside the thought for later.",
       next = {49}
     },
     [49] = {
@@ -3730,7 +3722,7 @@ story224 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 2178404,
-      sentence = "唔，好多了~可能是吃了点东西，感觉有力气了！",
+      sentence = "Mm-hm. Way better. Probably just needed a snack. Feels like my energy's finally back.",
       next = {50}
     },
     [50] = {
@@ -3742,7 +3734,7 @@ story224 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 2178404,
-      sentence = "手心都是午宴时出的冷汗，我任凭许墨握着指尖，却始终没敢张开掌心，和他相扣。",
+      sentence = "My palm was still damp with cold sweat from the earlier vote. Lucien's fingers gently held mine, but I didn't dare open my hand or curl my fingers around his.",
       next = {51}
     },
     [51] = {
@@ -3754,7 +3746,7 @@ story224 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 2178404,
-      sentence = "许墨修长的手指捏了捏我的指尖，似乎并没有注意到我的小心思。",
+      sentence = "Lucien gave my fingertips a small, thoughtful squeeze, as though not sensing my hesitation at all.",
       next = {52}
     },
     [52] = {
@@ -3766,7 +3758,7 @@ story224 = {
       role2 = 201105,
       role3 = 201201,
       role5 = 2178404,
-      sentence = "只是他凝视在我脸上的时间，似乎……长了一点？",
+      sentence = "However, his eyes lingered on my face felt a little longer than usual.",
       next = {53}
     },
     [53] = {
@@ -3775,14 +3767,13 @@ story224 = {
       idx = 2,
       male = 2,
       music = "201_XuMo",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 2178000,
       role2 = 201105,
       role3 = 201201,
       role5 = 2178404,
-      sentence = "可是你的脸色还有些苍白，再摄入一些糖分吧。",
-      voice = 1,
+      sentence = "You're still a little pale. Try some sugar—it might help.",
       next = {54}
     },
     [54] = {
@@ -3795,7 +3786,7 @@ story224 = {
       role3 = 201201,
       role5 = 2178404,
       roleanim = 1.1,
-      sentence = "许墨从桌上拿起一杯果汁递给了我，我开心地接过喝了一口，紧接着皱了皱眉。",
+      sentence = "He picked up a glass of fruit juice from the table and handed it to me. I took it with a smile, took a sip, and then instinctively scrunched my nose.",
       next = {55}
     },
     [55] = {
@@ -3808,7 +3799,7 @@ story224 = {
       role3 = 201201,
       role5 = 2178404,
       roleanim = 1.1,
-      sentence = "……怎么味道这么奇怪，一点都不好喝。",
+      sentence = "...What a strange taste.",
       next = {56}
     },
     [56] = {
@@ -3817,15 +3808,14 @@ story224 = {
       idx = 2,
       male = 2,
       music = "201_XuMo",
-      renming = "许墨",
+      renming = "Lucien",
       renwu = "npc",
       role1 = 2178000,
       role2 = 201105,
       role3 = 201201,
       role5 = 2178404,
       roleanim = 1.1,
-      sentence = "不喜欢吗？",
-      voice = 1,
+      sentence = "Not your thing?",
       next = {57}
     },
     [57] = {
@@ -3841,7 +3831,7 @@ story224 = {
       role5 = 2178404,
       roleanim = 1.1,
       ruchang = 9,
-      sentence = "……没有啦，许教授给的我当然喜欢！",
+      sentence = "...No, no. It's fine. It's from you; of course, I like it!",
       next = {58}
     },
     [58] = {
@@ -3849,7 +3839,7 @@ story224 = {
       dialog = 3,
       music = "201_XuMo",
       renwu = "npc",
-      sentence = "话说出口我就有点后悔，这种小事明明没必要再故意解释的，我也太草木皆兵了……",
+      sentence = "As soon as the words left my mouth, I regretted them. There was no need to overcompensate like that. It was just juice. Maybe I was just too on edge.",
       next = {59}
     },
     [59] = {
@@ -3857,7 +3847,7 @@ story224 = {
       dialog = 3,
       music = "201_XuMo",
       renwu = "npc",
-      sentence = "许墨只是微微笑了笑，眼神如往常一样温和而深沉。",
+      sentence = "Lucien only smiled faintly, the same gentle, unreadable calm as always.",
       next = {60}
     },
     [60] = {
@@ -3865,7 +3855,7 @@ story224 = {
       dialog = 3,
       music = "201_XuMo",
       renwu = "npc",
-      sentence = "但或许是狼人的心态作祟，我竟然有种他在小小惩罚我说谎的念头。",
+      sentence = "And yet, maybe it was the paranoia of a Werewolf, but I couldn't shake the feeling... like that weird-tasting drink was his way of punishing my lie.",
       next = {61}
     },
     [61] = {
@@ -3873,7 +3863,7 @@ story224 = {
       dialog = 3,
       music = "201_XuMo",
       renwu = "npc",
-      sentence = "……有他在身边，一举一动都要更小心才行。",
+      sentence = "...With him around, I'd have to stay even sharper.",
       next = {0}
     }
   },

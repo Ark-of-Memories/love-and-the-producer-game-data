@@ -931,619 +931,619 @@ data = {
     text_time = 3150
   },
   [140916000] = {
-    content = "某个笨蛋笔记本登录的账号忘了下线，顶置聊天的“AAA布丁批发商小李”是谁？",
+    content = "A certain dummy forgot to log off her account on my laptop. Who's the pinned contact \"Pudding Supplier Vic\"?",
     text_time = 5550
   },
   [140916110] = {
-    title = "发个消息试试就知道了",
-    content = "想知道是谁，你发个消息试试就知道了！",
+    title = "Send a message and you'll see.",
+    content = "If you want to know who that is, just send a message and you'll see.",
     text_time = 2700
   },
   [140916111] = {
-    content = "基于我对某个笨蛋的了解，应该不用多此一举。",
+    content = "Based on how much I know that dummy, I don't think I need to do that.",
     text_time = 3150
   },
   [140916112] = {
-    content = "只是好奇某人在私底下到底给我取了多少个外号。",
+    content = "I'm just curious how many secret nicknames someone has for me.",
     text_time = 3300
   },
   [140916120] = {
-    title = "你已经猜到了吧",
-    content = "嘿嘿，其实你已经猜到了吧……？",
+    title = "You already knew the answer.",
+    content = "Well, I think you already knew the answer...?",
     text_time = 2250
   },
   [140916121] = {
-    content = "猜到了这个人是谁，但没猜到你的脑回路。",
+    content = "I know who that is, but not what your thought process was like.",
     text_time = 2850
   },
   [140916122] = {
-    content = "说吧，怎么突然给我换了这个备注？",
+    content = "Let's hear it. Why did you suddenly change my nickname to this?",
     text_time = 2550
   },
   [140916130] = {
-    title = "是布丁批发商",
-    content = "嗯……就是一个普普通通的布丁批发商而已。",
+    title = "He's a pudding supplier.",
+    content = "Well, he's just an ordinary pudding supplier.",
     text_time = 3000
   },
   [140916131] = {
-    content = "据我所知你最近的布丁来源只有一个。",
+    content = "As far as I know, you only have one pudding supplier these days.",
     text_time = 2550
   },
   [140916132] = {
-    content = "把我的名字备注设成这个，是在暗示我最近的布丁供应量不够？",
+    content = "Did you change my nickname to imply that I'm not supplying enough puddings?",
     text_time = 4200
   },
   [140916210] = {
-    title = "看到新闻了吗",
-    content = "因为最近有很多骗子利用盗号技术跟被盗号者的亲友借钱，我这叫防患于未然。",
+    title = "Did you see the news?",
+    content = "A lot of scammers have been hacking accounts to \"borrow\" money from friends and family. I changed your name to prevent such problems.",
     text_time = 5250
   },
   [140916211] = {
-    content = "有点防范意识，但不多。",
+    content = "You're cautious, but not cautious enough.",
     text_time = 1650
   },
   [140916212] = {
-    content = "一般人不会把不够亲近的人放在聊天顶置，这一点骗子应该也很清楚。",
+    content = "People don't pin contacts that they're not close with. Scammers must know that, too.",
     text_time = 4650
   },
   [140916213] = {
-    content = "而且遇到这种情况，我会直接打电话验证。",
+    content = "Besides, if you really did ask me for money, I'd just call you in person.",
     text_time = 2850
   },
   [140916220] = {
-    title = "是专家的建议",
-    content = "这是防诈专家的建议，把亲近的人备注成推销员，让骗子无机可乘！",
+    title = "It's an expert's advice.",
+    content = "It's an anti-fraud expert's advice—disguise your family and friends as salespersons, so scammers won't know whom to scam!",
     text_time = 4500
   },
   [140916221] = {
-    content = "你觉得骗子会相信，你和一个推销布丁的“小李”一星期聊天记录根本翻不到顶？",
+    content = "So, you think scammers would believe that you have an almost endless chat history with a pudding supplier.",
     text_time = 5400
   },
   [140916222] = {
-    content = "与其相信所谓的专家，还不如给你的账号多加几道安全管控。",
+    content = "It's better to add more security steps to your account than to believe in some so-called expert.",
     text_time = 4050
   },
   [140916223] = {
-    content = "而且就算骗子假扮成你，我也没那么容易被骗。",
+    content = "Besides, I won't be easily scammed even if someone pretends to be you.",
     text_time = 3150
   },
   [140916230] = {
-    title = "悦悦被盗号了",
-    content = "昨天悦悦就被盗号了，然后骗子伪装成她跟我借钱，还好被我识破了！",
+    title = "Kiki's account got hacked.",
+    content = "Kiki's account got hacked yesterday, and the scammer used it to ask me for money, but I knew something was off!",
     text_time = 4650
   },
   [140916231] = {
-    content = "怪不得突然关注起聊天备注的问题。",
+    content = "No wonder you're suddenly changing chat nicknames.",
     text_time = 2400
   },
   [140916232] = {
-    content = "不过就算有人伪装成你，我也没那么容易上当。",
+    content = "But, even if someone pretends to be you, I won't easily fall for their tricks.",
     text_time = 3150
   },
   [140916233] = {
-    content = "毕竟比起借钱，某人找各种理由让我多做几个布丁的可能性更大。",
+    content = "After all, it's too unlikely that someone would come to me for money instead of puddings.",
     text_time = 4350
   },
   [140916310] = {
-    title = "AI换声技术",
-    content = "听说现在的AI换声技术很厉害，就算打电话也不能保证安全！",
+    title = "AI can mimic voices.",
+    content = "I hear they can use AI to mimic voices now. It's not 100% safe even if you call me!",
     text_time = 4200
   },
   [140916311] = {
-    content = "AI换声应该不知道某人一接通电话就会开始傻乐。",
+    content = "Even if they mimic your voice, they won't know that you'd chuckle for no reason after you answer my call.",
     text_time = 3450
   },
   [140916312] = {
-    content = "也不会想到上一秒还在乐的人，下一秒就开始抗议资本家的“压榨”。",
+    content = "Or that you'd start complaining about \"capitalists' exploitation\" right after your silly chuckle.",
     text_time = 4650
   },
   [140916313] = {
-    content = "就算是笨蛋，也不是谁都能冒充的。",
+    content = "After all, not everyone can play a dummy well.",
     text_time = 2400
   },
   [140916320] = {
-    title = "这个名字想了很久",
-    content = "这个名字是不是很厉害？我想了很久，甚至在前面加了AAA来保证是好友列表第一位！",
+    title = "The name took me time.",
+    content = "Isn't it a great idea? It took me a lot of time, and I even put \"AAA\" there to make sure it stays at the top of my friend list.",
     text_time = 5850
   },
   [140916321] = {
-    content = "按照这个规律，你应该是“AAA布丁鉴赏大师$u”？",
+    content = "In that case, you should be \"AAA Pudding Connoisseur $u\"?",
     text_time = 3750
   },
   [140916322] = {
-    content = "那提醒一下这位鉴赏大师，记得早点下班。",
+    content = "Then a reminder for this pudding connoisseur—don't work too late.",
     text_time = 2850
   },
   [140916323] = {
-    content = "今天布丁供应商心情不错，可以多提供一个布丁。",
+    content = "The pudding supplier's in a good mood today and may supply one extra pudding.",
     text_time = 3300
   },
   [140916330] = {
-    title = "我是守护精灵",
-    content = "你好，我是李泽言的守护精灵，请每天献上一份布丁维持我的“灵力”。",
+    title = "I'm your guardian angel.",
+    content = "Hello, I'm Victor's guardian angel. Please offer one pudding a day to refill my power.",
     text_time = 4800
   },
   [140916331] = {
-    content = "既然是我的守护精灵，你的报告应该不需要我担心了。",
+    content = "Since you're my guardian angel, I shouldn't worry about your report then.",
     text_time = 3600
   },
   [140916332] = {
-    content = "不过说起来，这位守护精灵的报告是不是一个小时前就该交了？",
+    content = "By the way, shouldn't this guardian angel have handed in her report an hour ago?",
     text_time = 4200
   },
   [140916333] = {
-    content = "再不抓紧，布丁供应商可就要下班了。",
+    content = "Hurry up, or the pudding supplier is getting off work.",
     text_time = 2550
   },
   [140917000] = {
-    content = "回家后没有见到你，但看到了房间里满地缠在一起的毛线，发生了什么吗？",
+    content = "I didn't see you when I came home. What's up with all the tangled yarn on the floor?",
     text_time = 4950
   },
   [140917110] = {
-    title = "等我回去就收拾！",
-    content = "我临时有事出去一下，等我回去就收拾！",
+    title = "I'll clean it up!",
+    content = "I had to go out for something. I'll clean it up when I get back!",
     text_time = 2850
   },
   [140917111] = {
-    content = "如果我没有猜错的话，你是打算编织一张苔藓地毯吗？",
+    content = "If my guess is right, you are going to weave a moss rug?",
     text_time = 3600
   },
   [140917112] = {
-    content = "毕竟之前在家品店看到这种地毯的时候，你似乎很喜欢。",
+    content = "You seemed very interested when we saw one at a homeware store.",
     text_time = 3750
   },
   [140917113] = {
-    content = "还一直说地毯毛茸茸的，很温暖。",
+    content = "You thought it felt fluffy and warm.",
     text_time = 2250
   },
   [140917120] = {
-    title = "虽然现在只是一堆毛线",
-    content = "虽然现在它们只是一堆毛线，在不久的将来，它们即将成为一张苔藓地毯！",
+    title = "It may be just a pile of yarn now.",
+    content = "It may be just a pile of yarn now, but it will become a moss rug in the near future!",
     text_time = 4950
   },
   [140917121] = {
-    content = "你最近到了不少快递，原来都是在为这个做准备吗？",
+    content = "You've been getting a lot of packages lately. Are they all for this?",
     text_time = 3450
   },
   [140917122] = {
-    content = "仔细一看，地上的毛线有很多深深浅浅的绿色，这么摊在一起已经很漂亮了。",
+    content = "I see there are many shades of green. It's already beautiful just scattered on the floor like this.",
     text_time = 5100
   },
   [140917123] = {
-    content = "想来成品的效果也一定很令人期待。",
+    content = "I'm looking forward to the finished product.",
     text_time = 2400
   },
   [140917130] = {
-    title = "看了苔藓纪录片",
-    content = "最近看了一部有关苔藓的纪录片，就想自己编织一张“苔藓地毯”……只是在整理毛线时出了一点小问题。",
+    title = "I watched a documentary about moss.",
+    content = "I watched a documentary about moss the other day and wanted to make a moss rug... It's just that I ran into a small issue while sorting the yarn.",
     text_time = 7050
   },
   [140917131] = {
-    content = "有关苔藓的纪录片，是我推荐给你的那部吗。",
+    content = "A documentary about moss? The one I recommended?",
     text_time = 3000
   },
   [140917132] = {
-    content = "和你一起看纪录片时，就听到你说这些苔藓很美。",
+    content = "You did say the moss looked pretty when we watched it together.",
     text_time = 3300
   },
   [140917133] = {
-    content = "以它为灵感做成的地毯，想来应该也会是一件不错的艺术品。",
+    content = "A rug inspired by moss should be a beautiful piece of art, too.",
     text_time = 4050
   },
   [140917210] = {
-    title = "还没确定好图纸",
-    content = "可是我现在还没确定好最终的图纸，很头疼……",
+    title = "I haven't decided on the blueprint.",
+    content = "But I still haven't decided on the final blueprint. It's such a hard choice...",
     text_time = 3150
   },
   [140917211] = {
-    content = "还无法决定的话，我们可以一起多看几种风格，再对比一下作为参考。",
+    content = "If you have trouble deciding, we can check out different styles and decide later.",
     text_time = 4650
   },
   [140917212] = {
-    content = "听说最近会有一个植物景观展，其中也包含了苔藓相关的展厅。",
+    content = "I hear there will be a botanical exhibition recently with a moss-themed hall.",
     text_time = 4200
   },
   [140917213] = {
-    content = "或许我们可以去那里寻找一些灵感。",
+    content = "Maybe we can find inspiration there.",
     text_time = 2400
   },
   [140917220] = {
-    title = "怀疑自己的毅力",
-    content = "听说做一张地毯的工期可能要好几个月，很怀疑自己会不会只是三分钟热度，坚持不到最后……",
+    title = "I doubt I can finish it.",
+    content = "I hear it might take months to finish a rug like this. What if it's just a spur-of-the-moment idea and I can't stick it to the end...",
     text_time = 6300
   },
   [140917221] = {
-    content = "既然是三分钟热度，不妨给自己一个机会，先从这三分钟开始。",
+    content = "Even if it's just a spur-of-the-moment idea, give yourself a chance to enjoy this moment.",
     text_time = 4200
   },
   [140917222] = {
-    content = "我们可以在过程中一起慢慢寻找新的乐趣和动力。",
+    content = "We can take our time to have fun and find new motivation.",
     text_time = 3300
   },
   [140917223] = {
-    content = "又或许，陪伴本身也会渐渐成为继续这件事的动力之一。",
+    content = "Just being together might gradually become your motivation to continue the work.",
     text_time = 3750
   },
   [140917230] = {
-    title = "每天下班新期待",
-    content = "决定了要做苔藓地毯，感觉以后每天下班都有了新的期待！",
+    title = "Something new to look forward to.",
+    content = "Since I decided to make a moss rug, I have something new to look forward to every day after work!",
     text_time = 3900
   },
   [140917231] = {
-    content = "看着自己的想法被一点一点完成，的确是一件很幸福的事。",
+    content = "It is satisfying to see your idea come to life bit by bit.",
     text_time = 3900
   },
   [140917232] = {
-    content = "陪伴你一起完成，也同样幸福。",
+    content = "It'll be equally satisfying for me to watch you realize that idea.",
     text_time = 2100
   },
   [140917233] = {
-    content = "也许这项活动，会成为我们两个人共同的期待。",
+    content = "Maybe we will have something to look forward to together.",
     text_time = 3150
   },
   [140917310] = {
-    title = "最重要的问题",
-    content = "现在最重要的问题是——先把这堆毛线整理好……",
+    title = "What's most important...",
+    content = "What's most important now is to sort this pile of yarn...",
     text_time = 3300
   },
   [140917311] = {
-    content = "整理毛线的确是一项非常考验耐心的工作，而且看起来今天的工程量似乎格外大。",
+    content = "It does take a lot of patience to sort tangled yarn, and the work today looks extra demanding.",
     text_time = 5400
   },
   [140917312] = {
-    content = "不过两个人的话，一起边聊天边整理，繁琐的工作也会变得有趣一些。",
+    content = "But if we talk while doing it, even the most boring job will become interesting.",
     text_time = 4650
   },
   [140917313] = {
-    content = "不知道$u小姐会需要我的帮助吗？",
+    content = "Do you need my help, Miss. $u?",
     text_time = 2400
   },
   [140917320] = {
-    title = "苔藓上会长蘑菇吗",
-    content = "请教许教授一个问题，生长苔藓的地方会长蘑菇吗？我想在苔藓地毯上增加一个颜色鲜艳的小蘑菇，应该会很好看！",
+    title = "Do mushrooms grow on moss?",
+    content = "I have a question for you, Professor Lucien. Do mushrooms grow on moss? I want to add a bright little mushroom on the rug. I'm sure it'll look great!",
     text_time = 7500
   },
   [140917321] = {
-    content = "想象了一下这个画面，的确非常可爱。",
+    content = "I imagined what it would look like, and yes—it would be adorable.",
     text_time = 2550
   },
   [140917322] = {
-    content = "要是还显得空旷，可以再放上一个狐狸玩偶和一个兔子玩偶，让它们并肩躺在苔藓上小憩。",
+    content = "If it still looks empty, you can put a fox and a bunny doll on it, like they're leaning on each other and taking a nap on the moss.",
     text_time = 5850
   },
   [140917323] = {
-    content = "地毯空间足够大的话，把玩偶换成我们也未尝不可。",
+    content = "If the rug is big enough, we can even take the dolls' place instead.",
     text_time = 3450
   },
   [140917330] = {
-    title = "打算放在书房里",
-    content = "我打算做好后把它放在书房里，对着电脑工作时偶尔看到这片绿色，心情应该会变好。",
+    title = "I'm putting it in the study.",
+    content = "I'm putting it in the study. The patch of green can cheer us up when we see it during work.",
     text_time = 5700
   },
   [140917331] = {
-    content = "看来以后，书房会成为$u同学的常驻场所了。",
+    content = "Guess the study is becoming your spot from now on, $u.",
     text_time = 3150
   },
   [140917332] = {
-    content = "毕竟面对着一片生机盎然的绿色，就算没有工作，也很难不想要多待一会儿。",
+    content = "Even if you're not working, it'll be hard to resist the temptation of a lively green rug.",
     text_time = 5100
   },
   [140917333] = {
-    content = "到那个时候，这片地毯上也会留有我的位置吗？",
+    content = "Will there be a spot for me on the rug?",
     text_time = 3150
   },
   [140918000] = {
-    content = "阿薯你给我的鳄鱼浴球也太好玩了！",
+    content = "Miss Chips, the crocodile bath bomb you gave me was so much fun!",
     text_time = 2400
   },
   [140918110] = {
-    title = "就知道你会喜欢",
-    content = "嘿嘿，我就知道你一定会喜欢~",
+    title = "I knew you'd love it.",
+    content = "Hehe I knew you'd love it.",
     text_time = 2100
   },
   [140918111] = {
-    content = "刚放进水里的时候水是蓝色的，等里面的鳄鱼玩具露出来的时候水就开始变红色了！",
+    content = "The water was blue at first, but as it melted to show the crocodile inside, the water became red like blood!",
     text_time = 5550
   },
   [140918112] = {
-    content = "体验感满分！",
+    content = "10 out of 10 for the immersive experience!",
     text_time = 900
   },
   [140918113] = {
-    content = "要是每次泡澡都能这么有趣，说不定我一到冬天就出现的洗澡困难症就能治好了~",
+    content = "If every bath is as fun as this, I might be cured of my fear of taking a bath in winter.",
     text_time = 5400
   },
   [140918120] = {
-    title = "配合BGM使用",
-    content = "如果想要更沉浸式的体验，建议搭配电影BGM使用！",
+    title = "Best to use with a certain soundtrack.",
+    content = "If you want a more immersive experience, I suggest playing a certain movie soundtrack.",
     text_time = 3600
   },
   [140918121] = {
-    content = "当水开始变红的时候，我的脑子就自动播起了那段“噔噔噔噔”的BGM了！",
+    content = "That soundtrack started playing in my head when the water reddened.",
     text_time = 5100
   },
   [140918122] = {
-    content = "体验感满分！",
+    content = "A 10 out of 10 for the immersive experience!",
     text_time = 900
   },
   [140918123] = {
-    content = "因为这款浴球，我感觉我一到冬天就出现的洗澡困难症都治好了~",
+    content = "With this bath bomb, I might be less reluctant to take a bath in winter.",
     text_time = 4350
   },
   [140918130] = {
-    title = "会忍不住演起来",
-    content = "我猜你泡澡泡到一半的时候肯定会忍不住演起来~",
+    title = "You'll start acting.",
+    content = "I'm guessing you'll start acting in the middle of the bath.",
     text_time = 3300
   },
   [140918131] = {
-    content = "真是知我者莫若薯！",
+    content = "You know me so well, Miss Chips!",
     text_time = 1350
   },
   [140918132] = {
-    content = "当浴球里的鳄鱼头玩具开始冒“血”的时候我就忍不住在水里扑腾起来。",
+    content = "I couldn't help but pretend to struggle in the water once \"blood\" came out from the crocodile toy in the bath bomb.",
     text_time = 4800
   },
   [140918133] = {
-    content = "感觉有了这款浴球，我一到冬天就出现的洗澡困难症都治好了~",
+    content = "I think this bath bomb might cure my fear of bathing in winter.",
     text_time = 4200
   },
   [140918210] = {
-    title = "还有其他款的",
-    content = "我还买了其他款的浴球哦，不过这些要等你回来才能体验了。",
+    title = "There are more like this.",
+    content = "I bought more bath bombs like this, but you'll have to try them when you're back.",
     text_time = 4050
   },
   [140918211] = {
-    content = "没关系，阿薯这次为我准备的浴球已经够我这次的拍摄期用了~",
+    content = "It's alright, Miss Chips. The ones you prepared for me are enough to last me the entire shoot.",
     text_time = 4200
   },
   [140918212] = {
-    content = "而且我还没抽到隐藏款呢。",
+    content = "Besides, I haven't gotten the secret one yet.",
     text_time = 1800
   },
   [140918213] = {
-    content = "不过在浴缸里泡多了就有点想泡温泉了，等我下了戏，我们来一趟休假之旅怎么样？",
+    content = "But bathing in the bathtub is making me want a hot spring bath more. Should we take a few days off for a hot spring tour after this shoot?",
     text_time = 5550
   },
   [140918220] = {
-    title = "看谁先抽中隐藏款",
-    content = "我们要不要比比看，看谁先抽中隐藏款！",
+    title = "See who gets the secret one first.",
+    content = "Let's see who gets the secret one first!",
     text_time = 2700
   },
   [140918221] = {
-    content = "好啊，我也很好奇隐藏款会是什么~",
+    content = "Good idea! I'm also curious about what it'll be like.",
     text_time = 2400
   },
   [140918222] = {
-    content = "不过先抽中的人会有什么奖励吗？",
+    content = "By the way, is there a prize for the winner?",
     text_time = 2250
   },
   [140918223] = {
-    content = "我想到了！输的人要陪赢的人去一趟温泉之旅怎么样？正好我也快下戏了~",
+    content = "Ah, I have an idea! How about the winner gets a hot spring tour with the other person? The shoot is almost finished anyway.",
     text_time = 4950
   },
   [140918230] = {
-    title = "但它有个缺点",
-    content = "浴球虽然好玩，但它也有个缺点……泡完出来记得别用白色浴巾！！",
+    title = "But, there's a downside.",
+    content = "The bath bombs are fun, but there's a downside... Don't use white towels after you get out of the bath!",
     text_time = 4500
   },
   [140918231] = {
-    content = "听起来阿薯的浴巾好像已经经历过“血”的教训了……",
+    content = "Sounds like Miss Chips' towels have got a \"bloody\" lesson...",
     text_time = 3600
   },
   [140918232] = {
-    content = "但没关系，泡完出来我会再过一遍水的~",
+    content = "But that's okay. I'll take a shower after the bath.",
     text_time = 2700
   },
   [140918233] = {
-    content = "不过在浴缸里泡多了就有点想泡温泉了，等我下了戏，我们去一趟休假之旅怎么样？",
+    content = "Bathing in the bathtub is making me crave for a hot spring bath. Should we take some time off for a hot spring tour after this shoot?",
     text_time = 5550
   },
   [140918310] = {
-    title = "去更冷的地方",
-    content = "那我想去更冷的地方！天气越冷，泡起温泉来就越幸福~",
+    title = "Somewhere colder.",
+    content = "I want to go somewhere colder! The colder the weather, the happier it is to bathe in a hot spring.",
     text_time = 3750
   },
   [140918311] = {
-    content = "举双手同意~",
+    content = "Can't agree more.",
     text_time = 900
   },
   [140918312] = {
-    content = "不过我不是因为泡温泉而幸福哦。",
+    content = "But, I'm happy not because of the hot spring.",
     text_time = 2250
   },
   [140918313] = {
-    content = "是因为不管去哪里、做什么，只要有$u在我就会觉得很幸福~",
+    content = "Wherever we go and whatever we do, I'm happy as long as I'm with $u.",
     text_time = 4200
   },
   [140918320] = {
-    title = "去热的地方",
-    content = "不过比起去冷的地方泡温泉，我更想去热一点的地方，我已经冷得受不了啦！",
+    title = "Somewhere warm.",
+    content = "I'm more interested in somewhere warm than cold. I can't stand the freezing cold anymore!",
     text_time = 5100
   },
   [140918321] = {
-    content = "阿薯已经开始怀念夏天了吗？",
+    content = "Are you already missing the summer heat, Miss Chips?",
     text_time = 1950
   },
   [140918322] = {
-    content = "既然这样我们就把温泉改成海水浴吧？",
+    content = "In that case, let's change the hot spring tour to sea bathing.",
     text_time = 2550
   },
   [140918323] = {
-    content = "反正只要和你在一起，去哪里都会变得有趣~",
+    content = "Being with you is always fun, no matter where we go.",
     text_time = 3000
   },
   [140918330] = {
-    title = "你得在家休息",
-    content = "不行哦，你下戏后只有一周的空闲时间，得在家好好休息才行。",
+    title = "You need to rest at home.",
+    content = "Good idea, but no. You've only got one week before your next work. You need a good rest at home.",
     text_time = 4200
   },
   [140918331] = {
-    content = "啊……虽然有点可惜，但仔细想想和你一起窝在家里也很有意思！",
+    content = "Well, that's a shame, but then again, it's always fun to spend time with you at home!",
     text_time = 4350
   },
   [140918332] = {
-    content = "不管在哪里，只要你在我身边，我就随时随地能放松下来。",
+    content = "No matter where we are, I'm always relaxed with you by my side.",
     text_time = 3900
   },
   [140918333] = {
-    content = "毕竟我的薯片小姐，可是比任何事物都还要治愈的存在~",
+    content = "After all, Miss Chips is more therapeutic for me than anything in the world.",
     text_time = 3750
   },
   [140919000] = {
-    content = "$u，你最近是不是压力很大？",
+    content = "$u, are you feeling stressed lately?",
     text_time = 2100
   },
   [140919110] = {
-    title = "为什么这么问",
-    content = "嗯？为什么突然这么问？",
+    title = "What makes you say that?",
+    content = "Why? What makes you say that?",
     text_time = 1650
   },
   [140919111] = {
-    content = "早上出门的时候我看到了你放在桌上的笔记本。",
+    content = "I saw your notebook on the desk before I left for work this morning.",
     text_time = 3150
   },
   [140919112] = {
-    content = "上面被你画满了黑色的圈圈，还画了好几页。",
+    content = "There were pages of black circles you drew in it.",
     text_time = 3000
   },
   [140919113] = {
-    content = "发生什么了吗？",
+    content = "Did something happen?",
     text_time = 1050
   },
   [140919120] = {
-    title = "没有啊",
-    content = "我？没有啊。你怎么突然这么问？",
+    title = "Me? No.",
+    content = "Me? No. What makes you say that?",
     text_time = 2250
   },
   [140919121] = {
-    content = "没有就好。",
+    content = "Well, that's good.",
     text_time = 750
   },
   [140919122] = {
-    content = "只是我今天出门的时候看到了你放在桌上的笔记本。",
+    content = "It's just that I saw your notebook on the desk before I left for work this morning.",
     text_time = 3450
   },
   [140919123] = {
-    content = "上面被你画满了黑色的圈圈，还画了好几页。",
+    content = "There were pages of black circles you drew in it.",
     text_time = 3000
   },
   [140919130] = {
-    title = "你是不是看到了……",
-    content = "你是不是看到了我桌上的笔记本啊？",
+    title = "Did you see...",
+    content = "Did you see the notebook I put on the desk?",
     text_time = 2400
   },
   [140919131] = {
-    content = "是。我看上面画满了黑色的圈圈。",
+    content = "Yes, and all the black circles drawn on it.",
     text_time = 2400
   },
   [140919132] = {
-    content = "还连续画了好几页。",
+    content = "There were pages of them.",
     text_time = 1350
   },
   [140919133] = {
-    content = "你遇到了什么烦恼吗？",
+    content = "Is there something bothering you?",
     text_time = 1500
   },
   [140919210] = {
-    title = "你误会啦",
-    content = "你误会啦~我只是听说如果东西背不下来，可以试着在背的时候另一只手在纸上画圈圈~",
+    title = "It's not what you think.",
+    content = "It's not that~ I just heard that if you have trouble memorizing something, you can try drawing circles while you do it.",
     text_time = 5850
   },
   [140919211] = {
-    content = "是你之前说的，要全程脱稿的主持工作吗？",
+    content = "Is it for the job where you need to host a whole show without reading the script?",
     text_time = 2850
   },
   [140919212] = {
-    content = "我看过稿子的厚度。",
+    content = "I saw how thick the script is.",
     text_time = 1350
   },
   [140919213] = {
-    content = "难度级别确实很大。",
+    content = "It's going to be really hard.",
     text_time = 1350
   },
   [140919220] = {
-    title = "新学的一招",
-    content = "这是我新学的一招，当有东西背不下来的时候，可以试着边背边在纸上画圈圈~",
+    title = "A new trick I learned.",
+    content = "It's a new trick I learned. If you have trouble memorizing something, you can try drawing circles while you do it.",
     text_time = 5250
   },
   [140919221] = {
-    content = "原来还有这种方法。",
+    content = "I didn't know you could do that.",
     text_time = 1350
   },
   [140919222] = {
-    content = "还好我需要脱稿发言的机会并不多。",
+    content = "I'm lucky that I don't have to do a speech without a script.",
     text_time = 2400
   },
   [140919223] = {
-    content = "不过下次有需要我也会试试这个方法。",
+    content = "But I'll remember to try it if I ever need to do that.",
     text_time = 2550
   },
   [140919230] = {
-    title = "是为了集中精神",
-    content = "是为了集中精神啦，我有一段主持稿背不下来，听说边背边画圈圈的话会背得快一点~",
+    title = "It's to keep focus.",
+    content = "It's to keep focus. I have a script I can't memorize. I hear drawing circles helps to concentrate.",
     text_time = 5700
   },
   [140919231] = {
-    content = "好像很少会见你被稿子难住。",
+    content = "I rarely see you having trouble with a script.",
     text_time = 1950
   },
   [140919232] = {
-    content = "看来你这次的主持工作不轻松。",
+    content = "Looks like your job isn't easy this time.",
     text_time = 2100
   },
   [140919233] = {
-    content = "是有什么让你无法集中吗？",
+    content = "Is there something distracting you?",
     text_time = 1800
   },
   [140919310] = {
-    title = "注意力都在别处",
-    content = "其实是因为那部看到一半的电视剧太吸引人了，我只想快点背完和你继续看下去！",
+    title = "My attention's elsewhere.",
+    content = "It's because the show we're watching is so intriguing. I just want to finish my work early and keep watching it with you.",
     text_time = 5400
   },
   [140919311] = {
-    content = "那不如让我帮忙吧？",
+    content = "Can I help?",
     text_time = 1350
   },
   [140919312] = {
-    content = "你背稿的时候可以把我当作台下的观众。",
+    content = "You can think of me as your audience when you memorize the script.",
     text_time = 2700
   },
   [140919313] = {
-    content = "之前你用这个方法帮我的时候就很有效。",
+    content = "It worked wonders when you let me try it last time.",
     text_time = 2700
   },
   [140919320] = {
-    title = "说起来和你也有关系",
-    content = "说起来和你也有关系，因为你昨晚难得早下班回家，害我一点都不想把时间用在背稿上~",
+    title = "It's kind of because of you.",
+    content = "It's kind of because of you. You got home early last night, which was very rare, so I didn't want to waste time on the script at all.",
     text_time = 5850
   },
   [140919321] = {
-    content = "是因为我吗？",
+    content = "Because of me?",
     text_time = 900
   },
   [140919322] = {
-    content = "那今晚背稿的时候把我当作台下的观众吧。",
+    content = "Then think of me as your audience when you memorize the script tonight.",
     text_time = 2850
   },
   [140919323] = {
-    content = "这样你的时间也用在了我身上。",
+    content = "This way, you'll be using your time on me.",
     text_time = 2100
   },
   [140919330] = {
-    title = "如果我真的压力很大",
-    content = "有点好奇如果我是真的因为压力才画出这些圈圈，你会怎么做啊？",
+    title = "If I were stressed...",
+    content = "If I drew these circles because I was really stressed, I'm curious what you would do.",
     text_time = 4350
   },
   [140919331] = {
-    content = "应该会先帮你把稿子背下来。",
+    content = "I'll probably help you memorize the script first.",
     text_time = 1950
   },
   [140919332] = {
-    content = "等你的工作结束，再带你去放松放松。",
+    content = "And take you out to relax after your work's done.",
     text_time = 2550
   },
   [140919333] = {
-    content = "最近正好有个假期，可以全用来陪你。",
+    content = "I'm having a few days off to spend with you.",
     text_time = 2550
   }
 }

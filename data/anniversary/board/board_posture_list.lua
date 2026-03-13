@@ -588,6 +588,20 @@ data = {
     posture_type = 1,
     posture_res = 1202000
   },
+  [11001088] = {
+    posture_id = 1100,
+    dress_id = "1088",
+    role_id = 1,
+    posture_type = 1,
+    posture_res = 1204000
+  },
+  [11001089] = {
+    posture_id = 1100,
+    dress_id = "1089",
+    role_id = 1,
+    posture_type = 1,
+    posture_res = 1206000
+  },
   [11011041] = {
     posture_id = 1101,
     dress_id = "1041",
@@ -602,6 +616,14 @@ data = {
     posture_type = 1,
     gesture_type = 1,
     posture_res = 1134401
+  },
+  [11011089] = {
+    posture_id = 1101,
+    dress_id = "1089",
+    role_id = 1,
+    posture_type = 1,
+    gesture_type = 1,
+    posture_res = 1206401
   },
   [11021041] = {
     posture_id = 1102,
@@ -619,6 +641,14 @@ data = {
     gesture_type = 2,
     posture_res = 1134402
   },
+  [11021089] = {
+    posture_id = 1102,
+    dress_id = "1089",
+    role_id = 1,
+    posture_type = 1,
+    gesture_type = 2,
+    posture_res = 1206402
+  },
   [11031053] = {
     posture_id = 1103,
     dress_id = "1053",
@@ -626,6 +656,14 @@ data = {
     posture_type = 1,
     gesture_type = 3,
     posture_res = 1134403
+  },
+  [11031089] = {
+    posture_id = 1103,
+    dress_id = "1089",
+    role_id = 1,
+    posture_type = 1,
+    gesture_type = 3,
+    posture_res = 1206403
   },
   [12001001] = {
     posture_id = 1200,
@@ -1207,6 +1245,20 @@ data = {
     role_id = 1,
     posture_type = 2,
     posture_res = 1203000
+  },
+  [12001088] = {
+    posture_id = 1200,
+    dress_id = "1088",
+    role_id = 1,
+    posture_type = 2,
+    posture_res = 1205000
+  },
+  [12001089] = {
+    posture_id = 1200,
+    dress_id = "1089",
+    role_id = 1,
+    posture_type = 2,
+    posture_res = 1207000
   },
   [12011001] = {
     posture_id = 1201,
@@ -1856,6 +1908,22 @@ data = {
     gesture_type = 1,
     posture_res = 1203401
   },
+  [12011088] = {
+    posture_id = 1201,
+    dress_id = "1088",
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 1,
+    posture_res = 1205401
+  },
+  [12011089] = {
+    posture_id = 1201,
+    dress_id = "1089",
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 1,
+    posture_res = 1207401
+  },
   [12021001] = {
     posture_id = 1202,
     dress_id = "1001",
@@ -2504,6 +2572,22 @@ data = {
     gesture_type = 2,
     posture_res = 1203402
   },
+  [12021088] = {
+    posture_id = 1202,
+    dress_id = "1088",
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 2,
+    posture_res = 1205402
+  },
+  [12021089] = {
+    posture_id = 1202,
+    dress_id = "1089",
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 2,
+    posture_res = 1207402
+  },
   [12031001] = {
     posture_id = 1203,
     dress_id = "1001",
@@ -2949,6 +3033,38 @@ data = {
     posture_type = 2,
     gesture_type = 4,
     posture_res = 184404
+  },
+  [12051088] = {
+    posture_id = 1205,
+    dress_id = "1088",
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 5,
+    posture_res = 1205405
+  },
+  [12051089] = {
+    posture_id = 1205,
+    dress_id = "1089",
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 5,
+    posture_res = 1207405
+  },
+  [12061088] = {
+    posture_id = 1206,
+    dress_id = "1088",
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 6,
+    posture_res = 1205406
+  },
+  [12061089] = {
+    posture_id = 1206,
+    dress_id = "1089",
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 6,
+    posture_res = 1207406
   },
   [13001001] = {
     posture_id = 1300,
@@ -3540,6 +3656,20 @@ data = {
     posture_type = 1,
     posture_res = 2201000
   },
+  [21002087] = {
+    posture_id = 2100,
+    dress_id = "2087",
+    role_id = 2,
+    posture_type = 1,
+    posture_res = 2207000
+  },
+  [21002088] = {
+    posture_id = 2100,
+    dress_id = "2088",
+    role_id = 2,
+    posture_type = 1,
+    posture_res = 2209000
+  },
   [22002001] = {
     posture_id = 2200,
     dress_id = "2001",
@@ -4114,6 +4244,20 @@ data = {
     posture_type = 2,
     posture_res = 2202000
   },
+  [22002087] = {
+    posture_id = 2200,
+    dress_id = "2087",
+    role_id = 2,
+    posture_type = 2,
+    posture_res = 2208000
+  },
+  [22002088] = {
+    posture_id = 2200,
+    dress_id = "2088",
+    role_id = 2,
+    posture_type = 2,
+    posture_res = 2210000
+  },
   [22012001] = {
     posture_id = 2201,
     dress_id = "2001",
@@ -4333,6 +4477,22 @@ data = {
     posture_type = 2,
     gesture_type = 1,
     posture_res = 2202401
+  },
+  [22012087] = {
+    posture_id = 2201,
+    dress_id = "2087",
+    role_id = 2,
+    posture_type = 2,
+    gesture_type = 1,
+    posture_res = 2208401
+  },
+  [22012088] = {
+    posture_id = 2201,
+    dress_id = "2088",
+    role_id = 2,
+    posture_type = 2,
+    gesture_type = 1,
+    posture_res = 2210401
   },
   [22022001] = {
     posture_id = 2202,
@@ -5312,6 +5472,22 @@ data = {
     gesture_type = 4,
     posture_res = 2202404
   },
+  [22042087] = {
+    posture_id = 2204,
+    dress_id = "2087",
+    role_id = 2,
+    posture_type = 2,
+    gesture_type = 4,
+    posture_res = 2208404
+  },
+  [22042088] = {
+    posture_id = 2204,
+    dress_id = "2088",
+    role_id = 2,
+    posture_type = 2,
+    gesture_type = 4,
+    posture_res = 2210404
+  },
   [22052001] = {
     posture_id = 2205,
     dress_id = "2001",
@@ -6118,6 +6294,36 @@ data = {
     posture_type = 1,
     posture_res = 3193000
   },
+  [31003088] = {
+    posture_id = 3100,
+    dress_id = "3088",
+    role_id = 3,
+    posture_type = 1,
+    posture_res = 3197000
+  },
+  [31003089] = {
+    posture_id = 3100,
+    dress_id = "3089",
+    role_id = 3,
+    posture_type = 1,
+    posture_res = 3199000
+  },
+  [31013089] = {
+    posture_id = 3101,
+    dress_id = "3089",
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 1,
+    posture_res = 3199401
+  },
+  [31023089] = {
+    posture_id = 3102,
+    dress_id = "3089",
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 2,
+    posture_res = 3199402
+  },
   [32003001] = {
     posture_id = 3200,
     dress_id = "3001",
@@ -6691,6 +6897,20 @@ data = {
     role_id = 3,
     posture_type = 2,
     posture_res = 3194000
+  },
+  [32003088] = {
+    posture_id = 3200,
+    dress_id = "3088",
+    role_id = 3,
+    posture_type = 2,
+    posture_res = 3198000
+  },
+  [32003089] = {
+    posture_id = 3200,
+    dress_id = "3089",
+    role_id = 3,
+    posture_type = 2,
+    posture_res = 3200000
   },
   [33003001] = {
     posture_id = 3300,
@@ -7280,6 +7500,20 @@ data = {
     role_id = 4,
     posture_type = 1,
     posture_res = 4207000
+  },
+  [41004085] = {
+    posture_id = 4100,
+    dress_id = "4085",
+    role_id = 4,
+    posture_type = 1,
+    posture_res = 4209000
+  },
+  [41004086] = {
+    posture_id = 4100,
+    dress_id = "4086",
+    role_id = 4,
+    posture_type = 1,
+    posture_res = 4211000
   },
   [41014001] = {
     posture_id = 4101,
@@ -7920,6 +8154,22 @@ data = {
     gesture_type = 1,
     posture_res = 4207401
   },
+  [41014085] = {
+    posture_id = 4101,
+    dress_id = "4085",
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 1,
+    posture_res = 4209401
+  },
+  [41014086] = {
+    posture_id = 4101,
+    dress_id = "4086",
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 1,
+    posture_res = 4211401
+  },
   [41024001] = {
     posture_id = 4102,
     dress_id = "4001",
@@ -8129,6 +8379,38 @@ data = {
     posture_type = 1,
     gesture_type = 2,
     posture_res = 4144402
+  },
+  [41024086] = {
+    posture_id = 4102,
+    dress_id = "4086",
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 2,
+    posture_res = 4211402
+  },
+  [41034085] = {
+    posture_id = 4103,
+    dress_id = "4085",
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 3,
+    posture_res = 4209403
+  },
+  [41034086] = {
+    posture_id = 4103,
+    dress_id = "4086",
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 3,
+    posture_res = 4211403
+  },
+  [41044086] = {
+    posture_id = 4104,
+    dress_id = "4086",
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 4,
+    posture_res = 4211404
   },
   [42004001] = {
     posture_id = 4200,
@@ -8696,6 +8978,20 @@ data = {
     role_id = 4,
     posture_type = 2,
     posture_res = 4208000
+  },
+  [42004085] = {
+    posture_id = 4200,
+    dress_id = "4085",
+    role_id = 4,
+    posture_type = 2,
+    posture_res = 4210000
+  },
+  [42004086] = {
+    posture_id = 4200,
+    dress_id = "4086",
+    role_id = 4,
+    posture_type = 2,
+    posture_res = 4212000
   },
   [42014001] = {
     posture_id = 4201,
@@ -9328,6 +9624,22 @@ data = {
     posture_type = 2,
     gesture_type = 1,
     posture_res = 4208401
+  },
+  [42014085] = {
+    posture_id = 4201,
+    dress_id = "4085",
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 1,
+    posture_res = 4210401
+  },
+  [42014086] = {
+    posture_id = 4201,
+    dress_id = "4086",
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 1,
+    posture_res = 4212401
   },
   [42024001] = {
     posture_id = 4202,
@@ -10203,6 +10515,22 @@ data = {
     gesture_type = 3,
     posture_res = 4208403
   },
+  [42034085] = {
+    posture_id = 4203,
+    dress_id = "4085",
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 3,
+    posture_res = 4210403
+  },
+  [42034086] = {
+    posture_id = 4203,
+    dress_id = "4086",
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 3,
+    posture_res = 4212403
+  },
   [42044001] = {
     posture_id = 4204,
     dress_id = "4001",
@@ -10393,6 +10721,14 @@ data = {
     gesture_type = 4,
     posture_res = 498404
   },
+  [42044086] = {
+    posture_id = 4204,
+    dress_id = "4086",
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 4,
+    posture_res = 4212404
+  },
   [42054001] = {
     posture_id = 4205,
     dress_id = "4001",
@@ -10573,6 +10909,14 @@ data = {
     role_id = 4,
     posture_type = 2,
     gesture_type = 5
+  },
+  [42054086] = {
+    posture_id = 4205,
+    dress_id = "4086",
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 5,
+    posture_res = 4212405
   },
   [42064001] = {
     posture_id = 4206,

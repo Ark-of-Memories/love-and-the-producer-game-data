@@ -15825,6 +15825,104 @@ data = {
     posture_type = 2,
     gesture_type = 2
   },
+  [1204000] = {
+    name = "李泽言有外套囚服正面",
+    type = 0,
+    role_id = 1,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [1205000] = {
+    name = "李泽言有外套囚服侧面",
+    type = 0,
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [1205401] = {
+    name = "李泽言有外套囚服半侧抱臂",
+    type = 4,
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 1
+  },
+  [1205402] = {
+    name = "李泽言有外套囚服半侧插袋",
+    type = 4,
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 2
+  },
+  [1205405] = {
+    name = "李泽言有外套囚服半侧抱臂有锁链",
+    type = 4,
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 5
+  },
+  [1205406] = {
+    name = "李泽言有外套囚服半侧插袋有锁链",
+    type = 4,
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 6
+  },
+  [1206000] = {
+    name = "李泽言囚服正面",
+    type = 0,
+    role_id = 1,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [1206401] = {
+    name = "李泽言囚服正面举牌",
+    type = 4,
+    role_id = 1,
+    posture_type = 1,
+    gesture_type = 1
+  },
+  [1206402] = {
+    name = "李泽言囚服正面插兜",
+    type = 4,
+    role_id = 1,
+    posture_type = 1,
+    gesture_type = 2
+  },
+  [1207000] = {
+    name = "李泽言囚服侧面",
+    type = 0,
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [1207401] = {
+    name = "李泽言囚服半侧抱臂",
+    type = 4,
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 1
+  },
+  [1207402] = {
+    name = "李泽言囚服半侧插袋",
+    type = 4,
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 2
+  },
+  [1207405] = {
+    name = "李泽言囚服半侧抱臂有锁链",
+    type = 4,
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 5
+  },
+  [1207406] = {
+    name = "李泽言囚服半侧插袋有锁链",
+    type = 4,
+    role_id = 1,
+    posture_type = 2,
+    gesture_type = 6
+  },
   [2100000] = {
     name = "许墨口红正面",
     type = 0,
@@ -17637,6 +17735,62 @@ data = {
   },
   [2202404] = {
     name = "许墨25年3月主线半侧插兜",
+    type = 4,
+    role_id = 2,
+    posture_type = 2,
+    gesture_type = 4
+  },
+  [2207000] = {
+    name = "许墨有外套囚服正面",
+    type = 0,
+    role_id = 2,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [2208000] = {
+    name = "许墨有外套囚服侧面",
+    type = 0,
+    role_id = 2,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [2208401] = {
+    name = "许墨有外套囚服半侧插兜（补立绘手势bug）",
+    type = 4,
+    role_id = 2,
+    posture_type = 2,
+    gesture_type = 1
+  },
+  [2208404] = {
+    name = "许墨有外套囚服半侧插兜",
+    type = 4,
+    role_id = 2,
+    posture_type = 2,
+    gesture_type = 4
+  },
+  [2209000] = {
+    name = "许墨有外套囚服正面",
+    type = 0,
+    role_id = 2,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [2210000] = {
+    name = "许墨囚服侧面",
+    type = 0,
+    role_id = 2,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [2210401] = {
+    name = "许墨囚服半侧举牌",
+    type = 4,
+    role_id = 2,
+    posture_type = 2,
+    gesture_type = 1
+  },
+  [2210404] = {
+    name = "许墨囚服半侧插兜",
     type = 4,
     role_id = 2,
     posture_type = 2,
@@ -20172,6 +20326,378 @@ data = {
   [3194000] = {
     name = "周棋洛25年3月主线侧面",
     type = 0,
+    role_id = 3,
+    posture_type = 2
+  },
+  [3197000] = {
+    name = "周棋洛有外套囚服正面",
+    type = 0,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197101] = {
+    name = "周棋洛有外套囚服眼睛正面普通镜头视线",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197102] = {
+    name = "周棋洛有外套囚服眼睛正面普通看别处",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197103] = {
+    name = "周棋洛有外套囚服眼睛正面愉悦闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197104] = {
+    name = "周棋洛有外套囚服眼睛正面得意闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197105] = {
+    name = "周棋洛有外套囚服眼睛正面苦笑闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197106] = {
+    name = "周棋洛有外套囚服眼睛正面欣慰笑",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197107] = {
+    name = "周棋洛有外套囚服眼睛正面无奈笑",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197108] = {
+    name = "周棋洛有外套囚服眼睛正面逃避侧目",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197109] = {
+    name = "周棋洛有外套囚服眼睛正面皱眉伤心",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197110] = {
+    name = "周棋洛有外套囚服眼睛正面怒生气02",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197111] = {
+    name = "周棋洛有外套囚服眼睛正面怒生气01",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197112] = {
+    name = "周棋洛有外套囚服眼睛正面惊讶",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197113] = {
+    name = "周棋洛有外套囚服眼睛正面惊慌",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197114] = {
+    name = "周棋洛有外套囚服眼睛正面皱眉闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3197115] = {
+    name = "周棋洛有外套囚服眼睛正面evol发动",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3198000] = {
+    name = "周棋洛有外套囚服侧面",
+    type = 0,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3198101] = {
+    name = "周棋洛有外套囚服眼睛半侧默认",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3198102] = {
+    name = "周棋洛有外套囚服眼睛半侧瞪皱眉",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3198103] = {
+    name = "周棋洛有外套囚服眼睛半侧悲伤",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3198104] = {
+    name = "周棋洛有外套囚服眼睛半侧忧伤闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3198105] = {
+    name = "周棋洛有外套囚服眼睛半侧皱眉闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3198106] = {
+    name = "周棋洛有外套囚服眼睛半侧闭眼普通",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3198107] = {
+    name = "眼睛半侧微张眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 2
+  },
+  [3198108] = {
+    name = "眼睛周棋洛半侧视线外",
+    type = 1,
+    role_id = 3,
+    posture_type = 2
+  },
+  [3198109] = {
+    name = "眼睛周棋洛半侧闹别扭",
+    type = 1,
+    role_id = 3,
+    posture_type = 2
+  },
+  [3199000] = {
+    name = "周棋洛囚服正面",
+    type = 0,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199101] = {
+    name = "周棋洛囚服眼睛正面普通镜头视线",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199102] = {
+    name = "周棋洛囚服眼睛正面普通看别处",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199103] = {
+    name = "周棋洛囚服眼睛正面愉悦闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199104] = {
+    name = "周棋洛囚服眼睛正面得意闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199105] = {
+    name = "周棋洛囚服眼睛正面苦笑闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199106] = {
+    name = "周棋洛囚服眼睛正面欣慰笑",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199107] = {
+    name = "周棋洛囚服眼睛正面无奈笑",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199108] = {
+    name = "周棋洛囚服眼睛正面逃避侧目",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199109] = {
+    name = "周棋洛囚服眼睛正面皱眉伤心",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199110] = {
+    name = "周棋洛囚服眼睛正面怒生气02",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199111] = {
+    name = "周棋洛囚服眼睛正面怒生气01",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199112] = {
+    name = "周棋洛囚服眼睛正面惊讶",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199113] = {
+    name = "周棋洛囚服眼睛正面惊慌",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199114] = {
+    name = "周棋洛囚服眼睛正面皱眉闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199115] = {
+    name = "周棋洛囚服眼睛正面evol发动",
+    type = 1,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [3199401] = {
+    name = "周棋洛囚服正面举牌",
+    type = 4,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 1
+  },
+  [3199402] = {
+    name = "周棋洛囚服正面垂手",
+    type = 4,
+    role_id = 3,
+    posture_type = 1,
+    gesture_type = 2
+  },
+  [3200000] = {
+    name = "周棋洛囚服侧面",
+    type = 0,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3200101] = {
+    name = "周棋洛囚服眼睛半侧默认",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3200102] = {
+    name = "周棋洛囚服眼睛半侧瞪皱眉",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3200103] = {
+    name = "周棋洛囚服眼睛半侧悲伤",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3200104] = {
+    name = "周棋洛囚服眼睛半侧忧伤闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3200105] = {
+    name = "周棋洛囚服眼睛半侧皱眉闭眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3200106] = {
+    name = "周棋洛囚服眼睛半侧闭眼普通",
+    type = 1,
+    role_id = 3,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [3200107] = {
+    name = "眼睛半侧微张眼",
+    type = 1,
+    role_id = 3,
+    posture_type = 2
+  },
+  [3200108] = {
+    name = "眼睛周棋洛半侧视线外",
+    type = 1,
+    role_id = 3,
+    posture_type = 2
+  },
+  [3200109] = {
+    name = "眼睛周棋洛半侧闹别扭",
+    type = 1,
     role_id = 3,
     posture_type = 2
   },
@@ -23461,5 +23987,117 @@ data = {
     role_id = 4,
     posture_type = 2,
     gesture_type = 3
+  },
+  [4209000] = {
+    name = "白起有外套囚服正面",
+    type = 0,
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [4209401] = {
+    name = "白起有外套囚服正面叉腰",
+    type = 4,
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 1
+  },
+  [4209403] = {
+    name = "白起有外套囚服正面叉腰（补立绘手势bug）",
+    type = 4,
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 3
+  },
+  [4210000] = {
+    name = "白起有外套囚服侧面",
+    type = 0,
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [4210401] = {
+    name = "白起有外套囚服半侧叉腰",
+    type = 4,
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 1
+  },
+  [4210403] = {
+    name = "白起有外套囚服半侧害羞",
+    type = 4,
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 3
+  },
+  [4211000] = {
+    name = "白起囚服正面",
+    type = 0,
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 0
+  },
+  [4211401] = {
+    name = "白起囚服正面举牌",
+    type = 4,
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 1
+  },
+  [4211402] = {
+    name = "白起囚服正面叉腰",
+    type = 4,
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 2
+  },
+  [4211403] = {
+    name = "白起囚服正面举牌带锁链",
+    type = 4,
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 3
+  },
+  [4211404] = {
+    name = "白起囚服正面叉腰带锁链",
+    type = 4,
+    role_id = 4,
+    posture_type = 1,
+    gesture_type = 4
+  },
+  [4212000] = {
+    name = "白起囚服侧面",
+    type = 0,
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 0
+  },
+  [4212401] = {
+    name = "白起囚服半侧叉腰",
+    type = 4,
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 1
+  },
+  [4212403] = {
+    name = "白起囚服半侧害羞",
+    type = 4,
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 3
+  },
+  [4212404] = {
+    name = "白起囚服半侧叉腰带锁链",
+    type = 4,
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 4
+  },
+  [4212405] = {
+    name = "白起囚服半侧害羞带锁链",
+    type = 4,
+    role_id = 4,
+    posture_type = 2,
+    gesture_type = 5
   }
 }

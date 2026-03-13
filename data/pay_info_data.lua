@@ -160,6 +160,14 @@ data = {
     free_diamond_num = 0,
     pay_code = 69
   },
+  [110014] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
   [110017] = {
     type = 1,
     diamond_num = 0,
@@ -183,6 +191,54 @@ data = {
     rmb_num = 999,
     free_diamond_num = 0,
     pay_code = 54
+  },
+  [110023] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1499,
+    free_diamond_num = 0,
+    pay_code = 60
+  },
+  [110025] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [110026] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [110027] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [110028] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [110029] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
   },
   [111002] = {
     type = 1,
@@ -8480,6 +8536,38 @@ data = {
     free_diamond_num = 0,
     pay_code = 24
   },
+  [112081] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 23
+  },
+  [112082] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 24
+  },
+  [112083] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 23
+  },
+  [112084] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 24
+  },
   [114001] = {
     type = 1,
     diamond_num = 0,
@@ -12207,6 +12295,332 @@ data = {
     rmb_num = 399,
     free_diamond_num = 0,
     pay_code = 114
+  },
+  [115698] = {
+    type = 5,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115699] = {
+    type = 5,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 599,
+    free_diamond_num = 0,
+    pay_code = 82
+  },
+  [115700] = {
+    type = 5,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 599,
+    free_diamond_num = 0,
+    pay_code = 82
+  },
+  [115701] = {
+    type = 5,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 599,
+    free_diamond_num = 0,
+    pay_code = 82
+  },
+  [115702] = {
+    type = 5,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 114
+  },
+  [115703] = {
+    type = 5,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 111
+  },
+  [115704] = {
+    type = 5,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115705] = {
+    type = 5,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 114
+  },
+  [115706] = {
+    type = 5,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115707] = {
+    type = 5,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 114
+  },
+  [115711] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115712] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 599,
+    free_diamond_num = 0,
+    pay_code = 82
+  },
+  [115713] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 599,
+    free_diamond_num = 0,
+    pay_code = 82
+  },
+  [115714] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 599,
+    free_diamond_num = 0,
+    pay_code = 82
+  },
+  [115715] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 111
+  },
+  [115716] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115717] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 114
+  },
+  [115718] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115719] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 400,
+    free_diamond_num = 0
+  },
+  [115720] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 200,
+    free_diamond_num = 0
+  },
+  [115721] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115722] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 114
+  },
+  [115723] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 111
+  },
+  [115724] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115725] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 114
+  },
+  [115728] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115729] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 599,
+    free_diamond_num = 0,
+    pay_code = 82
+  },
+  [115730] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115731] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 114
+  },
+  [115732] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 111
+  },
+  [115733] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115736] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115737] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 599,
+    free_diamond_num = 0,
+    pay_code = 82
+  },
+  [115738] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115739] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 114
+  },
+  [115740] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 111
+  },
+  [115741] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
+  },
+  [115742] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 114
+  },
+  [115743] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 114
+  },
+  [115747] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 599,
+    free_diamond_num = 0,
+    pay_code = 82
+  },
+  [115748] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 78
   },
   [116001] = {
     type = 1,
@@ -19880,6 +20294,438 @@ data = {
     free_diamond_num = 0,
     pay_code = 103
   },
+  [116960] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 89
+  },
+  [116961] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 102
+  },
+  [116962] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 103
+  },
+  [116963] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 84
+  },
+  [116964] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 102
+  },
+  [116965] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 106
+  },
+  [116966] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 84
+  },
+  [116967] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 102
+  },
+  [116968] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 103
+  },
+  [116969] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [116970] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [116971] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1299,
+    free_diamond_num = 0,
+    pay_code = 59
+  },
+  [116972] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [116973] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [116974] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1499,
+    free_diamond_num = 0,
+    pay_code = 117
+  },
+  [116975] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [116976] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [116977] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1299,
+    free_diamond_num = 0,
+    pay_code = 59
+  },
+  [116978] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [116979] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [116980] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1499,
+    free_diamond_num = 0,
+    pay_code = 117
+  },
+  [116981] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 85
+  },
+  [116982] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 93
+  },
+  [116983] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1499,
+    free_diamond_num = 0,
+    pay_code = 60
+  },
+  [116984] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 86
+  },
+  [116985] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [116986] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 105
+  },
+  [116987] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 86
+  },
+  [116988] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [116989] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 106
+  },
+  [116990] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [116991] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [116992] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1299,
+    free_diamond_num = 0,
+    pay_code = 59
+  },
+  [116993] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [116994] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [116995] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1499,
+    free_diamond_num = 0,
+    pay_code = 117
+  },
+  [116996] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 85
+  },
+  [116997] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 93
+  },
+  [116998] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 104
+  },
+  [116999] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 86
+  },
+  [117000] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [117001] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 105
+  },
+  [117002] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 89
+  },
+  [117003] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 102
+  },
+  [117004] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 103
+  },
+  [117005] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 84
+  },
+  [117006] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [117007] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 106
+  },
+  [117008] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 85
+  },
+  [117009] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 93
+  },
+  [117010] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 104
+  },
+  [117011] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 86
+  },
+  [117012] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [117013] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 105
+  },
   [119001] = {
     type = 1,
     diamond_num = 0,
@@ -20265,6 +21111,14 @@ data = {
     pay_code = 38
   },
   [120104] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 38
+  },
+  [120105] = {
     type = 1,
     diamond_num = 0,
     firstfree_diamond_num = 0,
@@ -21088,7 +21942,63 @@ data = {
     free_diamond_num = 0,
     pay_code = 35
   },
+  [130104] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [130105] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [130106] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [130107] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [130108] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [130109] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
   [130133] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [130170] = {
     type = 1,
     diamond_num = 0,
     firstfree_diamond_num = 0,
@@ -21111,6 +22021,14 @@ data = {
     rmb_num = 199,
     free_diamond_num = 0,
     pay_code = 84
+  },
+  [130182] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 143
   },
   [140001] = {
     type = 1,
@@ -22312,6 +23230,1246 @@ data = {
     free_diamond_num = 0,
     pay_code = 35
   },
+  [200126] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 45
+  },
+  [200127] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200128] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 45
+  },
+  [200129] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200130] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 41
+  },
+  [200131] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 53
+  },
+  [200132] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 45
+  },
+  [200133] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 60
+  },
+  [200134] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 11
+  },
+  [200135] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 14
+  },
+  [200136] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 39
+  },
+  [200137] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 11
+  },
+  [200138] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 12
+  },
+  [200139] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 45
+  },
+  [200140] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 52
+  },
+  [200141] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1999,
+    free_diamond_num = 0,
+    pay_code = 66
+  },
+  [200142] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200143] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 52
+  },
+  [200144] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200145] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 52
+  },
+  [200146] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 45
+  },
+  [200147] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 52
+  },
+  [200148] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1999,
+    free_diamond_num = 0,
+    pay_code = 66
+  },
+  [200149] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200150] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 52
+  },
+  [200151] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 45,
+    free_diamond_num = 0,
+    pay_code = 212
+  },
+  [200152] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 88,
+    free_diamond_num = 0,
+    pay_code = 213
+  },
+  [200153] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [200154] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200155] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200156] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1999,
+    free_diamond_num = 0,
+    pay_code = 66
+  },
+  [200157] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200158] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200161] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 40
+  },
+  [200162] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 52
+  },
+  [200163] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200164] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 52
+  },
+  [200165] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 45
+  },
+  [200166] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 52
+  },
+  [200167] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1999,
+    free_diamond_num = 0,
+    pay_code = 66
+  },
+  [200168] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200169] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 52
+  },
+  [200170] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 9
+  },
+  [200171] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 40
+  },
+  [200172] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [200173] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200174] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200175] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1999,
+    free_diamond_num = 0,
+    pay_code = 66
+  },
+  [200176] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200177] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200178] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 40
+  },
+  [200179] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200180] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 40
+  },
+  [200181] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200182] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1299,
+    free_diamond_num = 0,
+    pay_code = 55
+  },
+  [200183] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 9999,
+    free_diamond_num = 0,
+    pay_code = 71
+  },
+  [200184] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [200185] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200186] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200188] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 212
+  },
+  [200189] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1299,
+    free_diamond_num = 0,
+    pay_code = 213
+  },
+  [200190] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 40
+  },
+  [200191] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 203
+  },
+  [200192] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200193] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200194] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 40
+  },
+  [200195] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 40
+  },
+  [200196] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200197] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 37
+  },
+  [200198] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 40
+  },
+  [200199] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 37
+  },
+  [200200] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 40
+  },
+  [200201] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200202] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200203] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 32
+  },
+  [200204] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 32
+  },
+  [200205] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [200206] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200207] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [200208] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200209] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 9999,
+    free_diamond_num = 0,
+    pay_code = 71
+  },
+  [200210] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 203
+  },
+  [200211] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1999,
+    free_diamond_num = 0,
+    pay_code = 66
+  },
+  [200212] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 32
+  },
+  [200213] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 32
+  },
+  [200214] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 32
+  },
+  [200215] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [200216] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [200217] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200218] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200219] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200220] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200221] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200222] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 9999,
+    free_diamond_num = 0,
+    pay_code = 71
+  },
+  [200223] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [200224] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200225] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200226] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1999,
+    free_diamond_num = 0,
+    pay_code = 66
+  },
+  [200227] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200228] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200230] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 203
+  },
+  [200231] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200232] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 5499,
+    free_diamond_num = 0,
+    pay_code = 141
+  },
+  [200233] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [200234] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1499,
+    free_diamond_num = 0,
+    pay_code = 62
+  },
+  [200235] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 41
+  },
+  [200236] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200237] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 45
+  },
+  [200238] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1499,
+    free_diamond_num = 0,
+    pay_code = 60
+  },
+  [200239] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 46
+  },
+  [200240] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1499,
+    free_diamond_num = 0,
+    pay_code = 61
+  },
+  [200241] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 51
+  },
+  [200242] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 47
+  },
+  [200243] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1499,
+    free_diamond_num = 0,
+    pay_code = 62
+  },
+  [200244] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 47
+  },
+  [200245] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1499,
+    free_diamond_num = 0,
+    pay_code = 62
+  },
+  [200246] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 41
+  },
+  [200247] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1299,
+    free_diamond_num = 0,
+    pay_code = 55
+  },
+  [200248] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 9999,
+    free_diamond_num = 0,
+    pay_code = 71
+  },
+  [200249] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 44
+  },
+  [200250] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1499,
+    free_diamond_num = 0,
+    pay_code = 60
+  },
+  [200251] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200252] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 45
+  },
+  [200253] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1299,
+    free_diamond_num = 0,
+    pay_code = 57
+  },
+  [200254] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 203
+  },
+  [200255] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200256] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 5499,
+    free_diamond_num = 0,
+    pay_code = 141
+  },
+  [200257] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 53
+  },
+  [200258] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 89
+  },
+  [200259] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 102
+  },
+  [200260] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 103
+  },
+  [200261] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 84
+  },
+  [200262] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [200263] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 106
+  },
+  [200264] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 85
+  },
+  [200265] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 399,
+    free_diamond_num = 0,
+    pay_code = 93
+  },
+  [200266] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 104
+  },
+  [200267] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 86
+  },
+  [200268] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [200269] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 105
+  },
+  [200270] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 84
+  },
+  [200271] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 99
+  },
+  [200272] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1199,
+    free_diamond_num = 0,
+    pay_code = 106
+  },
+  [200273] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 9999,
+    free_diamond_num = 0,
+    pay_code = 71
+  },
+  [200274] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 212
+  },
+  [200275] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1299,
+    free_diamond_num = 0,
+    pay_code = 213
+  },
+  [200276] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 214
+  },
+  [200277] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 45
+  },
+  [200278] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1299,
+    free_diamond_num = 0,
+    pay_code = 56
+  },
+  [200279] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 999,
+    free_diamond_num = 0,
+    pay_code = 53
+  },
+  [200280] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200281] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 299,
+    free_diamond_num = 0,
+    pay_code = 42
+  },
+  [200282] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
+  [200283] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 499,
+    free_diamond_num = 0,
+    pay_code = 45
+  },
+  [200284] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 2999,
+    free_diamond_num = 0,
+    pay_code = 69
+  },
   [210001] = {
     type = 1,
     diamond_num = 0,
@@ -23352,6 +25510,62 @@ data = {
     free_diamond_num = 0,
     pay_code = 42
   },
+  [230173] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 45,
+    free_diamond_num = 0,
+    pay_code = 214
+  },
+  [230174] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 45,
+    free_diamond_num = 0,
+    pay_code = 222
+  },
+  [230175] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 88,
+    free_diamond_num = 0,
+    pay_code = 223
+  },
+  [230176] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 45,
+    free_diamond_num = 0,
+    pay_code = 224
+  },
+  [230177] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 222
+  },
+  [230178] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1299,
+    free_diamond_num = 0,
+    pay_code = 223
+  },
+  [230179] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 224
+  },
   [230180] = {
     type = 1,
     diamond_num = 0,
@@ -23359,6 +25573,38 @@ data = {
     rmb_num = 99,
     free_diamond_num = 0,
     pay_code = 35
+  },
+  [230181] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 214
+  },
+  [230182] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 222
+  },
+  [230183] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 1299,
+    free_diamond_num = 0,
+    pay_code = 223
+  },
+  [230184] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 699,
+    free_diamond_num = 0,
+    pay_code = 224
   },
   [230185] = {
     type = 1,
@@ -23393,6 +25639,22 @@ data = {
     pay_code = 42
   },
   [230202] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [230228] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [230273] = {
     type = 1,
     diamond_num = 0,
     firstfree_diamond_num = 0,
@@ -23471,6 +25733,22 @@ data = {
     rmb_num = 299,
     free_diamond_num = 0,
     pay_code = 89
+  },
+  [420047] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 99,
+    free_diamond_num = 0,
+    pay_code = 35
+  },
+  [420048] = {
+    type = 1,
+    diamond_num = 0,
+    firstfree_diamond_num = 0,
+    rmb_num = 199,
+    free_diamond_num = 0,
+    pay_code = 37
   },
   [430001] = {
     type = 1,

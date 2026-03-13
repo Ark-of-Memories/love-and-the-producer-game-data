@@ -247,7 +247,7 @@ data = {
         enterL2dAniName = 3060001
       },
       interaction_type = 5,
-      name = "贴近"
+      name = "Draw Close"
     },
     [9103003] = {
       condition = 2,
@@ -335,7 +335,7 @@ data = {
         enterL2dAniName = 3120201
       },
       interaction_type = 12,
-      name = "安抚"
+      name = "Soothe"
     },
     [9103007] = {
       condition = 7,
@@ -346,7 +346,7 @@ data = {
         enterL2dAniName = 3120301
       },
       interaction_type = 13,
-      name = "舒缓"
+      name = "Relieve"
     },
     [9103008] = {
       associated_type = {12, 13},
@@ -387,7 +387,7 @@ data = {
         }
       },
       interaction_type = 14,
-      name = "疗愈",
+      name = "Heal",
       out_action = "PARAM_SM_ACTION_APPEAR",
       ur_library_detail = {
         21301,
@@ -647,7 +647,7 @@ data = {
         enterL2dAniName = 3060001
       },
       interaction_type = 5,
-      name = "贴近"
+      name = "Draw Close"
     },
     [9203003] = {
       condition = 2,
@@ -738,7 +738,7 @@ data = {
         enterL2dAniName = 3120301
       },
       interaction_type = 12,
-      name = "安抚"
+      name = "Soothe"
     },
     [9203007] = {
       condition = 7,
@@ -749,7 +749,7 @@ data = {
         enterL2dAniName = 3120201
       },
       interaction_type = 13,
-      name = "舒缓"
+      name = "Relieve"
     },
     [9203008] = {
       associated_type = {12, 13},
@@ -789,7 +789,7 @@ data = {
         }
       },
       interaction_type = 14,
-      name = "疗愈",
+      name = "Heal",
       out_action = "PARAM_SM_ACTION_APPEAR",
       ur_library_detail = {
         21301,
@@ -1050,7 +1050,7 @@ data = {
         enterL2dAniName = 3060001
       },
       interaction_type = 5,
-      name = "贴近"
+      name = "Draw Close"
     },
     [9303003] = {
       condition = 2,
@@ -1140,7 +1140,7 @@ data = {
         enterL2dAniName = 3120201
       },
       interaction_type = 12,
-      name = "安抚"
+      name = "Soothe"
     },
     [9303007] = {
       condition = 7,
@@ -1151,7 +1151,7 @@ data = {
         enterL2dAniName = 3120301
       },
       interaction_type = 13,
-      name = "舒缓"
+      name = "Relieve"
     },
     [9303008] = {
       associated_type = {12, 13},
@@ -1192,7 +1192,7 @@ data = {
         }
       },
       interaction_type = 14,
-      name = "疗愈",
+      name = "Heal",
       out_action = "PARAM_SM_ACTION_APPEAR",
       ur_library_detail = {
         21301,
@@ -1462,7 +1462,7 @@ data = {
         enterL2dAniName = 3060001
       },
       interaction_type = 5,
-      name = "贴近"
+      name = "Draw Close"
     },
     [9403003] = {
       condition = 2,
@@ -1551,7 +1551,7 @@ data = {
         enterL2dAniName = 3120301
       },
       interaction_type = 12,
-      name = "安抚"
+      name = "Soothe"
     },
     [9403007] = {
       condition = 7,
@@ -1562,7 +1562,7 @@ data = {
         enterL2dAniName = 3120201
       },
       interaction_type = 13,
-      name = "舒缓"
+      name = "Relieve"
     },
     [9403008] = {
       associated_type = {12, 13},
@@ -1603,7 +1603,7 @@ data = {
         }
       },
       interaction_type = 14,
-      name = "疗愈",
+      name = "Heal",
       out_action = "PARAM_SM_ACTION_APPEAR",
       ur_library_detail = {
         21301,

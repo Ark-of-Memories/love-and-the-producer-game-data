@@ -463,6 +463,33 @@ data = {
     unlock_hide = 1,
     unlock_time = "2024/12/10 5:00:00"
   },
+  [1324] = {
+    click_event = "116",
+    deco_height = 350,
+    deco_offset_x = 28.16,
+    deco_offset_y = -14.62,
+    deco_width = 400,
+    decoration_audio = "sfx/UI_Click_Normal.wav",
+    decoration_feedback = "100 Days of Memories#1324#I want to share my feelings with the one I love—every single day.",
+    decoration_icon = "Journal/Icon/1324.png",
+    decoration_img = "Journal/Img/1324.png",
+    decoration_name = "100 Days of Memories",
+    decoration_order = 6,
+    decoration_position = 3,
+    decoration_type = 2,
+    default_x = 261,
+    default_y = 137.8,
+    male = 1,
+    unlock_condition = {
+      {
+        400602,
+        101,
+        1
+      }
+    },
+    unlock_desc = "100 Days of Memories Event Exclusive",
+    unlock_hide = 1
+  },
   [1400] = {
     decoration_empty = 1,
     decoration_icon = "Journal/Icon/empty.png",
@@ -743,6 +770,32 @@ data = {
     },
     unlock_desc = "Locked in Love Event Exclusive",
     unlock_time = "2025/2/7 5:00:00"
+  },
+  [1413] = {
+    deco_height = 229.05,
+    deco_offset_x = -15.5,
+    deco_offset_y = 21,
+    deco_width = 238.17,
+    decoration_audio = "sfx/UI_Click_Normal.wav",
+    decoration_feedback = "Sweet Archive #1413# May miracles and love accompany him on this long journey of life.",
+    decoration_icon = "Journal/Icon/1413.png",
+    decoration_img = "Journal/Img/1413.png",
+    decoration_name = "Sweet Archive",
+    decoration_order = 6,
+    decoration_position = 4,
+    decoration_type = 14,
+    default_x = 32,
+    default_y = 146,
+    male = 1,
+    unlock_condition = {
+      {
+        400726,
+        101,
+        1
+      }
+    },
+    unlock_desc = "Corner of Happiness Event Exclusive",
+    unlock_time = "2026/1/8 5:00:00"
   },
   [2100] = {
     decoration_empty = 1,
@@ -1232,6 +1285,33 @@ data = {
     unlock_hide = 1,
     unlock_time = "2024/12/10 5:00:00"
   },
+  [2324] = {
+    click_event = "116",
+    deco_height = 350,
+    deco_offset_x = 28.16,
+    deco_offset_y = -14.62,
+    deco_width = 400,
+    decoration_audio = "sfx/UI_Click_Normal.wav",
+    decoration_feedback = "100 Days of Memories#2324#I want to share my feelings with the one I love—every single day.",
+    decoration_icon = "Journal/Icon/2324.png",
+    decoration_img = "Journal/Img/2324.png",
+    decoration_name = "100 Days of Memories",
+    decoration_order = 6,
+    decoration_position = 3,
+    decoration_type = 2,
+    default_x = 261,
+    default_y = 137.8,
+    male = 2,
+    unlock_condition = {
+      {
+        400603,
+        101,
+        1
+      }
+    },
+    unlock_desc = "100 Days of Memories Event Exclusive",
+    unlock_hide = 1
+  },
   [2400] = {
     decoration_empty = 1,
     decoration_icon = "Journal/Icon/empty.png",
@@ -1465,6 +1545,30 @@ data = {
     },
     unlock_desc = "Locked in Love Event Exclusive",
     unlock_time = "2025/2/7 5:00:00"
+  },
+  [2411] = {
+    deco_height = 363.75,
+    deco_offset_x = 5,
+    deco_offset_y = -179.5,
+    deco_width = 722.58,
+    decoration_effect = "Journal/Prefab/Decoration/2411.prefab",
+    decoration_icon = "Journal/Icon/2411.png",
+    decoration_name = "Birthday Standee",
+    decoration_order = 6,
+    decoration_position = 4,
+    decoration_type = 12,
+    default_x = 450,
+    default_y = 418,
+    male = 2,
+    unlock_condition = {
+      {
+        400648,
+        101,
+        1
+      }
+    },
+    unlock_desc = "Golden Ratio Event Exclusive",
+    unlock_time = "2025/11/10 05:00:00"
   },
   [3100] = {
     decoration_empty = 1,
@@ -1954,6 +2058,33 @@ data = {
     },
     unlock_desc = "Hero's Song Event Exclusive",
     unlock_time = "2025/4/5 5:00:00"
+  },
+  [3323] = {
+    click_event = "116",
+    deco_height = 350,
+    deco_offset_x = 28.16,
+    deco_offset_y = -14.62,
+    deco_width = 400,
+    decoration_audio = "sfx/UI_Click_Normal.wav",
+    decoration_feedback = "100 Days of Memories#3323#I want to share my feelings with the one I love—every single day.",
+    decoration_icon = "Journal/Icon/3323.png",
+    decoration_img = "Journal/Img/3323.png",
+    decoration_name = "100 Days of Memories",
+    decoration_order = 6,
+    decoration_position = 3,
+    decoration_type = 2,
+    default_x = 261,
+    default_y = 137.8,
+    male = 3,
+    unlock_condition = {
+      {
+        400604,
+        101,
+        1
+      }
+    },
+    unlock_desc = "100 Days of Memories Event Exclusive",
+    unlock_hide = 1
   },
   [3400] = {
     decoration_empty = 1,
@@ -2677,6 +2808,33 @@ data = {
     unlock_desc = "100-Day Goals Event Exclusive",
     unlock_hide = 1,
     unlock_time = "2024/12/10 5:00:00"
+  },
+  [4323] = {
+    click_event = "116",
+    deco_height = 350,
+    deco_offset_x = 28.16,
+    deco_offset_y = -14.62,
+    deco_width = 400,
+    decoration_audio = "sfx/UI_Click_Normal.wav",
+    decoration_feedback = "100 Days of Memories#4323#I want to share my feelings with the one I love—every single day.",
+    decoration_icon = "Journal/Icon/4323.png",
+    decoration_img = "Journal/Img/4323.png",
+    decoration_name = "100 Days of Memories",
+    decoration_order = 6,
+    decoration_position = 3,
+    decoration_type = 2,
+    default_x = 261,
+    default_y = 137.8,
+    male = 4,
+    unlock_condition = {
+      {
+        400605,
+        101,
+        1
+      }
+    },
+    unlock_desc = "100 Days of Memories Event Exclusive",
+    unlock_hide = 1
   },
   [4400] = {
     decoration_empty = 1,
@@ -3424,6 +3582,33 @@ data = {
     unlock_desc = "100-Day Goals Event Exclusive",
     unlock_hide = 1,
     unlock_time = "2024/12/10 5:00:00"
+  },
+  [8323] = {
+    click_event = "116",
+    deco_height = 350,
+    deco_offset_x = 28.16,
+    deco_offset_y = -14.62,
+    deco_width = 400,
+    decoration_audio = "sfx/UI_Click_Normal.wav",
+    decoration_feedback = "100 Days of Memories#8323#I want to share my feelings with the one I love—every single day.",
+    decoration_icon = "Journal/Icon/8323.png",
+    decoration_img = "Journal/Img/8323.png",
+    decoration_name = "100 Days of Memories",
+    decoration_order = 6,
+    decoration_position = 3,
+    decoration_type = 2,
+    default_x = 261,
+    default_y = 137.8,
+    male = 8,
+    unlock_condition = {
+      {
+        400606,
+        101,
+        1
+      }
+    },
+    unlock_desc = "100 Days of Memories Event Exclusive",
+    unlock_hide = 1
   },
   [8400] = {
     decoration_empty = 1,

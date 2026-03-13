@@ -1457,5 +1457,143 @@ data = {
     random_weight = 2500,
     goods_id = "120003,101,5:119034,101,1",
     extra_name_type = 0
+  },
+  [336] = {
+    stone_id = 200050,
+    random_weight = 2500,
+    goods_id = "400057,104,1:119034,101,1",
+    extra_name_type = 0
+  },
+  [337] = {
+    stone_id = 200050,
+    random_weight = 2500,
+    goods_id = "0,41,150:119034,101,1",
+    extra_name_type = 0
+  },
+  [338] = {
+    stone_id = 200050,
+    random_weight = 2500,
+    goods_id = "0,1,20000:119034,101,1",
+    extra_name_type = 0
+  },
+  [339] = {
+    stone_id = 200050,
+    random_weight = 2500,
+    goods_id = "120003,101,5:119034,101,1",
+    extra_name_type = 0
+  },
+  [340] = {
+    stone_id = 200051,
+    random_weight = 2500,
+    goods_id = "400063,104,1:119034,101,1",
+    extra_name_type = 0
+  },
+  [341] = {
+    stone_id = 200051,
+    random_weight = 2500,
+    goods_id = "0,41,150:119034,101,1",
+    extra_name_type = 0
+  },
+  [342] = {
+    stone_id = 200051,
+    random_weight = 2500,
+    goods_id = "0,1,20000:119034,101,1",
+    extra_name_type = 0
+  },
+  [343] = {
+    stone_id = 200051,
+    random_weight = 2500,
+    goods_id = "120003,101,5:119034,101,1",
+    extra_name_type = 0
+  },
+  [344] = {
+    stone_id = 200052,
+    random_weight = 2500,
+    goods_id = "400064,104,1:119034,101,1",
+    extra_name_type = 0
+  },
+  [345] = {
+    stone_id = 200052,
+    random_weight = 2500,
+    goods_id = "0,41,150:119034,101,1",
+    extra_name_type = 0
+  },
+  [346] = {
+    stone_id = 200052,
+    random_weight = 2500,
+    goods_id = "0,1,20000:119034,101,1",
+    extra_name_type = 0
+  },
+  [347] = {
+    stone_id = 200052,
+    random_weight = 2500,
+    goods_id = "120003,101,5:119034,101,1",
+    extra_name_type = 0
+  },
+  [390] = {
+    stone_id = 200059,
+    random_weight = 3000,
+    goods_id = "0,41,10:111190,101,1",
+    extra_name_type = 0
+  },
+  [391] = {
+    stone_id = 200059,
+    random_weight = 1500,
+    goods_id = "0,1,1000:111190,101,1",
+    extra_name_type = 0
+  },
+  [392] = {
+    stone_id = 200059,
+    random_weight = 1500,
+    goods_id = "120002,101,1:111190,101,1",
+    extra_name_type = 0
+  },
+  [393] = {
+    stone_id = 200059,
+    random_weight = 375,
+    goods_id = "131001,101,1:111190,101,1",
+    extra_name_type = 0
+  },
+  [394] = {
+    stone_id = 200059,
+    random_weight = 375,
+    goods_id = "132001,101,1:111190,101,1",
+    extra_name_type = 0
+  },
+  [395] = {
+    stone_id = 200059,
+    random_weight = 375,
+    goods_id = "133001,101,1:111190,101,1",
+    extra_name_type = 0
+  },
+  [396] = {
+    stone_id = 200059,
+    random_weight = 375,
+    goods_id = "134001,101,1:111190,101,1",
+    extra_name_type = 0
+  },
+  [397] = {
+    stone_id = 200059,
+    random_weight = 1000,
+    goods_id = "100053,101,10:111190,101,1",
+    extra_name_type = 0
+  },
+  [398] = {
+    stone_id = 200059,
+    random_weight = 1050,
+    goods_id = "100062,101,1:111190,101,1",
+    extra_name_type = 0
+  },
+  [399] = {
+    stone_id = 200059,
+    random_weight = 200,
+    goods_id = "100061,101,1:111190,101,1",
+    extra_name_type = 0
+  },
+  [400] = {
+    stone_id = 200059,
+    random_weight = 250,
+    goods_id = "400080,104,1:111190,101,1",
+    extra_name_type = 0
   }
 }

@@ -650,7 +650,7 @@ data = {
   },
   [82] = {
     item_id = "weeklygift.5d.5.99.2",
-    google_item_id = "weeklygift.5d.5.99.1",
+    google_item_id = "weeklygift.5d.5.99.2",
     name = "五日礼",
     desc = "每周特别礼遇",
     unit_name = "个",

@@ -2992,7 +2992,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "在夏日的高温席卷恋语市前，由市政厅和Infinite联合举办的恋语市数字科技峰会正式开幕了。 ",
+      sentence = "Before the summer heat could fully descend upon Loveland City, the Digital Tech Summit co-hosted by the City Council and Infinite officially opened its virtual gates.",
       next = {2}
     },
     [2] = {
@@ -3000,7 +3000,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "这次的峰会，大概是恋语市史上第一个在虚拟现实中举行的线上峰会。",
+      sentence = "This was, by all accounts, the city's very first summit held entirely within a virtual reality space.",
       next = {3}
     },
     [3] = {
@@ -3009,7 +3009,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "演讲台在最中间，观众席呈环形四面环绕上升，讲台与观众席间还有悬浮的全息屏。",
+      sentence = "The stage floated in the center, surrounded by rising, amphitheater-style seats, and between the speakers and the audience hovered massive holographic displays.",
       next = {4}
     },
     [4] = {
@@ -3017,7 +3017,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "放眼望去，千人会场座无虚席。讲台之上，Aether用沉稳的声音讲述着关于数字科技和虚拟现实应用的前景。",
+      sentence = "From every angle, the thousand-seat arena was packed to capacity. On the central platform, Aether's voice resonated calmly and assuredly as he spoke about the evolving frontiers of digital tech and virtual reality.",
       next = {5}
     },
     [5] = {
@@ -3027,7 +3027,7 @@ story201 = {
       music = "10_Happy_Family",
       renming = "Aether",
       renwu = "npc",
-      sentence = "Infinite的科技力将在医疗、教育、文化等各方面带领社会进入到新的高度。",
+      sentence = "Infinite's tech will push society to a whole new level, whether it's healthcare, education, or culture.",
       next = {6}
     },
     [6] = {
@@ -3037,7 +3037,7 @@ story201 = {
       music = "10_Happy_Family",
       renming = "Aether",
       renwu = "npc",
-      sentence = "《奥德赛》就是我们对虚拟现实呈现的一个最大挑战。",
+      sentence = "Odyssey is our boldest shot yet at what virtual reality can become.",
       next = {7}
     },
     [7] = {
@@ -3047,7 +3047,7 @@ story201 = {
       music = "10_Happy_Family",
       renming = "Aether",
       renwu = "npc",
-      sentence = "在未来，它或许不会是领域中的天花板，但一定是重要的起点。我们也正在挑战不同的技术更新…… ",
+      sentence = "One day, the milestone it has set will be surpassed, but we will always remember that this was where the real journey began. At the same time, we're constantly challenging new heights...",
       next = {8}
     },
     [8] = {
@@ -3055,7 +3055,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "随着他的声音，奥德赛中的一些场景与物件时不时出现在听众之间。",
+      sentence = "As he spoke, holograms from Odyssey flickered to life among the crowd—settings, objects, fragments of story. They appeared so vividly, it was easy to forget they weren't real.",
       next = {9}
     },
     [9] = {
@@ -3063,7 +3063,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "逼真的表现形式让不少人眼睛一亮，耳畔传来其他与会企业家的低声讨论。",
+      sentence = "Below the stage, whispers spread like wildfire—low murmurs of excitement, skepticism, and awe.",
       next = {10}
     },
     [10] = {
@@ -3071,9 +3071,9 @@ story201 = {
       dialog = 2,
       idx = 5,
       music = "10_Happy_Family",
-      renming = "？？",
+      renming = "??",
       renwu = "npc",
-      sentence = "的确不错，目前市面上找不到能有这样技术力和研发水平的科技公司了。 ",
+      sentence = "Not gonna lie, this is seriously next-level. I don't think any other tech company out there can match this.",
       next = {11}
     },
     [11] = {
@@ -3081,9 +3081,9 @@ story201 = {
       dialog = 2,
       idx = 5,
       music = "10_Happy_Family",
-      renming = "？？",
+      renming = "??",
       renwu = "npc",
-      sentence = "只是不知道开发成本……",
+      sentence = "Yeah, but... what about the development costs?",
       next = {12}
     },
     [12] = {
@@ -3091,7 +3091,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "将这些只言片语收入耳中，我戳了戳在我身边“飞来飞去”的Q版小黑天鹅。",
+      sentence = "As the chatters reached my ears, I nudged the little black swan fluttering beside me.",
       next = {13}
     },
     [13] = {
@@ -3099,7 +3099,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "小黑天鹅转了个圈，弹出了一个折线图，呈现了Infinite最近几年来的科技产品在恋语市的覆盖占比趋势。 ",
+      sentence = "With a playful spin, it popped up a chart—a zigzagging line graph tracking Infinite's expanding reach in Loveland City over the years.",
       next = {14}
     },
     [14] = {
@@ -3107,7 +3107,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "代表Infinite的那条黑色折线直冲云霄，甩开了同行科技公司一个遥不可及的天壑。 ",
+      sentence = "The black line of Infinite's growth shot upward like a rocket, leaving its competitors trailing hopelessly behind.",
       next = {15}
     },
     [15] = {
@@ -3115,7 +3115,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "看着如此直观的图像，我的思绪顺着回忆飞远——",
+      sentence = "Gazing at that stark visual, my thoughts drifted, swept away on a current of memory.",
       next = {16}
     },
     [16] = {
@@ -3123,7 +3123,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "从Golden Apple2的茧舱面世，到《奥德赛》的正式上线，Infinite的技术发展一骑绝尘。",
+      sentence = "From the launch of the Golden Apple 2 pod to Odyssey's debut, the story of Infinite was truly nothing short of a miracle.",
       next = {17}
     },
     [17] = {
@@ -3131,7 +3131,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "甚至让其他公司不惜雇佣“保护盾”来夺取。",
+      sentence = "So much so that rival companies could only resort to sabotage and espionage in the futile hopes of deterring Infinite's meteoric rise.",
       next = {18}
     },
     [18] = {
@@ -3139,7 +3139,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "我知道他们的野心从来都不仅仅是一个风靡全球的游戏，而是更广阔、更重要的领域。",
+      sentence = "But I knew Infinite's ambition went well beyond just about making a globally successful game. They were aiming at something far bigger. Something that could reshape entire industries.",
       next = {19}
     },
     [19] = {
@@ -3147,7 +3147,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "等有关领域的代表人员都发言结束后，主持人当场宣布——",
+      sentence = "When the last of the representatives finished speaking, the host stepped up and announced with enthusiasm.",
       next = {20}
     },
     [20] = {
@@ -3155,9 +3155,9 @@ story201 = {
       dialog = 2,
       idx = 5,
       music = "10_Happy_Family",
-      renming = "主持人",
+      renming = "Host",
       renwu = "npc",
-      sentence = "本次峰会中，我们将推出《奥德赛》最新玩法“狂欢夜”的内测。",
+      sentence = "Today, we're launching the closed beta for Odyssey's newest mode—Carnival Night!",
       next = {21}
     },
     [21] = {
@@ -3165,9 +3165,9 @@ story201 = {
       dialog = 2,
       idx = 5,
       music = "10_Happy_Family",
-      renming = "主持人",
+      renming = "Host",
       renwu = "npc",
-      sentence = "“狂欢夜”是由当下风靡全球的桌游“人狼杀”为原型创作的实景游戏，欢迎各位与会人员参与。",
+      sentence = "It's a live-action experience inspired by the hit tabletop game Werewolf. Everyone here is welcome to jump in and experience it for themselves.",
       next = {22}
     },
     [22] = {
@@ -3175,9 +3175,9 @@ story201 = {
       dialog = 2,
       idx = 5,
       music = "10_Happy_Family",
-      renming = "主持人",
+      renming = "Host",
       renwu = "npc",
-      sentence = "为了扩大宣传，本次内测的各场游戏都会以直播的方式，在合作平台的网站上呈现给玩家们。 ",
+      sentence = "As part of the promotion event, all the matches in this beta will be livestreamed through our partnered platforms.",
       next = {23}
     },
     [23] = {
@@ -3185,9 +3185,9 @@ story201 = {
       dialog = 2,
       idx = 5,
       music = "10_Happy_Family",
-      renming = "主持人",
+      renming = "Host",
       renwu = "npc",
-      sentence = "具体的直播规则与游戏介绍，各位可以在游戏大厅里查看。",
+      sentence = "You'll find the streaming rules and game details in the lobby.",
       next = {24}
     },
     [24] = {
@@ -3195,9 +3195,9 @@ story201 = {
       dialog = 2,
       idx = 5,
       music = "10_Happy_Family",
-      renming = "主持人",
+      renming = "Host",
       renwu = "npc",
-      sentence = "想要参与内测的嘉宾们，可以点击面板上的“狂欢夜”按钮。祝各位体验愉快。",
+      sentence = "To join, just tap the Carnival Night button on your personal interface. Have fun out there!",
       next = {25}
     },
     [25] = {
@@ -3205,7 +3205,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "主持人下场后，峰会的宣讲算是正式结束了。我松了一口气，看向身边带来的剪辑专家赵坚强。",
+      sentence = "With that, the presentation wrapped. I exhaled, relieved, and glanced at Willstrong—the office's expert video editor.",
       next = {26}
     },
     [26] = {
@@ -3215,7 +3215,7 @@ story201 = {
       music = "10_Happy_Family",
       renming = "$u",
       renwu = "npc",
-      sentence = "你对这个内测感兴趣吗？要不要一起去试一试？ ",
+      sentence = "What do you think? Wanna try the beta with me?",
       next = {27}
     },
     [27] = {
@@ -3223,10 +3223,10 @@ story201 = {
       dialog = 2,
       idx = 5,
       music = "10_Happy_Family",
-      renming = "赵坚强",
+      renming = "Willstrong",
       renwu = "npc",
       role1 = 610460,
-      sentence = "呃，都可以，听老板的。",
+      sentence = "Sure. Whatever you say, boss.",
       next = {28}
     },
     [28] = {
@@ -3234,7 +3234,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "身边已经有人陆续从会场“消失”，传送到了下一个区域，我也调出面板，按下了“狂欢夜”的按钮。",
+      sentence = "Players around us began vanishing one by one, transported to the next area. I pulled up my interface and hit the Carnival Night button.",
       next = {29}
     },
     [29] = {
@@ -3243,7 +3243,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "面前的会场逐渐从视野中淡去，变成了一个像舞会大厅的地方。",
+      sentence = "The summit venue dissolved like mist, and in its place rose a grand ballroom, ornate and glowing with golden light.",
       next = {30}
     },
     [30] = {
@@ -3251,7 +3251,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "华彩的玻璃灯盏高高地挂在天花板上，大厅站满了要来参与“狂欢夜”的玩家，大家三两交流着。",
+      sentence = "Crystal chandeliers sparkled overhead. The space was alive with people—players chatting in small clusters, waiting to dive into the game.",
       next = {31}
     },
     [31] = {
@@ -3259,7 +3259,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "这时，游戏内的信箱弹出了一条消息——",
+      sentence = "Just then, my in-game inbox chimed.",
       sfx = "Dia_Phone_MessageRecieve",
       next = {32}
     },
@@ -3268,7 +3268,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "我点开一看，发现发信人ID是“C++”。",
+      sentence = "The sender was someone going by the ID C++.",
       next = {33}
     },
     [33] = {
@@ -3276,11 +3276,11 @@ story201 = {
       dialog = 2,
       idx = 3,
       music = "10_Happy_Family",
-      renming = "周棋洛",
+      renming = "Kiro",
       renwu = "npc",
       role1 = 501000,
       role2 = 501030,
-      sentence = "报告老板，我已经顺利进入“狂欢夜”啦！我选了《恒心疗养院》这个副本，一定可以拿下胜利。",
+      sentence = "Hey, Miss Chips! I made it into Carnival Night! I picked the map called Perseverance Sanatorium scenario. I'm gonna win it for sure!",
       next = {34}
     },
     [34] = {
@@ -3288,7 +3288,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "看到消息最后那个必胜小熊的表情包，我不禁莞尔，想了想，给他回复了一个“加油”的小兔子表情。",
+      sentence = "At the end of the message was a little victory bear emoji. I chuckled and sent back a cheering bunny in return.",
       next = {35}
     },
     [35] = {
@@ -3301,7 +3301,7 @@ story201 = {
       role3 = 102201,
       role5 = 1167401,
       ruchang = -1,
-      sentence = "我四下观望了一圈，发现了不少刚才参加峰会的人。蓦地，一个熟悉的背影落入视线。 ",
+      sentence = "I glanced around the ballroom. Familiar faces from the summit dotted the crowd. Then, suddenly, a silhouette I knew well came into view.",
       next = {36}
     },
     [36] = {
@@ -3315,7 +3315,7 @@ story201 = {
       role2 = 102102,
       role3 = 102201,
       role5 = 1167401,
-      sentence = "李泽言！",
+      sentence = "Victor!",
       next = {37}
     },
     [37] = {
@@ -3329,7 +3329,7 @@ story201 = {
       role2 = 102102,
       role3 = 102201,
       role5 = 1167401,
-      sentence = "如果没有相关游戏经验的话，建议选择《曙光家园》这个副本，游戏人数较少。",
+      sentence = "Suppose you're new to this kind of social deduction game. I'd suggest starting with Dawn Haven. Fewer players, easier to learn.",
       next = {38}
     },
     [38] = {
@@ -3343,7 +3343,7 @@ story201 = {
       role3 = 102201,
       role5 = 1167401,
       ruchang = 9,
-      sentence = "只见李泽言正听Aether讲解着副本内容，时不时接几句话。",
+      sentence = "Victor was listening as Aether explained the mechanics. He replied now and then, cool and composed as always.",
       next = {39}
     },
     [39] = {
@@ -3351,7 +3351,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "我眨了眨眼，没有上前打扰，在这个大厅里逛了逛——",
+      sentence = "I blinked, then decided not to interrupt. Instead, I wandered around, letting the moment linger.",
       next = {40}
     },
     [40] = {
@@ -3359,7 +3359,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "逐渐，登录到大厅的玩家越来越多，我决定避开人流，去服务台附近看看有没有关于副本的信息。",
+      sentence = "More players were logging in by the second. The room was growing crowded. I made my way toward the information desk, hoping to find more details about the available maps I could pick up.",
       next = {41}
     },
     [41] = {
@@ -3372,7 +3372,7 @@ story201 = {
       role3 = 402206,
       role5 = 4143403,
       ruchang = -1,
-      sentence = "没等我走出几步，我就遥遥望见一个挺拔的身影也走到了服务台，拿起其中一本介绍册。",
+      sentence = "Before I'd taken more than a few steps, I spotted someone already there, tall, composed, and flipping through one of the brochures.",
       next = {42}
     },
     [42] = {
@@ -3387,7 +3387,7 @@ story201 = {
       role2 = 402110,
       role3 = 402206,
       role5 = 4143403,
-      sentence = "白起？",
+      sentence = "Gavin?",
       next = {43}
     },
     [43] = {
@@ -3399,7 +3399,7 @@ story201 = {
       role2 = 402110,
       role3 = 402205,
       role5 = 4143403,
-      sentence = "他也看到了我，眼睛一亮正准备开口，却忽然被一个匆忙赶到的人拦下。我之前在游戏里见过那个人物形象，好像是顾征。 ",
+      sentence = "He looked up, caught my gaze, and his eyes lit up like he was about to say something. But before he could, someone stepped in between us. I recognized the avatar—it was Eli.",
       next = {44}
     },
     [44] = {
@@ -3412,7 +3412,7 @@ story201 = {
       role3 = 402202,
       role5 = 4143403,
       ruchang = 9,
-      sentence = "不知道他们说了什么，只见白起无奈地冲我眨眨眼后，和顾征一起转身离开。",
+      sentence = "Whatever he said to Gavin, I couldn't hear. But Gavin gave me a resigned look and then followed Eli out of sight.",
       next = {45}
     },
     [45] = {
@@ -3420,7 +3420,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "我来到服务台边，看向他刚才拿起的那一摞宣传手册——",
+      sentence = "I walked up to the desk, curious about the stack of brochures Gavin had just picked up—",
       next = {46}
     },
     [46] = {
@@ -3430,7 +3430,7 @@ story201 = {
       music = "10_Happy_Family",
       renming = "$u",
       renwu = "npc",
-      sentence = "《吉祥村》……？他对这个副本感兴趣？",
+      sentence = "Silent Ville? Is this the map he's going to join?",
       next = {47}
     },
     [47] = {
@@ -3438,7 +3438,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "我收好这本手册，又拿了其余的几本，打算都研究一下。服务台的工作人员微笑着向我递来一张表格。",
+      sentence = "I tucked the brochure away and picked up a few more, planning to go over each one later. Just as I turned, the staff behind the desk handed me a form with a friendly smile.",
       next = {48}
     },
     [48] = {
@@ -3446,9 +3446,9 @@ story201 = {
       dialog = 2,
       idx = 5,
       music = "10_Happy_Family",
-      renming = "工作人员",
+      renming = "Staff",
       renwu = "npc",
-      sentence = "您好，游戏内部在做一个兴趣度统计，可以麻烦您在登记表里感兴趣的项目下方签个字吗？ ",
+      sentence = "Hey there! We're doing a little interest survey for the in-game content. Would you mind signing under the map that catches your eye?",
       next = {49}
     },
     [49] = {
@@ -3458,7 +3458,7 @@ story201 = {
       music = "10_Happy_Family",
       renming = "$u",
       renwu = "npc",
-      sentence = "好。",
+      sentence = "Sure.",
       next = {50}
     },
     [50] = {
@@ -3466,7 +3466,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "我在其中几个下面签好了字，登记到最后一个《临海独墅》时，看到一个熟悉的笔迹署名——许墨。",
+      sentence = "I signed under several maps. But when I reached the last one named Seaside Villa, my eyes caught on a familiar signature: Lucien.",
       next = {51}
     },
     [51] = {
@@ -3474,7 +3474,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "他前天给我发消息，说Infinite给游戏内成就排行榜前三名的玩家发了内测邀请函。",
+      sentence = "He'd messaged me just two days ago, mentioning that Infinite had sent beta invitations to the top three players on the achievement leaderboard.",
       next = {52}
     },
     [52] = {
@@ -3482,7 +3482,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "我打量了一下人群，却没有看到他。 ",
+      sentence = "I scanned the crowd instinctively, but his figure was nowhere to be seen.",
       next = {53}
     },
     [53] = {
@@ -3492,7 +3492,7 @@ story201 = {
       music = "10_Happy_Family",
       renming = "$u",
       renwu = "npc",
-      sentence = "是已经进游戏了吗？",
+      sentence = "Guess he's already in-game...",
       next = {54}
     },
     [54] = {
@@ -3500,7 +3500,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "这么想着，我也打算研究一下刚拿到的这几本手册——",
+      sentence = "Still mulling over that thought, I turned my attention back to the stack of brochures I'd picked up. Time to dive into these and see what each map offered.",
       next = {55}
     },
     [55] = {
@@ -3508,7 +3508,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "看看哪本呢？",
+      sentence = "Which one should I take a look first?",
       next = {
         1001,
         1002,
@@ -3522,7 +3522,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "看完了副本简介后，我又翻看到介绍册最后的共通游戏规则—— ",
+      sentence = "After reading through, I flipped to the final pages of the booklet, where the general rules were neatly listed.",
       next = {57}
     },
     [57] = {
@@ -3530,45 +3530,45 @@ story201 = {
       bganim = 0,
       dialog = 6,
       music = "10_Happy_Family",
-      renming = "介绍",
+      renming = "Overview",
       renwu = "npc",
-      sentence = "本次共开放8个游戏副本，玩家可选择自己感兴趣的副本点击进入。",
+      sentence = "Choose freely from eight available maps via the lobby menu. Each scenario offers a unique experience. Pick your challenge and dive in.",
       next = {58}
     },
     [58] = {
       beijing = 0,
       dialog = 6,
       music = "10_Happy_Family",
-      renming = "介绍",
+      renming = "Overview",
       renwu = "npc",
-      sentence = "所有副本中，所有人必须在23:30前回到自己房间并关门，狼人与神职请在系统规定时间内出门。",
+      sentence = "All players must return to their rooms and close their doors by 11:30 PM. After curfew, special roles and Werewolves will take action in assigned time windows. Each role can only act during its designated window. Plan accordingly.",
       next = {59}
     },
     [59] = {
       beijing = 0,
       dialog = 6,
       music = "10_Happy_Family",
-      renming = "介绍",
+      renming = "Overview",
       renwu = "npc",
-      sentence = "行动时间如下：\n\n23:30-23:59-守卫\n\n0:00-0:29-狼人\n\n0:30-0:59-预言家\n\n1:00-1:29-女巫\n\n1:30-1:59-猎人",
+      sentence = "Action Schedule:\n\n23:30–23:59—Watcher\n\n00:00–00:29—Werewolves\n\n00:30–00:59—Seer\n\n01:00–01:29—Witch\n\n01:30–01:59—Hunter",
       next = {60}
     },
     [60] = {
       beijing = 0,
       dialog = 6,
       music = "10_Happy_Family",
-      renming = "介绍",
+      renming = "Overview",
       renwu = "npc",
-      sentence = "狼人获胜的条件为场上好人阵营数量为0，村民与神职的获胜条件为场上狼人（包括隐狼）数量为0。",
+      sentence = "Werewolves win when all human players are eliminated. Humans and special roles win when all Werewolves, including Hidden Werewolves, are eliminated. Special roles' abilities are as followed: The Watcher can choose one player to protect each night, but they can't protect the same person two nights in a row. The Seer can look at one player each night to find out if they are good or bad. The Witch has two potions: one to save a player and one to eliminate a player. The Hunter, if eliminated, can shoot one suspect before leaving the game.",
       next = {61}
     },
     [61] = {
       beijing = 0,
       dialog = 6,
       music = "10_Happy_Family",
-      renming = "介绍",
+      renming = "Overview",
       renwu = "npc",
-      sentence = "另，各副本会在指定区域设有直播摄像机，进入直播区域时，用户面板上会有提示，敬请留意。",
+      sentence = "Certain areas are under livestream coverage. When you enter a streaming zone, a prompt will appear on your interface. Please be mindful.",
       next = {62}
     },
     [62] = {
@@ -3579,7 +3579,7 @@ story201 = {
       music = "10_Happy_Family",
       renming = "$u",
       renwu = "npc",
-      sentence = "介绍还挺通俗易懂的……",
+      sentence = "The rules are long, but it sounds simple...",
       next = {63}
     },
     [63] = {
@@ -3587,7 +3587,7 @@ story201 = {
       dialog = 3,
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "合上介绍册，我点开了选择界面，看着面前的几个风格迥异的副本，有些犯难——",
+      sentence = "I closed the booklet and brought up the map selection menu. Each world looked tempting in its own right.",
       next = {64}
     },
     [64] = {
@@ -3597,7 +3597,7 @@ story201 = {
       music = "10_Happy_Family",
       renming = "$u",
       renwu = "npc",
-      sentence = "要选哪个呢？",
+      sentence = "Ugh... which one do I go with?",
       next = {0}
     },
     [1001] = {
@@ -3607,8 +3607,8 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "“恒心疗养院”在风景优美的市郊，山清水秀，风景优美，是疗养身体的最佳场所。",
-      title = "恒心疗养院",
+      sentence = "Perseverance Sanatorium is a tranquil retreat nestled in the green outskirts of the city, with rolling hills, flowing streams, and picture-perfect scenery.",
+      title = "Perseverance Sanatorium",
       next = {100101}
     },
     [1002] = {
@@ -3618,8 +3618,8 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "群山间落座着一个被邪祟笼罩的神秘村庄——“吉祥村”，传闻这里有一个神秘的矿洞……",
-      title = "吉祥村",
+      sentence = "But behind its calm exterior lurks a secret no one knows.",
+      title = "Silent Ville",
       next = {100201}
     },
     [1003] = {
@@ -3629,8 +3629,8 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "在千禧年这样繁荣而充满希望的时代，一个名为“曙光家园”的住宅小区，却从三个月前起就接连发生怪事…… ",
-      title = "曙光家园",
+      sentence = "Players assume the roles of those living in the sanatorium, uncovering clues while seeking out the Werewolves hiding in plain sight.",
+      title = "Dawn Haven",
       next = {100301}
     },
     [1004] = {
@@ -3640,8 +3640,8 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "被蔚蓝的大海包围的海岛上，一座毫不掩饰不菲设计的临海独墅拔地而起。",
-      title = "临海独墅",
+      sentence = "This is a 13-player map. The roles include: Witch, Seer, Gravekeeper, Hidden Werewolf, Outsider, 4 Civilians, and 4 Werewolves.",
+      title = "Seaside Villa",
       next = {100401}
     },
     [100101] = {
@@ -3650,7 +3650,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "而这个祥和而舒适的疗养院，藏着一个无人知晓的秘密。",
+      sentence = "Silent Ville is a place shrouded in ominous mist. They say a cursed mine lies deep within its mountains, and thrill-seeking backpackers have been venturing there in hopes of treasure.",
       next = {100102}
     },
     [100102] = {
@@ -3659,7 +3659,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "玩家将扮演生活在疗养院内的人们，探索疗养院的同时，找到在暗夜出没的狼人。",
+      sentence = "However, an ancient curse plagues this land. When night falls, those unprotected from it will be consumed by darkness.",
       next = {100103}
     },
     [100103] = {
@@ -3668,7 +3668,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "本副本为13人本，角色配置：女巫、预言家、守墓人、隐狼、外来者各1名，村民4名，狼人4名。",
+      sentence = "Players will play either the role of a backpacker or a village resident. The goal is to find the Werewolves that wield the power of the curse.",
       next = {56}
     },
     [100201] = {
@@ -3677,7 +3677,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "背包客们为了探宝，结队来到这里。而到了晚上，邪祟将会悄然降临，给没有庇佑的人施加诅咒。",
+      sentence = "This is a 13-player map. The roles include: Watcher, Seer, Hunter, Hidden Werewolf, 4 Civilians, 2 Outsiders, and 3 Werewolves.",
       next = {100202}
     },
     [100202] = {
@@ -3686,7 +3686,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "玩家将扮演造访的背包客以及生活在村落里的人，找到在夜晚让诅咒降临的狼人。",
+      sentence = "It's the year 2000, a time of hope and growth. Yet in this quiet residential complex named Dawn Haven, strange things have been happening for the past three months.",
       next = {100203}
     },
     [100203] = {
@@ -3695,7 +3695,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "本副本为13人本，角色配置：守卫、预言家、猎人、隐狼各1名，村民 4名，外来者2名，狼人3名。",
+      sentence = "Some residents have packed up and left, while those who remain wear masks of normalcy, hiding personal agendas beneath the surface.",
       next = {56}
     },
     [100301] = {
@@ -3704,7 +3704,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "不少居民选择搬离此地，剩下的居民们维持着看似平静的生活，私下却为了各自的目的而奔走。",
+      sentence = "Players take on the roles of these residents, trying to root out the Werewolves stirring unrest beneath their very floors.",
       next = {100302}
     },
     [100302] = {
@@ -3713,7 +3713,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "玩家将扮演生活在“曙光家园”住宅楼的居民，找到在暗夜兴风作浪的狼人。",
+      sentence = "This is an 11-player map. The roles include: Witch, Watcher, Seer, Gravekeeper, Hidden Werewolf, 3 Werewolves, and 3 Civilians.",
       next = {100303}
     },
     [100303] = {
@@ -3722,7 +3722,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "本副本为11人本，角色配置：女巫、守卫、预言家、守墓人、隐狼各1名，狼人3名，村民3名。",
+      sentence = "A luxury mansion rises from a private island, its opulence wrapped in the azure arms of the ocean.",
       next = {56}
     },
     [100401] = {
@@ -3731,7 +3731,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "一群来自世界各地的人们被豪宅的主人邀请到海岛上作客，殊不知危险在暗中悄然降临……",
+      sentence = "Guests from all corners of the globe have been invited by the mansion's mysterious host. However, none of them suspect the danger quietly approaching beneath this dreamlike setting...",
       next = {100402}
     },
     [100402] = {
@@ -3740,7 +3740,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "玩家将扮演来到“临海独墅”的客人，找到在这座封闭的海岛上制造杀戮的狼人。",
+      sentence = "Players play as these unsuspecting guests. Somewhere among them, the Werewolves are already moving.",
       next = {100403}
     },
     [100403] = {
@@ -3749,7 +3749,7 @@ story201 = {
       mask = "blackmask",
       music = "10_Happy_Family",
       renwu = "npc",
-      sentence = "本副本为13人本，角色配置：猎人、守卫、预言家、守墓人、隐狼各1名，外来者2名，狼人3名，村民3名。",
+      sentence = "This is a 13-player map. The roles include: Hunter, Watcher, Seer, Gravekeeper, Hidden Werewolf, 2 Outsiders, 3 Werewolves, and 3 Civilians.",
       next = {56}
     }
   },
@@ -8800,6 +8800,573 @@ story201 = {
       next = {0}
     }
   },
+  [441333] = {
+    [1] = {
+      beijing = 3400,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "In the morning haze, the clouds hung lower than usual, weighing on the world like a suffocating blanket.",
+      next = {2}
+    },
+    [2] = {
+      beijing = 3400,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "But the reindeer seemed to care less about it, as they lounged or rested, munching on their feed.",
+      next = {3}
+    },
+    [3] = {
+      beijing = 3400,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "Like the most ordinary couple of the tribe, Gavin and I spent the past few days leading the herd out at daybreak and returning hand-in-hand in the gentle chime of the deer bells.",
+      next = {4}
+    },
+    [4] = {
+      beijing = 3400,
+      dialog = 3,
+      music = "30_WarmSnow",
+      renwu = "npc",
+      sentence = "We were patrolling in the herd as usual when an engine sound disturbed the peace. Hansen slammed the brakes and skidded to a stop in front of us.",
+      sfx = "Dia_Brake",
+      next = {5}
+    },
+    [5] = {
+      beijing = 3400,
+      dialog = 2,
+      idx = 5,
+      music = "30_WarmSnow",
+      renming = "Hansen",
+      renwu = "npc",
+      sentence = "$u, Gav, I just got word that a blizzard is coming tonight.",
+      next = {6}
+    },
+    [6] = {
+      beijing = 3400,
+      dialog = 2,
+      idx = 5,
+      music = "30_WarmSnow",
+      renming = "Hansen",
+      renwu = "npc",
+      sentence = "We're going back early today, just to be safe.",
+      next = {7}
+    },
+    [7] = {
+      beijing = 3400,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "30_WarmSnow",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 465000,
+      role2 = 403110,
+      role3 = 403207,
+      role5 = 465401,
+      ruchang = -1,
+      sentence = "Okay. We'll come find you when we're ready.",
+      voice = 2,
+      next = {8}
+    },
+    [8] = {
+      beijing = 3400,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "Hansen left in haste. After gathering the reindeer as usual, we counted the herd a few times and confirmed that the wild alpha deer was missing.",
+      next = {9}
+    },
+    [9] = {
+      beijing = 3400,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      role1 = 465000,
+      role2 = 403110,
+      role3 = 403203,
+      role5 = 465401,
+      sentence = "Gavin thought for a moment before making the decision.",
+      next = {10}
+    },
+    [10] = {
+      beijing = 3400,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 465000,
+      role2 = 403111,
+      role3 = 403203,
+      role5 = 465401,
+      sentence = "Hansen will herd the reindeer back. I'll go find the missing deer before it's too late.",
+      voice = 2,
+      next = {11}
+    },
+    [11] = {
+      beijing = 3400,
+      dhead = 101,
+      dialog = 1,
+      music = "23_Lonely",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 465000,
+      role2 = 403111,
+      role3 = 403201,
+      role5 = 465401,
+      sentence = "I'll go with you!",
+      next = {12}
+    },
+    [12] = {
+      beijing = 3400,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      role1 = 465000,
+      role2 = 403111,
+      role3 = 403203,
+      role5 = 465401,
+      sentence = "Gavin seemed stunned, but before he could say no, I already took his hand in mine and hastened forward a few steps.",
+      next = {13}
+    },
+    [13] = {
+      beijing = 3400,
+      dhead = 107,
+      dialog = 1,
+      music = "23_Lonely",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 465000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 465401,
+      sentence = "I'm not staying in the tent, enjoying the blizzard alone.",
+      next = {14}
+    },
+    [14] = {
+      beijing = 3400,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 465000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 465401,
+      ruchang = 9,
+      sentence = "Alright. Let's go look for him.",
+      voice = 2,
+      next = {15}
+    },
+    [15] = {
+      beijing = 3400,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "Tightening his hand around mine, Gavin closed our distance and walked shoulder to shoulder with me toward Hansen, who was herding the deer back.",
+      next = {16}
+    },
+    [16] = {
+      beijing = 3400,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "After explaining our plan to him, he looked up at the sky, took out a small package from his backpack, and handed it to us.",
+      next = {17}
+    },
+    [17] = {
+      beijing = 3400,
+      dialog = 2,
+      idx = 5,
+      music = "23_Lonely",
+      renming = "Hansen",
+      renwu = "npc",
+      sentence = "Take the emergency kit just in case.",
+      next = {18}
+    },
+    [18] = {
+      beijing = 3400,
+      dialog = 2,
+      idx = 5,
+      music = "23_Lonely",
+      renming = "Hansen",
+      renwu = "npc",
+      sentence = "It's still early. Focus on the places you've been lately. Don't risk going any further.",
+      next = {19}
+    },
+    [19] = {
+      beijing = 3400,
+      dialog = 2,
+      idx = 5,
+      music = "23_Lonely",
+      renming = "Hansen",
+      renwu = "npc",
+      sentence = "Head back if you don't find him. Safety first!",
+      next = {20}
+    },
+    [20] = {
+      beijing = 3800,
+      bganim = 0,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "Holding me in his arms, Gavin skimmed just above the trees, the wind brushing snow off the branches and leaving a trail of glistening frost in our path.",
+      next = {21}
+    },
+    [21] = {
+      beijing = 3800,
+      dhead = 112,
+      dialog = 1,
+      music = "23_Lonely",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "I remember he loves the shrubs here and often sneaks up for a treat...",
+      next = {22}
+    },
+    [22] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "Hearing that, Gavin flew straight to a thicket of low shrubs and picked up a broken leaf to study.",
+      next = {23}
+    },
+    [23] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402110,
+      role3 = 402206,
+      role5 = 466401,
+      ruchang = -1,
+      sentence = "These leaves were gnawed on recently. He did come here today.",
+      voice = 2,
+      next = {24}
+    },
+    [24] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402107,
+      role3 = 402206,
+      role5 = 466401,
+      sentence = "Wait. I hear something over there.",
+      voice = 2,
+      next = {25}
+    },
+    [25] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402107,
+      role3 = 402206,
+      role5 = 466401,
+      sentence = "Seeing Gavin turn to the other side, I pricked up my ears and managed to capture a faint bell ring in the wind.",
+      sfx = "Sacred_Jingle",
+      next = {26}
+    },
+    [26] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402110,
+      role3 = 402206,
+      role5 = 466401,
+      ruchang = 9,
+      sentence = "Let's take a look.",
+      voice = 2,
+      next = {27}
+    },
+    [27] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "Following the bell sound for a while, we saw a familiar figure at the edge of the woods.",
+      next = {28}
+    },
+    [28] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "Standing under a tree, the alpha deer lowered his head from time to time to nudge a baby deer by his side while snorting softly.",
+      next = {29}
+    },
+    [29] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "Seeing bloodstains in the snow around, Gavin hurried down to check the wounds on the two reindeer.",
+      next = {30}
+    },
+    [30] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402110,
+      role3 = 402206,
+      role5 = 466401,
+      ruchang = -1,
+      sentence = "The baby deer is injured. The alpha deer must be protecting her.",
+      voice = 2,
+      next = {31}
+    },
+    [31] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402110,
+      role3 = 402206,
+      role5 = 466401,
+      ruchang = 9,
+      sentence = "But the injury isn't too bad. If we set out now, we should be able to guide them back before the storm.",
+      voice = 2,
+      next = {32}
+    },
+    [32] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "He took out a lead rope from the sleigh bag behind the alpha deer, but the moment he approached the baby deer, it looked startled and fled deeper into the forest with a limp.",
+      next = {33}
+    },
+    [33] = {
+      beijing = 3800,
+      dhead = 111,
+      dialog = 1,
+      music = "23_Lonely",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "!!!",
+      next = {34}
+    },
+    [34] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "My first instinct was to give chase, but Gavin grabbed me by my wrist.",
+      next = {35}
+    },
+    [35] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402110,
+      role3 = 402206,
+      role5 = 466401,
+      ruchang = -1,
+      sentence = "No rush. It's easy to get lost.",
+      voice = 2,
+      next = {36}
+    },
+    [36] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402110,
+      role3 = 402206,
+      role5 = 466401,
+      ruchang = 9,
+      sentence = "Let's keep the alpha deer in control first, or the rescue will be even more difficult.",
+      voice = 2,
+      next = {37}
+    },
+    [37] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "I gave it a thought, regained my calm, and suddenly remembered the package from Hansen.",
+      next = {38}
+    },
+    [38] = {
+      beijing = 3800,
+      dhead = 111,
+      dialog = 1,
+      music = "23_Lonely",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Maybe there's something in Hansen's kit that will come in handy?",
+      next = {39}
+    },
+    [39] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "Gavin nodded and laid the kit on the ground to check the labeled items one by one.",
+      next = {40}
+    },
+    [40] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402107,
+      role3 = 402206,
+      role5 = 466401,
+      ruchang = -1,
+      sentence = "Emergency food bars, medicine, thermal blankets, a satellite phone, signal lights...",
+      voice = 2,
+      next = {41}
+    },
+    [41] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402107,
+      role3 = 402202,
+      role5 = 466401,
+      sentence = "His eyes lit up when he saw the walkie-talkies.",
+      next = {42}
+    },
+    [42] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 466401,
+      sentence = "These walkie-talkies show radar signals. Let's each take one.",
+      voice = 2,
+      next = {43}
+    },
+    [43] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 466000,
+      role2 = 402110,
+      role3 = 402202,
+      role5 = 466401,
+      ruchang = 9,
+      sentence = "I'll follow the baby deer's footprints. You and the alpha deer wait here for me.",
+      voice = 2,
+      next = {44}
+    },
+    [44] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "I clutched the other walkie-talkie and held down the growing feeling of concern to force a smile at him.",
+      next = {45}
+    },
+    [45] = {
+      beijing = 3800,
+      dhead = 101,
+      dialog = 1,
+      music = "23_Lonely",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "Don't worry, your teammate $u will keep watch at home and leave the task of deer rescue to Commander Gavin.",
+      next = {46}
+    },
+    [46] = {
+      beijing = 3800,
+      dialog = 3,
+      music = "23_Lonely",
+      renwu = "npc",
+      sentence = "Gavin's gaze melted with a smile as he took off his scarf and draped it around my shoulders.",
+      next = {47}
+    },
+    [47] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 465000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 465401,
+      ruchang = -1,
+      sentence = "Commander Gavin's first order is—keep this scarf on and stay warm.",
+      voice = 2,
+      next = {48}
+    },
+    [48] = {
+      beijing = 3800,
+      dialog = 2,
+      idx = 4,
+      male = 4,
+      music = "23_Lonely",
+      renming = "Gavin",
+      renwu = "npc",
+      role1 = 465000,
+      role2 = 403111,
+      role3 = 403207,
+      role5 = 465401,
+      ruchang = 9,
+      sentence = "I'll be right back.",
+      voice = 2,
+      next = {0}
+    }
+  },
   [630053] = {
     [1] = {
       beijing = 2523,
@@ -9621,6 +10188,17 @@ story201 = {
       role3 = 301201,
       ruchang = 9,
       sentence = "并会永远保护你，我的公主。",
+      next = {0}
+    }
+  },
+  [842700] = {
+    [0] = {
+      beijing = 0,
+      dialog = 6,
+      hide_magnifier = 1,
+      music = "pause",
+      renwu = "npc",
+      video = "2025Prison",
       next = {0}
     }
   },

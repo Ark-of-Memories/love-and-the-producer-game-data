@@ -2900,5 +2900,280 @@ data = {
   [1700] = {
     library_id = 84,
     award_rewards = "140854,251,1"
+  },
+  [1701] = {library_id = 85, award_rewards = "1728,253,1"},
+  [1702] = {library_id = 85, award_rewards = "1729,253,1"},
+  [1703] = {library_id = 85, award_rewards = "1730,253,1"},
+  [1704] = {library_id = 85, award_rewards = "2732,253,1"},
+  [1705] = {library_id = 85, award_rewards = "2733,253,1"},
+  [1706] = {library_id = 85, award_rewards = "2734,253,1"},
+  [1707] = {library_id = 85, award_rewards = "3735,253,1"},
+  [1708] = {library_id = 85, award_rewards = "3736,253,1"},
+  [1709] = {library_id = 85, award_rewards = "3737,253,1"},
+  [1710] = {library_id = 85, award_rewards = "4740,253,1"},
+  [1711] = {library_id = 85, award_rewards = "4741,253,1"},
+  [1712] = {library_id = 85, award_rewards = "4742,253,1"},
+  [1713] = {library_id = 85, award_rewards = "6497,253,1"},
+  [1714] = {library_id = 85, award_rewards = "6498,253,1"},
+  [1715] = {library_id = 85, award_rewards = "6499,253,1"},
+  [1716] = {
+    library_id = 85,
+    award_rewards = "140860,251,1"
+  },
+  [1717] = {
+    library_id = 85,
+    award_rewards = "140861,251,1"
+  },
+  [1718] = {
+    library_id = 85,
+    award_rewards = "140862,251,1"
+  },
+  [1719] = {
+    library_id = 85,
+    award_rewards = "140863,251,1"
+  },
+  [1720] = {
+    library_id = 85,
+    award_rewards = "140864,251,1"
+  },
+  [1721] = {library_id = 86, award_rewards = "1736,253,1"},
+  [1722] = {library_id = 86, award_rewards = "1737,253,1"},
+  [1723] = {library_id = 86, award_rewards = "1738,253,1"},
+  [1724] = {library_id = 86, award_rewards = "2739,253,1"},
+  [1725] = {library_id = 86, award_rewards = "2740,253,1"},
+  [1726] = {library_id = 86, award_rewards = "2741,253,1"},
+  [1727] = {library_id = 86, award_rewards = "3745,253,1"},
+  [1728] = {library_id = 86, award_rewards = "3746,253,1"},
+  [1729] = {library_id = 86, award_rewards = "3747,253,1"},
+  [1730] = {library_id = 86, award_rewards = "4746,253,1"},
+  [1731] = {library_id = 86, award_rewards = "4747,253,1"},
+  [1732] = {library_id = 86, award_rewards = "4748,253,1"},
+  [1733] = {library_id = 86, award_rewards = "6503,253,1"},
+  [1734] = {library_id = 86, award_rewards = "6504,253,1"},
+  [1735] = {library_id = 86, award_rewards = "6505,253,1"},
+  [1736] = {
+    library_id = 86,
+    award_rewards = "140876,251,1"
+  },
+  [1737] = {
+    library_id = 86,
+    award_rewards = "140877,251,1"
+  },
+  [1738] = {
+    library_id = 86,
+    award_rewards = "140878,251,1"
+  },
+  [1739] = {
+    library_id = 86,
+    award_rewards = "140879,251,1"
+  },
+  [1740] = {
+    library_id = 86,
+    award_rewards = "140880,251,1"
+  },
+  [1741] = {library_id = 87, award_rewards = "1741,253,1"},
+  [1742] = {library_id = 87, award_rewards = "1742,253,1"},
+  [1743] = {library_id = 87, award_rewards = "1743,253,1"},
+  [1744] = {library_id = 87, award_rewards = "2743,253,1"},
+  [1745] = {library_id = 87, award_rewards = "2744,253,1"},
+  [1746] = {library_id = 87, award_rewards = "2745,253,1"},
+  [1747] = {library_id = 87, award_rewards = "3748,253,1"},
+  [1748] = {library_id = 87, award_rewards = "3749,253,1"},
+  [1749] = {library_id = 87, award_rewards = "3754,253,1"},
+  [1750] = {library_id = 87, award_rewards = "4749,253,1"},
+  [1751] = {library_id = 87, award_rewards = "4750,253,1"},
+  [1752] = {library_id = 87, award_rewards = "4751,253,1"},
+  [1753] = {library_id = 87, award_rewards = "6506,253,1"},
+  [1754] = {library_id = 87, award_rewards = "6507,253,1"},
+  [1755] = {library_id = 87, award_rewards = "6508,253,1"},
+  [1756] = {
+    library_id = 87,
+    award_rewards = "140882,251,1"
+  },
+  [1757] = {
+    library_id = 87,
+    award_rewards = "140883,251,1"
+  },
+  [1758] = {
+    library_id = 87,
+    award_rewards = "140884,251,1"
+  },
+  [1759] = {
+    library_id = 87,
+    award_rewards = "140885,251,1"
+  },
+  [1760] = {
+    library_id = 87,
+    award_rewards = "140886,251,1"
+  },
+  [1761] = {library_id = 88, award_rewards = "1747,253,1"},
+  [1762] = {library_id = 88, award_rewards = "1748,253,1"},
+  [1763] = {library_id = 88, award_rewards = "1749,253,1"},
+  [1764] = {library_id = 88, award_rewards = "2751,253,1"},
+  [1765] = {library_id = 88, award_rewards = "2752,253,1"},
+  [1766] = {library_id = 88, award_rewards = "2753,253,1"},
+  [1767] = {library_id = 88, award_rewards = "3755,253,1"},
+  [1768] = {library_id = 88, award_rewards = "3756,253,1"},
+  [1769] = {library_id = 88, award_rewards = "3757,253,1"},
+  [1770] = {library_id = 88, award_rewards = "4755,253,1"},
+  [1771] = {library_id = 88, award_rewards = "4756,253,1"},
+  [1772] = {library_id = 88, award_rewards = "4757,253,1"},
+  [1773] = {library_id = 88, award_rewards = "6510,253,1"},
+  [1774] = {library_id = 88, award_rewards = "6511,253,1"},
+  [1775] = {library_id = 88, award_rewards = "6512,253,1"},
+  [1776] = {
+    library_id = 88,
+    award_rewards = "140889,251,1"
+  },
+  [1777] = {
+    library_id = 88,
+    award_rewards = "140890,251,1"
+  },
+  [1778] = {
+    library_id = 88,
+    award_rewards = "140891,251,1"
+  },
+  [1779] = {
+    library_id = 88,
+    award_rewards = "140892,251,1"
+  },
+  [1780] = {
+    library_id = 88,
+    award_rewards = "140893,251,1"
+  },
+  [1781] = {library_id = 89, award_rewards = "1756,253,1"},
+  [1782] = {library_id = 89, award_rewards = "1757,253,1"},
+  [1783] = {library_id = 89, award_rewards = "1758,253,1"},
+  [1784] = {library_id = 89, award_rewards = "2759,253,1"},
+  [1785] = {library_id = 89, award_rewards = "2760,253,1"},
+  [1786] = {library_id = 89, award_rewards = "2761,253,1"},
+  [1787] = {library_id = 89, award_rewards = "3764,253,1"},
+  [1788] = {library_id = 89, award_rewards = "3765,253,1"},
+  [1789] = {library_id = 89, award_rewards = "3766,253,1"},
+  [1790] = {library_id = 89, award_rewards = "4765,253,1"},
+  [1791] = {library_id = 89, award_rewards = "4766,253,1"},
+  [1792] = {library_id = 89, award_rewards = "4767,253,1"},
+  [1793] = {library_id = 89, award_rewards = "6518,253,1"},
+  [1794] = {library_id = 89, award_rewards = "6519,253,1"},
+  [1795] = {library_id = 89, award_rewards = "6520,253,1"},
+  [1796] = {
+    library_id = 89,
+    award_rewards = "140900,251,1"
+  },
+  [1797] = {
+    library_id = 89,
+    award_rewards = "140901,251,1"
+  },
+  [1798] = {
+    library_id = 89,
+    award_rewards = "140902,251,1"
+  },
+  [1799] = {
+    library_id = 89,
+    award_rewards = "140903,251,1"
+  },
+  [1800] = {
+    library_id = 89,
+    award_rewards = "140904,251,1"
+  },
+  [1801] = {library_id = 90, award_rewards = "1764,253,1"},
+  [1802] = {library_id = 90, award_rewards = "1765,253,1"},
+  [1803] = {library_id = 90, award_rewards = "1766,253,1"},
+  [1804] = {library_id = 90, award_rewards = "2771,253,1"},
+  [1805] = {library_id = 90, award_rewards = "2772,253,1"},
+  [1806] = {library_id = 90, award_rewards = "2773,253,1"},
+  [1807] = {library_id = 90, award_rewards = "3776,253,1"},
+  [1808] = {library_id = 90, award_rewards = "3777,253,1"},
+  [1809] = {library_id = 90, award_rewards = "3778,253,1"},
+  [1810] = {library_id = 90, award_rewards = "4774,253,1"},
+  [1811] = {library_id = 90, award_rewards = "4775,253,1"},
+  [1812] = {library_id = 90, award_rewards = "4776,253,1"},
+  [1813] = {library_id = 90, award_rewards = "6526,253,1"},
+  [1814] = {library_id = 90, award_rewards = "6527,253,1"},
+  [1815] = {library_id = 90, award_rewards = "6528,253,1"},
+  [1816] = {
+    library_id = 90,
+    award_rewards = "140916,251,1"
+  },
+  [1817] = {
+    library_id = 90,
+    award_rewards = "140917,251,1"
+  },
+  [1818] = {
+    library_id = 90,
+    award_rewards = "140918,251,1"
+  },
+  [1819] = {
+    library_id = 90,
+    award_rewards = "140919,251,1"
+  },
+  [1820] = {
+    library_id = 90,
+    award_rewards = "140920,251,1"
+  },
+  [1821] = {library_id = 91, award_rewards = "1786,253,1"},
+  [1822] = {library_id = 91, award_rewards = "2787,253,1"},
+  [1823] = {library_id = 91, award_rewards = "3794,253,1"},
+  [1824] = {library_id = 91, award_rewards = "4789,253,1"},
+  [1825] = {library_id = 91, award_rewards = "6541,253,1"},
+  [1826] = {library_id = 91, award_rewards = "1787,253,1"},
+  [1827] = {library_id = 91, award_rewards = "2788,253,1"},
+  [1828] = {library_id = 91, award_rewards = "3795,253,1"},
+  [1829] = {library_id = 91, award_rewards = "4790,253,1"},
+  [1830] = {library_id = 91, award_rewards = "6542,253,1"},
+  [1831] = {library_id = 91, award_rewards = "1788,253,1"},
+  [1832] = {library_id = 91, award_rewards = "2789,253,1"},
+  [1833] = {library_id = 91, award_rewards = "3796,253,1"},
+  [1834] = {library_id = 91, award_rewards = "4791,253,1"},
+  [1835] = {library_id = 91, award_rewards = "6543,253,1"},
+  [1836] = {
+    library_id = 91,
+    award_rewards = "140965,251,1"
+  },
+  [1837] = {
+    library_id = 91,
+    award_rewards = "140966,251,1"
+  },
+  [1838] = {
+    library_id = 91,
+    award_rewards = "140967,251,1"
+  },
+  [1839] = {
+    library_id = 91,
+    award_rewards = "140968,251,1"
+  },
+  [1840] = {
+    library_id = 91,
+    award_rewards = "140969,251,1"
+  },
+  [1841] = {library_id = 92, award_rewards = "1781,253,1"},
+  [1842] = {library_id = 92, award_rewards = "2782,253,1"},
+  [1843] = {library_id = 92, award_rewards = "3789,253,1"},
+  [1844] = {library_id = 92, award_rewards = "4784,253,1"},
+  [1845] = {library_id = 92, award_rewards = "6536,253,1"},
+  [1846] = {library_id = 92, award_rewards = "1782,253,1"},
+  [1847] = {library_id = 92, award_rewards = "2783,253,1"},
+  [1848] = {library_id = 92, award_rewards = "3790,253,1"},
+  [1849] = {library_id = 92, award_rewards = "4785,253,1"},
+  [1850] = {library_id = 92, award_rewards = "6537,253,1"},
+  [1851] = {
+    library_id = 92,
+    award_rewards = "140960,251,1"
+  },
+  [1852] = {
+    library_id = 92,
+    award_rewards = "140961,251,1"
+  },
+  [1853] = {
+    library_id = 92,
+    award_rewards = "140962,251,1"
+  },
+  [1854] = {
+    library_id = 92,
+    award_rewards = "140963,251,1"
+  },
+  [1855] = {
+    library_id = 92,
+    award_rewards = "140964,251,1"
   }
 }

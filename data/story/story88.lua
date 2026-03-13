@@ -9353,6 +9353,387 @@ story88 = {
       sentence = "我想，大概是“我迫不及待想要见到你”。",
       next = {0}
     }
+  },
+  [836521] = {
+    [1] = {
+      beijing = 4677,
+      dialog = 3,
+      game_params = 4209,
+      game_type = "Postcard2024",
+      music = "1015_2023anniversary_rv",
+      renwu = "npc",
+      next = {2}
+    },
+    [2] = {
+      beijing = 4677,
+      dialog = 3,
+      music = "1015_2023anniversary_rv",
+      renwu = "npc",
+      sentence = "等待着他读信的分秒恍然被拉得很长，回神对上那双灼灼的眸子时，只剩了心跳如雷。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 4677,
+      dialog = 3,
+      music = "1015_2023anniversary_rv",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703101,
+      role3 = 703201,
+      ruchang = -1,
+      sentence = "我紧张地微微抿了抿唇，偷偷瞥了他一眼，恰好和那抹投来的视线撞到了一起。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 4677,
+      dialog = 3,
+      music = "1015_2023anniversary_rv",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "向来习惯欣赏我脸红无措的凌肖，破天荒地率先开口了。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 4677,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "1015_2023anniversary_rv",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703104,
+      role3 = 703201,
+      sentence = "还挺会写的……",
+      voice = 1,
+      next = {6}
+    },
+    [6] = {
+      beijing = 4677,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "1015_2023anniversary_rv",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "不知道是不是特别“情真意切”的原因。",
+      voice = 1,
+      next = {7}
+    },
+    [7] = {
+      beijing = 4677,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "1015_2023anniversary_rv",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703101,
+      role3 = 703201,
+      ruchang = 9,
+      sentence = "难得有东西让我看了一遍后，还想再看一遍。",
+      voice = 1,
+      next = {8}
+    },
+    [8] = {
+      beijing = 4677,
+      dialog = 3,
+      music = "1015_2023anniversary_rv",
+      renwu = "npc",
+      sentence = "他的手指拈起信纸，举在了自己的眼前。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 4677,
+      dialog = 3,
+      music = "1015_2023anniversary_rv",
+      renwu = "npc",
+      sentence = "我一时分不清他这么郑重的语气是在开玩笑，还是说真的。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 4677,
+      dialog = 3,
+      music = "1015_2023anniversary_rv",
+      renwu = "npc",
+      sentence = "热意涌上脑袋，我下意识地想拿回来。",
+      next = {11}
+    },
+    [11] = {
+      beijing = 4677,
+      dhead = 112,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "你不是说自己记忆力不错嘛？干嘛要看第二遍。",
+      next = {12}
+    },
+    [12] = {
+      beijing = 4677,
+      dialog = 3,
+      music = "1015_2023anniversary_rv",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703102,
+      role3 = 703201,
+      ruchang = -1,
+      sentence = "他一把握住我争夺的指尖，轻轻地卷入他的掌心。",
+      next = {13}
+    },
+    [13] = {
+      beijing = 4677,
+      dialog = 3,
+      music = "1015_2023anniversary_rv",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703102,
+      role3 = 703201,
+      sentence = "潮热的触感，炙热而压迫，仿佛有电流酥麻地蔓延在我每一寸与他紧贴的肌肤里。",
+      next = {14}
+    },
+    [14] = {
+      beijing = 4677,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "1015_2023anniversary_rv",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703104,
+      role3 = 703201,
+      sentence = "这个东西现在是我的了，我看几遍都行。",
+      voice = 1,
+      next = {15}
+    },
+    [15] = {
+      beijing = 4677,
+      dialog = 3,
+      music = "1015_2023anniversary_rv",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703104,
+      role3 = 703201,
+      sentence = "他撩起眉毛，动作一如既往地散漫，可瞳孔明亮而坚定。",
+      next = {16}
+    },
+    [16] = {
+      beijing = 4677,
+      dhead = 112,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703101,
+      role3 = 703201,
+      sentence = "……反正你现在别看了！",
+      next = {17}
+    },
+    [17] = {
+      beijing = 4677,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "1015_2023anniversary_rv",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703104,
+      role3 = 703201,
+      sentence = "行吧，给你个面子。",
+      voice = 1,
+      next = {18}
+    },
+    [18] = {
+      beijing = 4677,
+      dialog = 2,
+      idx = 8,
+      male = 8,
+      music = "1015_2023anniversary_rv",
+      renming = "凌肖",
+      renwu = "npc",
+      role1 = 719000,
+      role2 = 703104,
+      role3 = 703201,
+      ruchang = 9,
+      sentence = "不过我之后打算把它给裱起来，挂到随便一抬头就能看到的地方。你要是想要回去可就没那么容易了。",
+      voice = 1,
+      next = {19}
+    },
+    [19] = {
+      beijing = 4677,
+      dhead = 109,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "哼，我会想办法“赎回”它的。",
+      next = {20}
+    },
+    [20] = {
+      beijing = 4677,
+      dialog = 3,
+      music = "1015_2023anniversary_rv",
+      renwu = "npc",
+      sentence = "我强忍着要翘起的嘴角，故意朝他哼了一声，摸起桌子上的另外一封信。",
+      next = {21}
+    },
+    [21] = {
+      beijing = 4677,
+      dhead = 107,
+      dialog = 1,
+      music = "1015_2023anniversary_rv",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "那这位凌肖同学的信，现在也是我的了。",
+      next = {0}
+    }
+  },
+  [839217] = {
+    [1] = {
+      beijing = 1741,
+      dhead = 110,
+      dialog = 1,
+      music = "1022_2024Summer_Zoo",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "你居然还会做草编吗？",
+      next = {2}
+    },
+    [2] = {
+      beijing = 1741,
+      dialog = 3,
+      music = "1022_2024Summer_Zoo",
+      renwu = "npc",
+      sentence = "我意外地看着在一堆枯黄枝叶中埋首编织的李泽言。",
+      next = {3}
+    },
+    [3] = {
+      beijing = 1741,
+      dialog = 3,
+      music = "1022_2024Summer_Zoo",
+      renwu = "npc",
+      role1 = 112000,
+      role2 = 102102,
+      role3 = 102203,
+      role5 = 112402,
+      ruchang = -1,
+      sentence = "他手上动作不停，轻轻“嗯”了一声。",
+      next = {4}
+    },
+    [4] = {
+      beijing = 1741,
+      dialog = 2,
+      idx = 1,
+      music = "1022_2024Summer_Zoo",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 112000,
+      role2 = 102102,
+      role3 = 102203,
+      role5 = 112402,
+      ruchang = 9,
+      sentence = "节目组发的小册子里正好有草编坐垫的教程，看了一下，不算复杂。",
+      next = {5}
+    },
+    [5] = {
+      beijing = 1741,
+      dhead = 113,
+      dialog = 1,
+      music = "1022_2024Summer_Zoo",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "那我也要试试看~",
+      next = {6}
+    },
+    [6] = {
+      beijing = 1741,
+      dialog = 3,
+      music = "1022_2024Summer_Zoo",
+      renwu = "npc",
+      sentence = "见我伸手，他黑色的眼瞳微微睁大，似乎想要把我探出的手按住，可终究还是慢了一步。",
+      next = {7}
+    },
+    [7] = {
+      beijing = 1741,
+      dhead = 110,
+      dialog = 1,
+      music = "1022_2024Summer_Zoo",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "咦？这底下有什么？",
+      next = {8}
+    },
+    [8] = {
+      beijing = 1741,
+      dialog = 3,
+      music = "1022_2024Summer_Zoo",
+      renwu = "npc",
+      sentence = "我疑惑地把掩盖在枝叶下的东西抽出来，发现是块跟他手里有些相似的垫子。",
+      next = {9}
+    },
+    [9] = {
+      beijing = 1741,
+      dialog = 3,
+      music = "1022_2024Summer_Zoo",
+      renwu = "npc",
+      sentence = "只是这块垫子上有不少漏编造成的洞口，收口处也潦潦草草的。",
+      next = {10}
+    },
+    [10] = {
+      beijing = 1741,
+      dhead = 111,
+      dialog = 1,
+      music = "1022_2024Summer_Zoo",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "这是……",
+      next = {11}
+    },
+    [11] = {
+      beijing = 1741,
+      dialog = 3,
+      music = "1022_2024Summer_Zoo",
+      renwu = "npc",
+      role1 = 111000,
+      role2 = 101101,
+      role3 = 101201,
+      ruchang = -1,
+      sentence = "他的脸上难得出现一丝尴尬，把我手上的坐垫塞到身下。",
+      next = {12}
+    },
+    [12] = {
+      beijing = 1741,
+      dialog = 2,
+      idx = 1,
+      music = "1022_2024Summer_Zoo",
+      renming = "李泽言",
+      renwu = "npc",
+      role1 = 111000,
+      role2 = 101107,
+      role3 = 101201,
+      ruchang = 9,
+      sentence = "……之前练手的失败作。",
+      next = {13}
+    },
+    [13] = {
+      beijing = 1741,
+      dhead = 114,
+      dialog = 1,
+      music = "1022_2024Summer_Zoo",
+      renming = "$u",
+      renwu = "npc",
+      sentence = "噗哈哈哈哈！",
+      next = {0}
+    }
   }
 }
 return story88
