@@ -1,0 +1,23 @@
+
+Ê
+GridTagInfo.protoGridTagInfo"t
+
+TileMapTag1
+selfGrid (2.GridTagInfo.GridInfoRselfGrid3
+	buildGrid (2.GridTagInfo.GridInfoR	buildGrid"Å
+GridInfo
+id (Rid)
+tags (2.GridTagInfo.CellInfoRtags
+	colNumber (R	colNumber
+	rowNumber (R	rowNumber
+angle (Rangle
+rotation (Rrotation
+
+rotateType (R
+rotateType
+width (Rwidth
+height	 (Rheight"B
+CellInfo
+col (Rcol
+row (Rrow
+tags (	Rtagsbproto3

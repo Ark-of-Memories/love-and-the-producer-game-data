@@ -239096,6 +239096,7 @@ data = {
     },
     [3] = {
       next = "4",
+      renming = "$u",
       dialog = 1,
       dhead = 108,
       sentence = "Almost done. I way underestimated how much stuff I had. I can't even carry this huge box anymore!"
@@ -239111,12 +239112,14 @@ data = {
     },
     [5] = {
       next = "6",
+      renming = "$u",
       dialog = 1,
       dhead = 108,
       sentence = "I was going through the contents of the box. There are so many clothes that I bought but rarely wore."
     },
     [6] = {
       next = "7",
+      renming = "$u",
       dialog = 1,
       dhead = 108,
       sentence = "I'm going to curb back on my clothes shopping in the future!"
@@ -239141,6 +239144,7 @@ data = {
     },
     [9] = {
       next = "10",
+      renming = "$u",
       dialog = 1,
       dhead = 108,
       sentence = "Ahem, I'm serious this time!"
@@ -239156,6 +239160,7 @@ data = {
     },
     [11] = {
       next = "12",
+      renming = "$u",
       dialog = 1,
       dhead = 108,
       sentence = "By the way, is there anything you'd like to auction off?"
@@ -239180,6 +239185,7 @@ data = {
     },
     [14] = {
       next = "15",
+      renming = "$u",
       dialog = 1,
       dhead = 108,
       sentence = "Wow. What did you bring?"
@@ -239204,12 +239210,14 @@ data = {
     },
     [17] = {
       next = "18",
+      renming = "$u",
       dialog = 1,
       dhead = 108,
       sentence = "I'm sure the kids would love the models handmade by you."
     },
     [18] = {
       next = "19",
+      renming = "$u",
       dialog = 1,
       dhead = 108,
       sentence = "Come to think of it, I'd love to have them too. How about selling them to me? I'll trade my dolls for them."

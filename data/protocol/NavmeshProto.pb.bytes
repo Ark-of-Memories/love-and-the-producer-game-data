@@ -1,0 +1,31 @@
+
+¸
+NavmeshProto.protoNavmeshProto"Ý
+BaseNavmesh"
+iGridOffsetX (RiGridOffsetX"
+iGridOffsetZ (RiGridOffsetZ
+	iGridWith (R	iGridWith 
+iGridHeight (RiGridHeight
+meshType (RmeshType*
+mesh (2.NavmeshProto.MeshInfoRmesh"_
+MeshInfo%
+key (2.NavmeshProto.PointRkey,
+value (2.NavmeshProto.NodeInfoRvalue"#
+Point
+x (Rx
+y (Ry"­
+NodeInfo
+id (Rid
+Miny (RMiny
+MaxY (RMaxY
+ZOrder (RZOrder
+Passable (RPassable-
+GridPos (2.NavmeshProto.PointRGridPos
+iAreaID (RiAreaID
+face (Rface
+idleTime	 (RidleTime
+	strAction
+ (	R	strAction
+
+NextNodeID (R
+NextNodeID

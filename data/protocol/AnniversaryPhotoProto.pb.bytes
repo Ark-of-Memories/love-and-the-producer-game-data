@@ -1,0 +1,40 @@
+
+É
+AnniversaryPhotoProto.protoanniversary.photo"™
+Girl
+animName (	RanimName
+animTime (RanimTime
+position (Rposition
+scale (Rscale
+
+ornamentId (R
+ornamentId
+clothes (Rclothes"p
+Male
+animName (	RanimName
+animTime (RanimTime
+position (Rposition
+scale (Rscale"F
+Camera
+position (Rposition 
+cameraScale (RcameraScale"4
+Paster
+id (Rid
+position (Rposition"G
+Weather
+state (Rstate&
+normalizedTime (RnormalizedTime"X
+SceneAnimation
+id (	Rid
+animName (	RanimName
+animTime (RanimTime"ê
+Photo+
+girl (2.anniversary.photo.GirlRgirl+
+male (2.anniversary.photo.MaleRmale1
+camera (2.anniversary.photo.CameraRcamera1
+paster (2.anniversary.photo.PasterRpaster4
+weather (2.anniversary.photo.WeatherRweatherK
+sceneAnimations (2!.anniversary.photo.SceneAnimationRsceneAnimations
+levelId (RlevelId
+roleId (RroleId
+area	 (	Rarea

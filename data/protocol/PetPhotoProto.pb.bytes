@@ -1,0 +1,42 @@
+
+´
+PetPhotoProto.proto	pet.photo"l
+SpineAnimationInfo
+target (	Rtarget
+
+actionName (	R
+actionName
+
+actionTime (R
+actionTime"j
+BackgroundInfo
+id (Rid
+scale (Rscale
+position (Rposition
+status (Rstatus"Ê
+PetInfo
+id (Rid
+scale (Rscale
+position (Rposition;
+	animation (2.pet.photo.SpineAnimationInfoR	animation
+poseID (RposeID(
+accessoryIDList (RaccessoryIDList"¦
+FurnitureInfo
+id (Rid
+scale (Rscale
+position (Rposition;
+	animation (2.pet.photo.SpineAnimationInfoR	animation
+status (Rstatus"Æ
+PhotoDetailV1)
+bg (2.pet.photo.BackgroundInfoRbg&
+pets (2.pet.photo.PetInfoRpets8
+
+furnitures (2.pet.photo.FurnitureInfoR
+furnitures
+event (Revent
+type (Rtype"y
+Photo
+version (Rversion
+roleID (RroleID(
+v1 (2.pet.photo.PhotoDetailV1Rv1
+block (Rblock

@@ -1,0 +1,21 @@
+
+°
+JournalStickerProto.protojournal"ó
+Sticker
+id (Rid
+x (Rx
+y (Ry
+rotation (Rrotation
+scale (Rscale
+width (Rwidth
+height (Rheight
+color (Rcolor
+depth	 (Rdepth
+cardID
+ (RcardID
+frameID (RframeID"“
+StickerData
+themeID (RthemeID
+paperID (RpaperID,
+stickers (2.journal.StickerRstickers"
+themeVersion (RthemeVersion
